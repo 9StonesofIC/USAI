@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29455,32.68581,-80.08604,Johns Island,SC,South Carolina,True,,22492.0,86.6,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York,"(32.68581, -80.08604)",2.897834374305322,22492.0,19071_0_yes,32.66501126726034,-80.0427721506809,5.0

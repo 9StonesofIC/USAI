@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31049,32.68281,-82.52634,Kite,GA,Georgia,True,,1769.0,7.5,13167,Johnson,"{""13167"": 80.15, ""13107"": 19.85}",Johnson|Emanuel,13167|13107,False,False,America/New_York,"(32.68281, -82.52634)",4.878870155876282,1769.0,19085_0_yes,32.66665302937313,-82.44467745002152,5.0

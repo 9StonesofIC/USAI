@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21530,39.68878,-78.54138,Flintstone,MD,Maryland,True,,1923.0,12.2,24001,Allegany,"{""24001"": 100}",Allegany,24001,False,False,America/New_York,"(39.68878, -78.54138)",1.2855120974152119,1923.0,35213_0_no,39.69240710479472,-78.56509454346094,5.0

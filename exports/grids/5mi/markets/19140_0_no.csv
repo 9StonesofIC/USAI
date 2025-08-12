@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75661,32.63908,-94.15655,Karnack,TX,Texas,True,,2586.0,7.8,48203,Harrison,"{""48203"": 100}",Harrison,48203,False,False,America/Chicago,"(32.63908, -94.15655)",4.893925791647253,2586.0,19140_0_no,32.602223520925186,-94.22836421360093,5.0

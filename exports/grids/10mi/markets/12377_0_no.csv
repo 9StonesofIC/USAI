@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99348,46.38681,-118.44731,Prescott,WA,Washington,True,,1538.0,1.1,53071,Walla Walla,"{""53071"": 95.91, ""53013"": 4.09}",Walla Walla|Columbia,53071|53013,False,False,America/Los_Angeles,"(46.38681, -118.44731)",7.993348920800691,1538.0,12377_0_no,46.309670409315096,-118.57221321628444,10.0

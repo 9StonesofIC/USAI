@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03227,43.81419,-71.45712,Center Sandwich,NH,New Hampshire,True,,1126.0,8.5,33003,Carroll,"{""33003"": 100}",Carroll,33003,False,False,America/New_York,"(43.81419, -71.45712)",5.086646420229021,1533.0,44017_0_no,43.88492076394889,-71.42880240040232,5.0
+03259,43.87921,-71.44527,North Sandwich,NH,New Hampshire,True,,407.0,4.7,33003,Carroll,"{""33003"": 100}",Carroll,33003,False,False,America/New_York,"(43.87921, -71.44527)",0.910077579289165,1533.0,44017_0_no,43.88492076394889,-71.42880240040232,5.0

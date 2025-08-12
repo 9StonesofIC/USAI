@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79503,32.89003,-99.69033,Avoca,TX,Texas,True,,137.0,0.7,48253,Jones,"{""48253"": 86.99, ""48207"": 13.01}",Jones|Haskell,48253|48207,False,False,America/Chicago,"(32.89003, -99.69033)",5.2222690351279235,137.0,19530_0_yes,32.82352072985911,-99.73307415859956,5.0

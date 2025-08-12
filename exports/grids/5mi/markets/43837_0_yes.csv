@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54968,43.84872,-89.13255,Princeton,WI,Wisconsin,True,,2873.0,18.1,55047,Green Lake,"{""55047"": 81.88, ""55077"": 18.12}",Green Lake|Marquette,55047|55077,False,False,America/Chicago,"(43.84872, -89.13255)",2.6529735886785946,2873.0,43837_0_yes,43.828045692508326,-89.17740779437557,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67657,39.21126,-99.60811,Palco,KS,Kansas,True,,217.0,0.7,20163,Rooks,"{""20163"": 50.32, ""20065"": 48.57, ""20195"": 1.11}",Rooks|Graham|Trego,20163|20065|20195,False,False,America/Chicago,"(39.21126, -99.60811)",3.507447520808896,217.0,8587_0_yes,39.18203329594316,-99.66166771555788,10.0

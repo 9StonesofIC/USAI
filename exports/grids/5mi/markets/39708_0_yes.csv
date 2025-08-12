@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69341,41.74154,-103.67937,Gering,NE,Nebraska,True,,10673.0,19.9,31157,Scotts Bluff,"{""31157"": 81.56, ""31007"": 18.44}",Scotts Bluff|Banner,31157|31007,False,False,America/Denver,"(41.74154, -103.67937)",5.000221492583707,10673.0,39708_0_yes,41.8132810483588,-103.6921262463086,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54435,45.35084,-89.44349,Gleason,WI,Wisconsin,True,,1959.0,3.8,55069,Lincoln,"{""55069"": 58.77, ""55067"": 41.23}",Lincoln|Langlade,55069|55067,False,False,America/Chicago,"(45.35084, -89.44349)",4.96702897799013,1959.0,47044_0_yes,45.42042620109085,-89.4177926997832,5.0

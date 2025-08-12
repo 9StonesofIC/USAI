@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43946,39.64792,-80.96887,Sardis,OH,Ohio,True,,2195.0,14.8,39111,Monroe,"{""39111"": 100}",Monroe,39111,False,False,America/New_York,"(39.64792, -80.96887)",3.719859888147286,2195.0,35226_0_no,39.69437761058992,-81.00421687983614,5.0

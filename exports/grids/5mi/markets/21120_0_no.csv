@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29146,33.50816,-81.29812,Springfield,SC,South Carolina,True,,1380.0,8.9,45075,Orangeburg,"{""45075"": 66.63, ""45003"": 33.37}",Orangeburg|Aiken,45075|45003,False,False,America/New_York,"(33.50816, -81.29812)",3.1656500201290547,1380.0,21120_0_no,33.46335135528409,-81.28665842279423,5.0

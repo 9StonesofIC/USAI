@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98841,48.37602,-119.29817,Omak,WA,Washington,True,,9335.0,12.2,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.37602, -119.29817)",5.405945288573554,9335.0,13348_0_no,48.33703746191676,-119.19607976133852,10.0

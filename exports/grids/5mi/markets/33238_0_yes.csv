@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89410,38.78368,-119.54802,Gardnerville,NV,Nevada,True,,10992.0,18.4,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles,"(38.78368, -119.54802)",4.3381336078302715,10992.0,33238_0_yes,38.78339950008141,-119.6285644835868,5.0

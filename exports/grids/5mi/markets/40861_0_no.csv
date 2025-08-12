@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68728,42.38085,-96.93641,Concord,NE,Nebraska,True,,262.0,4.2,31051,Dixon,"{""31051"": 100}",Dixon,31051,False,False,America/Chicago,"(42.38085, -96.93641)",5.612671396670817,262.0,40861_0_no,42.314564355174674,-96.99994619530328,5.0

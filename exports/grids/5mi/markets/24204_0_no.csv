@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35616,34.7382,-88.01889,Cherokee,AL,Alabama,True,,3643.0,6.5,1033,Colbert,"{""01033"": 100}",Colbert,01033,False,False,America/Chicago,"(34.7382, -88.01889)",2.7667719562844884,3643.0,24204_0_no,34.77291427884385,-87.99459467082941,5.0

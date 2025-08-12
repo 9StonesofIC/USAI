@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04497,45.7249,-68.06619,Wytopitlock,ME,Maine,True,,326.0,0.6,23003,Aroostook,"{""23003"": 82.9, ""23019"": 17.1}",Aroostook|Penobscot,23003|23019,False,False,America/New_York,"(45.7249, -68.06619)",3.991651890332794,326.0,47773_0_no,45.762886065737234,-68.00381781561259,5.0

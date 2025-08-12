@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97358,44.80681,-122.40702,Lyons,OR,Oregon,True,,2610.0,11.4,41047,Marion,"{""41047"": 76.51, ""41043"": 23.49}",Marion|Linn,41047|41043,False,False,America/Los_Angeles,"(44.80681, -122.40702)",5.1702784610192465,2610.0,46050_0_yes,44.870861195285215,-122.35245557599964,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49829,45.76773,-87.16522,Escanaba,MI,Michigan,True,,16704.0,96.6,26041,Delta,"{""26041"": 100}",Delta,26041,False,False,America/Detroit,"(45.76773, -87.16522)",4.140406903247701,16704.0,47607_0_yes,45.70783135226561,-87.16775463597213,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95017,37.10529,-122.22913,Davenport,CA,California,True,,831.0,5.1,6087,Santa Cruz,"{""06087"": 100}",Santa Cruz,06087,False,False,America/Los_Angeles,"(37.10529, -122.22913)",21.384807429814874,831.0,1924_0_no,36.8958032288434,-122.51441370523308,20.0

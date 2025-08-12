@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41144,38.53461,-82.91208,Greenup,KY,Kentucky,True,,9992.0,27.3,21089,Greenup,"{""21089"": 100}",Greenup,21089,False,False,America/New_York,"(38.53461, -82.91208)",5.204512411421765,9992.0,32400_0_yes,38.464600539821895,-82.94759749642334,5.0

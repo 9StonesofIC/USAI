@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64752,38.0689,-94.56862,Hume,MO,Missouri,True,,622.0,3.5,29217,Vernon,"{""29217"": 52.3, ""29013"": 47.7}",Vernon|Bates,29217|29013,False,False,America/Chicago,"(38.0689, -94.56862)",2.0872463920728905,622.0,31499_0_yes,38.03901940981608,-94.56297807708135,5.0

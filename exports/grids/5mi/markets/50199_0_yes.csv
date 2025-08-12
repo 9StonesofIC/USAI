@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58002,46.97562,-97.40785,Absaraka,ND,North Dakota,True,,5.0,0.6,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(46.97562, -97.40785)",4.402433911849562,99.0,50199_0_yes,47.01962225517076,-97.47541802977888,5.0
+58007,47.02519,-97.45724,Ayr,ND,North Dakota,True,,94.0,0.7,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(47.02519, -97.45724)",0.9386693020272929,99.0,50199_0_yes,47.01962225517076,-97.47541802977888,5.0

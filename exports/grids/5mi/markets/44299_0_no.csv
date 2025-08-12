@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04863,44.07898,-68.84384,Vinalhaven,ME,Maine,True,,932.0,15.4,23013,Knox,"{""23013"": 100}",Knox,23013,False,False,America/New_York,"(44.07898, -68.84384)",4.230130017509644,932.0,44299_0_no,44.0274079130969,-68.88974852595061,5.0

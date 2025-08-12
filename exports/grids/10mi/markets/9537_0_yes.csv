@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80726,40.91044,-102.7773,Crook,CO,Colorado,True,,471.0,1.2,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.91044, -102.7773)",2.9513952393141167,955.0,9537_0_yes,40.92506805215505,-102.8304108591997,10.0
+80736,40.81635,-103.01907,Iliff,CO,Colorado,True,,484.0,1.4,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.81635, -103.01907)",12.39297417984135,955.0,9537_0_yes,40.92506805215505,-102.8304108591997,10.0

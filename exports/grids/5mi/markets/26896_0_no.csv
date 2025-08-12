@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72636,35.99121,-92.71651,Gilbert,AR,Arkansas,True,,3.0,7.4,5129,Searcy,"{""05129"": 100}",Searcy,05129,False,False,America/Chicago,"(35.99121, -92.71651)",5.962589863548185,4094.0,26896_0_no,35.9360301058082,-92.63453359341447,5.0
+72650,35.87938,-92.69308,Marshall,AR,Arkansas,True,,4091.0,5.8,5129,Searcy,"{""05129"": 97.05, ""05137"": 2.95}",Searcy|Stone,05129|05137,False,False,America/Chicago,"(35.87938, -92.69308)",5.104469749850565,4094.0,26896_0_no,35.9360301058082,-92.63453359341447,5.0

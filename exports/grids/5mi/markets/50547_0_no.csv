@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99017,47.1829,-117.87611,Lamont,WA,Washington,True,,131.0,0.6,53075,Whitman,"{""53075"": 100}",Whitman,53075,False,False,America/Los_Angeles,"(47.1829, -117.87611)",5.429793286820768,131.0,50547_0_no,47.11094802834773,-117.9225759333603,5.0

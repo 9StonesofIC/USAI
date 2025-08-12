@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64664,39.74601,-93.66027,Mooresville,MO,Missouri,True,,314.0,2.5,29117,Livingston,"{""29117"": 100}",Livingston,29117,False,False,America/Chicago,"(39.74601, -93.66027)",5.3085959877397775,536.0,35293_0_no,39.70453546741638,-93.5761782547411,5.0
+64686,39.75005,-93.62449,Utica,MO,Missouri,True,,222.0,54.9,29117,Livingston,"{""29117"": 100}",Livingston,29117,False,False,America/Chicago,"(39.75005, -93.62449)",4.0595928448967555,536.0,35293_0_no,39.70453546741638,-93.5761782547411,5.0

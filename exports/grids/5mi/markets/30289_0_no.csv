@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84781,37.41197,-113.47217,Pine Valley,UT,Utah,True,,122.0,0.6,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver,"(37.41197, -113.47217)",0.752396615044838,122.0,30289_0_no,37.40144544793181,-113.46865042628984,5.0

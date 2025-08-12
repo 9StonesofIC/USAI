@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34134,26.36634,-81.83503,Bonita Springs,FL,Florida,True,,15208.0,436.8,12071,Lee,"{""12071"": 89.52, ""12021"": 10.48}",Lee|Collier,12071|12021,False,False,America/New_York,"(26.36634, -81.83503)",11.590756787798012,15208.0,971_0_no,26.259229600168368,-81.97906227182028,10.0

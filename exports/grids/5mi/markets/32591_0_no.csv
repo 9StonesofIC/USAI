@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95625,38.35728,-121.90861,Elmira,CA,California,True,,175.0,73.4,6095,Solano,"{""06095"": 100}",Solano,06095,False,False,America/Los_Angeles,"(38.35728, -121.90861)",5.67166707142523,38289.0,32591_0_no,38.42287758532124,-121.97156982776956,5.0
+95688,38.41901,-122.02571,Vacaville,CA,California,True,,38114.0,160.0,6095,Solano,"{""06095"": 100}",Solano,06095,False,False,America/Los_Angeles,"(38.41901, -122.02571)",2.942893298660968,38289.0,32591_0_no,38.42287758532124,-121.97156982776956,5.0

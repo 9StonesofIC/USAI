@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98512,46.95326,-123.04259,Olympia,WA,Washington,True,,30833.0,85.8,53067,Thurston,"{""53067"": 100}",Thurston,53067,False,False,America/Los_Angeles,"(46.95326, -123.04259)",4.627837320788521,30833.0,50041_0_yes,46.89854875557858,-123.0991662201461,5.0

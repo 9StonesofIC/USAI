@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64465,39.54853,-94.29525,Lathrop,MO,Missouri,True,,4050.0,16.6,29049,Clinton,"{""29049"": 86.28, ""29025"": 13.72}",Clinton|Caldwell,29049|29025,False,False,America/Chicago,"(39.54853, -94.29525)",4.963073321263394,4050.0,34982_0_no,39.560167978164856,-94.20331695196674,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71970,34.66686,-93.49024,Story,AR,Arkansas,True,,714.0,3.6,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago,"(34.66686, -93.49024)",2.474259105737307,714.0,23899_0_no,34.631901311808654,-93.49967713948732,5.0

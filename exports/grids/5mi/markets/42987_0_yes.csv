@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57015,43.42182,-96.98006,Chancellor,SD,South Dakota,True,,728.0,5.7,46125,Turner,"{""46125"": 97.97, ""46099"": 2.03}",Turner|Minnehaha,46125|46099,False,False,America/Chicago,"(43.42182, -96.98006)",1.4793493355880816,728.0,42987_0_yes,43.40052532544272,-96.98312628678558,5.0

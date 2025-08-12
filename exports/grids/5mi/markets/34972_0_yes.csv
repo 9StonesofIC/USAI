@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61910,39.67283,-88.30035,Arcola,IL,Illinois,True,,4848.0,18.3,17041,Douglas,"{""17041"": 67.27, ""17029"": 32.73}",Douglas|Coles,17041|17029,False,False,America/Chicago,"(39.67283, -88.30035)",4.023241533727628,4848.0,34972_0_yes,39.627761318477255,-88.25246336597083,5.0

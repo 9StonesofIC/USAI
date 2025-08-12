@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49916,46.97891,-88.59519,Chassell,MI,Michigan,True,,3020.0,10.6,26061,Houghton,"{""26061"": 100}",Houghton,26061,False,False,America/Detroit,"(46.97891, -88.59519)",2.289836407061932,3906.0,50157_0_yes,47.011406789406514,-88.58565491773172,5.0
+49963,47.04897,-88.64002,South Range,MI,Michigan,True,,886.0,77.8,26061,Houghton,"{""26061"": 100}",Houghton,26061,False,False,America/Detroit,"(47.04897, -88.64002)",3.645709134258323,3906.0,50157_0_yes,47.011406789406514,-88.58565491773172,5.0

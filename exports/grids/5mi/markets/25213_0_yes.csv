@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37387,35.27745,-85.71427,Tracy City,TN,Tennessee,True,,3358.0,17.5,47061,Grundy,"{""47061"": 68.72, ""47115"": 31.28}",Grundy|Marion,47061|47115,False,False,America/Chicago,"(35.27745, -85.71427)",0.4721756032831029,3358.0,25213_0_yes,35.27859751147096,-85.72252230040141,5.0

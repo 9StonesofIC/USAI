@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62423,39.46208,-87.5819,Dennison,IL,Illinois,True,,546.0,8.7,17023,Clark,"{""17023"": 66.56, ""17045"": 33.44}",Clark|Edgar,17023|17045,False,False,America/Chicago,"(39.46208, -87.5819)",4.248391487003558,546.0,34631_0_no,39.40993848123091,-87.53970555393485,5.0

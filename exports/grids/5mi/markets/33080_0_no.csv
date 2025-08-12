@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64090,38.75991,-94.16387,Strasburg,MO,Missouri,True,,154.0,411.4,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago,"(38.75991, -94.16387)",5.35134899758071,338.0,33080_0_no,38.69085418230502,-94.20882333868606,5.0
+64743,38.66596,-94.21827,East Lynne,MO,Missouri,True,,184.0,52.2,29037,Cass,"{""29037"": 100}",Cass,29037,False,False,America/Chicago,"(38.66596, -94.21827)",1.7939109604237775,338.0,33080_0_no,38.69085418230502,-94.20882333868606,5.0

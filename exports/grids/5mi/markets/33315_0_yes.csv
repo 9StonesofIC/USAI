@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08212,38.93721,-74.96509,Cape May Point,NJ,New Jersey,True,,165.0,216.0,34009,Cape May,"{""34009"": 100}",Cape May,34009,False,False,America/New_York,"(38.93721, -74.96509)",4.61504273095529,165.0,33315_0_yes,38.89281446486654,-74.90095124714792,5.0

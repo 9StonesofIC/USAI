@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50048,41.51167,-94.51936,Casey,IA,Iowa,True,,900.0,4.0,19077,Guthrie,"{""19077"": 55.83, ""19001"": 44.17}",Guthrie|Adair,19077|19001,False,False,America/Chicago,"(41.51167, -94.51936)",0.7598524081194198,900.0,39049_0_yes,41.51590802970127,-94.53291251218384,5.0

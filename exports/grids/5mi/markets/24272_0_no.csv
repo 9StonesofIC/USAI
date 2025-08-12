@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73550,34.7101,-99.89631,Hollis,OK,Oklahoma,True,,2175.0,3.6,40057,Harmon,"{""40057"": 100}",Harmon,40057,False,False,America/Chicago,"(34.7101, -99.89631)",5.807320776306267,2175.0,24272_0_no,34.78154730736733,-99.95018547108322,5.0

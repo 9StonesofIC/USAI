@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65037,38.23845,-92.85749,Gravois Mills,MO,Missouri,True,,4246.0,20.7,29141,Morgan,"{""29141"": 85.53, ""29029"": 14.47}",Morgan|Camden,29141|29029,False,False,America/Chicago,"(38.23845, -92.85749)",3.8833977971015687,4246.0,31812_0_yes,38.18259042232732,-92.84957139555056,5.0

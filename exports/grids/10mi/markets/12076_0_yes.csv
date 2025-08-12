@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59351,45.7633,-105.70844,Volborg,MT,Montana,True,,165.0,0.1,30075,Powder River,"{""30075"": 60.38, ""30017"": 39.62}",Powder River|Custer,30075|30017,False,False,America/Denver,"(45.7633, -105.70844)",11.057777774284803,165.0,12076_0_yes,45.85151298805265,-105.5168744977014,10.0

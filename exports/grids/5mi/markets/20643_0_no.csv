@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92070,33.18513,-116.74071,Santa Ysabel,CA,California,True,,892.0,2.7,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(33.18513, -116.74071)",3.9946961531099903,892.0,20643_0_no,33.197998542834966,-116.80806483701552,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81635,39.53722,-108.06022,Parachute,CO,Colorado,True,,6862.0,8.0,8045,Garfield,"{""08045"": 97.09, ""08077"": 2.91}",Garfield|Mesa,08045|08077,False,False,America/Denver,"(39.53722, -108.06022)",6.454521093665193,6862.0,8768_0_yes,39.48536882973486,-108.16094102045656,10.0

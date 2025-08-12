@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83352,43.05133,-114.40584,Shoshone,ID,Idaho,True,,3366.0,6.0,16063,Lincoln,"{""16063"": 87.04, ""16025"": 10.91, ""16013"": 2.05}",Lincoln|Camas|Blaine,16063|16025|16013,False,False,America/Boise,"(43.05133, -114.40584)",8.863213580692381,3366.0,10770_0_no,43.117289271280725,-114.55648275979634,10.0

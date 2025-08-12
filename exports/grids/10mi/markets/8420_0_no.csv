@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67850,38.6315,-100.63896,Healy,KS,Kansas,True,,385.0,0.8,20101,Lane,"{""20101"": 59.86, ""20063"": 22.22, ""20171"": 17.92}",Lane|Gove|Scott,20101|20063|20171,False,False,America/Chicago,"(38.6315, -100.63896)",10.697355422257907,385.0,8420_0_no,38.74943015303884,-100.7674810651814,10.0

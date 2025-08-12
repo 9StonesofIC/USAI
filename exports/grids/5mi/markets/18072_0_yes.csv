@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36105,32.21808,-86.28778,Montgomery,AL,Alabama,True,,9636.0,54.1,1101,Montgomery,"{""01101"": 100}",Montgomery,01101,False,False,America/Chicago,"(32.21808, -86.28778)",3.308027856998418,54663.0,18072_0_yes,32.23418757348592,-86.23448286286552,5.0
+36116,32.27312,-86.21765,Montgomery,AL,Alabama,True,,45027.0,325.9,1101,Montgomery,"{""01101"": 100}",Montgomery,01101,False,False,America/Chicago,"(32.27312, -86.21765)",2.8641549793335987,54663.0,18072_0_yes,32.23418757348592,-86.23448286286552,5.0

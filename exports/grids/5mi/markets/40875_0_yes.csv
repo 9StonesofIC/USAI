@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50586,42.40472,-94.43204,Somers,IA,Iowa,True,,259.0,3.1,19025,Calhoun,"{""19025"": 93.12, ""19187"": 6.88}",Calhoun|Webster,19025|19187,False,False,America/Chicago,"(42.40472, -94.43204)",4.063216679246564,259.0,40875_0_yes,42.38480064648184,-94.50696215313874,5.0

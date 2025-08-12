@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35033,33.94517,-87.02904,Bremen,AL,Alabama,True,,2860.0,14.8,1043,Cullman,"{""01043"": 88.18, ""01127"": 11.82}",Cullman|Walker,01043|01127,False,False,America/Chicago,"(33.94517, -87.02904)",4.0013022021551015,2860.0,22173_0_no,33.90230911960999,-86.98210637416744,5.0

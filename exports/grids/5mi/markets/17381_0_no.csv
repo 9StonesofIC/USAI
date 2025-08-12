@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39366,31.93795,-88.90057,Vossburg,MS,Mississippi,True,,879.0,5.1,28023,Clarke,"{""28023"": 56.01, ""28061"": 43.99}",Clarke|Jasper,28023|28061,False,False,America/Chicago,"(31.93795, -88.90057)",5.093053306703119,879.0,17381_0_no,31.87340610852197,-88.85862988042723,5.0

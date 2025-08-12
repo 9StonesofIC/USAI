@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26271,39.049,-79.55194,Hendricks,WV,West Virginia,True,,502.0,8.3,54093,Tucker,"{""54093"": 100}",Tucker,54093,False,False,America/New_York,"(39.049, -79.55194)",5.121190649950564,1088.0,33955_0_no,39.11379318180087,-79.50557060500603,5.0
+26292,39.15247,-79.52916,Thomas,WV,West Virginia,True,,586.0,7.9,54093,Tucker,"{""54093"": 100}",Tucker,54093,False,False,America/New_York,"(39.15247, -79.52916)",2.956284383778627,1088.0,33955_0_no,39.11379318180087,-79.50557060500603,5.0

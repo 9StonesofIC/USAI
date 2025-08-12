@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66872,38.79878,-96.76147,White City,KS,Kansas,True,,921.0,2.5,20127,Morris,"{""20127"": 94.03, ""20061"": 5.97}",Morris|Geary,20127|20061,False,False,America/Chicago,"(38.79878, -96.76147)",2.898154914159695,921.0,33412_0_no,38.8377585452862,-96.74158267256828,5.0

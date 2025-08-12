@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28611,36.00608,-81.73699,Collettsville,NC,North Carolina,True,,667.0,3.6,37027,Caldwell,"{""37027"": 80.9, ""37011"": 19.1}",Caldwell|Avery,37027|37011,False,False,America/New_York,"(36.00608, -81.73699)",3.3276518800262784,667.0,26854_0_yes,36.0004060817042,-81.79610891988091,5.0

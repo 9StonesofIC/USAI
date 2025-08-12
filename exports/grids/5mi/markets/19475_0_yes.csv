@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39039,32.82216,-90.22757,Benton,MS,Mississippi,True,,2108.0,5.7,28163,Yazoo,"{""28163"": 100}",Yazoo,28163,False,False,America/Chicago,"(32.82216, -90.22757)",3.106692240715949,2108.0,19475_0_yes,32.81703283367346,-90.28072488459703,5.0

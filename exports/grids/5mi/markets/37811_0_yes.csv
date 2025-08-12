@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50068,40.94229,-93.46704,Derby,IA,Iowa,True,,274.0,2.5,19117,Lucas,"{""19117"": 90.9, ""19185"": 9.1}",Lucas|Wayne,19117|19185,False,False,America/Chicago,"(40.94229, -93.46704)",0.5009668174785781,274.0,37811_0_yes,40.93567517317037,-93.46310969473804,5.0

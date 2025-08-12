@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72128,34.31535,-92.63846,Poyen,AR,Arkansas,True,,814.0,13.4,5053,Grant,"{""05053"": 100}",Grant,05053,False,False,America/Chicago,"(34.31535, -92.63846)",3.5905911528310406,814.0,22899_0_yes,34.26878752718742,-92.66639170732472,5.0

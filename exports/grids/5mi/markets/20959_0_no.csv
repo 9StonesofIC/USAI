@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85338,33.37252,-112.40826,Goodyear,AZ,Arizona,True,,51691.0,262.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(33.37252, -112.40826)",4.342458935825709,51691.0,20959_0_no,33.34006402281088,-112.4726947361078,5.0

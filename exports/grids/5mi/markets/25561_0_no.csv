@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72010,35.30555,-91.52112,Bald Knob,AR,Arkansas,True,,6108.0,13.8,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago,"(35.30555, -91.52112)",5.254843071351675,6376.0,25561_0_no,35.35530675747699,-91.45061566618904,5.0
+72139,35.36212,-91.50997,Russell,AR,Arkansas,True,,268.0,506.5,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago,"(35.36212, -91.50997)",3.3775119641323124,6376.0,25561_0_no,35.35530675747699,-91.45061566618904,5.0

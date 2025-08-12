@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21711,39.66808,-78.01247,Big Pool,MD,Maryland,True,,1139.0,17.9,24043,Washington,"{""24043"": 100}",Washington,24043,False,False,America/New_York,"(39.66808, -78.01247)",1.7369817873445321,7528.0,35210_0_no,39.69195239214363,-78.00223000628485,5.0
+21722,39.66575,-77.91457,Clear Spring,MD,Maryland,True,,6389.0,43.3,24043,Washington,"{""24043"": 100}",Washington,24043,False,False,America/New_York,"(39.66575, -77.91457)",5.000691955805778,7528.0,35210_0_no,39.69195239214363,-78.00223000628485,5.0

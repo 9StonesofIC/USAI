@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87310,35.75365,-108.60267,Brimhall,NM,New Mexico,True,,1058.0,4.4,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.75365, -108.60267)",2.344244606637294,1058.0,26341_0_yes,35.73037672367576,-108.6330870681426,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41149,38.06008,-83.05438,Isonville,KY,Kentucky,True,,627.0,8.6,21063,Elliott,"{""21063"": 100}",Elliott,21063,False,False,America/New_York,"(38.06008, -83.05438)",3.1709559960055955,5455.0,31738_0_no,38.10254732700127,-83.07648553472264,5.0
+41171,38.09336,-83.08901,Sandy Hook,KY,Kentucky,True,,4828.0,15.7,21063,Elliott,"{""21063"": 100}",Elliott,21063,False,False,America/New_York,"(38.09336, -83.08901)",0.9309731926491991,5455.0,31738_0_no,38.10254732700127,-83.07648553472264,5.0

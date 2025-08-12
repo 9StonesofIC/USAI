@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81252,38.10891,-105.42143,Westcliffe,CO,Colorado,True,,4023.0,2.5,8027,Custer,"{""08027"": 100}",Custer,08027,False,False,America/Denver,"(38.10891, -105.42143)",9.437547981654015,4023.0,7962_0_yes,38.03244522042817,-105.56519934041836,10.0

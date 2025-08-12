@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26757,39.31652,-78.75001,Romney,WV,West Virginia,True,,7032.0,18.6,54027,Hampshire,"{""54027"": 100}",Hampshire,54027,False,False,America/New_York,"(39.31652, -78.75001)",2.923334046010498,7672.0,34289_0_yes,39.33037483819158,-78.69833200973106,5.0
+26761,39.27303,-78.6997,Shanks,WV,West Virginia,True,,640.0,22.4,54027,Hampshire,"{""54027"": 100}",Hampshire,54027,False,False,America/New_York,"(39.27303, -78.6997)",3.962825961293635,7672.0,34289_0_yes,39.33037483819158,-78.69833200973106,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55309,45.37758,-93.74107,Big Lake,MN,Minnesota,True,,19733.0,122.3,27141,Sherburne,"{""27141"": 100}",Sherburne,27141,False,False,America/Chicago,"(45.37758, -93.74107)",2.8091518560415305,19733.0,47038_0_no,45.35196052925366,-93.69613643782056,5.0

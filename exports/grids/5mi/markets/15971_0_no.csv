@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36330,31.30743,-85.85854,Enterprise,AL,Alabama,True,,38010.0,132.0,1031,Coffee,"{""01031"": 92.39, ""01045"": 7.61}",Coffee|Dale,01031|01045,False,False,America/Chicago,"(31.30743, -85.85854)",1.3052701232684834,38010.0,15971_0_no,31.29126012434699,-85.86997205231633,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59062,45.15773,-106.20895,Otter,MT,Montana,True,,29.0,0.0,30075,Powder River,"{""30075"": 69.03, ""30087"": 30.97}",Powder River|Rosebud,30075|30087,False,False,America/Denver,"(45.15773, -106.20895)",2.009187682504993,29.0,46550_0_yes,45.14597870671531,-106.17123309072524,5.0

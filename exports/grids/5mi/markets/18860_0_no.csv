@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88344,32.5105,-105.2235,Pinon,NM,New Mexico,True,,37.0,0.0,35035,Otero,"{""35035"": 69.86, ""35005"": 30.14}",Otero|Chaves,35035|35005,False,False,America/Denver,"(32.5105, -105.2235)",3.213745958336987,37.0,18860_0_no,32.464664834448136,-105.23288003383888,5.0

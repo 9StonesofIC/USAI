@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53104,42.55731,-88.03416,Bristol,WI,Wisconsin,True,,5610.0,62.8,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago,"(42.55731, -88.03416)",2.78059834850112,15122.0,41419_0_no,42.59652789291128,-88.04642277014602,5.0
+53168,42.57858,-88.12999,Salem,WI,Wisconsin,True,,9512.0,112.9,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago,"(42.57858, -88.12999)",4.428214625272852,15122.0,41419_0_no,42.59652789291128,-88.04642277014602,5.0

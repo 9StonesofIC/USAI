@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89438,40.79671,-117.12004,Valmy,NV,Nevada,True,,85.0,13.3,32013,Humboldt,"{""32013"": 100}",Humboldt,32013,False,False,America/Los_Angeles,"(40.79671, -117.12004)",4.105392978457462,85.0,37601_0_no,40.73796554895988,-117.10826071980236,5.0

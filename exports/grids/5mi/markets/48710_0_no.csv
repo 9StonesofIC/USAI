@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49827,46.1751,-85.53607,Engadine,MI,Michigan,True,,1171.0,4.0,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(46.1751, -85.53607)",3.4062141989643084,1171.0,48710_0_no,46.212822377504274,-85.49021851173887,5.0

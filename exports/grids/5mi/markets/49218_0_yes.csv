@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04757,46.6141,-68.18278,Mapleton,ME,Maine,True,,2655.0,4.9,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.6141, -68.18278)",5.633940543859567,2655.0,49218_0_yes,46.55854169953548,-68.09593649885286,5.0

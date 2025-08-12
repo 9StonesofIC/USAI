@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57055,43.66638,-96.73973,Renner,SD,South Dakota,True,,1367.0,31.3,46099,Minnehaha,"{""46099"": 100}",Minnehaha,46099,False,False,America/Chicago,"(43.66638, -96.73973)",4.8130583898553905,1367.0,43579_0_yes,43.68980597620508,-96.64902172150472,5.0

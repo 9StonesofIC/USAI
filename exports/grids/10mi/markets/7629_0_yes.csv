@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67862,37.47961,-101.95409,Manter,KS,Kansas,True,,369.0,0.5,20187,Stanton,"{""20187"": 74.1, ""20129"": 25.9}",Stanton|Morton,20187|20129,False,False,America/Chicago,"(37.47961, -101.95409)",7.1837848548348715,1287.0,7629_0_yes,37.44748563795102,-102.0786708483225,10.0
+81090,37.36311,-102.22434,Walsh,CO,Colorado,True,,918.0,0.5,8009,Baca,"{""08009"": 100}",Baca,08009,False,False,America/Denver,"(37.36311, -102.22434)",9.894809223621884,1287.0,7629_0_yes,37.44748563795102,-102.0786708483225,10.0

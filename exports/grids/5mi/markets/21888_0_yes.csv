@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71855,33.86612,-93.74351,Ozan,AR,Arkansas,True,,310.0,2.2,5057,Hempstead,"{""05057"": 100}",Hempstead,05057,False,False,America/Chicago,"(33.86612, -93.74351)",3.2944550322818893,1011.0,21888_0_yes,33.83451559389102,-93.7005208277988,5.0
+71862,33.76814,-93.72321,Washington,AR,Arkansas,True,,701.0,4.3,5057,Hempstead,"{""05057"": 100}",Hempstead,05057,False,False,America/Chicago,"(33.76814, -93.72321)",4.767543462405632,1011.0,21888_0_yes,33.83451559389102,-93.7005208277988,5.0

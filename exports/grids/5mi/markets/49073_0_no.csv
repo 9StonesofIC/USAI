@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58646,46.39826,-102.28782,Mott,ND,North Dakota,True,,1114.0,0.7,38041,Hettinger,"{""38041"": 89.66, ""38001"": 8.94, ""38089"": 1.4}",Hettinger|Adams|Stark,38041|38001|38089,False,False,America/Denver,"(46.39826, -102.28782)",2.532149799775951,1114.0,49073_0_no,46.37291186651638,-102.32619066964337,5.0

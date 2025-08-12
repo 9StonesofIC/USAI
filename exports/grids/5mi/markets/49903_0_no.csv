@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58487,46.85278,-99.60283,Tappen,ND,North Dakota,True,,518.0,0.9,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago,"(46.85278, -99.60283)",3.378758178873348,518.0,49903_0_no,46.80458677546755,-99.61494898529472,5.0

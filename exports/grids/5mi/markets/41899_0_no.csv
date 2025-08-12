@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97442,42.76982,-123.40365,Glendale,OR,Oregon,True,,2319.0,10.6,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(42.76982, -123.40365)",2.8679869223545325,2319.0,41899_0_no,42.77161223588831,-123.34715712771242,5.0

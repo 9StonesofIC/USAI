@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36091,32.74881,-86.52021,Verbena,AL,Alabama,True,,3177.0,14.7,1021,Chilton,"{""01021"": 84.65, ""01001"": 14.99, ""01037"": 0.36}",Chilton|Autauga|Coosa,01021|01001|01037,False,False,America/Chicago,"(32.74881, -86.52021)",4.684309457232379,3177.0,19453_0_yes,32.814438124245484,-86.49997751642356,5.0

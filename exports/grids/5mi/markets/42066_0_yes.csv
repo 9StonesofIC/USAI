@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52175,42.99372,-91.82389,West Union,IA,Iowa,True,,3630.0,16.4,19065,Fayette,"{""19065"": 100}",Fayette,19065,False,False,America/Chicago,"(42.99372, -91.82389)",2.723987742703033,3630.0,42066_0_yes,42.96172229286363,-91.85537031651528,5.0

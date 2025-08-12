@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73040,35.64442,-98.37861,Geary,OK,Oklahoma,True,,1456.0,2.3,40011,Blaine,"{""40011"": 68.88, ""40017"": 31.12}",Blaine|Canadian,40011|40017,False,False,America/Chicago,"(35.64442, -98.37861)",5.2393297882761365,1645.0,6631_0_yes,35.7030404207704,-98.319396931283,10.0
+73043,35.73609,-98.3939,Greenfield,OK,Oklahoma,True,,189.0,4.7,40011,Blaine,"{""40011"": 100}",Blaine,40011,False,False,America/Chicago,"(35.73609, -98.3939)",4.762464629478589,1645.0,6631_0_yes,35.7030404207704,-98.319396931283,10.0

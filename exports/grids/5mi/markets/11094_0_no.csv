@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77437,29.20452,-96.27328,El Campo,TX,Texas,True,,17177.0,18.8,48481,Wharton,"{""48481"": 100}",Wharton,48481,False,False,America/Chicago,"(29.20452, -96.27328)",4.306259994592664,17177.0,11094_0_no,29.2667980581649,-96.27050306226678,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56075,43.73516,-94.43663,Northrop,MN,Minnesota,True,,136.0,981.7,27091,Martin,"{""27091"": 100}",Martin,27091,False,False,America/Chicago,"(43.73516, -94.43663)",5.275816464827512,136.0,43836_0_no,43.76022338751884,-94.3367850432672,5.0

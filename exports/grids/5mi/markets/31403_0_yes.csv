@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22438,38.03788,-76.99971,Champlain,VA,Virginia,True,,379.0,3.6,51057,Essex,"{""51057"": 90.57, ""51033"": 9.43}",Essex|Caroline,51057|51033,False,False,America/New_York,"(38.03788, -76.99971)",2.063193109094143,379.0,31403_0_yes,38.02530131539079,-76.96532724407253,5.0

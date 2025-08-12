@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73716,36.48417,-98.55316,Aline,OK,Oklahoma,True,,561.0,1.3,40151,Woods,"{""40151"": 57.46, ""40003"": 34.39, ""40093"": 8.15}",Woods|Alfalfa|Major,40151|40003|40093,False,False,America/Chicago,"(36.48417, -98.55316)",3.96719643201845,561.0,27938_0_yes,36.447813095411625,-98.60842023549884,5.0

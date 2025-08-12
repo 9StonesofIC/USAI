@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57576,43.90804,-100.29411,Vivian,SD,South Dakota,True,,181.0,0.4,46085,Lyman,"{""46085"": 91.33, ""46075"": 8.67}",Lyman|Jones,46085|46075,False,False,America/Chicago,"(43.90804, -100.29411)",6.548309206033309,181.0,43893_0_yes,43.83785453665565,-100.38245873286655,5.0

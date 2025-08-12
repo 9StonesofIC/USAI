@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32648,29.50515,-83.24498,Horseshoe Beach,FL,Florida,True,,399.0,1.9,12029,Dixie,"{""12029"": 100}",Dixie,12029,False,False,America/New_York,"(29.50515, -83.24498)",3.0629871013577534,399.0,11727_0_no,29.548876308862884,-83.2365930519931,5.0

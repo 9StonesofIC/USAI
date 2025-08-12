@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79124,35.26891,-102.02705,Amarillo,TX,Texas,True,,8159.0,17.4,48375,Potter,"{""48375"": 97.45, ""48381"": 2.55}",Potter|Randall,48375|48381,False,False,America/Chicago,"(35.26891, -102.02705)",2.2161330261167773,8159.0,25305_0_yes,35.29049827659297,-101.99799154701032,5.0

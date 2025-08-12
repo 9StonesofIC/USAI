@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29516,34.44323,-79.62414,Blenheim,SC,South Carolina,True,,929.0,3.5,45069,Marlboro,"{""45069"": 100}",Marlboro,45069,False,False,America/New_York,"(34.44323, -79.62414)",5.403678432985807,929.0,23483_0_no,34.47690334924094,-79.53852924769879,5.0

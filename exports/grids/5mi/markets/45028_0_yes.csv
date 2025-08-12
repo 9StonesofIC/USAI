@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55041,44.39544,-92.31923,Lake City,MN,Minnesota,True,,7498.0,20.1,27157,Wabasha,"{""27157"": 83.44, ""27049"": 16.56}",Wabasha|Goodhue,27157|27049,False,False,America/Chicago,"(44.39544, -92.31923)",3.069710014731839,7498.0,45028_0_yes,44.409789807124135,-92.26037671396725,5.0

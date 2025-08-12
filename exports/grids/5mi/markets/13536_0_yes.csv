@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36511,30.31173,-87.74259,Bon Secour,AL,Alabama,True,,173.0,14.9,1003,Baldwin,"{""01003"": 100}",Baldwin,01003,False,False,America/Chicago,"(30.31173, -87.74259)",5.124883022712682,34715.0,13536_0_yes,30.349536565430903,-87.66865541049012,5.0
+36535,30.38562,-87.72514,Foley,AL,Alabama,True,,34542.0,144.1,1003,Baldwin,"{""01003"": 100}",Baldwin,01003,False,False,America/Chicago,"(30.38562, -87.72514)",4.189764893272092,34715.0,13536_0_yes,30.349536565430903,-87.66865541049012,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25005,38.58201,-81.26982,Amma,WV,West Virginia,True,,143.0,7.5,54087,Roane,"{""54087"": 100}",Roane,54087,False,False,America/New_York,"(38.58201, -81.26982)",5.340840400825762,143.0,32691_0_no,38.53581852503834,-81.3490809426148,5.0

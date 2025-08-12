@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72679,35.73555,-92.80206,Tilly,AR,Arkansas,True,,7.0,0.2,5129,Searcy,"{""05129"": 84.95, ""05141"": 11.02, ""05115"": 4.03}",Searcy|Van Buren|Pope,05129|05141|05115,False,False,America/Chicago,"(35.73555, -92.80206)",5.467186783048091,7.0,26566_0_no,35.79124637122324,-92.8713267223788,5.0

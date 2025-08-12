@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61840,40.29663,-88.30187,Dewey,IL,Illinois,True,,614.0,7.6,17019,Champaign,"{""17019"": 100}",Champaign,17019,False,False,America/Chicago,"(40.29663, -88.30187)",4.994270737317073,14477.0,36541_0_yes,40.35200656131707,-88.24093432677955,5.0
+61866,40.31148,-88.15837,Rantoul,IL,Illinois,True,,13863.0,66.9,17019,Champaign,"{""17019"": 100}",Champaign,17019,False,False,America/Chicago,"(40.31148, -88.15837)",5.1722296103286585,14477.0,36541_0_yes,40.35200656131707,-88.24093432677955,5.0

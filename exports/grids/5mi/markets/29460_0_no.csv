@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24315,37.1393,-81.0534,Bland,VA,Virginia,True,,3765.0,8.5,51021,Bland,"{""51021"": 95.66, ""51071"": 4.34}",Bland|Giles,51021|51071,False,False,America/New_York,"(37.1393, -81.0534)",4.674677303085242,3765.0,29460_0_no,37.08678338046314,-81.10689053899823,5.0

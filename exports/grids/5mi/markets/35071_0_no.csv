@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84501,39.53214,-110.80393,Price,UT,Utah,True,,12983.0,23.3,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver,"(39.53214, -110.80393)",4.601937948331541,12983.0,35071_0_no,39.573598255273176,-110.87153830486396,5.0

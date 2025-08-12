@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38614,34.15914,-90.60747,Clarksdale,MS,Mississippi,True,,17353.0,27.6,28027,Coahoma,"{""28027"": 96.94, ""28011"": 3.06}",Coahoma|Bolivar,28027|28011,False,False,America/Chicago,"(34.15914, -90.60747)",5.518919250001279,17353.0,22872_0_no,34.194921183087764,-90.69379077411824,5.0

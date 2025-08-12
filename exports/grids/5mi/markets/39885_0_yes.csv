@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16345,41.95085,-79.07548,Russell,PA,Pennsylvania,True,,3436.0,14.1,42123,Warren,"{""42123"": 100}",Warren,42123,False,False,America/New_York,"(41.95085, -79.07548)",4.248093728773134,3436.0,39885_0_yes,41.937249308742864,-78.99486647637113,5.0

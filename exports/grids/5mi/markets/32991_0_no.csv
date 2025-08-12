@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+20187,38.71846,-77.74275,Warrenton,VA,Virginia,True,,18684.0,141.3,51061,Fauquier,"{""51061"": 100}",Fauquier,51061,False,False,America/New_York,"(38.71846, -77.74275)",2.8175258524879636,18684.0,32991_0_no,38.67783729994252,-77.7473130050793,5.0

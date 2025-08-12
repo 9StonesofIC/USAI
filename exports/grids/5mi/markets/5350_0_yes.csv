@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78361,27.08457,-98.73973,Hebbronville,TX,Texas,True,,5273.0,2.2,48247,Jim Hogg,"{""48247"": 87.68, ""48505"": 9.44, ""48131"": 2.88}",Jim Hogg|Zapata|Duval,48247|48505|48131,False,False,America/Chicago,"(27.08457, -98.73973)",4.630010733898093,5273.0,5350_0_yes,27.01854972788617,-98.72684021005132,5.0

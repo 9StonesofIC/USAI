@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28462,34.0,-78.30497,Supply,NC,North Carolina,True,,13140.0,70.1,37019,Brunswick,"{""37019"": 100}",Brunswick,37019,False,False,America/New_York,"(34.0, -78.30497)",2.3880770854485,25411.0,22139_0_yes,33.968641396510826,-78.32249806386841,5.0
+28470,33.96415,-78.3987,Shallotte,NC,North Carolina,True,,12271.0,106.0,37019,Brunswick,"{""37019"": 100}",Brunswick,37019,False,False,America/New_York,"(33.96415, -78.3987)",4.37766522005572,25411.0,22139_0_yes,33.968641396510826,-78.32249806386841,5.0

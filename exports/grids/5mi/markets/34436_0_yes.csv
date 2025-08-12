@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80420,39.31451,-106.10553,Alma,CO,Colorado,True,,679.0,6.2,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(39.31451, -106.10553)",3.209747669131411,679.0,34436_0_yes,39.35238134608906,-106.14031398193532,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37641,36.20015,-82.66306,Chuckey,TN,Tennessee,True,,9491.0,39.1,47059,Greene,"{""47059"": 82.38, ""47179"": 17.62}",Greene|Washington,47059|47179,False,False,America/New_York,"(36.20015, -82.66306)",4.745477946346538,9491.0,27189_0_yes,36.145940234675365,-82.61081695186338,5.0

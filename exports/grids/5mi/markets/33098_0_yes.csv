@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64093,38.79057,-93.73206,Warrensburg,MO,Missouri,True,,27853.0,56.5,29101,Johnson,"{""29101"": 100}",Johnson,29101,False,False,America/Chicago,"(38.79057, -93.73206)",2.507998500703359,27853.0,33098_0_yes,38.76285881030875,-93.70198619720846,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59347,46.45434,-106.34614,Rosebud,MT,Montana,True,,298.0,0.1,30087,Rosebud,"{""30087"": 92.43, ""30017"": 7.57}",Rosebud|Custer,30087|30017,False,False,America/Denver,"(46.45434, -106.34614)",9.51498222891823,298.0,12361_0_yes,46.43146573999559,-106.14906645874532,10.0

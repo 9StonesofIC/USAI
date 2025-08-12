@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45380,40.24511,-84.51314,Versailles,OH,Ohio,True,,5476.0,30.7,39037,Darke,"{""39037"": 98.93, ""39149"": 1.07}",Darke|Shelby,39037|39149,False,False,America/New_York,"(40.24511, -84.51314)",3.136639101798073,5476.0,36209_0_yes,40.20413979964239,-84.53874964999984,5.0

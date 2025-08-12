@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40977,36.72332,-83.72867,Pineville,KY,Kentucky,True,,10784.0,31.1,21013,Bell,"{""21013"": 100}",Bell,21013,False,False,America/New_York,"(36.72332, -83.72867)",0.43307135700950505,10878.0,28513_0_yes,36.72647029791192,-83.73543056616623,5.0
+40995,36.75268,-83.82322,Trosper,KY,Kentucky,True,,94.0,8.3,21121,Knox,"{""21121"": 100}",Knox,21121,False,False,America/New_York,"(36.75268, -83.82322)",5.187179244067232,10878.0,28513_0_yes,36.72647029791192,-83.73543056616623,5.0

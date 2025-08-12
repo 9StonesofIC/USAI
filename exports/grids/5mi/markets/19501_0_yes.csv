@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75683,32.82182,-94.74035,Ore City,TX,Texas,True,,4053.0,26.1,48459,Upshur,"{""48459"": 80.68, ""48315"": 19.32}",Upshur|Marion,48459|48315,False,False,America/Chicago,"(32.82182, -94.74035)",0.5174013422257505,4053.0,19501_0_yes,32.820099639249605,-94.7490225523485,5.0

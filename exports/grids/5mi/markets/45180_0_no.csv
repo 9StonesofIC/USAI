@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04941,44.4654,-69.3017,Freedom,ME,Maine,True,,1727.0,10.4,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.4654, -69.3017)",0.8726072503853388,1727.0,45180_0_no,44.4618729529649,-69.28470831728855,5.0

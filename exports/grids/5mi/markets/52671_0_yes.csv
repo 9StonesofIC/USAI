@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56727,48.34945,-95.38946,Grygla,MN,Minnesota,True,,993.0,0.6,27007,Beltrami,"{""27007"": 85.35, ""27089"": 14.65}",Beltrami|Marshall,27007|27089,False,False,America/Chicago,"(48.34945, -95.38946)",4.622961930958432,993.0,52671_0_yes,48.319922789743295,-95.47977757143856,5.0

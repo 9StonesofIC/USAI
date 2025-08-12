@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92301,34.65183,-117.52617,Adelanto,CA,California,True,,34791.0,59.8,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.65183, -117.52617)",1.2027914945628924,34791.0,24036_0_no,34.64920643008253,-117.5470897892427,5.0

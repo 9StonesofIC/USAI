@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54634,43.59753,-90.42553,Hillsboro,WI,Wisconsin,True,,4463.0,12.3,55123,Vernon,"{""55123"": 69.41, ""55103"": 29.97, ""55057"": 0.62}",Vernon|Richland|Juneau,55123|55103|55057,False,False,America/Chicago,"(43.59753, -90.42553)",1.0097838232721792,4463.0,43521_0_no,43.61203408017909,-90.4230507711015,5.0

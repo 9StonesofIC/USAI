@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58639,46.04056,-102.63905,Hettinger,ND,North Dakota,True,,1725.0,1.2,38001,Adams,"{""38001"": 78.81, ""46105"": 21.19}",Adams|Perkins,38001|46105,False,False,America/Denver,"(46.04056, -102.63905)",9.375465127579028,1725.0,12211_0_yes,46.13541927712585,-102.49915172931418,10.0

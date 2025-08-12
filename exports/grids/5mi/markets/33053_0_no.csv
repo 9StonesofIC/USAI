@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62875,38.75789,-89.12482,Patoka,IL,Illinois,True,,1146.0,6.2,17121,Marion,"{""17121"": 52.76, ""17051"": 40.64, ""17027"": 6.6}",Marion|Fayette|Clinton,17121|17051|17027,False,False,America/Chicago,"(38.75789, -89.12482)",6.889142837506808,1146.0,33053_0_no,38.68690460404145,-89.21456684831871,5.0

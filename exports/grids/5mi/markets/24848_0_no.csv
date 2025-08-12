@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28763,35.03796,-83.43215,Otto,NC,North Carolina,True,,2357.0,16.4,37113,Macon,"{""37113"": 100}",Macon,37113,False,False,America/New_York,"(35.03796, -83.43215)",1.9309202087716812,2357.0,24848_0_no,35.059549369583934,-83.45382631666261,5.0

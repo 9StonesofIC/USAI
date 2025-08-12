@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97430,44.15507,-123.71175,Deadwood,OR,Oregon,True,,394.0,1.9,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.15507, -123.71175)",4.061157300634349,685.0,44599_0_yes,44.14802692586232,-123.7930800183099,5.0
+97480,44.1303,-123.83213,Swisshome,OR,Oregon,True,,291.0,1.7,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.1303, -123.83213)",2.2911545691030764,685.0,44599_0_yes,44.14802692586232,-123.7930800183099,5.0

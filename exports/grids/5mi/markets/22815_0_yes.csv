@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28401,34.29053,-77.97053,Wilmington,NC,North Carolina,True,,24764.0,308.6,37129,New Hanover,"{""37129"": 80.6, ""37141"": 19.4}",New Hanover|Pender,37129|37141,False,False,America/New_York,"(34.29053, -77.97053)",2.440802613830896,24764.0,22815_0_yes,34.25832483918273,-77.9880984269737,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42202,36.68732,-86.85916,Adairville,KY,Kentucky,True,,2101.0,12.5,21141,Logan,"{""21141"": 97.86, ""21213"": 2.14}",Logan|Simpson,21141|21213,False,False,America/Chicago,"(36.68732, -86.85916)",4.4299400824719735,2101.0,28530_0_yes,36.72878822781452,-86.79816476287577,5.0

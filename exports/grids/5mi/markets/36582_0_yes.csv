@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68378,40.39355,-96.02615,Johnson,NE,Nebraska,True,,644.0,4.6,31127,Nemaha,"{""31127"": 85.37, ""31097"": 14.63}",Nemaha|Johnson,31127|31097,False,False,America/Chicago,"(40.39355, -96.02615)",2.6072601745909365,644.0,36582_0_yes,40.35836774610859,-96.00823991264708,5.0

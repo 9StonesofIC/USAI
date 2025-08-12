@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58835,47.7328,-103.45268,Arnegard,ND,North Dakota,True,,580.0,0.9,38053,McKenzie,"{""38053"": 100}",McKenzie,38053,False,False,America/Chicago,"(47.7328, -103.45268)",4.163037917133097,580.0,51586_0_no,47.6764138681363,-103.48423563733137,5.0

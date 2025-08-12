@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36908,31.89818,-88.30807,Gilbertown,AL,Alabama,True,,1820.0,5.4,1023,Choctaw,"{""01023"": 100}",Choctaw,01023,False,False,America/Chicago,"(31.89818, -88.30807)",5.6646808168469125,2634.0,17390_0_yes,31.945471097269067,-88.22916544503839,5.0
+36921,31.96956,-88.19108,Toxey,AL,Alabama,True,,814.0,3.2,1023,Choctaw,"{""01023"": 100}",Choctaw,01023,False,False,America/Chicago,"(31.96956, -88.19108)",2.784748524808198,2634.0,17390_0_yes,31.945471097269067,-88.22916544503839,5.0

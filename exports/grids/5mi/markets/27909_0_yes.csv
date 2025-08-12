@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72660,36.48115,-93.37454,Oak Grove,AR,Arkansas,True,,796.0,18.3,5015,Carroll,"{""05015"": 100}",Carroll,05015,False,False,America/Chicago,"(36.48115, -93.37454)",3.012485835960363,796.0,27909_0_yes,36.44389915583722,-93.40271204280074,5.0

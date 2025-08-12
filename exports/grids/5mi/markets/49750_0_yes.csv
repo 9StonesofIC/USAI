@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98947,46.68759,-120.80916,Tieton,WA,Washington,True,,3266.0,27.5,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.68759, -120.80916)",4.545812257980226,3266.0,49750_0_yes,46.751657930166985,-120.78733284063858,5.0

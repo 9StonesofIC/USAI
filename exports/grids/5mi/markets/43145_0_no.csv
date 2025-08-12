@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12139,43.52096,-74.56552,Piseco,NY,New York,True,,142.0,0.3,36041,Hamilton,"{""36041"": 100}",Hamilton,36041,False,False,America/New_York,"(43.52096, -74.56552)",4.919865199497373,142.0,43145_0_no,43.45350188534052,-74.59694104086209,5.0

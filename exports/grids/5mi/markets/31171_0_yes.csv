@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65774,37.92806,-93.49529,Weaubleau,MO,Missouri,True,,1251.0,10.1,29085,Hickory,"{""29085"": 78.71, ""29185"": 21.29}",Hickory|St. Clair,29085|29185,False,False,America/Chicago,"(37.92806, -93.49529)",2.8963283301055514,1251.0,31171_0_yes,37.89329815770781,-93.52498300272713,5.0

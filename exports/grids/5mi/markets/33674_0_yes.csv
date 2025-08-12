@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45686,39.00901,-82.36843,Vinton,OH,Ohio,True,,3527.0,14.1,39053,Gallia,"{""39053"": 61.34, ""39163"": 32.38, ""39105"": 6.28}",Gallia|Vinton|Meigs,39053|39163|39105,False,False,America/New_York,"(39.00901, -82.36843)",3.662204291749271,3527.0,33674_0_yes,39.04364788108006,-82.42007387680474,5.0

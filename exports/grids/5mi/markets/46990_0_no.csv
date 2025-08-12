@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49743,45.27124,-83.89394,Hawks,MI,Michigan,True,,842.0,3.7,26141,Presque Isle,"{""26141"": 100}",Presque Isle,26141,False,False,America/Detroit,"(45.27124, -83.89394)",5.635341793052769,5221.0,46990_0_no,45.34309953365355,-83.83908439332212,5.0
+49779,45.39651,-83.87153,Rogers City,MI,Michigan,True,,4379.0,12.7,26141,Presque Isle,"{""26141"": 100}",Presque Isle,26141,False,False,America/Detroit,"(45.39651, -83.87153)",4.0123245488640515,5221.0,46990_0_no,45.34309953365355,-83.83908439332212,5.0

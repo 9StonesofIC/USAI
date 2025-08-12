@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28626,36.29256,-81.50119,Fleetwood,NC,North Carolina,True,,2994.0,38.9,37009,Ashe,"{""37009"": 100}",Ashe,37009,False,False,America/New_York,"(36.29256, -81.50119)",4.913408036436613,10299.0,27824_0_no,36.36254368195937,-81.51685509946586,5.0
+28694,36.36197,-81.47465,West Jefferson,NC,North Carolina,True,,7305.0,40.3,37009,Ashe,"{""37009"": 100}",Ashe,37009,False,False,America/New_York,"(36.36197, -81.47465)",2.3486203817171676,10299.0,27824_0_no,36.36254368195937,-81.51685509946586,5.0

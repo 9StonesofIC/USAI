@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44857,41.21785,-82.58212,Norwalk,OH,Ohio,True,,23646.0,111.9,39077,Huron,"{""39077"": 97.43, ""39043"": 2.57}",Huron|Erie,39077|39043,False,False,America/New_York,"(41.21785, -82.58212)",0.30626373147046393,23646.0,38372_0_yes,41.21627840296891,-82.57661011049716,5.0

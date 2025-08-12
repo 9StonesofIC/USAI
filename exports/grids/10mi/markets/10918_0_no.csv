@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83313,43.3586,-114.20511,Bellevue,ID,Idaho,True,,3977.0,6.0,16013,Blaine,"{""16013"": 100}",Blaine,16013,False,False,America/Boise,"(43.3586, -114.20511)",5.786364575134134,4334.0,10918_0_no,43.40613481096585,-114.11024130767632,10.0
+83348,43.28489,-114.10592,Picabo,ID,Idaho,True,,357.0,5.1,16013,Blaine,"{""16013"": 100}",Blaine,16013,False,False,America/Boise,"(43.28489, -114.10592)",8.380031987340177,4334.0,10918_0_no,43.40613481096585,-114.11024130767632,10.0

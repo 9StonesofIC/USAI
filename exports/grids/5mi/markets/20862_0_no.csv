@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75432,33.38912,-95.66804,Cooper,TX,Texas,True,,3196.0,12.0,48119,Delta,"{""48119"": 100}",Delta,48119,False,False,America/Chicago,"(33.38912, -95.66804)",4.705758161108061,3196.0,20862_0_no,33.3283963607375,-95.70496572853284,5.0

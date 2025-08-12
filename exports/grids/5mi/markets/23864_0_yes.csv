@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30536,34.65151,-84.35223,Ellijay,GA,Georgia,True,,9290.0,23.3,13123,Gilmer,"{""13123"": 97.75, ""13085"": 2.25}",Gilmer|Dawson,13123|13085,False,False,America/New_York,"(34.65151, -84.35223)",4.913168304444132,9290.0,23864_0_yes,34.69781410424842,-84.41785160645625,5.0

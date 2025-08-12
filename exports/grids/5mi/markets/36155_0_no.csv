@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15924,40.10684,-78.77527,Cairnbrook,PA,Pennsylvania,True,,1068.0,15.6,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(40.10684, -78.77527)",3.574670545042832,2508.0,36155_0_no,40.12711703647162,-78.83751106896153,5.0
+15936,40.16221,-78.89584,Hooversville,PA,Pennsylvania,True,,1440.0,21.5,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(40.16221, -78.89584)",3.92045518555882,2508.0,36155_0_no,40.12711703647162,-78.83751106896153,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72624,36.08208,-93.35655,Compton,AR,Arkansas,True,,486.0,3.8,5101,Newton,"{""05101"": 85.18, ""05015"": 14.82}",Newton|Carroll,05101|05015,False,False,America/Chicago,"(36.08208, -93.35655)",5.044563885796305,486.0,27249_0_yes,36.15395138565611,-93.3406448858188,5.0

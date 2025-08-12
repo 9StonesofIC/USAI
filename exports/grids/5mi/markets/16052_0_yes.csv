@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76561,31.42531,-97.54098,Oglesby,TX,Texas,True,,997.0,6.5,48099,Coryell,"{""48099"": 89.52, ""48309"": 10.48}",Coryell|McLennan,48099|48309,False,False,America/Chicago,"(31.42531, -97.54098)",4.781153234144559,997.0,16052_0_yes,31.371478671884592,-97.5919205516455,5.0

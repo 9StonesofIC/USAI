@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68431,40.0677,-95.43402,Rulo,NE,Nebraska,True,,226.0,1.8,31147,Richardson,"{""31147"": 100}",Richardson,31147,False,False,America/Chicago,"(40.0677, -95.43402)",6.626582181353307,226.0,35931_0_no,39.99584830631929,-95.51698639690946,5.0

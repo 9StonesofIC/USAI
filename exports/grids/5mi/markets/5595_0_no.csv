@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33455,27.05748,-80.1703,Hobe Sound,FL,Florida,True,,22031.0,150.3,12085,Martin,"{""12085"": 100}",Martin,12085,False,False,America/New_York,"(27.05748, -80.1703)",2.8446359775029912,22031.0,5595_0_no,27.080426457729093,-80.13191157842338,5.0

@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82936,41.05725,-110.18239,Lonetree,WY,Wyoming,True,,10.0,0.0,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver,"(41.05725, -110.18239)",10.027092428142478,1049.0,2463_0_no,40.91333298581976,-110.157649996103,20.0
+82944,41.12199,-110.49746,Robertson,WY,Wyoming,True,,627.0,2.0,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver,"(41.12199, -110.49746)",22.839823968697875,1049.0,2463_0_no,40.91333298581976,-110.157649996103,20.0
+84046,40.95339,-109.82786,Manila,UT,Utah,True,,412.0,1.4,49009,Daggett,"{""49009"": 100}",Daggett,49009,False,False,America/Denver,"(40.95339, -109.82786)",17.435485933701024,1049.0,2463_0_no,40.91333298581976,-110.157649996103,20.0

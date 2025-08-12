@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31625,30.9918,-83.52556,Barney,GA,Georgia,True,,1335.0,8.9,13027,Brooks,"{""13027"": 100}",Brooks,13027,False,False,America/New_York,"(30.9918, -83.52556)",3.85469436001254,1564.0,15257_0_no,30.999596217849557,-83.46111553139335,5.0
+31627,31.03923,-83.39238,Cecil,GA,Georgia,True,,229.0,119.4,13075,Cook,"{""13075"": 100}",Cook,13075,False,False,America/New_York,"(31.03923, -83.39238)",4.905504123427503,1564.0,15257_0_no,30.999596217849557,-83.46111553139335,5.0

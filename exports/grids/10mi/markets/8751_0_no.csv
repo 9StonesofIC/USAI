@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80432,39.22256,-105.82969,Como,CO,Colorado,True,,215.0,0.4,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(39.22256, -105.82969)",8.097739696091617,517.0,8751_0_no,39.33687479221161,-105.79630194485564,10.0
+80456,39.30643,-105.69211,Jefferson,CO,Colorado,True,,302.0,0.5,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(39.30643, -105.69211)",5.953160193555402,517.0,8751_0_no,39.33687479221161,-105.79630194485564,10.0

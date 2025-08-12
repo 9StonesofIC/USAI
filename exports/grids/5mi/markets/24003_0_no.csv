@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86335,34.65216,-111.68044,Rimrock,AZ,Arizona,True,,4868.0,6.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.65216, -111.68044)",4.220773539564194,4868.0,24003_0_no,34.64503702802648,-111.75419056439178,5.0

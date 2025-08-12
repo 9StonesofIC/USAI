@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58065,47.20035,-97.76612,Pillsbury,ND,North Dakota,True,,33.0,3.0,38003,Barnes,"{""38003"": 100}",Barnes,38003,False,False,America/Chicago,"(47.20035, -97.76612)",3.7138411626012418,33.0,50479_0_yes,47.16464733395762,-97.8252384013917,5.0

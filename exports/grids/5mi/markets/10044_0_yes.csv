@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78064,28.9206,-98.4249,Pleasanton,TX,Texas,True,,16722.0,22.9,48013,Atascosa,"{""48013"": 95.91, ""48493"": 4.09}",Atascosa|Wilson,48013|48493,False,False,America/Chicago,"(28.9206, -98.4249)",1.1128690603150861,16722.0,10044_0_yes,28.905297177739165,-98.43064049953202,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56688,47.7699,-93.89172,Wirt,MN,Minnesota,True,,92.0,0.3,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.7699, -93.89172)",2.189115899905815,92.0,51568_0_yes,47.739728556417866,-93.877335540213,5.0

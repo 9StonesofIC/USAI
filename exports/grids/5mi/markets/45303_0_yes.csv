@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54922,44.54281,-88.74529,Bear Creek,WI,Wisconsin,True,,1195.0,10.0,55087,Outagamie,"{""55087"": 54.8, ""55135"": 45.2}",Outagamie|Waupaca,55087|55135,False,False,America/Chicago,"(44.54281, -88.74529)",0.7479187901108576,1195.0,45303_0_yes,44.551417538149934,-88.73607968615748,5.0

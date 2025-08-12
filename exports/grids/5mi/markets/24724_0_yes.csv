@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93516,35.0081,-117.64268,Boron,CA,California,True,,2406.0,32.5,6029,Kern,"{""06029"": 52.03, ""06071"": 47.97}",Kern|San Bernardino,06029|06071,False,False,America/Los_Angeles,"(35.0081, -117.64268)",2.7443347021090108,2406.0,24724_0_yes,35.01182487323886,-117.59439963258409,5.0

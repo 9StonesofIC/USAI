@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54173,44.64228,-88.03212,Suamico,WI,Wisconsin,True,,4324.0,117.2,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago,"(44.64228, -88.03212)",1.9478048949788471,4324.0,45564_0_no,44.62318723367549,-88.00297390627702,5.0

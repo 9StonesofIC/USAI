@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21617,39.04985,-76.03819,Centreville,MD,Maryland,True,,10534.0,37.5,24035,Queen Anne's,"{""24035"": 100}",Queen Anne's,24035,False,False,America/New_York,"(39.04985, -76.03819)",3.401338451413632,10534.0,33640_0_yes,39.03861176480885,-76.09990062082075,5.0

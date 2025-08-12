@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38226,36.47722,-88.66382,Dukedom,TN,Tennessee,True,,288.0,4.6,47183,Weakley,"{""47183"": 100}",Weakley,47183,False,False,America/Chicago,"(36.47722, -88.66382)",3.3733557982273337,1957.0,28192_0_no,36.512811115044656,-88.62224675900184,5.0
+42079,36.55978,-88.57611,Sedalia,KY,Kentucky,True,,1669.0,11.8,21083,Graves,"{""21083"": 100}",Graves,21083,False,False,America/Chicago,"(36.55978, -88.57611)",4.134222333591422,1957.0,28192_0_no,36.512811115044656,-88.62224675900184,5.0

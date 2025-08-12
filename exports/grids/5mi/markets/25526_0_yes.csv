@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28746,35.461,-82.16779,Lake Lure,NC,North Carolina,True,,2575.0,22.1,37161,Rutherford,"{""37161"": 100}",Rutherford,37161,False,False,America/New_York,"(35.461, -82.16779)",4.355935866822467,2575.0,25526_0_yes,35.42089826670927,-82.10808088886436,5.0

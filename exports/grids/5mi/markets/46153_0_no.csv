@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54401,44.96647,-89.70794,Wausau,WI,Wisconsin,True,,30625.0,140.5,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago,"(44.96647, -89.70794)",4.5272561951394055,34629.0,46153_0_no,44.91413133831608,-89.65224820411478,5.0
+54474,44.87395,-89.62223,Rothschild,WI,Wisconsin,True,,4004.0,308.2,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago,"(44.87395, -89.62223)",3.1410939619699523,34629.0,46153_0_no,44.91413133831608,-89.65224820411478,5.0

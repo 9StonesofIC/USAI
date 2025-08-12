@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24458,38.33066,-79.51201,McDowell,VA,Virginia,True,,241.0,1.4,51091,Highland,"{""51091"": 100}",Highland,51091,False,False,America/New_York,"(38.33066, -79.51201)",1.5595923796597662,241.0,32061_0_yes,38.31704804139036,-79.53496180637285,5.0

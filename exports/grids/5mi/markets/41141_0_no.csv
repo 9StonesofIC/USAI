@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50624,42.46874,-92.65879,Dike,IA,Iowa,True,,1460.0,11.0,19075,Grundy,"{""19075"": 100}",Grundy,19075,False,False,America/Chicago,"(42.46874, -92.65879)",1.668212500968168,1649.0,41141_0_no,42.45565044912694,-92.63128888918268,5.0
+50673,42.52505,-92.7113,Stout,IA,Iowa,True,,189.0,433.0,19075,Grundy,"{""19075"": 100}",Grundy,19075,False,False,America/Chicago,"(42.52505, -92.7113)",6.293661378172691,1649.0,41141_0_no,42.45565044912694,-92.63128888918268,5.0

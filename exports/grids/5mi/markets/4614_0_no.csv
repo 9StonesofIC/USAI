@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78536,26.6432,-98.44369,Delmita,TX,Texas,True,,340.0,3.0,48427,Starr,"{""48427"": 98.23, ""48215"": 1.77}",Starr|Hidalgo,48427|48215,False,False,America/Chicago,"(26.6432, -98.44369)",2.390630075398143,340.0,4614_0_no,26.65546440387609,-98.40749114133938,5.0

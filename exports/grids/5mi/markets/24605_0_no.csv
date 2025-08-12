@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73554,34.85562,-99.60118,Mangum,OK,Oklahoma,True,,3401.0,3.7,40055,Greer,"{""40055"": 85.55, ""40057"": 13.42, ""40065"": 1.03}",Greer|Harmon|Jackson,40055|40057|40065,False,False,America/Chicago,"(34.85562, -99.60118)",5.564003918696498,3401.0,24605_0_no,34.92626163773783,-99.55404700247756,5.0

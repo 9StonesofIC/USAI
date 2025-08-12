@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77878,30.47222,-96.45089,Snook,TX,Texas,True,,312.0,5.3,48051,Burleson,"{""48051"": 100}",Burleson,48051,False,False,America/Chicago,"(30.47222, -96.45089)",3.1474699276247025,5669.0,13929_0_no,30.42772680462472,-96.43955362314846,5.0
+77879,30.40078,-96.49378,Somerville,TX,Texas,True,,5357.0,10.8,48051,Burleson,"{""48051"": 100}",Burleson,48051,False,False,America/Chicago,"(30.40078, -96.49378)",3.729135843494448,5669.0,13929_0_no,30.42772680462472,-96.43955362314846,5.0

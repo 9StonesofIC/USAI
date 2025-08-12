@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35619,34.38606,-87.14545,Danville,AL,Alabama,True,,4534.0,13.3,1079,Lawrence,"{""01079"": 68.25, ""01103"": 31.59, ""01043"": 0.16}",Lawrence|Morgan|Cullman,01079|01103|01043,False,False,America/Chicago,"(34.38606, -87.14545)",3.3982334620525454,4534.0,23189_0_no,34.33737150049264,-87.13702102313299,5.0

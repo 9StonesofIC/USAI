@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78043,27.54037,-99.27447,Laredo,TX,Texas,True,,46141.0,100.6,48479,Webb,"{""48479"": 100}",Webb,48479,False,False,America/Chicago,"(27.54037, -99.27447)",3.5839160167714477,46141.0,1755_0_yes,27.584380209392705,-99.24350258266034,10.0

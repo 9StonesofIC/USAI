@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59030,45.08882,-110.59376,Gardiner,MT,Montana,True,,1249.0,1.0,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver,"(45.08882, -110.59376)",5.735723931677105,1249.0,46572_0_yes,45.15001199505407,-110.67325898797723,5.0

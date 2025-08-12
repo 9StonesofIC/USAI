@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39577,30.90213,-89.07971,Wiggins,MS,Mississippi,True,,10737.0,16.4,28131,Stone,"{""28131"": 54.81, ""28111"": 28.49, ""28035"": 16.7}",Stone|Perry|Forrest,28131|28111|28035,False,False,America/Chicago,"(30.90213, -89.07971)",3.7242519008752883,10737.0,3862_0_no,30.907525349920952,-89.14221539610105,10.0

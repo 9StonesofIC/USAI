@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14826,42.49354,-77.49335,Cohocton,NY,New York,True,,2271.0,14.8,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.49354, -77.49335)",5.171254615888489,2271.0,41064_0_no,42.44279646213129,-77.56793273895006,5.0

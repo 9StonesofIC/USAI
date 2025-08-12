@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71949,34.68938,-93.21552,Jessieville,AR,Arkansas,True,,1186.0,2.4,5051,Garland,"{""05051"": 100}",Garland,05051,False,False,America/Chicago,"(34.68938, -93.21552)",1.3242650788636603,1186.0,23914_0_yes,34.70414401003234,-93.2006548862098,5.0

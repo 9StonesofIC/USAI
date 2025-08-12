@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68777,42.86088,-98.68504,Spencer,NE,Nebraska,True,,571.0,1.2,31015,Boyd,"{""31015"": 71.99, ""31089"": 28.01}",Boyd|Holt,31015|31089,False,False,America/Chicago,"(42.86088, -98.68504)",2.697882167160058,571.0,42074_0_no,42.89527325743168,-98.71026752958072,5.0

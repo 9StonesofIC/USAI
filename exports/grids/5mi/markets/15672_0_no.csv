@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75980,31.12387,-94.34703,Zavalla,TX,Texas,True,,2255.0,5.6,48005,Angelina,"{""48005"": 90.63, ""48241"": 9.37}",Angelina|Jasper,48005|48241,False,False,America/Chicago,"(31.12387, -94.34703)",2.3009456001401865,2255.0,15672_0_no,31.151783774148445,-94.36824857614089,5.0

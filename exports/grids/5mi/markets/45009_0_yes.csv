@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54913,44.34145,-88.40136,Appleton,WI,Wisconsin,True,,22184.0,133.4,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago,"(44.34145, -88.40136)",4.597275540158961,22184.0,45009_0_yes,44.40639474175042,-88.4216029540465,5.0

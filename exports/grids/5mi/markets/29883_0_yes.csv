@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67357,37.33951,-95.25261,Parsons,KS,Kansas,True,,11700.0,22.9,20099,Labette,"{""20099"": 73.44, ""20133"": 26.56}",Labette|Neosho,20099|20133,False,False,America/Chicago,"(37.33951, -95.25261)",2.4368012166725856,11700.0,29883_0_yes,37.31491696381357,-95.22081990114688,5.0

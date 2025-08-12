@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75570,33.4649,-94.4389,New Boston,TX,Texas,True,,10703.0,31.1,48037,Bowie,"{""48037"": 100}",Bowie,48037,False,False,America/Chicago,"(33.4649, -94.4389)",0.6156704172389879,10703.0,21196_0_no,33.472539304758016,-94.44439889078308,5.0

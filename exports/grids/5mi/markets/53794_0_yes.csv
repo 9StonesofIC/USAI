@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59275,48.87415,-104.17865,Westby,MT,Montana,True,,460.0,0.5,30091,Sheridan,"{""30091"": 75.76, ""38023"": 24.24}",Sheridan|Divide,30091|38023,False,False,America/Denver,"(48.87415, -104.17865)",2.847357972291328,460.0,53794_0_yes,48.90680564422644,-104.14041806197312,5.0

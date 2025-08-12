@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30721,34.79168,-84.91187,Dalton,GA,Georgia,True,,52658.0,160.4,13313,Whitfield,"{""13313"": 95.77, ""13213"": 4.23}",Whitfield|Murray,13313|13213,False,False,America/New_York,"(34.79168, -84.91187)",4.1332046381628915,52658.0,24203_0_yes,34.84310679887441,-84.8746486757873,5.0

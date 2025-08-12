@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37738,35.67125,-83.47641,Gatlinburg,TN,Tennessee,True,,5343.0,9.6,47155,Sevier,"{""47155"": 100}",Sevier,47155,False,False,America/New_York,"(35.67125, -83.47641)",5.170482416777945,28074.0,26200_0_yes,35.71184296389974,-83.55381586991562,5.0
+37862,35.78314,-83.61232,Sevierville,TN,Tennessee,True,,22731.0,107.3,47155,Sevier,"{""47155"": 100}",Sevier,47155,False,False,America/New_York,"(35.78314, -83.61232)",5.918608519994834,28074.0,26200_0_yes,35.71184296389974,-83.55381586991562,5.0

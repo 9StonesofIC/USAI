@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71342,31.60042,-92.1403,Jena,LA,Louisiana,True,,7046.0,17.1,22059,LaSalle,"{""22059"": 100}",LaSalle,22059,False,False,America/Chicago,"(31.60042, -92.1403)",5.447562729413256,7046.0,16717_0_yes,31.657952355012903,-92.07698490658788,5.0

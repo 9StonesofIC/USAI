@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59830,47.43419,-115.45896,De Borgia,MT,Montana,True,,183.0,0.7,30061,Mineral,"{""30061"": 100}",Mineral,30061,False,False,America/Denver,"(47.43419, -115.45896)",4.50042815896457,236.0,51091_0_no,47.398214866415074,-115.5392051123843,5.0
+59867,47.4028,-115.54993,Saltese,MT,Montana,True,,53.0,0.9,30061,Mineral,"{""30061"": 100}",Mineral,30061,False,False,America/Denver,"(47.4028, -115.54993)",0.593244941625571,236.0,51091_0_no,47.398214866415074,-115.5392051123843,5.0

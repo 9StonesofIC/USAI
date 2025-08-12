@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12945,44.33451,-74.23829,Lake Clear,NY,New York,True,,449.0,5.1,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.33451, -74.23829)",4.605916569173546,1288.0,44939_0_yes,44.39389005426913,-74.28066750611946,5.0
+12970,44.44949,-74.33222,Paul Smiths,NY,New York,True,,839.0,3.0,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.44949, -74.33222)",4.607555324756722,1288.0,44939_0_yes,44.39389005426913,-74.28066750611946,5.0

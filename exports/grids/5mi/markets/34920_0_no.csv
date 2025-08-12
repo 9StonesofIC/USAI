@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43149,39.53742,-82.57188,Rockbridge,OH,Ohio,True,,2399.0,17.1,39073,Hocking,"{""39073"": 100}",Hocking,39073,False,False,America/New_York,"(39.53742, -82.57188)",1.483785458453506,2399.0,34920_0_no,39.55081581769949,-82.59364640233757,5.0

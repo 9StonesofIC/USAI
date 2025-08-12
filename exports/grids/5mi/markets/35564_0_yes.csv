@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43747,39.85784,-81.12128,Jerusalem,OH,Ohio,True,,961.0,10.2,39013,Belmont,"{""39013"": 50.06, ""39111"": 49.94}",Belmont|Monroe,39013|39111,False,False,America/New_York,"(39.85784, -81.12128)",3.77802021137101,961.0,35564_0_yes,39.91169587122875,-81.13360447283587,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04268,44.22842,-70.60651,Norway,ME,Maine,True,,4970.0,42.6,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.22842, -70.60651)",1.8969417899074539,10103.0,44628_0_yes,44.24590828005282,-70.57696998678125,5.0
+04281,44.2445,-70.48832,South Paris,ME,Maine,True,,5133.0,48.7,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.2445, -70.48832)",4.3888792854470715,10103.0,44628_0_yes,44.24590828005282,-70.57696998678125,5.0

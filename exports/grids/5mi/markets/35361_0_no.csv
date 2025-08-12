@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81657,39.64864,-106.32608,Vail,CO,Colorado,True,,5903.0,19.6,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.64864, -106.32608)",4.615882495445,5903.0,35361_0_no,39.714848657687945,-106.33766617872196,5.0

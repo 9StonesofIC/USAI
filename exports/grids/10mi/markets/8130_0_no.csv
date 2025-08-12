@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84773,38.24958,-111.47045,Teasdale,UT,Utah,True,,242.0,1.6,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver,"(38.24958, -111.47045)",8.846732612902052,242.0,8130_0_no,38.186959194323045,-111.61260092183022,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93549,36.27728,-117.96016,Olancha,CA,California,True,,273.0,0.2,6027,Inyo,"{""06027"": 100}",Inyo,06027,False,False,America/Los_Angeles,"(36.27728, -117.96016)",2.577770572974082,273.0,27698_0_no,36.24486798600803,-117.93724558755282,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85927,33.99572,-109.48079,Greer,AZ,Arizona,True,,129.0,0.4,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix,"(33.99572, -109.48079)",0.9851146425592527,129.0,22318_0_yes,33.990701629806615,-109.4968861225915,5.0

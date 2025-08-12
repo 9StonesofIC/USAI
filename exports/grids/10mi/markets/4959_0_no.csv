@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88042,32.80979,-107.56385,Hillsboro,NM,New Mexico,True,,367.0,0.2,35051,Sierra,"{""35051"": 100}",Sierra,35051,False,False,America/Denver,"(32.80979, -107.56385)",11.681892749783824,367.0,4959_0_no,32.67219738986878,-107.68066524622331,10.0

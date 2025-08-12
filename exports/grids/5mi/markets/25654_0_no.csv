@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87045,35.40018,-108.00182,Prewitt,NM,New Mexico,True,,1692.0,4.1,35031,McKinley,"{""35031"": 98.32, ""35006"": 1.68}",McKinley|Cibola,35031|35006,False,False,America/Denver,"(35.40018, -108.00182)",5.209473525575836,1692.0,25654_0_no,35.36737090096419,-107.91855552494278,5.0

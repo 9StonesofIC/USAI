@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59749,45.44332,-112.09548,Sheridan,MT,Montana,True,,2080.0,3.4,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver,"(45.44332, -112.09548)",1.0342879584735256,2080.0,11935_0_no,45.429410979021576,-112.0875937949541,10.0

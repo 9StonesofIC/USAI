@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87121,35.01031,-106.87816,Albuquerque,NM,New Mexico,True,,77671.0,89.0,35001,Bernalillo,"{""35001"": 100}",Bernalillo,35001,False,False,America/Denver,"(35.01031, -106.87816)",2.230156240118033,77671.0,24663_0_yes,35.004014193544826,-106.83951001505798,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78827,28.42865,-99.72393,Asherton,TX,Texas,True,,1030.0,6.2,48127,Dimmit,"{""48127"": 100}",Dimmit,48127,False,False,America/Chicago,"(28.42865, -99.72393)",2.654120480036075,1110.0,2299_0_yes,28.45537700537176,-99.69255158690952,10.0
+78836,28.32336,-99.64569,Catarina,TX,Texas,True,,80.0,0.4,48127,Dimmit,"{""48127"": 100}",Dimmit,48127,False,False,America/Chicago,"(28.32336, -99.64569)",9.555912117182196,1110.0,2299_0_yes,28.45537700537176,-99.69255158690952,10.0

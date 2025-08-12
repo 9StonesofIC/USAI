@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28658,35.63557,-81.24222,Newton,NC,North Carolina,True,,27818.0,150.6,37035,Catawba,"{""37035"": 100}",Catawba,37035,False,False,America/New_York,"(35.63557, -81.24222)",6.565393275238254,27818.0,25855_0_yes,35.565258580554165,-81.32083031350629,5.0

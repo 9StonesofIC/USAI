@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92543,33.69867,-116.97916,Hemet,CA,California,True,,37492.0,756.2,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.69867, -116.97916)",5.020922975108399,87884.0,21666_0_no,33.63333002452107,-116.94094854142624,5.0
+92544,33.64581,-116.86033,Hemet,CA,California,True,,50392.0,113.9,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.64581, -116.86033)",4.716902303210293,87884.0,21666_0_no,33.63333002452107,-116.94094854142624,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92368,34.65508,-117.30893,Oro Grande,CA,California,True,,1058.0,8.2,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.65508, -117.30893)",3.582845079759651,1058.0,24035_0_no,34.64908007509009,-117.37154312752776,5.0

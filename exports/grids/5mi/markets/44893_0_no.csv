@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04220,44.33511,-70.35286,Buckfield,ME,Maine,True,,3292.0,15.3,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.33511, -70.35286)",4.006472015632322,4377.0,44893_0_no,44.3181819256254,-70.43038705824074,5.0
+04292,44.37461,-70.44674,Sumner,ME,Maine,True,,1085.0,9.6,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.37461, -70.44674)",3.9816560974968818,4377.0,44893_0_no,44.3181819256254,-70.43038705824074,5.0

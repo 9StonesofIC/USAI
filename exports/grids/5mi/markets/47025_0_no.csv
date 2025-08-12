@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54731,45.34656,-91.08304,Conrath,WI,Wisconsin,True,,723.0,6.0,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago,"(45.34656, -91.08304)",2.759799660126225,723.0,47025_0_no,45.34956040743659,-91.02636631140308,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49097,42.11491,-85.48985,Vicksburg,MI,Michigan,True,,11444.0,63.2,26077,Kalamazoo,"{""26077"": 94.91, ""26149"": 5.09}",Kalamazoo|St. Joseph,26077|26149,False,False,America/Detroit,"(42.11491, -85.48985)",2.0159787107211717,11444.0,40223_0_yes,42.08754574468399,-85.50349712939023,5.0

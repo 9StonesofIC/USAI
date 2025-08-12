@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39866,31.55954,-84.60553,Morgan,GA,Georgia,True,,2201.0,14.4,13037,Calhoun,"{""13037"": 95.77, ""13243"": 4.23}",Calhoun|Randolph,13037|13243,False,False,America/New_York,"(31.55954, -84.60553)",2.911288775588207,2201.0,16661_0_no,31.58047277924247,-84.56260980074555,5.0

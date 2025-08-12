@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48756,44.23142,-83.97409,Prescott,MI,Michigan,True,,4560.0,22.0,26129,Ogemaw,"{""26129"": 99.67, ""26011"": 0.33}",Ogemaw|Arenac,26129|26011,False,False,America/Detroit,"(44.23142, -83.97409)",4.854884996360862,4560.0,44668_0_no,44.18546845657277,-84.04824838246465,5.0

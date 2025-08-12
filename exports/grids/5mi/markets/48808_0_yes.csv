@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58552,46.26042,-100.29955,Linton,ND,North Dakota,True,,1538.0,1.2,38029,Emmons,"{""38029"": 100}",Emmons,38029,False,False,America/Chicago,"(46.26042, -100.29955)",3.4767319856076515,1538.0,48808_0_yes,46.29868721286933,-100.34682685443047,5.0

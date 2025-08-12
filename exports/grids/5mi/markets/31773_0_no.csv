@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62238,38.04499,-89.5319,Cutler,IL,Illinois,True,,661.0,5.1,17145,Perry,"{""17145"": 100}",Perry,17145,False,False,America/Chicago,"(38.04499, -89.5319)",4.685979476347857,661.0,31773_0_no,38.10756175747119,-89.49866528135826,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68813,41.70477,-99.8355,Anselmo,NE,Nebraska,True,,449.0,0.3,31041,Custer,"{""31041"": 63.84, ""31009"": 25.34, ""31115"": 10.82}",Custer|Blaine|Loup,31041|31009|31115,False,False,America/Chicago,"(41.70477, -99.8355)",5.842747801215474,449.0,9991_0_yes,41.788799987156594,-99.82279423764751,10.0

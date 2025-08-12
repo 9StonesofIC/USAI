@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81418,38.90479,-108.05687,Eckert,CO,Colorado,True,,1787.0,9.7,8029,Delta,"{""08029"": 100}",Delta,08029,False,False,America/Denver,"(38.90479, -108.05687)",3.108252116412256,1787.0,33494_0_yes,38.91920138489456,-108.1116377215015,5.0

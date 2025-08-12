@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13672,44.48166,-74.67987,Parishville,NY,New York,True,,439.0,1.2,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/New_York,"(44.48166, -74.67987)",3.375017293620965,897.0,45207_0_no,44.46670693119629,-74.74503867096878,5.0
+13687,44.44744,-74.82516,South Colton,NY,New York,True,,458.0,2.3,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/New_York,"(44.44744, -74.82516)",4.16957680925991,897.0,45207_0_no,44.46670693119629,-74.74503867096878,5.0

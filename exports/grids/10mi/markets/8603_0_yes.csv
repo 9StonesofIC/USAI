@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80456,39.30643,-105.69211,Jefferson,CO,Colorado,True,,302.0,0.5,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(39.30643, -105.69211)",8.771228520880546,911.0,8603_0_yes,39.19156212226855,-105.6223190413016,10.0
+80827,39.05821,-105.46272,Lake George,CO,Colorado,True,,609.0,0.8,8093,Park,"{""08093"": 87.73, ""08119"": 12.27}",Park|Teller,08093|08119,False,False,America/Denver,"(39.05821, -105.46272)",12.57278252279304,911.0,8603_0_yes,39.19156212226855,-105.6223190413016,10.0

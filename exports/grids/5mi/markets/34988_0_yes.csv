@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63467,39.64849,-91.26655,Saverton,MO,Missouri,True,,37.0,46.7,29173,Ralls,"{""29173"": 100}",Ralls,29173,False,False,America/Chicago,"(39.64849, -91.26655)",1.4922374341626685,37.0,34988_0_yes,39.630181048833535,-91.25167412625171,5.0

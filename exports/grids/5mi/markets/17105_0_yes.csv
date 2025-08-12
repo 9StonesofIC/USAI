@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76432,31.83945,-98.78705,Blanket,TX,Texas,True,,1467.0,5.2,48049,Brown,"{""48049"": 57.93, ""48093"": 42.07}",Brown|Comanche,48049|48093,False,False,America/Chicago,"(31.83945, -98.78705)",3.0874621555190145,1467.0,17105_0_yes,31.807506348535924,-98.82382529267002,5.0

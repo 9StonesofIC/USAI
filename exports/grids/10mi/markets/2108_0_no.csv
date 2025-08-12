@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78358,28.06841,-97.04325,Fulton,TX,Texas,True,,599.0,279.7,48007,Aransas,"{""48007"": 100}",Aransas,48007,False,False,America/Chicago,"(28.06841, -97.04325)",3.87987368758081,19912.0,2108_0_no,28.01707446195477,-97.01746446852984,10.0
+78382,28.11489,-97.06342,Rockport,TX,Texas,True,,19313.0,93.3,48007,Aransas,"{""48007"": 100}",Aransas,48007,False,False,America/Chicago,"(28.11489, -97.06342)",7.3161739142236835,19912.0,2108_0_no,28.01707446195477,-97.01746446852984,10.0

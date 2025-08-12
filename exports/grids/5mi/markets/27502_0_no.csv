@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37745,36.2784,-82.82631,Greeneville,TN,Tennessee,True,,18233.0,57.7,47059,Greene,"{""47059"": 96.62, ""47073"": 3.38}",Greene|Hawkins,47059|47073,False,False,America/New_York,"(36.2784, -82.82631)",4.336268057099291,18233.0,27502_0_no,36.21862018913274,-82.85000408954568,5.0

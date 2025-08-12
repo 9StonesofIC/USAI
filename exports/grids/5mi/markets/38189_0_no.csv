@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84024,41.00765,-111.44721,Echo,UT,Utah,True,,44.0,2.2,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver,"(41.00765, -111.44721)",4.185746102528781,1200.0,38189_0_no,41.02313005465605,-111.52483387635468,5.0
+84033,40.98002,-111.49148,Henefer,UT,Utah,True,,1156.0,6.2,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver,"(40.98002, -111.49148)",3.4492087187732836,1200.0,38189_0_no,41.02313005465605,-111.52483387635468,5.0

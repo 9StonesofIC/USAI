@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27921,36.3446,-76.15512,Camden,NC,North Carolina,True,,4307.0,26.0,37029,Camden,"{""37029"": 100}",Camden,37029,False,False,America/New_York,"(36.3446, -76.15512)",5.693510045227936,5706.0,27483_0_yes,36.28597531869866,-76.08325253252738,5.0
+27974,36.23941,-76.00264,Shiloh,NC,North Carolina,True,,1399.0,11.9,37029,Camden,"{""37029"": 100}",Camden,37029,False,False,America/New_York,"(36.23941, -76.00264)",5.524534343412284,5706.0,27483_0_yes,36.28597531869866,-76.08325253252738,5.0

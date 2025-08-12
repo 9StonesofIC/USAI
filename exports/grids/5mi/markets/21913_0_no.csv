@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79220,33.7658,-100.76614,Afton,TX,Texas,True,,271.0,0.9,48125,Dickens,"{""48125"": 100}",Dickens,48125,False,False,America/Chicago,"(33.7658, -100.76614)",0.22767941829979,271.0,21913_0_no,33.76702076040678,-100.76982186934028,5.0

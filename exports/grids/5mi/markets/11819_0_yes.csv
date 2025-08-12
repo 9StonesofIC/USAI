@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78962,29.66951,-96.73815,Weimar,TX,Texas,True,,5290.0,11.8,48089,Colorado,"{""48089"": 84.64, ""48149"": 15.36}",Colorado|Fayette,48089|48149,False,False,America/Chicago,"(29.66951, -96.73815)",2.787365122484775,5290.0,11819_0_yes,29.6298451308886,-96.74661914590942,5.0

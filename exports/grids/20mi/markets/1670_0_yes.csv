@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89039,35.26581,-114.8725,Cal Nev Ari,NV,Nevada,True,,222.0,1.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(35.26581, -114.8725)",15.745210616146332,601.0,1670_0_yes,35.4232380140557,-115.07449355018323,20.0
+89046,35.51207,-114.8338,Searchlight,NV,Nevada,True,,379.0,0.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(35.51207, -114.8338)",14.870233967917393,601.0,1670_0_yes,35.4232380140557,-115.07449355018323,20.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59274,47.83944,-105.42204,Vida,MT,Montana,True,,297.0,0.4,30055,McCone,"{""30055"": 100}",McCone,30055,False,False,America/Denver,"(47.83944, -105.42204)",9.992638848474702,297.0,13057_0_yes,47.87726765284326,-105.6300840413344,10.0

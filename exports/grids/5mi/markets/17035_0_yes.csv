@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36030,31.86044,-86.85697,Forest Home,AL,Alabama,True,,540.0,2.8,1013,Butler,"{""01013"": 100}",Butler,01013,False,False,America/Chicago,"(31.86044, -86.85697)",5.889318645013041,540.0,17035_0_yes,31.79956541054632,-86.92719309060364,5.0

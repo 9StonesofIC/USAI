@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97850,45.30689,-118.13265,La Grande,OR,Oregon,True,,17388.0,21.0,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles,"(45.30689, -118.13265)",11.050594619949312,17618.0,11950_0_no,45.44052089161043,-118.25774768648144,10.0
+97859,45.5258,-118.43209,Meacham,OR,Oregon,True,,230.0,0.8,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles,"(45.5258, -118.43209)",10.297893088070401,17618.0,11950_0_no,45.44052089161043,-118.25774768648144,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49757,45.85933,-84.62533,Mackinac Island,MI,Michigan,True,,992.0,88.0,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(45.85933, -84.62533)",2.1193308332631045,992.0,47880_0_yes,45.85019811747525,-84.5832863600236,5.0

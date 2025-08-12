@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13404,43.73842,-75.48089,Martinsburg,NY,New York,True,,130.0,30.4,36049,Lewis,"{""36049"": 100}",Lewis,36049,False,False,America/New_York,"(43.73842, -75.48089)",4.67568123426439,1088.0,43473_0_yes,43.67133716390473,-75.4932142629327,5.0
+13473,43.64414,-75.44517,Turin,NY,New York,True,,958.0,9.0,36049,Lewis,"{""36049"": 100}",Lewis,36049,False,False,America/New_York,"(43.64414, -75.44517)",3.0494132533767297,1088.0,43473_0_yes,43.67133716390473,-75.4932142629327,5.0

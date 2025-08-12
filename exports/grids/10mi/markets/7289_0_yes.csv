@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74631,36.79858,-97.30585,Blackwell,OK,Oklahoma,True,,7352.0,27.5,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago,"(36.79858, -97.30585)",7.2662900456368025,7854.0,7289_0_yes,36.8604997710075,-97.1996497004138,10.0
+74632,36.93958,-97.34144,Braman,OK,Oklahoma,True,,502.0,1.8,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago,"(36.93958, -97.34144)",9.551497998191966,7854.0,7289_0_yes,36.8604997710075,-97.1996497004138,10.0

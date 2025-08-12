@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05478,44.7941,-73.11714,Saint Albans,VT,Vermont,True,,15173.0,98.8,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York,"(44.7941, -73.11714)",2.704841518007984,15173.0,45808_0_yes,44.82695273108618,-73.08713150855301,5.0

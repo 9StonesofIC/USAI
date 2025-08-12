@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43718,40.00926,-81.00596,Belmont,OH,Ohio,True,,2672.0,17.9,39013,Belmont,"{""39013"": 100}",Belmont,39013,False,False,America/New_York,"(40.00926, -81.00596)",1.7437062621129018,5419.0,35854_0_no,39.98405419973012,-81.00759591454566,5.0
+43719,39.98907,-81.07938,Bethesda,OH,Ohio,True,,2747.0,31.7,39013,Belmont,"{""39013"": 100}",Belmont,39013,False,False,America/New_York,"(39.98907, -81.07938)",3.8159503424263925,5419.0,35854_0_no,39.98405419973012,-81.00759591454566,5.0

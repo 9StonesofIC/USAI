@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12737,41.50529,-74.79941,Glen Spey,NY,New York,True,,1800.0,19.8,36105,Sullivan,"{""36105"": 100}",Sullivan,36105,False,False,America/New_York,"(41.50529, -74.79941)",5.673711938197661,2663.0,39226_0_no,41.57175347042165,-74.73498086813471,5.0
+12777,41.55172,-74.71067,Forestburgh,NY,New York,True,,863.0,7.5,36105,Sullivan,"{""36105"": 100}",Sullivan,36105,False,False,America/New_York,"(41.55172, -74.71067)",1.869651092396507,2663.0,39226_0_no,41.57175347042165,-74.73498086813471,5.0

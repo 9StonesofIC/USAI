@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97874,44.75783,-119.84828,Spray,OR,Oregon,True,,431.0,0.6,41069,Wheeler,"{""41069"": 100}",Wheeler,41069,False,False,America/Los_Angeles,"(44.75783, -119.84828)",4.286231816100795,431.0,45748_0_yes,44.72388597797744,-119.92138285556211,5.0

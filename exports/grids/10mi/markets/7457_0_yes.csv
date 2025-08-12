@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67057,37.05954,-98.77864,Hardtner,KS,Kansas,True,,260.0,0.7,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago,"(37.05954, -98.77864)",9.507674987577406,541.0,7457_0_yes,37.15285291773359,-98.90545116942609,10.0
+67071,37.21423,-98.88522,Lake City,KS,Kansas,True,,281.0,0.7,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago,"(37.21423, -98.88522)",4.384544449121671,541.0,7457_0_yes,37.15285291773359,-98.90545116942609,10.0

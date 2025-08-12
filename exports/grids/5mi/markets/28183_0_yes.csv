@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24248,36.62708,-83.50767,Ewing,VA,Virginia,True,,2196.0,15.5,51105,Lee,"{""51105"": 100}",Lee,51105,False,False,America/New_York,"(36.62708, -83.50767)",4.375892294850596,2196.0,28183_0_yes,36.581339725261344,-83.45310270758495,5.0

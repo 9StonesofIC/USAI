@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83330,42.94207,-114.69291,Gooding,ID,Idaho,True,,6421.0,16.7,16047,Gooding,"{""16047"": 99.05, ""16063"": 0.95}",Gooding|Lincoln,16047|16063,False,False,America/Boise,"(42.94207, -114.69291)",2.52536749516815,6421.0,42155_0_no,42.90900972444067,-114.67162458876702,5.0

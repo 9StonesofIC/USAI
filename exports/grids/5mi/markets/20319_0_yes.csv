@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92054,33.19377,-117.35508,Oceanside,CA,California,True,,40709.0,2103.6,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(33.19377, -117.35508)",5.7268431627208045,40709.0,20319_0_yes,33.12583985393274,-117.41181086103816,5.0

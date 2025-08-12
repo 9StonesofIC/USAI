@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66866,38.17438,-97.10385,Peabody,KS,Kansas,True,,1715.0,4.8,20115,Marion,"{""20115"": 90.64, ""20079"": 9.36}",Marion|Harvey,20115|20079,False,False,America/Chicago,"(38.17438, -97.10385)",1.785217022738655,1715.0,31835_0_yes,38.18589494899697,-97.07442526009942,5.0

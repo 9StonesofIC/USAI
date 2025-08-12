@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44824,41.37952,-82.80422,Castalia,OH,Ohio,True,,3858.0,59.3,39043,Erie,"{""39043"": 94.29, ""39143"": 5.71}",Erie|Sandusky,39043|39143,False,False,America/New_York,"(41.37952, -82.80422)",4.9799804155819025,43069.0,38961_0_no,41.4336695206817,-82.74079794907121,5.0
+44870,41.40623,-82.7171,Sandusky,OH,Ohio,True,,39211.0,249.2,39043,Erie,"{""39043"": 100}",Erie,39043,False,False,America/New_York,"(41.40623, -82.7171)",2.2587554694062626,43069.0,38961_0_no,41.4336695206817,-82.74079794907121,5.0

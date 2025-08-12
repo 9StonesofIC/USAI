@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55736,46.97542,-92.92136,Floodwood,MN,Minnesota,True,,1340.0,1.5,27137,St. Louis,"{""27137"": 92.94, ""27061"": 7.06}",St. Louis|Itasca,27137|27061,False,False,America/Chicago,"(46.97542, -92.92136)",5.567997195209685,1340.0,50177_0_yes,47.01531862337298,-92.81870541091924,5.0

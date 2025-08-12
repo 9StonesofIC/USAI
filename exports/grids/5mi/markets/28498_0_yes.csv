@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24330,36.72375,-81.02471,Fries,VA,Virginia,True,,2905.0,26.2,51077,Grayson,"{""51077"": 78.82, ""51035"": 21.18}",Grayson|Carroll,51077|51035,False,False,America/New_York,"(36.72375, -81.02471)",0.4666705992262486,2905.0,28498_0_yes,36.724425227106806,-81.03309447545075,5.0

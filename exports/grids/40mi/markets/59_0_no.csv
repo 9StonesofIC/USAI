@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34140,25.92531,-81.65888,Goodland,FL,Florida,True,,217.0,63.0,12021,Collier,"{""12021"": 100}",Collier,12021,False,False,America/New_York,"(25.92531, -81.65888)",46.063676909931075,18180.0,59_0_no,25.39531969223717,-82.10758779705777,40.0
+34145,25.91903,-81.69506,Marco Island,FL,Florida,True,,17963.0,426.4,12021,Collier,"{""12021"": 100}",Collier,12021,False,False,America/New_York,"(25.91903, -81.69506)",44.378490893651396,18180.0,59_0_no,25.39531969223717,-82.10758779705777,40.0

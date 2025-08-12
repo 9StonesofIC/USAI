@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93636,36.98171,-119.87706,Madera,CA,California,True,,12527.0,24.5,6039,Madera,"{""06039"": 100}",Madera,06039,False,False,America/Los_Angeles,"(36.98171, -119.87706)",5.338872515627006,12527.0,29368_0_yes,37.04388367990944,-119.93451992675308,5.0

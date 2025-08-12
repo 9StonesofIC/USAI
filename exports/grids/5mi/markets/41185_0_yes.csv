@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51028,42.59909,-95.99199,Kingsley,IA,Iowa,True,,2231.0,6.9,19149,Plymouth,"{""19149"": 80.03, ""19193"": 19.97}",Plymouth|Woodbury,19149|19193,False,False,America/Chicago,"(42.59909, -95.99199)",4.749526014365003,2231.0,41185_0_yes,42.53088656332801,-96.00363563302068,5.0

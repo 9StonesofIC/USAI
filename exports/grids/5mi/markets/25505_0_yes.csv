@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27524,35.39392,-78.37948,Four Oaks,NC,North Carolina,True,,13308.0,38.2,37101,Johnston,"{""37101"": 92.07, ""37191"": 7.93}",Johnston|Wayne,37101|37191,False,False,America/New_York,"(35.39392, -78.37948)",1.725927988074594,13308.0,25505_0_yes,35.418168273675555,-78.38684167796106,5.0

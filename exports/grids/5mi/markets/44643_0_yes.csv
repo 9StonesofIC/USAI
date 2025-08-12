@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12932,44.21222,-73.6082,Elizabethtown,NY,New York,True,,1210.0,6.7,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.21222, -73.6082)",2.5500693170155806,1210.0,44643_0_yes,44.24857368398599,-73.59931000457887,5.0

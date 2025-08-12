@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72756,36.32214,-93.9922,Rogers,AR,Arkansas,True,,42830.0,127.3,5007,Benton,"{""05007"": 90.28, ""05087"": 9.72}",Benton|Madison,05007|05087,False,False,America/Chicago,"(36.32214, -93.9922)",1.6140357356361859,42830.0,27583_0_yes,36.29939676927456,-93.99881850896406,5.0

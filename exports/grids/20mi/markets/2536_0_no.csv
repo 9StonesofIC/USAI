@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82331,41.38607,-106.82252,Saratoga,WY,Wyoming,True,,2173.0,1.6,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.38607, -106.82252)",9.181900813050587,2218.0,2536_0_no,41.48165330422055,-106.9456658142963,20.0
+82335,41.76174,-106.82553,Walcott,WY,Wyoming,True,,45.0,1.4,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.76174, -106.82553)",20.322607538794294,2218.0,2536_0_no,41.48165330422055,-106.9456658142963,20.0

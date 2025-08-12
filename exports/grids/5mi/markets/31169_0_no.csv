@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67144,37.81673,-97.00539,Towanda,KS,Kansas,True,,2831.0,23.2,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago,"(37.81673, -97.00539)",3.1096411869028766,2831.0,31169_0_no,37.823538223339575,-96.94907126075331,5.0

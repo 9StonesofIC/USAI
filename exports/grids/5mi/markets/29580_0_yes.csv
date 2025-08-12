@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67029,37.16925,-99.28026,Coldwater,KS,Kansas,True,,1065.0,1.0,20033,Comanche,"{""20033"": 97.88, ""20097"": 2.12}",Comanche|Kiowa,20033|20097,False,False,America/Chicago,"(37.16925, -99.28026)",0.9111571942182956,1065.0,29580_0_yes,37.17307536803523,-99.26442194517416,5.0

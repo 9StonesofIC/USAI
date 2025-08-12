@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89831,41.75992,-116.03935,Mountain City,NV,Nevada,True,,11.0,0.0,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles,"(41.75992, -116.03935)",17.546346146695797,11.0,2552_0_yes,41.79989505186393,-115.70304593074708,20.0

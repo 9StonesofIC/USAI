@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75835,31.29758,-95.48834,Crockett,TX,Texas,True,,11425.0,9.4,48225,Houston,"{""48225"": 100}",Houston,48225,False,False,America/Chicago,"(31.29758, -95.48834)",0.9705993045832118,11425.0,16028_0_no,31.29759940700619,-95.50477995514532,5.0

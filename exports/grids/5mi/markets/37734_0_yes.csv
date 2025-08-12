@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15757,40.8902,-78.73733,Mahaffey,PA,Pennsylvania,True,,1466.0,6.7,42033,Clearfield,"{""42033"": 94.63, ""42063"": 5.37}",Clearfield|Indiana,42033|42063,False,False,America/New_York,"(40.8902, -78.73733)",2.3952119754417254,1466.0,37734_0_yes,40.92348537220263,-78.75014710912119,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80434,40.91209,-106.28228,Cowdrey,CO,Colorado,True,,29.0,0.1,8057,Jackson,"{""08057"": 100}",Jackson,08057,False,False,America/Denver,"(40.91209, -106.28228)",2.485524847065705,29.0,37878_0_yes,40.94628611968474,-106.26749893472122,5.0

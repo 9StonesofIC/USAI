@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30667,33.78526,-83.16634,Stephens,GA,Georgia,True,,851.0,4.8,13221,Oglethorpe,"{""13221"": 100}",Oglethorpe,13221,False,False,America/New_York,"(33.78526, -83.16634)",3.9591001110397386,851.0,21812_0_no,33.7546750918986,-83.22463046673636,5.0

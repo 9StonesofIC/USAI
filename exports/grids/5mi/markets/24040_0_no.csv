@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93551,34.59404,-118.22634,Palmdale,CA,California,True,,50978.0,232.2,6037,Los Angeles,"{""06037"": 100}",Los Angeles,06037,False,False,America/Los_Angeles,"(34.59404, -118.22634)",4.061669331677867,50978.0,24040_0_no,34.649711855975085,-118.2492790995628,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13787,42.20606,-75.66334,Harpursville,NY,New York,True,,3039.0,19.3,36007,Broome,"{""36007"": 66.79, ""36017"": 33.21}",Broome|Chenango,36007|36017,False,False,America/New_York,"(42.20606, -75.66334)",1.2461156665689623,3039.0,40476_0_yes,42.22397904493218,-75.66609961841361,5.0

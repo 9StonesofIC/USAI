@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58018,46.43458,-96.8887,Colfax,ND,North Dakota,True,,495.0,2.6,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago,"(46.43458, -96.8887)",4.604545485578698,495.0,49047_0_no,46.3679387900152,-96.88814315078552,5.0

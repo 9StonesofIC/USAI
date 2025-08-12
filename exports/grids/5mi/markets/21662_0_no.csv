@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92253,33.65562,-116.28785,La Quinta,CA,California,True,,41573.0,396.9,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.65562, -116.28785)",2.8224049745015347,41573.0,21662_0_no,33.63284343000658,-116.24711714087242,5.0

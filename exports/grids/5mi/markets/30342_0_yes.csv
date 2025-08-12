@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93644,37.41245,-119.59431,Oakhurst,CA,California,True,,8272.0,27.3,6039,Madera,"{""06039"": 100}",Madera,06039,False,False,America/Los_Angeles,"(37.41245, -119.59431)",5.412215084181739,8272.0,30342_0_yes,37.478568500191976,-119.54140540102082,5.0

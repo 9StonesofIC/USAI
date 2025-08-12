@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95623,38.6075,-120.84873,El Dorado,CA,California,True,,3949.0,34.1,6017,El Dorado,"{""06017"": 100}",El Dorado,06017,False,False,America/Los_Angeles,"(38.6075, -120.84873)",2.8418695563481218,8848.0,32905_0_no,38.56696990821258,-120.85769048694654,5.0
+95669,38.49522,-120.89157,Plymouth,CA,California,True,,4899.0,25.0,6005,Amador,"{""06005"": 100}",Amador,06005,False,False,America/Los_Angeles,"(38.49522, -120.89157)",5.284835672396284,8848.0,32905_0_no,38.56696990821258,-120.85769048694654,5.0

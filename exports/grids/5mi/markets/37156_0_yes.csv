@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47997,40.66769,-86.72379,Yeoman,IN,Indiana,True,,158.0,479.8,18015,Carroll,"{""18015"": 100}",Carroll,18015,False,False,America/Indiana/Indianapolis,"(40.66769, -86.72379)",2.3496445353394853,158.0,37156_0_yes,40.64045668909159,-86.7506359061767,5.0

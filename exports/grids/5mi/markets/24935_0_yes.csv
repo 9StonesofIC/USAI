@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74425,35.17184,-95.62299,Canadian,OK,Oklahoma,True,,1166.0,49.8,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago,"(35.17184, -95.62299)",3.9243361725277235,1670.0,24935_0_yes,35.14089725151084,-95.6812456264886,5.0
+74430,35.13175,-95.64826,Crowder,OK,Oklahoma,True,,504.0,28.7,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago,"(35.13175, -95.64826)",1.968048122560722,1670.0,24935_0_yes,35.14089725151084,-95.6812456264886,5.0

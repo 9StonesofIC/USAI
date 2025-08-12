@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31648,30.70834,-83.00838,Statenville,GA,Georgia,True,,816.0,16.3,13101,Echols,"{""13101"": 100}",Echols,13101,False,False,America/New_York,"(30.70834, -83.00838)",5.0483351605763085,816.0,14213_0_yes,30.63666817370713,-83.02489203086628,5.0

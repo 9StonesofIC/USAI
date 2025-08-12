@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45697,38.9352,-83.66525,Winchester,OH,Ohio,True,,5375.0,21.5,39001,Adams,"{""39001"": 51.27, ""39015"": 34.29, ""39071"": 14.44}",Adams|Brown|Highland,39001|39015|39071,False,False,America/New_York,"(38.9352, -83.66525)",3.4568619213517233,5375.0,33362_0_yes,38.899740482538505,-83.61988563508794,5.0

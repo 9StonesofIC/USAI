@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48467,44.00768,-82.98763,Port Austin,MI,Michigan,True,,2230.0,13.7,26063,Huron,"{""26063"": 100}",Huron,26063,False,False,America/Detroit,"(44.00768, -82.98763)",3.1268699718104447,2230.0,44369_0_no,44.03975461789866,-82.94322930723213,5.0

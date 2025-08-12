@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99149,47.225,-117.46794,Malden,WA,Washington,True,,223.0,44.9,53075,Whitman,"{""53075"": 100}",Whitman,53075,False,False,America/Los_Angeles,"(47.225, -117.46794)",5.5282996786135605,223.0,50572_0_yes,47.18293910092625,-117.56812486591626,5.0

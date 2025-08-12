@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32437,30.43315,-85.90694,Ebro,FL,Florida,True,,763.0,8.5,12133,Washington,"{""12133"": 77.53, ""12005"": 22.47}",Washington|Bay,12133|12005,False,False,America/Chicago,"(30.43315, -85.90694)",4.537975505221969,763.0,13878_0_yes,30.493489693918303,-85.93703324697354,5.0

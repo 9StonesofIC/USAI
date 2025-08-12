@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39854,31.86713,-85.04881,Georgetown,GA,Georgia,True,,2433.0,8.2,13239,Quitman,"{""13239"": 94.04, ""13061"": 5.96}",Quitman|Clay,13239|13061,False,False,America/New_York,"(31.86713, -85.04881)",4.005077566026219,2433.0,17359_0_no,31.87090374271,-85.11692027842635,5.0

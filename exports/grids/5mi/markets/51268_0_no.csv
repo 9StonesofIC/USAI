@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56663,47.49997,-94.45431,Pennington,MN,Minnesota,True,,201.0,1.9,27007,Beltrami,"{""27007"": 100}",Beltrami,27007,False,False,America/Chicago,"(47.49997, -94.45431)",4.96369863688042,470.0,51268_0_no,47.52320499187243,-94.3536657642233,5.0
+56681,47.5488,-94.25132,Squaw Lake,MN,Minnesota,True,,269.0,0.6,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.5488, -94.25132)",5.091116805449204,470.0,51268_0_no,47.52320499187243,-94.3536657642233,5.0

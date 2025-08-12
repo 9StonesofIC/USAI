@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73048,35.48929,-98.55378,Hydro,OK,Oklahoma,True,,2820.0,5.7,40015,Caddo,"{""40015"": 71.55, ""40011"": 21.49, ""40039"": 6.96}",Caddo|Blaine|Custer,40015|40011|40039,False,False,America/Chicago,"(35.48929, -98.55378)",3.976145857674577,2820.0,25934_0_no,35.50544449895612,-98.4859374870162,5.0

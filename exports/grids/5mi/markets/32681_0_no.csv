@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24413,38.50753,-79.55925,Blue Grass,VA,Virginia,True,,266.0,4.3,51091,Highland,"{""51091"": 100}",Highland,51091,False,False,America/New_York,"(38.50753, -79.55925)",3.5475023133449506,266.0,32681_0_no,38.53436369706923,-79.50330095456087,5.0

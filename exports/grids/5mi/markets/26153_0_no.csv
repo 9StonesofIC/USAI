@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27527,35.65767,-78.38336,Clayton,NC,North Carolina,True,,27711.0,242.7,37101,Johnston,"{""37101"": 100}",Johnston,37101,False,False,America/New_York,"(35.65767, -78.38336)",2.055936837317475,27711.0,26153_0_no,35.63557928858128,-78.35882814038202,5.0

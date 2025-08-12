@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78655,29.82346,-97.83517,Martindale,TX,Texas,True,,3892.0,52.4,48055,Caldwell,"{""48055"": 59.98, ""48187"": 40.02}",Caldwell|Guadalupe,48055|48187,False,False,America/Chicago,"(29.82346, -97.83517)",3.936873661433912,3892.0,12181_0_yes,29.775659233637825,-97.87090665745912,5.0

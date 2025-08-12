@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57767,44.13841,-102.5721,Owanka,SD,South Dakota,True,,158.0,0.4,46093,Meade,"{""46093"": 50.68, ""46103"": 49.32}",Meade|Pennington,46093|46103,False,False,America/Denver,"(44.13841, -102.5721)",4.382585989039152,158.0,44760_0_no,44.20178589494541,-102.56845291269131,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49971,46.71043,-89.62866,White Pine,MI,Michigan,True,,469.0,7.8,26131,Ontonagon,"{""26131"": 100}",Ontonagon,26131,False,False,America/Detroit,"(46.71043, -89.62866)",0.9084053374836859,469.0,49602_0_yes,46.72298669044078,-89.62297606710612,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44822,40.55705,-82.39929,Butler,OH,Ohio,True,,3306.0,28.0,39139,Richland,"{""39139"": 58.88, ""39083"": 41.12}",Richland|Knox,39139|39083,False,False,America/New_York,"(40.55705, -82.39929)",5.719925270162147,3306.0,36822_0_yes,40.492104931908905,-82.46682828706805,5.0

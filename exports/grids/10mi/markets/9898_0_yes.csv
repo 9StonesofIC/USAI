@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96032,41.58503,-122.98291,Fort Jones,CA,California,True,,2732.0,2.0,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.58503, -122.98291)",5.6016979710224275,2920.0,9898_0_yes,41.53821606849424,-123.07137441664467,10.0
+96037,41.54368,-122.93177,Greenview,CA,California,True,,188.0,26.5,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.54368, -122.93177)",7.229530214284115,2920.0,9898_0_yes,41.53821606849424,-123.07137441664467,10.0

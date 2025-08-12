@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60097,42.39343,-88.36164,Wonder Lake,IL,Illinois,True,,10727.0,258.1,17111,McHenry,"{""17111"": 100}",McHenry,17111,False,False,America/Chicago,"(42.39343, -88.36164)",4.5563098721481525,43326.0,40844_0_yes,42.379637722783166,-88.44894643459489,5.0
+60098,42.32468,-88.45672,Woodstock,IL,Illinois,True,,32599.0,120.1,17111,McHenry,"{""17111"": 100}",McHenry,17111,False,False,America/Chicago,"(42.32468, -88.45672)",3.8179063237984137,43326.0,40844_0_yes,42.379637722783166,-88.44894643459489,5.0

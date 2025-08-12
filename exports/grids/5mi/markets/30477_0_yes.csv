@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40328,37.56632,-85.02565,Gravel Switch,KY,Kentucky,True,,911.0,5.8,21155,Marion,"{""21155"": 39.24, ""21021"": 33.85, ""21045"": 26.91}",Marion|Boyle|Casey,21155|21021|21045,False,False,America/New_York,"(37.56632, -85.02565)",3.7458769829996506,911.0,30477_0_yes,37.59694552168865,-85.08210024435682,5.0

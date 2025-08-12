@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96097,41.76234,-122.65921,Yreka,CA,California,True,,9468.0,20.1,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.76234, -122.65921)",3.1714466803937666,9468.0,39779_0_no,41.75682246885735,-122.59812243433136,5.0

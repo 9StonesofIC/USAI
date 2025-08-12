@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84023,40.83781,-109.20665,Dutch John,UT,Utah,True,,167.0,0.4,49009,Daggett,"{""49009"": 100}",Daggett,49009,False,False,America/Denver,"(40.83781, -109.20665)",18.046827928446902,510.0,2389_0_yes,40.61930748991233,-109.01780812113944,20.0
+84035,40.39024,-109.28208,Jensen,UT,Utah,True,,343.0,0.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver,"(40.39024, -109.28208)",21.053484843366995,510.0,2389_0_yes,40.61930748991233,-109.01780812113944,20.0

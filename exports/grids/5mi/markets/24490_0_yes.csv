@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28577,34.91494,-76.40769,Sealevel,NC,North Carolina,True,,313.0,7.1,37031,Carteret,"{""37031"": 100}",Carteret,37031,False,False,America/New_York,"(34.91494, -76.40769)",5.882700735709094,313.0,24490_0_yes,34.9818748403905,-76.3434944772825,5.0

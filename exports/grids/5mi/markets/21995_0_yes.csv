@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85383,33.80297,-112.31734,Peoria,AZ,Arizona,True,,58375.0,143.7,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(33.80297, -112.31734)",3.161777616315743,58375.0,21995_0_yes,33.84763411659074,-112.30535213108612,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29571,34.138,-79.42205,Marion,SC,South Carolina,True,,14185.0,27.1,45067,Marion,"{""45067"": 99.56, ""45033"": 0.44}",Marion|Dillon,45067|45033,False,False,America/New_York,"(34.138, -79.42205)",2.899624329339554,14185.0,22485_0_yes,34.11441443823623,-79.46398271360448,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29020,34.31036,-80.59334,Camden,SC,South Carolina,True,,21443.0,35.6,45055,Kershaw,"{""45055"": 94.16, ""45061"": 5.84}",Kershaw|Lee,45055|45061,False,False,America/New_York,"(34.31036, -80.59334)",3.5809220438024396,21443.0,22830_0_yes,34.26019287694361,-80.60908893653061,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93930,36.19924,-121.07282,King City,CA,California,True,,17599.0,19.8,6053,Monterey,"{""06053"": 81.1, ""06069"": 18.9}",Monterey|San Benito,06053|06069,False,False,America/Los_Angeles,"(36.19924, -121.07282)",1.7618678135815753,17599.0,27404_0_yes,36.17465768242748,-121.064421267648,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58040,46.21618,-97.75204,Gwinner,ND,North Dakota,True,,1187.0,6.1,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago,"(46.21618, -97.75204)",5.038235880702498,1187.0,48512_0_yes,46.15154999257606,-97.70326902449776,5.0

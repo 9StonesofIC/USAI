@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58423,47.41899,-99.82951,Chaseley,ND,North Dakota,True,,52.0,0.2,38103,Wells,"{""38103"": 73.55, ""38043"": 26.45}",Wells|Kidder,38103|38043,False,False,America/Chicago,"(47.41899, -99.82951)",3.8704974903458536,52.0,51017_0_no,47.383549804988455,-99.76541613917692,5.0

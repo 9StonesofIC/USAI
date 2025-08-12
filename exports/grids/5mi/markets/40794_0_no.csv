@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48103,42.2581,-83.84333,Ann Arbor,MI,Michigan,True,,55078.0,319.7,26161,Washtenaw,"{""26161"": 100}",Washtenaw,26161,False,False,America/Detroit,"(42.2581, -83.84333)",5.097467259135986,71052.0,40794_0_no,42.303434193880776,-83.92200008255249,5.0
+48130,42.3547,-83.90272,Dexter,MI,Michigan,True,,15974.0,96.4,26161,Washtenaw,"{""26161"": 100}",Washtenaw,26161,False,False,America/Detroit,"(42.3547, -83.90272)",3.676488620917502,71052.0,40794_0_no,42.303434193880776,-83.92200008255249,5.0

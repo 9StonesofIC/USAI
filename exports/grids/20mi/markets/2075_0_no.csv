@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89042,37.79819,-114.35862,Panaca,NV,Nevada,True,,1146.0,4.1,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles,"(37.79819, -114.35862)",16.324251903630113,2639.0,2075_0_no,38.03038948807983,-114.41392650039572,20.0
+89043,38.30434,-114.39018,Pioche,NV,Nevada,True,,1493.0,0.4,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles,"(38.30434, -114.39018)",18.97208150101759,2639.0,2075_0_no,38.03038948807983,-114.41392650039572,20.0

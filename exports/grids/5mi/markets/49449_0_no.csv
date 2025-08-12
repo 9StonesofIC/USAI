@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98336,46.56382,-122.10939,Glenoma,WA,Washington,True,,824.0,4.8,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.56382, -122.10939)",4.416095482177863,2840.0,49449_0_no,46.53585419884201,-122.192958380841,5.0
+98356,46.57943,-122.26913,Morton,WA,Washington,True,,2016.0,6.2,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.57943, -122.26913)",4.707614546992098,2840.0,49449_0_no,46.53585419884201,-122.192958380841,5.0

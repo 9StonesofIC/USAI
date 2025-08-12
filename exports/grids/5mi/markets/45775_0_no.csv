@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05871,44.68367,-71.95193,West Burke,VT,Vermont,True,,1335.0,13.4,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York,"(44.68367, -71.95193)",6.853821487939405,1335.0,45775_0_no,44.753553250259365,-71.85285365349553,5.0

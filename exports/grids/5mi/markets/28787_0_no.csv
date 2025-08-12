@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23856,36.78735,-77.70291,Freeman,VA,Virginia,True,,1025.0,7.7,51025,Brunswick,"{""51025"": 94.93, ""51081"": 5.07}",Brunswick|Greensville,51025|51081,False,False,America/New_York,"(36.78735, -77.70291)",2.086529656439483,1025.0,28787_0_no,36.79436635290903,-77.66623256452559,5.0

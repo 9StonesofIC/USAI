@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68763,42.51809,-98.58254,Oneill,NE,Nebraska,True,,4737.0,3.4,31089,Holt,"{""31089"": 98.58, ""31107"": 1.42}",Holt|Knox,31089|31107,False,False,America/Chicago,"(42.51809, -98.58254)",10.950813964680208,4737.0,10444_0_yes,42.65545201165715,-98.6899317704497,10.0

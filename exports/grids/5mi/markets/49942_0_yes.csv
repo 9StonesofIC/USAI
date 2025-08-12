@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58652,46.88854,-102.27037,Richardton,ND,North Dakota,True,,1371.0,1.3,38089,Stark,"{""38089"": 72.44, ""38025"": 27.56}",Stark|Dunn,38089|38025,False,False,America/Denver,"(46.88854, -102.27037)",3.659129058479662,1371.0,49942_0_yes,46.87926874907253,-102.19408189130844,5.0

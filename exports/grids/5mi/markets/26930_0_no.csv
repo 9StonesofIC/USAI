@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73658,35.94776,-98.71784,Oakwood,OK,Oklahoma,True,,240.0,1.0,40043,Dewey,"{""40043"": 95.2, ""40011"": 4.8}",Dewey|Blaine,40043|40011,False,False,America/Chicago,"(35.94776, -98.71784)",1.1905880047967068,240.0,26930_0_no,35.940534857481204,-98.69851704172636,5.0

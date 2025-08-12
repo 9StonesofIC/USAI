@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84018,41.20535,-111.42716,Croydon,UT,Utah,True,,284.0,0.6,49029,Morgan,"{""49029"": 100}",Morgan,49029,False,False,America/Denver,"(41.20535, -111.42716)",8.3634127910471,1484.0,9702_0_no,41.08435073563529,-111.43157819077982,10.0
+84024,41.00765,-111.44721,Echo,UT,Utah,True,,44.0,2.2,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver,"(41.00765, -111.44721)",5.361751229124847,1484.0,9702_0_no,41.08435073563529,-111.43157819077982,10.0
+84033,40.98002,-111.49148,Henefer,UT,Utah,True,,1156.0,6.2,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver,"(40.98002, -111.49148)",7.855623961003306,1484.0,9702_0_no,41.08435073563529,-111.43157819077982,10.0

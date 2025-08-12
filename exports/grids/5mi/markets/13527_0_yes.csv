@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32459,30.36527,-86.18429,Santa Rosa Beach,FL,Florida,True,,18160.0,128.6,12131,Walton,"{""12131"": 100}",Walton,12131,False,False,America/Chicago,"(30.36527, -86.18429)",1.7508834991244193,18160.0,13527_0_yes,30.34857228047312,-86.16219972997382,5.0

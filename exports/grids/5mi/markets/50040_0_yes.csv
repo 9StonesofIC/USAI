@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98589,46.84133,-122.82087,Tenino,WA,Washington,True,,6955.0,29.0,53067,Thurston,"{""53067"": 100}",Thurston,53067,False,False,America/Los_Angeles,"(46.84133, -122.82087)",5.056519743510763,6955.0,50040_0_yes,46.898353943446594,-122.8879662916979,5.0

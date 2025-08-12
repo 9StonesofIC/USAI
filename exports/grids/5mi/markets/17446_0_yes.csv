@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76665,31.91784,-97.72049,Meridian,TX,Texas,True,,2562.0,5.9,48035,Bosque,"{""48035"": 100}",Bosque,48035,False,False,America/Chicago,"(31.91784, -97.72049)",3.3585401460824684,2562.0,17446_0_yes,31.951859637330845,-97.7614018633022,5.0

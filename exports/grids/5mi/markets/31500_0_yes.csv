@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66738,38.01473,-94.7162,Fulton,KS,Kansas,True,,269.0,2.5,20011,Bourbon,"{""20011"": 85.93, ""20107"": 14.07}",Bourbon|Linn,20011|20107,False,False,America/Chicago,"(38.01473, -94.7162)",2.3525067229719085,744.0,31500_0_yes,38.03916234203095,-94.74630421464715,5.0
+66767,38.07741,-94.71159,Prescott,KS,Kansas,True,,475.0,4.0,20107,Linn,"{""20107"": 100}",Linn,20107,False,False,America/Chicago,"(38.07741, -94.71159)",3.248124931394009,744.0,31500_0_yes,38.03916234203095,-94.74630421464715,5.0

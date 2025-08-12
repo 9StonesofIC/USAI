@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93244,36.3908,-118.99733,Lemon Cove,CA,California,True,,326.0,16.0,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.3908, -118.99733)",6.600229495168786,10792.0,28052_0_yes,36.463204318108026,-119.07477413479934,5.0
+93286,36.45149,-119.1079,Woodlake,CA,California,True,,10466.0,55.7,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.45149, -119.1079)",2.010939963498995,10792.0,28052_0_yes,36.463204318108026,-119.07477413479934,5.0

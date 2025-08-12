@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98223,48.20994,-121.95081,Arlington,WA,Washington,True,,46027.0,56.2,53061,Snohomish,"{""53061"": 100}",Snohomish,53061,False,False,America/Los_Angeles,"(48.20994, -121.95081)",11.428024710079686,46027.0,13354_0_no,48.34195357970734,-121.80108771572526,10.0

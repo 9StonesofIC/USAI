@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73624,35.35969,-99.1719,Burns Flat,OK,Oklahoma,True,,2087.0,160.0,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago,"(35.35969, -99.1719)",4.9305329868192995,2539.0,25289_0_yes,35.28842820395161,-99.16730406631434,5.0
+73641,35.26875,-99.20252,Dill City,OK,Oklahoma,True,,452.0,2.6,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago,"(35.26875, -99.20252)",2.4071065785676047,2539.0,25289_0_yes,35.28842820395161,-99.16730406631434,5.0

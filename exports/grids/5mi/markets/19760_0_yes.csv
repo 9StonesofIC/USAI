@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29485,32.94398,-80.19362,Summerville,SC,South Carolina,True,,60383.0,480.0,45035,Dorchester,"{""45035"": 93.59, ""45019"": 6.41}",Dorchester|Charleston,45035|45019,False,False,America/New_York,"(32.94398, -80.19362)",2.8338771639252833,60383.0,19760_0_yes,32.95513587093824,-80.2406543241479,5.0

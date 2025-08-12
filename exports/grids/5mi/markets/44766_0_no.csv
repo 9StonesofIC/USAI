@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57754,44.26193,-103.87478,Lead,SD,South Dakota,True,,3736.0,5.4,46081,Lawrence,"{""46081"": 100}",Lawrence,46081,False,False,America/Denver,"(44.26193, -103.87478)",6.352200972841931,3736.0,44766_0_no,44.20285039657361,-103.77646989382691,5.0

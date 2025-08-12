@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62809,38.28023,-88.33756,Barnhill,IL,Illinois,True,,140.0,3.5,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.28023, -88.33756)",3.4577751312587344,8976.0,32109_0_yes,38.32397804822459,-88.36852809881408,5.0
+62837,38.36608,-88.35999,Fairfield,IL,Illinois,True,,8836.0,20.8,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.36608, -88.35999)",2.945532168735284,8976.0,32109_0_yes,38.32397804822459,-88.36852809881408,5.0

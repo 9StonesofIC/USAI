@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81059,37.56259,-103.99322,Model,CO,Colorado,True,,463.0,0.2,8071,Las Animas,"{""08071"": 73.78, ""08089"": 26.22}",Las Animas|Otero,08071|08089,False,False,America/Denver,"(37.56259, -103.99322)",4.131684121610195,463.0,30581_0_yes,37.61158082993134,-104.03649133565617,5.0

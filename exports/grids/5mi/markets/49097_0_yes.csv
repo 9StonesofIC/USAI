@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58533,46.39433,-101.79598,Elgin,ND,North Dakota,True,,994.0,1.1,38037,Grant,"{""38037"": 100}",Grant,38037,False,False,America/Denver,"(46.39433, -101.79598)",4.172127734988904,994.0,49097_0_yes,46.44469466233467,-101.74765949678324,5.0

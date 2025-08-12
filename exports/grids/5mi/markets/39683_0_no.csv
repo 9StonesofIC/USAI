@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69352,41.80396,-103.97174,Lyman,NE,Nebraska,True,,649.0,1.9,31157,Scotts Bluff,"{""31157"": 100}",Scotts Bluff,31157,False,False,America/Denver,"(41.80396, -103.97174)",5.086978781768921,649.0,39683_0_no,41.74118310139943,-104.02331748076926,5.0

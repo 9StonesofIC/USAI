@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32625,29.23005,-82.98331,Cedar Key,FL,Florida,True,,1568.0,6.4,12075,Levy,"{""12075"": 100}",Levy,12075,False,False,America/New_York,"(29.23005, -82.98331)",3.134400581926943,1568.0,11014_0_no,29.258593515088062,-83.02371980312822,5.0

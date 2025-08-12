@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81332,37.69857,-107.99292,Rico,CO,Colorado,True,,201.0,2.4,8033,Dolores,"{""08033"": 100}",Dolores,08033,False,False,America/Denver,"(37.69857, -107.99292)",7.931982788135404,201.0,7798_0_no,37.60178475256448,-108.07089892062088,10.0

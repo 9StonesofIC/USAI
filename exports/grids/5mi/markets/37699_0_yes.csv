@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+11930,40.98877,-72.10482,Amagansett,NY,New York,True,,618.0,27.8,36103,Suffolk,"{""36103"": 100}",Suffolk,36103,False,False,America/New_York,"(40.98877, -72.10482)",5.351001467066424,618.0,37699_0_yes,40.917946273855016,-72.06333039793802,5.0

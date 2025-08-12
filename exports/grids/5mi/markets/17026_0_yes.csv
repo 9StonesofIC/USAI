@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36016,31.84562,-85.4255,Clayton,AL,Alabama,True,,5360.0,8.9,1005,Barbour,"{""01005"": 98.63, ""01067"": 1.37}",Barbour|Henry,01005|01067,False,False,America/Chicago,"(31.84562, -85.4255)",3.6391086237441415,5360.0,17026_0_yes,31.79854461010646,-85.3976999028414,5.0

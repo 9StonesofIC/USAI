@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59914,47.86878,-114.29546,Dayton,MT,Montana,True,,326.0,11.2,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.86878, -114.29546)",4.948539118372254,889.0,51912_0_no,47.8313176798208,-114.38642195444876,5.0
+59915,47.82025,-114.41124,Elmo,MT,Montana,True,,563.0,3.8,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.82025, -114.41124)",1.3820980935458211,889.0,51912_0_no,47.8313176798208,-114.38642195444876,5.0

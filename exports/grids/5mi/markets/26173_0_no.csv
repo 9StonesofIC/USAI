@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28761,35.69134,-81.90714,Nebo,NC,North Carolina,True,,6742.0,25.1,37111,McDowell,"{""37111"": 69.98, ""37023"": 30.02}",McDowell|Burke,37111|37023,False,False,America/New_York,"(35.69134, -81.90714)",3.6836320330142223,6742.0,26173_0_no,35.638200095881366,-81.91243566076562,5.0

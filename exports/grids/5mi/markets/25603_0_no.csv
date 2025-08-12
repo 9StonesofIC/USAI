@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73024,35.36608,-98.81508,Corn,OK,Oklahoma,True,,717.0,5.8,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago,"(35.36608, -98.81508)",4.094093910533358,717.0,25603_0_no,35.36075441786009,-98.88744645613669,5.0

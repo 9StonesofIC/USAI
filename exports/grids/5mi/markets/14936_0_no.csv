@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36587,30.83599,-88.35006,Wilmer,AL,Alabama,True,,11049.0,38.4,1097,Mobile,"{""01097"": 100}",Mobile,01097,False,False,America/Chicago,"(30.83599, -88.35006)",3.49143906534318,11049.0,14936_0_no,30.857762869287026,-88.40317441118617,5.0

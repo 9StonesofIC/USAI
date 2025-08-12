@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12864,43.72733,-74.3054,Sabael,NY,New York,True,,13.0,23.8,36041,Hamilton,"{""36041"": 100}",Hamilton,36041,False,False,America/New_York,"(43.72733, -74.3054)",3.969353954222035,13.0,43467_0_yes,43.670292113393536,-74.29590972974397,5.0

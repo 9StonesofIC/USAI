@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80610,40.66996,-104.58269,Ault,CO,Colorado,True,,3719.0,8.0,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.66996, -104.58269)",4.717831539781347,3719.0,37535_0_no,40.7275889678308,-104.53438271673534,5.0

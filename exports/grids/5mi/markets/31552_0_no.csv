@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81430,38.04013,-108.05764,Placerville,CO,Colorado,True,,841.0,1.5,8113,San Miguel,"{""08113"": 100}",San Miguel,08113,False,False,America/Denver,"(38.04013, -108.05764)",4.383412915728561,841.0,31552_0_no,37.977116158803895,-108.06697693128504,5.0

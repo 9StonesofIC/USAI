@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32040,30.24696,-82.23531,Glen Saint Mary,FL,Florida,True,,8450.0,26.9,12003,Baker,"{""12003"": 100}",Baker,12003,False,False,America/New_York,"(30.24696, -82.23531)",3.568339594889234,8450.0,13150_0_yes,30.20098704772082,-82.20807705454929,5.0

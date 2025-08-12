@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89441,39.68131,-119.68755,Sparks,NV,Nevada,True,,12479.0,97.0,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles,"(39.68131, -119.68755)",3.3038402239439963,12479.0,35432_0_no,39.72562084743283,-119.66418956242354,5.0

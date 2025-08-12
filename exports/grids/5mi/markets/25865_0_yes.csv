@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28751,35.50547,-83.11955,Maggie Valley,NC,North Carolina,True,,3812.0,32.2,37087,Haywood,"{""37087"": 78.3, ""37099"": 21.7}",Haywood|Jackson,37087|37099,False,False,America/New_York,"(35.50547, -83.11955)",4.422988552842478,3812.0,25865_0_yes,35.566565579702704,-83.09606585030748,5.0

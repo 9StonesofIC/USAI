@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30110,33.74071,-85.137,Bremen,GA,Georgia,True,,14232.0,76.3,13143,Haralson,"{""13143"": 89.42, ""13045"": 10.58}",Haralson|Carroll,13143|13045,False,False,America/New_York,"(33.74071, -85.137)",1.06191088424517,14232.0,21823_0_no,33.75601939189116,-85.13537085641408,5.0

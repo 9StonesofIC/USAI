@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62345,39.70655,-91.12758,Kinderhook,IL,Illinois,True,,407.0,7.4,17149,Pike,"{""17149"": 100}",Pike,17149,False,False,America/Chicago,"(39.70655, -91.12758)",0.557472985564999,407.0,35280_0_no,39.70256425529792,-91.13669834331256,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32063,30.27045,-82.11974,Macclenny,FL,Florida,True,,13495.0,71.1,12003,Baker,"{""12003"": 100}",Baker,12003,False,False,America/New_York,"(30.27045, -82.11974)",1.3774283095972266,13495.0,13491_0_no,30.2734731860438,-82.09692363717073,5.0

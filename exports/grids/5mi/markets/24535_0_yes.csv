@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30559,34.95233,-84.26612,Mineral Bluff,GA,Georgia,True,,4751.0,36.5,13111,Fannin,"{""13111"": 100}",Fannin,13111,False,False,America/New_York,"(34.95233, -84.26612)",2.492647991777841,4751.0,24535_0_yes,34.987631890012345,-84.27519398701082,5.0

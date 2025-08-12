@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18602,41.18749,-75.75526,Bear Creek,PA,Pennsylvania,True,,342.0,69.6,42079,Luzerne,"{""42079"": 100}",Luzerne,42079,False,False,America/New_York,"(41.18749, -75.75526)",4.79882100846988,342.0,38336_0_yes,41.21052237084589,-75.66817651942131,5.0

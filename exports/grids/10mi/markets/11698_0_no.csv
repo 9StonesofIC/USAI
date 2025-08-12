@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12923,44.94546,-73.95802,Churubusco,NY,New York,True,,555.0,5.0,36019,Clinton,"{""36019"": 99.85, ""36033"": 0.15}",Clinton|Franklin,36019|36033,False,False,America/New_York,"(44.94546, -73.95802)",11.7141712816632,555.0,11698_0_no,45.07192780994138,-74.11773198063976,10.0

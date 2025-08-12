@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53566,42.60912,-89.64817,Monroe,WI,Wisconsin,True,,15015.0,37.9,55045,Green,"{""55045"": 100}",Green,55045,False,False,America/Chicago,"(42.60912, -89.64817)",4.233762963319158,17570.0,41454_0_yes,42.67025204617979,-89.6538748045237,5.0
+53570,42.73857,-89.61966,Monticello,WI,Wisconsin,True,,2555.0,14.1,55045,Green,"{""55045"": 100}",Green,55045,False,False,America/Chicago,"(42.73857, -89.61966)",5.029849842489415,17570.0,41454_0_yes,42.67025204617979,-89.6538748045237,5.0

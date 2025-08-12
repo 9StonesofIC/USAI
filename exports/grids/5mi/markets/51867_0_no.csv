@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59243,47.76062,-104.67387,Lambert,MT,Montana,True,,258.0,0.3,30083,Richland,"{""30083"": 100}",Richland,30083,False,False,America/Denver,"(47.76062, -104.67387)",4.652780063327776,258.0,51867_0_no,47.82226335059899,-104.71421905056243,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75125,32.52983,-96.61563,Ferris,TX,Texas,True,,7664.0,39.3,48139,Ellis,"{""48139"": 71.42, ""48113"": 28.58}",Ellis|Dallas,48139|48113,False,False,America/Chicago,"(32.52983, -96.61563)",5.970119623167752,12858.0,18810_0_no,32.45884700509664,-96.67404478100876,5.0
+75152,32.43598,-96.67444,Palmer,TX,Texas,True,,5194.0,48.8,48139,Ellis,"{""48139"": 100}",Ellis,48139,False,False,America/Chicago,"(32.43598, -96.67444)",1.5801276052352604,12858.0,18810_0_no,32.45884700509664,-96.67404478100876,5.0

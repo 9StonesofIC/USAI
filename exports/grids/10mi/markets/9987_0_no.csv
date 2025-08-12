@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69336,41.61845,-103.15152,Bridgeport,NE,Nebraska,True,,2167.0,2.2,31123,Morrill,"{""31123"": 97.13, ""31007"": 2.87}",Morrill|Banner,31123|31007,False,False,America/Denver,"(41.61845, -103.15152)",3.2047764719267176,2167.0,9987_0_no,41.64987641159335,-103.19716383939851,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08203,39.41281,-74.38006,Brigantine,NJ,New Jersey,True,,8725.0,512.5,34001,Atlantic,"{""34001"": 100}",Atlantic,34001,False,False,America/New_York,"(39.41281, -74.38006)",5.873901912178658,8725.0,34582_0_yes,39.47167962908506,-74.3006404453088,5.0

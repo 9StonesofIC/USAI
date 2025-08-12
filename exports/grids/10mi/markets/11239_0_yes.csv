@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97873,44.12837,-118.99505,Seneca,OR,Oregon,True,,274.0,1.0,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles,"(44.12837, -118.99505)",1.6052242390803617,274.0,11239_0_yes,44.13846598788394,-118.96589611593384,10.0

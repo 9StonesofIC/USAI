@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05903,44.9379,-71.58286,Canaan,VT,Vermont,True,,776.0,4.8,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York,"(44.9379, -71.58286)",4.277497522933738,776.0,46064_0_no,44.89795116179786,-71.5160705899132,5.0

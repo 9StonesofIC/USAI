@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56713,48.3487,-96.81717,Argyle,MN,Minnesota,True,,1050.0,2.2,27089,Marshall,"{""27089"": 100}",Marshall,27089,False,False,America/Chicago,"(48.3487, -96.81717)",4.219385484506649,1050.0,52923_0_no,48.39363167850832,-96.87942671256926,5.0

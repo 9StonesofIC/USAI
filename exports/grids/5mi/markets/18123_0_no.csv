@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76636,32.17213,-97.28307,Covington,TX,Texas,True,,1509.0,12.9,48217,Hill,"{""48217"": 100}",Hill,48217,False,False,America/Chicago,"(32.17213, -97.28307)",0.4693928768112153,1509.0,18123_0_no,32.16915243794833,-97.27585610729447,5.0

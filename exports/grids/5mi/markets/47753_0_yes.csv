@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97828,45.71382,-117.25971,Enterprise,OR,Oregon,True,,3135.0,1.8,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles,"(45.71382, -117.25971)",4.551433416115861,3135.0,47753_0_yes,45.73513534204612,-117.34899354721192,5.0

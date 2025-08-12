@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72834,35.17202,-93.19401,Dardanelle,AR,Arkansas,True,,10619.0,25.7,5149,Yell,"{""05149"": 97.15, ""05083"": 2.85}",Yell|Logan,05149|05083,False,False,America/Chicago,"(35.17202, -93.19401)",5.4636916850607085,11412.0,25238_0_no,35.211671047311775,-93.27772903467644,5.0
+72835,35.27634,-93.3425,Delaware,AR,Arkansas,True,,793.0,6.7,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago,"(35.27634, -93.3425)",5.772643135983673,11412.0,25238_0_no,35.211671047311775,-93.27772903467644,5.0

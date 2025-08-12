@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37762,36.57657,-84.12323,Jellico,TN,Tennessee,True,,2630.0,66.7,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York,"(36.57657, -84.12323)",4.65800517560515,3295.0,28167_0_no,36.5094290293379,-84.13080255492412,5.0
+37819,36.55649,-84.21169,Newcomb,TN,Tennessee,True,,665.0,12.2,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York,"(36.55649, -84.21169)",5.544283105237071,3295.0,28167_0_no,36.5094290293379,-84.13080255492412,5.0

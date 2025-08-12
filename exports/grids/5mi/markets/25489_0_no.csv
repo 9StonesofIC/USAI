@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27521,35.41298,-78.65847,Coats,NC,North Carolina,True,,7021.0,104.2,37085,Harnett,"{""37085"": 100}",Harnett,37085,False,False,America/New_York,"(35.41298, -78.65847)",5.263814754396393,14258.0,25489_0_no,35.34597044858529,-78.70292454680401,5.0
+28339,35.31409,-78.72115,Erwin,NC,North Carolina,True,,7237.0,78.5,37085,Harnett,"{""37085"": 100}",Harnett,37085,False,False,America/New_York,"(35.31409, -78.72115)",2.43052620131987,14258.0,25489_0_no,35.34597044858529,-78.70292454680401,5.0

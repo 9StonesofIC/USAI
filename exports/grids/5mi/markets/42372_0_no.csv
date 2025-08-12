@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57361,42.99459,-98.43463,Marty,SD,South Dakota,True,,108.0,16.8,46023,Charles Mix,"{""46023"": 100}",Charles Mix,46023,False,False,America/Chicago,"(42.99459, -98.43463)",3.237493604554606,396.0,42372_0_no,43.03985418715114,-98.45119620010608,5.0
+57367,43.06348,-98.5133,Pickstown,SD,South Dakota,True,,288.0,23.4,46023,Charles Mix,"{""46023"": 100}",Charles Mix,46023,False,False,America/Chicago,"(43.06348, -98.5133)",3.535039261091538,396.0,42372_0_no,43.03985418715114,-98.45119620010608,5.0

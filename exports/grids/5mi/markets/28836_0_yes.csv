@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24265,36.83811,-82.93904,Keokee,VA,Virginia,True,,1328.0,13.1,51105,Lee,"{""51105"": 100}",Lee,51105,False,False,America/New_York,"(36.83811, -82.93904)",2.2652086849682718,1554.0,28836_0_yes,36.870777232351045,-82.93557432868998,5.0
+40843,36.88826,-82.93666,Holmes Mill,KY,Kentucky,True,,226.0,5.6,21095,Harlan,"{""21095"": 100}",Harlan,21095,False,False,America/New_York,"(36.88826, -82.93666)",1.20943353800404,1554.0,28836_0_yes,36.870777232351045,-82.93557432868998,5.0

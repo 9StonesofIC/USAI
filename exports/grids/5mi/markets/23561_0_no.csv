@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71964,34.42252,-93.24451,Pearcy,AR,Arkansas,True,,4709.0,58.5,5051,Garland,"{""05051"": 81.58, ""05059"": 18.42}",Garland|Hot Spring,05051|05059,False,False,America/Chicago,"(34.42252, -93.24451)",5.005046763338761,4709.0,23561_0_no,34.48669797671624,-93.20376871414751,5.0

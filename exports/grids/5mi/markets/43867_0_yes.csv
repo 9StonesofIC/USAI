@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56101,43.88404,-95.13991,Windom,MN,Minnesota,True,,5849.0,13.1,27033,Cottonwood,"{""27033"": 63.53, ""27063"": 36.47}",Cottonwood|Jackson,27033|27063,False,False,America/Chicago,"(43.88404, -95.13991)",4.03199454640297,5849.0,43867_0_yes,43.83330001522865,-95.1798854185582,5.0

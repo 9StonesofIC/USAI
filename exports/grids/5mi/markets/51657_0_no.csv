@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99185,47.74014,-118.71697,Wilbur,WA,Washington,True,,1299.0,1.8,53043,Lincoln,"{""53043"": 100}",Lincoln,53043,False,False,America/Los_Angeles,"(47.74014, -118.71697)",3.482107997664014,1299.0,51657_0_no,47.69062846766965,-118.7029896617168,5.0

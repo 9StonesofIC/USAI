@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83011,43.58837,-110.43192,Kelly,WY,Wyoming,True,,194.0,0.2,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.58837, -110.43192)",2.545771851614801,194.0,43352_0_yes,43.55704973903602,-110.45870639001588,5.0

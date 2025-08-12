@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84623,39.45608,-111.59063,Chester,UT,Utah,True,,454.0,10.5,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.45608, -111.59063)",3.5925837315207905,872.0,34760_0_no,39.429303817275866,-111.64834570910936,5.0
+84667,39.48926,-111.65115,Wales,UT,Utah,True,,418.0,8.5,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.48926, -111.65115)",4.145277865237425,872.0,34760_0_no,39.429303817275866,-111.64834570910936,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95981,39.65237,-121.03447,Strawberry Valley,CA,California,True,,35.0,0.3,6063,Plumas,"{""06063"": 76.17, ""06115"": 23.83}",Plumas|Yuba,06063|06115,False,False,America/Los_Angeles,"(39.65237, -121.03447)",5.50923310250042,35.0,35125_0_no,39.58175006851632,-120.98640918243788,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52590,40.6654,-93.13594,Seymour,IA,Iowa,True,,1003.0,4.8,19185,Wayne,"{""19185"": 78.9, ""19007"": 21.1}",Wayne|Appanoose,19185|19007,False,False,America/Chicago,"(40.6654, -93.13594)",3.9835120352936526,1003.0,37475_0_no,40.71815898760877,-93.10527892946097,5.0

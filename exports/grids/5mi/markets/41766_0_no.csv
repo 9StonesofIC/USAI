@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68774,42.81403,-97.27747,Saint Helena,NE,Nebraska,True,,200.0,1.9,31027,Cedar,"{""31027"": 100}",Cedar,31027,False,False,America/Chicago,"(42.81403, -97.27747)",5.999109569361979,598.0,41766_0_no,42.74916819949099,-97.1988254701752,5.0
+68792,42.73323,-97.11427,Wynot,NE,Nebraska,True,,398.0,2.9,31027,Cedar,"{""31027"": 100}",Cedar,31027,False,False,America/Chicago,"(42.73323, -97.11427)",4.42975095034725,598.0,41766_0_no,42.74916819949099,-97.1988254701752,5.0

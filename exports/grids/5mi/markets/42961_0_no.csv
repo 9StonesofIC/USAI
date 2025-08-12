@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57036,43.27067,-97.14364,Hurley,SD,South Dakota,True,,576.0,2.4,46125,Turner,"{""46125"": 100}",Turner,46125,False,False,America/Chicago,"(43.27067, -97.14364)",4.005275797552306,576.0,42961_0_no,43.328309766750685,-97.1351630027895,5.0

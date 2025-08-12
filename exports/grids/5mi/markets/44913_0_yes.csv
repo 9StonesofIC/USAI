@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04849,44.3179,-69.04753,Lincolnville,ME,Maine,True,,3714.0,23.5,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.3179, -69.04753)",5.013098631142721,3714.0,44913_0_yes,44.38924683686915,-69.02908692667884,5.0

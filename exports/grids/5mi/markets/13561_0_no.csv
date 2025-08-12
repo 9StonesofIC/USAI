@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77614,30.3055,-93.76033,Deweyville,TX,Texas,True,,408.0,15.5,48351,Newton,"{""48351"": 100}",Newton,48351,False,False,America/Chicago,"(30.3055, -93.76033)",3.1719176933829383,408.0,13561_0_no,30.28095173783984,-93.80525763459671,5.0

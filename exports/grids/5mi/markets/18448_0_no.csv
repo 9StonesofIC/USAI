@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71078,32.27721,-93.7976,Stonewall,LA,Louisiana,True,,7246.0,69.3,22031,De Soto,"{""22031"": 100}",De Soto,22031,False,False,America/Chicago,"(32.27721, -93.7976)",2.577390319151522,7246.0,18448_0_no,32.31186218556221,-93.81393809654764,5.0

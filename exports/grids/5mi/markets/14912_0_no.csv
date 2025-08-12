@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39834,30.89298,-84.42749,Climax,GA,Georgia,True,,2106.0,6.7,13087,Decatur,"{""13087"": 100}",Decatur,13087,False,False,America/New_York,"(30.89298, -84.42749)",4.5368849998928,5640.0,14912_0_no,30.85513921632739,-84.36496743476086,5.0
+39897,30.91234,-84.33297,Whigham,GA,Georgia,True,,3534.0,10.0,13131,Grady,"{""13131"": 91.97, ""13087"": 8.03}",Grady|Decatur,13131|13087,False,False,America/New_York,"(30.91234, -84.33297)",4.384036329823931,5640.0,14912_0_no,30.85513921632739,-84.36496743476086,5.0

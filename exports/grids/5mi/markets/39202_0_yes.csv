@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95548,41.58633,-124.05859,Klamath,CA,California,True,,1123.0,7.8,6015,Del Norte,"{""06015"": 100}",Del Norte,06015,False,False,America/Los_Angeles,"(41.58633, -124.05859)",3.3718357950361537,1123.0,39202_0_yes,41.54064191452433,-124.03566798835868,5.0

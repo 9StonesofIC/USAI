@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80737,40.88974,-102.19267,Julesburg,CO,Colorado,True,,1631.0,2.5,8115,Sedgwick,"{""08115"": 96.16, ""31049"": 3.84}",Sedgwick|Deuel,08115|31049,False,False,America/Denver,"(40.88974, -102.19267)",4.87467872363559,1631.0,37857_0_yes,40.94295987626386,-102.2539624065774,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75422,33.13889,-95.93059,Campbell,TX,Texas,True,,3084.0,17.6,48231,Hunt,"{""48231"": 100}",Hunt,48231,False,False,America/Chicago,"(33.13889, -95.93059)",4.680349078029694,6199.0,20194_0_yes,33.11092658602728,-95.8569187517178,5.0
+75433,33.10883,-95.80571,Cumby,TX,Texas,True,,3115.0,12.3,48223,Hopkins,"{""48223"": 98.08, ""48231"": 1.92}",Hopkins|Hunt,48223|48231,False,False,America/Chicago,"(33.10883, -95.80571)",2.9672110622593046,6199.0,20194_0_yes,33.11092658602728,-95.8569187517178,5.0

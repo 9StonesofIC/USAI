@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45013,39.40649,-84.6501,Hamilton,OH,Ohio,True,,54440.0,178.7,39017,Butler,"{""39017"": 96.75, ""39061"": 3.25}",Butler|Hamilton,39017|39061,False,False,America/New_York,"(39.40649, -84.6501)",4.629684371679892,58478.0,34616_0_no,39.40768755810896,-84.73680810690641,5.0
+45053,39.35273,-84.78053,Okeana,OH,Ohio,True,,4038.0,57.3,39017,Butler,"{""39017"": 100}",Butler,39017,False,False,America/New_York,"(39.35273, -84.78053)",4.457694142516102,58478.0,34616_0_no,39.40768755810896,-84.73680810690641,5.0

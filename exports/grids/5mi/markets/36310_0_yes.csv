@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80723,40.15981,-103.55046,Brush,CO,Colorado,True,,7080.0,10.3,8087,Morgan,"{""08087"": 83.51, ""08121"": 16.49}",Morgan|Washington,08087|08121,False,False,America/Denver,"(40.15981, -103.55046)",5.990858800994043,7080.0,36310_0_yes,40.21973132047348,-103.63249781122214,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71676,33.05156,-91.56023,Wilmot,AR,Arkansas,True,,569.0,2.4,5003,Ashley,"{""05003"": 86.8, ""05017"": 13.2}",Ashley|Chicot,05003|05017,False,False,America/Chicago,"(33.05156, -91.56023)",3.987774244375275,569.0,20154_0_no,33.03543292453071,-91.4941204677518,5.0

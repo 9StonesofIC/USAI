@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59523,48.52013,-109.20829,Chinook,MT,Montana,True,,2034.0,0.5,30005,Blaine,"{""30005"": 98.86, ""30041"": 1.14}",Blaine|Hill,30005|30041,False,False,America/Denver,"(48.52013, -109.20829)",7.1677027754991,2099.0,13460_0_no,48.607351257597074,-109.12342405358746,10.0
+59547,48.70576,-108.98747,Zurich,MT,Montana,True,,65.0,0.2,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver,"(48.70576, -108.98747)",9.205158275168452,2099.0,13460_0_no,48.607351257597074,-109.12342405358746,10.0

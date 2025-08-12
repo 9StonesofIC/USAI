@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30105,34.47012,-85.15532,Armuchee,GA,Georgia,True,,1947.0,13.8,13115,Floyd,"{""13115"": 80.77, ""13055"": 19.23}",Floyd|Chattooga,13115|13055,False,False,America/New_York,"(34.47012, -85.15532)",0.9646788714855473,1947.0,23515_0_no,34.48092122645678,-85.14458813346474,5.0

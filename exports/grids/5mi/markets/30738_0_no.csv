@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23111,37.6112,-77.24697,Mechanicsville,VA,Virginia,True,,36511.0,182.7,51085,Hanover,"{""51085"": 100}",Hanover,51085,False,False,America/New_York,"(37.6112, -77.24697)",4.719349095138863,68021.0,30738_0_no,37.66341984721826,-77.30256911339205,5.0
+23116,37.67152,-77.33458,Mechanicsville,VA,Virginia,True,,31510.0,221.3,51085,Hanover,"{""51085"": 100}",Hanover,51085,False,False,America/New_York,"(37.67152, -77.33458)",1.8380292899971447,68021.0,30738_0_no,37.66341984721826,-77.30256911339205,5.0

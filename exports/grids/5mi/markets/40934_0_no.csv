@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83254,42.36403,-111.2655,Montpelier,ID,Idaho,True,,3551.0,2.5,16007,Bear Lake,"{""16007"": 82.59, ""16029"": 17.41}",Bear Lake|Caribou,16007|16029,False,False,America/Boise,"(42.36403, -111.2655)",2.6743834126264128,3551.0,40934_0_no,42.326696160595056,-111.25167561377047,5.0

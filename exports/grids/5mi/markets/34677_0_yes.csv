@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65258,39.52339,-92.13706,Holliday,MO,Missouri,True,,553.0,4.2,29137,Monroe,"{""29137"": 100}",Monroe,29137,False,False,America/Chicago,"(39.52339, -92.13706)",4.407299401022087,3098.0,34677_0_yes,39.485970794917705,-92.07010710917372,5.0
+65275,39.45935,-91.99414,Paris,MO,Missouri,True,,2545.0,5.7,29137,Monroe,"{""29137"": 100}",Monroe,29137,False,False,America/Chicago,"(39.45935, -91.99414)",4.449664229336276,3098.0,34677_0_yes,39.485970794917705,-92.07010710917372,5.0

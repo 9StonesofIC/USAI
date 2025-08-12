@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77471,29.55159,-95.86785,Rosenberg,TX,Texas,True,,38430.0,151.0,48157,Fort Bend,"{""48157"": 100}",Fort Bend,48157,False,False,America/Chicago,"(29.55159, -95.86785)",0.753020577804875,38430.0,11803_0_no,29.556762982609825,-95.85682253757514,5.0

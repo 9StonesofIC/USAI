@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83848,48.7067,-116.92766,Nordman,ID,Idaho,True,,140.0,1.0,16017,Bonner,"{""16017"": 100}",Bonner,16017,False,False,America/Los_Angeles,"(48.7067, -116.92766)",4.463144534380228,140.0,53556_0_no,48.70188835265122,-116.83005139373164,5.0

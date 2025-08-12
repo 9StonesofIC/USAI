@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30634,34.20307,-82.94522,Dewy Rose,GA,Georgia,True,,2148.0,17.0,13105,Elbert,"{""13105"": 72.82, ""13147"": 27.18}",Elbert|Hart,13105|13147,False,False,America/New_York,"(34.20307, -82.94522)",5.483905867439715,2148.0,22843_0_yes,34.261811948278364,-82.88066091240663,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27025,36.3771,-79.97148,Madison,NC,North Carolina,True,,11346.0,44.8,37157,Rockingham,"{""37157"": 71.89, ""37169"": 28.11}",Rockingham|Stokes,37157|37169,False,False,America/New_York,"(36.3771, -79.97148)",3.96114273223175,11346.0,27815_0_no,36.36133270715269,-79.903026749126,5.0

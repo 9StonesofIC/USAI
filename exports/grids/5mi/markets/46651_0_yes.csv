@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04668,45.19846,-67.70543,Princeton,ME,Maine,True,,1448.0,2.5,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(45.19846, -67.70543)",5.140238791116288,1448.0,46651_0_yes,45.256269404560136,-67.77191766159541,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66783,37.87682,-95.73322,Yates Center,KS,Kansas,True,,2225.0,3.0,20207,Woodson,"{""20207"": 100}",Woodson,20207,False,False,America/Chicago,"(37.87682, -95.73322)",5.112103913282602,2225.0,31162_0_no,37.82254540013356,-95.6695383071075,5.0

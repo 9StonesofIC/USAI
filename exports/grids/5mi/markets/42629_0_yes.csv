@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48818,43.2759,-84.89661,Crystal,MI,Michigan,True,,2451.0,38.3,26117,Montcalm,"{""26117"": 100}",Montcalm,26117,False,False,America/Detroit,"(43.2759, -84.89661)",3.870078321183447,7389.0,42629_0_yes,43.24532069789748,-84.96105055302178,5.0
+48884,43.20731,-85.04249,Sheridan,MI,Michigan,True,,4938.0,31.1,26117,Montcalm,"{""26117"": 100}",Montcalm,26117,False,False,America/Detroit,"(43.20731, -85.04249)",4.869095795471248,7389.0,42629_0_yes,43.24532069789748,-84.96105055302178,5.0

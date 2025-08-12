@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39426,30.65375,-89.65709,Carriere,MS,Mississippi,True,,17571.0,37.1,28109,Pearl River,"{""28109"": 89.75, ""28045"": 10.25}",Pearl River|Hancock,28109|28045,False,False,America/Chicago,"(30.65375, -89.65709)",5.013625455645668,17571.0,14253_0_yes,30.641003487123584,-89.7401226189402,5.0

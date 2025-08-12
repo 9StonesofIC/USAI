@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04261,44.5631,-70.91907,Newry,ME,Maine,True,,318.0,0.6,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.5631, -70.91907)",4.0297330369005016,318.0,45480_0_no,44.6080690594368,-70.97121755910028,5.0

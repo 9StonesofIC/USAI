@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78626,30.66664,-97.59878,Georgetown,TX,Texas,True,,38537.0,168.0,48491,Williamson,"{""48491"": 100}",Williamson,48491,False,False,America/Chicago,"(30.66664, -97.59878)",5.4078340568712795,38537.0,14639_0_no,30.718607987417293,-97.53072017279948,5.0

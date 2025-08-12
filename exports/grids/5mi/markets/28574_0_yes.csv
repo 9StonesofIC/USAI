@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74370,36.76429,-94.68017,Wyandotte,OK,Oklahoma,True,,3857.0,13.8,40115,Ottawa,"{""40115"": 92.49, ""40041"": 7.51}",Ottawa|Delaware,40115|40041,False,False,America/Chicago,"(36.76429, -94.68017)",3.2403382624266657,3857.0,28574_0_yes,36.7347884788318,-94.7256690372975,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57314,44.0509,-97.98904,Artesian,SD,South Dakota,True,,690.0,1.0,46111,Sanborn,"{""46111"": 100}",Sanborn,46111,False,False,America/Chicago,"(44.0509, -97.98904)",6.081513690386402,690.0,44176_0_yes,43.98047443404738,-97.9156239677411,5.0

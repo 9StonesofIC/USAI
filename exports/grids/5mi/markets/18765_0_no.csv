@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39337,32.51447,-88.98528,Little Rock,MS,Mississippi,True,,1714.0,9.8,28101,Newton,"{""28101"": 94.15, ""28099"": 5.85}",Newton|Neshoba,28101|28099,False,False,America/Chicago,"(32.51447, -88.98528)",4.28020511710296,1714.0,18765_0_no,32.45361206765937,-88.97156336257419,5.0

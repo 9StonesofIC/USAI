@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39464,31.49268,-89.06129,Ovett,MS,Mississippi,True,,2887.0,10.5,28067,Jones,"{""28067"": 84.33, ""28111"": 15.67}",Jones|Perry,28067|28111,False,False,America/Chicago,"(31.49268, -89.06129)",4.278251862126237,2887.0,16339_0_no,31.438386869529843,-89.02638646052573,5.0

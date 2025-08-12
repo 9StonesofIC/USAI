@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55613,47.57023,-90.97293,Schroeder,MN,Minnesota,True,,213.0,1.5,27031,Cook,"{""27031"": 99.86, ""27075"": 0.14}",Cook|Lake,27031|27075,False,False,America/Chicago,"(47.57023, -90.97293)",9.470471149691056,481.0,13009_0_no,47.70536166675406,-90.93886160210955,10.0
+55615,47.74561,-90.87695,Tofte,MN,Minnesota,True,,268.0,0.5,27031,Cook,"{""27031"": 100}",Cook,27031,False,False,America/Chicago,"(47.74561, -90.87695)",4.00169198195322,481.0,13009_0_no,47.70536166675406,-90.93886160210955,10.0

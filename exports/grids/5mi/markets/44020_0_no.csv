@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03282,43.86006,-71.9295,Wentworth,NH,New Hampshire,True,,1089.0,10.1,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.86006, -71.9295)",5.285222660594625,2461.0,44020_0_no,43.88544719103921,-72.02959724555139,5.0
+03777,43.89548,-72.06672,Orford,NH,New Hampshire,True,,1372.0,11.4,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.89548, -72.06672)",1.974170783694848,2461.0,44020_0_no,43.88544719103921,-72.02959724555139,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50235,41.92974,-94.20873,Rippey,IA,Iowa,True,,331.0,2.7,19073,Greene,"{""19073"": 85.56, ""19015"": 10.42, ""19049"": 4.02}",Greene|Boone|Dallas,19073|19015|19049,False,False,America/Chicago,"(41.92974, -94.20873)",4.151275417358245,331.0,39963_0_yes,41.95004287375083,-94.13270926032652,5.0

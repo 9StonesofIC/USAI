@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65068,38.82757,-92.59909,Prairie Home,MO,Missouri,True,,798.0,6.3,29053,Cooper,"{""29053"": 95.11, ""29135"": 4.89}",Cooper|Moniteau,29053|29135,False,False,America/Chicago,"(38.82757, -92.59909)",3.5167650572123734,798.0,33390_0_no,38.8345234919712,-92.66381605608544,5.0

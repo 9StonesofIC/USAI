@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35960,34.12515,-85.56786,Centre,AL,Alabama,True,,9039.0,23.8,1019,Cherokee,"{""01019"": 100}",Cherokee,01019,False,False,America/Chicago,"(34.12515, -85.56786)",0.45020870120059286,9039.0,22520_0_yes,34.11875003847724,-85.56933844541315,5.0

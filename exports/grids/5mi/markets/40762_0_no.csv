@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14843,42.32819,-77.64371,Hornell,NY,New York,True,,12447.0,50.2,36101,Steuben,"{""36101"": 96.34, ""36003"": 3.66}",Steuben|Allegany,36101|36003,False,False,America/New_York,"(42.32819, -77.64371)",2.6731294194840896,12447.0,40762_0_no,42.29811981800332,-77.67662957365515,5.0

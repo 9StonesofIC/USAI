@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68653,41.55551,-97.4888,Platte Center,NE,Nebraska,True,,656.0,4.5,31141,Platte,"{""31141"": 100}",Platte,31141,False,False,America/Chicago,"(41.55551, -97.4888)",2.6241571470723404,656.0,39344_0_no,41.59086464543552,-97.50734685910108,5.0

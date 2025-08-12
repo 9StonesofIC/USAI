@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04449,44.99761,-68.88357,Hudson,ME,Maine,True,,1202.0,12.4,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.99761, -68.88357)",2.0813741761927247,2643.0,46078_0_yes,44.96789139262053,-68.87660599815652,5.0
+04450,44.91593,-68.92797,Kenduskeag,ME,Maine,True,,1441.0,33.2,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.91593, -68.92797)",4.38173830030002,2643.0,46078_0_yes,44.96789139262053,-68.87660599815652,5.0

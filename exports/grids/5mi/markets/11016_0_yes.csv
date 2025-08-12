@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32134,29.37177,-81.82562,Fort McCoy,FL,Florida,True,,7712.0,11.1,12083,Marion,"{""12083"": 79.1, ""12107"": 19.47, ""12069"": 1.43}",Marion|Putnam|Lake,12083|12107|12069,False,False,America/New_York,"(29.37177, -81.82562)",5.471032719825746,7712.0,11016_0_yes,29.33031227272205,-81.74822186817926,5.0

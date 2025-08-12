@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95545,40.26159,-124.08599,Honeydew,CA,California,True,,110.0,0.3,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.26159, -124.08599)",1.7802178286198205,519.0,9270_0_no,40.23586418186525,-124.08412013306604,10.0
+95558,40.32673,-124.24017,Petrolia,CA,California,True,,409.0,0.9,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.32673, -124.24017)",10.3476079745249,519.0,9270_0_no,40.23586418186525,-124.08412013306604,10.0

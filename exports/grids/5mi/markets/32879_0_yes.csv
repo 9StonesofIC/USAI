@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84739,38.64204,-112.22299,Joseph,UT,Utah,True,,634.0,9.0,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.64204, -112.22299)",1.401999026268529,921.0,32879_0_yes,38.63260841437141,-112.2459907396614,5.0
+84766,38.59762,-112.33567,Sevier,UT,Utah,True,,287.0,0.9,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.59762, -112.33567)",5.411471259910629,921.0,32879_0_yes,38.63260841437141,-112.2459907396614,5.0

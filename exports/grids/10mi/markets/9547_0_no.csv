@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84036,40.66022,-111.1093,Kamas,UT,Utah,True,,7754.0,9.0,49043,Summit,"{""49043"": 71.81, ""49051"": 28.19}",Summit|Wasatch,49043|49051,False,False,America/Denver,"(40.66022, -111.1093)",9.2511469095839,9257.0,9547_0_no,40.79411250291769,-111.10868466265606,10.0
+84055,40.71889,-111.16106,Oakley,UT,Utah,True,,1503.0,4.6,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver,"(40.71889, -111.16106)",5.8759628405553,9257.0,9547_0_no,40.79411250291769,-111.10868466265606,10.0

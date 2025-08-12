@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46975,41.0718,-86.25177,Rochester,IN,Indiana,True,,14415.0,26.8,18049,Fulton,"{""18049"": 100}",Fulton,18049,False,False,America/Indiana/Indianapolis,"(41.0718, -86.25177)",2.948075312070404,14415.0,38083_0_yes,41.07456911354606,-86.30824917483476,5.0

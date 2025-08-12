@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82835,44.75856,-106.36918,Clearmont,WY,Wyoming,True,,410.0,0.3,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver,"(44.75856, -106.36918)",5.11515125006823,443.0,11501_0_yes,44.69517600044581,-106.31533864571912,10.0
+82837,44.72549,-106.28169,Leiter,WY,Wyoming,True,,33.0,0.9,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver,"(44.72549, -106.28169)",2.6677381976948507,443.0,11501_0_yes,44.69517600044581,-106.31533864571912,10.0

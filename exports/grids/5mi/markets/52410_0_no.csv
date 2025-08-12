@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58853,48.06237,-103.78588,Trenton,ND,North Dakota,True,,198.0,5.2,38105,Williams,"{""38105"": 100}",Williams,38105,False,False,America/Chicago,"(48.06237, -103.78588)",4.0446141655889765,198.0,52410_0_no,48.1107349600701,-103.73651181830564,5.0

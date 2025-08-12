@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81224,38.87985,-106.90957,Crested Butte,CO,Colorado,True,,3291.0,4.8,8051,Gunnison,"{""08051"": 100}",Gunnison,08051,False,False,America/Denver,"(38.87985, -106.90957)",5.370644189198989,3291.0,8447_0_yes,38.903719936478765,-106.81452795524184,10.0

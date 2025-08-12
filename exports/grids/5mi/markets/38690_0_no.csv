@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61368,41.26113,-89.51981,Tiskilwa,IL,Illinois,True,,1334.0,7.1,17011,Bureau,"{""17011"": 100}",Bureau,17011,False,False,America/Chicago,"(41.26113, -89.51981)",3.0718554122076966,1334.0,38690_0_no,41.29455374342198,-89.55882052749556,5.0

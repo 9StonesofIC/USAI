@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14813,42.24638,-77.99209,Belmont,NY,New York,True,,2264.0,14.4,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.24638, -77.99209)",1.5641722020485311,4111.0,40488_0_yes,42.22596668059858,-78.00530979580466,5.0
+14880,42.17363,-77.97334,Scio,NY,New York,True,,1847.0,13.7,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.17363, -77.97334)",3.9691349856894744,4111.0,40488_0_yes,42.22596668059858,-78.00530979580466,5.0

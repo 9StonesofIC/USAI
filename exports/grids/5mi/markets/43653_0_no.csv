@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83605,43.66442,-116.65171,Caldwell,ID,Idaho,True,,46961.0,736.2,16027,Canyon,"{""16027"": 100}",Canyon,16027,False,False,America/Boise,"(43.66442, -116.65171)",5.000536886321314,48205.0,43653_0_no,43.63498747076493,-116.74308778082546,5.0
+83626,43.66876,-116.82815,Greenleaf,ID,Idaho,True,,1244.0,72.8,16027,Canyon,"{""16027"": 100}",Canyon,16027,False,False,America/Boise,"(43.66876, -116.82815)",4.850613153141379,48205.0,43653_0_no,43.63498747076493,-116.74308778082546,5.0

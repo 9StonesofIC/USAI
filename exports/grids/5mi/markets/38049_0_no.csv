@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45880,41.0662,-84.73782,Payne,OH,Ohio,True,,2805.0,18.7,39125,Paulding,"{""39125"": 100}",Paulding,39125,False,False,America/New_York,"(41.0662, -84.73782)",4.51407022285982,2805.0,38049_0_no,41.00090269983707,-84.74067695591621,5.0

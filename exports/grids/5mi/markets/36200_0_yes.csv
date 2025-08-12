@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43021,40.20301,-82.88476,Galena,OH,Ohio,True,,12298.0,122.1,39041,Delaware,"{""39041"": 100}",Delaware,39041,False,False,America/New_York,"(40.20301, -82.88476)",2.4919754454761605,47542.0,36200_0_yes,40.20275087097587,-82.83753881010473,5.0
+43082,40.15537,-82.88437,Westerville,OH,Ohio,True,,35244.0,649.6,39041,Delaware,"{""39041"": 100}",Delaware,39041,False,False,America/New_York,"(40.15537, -82.88437)",4.1023064149338335,47542.0,36200_0_yes,40.20275087097587,-82.83753881010473,5.0

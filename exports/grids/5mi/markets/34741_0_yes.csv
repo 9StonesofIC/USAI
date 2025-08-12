@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80101,39.42503,-103.95395,Agate,CO,Colorado,True,,564.0,0.6,8039,Elbert,"{""08039"": 100}",Elbert,08039,False,False,America/Denver,"(39.42503, -103.95395)",6.813728200099569,564.0,34741_0_yes,39.49560259770415,-104.0431672173012,5.0

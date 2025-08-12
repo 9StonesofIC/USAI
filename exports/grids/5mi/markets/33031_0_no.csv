@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41008,38.65648,-85.16873,Carrollton,KY,Kentucky,True,,6869.0,56.3,21041,Carroll,"{""21041"": 95.63, ""21223"": 4.37}",Carroll|Trimble,21041|21223,False,False,America/New_York,"(38.65648, -85.16873)",2.2629473177116397,6869.0,33031_0_no,38.68368683904581,-85.14537565288164,5.0

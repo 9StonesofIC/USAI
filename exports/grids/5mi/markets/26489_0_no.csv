@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27312,35.75446,-79.19648,Pittsboro,NC,North Carolina,True,,22031.0,49.8,37037,Chatham,"{""37037"": 99.37, ""37001"": 0.63}",Chatham|Alamance,37037|37001,False,False,America/New_York,"(35.75446, -79.19648)",2.573399042676723,22031.0,26489_0_no,35.781100976967515,-79.16440164300887,5.0

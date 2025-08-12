@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21531,39.64862,-79.42221,Friendsville,MD,Maryland,True,,1744.0,11.0,24023,Garrett,"{""24023"": 100}",Garrett,24023,False,False,America/New_York,"(39.64862, -79.42221)",2.2234865784065714,3280.0,34925_0_yes,39.62065455560993,-79.4428858159312,5.0
+21541,39.55727,-79.36732,McHenry,MD,Maryland,True,,1536.0,25.7,24023,Garrett,"{""24023"": 100}",Garrett,24023,False,False,America/New_York,"(39.55727, -79.36732)",5.947161247394214,3280.0,34925_0_yes,39.62065455560993,-79.4428858159312,5.0

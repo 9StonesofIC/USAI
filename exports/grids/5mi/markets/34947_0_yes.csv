@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43128,39.66359,-83.57893,Jeffersonville,OH,Ohio,True,,2331.0,18.5,39047,Fayette,"{""39047"": 100}",Fayette,39047,False,False,America/New_York,"(39.66359, -83.57893)",2.816680542699335,2447.0,34947_0_yes,39.62398090351303,-83.56640567776448,5.0
+43142,39.59289,-83.58777,Milledgeville,OH,Ohio,True,,116.0,502.5,39047,Fayette,"{""39047"": 100}",Fayette,39047,False,False,America/New_York,"(39.59289, -83.58777)",2.43063440749346,2447.0,34947_0_yes,39.62398090351303,-83.56640567776448,5.0

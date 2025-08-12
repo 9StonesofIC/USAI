@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52632,40.44072,-91.43973,Keokuk,IA,Iowa,True,,12651.0,94.3,19111,Lee,"{""19111"": 100}",Lee,19111,False,False,America/Chicago,"(40.44072, -91.43973)",4.843933796085831,15919.0,36869_0_yes,40.49943311879407,-91.38936961200532,5.0
+52639,40.52763,-91.46409,Montrose,IA,Iowa,True,,1782.0,17.6,19111,Lee,"{""19111"": 100}",Lee,19111,False,False,America/Chicago,"(40.52763, -91.46409)",4.38186682275543,15919.0,36869_0_yes,40.49943311879407,-91.38936961200532,5.0
+62354,40.52087,-91.33305,Nauvoo,IL,Illinois,True,,1486.0,15.7,17067,Hancock,"{""17067"": 100}",Hancock,17067,False,False,America/Chicago,"(40.52087, -91.33305)",3.3085801534550354,15919.0,36869_0_yes,40.49943311879407,-91.38936961200532,5.0

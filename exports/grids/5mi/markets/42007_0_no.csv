@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49512,42.8821,-85.54764,Grand Rapids,MI,Michigan,True,,18464.0,309.7,26081,Kent,"{""26081"": 100}",Kent,26081,False,False,America/Detroit,"(42.8821, -85.54764)",1.892590989269093,52432.0,42007_0_no,42.88391594992429,-85.51033982319443,5.0
+49546,42.92815,-85.53629,Grand Rapids,MI,Michigan,True,,33968.0,734.1,26081,Kent,"{""26081"": 100}",Kent,26081,False,False,America/Detroit,"(42.92815, -85.53629)",3.3265062041189237,52432.0,42007_0_no,42.88391594992429,-85.51033982319443,5.0

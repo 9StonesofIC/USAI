@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97377,44.46403,-123.10156,Shedd,OR,Oregon,True,,827.0,7.1,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles,"(44.46403, -123.10156)",3.1469412378488713,2756.0,45446_0_no,44.50953196066866,-123.09874747169027,5.0
+97389,44.53269,-123.09028,Tangent,OR,Oregon,True,,1929.0,20.9,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles,"(44.53269, -123.09028)",1.653547220141021,2756.0,45446_0_no,44.50953196066866,-123.09874747169027,5.0

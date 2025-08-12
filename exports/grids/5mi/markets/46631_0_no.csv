@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04426,45.1849,-69.15827,Dover Foxcroft,ME,Maine,True,,4501.0,14.5,23021,Piscataquis,"{""23021"": 100}",Piscataquis,23021,False,False,America/New_York,"(45.1849, -69.15827)",1.9445569117720505,5018.0,46631_0_no,45.18525828193311,-69.19819741553783,5.0
+04481,45.24298,-69.10423,Sebec,ME,Maine,True,,517.0,5.4,23021,Piscataquis,"{""23021"": 100}",Piscataquis,23021,False,False,America/New_York,"(45.24298, -69.10423)",6.068327784046163,5018.0,46631_0_no,45.18525828193311,-69.19819741553783,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66075,38.20362,-94.69272,Pleasanton,KS,Kansas,True,,2212.0,8.2,20107,Linn,"{""20107"": 100}",Linn,20107,False,False,America/Chicago,"(38.20362, -94.69272)",1.3960182466836206,2212.0,31822_0_yes,38.18402712516502,-94.68644093060892,5.0

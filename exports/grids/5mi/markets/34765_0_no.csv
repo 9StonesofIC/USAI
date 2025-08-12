@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84624,39.38429,-112.58756,Delta,UT,Utah,True,,5641.0,7.3,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(39.38429, -112.58756)",3.171711323617326,5641.0,34765_0_no,39.4300546786254,-112.58292346067202,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62957,37.31355,-89.42669,McClure,IL,Illinois,True,,710.0,5.9,17003,Alexander,"{""17003"": 77.18, ""17181"": 22.82}",Alexander|Union,17003|17181,False,False,America/Chicago,"(37.31355, -89.42669)",5.595871252251903,710.0,30157_0_no,37.38301077453852,-89.4790801073221,5.0

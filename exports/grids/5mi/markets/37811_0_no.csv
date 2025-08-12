@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68865,40.89337,-98.187,Phillips,NE,Nebraska,True,,1020.0,6.5,31081,Hamilton,"{""31081"": 100}",Hamilton,31081,False,False,America/Chicago,"(40.89337, -98.187)",1.8147799233256663,1020.0,37811_0_no,40.86721022226521,-98.19011520705062,5.0

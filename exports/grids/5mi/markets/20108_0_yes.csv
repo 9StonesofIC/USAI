@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29081,33.09161,-81.0426,Ehrhardt,SC,South Carolina,True,,1188.0,5.7,45009,Bamberg,"{""45009"": 85.44, ""45029"": 14.56}",Bamberg|Colleton,45009|45029,False,False,America/New_York,"(33.09161, -81.0426)",0.9937607425865475,1188.0,20108_0_yes,33.10067115388952,-81.02926711983258,5.0

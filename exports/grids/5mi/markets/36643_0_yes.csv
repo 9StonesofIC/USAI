@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81638,40.30589,-107.64205,Hamilton,CO,Colorado,True,,19.0,0.0,8081,Moffat,"{""08081"": 77.3, ""08107"": 22.7}",Moffat|Routt,08081|08107,False,False,America/Denver,"(40.30589, -107.64205)",5.868032564147639,19.0,36643_0_yes,40.36783458006834,-107.56582635501708,5.0

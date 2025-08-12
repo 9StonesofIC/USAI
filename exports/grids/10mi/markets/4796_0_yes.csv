@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88061,32.6211,-108.40888,Silver City,NM,New Mexico,True,,17885.0,7.7,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(32.6211, -108.40888)",10.559800739392506,17885.0,4796_0_yes,32.52822605435875,-108.55291602436937,10.0

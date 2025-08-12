@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72576,36.35004,-91.85081,Salem,AR,Arkansas,True,,3444.0,8.8,5049,Fulton,"{""05049"": 99.8, ""05065"": 0.2}",Fulton|Izard,05049|05065,False,False,America/Chicago,"(36.35004, -91.85081)",3.6121711292081975,3444.0,27571_0_yes,36.29778584934457,-91.84878855060998,5.0

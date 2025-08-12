@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76930,31.11075,-101.11975,Barnhart,TX,Texas,True,,86.0,0.1,48235,Irion,"{""48235"": 50.22, ""48105"": 49.78}",Irion|Crockett,48235|48105,False,False,America/Chicago,"(31.11075, -101.11975)",5.046458985831627,86.0,3904_0_yes,31.067928635602343,-101.05065724920972,10.0

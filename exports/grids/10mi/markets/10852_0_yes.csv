@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48469,43.43927,-82.55849,Port Sanilac,MI,Michigan,True,,1151.0,56.3,26151,Sanilac,"{""26151"": 100}",Sanilac,26151,False,False,America/Detroit,"(43.43927, -82.55849)",9.125924236935406,1151.0,10852_0_yes,43.49552680294632,-82.39383458944087,10.0

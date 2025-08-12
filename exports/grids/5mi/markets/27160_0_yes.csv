@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27874,36.12874,-77.41037,Scotland Neck,NC,North Carolina,True,,3984.0,11.4,37083,Halifax,"{""37083"": 100}",Halifax,37083,False,False,America/New_York,"(36.12874, -77.41037)",1.2353180982009653,3984.0,27160_0_yes,36.14206901607347,-77.42512453156775,5.0

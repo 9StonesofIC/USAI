@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87305,35.40327,-108.73151,Gallup,NM,New Mexico,True,,2907.0,9.4,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.40327, -108.73151)",3.3954416216556877,2907.0,25676_0_yes,35.44040618181135,-108.69201390777874,5.0

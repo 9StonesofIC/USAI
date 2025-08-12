@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18436,41.43867,-75.3959,Lake Ariel,PA,Pennsylvania,True,,12960.0,50.6,42127,Wayne,"{""42127"": 73.56, ""42069"": 26.44}",Wayne|Lackawanna,42127|42069,False,False,America/New_York,"(41.43867, -75.3959)",1.6601957067486393,12960.0,38923_0_no,41.42754739093035,-75.42430888288477,5.0

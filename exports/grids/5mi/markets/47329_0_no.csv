@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56320,45.4629,-94.4171,Cold Spring,MN,Minnesota,True,,8625.0,65.2,27145,Stearns,"{""27145"": 100}",Stearns,27145,False,False,America/Chicago,"(45.4629, -94.4171)",2.6229202096307684,12996.0,47329_0_no,45.49736401689261,-94.43980059640984,5.0
+56368,45.45158,-94.5392,Richmond,MN,Minnesota,True,,4371.0,23.9,27145,Stearns,"{""27145"": 100}",Stearns,27145,False,False,America/Chicago,"(45.45158, -94.5392)",5.761943644987742,12996.0,47329_0_no,45.49736401689261,-94.43980059640984,5.0

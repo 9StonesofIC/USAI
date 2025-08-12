@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64762,37.54628,-94.50176,Liberal,MO,Missouri,True,,1614.0,4.9,29011,Barton,"{""29011"": 100}",Barton,29011,False,False,America/Chicago,"(37.54628, -94.50176)",5.081019088506803,2703.0,30529_0_yes,37.6042622152518,-94.55883161561704,5.0
+66756,37.53928,-94.64869,Mulberry,KS,Kansas,True,,1089.0,20.2,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago,"(37.53928, -94.64869)",6.661372052342711,2703.0,30529_0_yes,37.6042622152518,-94.55883161561704,5.0

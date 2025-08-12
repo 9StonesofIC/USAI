@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69037,40.17759,-101.40394,Max,NE,Nebraska,True,,163.0,1.3,31057,Dundy,"{""31057"": 100}",Dundy,31057,False,False,America/Denver,"(40.17759, -101.40394)",3.50110308815606,163.0,36298_0_yes,40.21787841495468,-101.36370458726816,5.0

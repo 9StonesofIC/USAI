@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71351,31.17227,-91.9604,Marksville,LA,Louisiana,True,,11725.0,20.1,22009,Avoyelles,"{""22009"": 99.25, ""22079"": 0.75}",Avoyelles|Rapides,22009|22079,False,False,America/Chicago,"(31.17227, -91.9604)",3.0640926381381024,11725.0,15658_0_no,31.15023547869717,-92.005374874573,5.0

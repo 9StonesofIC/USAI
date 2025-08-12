@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97731,43.1315,-121.92089,Chemult,OR,Oregon,True,,458.0,2.6,41035,Klamath,"{""41035"": 66.13, ""41019"": 33.87}",Klamath|Douglas,41035|41019,False,False,America/Los_Angeles,"(43.1315, -121.92089)",5.253672206552942,458.0,42491_0_no,43.060138907378246,-121.95684348347812,5.0

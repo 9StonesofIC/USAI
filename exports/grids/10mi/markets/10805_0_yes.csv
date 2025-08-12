@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97443,43.25014,-123.00255,Glide,OR,Oregon,True,,2939.0,13.2,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.25014, -123.00255)",1.972665257025463,12815.0,10805_0_yes,43.27657259950247,-123.0173694124498,10.0
+97479,43.40194,-123.19426,Sutherlin,OR,Oregon,True,,9876.0,56.5,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.40194, -123.19426)",12.411560976872359,12815.0,10805_0_yes,43.27657259950247,-123.0173694124498,10.0

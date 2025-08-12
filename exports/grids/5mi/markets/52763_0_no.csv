@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98241,48.21425,-121.33219,Darrington,WA,Washington,True,,1941.0,1.8,53061,Snohomish,"{""53061"": 91.93, ""53057"": 8.07}",Snohomish|Skagit,53061|53057,False,False,America/Los_Angeles,"(48.21425, -121.33219)",6.003307086670714,1941.0,52763_0_no,48.27191474649639,-121.23459868147296,5.0

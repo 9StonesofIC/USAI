@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37166,35.92444,-85.78978,Smithville,TN,Tennessee,True,,14310.0,35.7,47041,DeKalb,"{""47041"": 91.48, ""47177"": 6.93, ""47015"": 1.59}",DeKalb|Warren|Cannon,47041|47177|47015,False,False,America/Chicago,"(35.92444, -85.78978)",4.568314694659928,14310.0,26545_0_yes,35.85844148905917,-85.7946832442694,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93562,35.70667,-117.34263,Trona,CA,California,True,,1757.0,7.6,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(35.70667, -117.34263)",8.604686223564272,1757.0,6676_0_no,35.58635439998033,-117.38219292504532,10.0

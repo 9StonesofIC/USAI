@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56159,43.94363,-94.93598,Mountain Lake,MN,Minnesota,True,,2652.0,8.1,27033,Cottonwood,"{""27033"": 86.03, ""27063"": 13.97}",Cottonwood|Jackson,27033|27063,False,False,America/Chicago,"(43.94363, -94.93598)",2.7702648834952983,2652.0,44161_0_yes,43.97783370266603,-94.90691607926638,5.0

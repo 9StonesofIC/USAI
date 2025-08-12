@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73632,35.27036,-98.90853,Cordell,OK,Oklahoma,True,,3063.0,5.3,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago,"(35.27036, -98.90853)",4.031275083336519,3598.0,25270_0_no,35.21579966810288,-98.93384158881668,5.0
+73661,35.17033,-99.0176,Rocky,OK,Oklahoma,True,,535.0,2.7,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago,"(35.17033, -99.0176)",5.677739221022263,3598.0,25270_0_no,35.21579966810288,-98.93384158881668,5.0

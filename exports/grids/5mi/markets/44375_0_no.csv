@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48659,44.06792,-84.05154,Sterling,MI,Michigan,True,,2806.0,14.2,26011,Arenac,"{""26011"": 97.93, ""26017"": 2.07}",Arenac|Bay,26011|26017,False,False,America/Detroit,"(44.06792, -84.05154)",5.140624768306341,2806.0,44375_0_no,44.04081315299975,-84.14794916714213,5.0

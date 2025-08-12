@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59935,48.64726,-115.83505,Troy,MT,Montana,True,,3616.0,1.3,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver,"(48.64726, -115.83505)",8.220112176047595,3616.0,13489_0_yes,48.76447649825944,-115.80420323865673,10.0

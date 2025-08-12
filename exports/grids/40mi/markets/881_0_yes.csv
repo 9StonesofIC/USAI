@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56668,48.61454,-93.3467,Ranier,MN,Minnesota,True,,126.0,237.5,27071,Koochiching,"{""27071"": 100}",Koochiching,27071,False,False,America/Winnipeg,"(48.61454, -93.3467)",35.575707467835116,126.0,881_0_yes,49.11725624088204,-93.17748020384654,40.0

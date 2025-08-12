@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68420,40.08556,-96.19125,Pawnee City,NE,Nebraska,True,,1356.0,4.0,31133,Pawnee,"{""31133"": 97.66, ""20131"": 2.34}",Pawnee|Nemaha,31133|20131,False,False,America/Chicago,"(40.08556, -96.19125)",3.9753996770474167,1356.0,36247_0_no,40.14128043040563,-96.2100033309285,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04003,43.73362,-69.98724,Bailey Island,ME,Maine,True,,214.0,79.6,23005,Cumberland,"{""23005"": 100}",Cumberland,23005,False,False,America/New_York,"(43.73362, -69.98724)",6.165411395115445,214.0,43445_0_yes,43.666460585810135,-69.90597082391265,5.0

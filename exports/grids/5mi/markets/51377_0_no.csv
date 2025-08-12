@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99022,47.60084,-117.70869,Medical Lake,WA,Washington,True,,8718.0,49.3,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.60084, -117.70869)",4.702414284738315,8718.0,51377_0_no,47.54491413614005,-117.65120069805155,5.0

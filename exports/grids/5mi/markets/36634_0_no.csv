@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84001,40.34525,-110.27241,Altamont,UT,Utah,True,,688.0,12.7,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.34525, -110.27241)",5.001301546397541,959.0,36634_0_no,40.29770606010054,-110.34399888671904,5.0
+84073,40.3456,-110.41394,Talmage,UT,Utah,True,,271.0,3.8,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.3456, -110.41394)",4.9522970879000905,959.0,36634_0_no,40.29770606010054,-110.34399888671904,5.0

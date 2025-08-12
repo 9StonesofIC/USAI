@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87010,35.40517,-106.13493,Cerrillos,NM,New Mexico,True,,1017.0,2.4,35049,Santa Fe,"{""35049"": 100}",Santa Fe,35049,False,False,America/Denver,"(35.40517, -106.13493)",9.084208321118316,1017.0,6478_0_no,35.27980553381495,-106.08635475174212,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82414,44.45727,-109.59671,Cody,WY,Wyoming,True,,15383.0,2.2,56029,Park,"{""56029"": 100}",Park,56029,False,False,America/Denver,"(44.45727, -109.59671)",3.03373189268091,15383.0,45114_0_yes,44.42516194652486,-109.63865753858347,5.0

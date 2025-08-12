@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45817,40.87691,-83.88279,Bluffton,OH,Ohio,True,,6668.0,40.2,39003,Allen,"{""39003"": 49.8, ""39063"": 47.04, ""39137"": 3.16}",Allen|Hancock|Putnam,39003|39063|39137,False,False,America/New_York,"(40.87691, -83.88279)",1.5572633388557298,6668.0,37736_0_no,40.85536541445206,-83.87403704004369,5.0

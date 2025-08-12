@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27932,36.10223,-76.59414,Edenton,NC,North Carolina,True,,11728.0,34.7,37041,Chowan,"{""37041"": 90.93, ""37143"": 9.07}",Chowan|Perquimans,37041|37143,False,False,America/New_York,"(36.10223, -76.59414)",4.440437348832659,11728.0,27155_0_yes,36.14140161975243,-76.53106538119256,5.0

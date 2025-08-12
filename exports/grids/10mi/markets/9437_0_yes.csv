@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95549,40.65838,-123.89485,Kneeland,CA,California,True,,1088.0,3.0,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.65838, -123.89485)",2.095096721092823,1260.0,9437_0_yes,40.67009077353927,-123.85797656844096,10.0
+95550,40.77695,-123.82951,Korbel,CA,California,True,,172.0,0.5,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.77695, -123.82951)",7.532236528435203,1260.0,9437_0_yes,40.67009077353927,-123.85797656844096,10.0

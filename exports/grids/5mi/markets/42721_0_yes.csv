@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57782,43.25182,-103.1844,Smithwick,SD,South Dakota,True,,42.0,0.3,46047,Fall River,"{""46047"": 100}",Fall River,46047,False,False,America/Denver,"(43.25182, -103.1844)",0.7973539184957337,42.0,42721_0_yes,43.26111412759504,-103.19379286935695,5.0

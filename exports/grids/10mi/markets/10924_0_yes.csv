@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83014,43.458,-110.93746,Wilson,WY,Wyoming,True,,2885.0,5.2,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.458, -110.93746)",8.530892204680788,8308.0,10924_0_yes,43.54542827048021,-111.05765385426947,10.0
+83455,43.60638,-111.14077,Victor,ID,Idaho,True,,5423.0,22.6,16081,Teton,"{""16081"": 100}",Teton,16081,False,False,America/Boise,"(43.60638, -111.14077)",5.9198564990928695,8308.0,10924_0_yes,43.54542827048021,-111.05765385426947,10.0

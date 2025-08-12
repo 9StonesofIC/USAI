@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71235,32.68988,-92.6726,Dubach,LA,Louisiana,True,,4198.0,10.0,22061,Lincoln,"{""22061"": 95.56, ""22111"": 3.22, ""22027"": 1.22}",Lincoln|Union|Claiborne,22061|22111|22027,False,False,America/Chicago,"(32.68988, -92.6726)",4.512505686187528,4198.0,19475_0_no,32.74616638974554,-92.63322831350438,5.0

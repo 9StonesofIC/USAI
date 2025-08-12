@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04490,45.39527,-67.82458,Topsfield,ME,Maine,True,,228.0,0.5,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(45.39527, -67.82458)",6.902684402787429,319.0,11827_0_no,45.34954570531809,-67.69813677368164,10.0
+04492,45.34738,-67.6658,Waite,ME,Maine,True,,91.0,0.9,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(45.34738, -67.6658)",1.5773353143360886,319.0,11827_0_no,45.34954570531809,-67.69813677368164,10.0

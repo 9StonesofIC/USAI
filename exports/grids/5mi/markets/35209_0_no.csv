@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21740,39.63233,-77.73902,Hagerstown,MD,Maryland,True,,60922.0,331.9,24043,Washington,"{""24043"": 100}",Washington,24043,False,False,America/New_York,"(39.63233, -77.73902)",5.748843737072717,61616.0,35209_0_no,39.691800822881135,-77.8146093145111,5.0
+21767,39.69773,-77.74638,Maugansville,MD,Maryland,True,,694.0,778.5,24043,Washington,"{""24043"": 100}",Washington,24043,False,False,America/New_York,"(39.69773, -77.74638)",3.650435894292498,61616.0,35209_0_no,39.691800822881135,-77.8146093145111,5.0

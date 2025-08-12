@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82925,43.23123,-109.89386,Cora,WY,Wyoming,True,,438.0,0.2,56035,Sublette,"{""56035"": 94.89, ""56039"": 5.11}",Sublette|Teton,56035|56039,False,False,America/Denver,"(43.23123, -109.89386)",2.778271129771676,438.0,42728_0_no,43.194535181322784,-109.87129908590369,5.0

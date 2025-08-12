@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47330,39.78792,-85.02226,Centerville,IN,Indiana,True,,5051.0,34.9,18177,Wayne,"{""18177"": 100}",Wayne,18177,False,False,America/Indiana/Indianapolis,"(39.78792, -85.02226)",4.021290805252127,6676.0,35562_0_no,39.84249361558638,-85.04859076059691,5.0
+47345,39.892,-85.04765,Greens Fork,IN,Indiana,True,,1625.0,21.7,18177,Wayne,"{""18177"": 100}",Wayne,18177,False,False,America/Indiana/Indianapolis,"(39.892, -85.04765)",3.4209291695441357,6676.0,35562_0_no,39.84249361558638,-85.04859076059691,5.0

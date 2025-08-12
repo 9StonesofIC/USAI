@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39044,32.02869,-89.97161,Braxton,MS,Mississippi,True,,3604.0,9.9,28127,Simpson,"{""28127"": 59.26, ""28121"": 40.74}",Simpson|Rankin,28127|28121,False,False,America/Chicago,"(32.02869, -89.97161)",1.4838382950528874,3604.0,17734_0_no,32.01920580372369,-89.99433651031967,5.0

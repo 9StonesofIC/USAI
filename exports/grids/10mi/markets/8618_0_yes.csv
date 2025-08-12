@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84516,39.12842,-111.06703,Clawson,UT,Utah,True,,84.0,2.1,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(39.12842, -111.06703)",9.187950663620173,3056.0,8618_0_yes,39.2004983176876,-111.21116091126174,10.0
+84523,39.0946,-111.2014,Ferron,UT,Utah,True,,1719.0,5.8,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(39.0946, -111.2014)",7.335546362622426,3056.0,8618_0_yes,39.2004983176876,-111.21116091126174,10.0
+84537,39.29966,-111.17345,Orangeville,UT,Utah,True,,1253.0,3.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(39.29966, -111.17345)",7.142353160687286,3056.0,8618_0_yes,39.2004983176876,-111.21116091126174,10.0

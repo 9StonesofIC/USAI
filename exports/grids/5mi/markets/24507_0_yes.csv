@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28396,34.93948,-79.40971,Wagram,NC,North Carolina,True,,2836.0,20.1,37165,Scotland,"{""37165"": 100}",Scotland,37165,False,False,America/New_York,"(34.93948, -79.40971)",5.0131585909536645,2836.0,24507_0_yes,34.98404958193268,-79.33984903816035,5.0

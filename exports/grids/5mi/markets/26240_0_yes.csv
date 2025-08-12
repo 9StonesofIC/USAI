@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72411,35.74165,-90.58019,Bay,AR,Arkansas,True,,2680.0,28.6,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago,"(35.74165, -90.58019)",5.204463194344945,2680.0,26240_0_yes,35.71709949084299,-90.66791266700928,5.0

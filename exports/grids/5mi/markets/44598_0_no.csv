@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04259,44.22762,-70.00868,Monmouth,ME,Maine,True,,3455.0,46.0,23011,Kennebec,"{""23011"": 100}",Kennebec,23011,False,False,America/New_York,"(44.22762, -70.00868)",4.469414214678715,7066.0,44598_0_no,44.17305919823874,-69.96020974899241,5.0
+04350,44.16266,-69.93942,Litchfield,ME,Maine,True,,3611.0,37.3,23011,Kennebec,"{""23011"": 100}",Kennebec,23011,False,False,America/New_York,"(44.16266, -69.93942)",1.2561452708806742,7066.0,44598_0_no,44.17305919823874,-69.96020974899241,5.0

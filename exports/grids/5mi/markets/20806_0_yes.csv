@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31024,33.32344,-83.36987,Eatonton,GA,Georgia,True,,20792.0,24.7,13237,Putnam,"{""13237"": 100}",Putnam,13237,False,False,America/New_York,"(33.32344, -83.36987)",6.03668489062477,20792.0,20806_0_yes,33.392231868007684,-83.30538342218257,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81025,38.34567,-104.26422,Boone,CO,Colorado,True,,685.0,0.5,8101,Pueblo,"{""08101"": 100}",Pueblo,08101,False,False,America/Denver,"(38.34567, -104.26422)",4.469594622997887,685.0,32495_0_no,38.408970367676936,-104.2812267808162,5.0

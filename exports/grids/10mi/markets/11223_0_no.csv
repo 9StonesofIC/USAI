@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97911,43.85547,-118.02605,Juntura,OR,Oregon,True,,106.0,0.1,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise,"(43.85547, -118.02605)",9.453408224621269,106.0,11223_0_no,43.9921874951091,-118.01867408313316,10.0

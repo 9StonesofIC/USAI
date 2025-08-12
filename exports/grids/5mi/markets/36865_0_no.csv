@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64428,40.4418,-95.08836,Burlington Junction,MO,Missouri,True,,664.0,2.8,29147,Nodaway,"{""29147"": 86.55, ""29005"": 13.45}",Nodaway|Atchison,29147|29005,False,False,America/Chicago,"(40.4418, -95.08836)",2.773146375406798,664.0,36865_0_no,40.43012881127808,-95.1388135562416,5.0

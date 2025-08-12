@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04970,45.00032,-70.63519,Rangeley,ME,Maine,True,,1517.0,2.6,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(45.00032, -70.63519)",4.487610872357463,1517.0,46349_0_no,45.04179439791144,-70.56447645716162,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79518,33.31644,-100.74382,Girard,TX,Texas,True,,67.0,0.1,48263,Kent,"{""48263"": 100}",Kent,48263,False,False,America/Chicago,"(33.31644, -100.74382)",7.0202294882165965,692.0,5281_0_no,33.24252745395602,-100.66042657670468,10.0
+79528,33.15936,-100.57982,Jayton,TX,Texas,True,,625.0,0.7,48263,Kent,"{""48263"": 75.75, ""48433"": 24.25}",Kent|Stonewall,48263|48433,False,False,America/Chicago,"(33.15936, -100.57982)",7.398499730391687,692.0,5281_0_no,33.24252745395602,-100.66042657670468,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04734,46.48479,-67.91955,Blaine,ME,Maine,True,,916.0,8.8,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.48479, -67.91955)",6.567643608997749,916.0,48935_0_yes,46.413645318291785,-67.82805744878056,5.0

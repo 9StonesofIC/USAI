@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59911,47.86041,-113.88552,Bigfork,MT,Montana,True,,8905.0,7.0,30047,Lake,"{""30047"": 83.62, ""30029"": 16.38}",Lake|Flathead,30047|30029,False,False,America/Denver,"(47.86041, -113.88552)",12.35946338286066,8905.0,13062_0_no,47.74786914503605,-113.67850894166942,10.0

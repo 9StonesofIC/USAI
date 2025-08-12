@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94021,37.25028,-122.24958,Loma Mar,CA,California,True,,574.0,20.2,6081,San Mateo,"{""06081"": 100}",San Mateo,06081,False,False,America/Los_Angeles,"(37.25028, -122.24958)",4.469173658211081,1672.0,29707_0_yes,37.190678008360265,-122.2811375100556,5.0
+94060,37.22297,-122.33572,Pescadero,CA,California,True,,1098.0,5.8,6081,San Mateo,"{""06081"": 100}",San Mateo,06081,False,False,America/Los_Angeles,"(37.22297, -122.33572)",3.74167773783291,1672.0,29707_0_yes,37.190678008360265,-122.2811375100556,5.0

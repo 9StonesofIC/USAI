@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69127,41.10231,-101.90774,Brule,NE,Nebraska,True,,762.0,1.4,31101,Keith,"{""31101"": 83.6, ""31135"": 16.4}",Keith|Perkins,31101|31135,False,False,America/Denver,"(41.10231, -101.90774)",3.986409514003836,762.0,38447_0_no,41.16000571259433,-101.9075265966708,5.0

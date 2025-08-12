@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53936,43.87477,-89.71071,Grand Marsh,WI,Wisconsin,True,,2343.0,14.1,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago,"(43.87477, -89.71071)",3.298450241731119,2343.0,44108_0_no,43.90089333189308,-89.65526757253454,5.0

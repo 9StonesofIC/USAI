@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57564,44.72401,-100.0121,Onida,SD,South Dakota,True,,956.0,0.8,46119,Sully,"{""46119"": 97.75, ""46069"": 2.25}",Sully|Hyde,46119|46069,False,False,America/Chicago,"(44.72401, -100.0121)",9.89278417734439,956.0,11485_0_yes,44.68362785137349,-99.8188298779682,10.0

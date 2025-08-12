@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82324,41.64509,-106.43721,Elk Mountain,WY,Wyoming,True,,236.0,0.6,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.64509, -106.43721)",1.8234380273710222,236.0,39417_0_yes,41.67074967687292,-106.44546744757434,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58052,46.63552,-97.28011,Leonard,ND,North Dakota,True,,602.0,1.5,38017,Cass,"{""38017"": 55.98, ""38077"": 32.91, ""38073"": 11.11}",Cass|Richland|Ransom,38017|38077|38073,False,False,America/Chicago,"(46.63552, -97.28011)",4.517852742018323,602.0,49612_0_no,46.65780913877734,-97.36965377311422,5.0

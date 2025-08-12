@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99147,47.83604,-118.43675,Lincoln,WA,Washington,True,,159.0,7.0,53043,Lincoln,"{""53043"": 100}",Lincoln,53043,False,False,America/Los_Angeles,"(47.83604, -118.43675)",1.5779515686953662,159.0,51931_0_no,47.835141476663495,-118.47074614313269,5.0

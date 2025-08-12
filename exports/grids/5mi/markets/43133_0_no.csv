@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03753,43.51534,-72.14798,Grantham,NH,New Hampshire,True,,2878.0,39.4,33019,Sullivan,"{""33019"": 100}",Sullivan,33019,False,False,America/New_York,"(43.51534, -72.14798)",5.428682396166231,10514.0,43133_0_no,43.45142756814491,-72.21096439598662,5.0
+03773,43.38484,-72.19898,Newport,NH,New Hampshire,True,,7636.0,31.3,33019,Sullivan,"{""33019"": 100}",Sullivan,33019,False,False,America/New_York,"(43.38484, -72.19898)",4.639910093820876,10514.0,43133_0_no,43.45142756814491,-72.21096439598662,5.0

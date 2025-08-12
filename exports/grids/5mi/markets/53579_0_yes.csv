@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83845,48.74854,-116.11302,Moyie Springs,ID,Idaho,True,,2067.0,12.1,16021,Boundary,"{""16021"": 100}",Boundary,16021,False,False,America/Los_Angeles,"(48.74854, -116.11302)",4.473769401678857,2067.0,53579_0_yes,48.77341774879253,-116.02233510290894,5.0

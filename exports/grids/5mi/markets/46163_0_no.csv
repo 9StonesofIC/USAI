@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54739,44.86177,-91.70097,Elk Mound,WI,Wisconsin,True,,5429.0,20.4,55033,Dunn,"{""55033"": 81.86, ""55017"": 18.0, ""55035"": 0.14}",Dunn|Chippewa|Eau Claire,55033|55017|55035,False,False,America/Chicago,"(44.86177, -91.70097)",3.7794733077362324,5429.0,46163_0_no,44.91594990305742,-91.6903389977285,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80611,40.62015,-104.24964,Briggsdale,CO,Colorado,True,,1173.0,1.1,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.62015, -104.24964)",3.748461323418255,1173.0,37223_0_no,40.58243763347853,-104.19827286575465,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22644,38.96362,-78.5314,Maurertown,VA,Virginia,True,,2415.0,15.4,51171,Shenandoah,"{""51171"": 100}",Shenandoah,51171,False,False,America/New_York,"(38.96362, -78.5314)",2.5601751733427607,4218.0,33632_0_no,38.96812863226089,-78.48409772199538,5.0
+22660,38.95628,-78.4383,Toms Brook,VA,Virginia,True,,1803.0,58.2,51171,Shenandoah,"{""51171"": 100}",Shenandoah,51171,False,False,America/New_York,"(38.95628, -78.4383)",2.5930743845862523,4218.0,33632_0_no,38.96812863226089,-78.48409772199538,5.0

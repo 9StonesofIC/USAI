@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83628,43.57934,-116.96975,Homedale,ID,Idaho,True,,4460.0,27.3,16073,Owyhee,"{""16073"": 100}",Owyhee,16073,False,False,America/Boise,"(43.57934, -116.96975)",4.090411171718366,9964.0,43654_0_no,43.63516142990611,-116.94252023223946,5.0
+83676,43.65743,-116.91156,Wilder,ID,Idaho,True,,5504.0,52.1,16027,Canyon,"{""16027"": 100}",Canyon,16027,False,False,America/Boise,"(43.65743, -116.91156)",2.182516298966294,9964.0,43654_0_no,43.63516142990611,-116.94252023223946,5.0

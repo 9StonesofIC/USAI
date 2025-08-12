@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95322,37.17622,-121.01861,Gustine,CA,California,True,,10016.0,22.8,6047,Merced,"{""06047"": 97.68, ""06099"": 2.32}",Merced|Stanislaus,06047|06099,False,False,America/Los_Angeles,"(37.17622, -121.01861)",0.9933678528487284,10016.0,29700_0_yes,37.18970749339285,-121.01236053283397,5.0

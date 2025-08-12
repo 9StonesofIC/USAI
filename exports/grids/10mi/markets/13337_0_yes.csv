@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59526,48.4414,-108.67155,Harlem,MT,Montana,True,,2675.0,1.4,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver,"(48.4414, -108.67155)",9.921306215207602,2675.0,13337_0_yes,48.4612172275481,-108.45712515981126,10.0

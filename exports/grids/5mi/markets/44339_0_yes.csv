@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03215,44.03605,-71.48109,Waterville Valley,NH,New Hampshire,True,,230.0,0.5,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(44.03605, -71.48109)",4.8418996719414675,230.0,44339_0_yes,44.10202203603208,-71.51398319176542,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15424,39.829,-79.35377,Confluence,PA,Pennsylvania,True,,2006.0,10.8,42111,Somerset,"{""42111"": 73.92, ""42051"": 26.08}",Somerset|Fayette,42111|42051,False,False,America/New_York,"(39.829, -79.35377)",2.9363367048470015,2006.0,35532_0_no,39.83792268868111,-79.40787901282128,5.0

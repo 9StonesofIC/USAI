@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33037,25.19779,-80.38634,Key Largo,FL,Florida,True,,10541.0,123.7,12087,Monroe,"{""12087"": 100}",Monroe,12087,False,False,America/New_York,"(25.19779, -80.38634)",5.210611951323946,10541.0,831_0_yes,25.266426954752767,-80.42088043104333,5.0

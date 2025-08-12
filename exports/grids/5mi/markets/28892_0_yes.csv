@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65629,36.89371,-93.00294,Chadwick,MO,Missouri,True,,668.0,4.1,29043,Christian,"{""29043"": 100}",Christian,29043,False,False,America/Chicago,"(36.89371, -93.00294)",2.4959548269643332,1070.0,28892_0_yes,36.87845345934247,-93.0438793828096,5.0
+65657,36.83934,-93.01952,Garrison,MO,Missouri,True,,402.0,7.7,29043,Christian,"{""29043"": 100}",Christian,29043,False,False,America/Chicago,"(36.83934, -93.01952)",3.0194179258853113,1070.0,28892_0_yes,36.87845345934247,-93.0438793828096,5.0

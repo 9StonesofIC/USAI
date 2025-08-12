@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37380,35.07265,-85.75754,South Pittsburg,TN,Tennessee,True,,6505.0,19.9,47115,Marion,"{""47115"": 98.16, ""47051"": 1.84}",Marion|Franklin,47115|47051,False,False,America/Chicago,"(35.07265, -85.75754)",4.653092088639454,6505.0,24879_0_yes,35.133692485229155,-85.79230964380643,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32091,29.93205,-82.11324,Starke,FL,Florida,True,,15026.0,38.2,12007,Bradford,"{""12007"": 83.22, ""12019"": 16.78}",Bradford|Clay,12007|12019,False,False,America/New_York,"(29.93205, -82.11324)",4.959002561508275,15026.0,12784_0_no,29.98333228160271,-82.05528297581232,5.0

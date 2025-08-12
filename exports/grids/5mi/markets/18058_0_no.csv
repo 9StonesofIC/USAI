@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36069,32.0905,-86.16008,Ramer,AL,Alabama,True,,1714.0,4.4,1101,Montgomery,"{""01101"": 94.69, ""01109"": 5.31}",Montgomery|Pike,01101|01109,False,False,America/Chicago,"(32.0905, -86.16008)",5.138355159350374,1714.0,18058_0_no,32.16167488601732,-86.18553638999826,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93517,38.27091,-119.27372,Bridgeport,CA,California,True,,627.0,0.7,6051,Mono,"{""06051"": 100}",Mono,06051,False,False,America/Los_Angeles,"(38.27091, -119.27372)",4.952473780145515,627.0,31956_0_yes,38.20328605386839,-119.30397505522448,5.0

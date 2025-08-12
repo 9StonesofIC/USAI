@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49725,46.00337,-84.01308,De Tour Village,MI,Michigan,True,,610.0,5.2,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.00337, -84.01308)",53.693322428568635,1622.0,515_0_yes,46.37038684849484,-83.02364766534502,50.0
+49726,46.00169,-83.66277,Drummond Island,MI,Michigan,True,,1012.0,3.0,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.00169, -83.66277)",39.794386443049476,1622.0,515_0_yes,46.37038684849484,-83.02364766534502,50.0

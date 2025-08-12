@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81524,39.2842,-108.73257,Loma,CO,Colorado,True,,2519.0,7.0,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.2842, -108.73257)",2.2104164863953053,2519.0,34428_0_no,39.28201143312761,-108.6913353108154,5.0

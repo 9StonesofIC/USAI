@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63540,40.09782,-92.40792,Gibbs,MO,Missouri,True,,115.0,3.2,29001,Adair,"{""29001"": 100}",Adair,29001,False,False,America/Chicago,"(40.09782, -92.40792)",3.4264038125313983,507.0,35937_0_yes,40.06566723534385,-92.35857495234517,5.0
+63547,40.13492,-92.30651,Hurdland,MO,Missouri,True,,392.0,2.2,29103,Knox,"{""29103"": 89.0, ""29001"": 11.0}",Knox|Adair,29103|29001,False,False,America/Chicago,"(40.13492, -92.30651)",5.519699012029353,507.0,35937_0_yes,40.06566723534385,-92.35857495234517,5.0

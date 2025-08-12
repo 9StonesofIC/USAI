@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73434,34.62083,-97.58286,Foster,OK,Oklahoma,True,,611.0,2.4,40137,Stephens,"{""40137"": 55.21, ""40049"": 44.79}",Stephens|Garvin,40137|40049,False,False,America/Chicago,"(34.62083, -97.58286)",5.185237514932442,611.0,23603_0_yes,34.56234369027359,-97.63998350179902,5.0

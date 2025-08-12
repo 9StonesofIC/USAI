@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34114,25.98902,-81.58517,Naples,FL,Florida,True,,17856.0,39.0,12021,Collier,"{""12021"": 100}",Collier,12021,False,False,America/New_York,"(25.98902, -81.58517)",8.998769561029816,18103.0,786_0_no,25.96860548994863,-81.44208098242085,10.0
+34139,25.85449,-81.38253,Everglades City,FL,Florida,True,,247.0,66.4,12021,Collier,"{""12021"": 100}",Collier,12021,False,False,America/New_York,"(25.85449, -81.38253)",8.710013583158892,18103.0,786_0_no,25.96860548994863,-81.44208098242085,10.0

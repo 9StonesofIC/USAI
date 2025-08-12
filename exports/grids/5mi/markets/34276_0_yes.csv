@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21010,39.38953,-76.29851,Gunpowder,MD,Maryland,True,,329.0,17.5,24025,Harford,"{""24025"": 100}",Harford,24025,False,False,America/New_York,"(39.38953, -76.29851)",4.454490875297097,329.0,34276_0_yes,39.328429508579084,-76.27190405508748,5.0

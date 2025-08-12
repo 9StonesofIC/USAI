@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24620,37.43335,-82.01932,Hurley,VA,Virginia,True,,3288.0,17.8,51027,Buchanan,"{""51027"": 100}",Buchanan,51027,False,False,America/New_York,"(37.43335, -82.01932)",2.8652846342085643,4452.0,30136_0_yes,37.44972478831883,-82.06730635225212,5.0
+41568,37.50369,-82.05896,Stopover,KY,Kentucky,True,,1164.0,18.1,21195,Pike,"{""21195"": 100}",Pike,21195,False,False,America/New_York,"(37.50369, -82.05896)",3.756622016656867,4452.0,30136_0_yes,37.44972478831883,-82.06730635225212,5.0

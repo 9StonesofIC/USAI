@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30125,34.00067,-85.27331,Cedartown,GA,Georgia,True,,23793.0,50.4,13233,Polk,"{""13233"": 97.27, ""13115"": 2.22, ""13143"": 0.51}",Polk|Floyd|Haralson,13233|13115|13143,False,False,America/New_York,"(34.00067, -85.27331)",5.350994251875705,23793.0,22503_0_no,34.04613861166482,-85.34895269084299,5.0

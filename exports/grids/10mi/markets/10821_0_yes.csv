@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04107,43.5891,-70.23801,Cape Elizabeth,ME,Maine,True,,9226.0,239.7,23005,Cumberland,"{""23005"": 100}",Cumberland,23005,False,False,America/New_York,"(43.5891, -70.23801)",11.954910506177823,9226.0,10821_0_yes,43.4740680466026,-70.05973353565315,10.0

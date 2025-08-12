@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46725,41.1518,-85.47655,Columbia City,IN,Indiana,True,,23098.0,44.0,18183,Whitley,"{""18183"": 97.79, ""18113"": 2.21}",Whitley|Noble,18183|18113,False,False,America/Indiana/Indianapolis,"(41.1518, -85.47655)",4.751012467163818,23098.0,38387_0_yes,41.21867709179251,-85.45530285684278,5.0

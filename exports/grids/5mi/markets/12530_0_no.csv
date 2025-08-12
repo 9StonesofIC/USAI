@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78006,29.86869,-98.71368,Boerne,TX,Texas,True,,37568.0,41.9,48259,Kendall,"{""48259"": 92.17, ""48029"": 6.83, ""48091"": 1.0}",Kendall|Bexar|Comal,48259|48029|48091,False,False,America/Chicago,"(29.86869, -98.71368)",3.691229197482734,37568.0,12530_0_no,29.84880942323808,-98.7708567966548,5.0

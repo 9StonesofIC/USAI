@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72675,36.00711,-92.79283,Saint Joe,AR,Arkansas,True,,1396.0,2.8,5129,Searcy,"{""05129"": 86.53, ""05089"": 13.47}",Searcy|Marion,05129|05089,False,False,America/Chicago,"(36.00711, -92.79283)",5.028590524339567,1396.0,26897_0_no,35.93616258793105,-92.81288113680164,5.0

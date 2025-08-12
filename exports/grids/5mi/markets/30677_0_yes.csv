@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95377,37.65293,-121.49598,Tracy,CA,California,True,,32599.0,114.5,6077,San Joaquin,"{""06077"": 89.32, ""06001"": 10.68}",San Joaquin|Alameda,06077|06001,False,False,America/Los_Angeles,"(37.65293, -121.49598)",2.920393739406671,32599.0,30677_0_yes,37.62509716872118,-121.53615021293666,5.0

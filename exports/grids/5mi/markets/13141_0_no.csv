@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32024,30.0793,-82.72597,Lake City,FL,Florida,True,,18957.0,50.3,12023,Columbia,"{""12023"": 81.41, ""12121"": 18.59}",Columbia|Suwannee,12023|12121,False,False,America/New_York,"(30.0793, -82.72597)",5.185072596685105,18957.0,13141_0_no,30.12877597343133,-82.66074747210494,5.0

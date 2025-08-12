@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45840,41.02626,-83.64943,Findlay,OH,Ohio,True,,55834.0,129.5,39063,Hancock,"{""39063"": 100}",Hancock,39063,False,False,America/New_York,"(41.02626, -83.64943)",3.458920359046179,55834.0,38043_0_no,40.99995048540774,-83.59298560841988,5.0

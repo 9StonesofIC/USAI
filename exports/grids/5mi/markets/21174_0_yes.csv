@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35574,33.5683,-87.95757,Kennedy,AL,Alabama,True,,1632.0,6.3,1075,Lamar,"{""01075"": 53.52, ""01107"": 34.01, ""01057"": 12.47}",Lamar|Pickens|Fayette,01075|01107|01057,False,False,America/Chicago,"(33.5683, -87.95757)",3.1561516533755043,1632.0,21174_0_yes,33.54044461812703,-87.91412728513298,5.0

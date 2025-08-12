@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74829,35.51332,-96.47392,Boley,OK,Oklahoma,True,,1532.0,10.7,40107,Okfuskee,"{""40107"": 100}",Okfuskee,40107,False,False,America/Chicago,"(35.51332, -96.47392)",5.602697228605084,2213.0,25940_0_yes,35.576370070284426,-96.41125151369118,5.0
+74833,35.58262,-96.41193,Castle,OK,Oklahoma,True,,681.0,5.8,40107,Okfuskee,"{""40107"": 100}",Okfuskee,40107,False,False,America/Chicago,"(35.58262, -96.41193)",0.43350890309735945,2213.0,25940_0_yes,35.576370070284426,-96.41125151369118,5.0

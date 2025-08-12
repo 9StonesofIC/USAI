@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73446,34.0891,-96.77806,Madill,OK,Oklahoma,True,,9173.0,15.1,40095,Marshall,"{""40095"": 99.67, ""40019"": 0.33}",Marshall|Carter,40095|40019,False,False,America/Chicago,"(34.0891, -96.77806)",4.913774256679831,9173.0,22569_0_no,34.05429405460834,-96.85293106640984,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04451,45.6035,-68.21915,Kingman,ME,Maine,True,,221.0,1.5,23003,Aroostook,"{""23003"": 51.56, ""23019"": 48.44}",Aroostook|Penobscot,23003|23019,False,False,America/New_York,"(45.6035, -68.21915)",3.4733495668378715,221.0,47488_0_no,45.618348930701806,-68.15049326560057,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99169,47.11875,-118.37424,Ritzville,WA,Washington,True,,2663.0,1.4,53001,Adams,"{""53001"": 92.71, ""53043"": 7.29}",Adams|Lincoln,53001|53043,False,False,America/Los_Angeles,"(47.11875, -118.37424)",1.3943960482516908,2663.0,50549_0_no,47.11134054372298,-118.34665565565892,5.0

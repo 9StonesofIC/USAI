@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79082,34.21881,-102.2862,Springlake,TX,Texas,True,,165.0,0.7,48279,Lamb,"{""48279"": 100}",Lamb,48279,False,False,America/Chicago,"(34.21881, -102.2862)",3.9533330773200026,165.0,22954_0_yes,34.275640308788816,-102.27816396085112,5.0

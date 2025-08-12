@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57328,43.43413,-98.44207,Corsica,SD,South Dakota,True,,1345.0,3.2,46043,Douglas,"{""46043"": 97.57, ""46003"": 2.43}",Douglas|Aurora,46043|46003,False,False,America/Chicago,"(43.43413, -98.44207)",2.933527163835039,1345.0,43265_0_no,43.47425327876712,-98.4611953700083,5.0

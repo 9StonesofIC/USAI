@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48867,43.00537,-84.18766,Owosso,MI,Michigan,True,,27004.0,76.7,26155,Shiawassee,"{""26155"": 100}",Shiawassee,26155,False,False,America/Detroit,"(43.00537, -84.18766)",3.68586951846043,27004.0,42027_0_yes,42.9550954884016,-84.16327387186917,5.0

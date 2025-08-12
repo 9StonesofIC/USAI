@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32424,30.38901,-85.08232,Blountstown,FL,Florida,True,,7643.0,18.6,12013,Calhoun,"{""12013"": 100}",Calhoun,12013,False,False,America/Chicago,"(30.38901, -85.08232)",2.951714420501307,7643.0,13861_0_no,30.420419313394287,-85.04874558776541,5.0

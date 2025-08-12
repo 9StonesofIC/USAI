@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51052,42.31063,-96.26343,Salix,IA,Iowa,True,,1000.0,6.3,19193,Woodbury,"{""19193"": 100}",Woodbury,19193,False,False,America/Chicago,"(42.31063, -96.26343)",2.2757840661765836,1000.0,40857_0_no,42.31389974681854,-96.21910861653832,5.0

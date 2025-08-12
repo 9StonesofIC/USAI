@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14711,42.32088,-78.12625,Belfast,NY,New York,True,,1874.0,17.6,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.32088, -78.12625)",3.848779495723705,2268.0,40791_0_yes,42.37081293805712,-78.09284304109522,5.0
+14717,42.36258,-78.18235,Caneadea,NY,New York,True,,394.0,4.4,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.36258, -78.18235)",4.604555304004045,2268.0,40791_0_yes,42.37081293805712,-78.09284304109522,5.0

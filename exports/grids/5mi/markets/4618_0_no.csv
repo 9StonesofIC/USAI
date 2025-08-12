@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78564,26.67801,-99.13171,Lopeno,TX,Texas,True,,205.0,4.0,48505,Zapata,"{""48505"": 100}",Zapata,48505,False,False,America/Chicago,"(26.67801, -99.13171)",5.030797351722147,205.0,4618_0_no,26.655832104151088,-99.05410331749135,5.0

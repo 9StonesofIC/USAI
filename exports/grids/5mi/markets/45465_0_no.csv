@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04658,44.53873,-67.87257,Milbridge,ME,Maine,True,,1479.0,24.0,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.53873, -67.87257)",5.410518700180091,1479.0,45465_0_no,44.60537021925138,-67.93029737234619,5.0

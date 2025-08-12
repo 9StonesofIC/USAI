@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50531,43.45841,-94.61417,Dolliver,IA,Iowa,True,,212.0,2.1,19063,Emmet,"{""19063"": 99.73, ""27091"": 0.27}",Emmet|Martin,19063|27091,False,False,America/Chicago,"(43.45841, -94.61417)",3.5174481095505103,807.0,43246_0_no,43.470966645013405,-94.6821444267689,5.0
+56121,43.53858,-94.61051,Ceylon,MN,Minnesota,True,,595.0,6.2,27091,Martin,"{""27091"": 100}",Martin,27091,False,False,America/Chicago,"(43.53858, -94.61051)",5.891673186866478,807.0,43246_0_no,43.470966645013405,-94.6821444267689,5.0

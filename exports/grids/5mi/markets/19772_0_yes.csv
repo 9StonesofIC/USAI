@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30434,33.02867,-82.3727,Louisville,GA,Georgia,True,,5017.0,9.5,13163,Jefferson,"{""13163"": 81.9, ""13033"": 18.1}",Jefferson|Burke,13163|13033,False,False,America/New_York,"(33.02867, -82.3727)",6.301443791487804,5017.0,19772_0_yes,32.95655873539339,-82.30612797511642,5.0

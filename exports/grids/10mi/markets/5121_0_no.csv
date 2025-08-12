@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88253,32.98767,-104.54852,Lake Arthur,NM,New Mexico,True,,902.0,1.6,35005,Chaves,"{""35005"": 73.98, ""35015"": 26.02}",Chaves|Eddy,35005|35015,False,False,America/Denver,"(32.98767, -104.54852)",2.4230801091314706,902.0,5121_0_no,32.957896360726664,-104.52643077770732,10.0

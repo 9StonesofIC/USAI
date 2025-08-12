@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85337,32.97553,-112.866,Gila Bend,AZ,Arizona,True,,2676.0,2.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(32.97553, -112.866)",4.748017517674665,2676.0,19950_0_yes,32.97767360171135,-112.94787620683655,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50062,41.23499,-93.24425,Melcher Dallas,IA,Iowa,True,,715.0,9.0,19125,Marion,"{""19125"": 100}",Marion,19125,False,False,America/Chicago,"(41.23499, -93.24425)",4.6865561368713236,715.0,38709_0_no,41.29760044636368,-93.209538424916,5.0

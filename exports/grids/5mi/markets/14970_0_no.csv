@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75951,30.93098,-94.05762,Jasper,TX,Texas,True,,16154.0,16.7,48241,Jasper,"{""48241"": 99.49, ""48351"": 0.51}",Jasper|Newton,48241|48351,False,False,America/Chicago,"(30.93098, -94.05762)",6.21456248110186,16154.0,14970_0_no,30.86148017569092,-94.1241558389918,5.0

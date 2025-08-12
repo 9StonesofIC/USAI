@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49406,42.64224,-86.209,Douglas,MI,Michigan,True,,702.0,180.5,26005,Allegan,"{""26005"": 100}",Allegan,26005,False,False,America/Detroit,"(42.64224, -86.209)",4.928525126695102,702.0,41410_0_no,42.59501779617676,-86.2816511975343,5.0

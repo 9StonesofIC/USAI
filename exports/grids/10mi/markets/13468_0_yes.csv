@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59250,48.86715,-106.63905,Opheim,MT,Montana,True,,194.0,0.2,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver,"(48.86715, -106.63905)",8.393831846904522,194.0,13468_0_yes,48.74701798483305,-106.61159427501224,10.0

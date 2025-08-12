@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97801,45.67317,-118.83362,Pendleton,OR,Oregon,True,,20859.0,16.2,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles,"(45.67317, -118.83362)",10.27379682321377,22294.0,12094_0_no,45.73074717810296,-118.6373195874276,10.0
+97813,45.85305,-118.52802,Athena,OR,Oregon,True,,1435.0,10.3,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles,"(45.85305, -118.52802)",9.9566654334291,22294.0,12094_0_no,45.73074717810296,-118.6373195874276,10.0

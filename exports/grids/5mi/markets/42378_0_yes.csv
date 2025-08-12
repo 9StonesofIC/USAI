@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50598,43.08023,-94.41841,Whittemore,IA,Iowa,True,,1015.0,5.7,19109,Kossuth,"{""19109"": 70.0, ""19147"": 30.0}",Kossuth|Palo Alto,19109|19147,False,False,America/Chicago,"(43.08023, -94.41841)",4.078516903279196,1015.0,42378_0_yes,43.10866193416929,-94.34756839427224,5.0

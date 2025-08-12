@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28636,35.94241,-81.06589,Hiddenite,NC,North Carolina,True,,4217.0,28.2,37003,Alexander,"{""37003"": 93.44, ""37097"": 6.56}",Alexander|Iredell,37003|37097,False,False,America/New_York,"(35.94241, -81.06589)",1.6652362441751263,4217.0,26831_0_no,35.927420141996585,-81.04258146017044,5.0

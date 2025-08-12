@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41141,38.54381,-83.13357,Garrison,KY,Kentucky,True,,1930.0,11.1,21135,Lewis,"{""21135"": 57.48, ""21089"": 42.52}",Lewis|Greenup,21135|21089,False,False,America/New_York,"(38.54381, -83.13357)",3.3449616822264137,1930.0,32701_0_no,38.537273428330224,-83.19489810635544,5.0

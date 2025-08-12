@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66503,39.26287,-96.68663,Manhattan,KS,Kansas,True,,16840.0,78.2,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago,"(39.26287, -96.68663)",3.701342886860793,18702.0,34364_0_no,39.27245208598924,-96.75470846551156,5.0
+66531,39.31146,-96.83416,Riley,KS,Kansas,True,,1862.0,20.4,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago,"(39.31146, -96.83416)",5.0313195454473965,18702.0,34364_0_no,39.27245208598924,-96.75470846551156,5.0

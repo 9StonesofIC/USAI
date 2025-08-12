@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35575,34.04521,-87.57716,Lynn,AL,Alabama,True,,1097.0,12.1,1133,Winston,"{""01133"": 100}",Winston,01133,False,False,America/Chicago,"(34.04521, -87.57716)",2.162024435187011,1158.0,22516_0_no,34.04774479004942,-87.61480071981846,5.0
+35577,34.09175,-87.59931,Natural Bridge,AL,Alabama,True,,61.0,132.8,1133,Winston,"{""01133"": 100}",Winston,01133,False,False,America/Chicago,"(34.09175, -87.59931)",3.167098271592014,1158.0,22516_0_no,34.04774479004942,-87.61480071981846,5.0

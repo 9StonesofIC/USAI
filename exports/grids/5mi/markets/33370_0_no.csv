@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62880,38.86751,-88.88593,Saint Peter,IL,Illinois,True,,724.0,6.7,17051,Fayette,"{""17051"": 100}",Fayette,17051,False,False,America/Chicago,"(38.86751, -88.88593)",4.555455914296281,724.0,33370_0_no,38.831582856795286,-88.95691566662651,5.0

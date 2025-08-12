@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50219,41.42243,-92.90132,Pella,IA,Iowa,True,,13298.0,44.5,19125,Marion,"{""19125"": 65.25, ""19123"": 34.75}",Marion|Mahaska,19125|19123,False,False,America/Chicago,"(41.42243, -92.90132)",2.7112728622737086,13298.0,39014_0_no,41.442210468570266,-92.94652309516384,5.0

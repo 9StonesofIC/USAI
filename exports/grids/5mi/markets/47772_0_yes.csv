@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98635,45.74364,-121.20915,Lyle,WA,Washington,True,,1586.0,4.6,53039,Klickitat,"{""53039"": 100}",Klickitat,53039,False,False,America/Los_Angeles,"(45.74364, -121.20915)",3.3265366625296364,1586.0,47772_0_yes,45.73869050315822,-121.27777064005278,5.0

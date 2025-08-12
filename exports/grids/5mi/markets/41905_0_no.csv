@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97476,42.84075,-124.43806,Sixes,OR,Oregon,True,,357.0,2.6,41015,Curry,"{""41015"": 100}",Curry,41015,False,False,America/Los_Angeles,"(42.84075, -124.43806)",6.517901326499205,357.0,41905_0_no,42.77262516193266,-124.5270036712425,5.0

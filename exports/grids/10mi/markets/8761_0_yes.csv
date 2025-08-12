@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80421,39.48166,-105.50462,Bailey,CO,Colorado,True,,9683.0,35.8,8093,Park,"{""08093"": 97.9, ""08059"": 2.1}",Park|Jefferson,08093|08059,False,False,America/Denver,"(39.48166, -105.50462)",2.0000764730856964,9693.0,8761_0_yes,39.48115602271141,-105.54211919151828,10.0
+80475,39.43012,-105.59234,Shawnee,CO,Colorado,True,,10.0,0.1,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(39.43012, -105.59234)",4.428602077095146,9693.0,8761_0_yes,39.48115602271141,-105.54211919151828,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89445,41.06767,-118.02515,Winnemucca,NV,Nevada,True,,16424.0,2.3,32013,Humboldt,"{""32013"": 73.99, ""32027"": 26.01}",Humboldt|Pershing,32013|32027,False,False,America/Los_Angeles,"(41.06767, -118.02515)",2.720909670277105,16424.0,38223_0_no,41.02853073830039,-118.03091686585655,5.0

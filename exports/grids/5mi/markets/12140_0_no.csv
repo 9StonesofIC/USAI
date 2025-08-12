@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70643,29.73649,-92.7939,Grand Chenier,LA,Louisiana,True,,313.0,0.5,22023,Cameron,"{""22023"": 100}",Cameron,22023,False,False,America/Chicago,"(29.73649, -92.7939)",3.026610242278293,313.0,12140_0_no,29.69996370350851,-92.8217419702762,5.0

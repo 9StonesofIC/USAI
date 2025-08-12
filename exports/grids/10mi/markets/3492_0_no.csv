@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32060,30.27554,-83.04935,Live Oak,FL,Florida,True,,23437.0,23.0,12121,Suwannee,"{""12121"": 100}",Suwannee,12121,False,False,America/New_York,"(30.27554, -83.04935)",4.42750223939411,30366.0,3492_0_no,30.31978963481431,-82.99566930707115,10.0
+32064,30.28907,-83.02375,Live Oak,FL,Florida,True,,6929.0,287.9,12121,Suwannee,"{""12121"": 100}",Suwannee,12121,False,False,America/New_York,"(30.28907, -83.02375)",2.703884676289902,30366.0,3492_0_no,30.31978963481431,-82.99566930707115,10.0

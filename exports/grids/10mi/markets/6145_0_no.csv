@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87031,34.78007,-106.72649,Los Lunas,NM,New Mexico,True,,44542.0,67.3,35061,Valencia,"{""35061"": 100}",Valencia,35061,False,False,America/Denver,"(34.78007, -106.72649)",10.465439646932476,48141.0,6145_0_no,34.70064038225069,-106.5695420132285,10.0
+87042,34.82827,-106.68619,Peralta,NM,New Mexico,True,,3599.0,308.9,35061,Valencia,"{""35061"": 100}",Valencia,35061,False,False,America/Denver,"(34.82827, -106.68619)",11.027288520075883,48141.0,6145_0_no,34.70064038225069,-106.5695420132285,10.0

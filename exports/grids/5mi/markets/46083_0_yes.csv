@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04958,44.90561,-69.92494,North Anson,ME,Maine,True,,1896.0,13.3,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(44.90561, -69.92494)",4.580992351798605,2745.0,46083_0_yes,44.9688023571221,-69.89659480674919,5.0
+04979,44.94105,-69.79731,Solon,ME,Maine,True,,849.0,8.3,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(44.94105, -69.79731)",5.219496089304691,2745.0,46083_0_yes,44.9688023571221,-69.89659480674919,5.0

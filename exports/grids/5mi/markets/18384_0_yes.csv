@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29920,32.36441,-80.54946,Saint Helena Island,SC,South Carolina,True,,11042.0,43.7,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York,"(32.36441, -80.54946)",1.409148787274405,11042.0,18384_0_yes,32.37534013752336,-80.52907349867259,5.0

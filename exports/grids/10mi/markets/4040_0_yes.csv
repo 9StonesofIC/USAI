@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36540,31.44702,-87.66487,Gainestown,AL,Alabama,True,,738.0,6.6,1025,Clarke,"{""01025"": 100}",Clarke,01025,False,False,America/Chicago,"(31.44702, -87.66487)",10.228190990292735,936.0,4040_0_yes,31.340486129125296,-87.78528200647973,10.0
+36550,31.25212,-87.74294,Little River,AL,Alabama,True,,198.0,2.1,1003,Baldwin,"{""01003"": 100}",Baldwin,01003,False,False,America/Chicago,"(31.25212, -87.74294)",6.597474116167659,936.0,4040_0_yes,31.340486129125296,-87.78528200647973,10.0

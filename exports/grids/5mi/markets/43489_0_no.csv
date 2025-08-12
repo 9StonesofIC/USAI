@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48611,43.63187,-84.0936,Auburn,MI,Michigan,True,,6100.0,61.7,26017,Bay,"{""26017"": 100}",Bay,26017,False,False,America/Detroit,"(43.63187, -84.0936)",3.041168676052761,44728.0,43489_0_no,43.60647237501762,-84.04394306210006,5.0
+48706,43.59937,-83.95623,Bay City,MI,Michigan,True,,38628.0,224.9,26017,Bay,"{""26017"": 100}",Bay,26017,False,False,America/Detroit,"(43.59937, -83.95623)",4.4159057705422935,44728.0,43489_0_no,43.60647237501762,-84.04394306210006,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13695,44.10505,-74.92872,Wanakena,NY,New York,True,,152.0,2.8,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/New_York,"(44.10505, -74.92872)",5.064930084768345,152.0,44329_0_no,44.03269871045221,-74.91231159458319,5.0

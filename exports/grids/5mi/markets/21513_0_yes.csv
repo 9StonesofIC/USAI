@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35542,33.7083,-87.68161,Bankston,AL,Alabama,True,,681.0,4.5,1057,Fayette,"{""01057"": 100}",Fayette,01057,False,False,America/Chicago,"(33.7083, -87.68161)",1.6016039135007185,681.0,21513_0_yes,33.68527658385486,-87.67837431371129,5.0

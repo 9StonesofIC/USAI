@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84039,40.44602,-109.80972,Lapoint,UT,Utah,True,,664.0,2.9,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver,"(40.44602, -109.80972)",9.287243868550505,30318.0,9388_0_no,40.50199898958826,-109.64907259178844,10.0
+84078,40.46403,-109.5084,Vernal,UT,Utah,True,,29654.0,8.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver,"(40.46403, -109.5084)",7.844354158438512,30318.0,9388_0_no,40.50199898958826,-109.64907259178844,10.0

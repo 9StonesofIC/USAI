@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57702,44.03085,-103.38433,Rapid City,SD,South Dakota,True,,34973.0,47.2,46103,Pennington,"{""46103"": 94.34, ""46093"": 5.66}",Pennington|Meade,46103|46093,False,False,America/Denver,"(44.03085, -103.38433)",4.098014336252895,34973.0,44203_0_yes,43.98522836030827,-103.33163426455572,5.0

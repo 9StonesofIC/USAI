@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59873,47.6972,-115.27357,Thompson Falls,MT,Montana,True,,3139.0,1.6,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver,"(47.6972, -115.27357)",0.6758505239686469,3139.0,51641_0_no,47.68742456336321,-115.27305038496932,5.0

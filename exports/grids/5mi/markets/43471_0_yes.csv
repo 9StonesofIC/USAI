@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13472,43.69491,-75.06072,Thendara,NY,New York,True,,79.0,2.2,36043,Herkimer,"{""36043"": 100}",Herkimer,36043,False,False,America/New_York,"(43.69491, -75.06072)",2.3484686508907306,79.0,43471_0_yes,43.67098880952233,-75.09411044357067,5.0

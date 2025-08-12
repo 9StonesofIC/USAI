@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31629,30.82051,-83.68809,Dixie,GA,Georgia,True,,1070.0,8.8,13027,Brooks,"{""13027"": 100}",Brooks,13027,False,False,America/New_York,"(30.82051, -83.68809)",4.141522052824093,9512.0,14568_0_yes,30.782110796460163,-83.6345055971423,5.0
+31643,30.77061,-83.55859,Quitman,GA,Georgia,True,,8442.0,12.4,13027,Brooks,"{""13027"": 100}",Brooks,13027,False,False,America/New_York,"(30.77061, -83.55859)",4.576103467183632,9512.0,14568_0_yes,30.782110796460163,-83.6345055971423,5.0

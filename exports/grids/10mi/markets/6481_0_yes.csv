@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88416,35.44255,-104.21511,Conchas Dam,NM,New Mexico,True,,137.0,0.6,35047,San Miguel,"{""35047"": 100}",San Miguel,35047,False,False,America/Denver,"(35.44255, -104.21511)",7.428230701847322,137.0,6481_0_yes,35.42167821711556,-104.08567440834588,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76874,30.47693,-100.12271,Roosevelt,TX,Texas,True,,14.0,0.2,48267,Kimble,"{""48267"": 56.76, ""48435"": 43.24}",Kimble|Sutton,48267|48435,False,False,America/Chicago,"(30.47693, -100.12271)",3.9661895770607742,14.0,3550_0_yes,30.48670163020032,-100.18834717732284,10.0

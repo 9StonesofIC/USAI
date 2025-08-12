@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25234,38.81291,-81.12343,Arnoldsburg,WV,West Virginia,True,,803.0,6.9,54013,Calhoun,"{""54013"": 100}",Calhoun,54013,False,False,America/New_York,"(38.81291, -81.12343)",4.1945495490557425,1862.0,33030_0_yes,38.75288730878763,-81.11175805721754,5.0
+25268,38.73969,-81.107,Orma,WV,West Virginia,True,,1059.0,10.3,54013,Calhoun,"{""54013"": 100}",Calhoun,54013,False,False,America/New_York,"(38.73969, -81.107)",0.9472099059190578,1862.0,33030_0_yes,38.75288730878763,-81.11175805721754,5.0

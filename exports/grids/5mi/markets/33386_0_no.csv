@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65251,38.84902,-91.97911,Fulton,MO,Missouri,True,,22347.0,40.5,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago,"(38.84902, -91.97911)",3.223743798433713,22347.0,33386_0_no,38.83393534037548,-91.92242377601757,5.0

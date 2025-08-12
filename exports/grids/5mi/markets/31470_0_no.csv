@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65786,37.96715,-92.96516,Macks Creek,MO,Missouri,True,,2101.0,7.4,29029,Camden,"{""29029"": 96.43, ""29059"": 3.57}",Camden|Dallas,29029|29059,False,False,America/Chicago,"(37.96715, -92.96516)",4.51802851985194,2101.0,31470_0_no,37.9654240971937,-93.04807427356472,5.0

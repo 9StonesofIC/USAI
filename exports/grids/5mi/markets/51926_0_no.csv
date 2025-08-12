@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99005,47.84405,-117.36346,Colbert,WA,Washington,True,,9770.0,95.3,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.84405, -117.36346)",1.6528659059603632,64862.0,51926_0_no,47.83413516494005,-117.3958948965798,5.0
+99208,47.78071,-117.46135,Spokane,WA,Washington,True,,55092.0,436.5,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.78071, -117.46135)",4.780365763042498,64862.0,51926_0_no,47.83413516494005,-117.3958948965798,5.0

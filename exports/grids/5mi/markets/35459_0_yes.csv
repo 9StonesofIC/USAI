@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96106,39.73552,-120.54388,Clio,CA,California,True,,465.0,8.1,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.73552, -120.54388)",5.219643411044708,4059.0,35459_0_yes,39.79871312805104,-120.49002449928363,5.0
+96122,39.82082,-120.47652,Portola,CA,California,True,,3594.0,21.7,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.82082, -120.47652)",1.687251855868561,4059.0,35459_0_yes,39.79871312805104,-120.49002449928363,5.0

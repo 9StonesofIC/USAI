@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28642,36.22433,-80.81628,Jonesville,NC,North Carolina,True,,5467.0,65.4,37197,Yadkin,"{""37197"": 88.57, ""37193"": 11.43}",Yadkin|Wilkes,37197|37193,False,False,America/New_York,"(36.22433, -80.81628)",6.151634632494101,5467.0,27509_0_yes,36.289464265808085,-80.7410045225479,5.0

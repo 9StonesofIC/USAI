@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96120,38.745,-119.82485,Markleeville,CA,California,True,,927.0,1.6,6003,Alpine,"{""06003"": 100}",Alpine,06003,False,False,America/Los_Angeles,"(38.745, -119.82485)",5.172949333082225,927.0,33218_0_no,38.71104957843246,-119.73931399192638,5.0

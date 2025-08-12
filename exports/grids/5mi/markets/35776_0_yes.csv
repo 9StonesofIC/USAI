@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95956,39.8751,-121.12209,Meadow Valley,CA,California,True,,399.0,2.6,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.8751, -121.12209)",6.2631901682123345,702.0,35776_0_yes,39.94409705580615,-121.04544393486768,5.0
+95984,39.99654,-121.11951,Twain,CA,California,True,,303.0,1.5,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.99654, -121.11951)",5.339562020551222,702.0,35776_0_yes,39.94409705580615,-121.04544393486768,5.0

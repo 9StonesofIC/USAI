@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59333,46.28123,-106.24765,Hathaway,MT,Montana,True,,6.0,0.3,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver,"(46.28123, -106.24765)",5.941893793221328,6.0,48810_0_no,46.231851535292144,-106.34948082774936,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54876,45.82811,-91.51439,Stone Lake,WI,Wisconsin,True,,1665.0,6.9,55113,Sawyer,"{""55113"": 60.55, ""55129"": 39.45}",Sawyer|Washburn,55113|55129,False,False,America/Chicago,"(45.82811, -91.51439)",4.894115378857505,1665.0,47913_0_yes,45.85639784817853,-91.4211711412308,5.0

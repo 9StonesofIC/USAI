@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05732,43.67998,-73.18648,Bomoseen,VT,Vermont,True,,984.0,34.8,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York,"(43.67998, -73.18648)",4.525304397451774,1524.0,43730_0_no,43.74170939652028,-73.1561976796374,5.0
+05744,43.69034,-73.08272,Florence,VT,Vermont,True,,540.0,8.1,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York,"(43.69034, -73.08272)",5.105085887870047,1524.0,43730_0_no,43.74170939652028,-73.1561976796374,5.0

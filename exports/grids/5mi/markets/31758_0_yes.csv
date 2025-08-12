@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41180,38.13358,-82.85999,Webbville,KY,Kentucky,True,,984.0,5.0,21127,Lawrence,"{""21127"": 74.2, ""21063"": 20.66, ""21043"": 5.14}",Lawrence|Elliott|Carter,21127|21063|21043,False,False,America/New_York,"(38.13358, -82.85999)",4.801137163427451,984.0,31758_0_yes,38.17483349979969,-82.9310991066698,5.0

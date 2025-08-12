@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55703,47.73932,-92.78119,Angora,MN,Minnesota,True,,1423.0,3.7,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(47.73932, -92.78119)",6.825271240507247,1423.0,51811_0_no,47.81099972862666,-92.68004796847244,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76238,33.4861,-97.34148,Era,TX,Texas,True,,276.0,3.8,48097,Cooke,"{""48097"": 100}",Cooke,48097,False,False,America/Chicago,"(33.4861, -97.34148)",5.838780911166778,276.0,21228_0_yes,33.54699157474872,-97.27119874459136,5.0

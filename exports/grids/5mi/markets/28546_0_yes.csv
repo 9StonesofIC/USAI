@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63828,36.75038,-89.69182,Canalou,MO,Missouri,True,,186.0,73.3,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago,"(36.75038, -89.69182)",1.4728718465242998,350.0,28546_0_yes,36.730969986531385,-89.68082221957488,5.0
+63860,36.67462,-89.59449,Kewanee,MO,Missouri,True,,164.0,15.1,29143,New Madrid,"{""29143"": 100}",New Madrid,29143,False,False,America/Chicago,"(36.67462, -89.59449)",6.166854133736636,350.0,28546_0_yes,36.730969986531385,-89.68082221957488,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85348,33.69914,-113.66372,Salome,AZ,Arizona,True,,2836.0,1.6,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix,"(33.69914, -113.66372)",6.975052241509019,2836.0,5496_0_yes,33.69539513482588,-113.54246529663456,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23838,37.31772,-77.63288,Chesterfield,VA,Virginia,True,,16523.0,64.6,51041,Chesterfield,"{""51041"": 100}",Chesterfield,51041,False,False,America/New_York,"(37.31772, -77.63288)",1.6174642198491649,16523.0,29786_0_yes,37.30141116455693,-77.61176524972015,5.0

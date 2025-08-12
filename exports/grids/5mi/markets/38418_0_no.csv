@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68028,41.10513,-96.26098,Gretna,NE,Nebraska,True,,16507.0,101.1,31153,Sarpy,"{""31153"": 100}",Sarpy,31153,False,False,America/Chicago,"(41.10513, -96.26098)",5.669851648463312,16570.0,38418_0_no,41.15537793736634,-96.34711405429267,5.0
+68042,41.09426,-96.43683,Memphis,NE,Nebraska,True,,63.0,28.4,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.09426, -96.43683)",6.295697916215853,16570.0,38418_0_no,41.15537793736634,-96.34711405429267,5.0

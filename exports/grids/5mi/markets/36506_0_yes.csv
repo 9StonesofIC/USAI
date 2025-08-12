@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43840,40.40511,-81.60025,Stone Creek,OH,Ohio,True,,1226.0,13.8,39157,Tuscarawas,"{""39157"": 99.63, ""39031"": 0.37}",Tuscarawas|Coshocton,39157|39031,False,False,America/New_York,"(40.40511, -81.60025)",4.0827746318978955,1226.0,36506_0_yes,40.34657740640728,-81.61088496009044,5.0

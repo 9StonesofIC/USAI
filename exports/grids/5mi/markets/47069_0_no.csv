@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57472,45.4284,-100.10393,Selby,SD,South Dakota,True,,877.0,1.2,46129,Walworth,"{""46129"": 99.32, ""46021"": 0.68}",Walworth|Campbell,46129|46021,False,False,America/Chicago,"(45.4284, -100.10393)",5.274744729430976,877.0,47069_0_no,45.35768470287235,-100.06296680728168,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80820,38.77781,-105.56613,Guffey,CO,Colorado,True,,1074.0,1.6,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(38.77781, -105.56613)",6.074398632521233,1074.0,33460_0_no,38.844818133320686,-105.63916894280264,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78161,29.28741,-98.05012,Sutherland Springs,TX,Texas,True,,550.0,19.7,48493,Wilson,"{""48493"": 100}",Wilson,48493,False,False,America/Chicago,"(29.28741, -98.05012)",2.8615411883790878,550.0,11105_0_no,29.26792639726452,-98.0920184684308,5.0

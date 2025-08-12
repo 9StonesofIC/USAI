@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83433,44.49284,-111.31788,Macks Inn,ID,Idaho,True,,4.0,1.0,16043,Fremont,"{""16043"": 100}",Fremont,16043,False,False,America/Boise,"(44.49284, -111.31788)",19.90409315431986,4.0,2915_0_no,44.38979890170642,-110.94108895613776,20.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04947,45.03319,-70.2391,Kingfield,ME,Maine,True,,1601.0,4.9,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(45.03319, -70.2391)",4.098972428346504,1601.0,46347_0_no,45.04142908530343,-70.15596055530155,5.0

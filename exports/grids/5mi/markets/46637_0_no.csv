@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04982,45.11443,-70.40494,Stratton,ME,Maine,True,,559.0,4.9,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(45.11443, -70.40494)",5.083100302714425,559.0,46637_0_no,45.18635971280446,-70.42683527197921,5.0

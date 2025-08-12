@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19968,38.77553,-75.28466,Milton,DE,Delaware,True,,12902.0,78.0,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.77553, -75.28466)",3.852974175967097,12902.0,33296_0_no,38.82070517532427,-75.24270995059517,5.0

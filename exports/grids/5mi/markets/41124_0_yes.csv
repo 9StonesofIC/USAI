@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48137,42.46191,-84.07367,Gregory,MI,Michigan,True,,4696.0,41.9,26093,Livingston,"{""26093"": 72.04, ""26161"": 27.96}",Livingston|Washtenaw,26093|26161,False,False,America/Detroit,"(42.46191, -84.07367)",4.161554325077163,4696.0,41124_0_yes,42.52067636256578,-84.05576733439398,5.0

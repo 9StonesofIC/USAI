@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87743,35.96714,-104.01174,Roy,NM,New Mexico,True,,254.0,0.2,35021,Harding,"{""35021"": 100}",Harding,35021,False,False,America/Denver,"(35.96714, -104.01174)",5.653091780206206,254.0,26978_0_yes,36.01687741170539,-103.93144755101476,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98531,46.73646,-122.91364,Centralia,WA,Washington,True,,26212.0,78.4,53041,Lewis,"{""53041"": 78.96, ""53067"": 21.04}",Lewis|Thurston,53041|53067,False,False,America/Los_Angeles,"(46.73646, -122.91364)",5.971563861611169,26212.0,49733_0_no,46.681194660726646,-122.81673441460592,5.0

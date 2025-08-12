@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63037,38.42497,-91.3165,Gerald,MO,Missouri,True,,2672.0,12.8,29071,Franklin,"{""29071"": 98.55, ""29073"": 1.45}",Franklin|Gasconade,29071|29073,False,False,America/Chicago,"(38.42497, -91.3165)",4.977079974068004,2672.0,32445_0_yes,38.47113161842709,-91.24589063160136,5.0

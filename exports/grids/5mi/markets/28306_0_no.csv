@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86544,36.58162,-109.13818,Red Valley,AZ,Arizona,True,,1452.0,2.1,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(36.58162, -109.13818)",4.105010990306396,1452.0,28306_0_no,36.52823868746296,-109.10571070932276,5.0

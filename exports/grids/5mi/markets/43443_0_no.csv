@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13420,43.65069,-74.9619,Old Forge,NY,New York,True,,1064.0,2.8,36043,Herkimer,"{""36043"": 100}",Herkimer,36043,False,False,America/New_York,"(43.65069, -74.9619)",5.648148673932736,1064.0,43443_0_no,43.59847930460453,-74.87500518875717,5.0

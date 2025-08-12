@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67762,38.84166,-101.98611,Weskan,KS,Kansas,True,,167.0,0.3,20199,Wallace,"{""20199"": 80.96, ""20071"": 19.04}",Wallace|Greeley,20199|20071,False,False,America/Denver,"(38.84166, -101.98611)",2.926286251965857,167.0,33440_0_no,38.841876423290834,-101.9317344869956,5.0

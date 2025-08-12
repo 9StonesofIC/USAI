@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98328,46.86055,-122.17227,Eatonville,WA,Washington,True,,10763.0,18.1,53053,Pierce,"{""53053"": 100}",Pierce,53053,False,False,America/Los_Angeles,"(46.86055, -122.17227)",2.447541008521052,10855.0,50010_0_no,46.82537130366493,-122.17834986854945,5.0
+98330,46.75874,-122.15894,Elbe,WA,Washington,True,,92.0,26.6,53053,Pierce,"{""53053"": 100}",Pierce,53053,False,False,America/Los_Angeles,"(46.75874, -122.15894)",4.694452290561167,10855.0,50010_0_no,46.82537130366493,-122.17834986854945,5.0

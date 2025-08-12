@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65627,36.56247,-93.00613,Cedarcreek,MO,Missouri,True,,785.0,6.4,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago,"(36.56247, -93.00613)",2.178662110885694,1777.0,28236_0_yes,36.58852896259821,-92.98402237915548,5.0
+65680,36.64518,-92.98551,Kissee Mills,MO,Missouri,True,,992.0,9.6,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago,"(36.64518, -92.98551)",3.9150831814852713,1777.0,28236_0_yes,36.58852896259821,-92.98402237915548,5.0

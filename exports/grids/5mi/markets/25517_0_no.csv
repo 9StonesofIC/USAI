@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28702,35.39346,-83.62906,Almond,NC,North Carolina,True,,427.0,6.8,37075,Graham,"{""37075"": 95.83, ""37173"": 4.17}",Graham|Swain,37075|37173,False,False,America/New_York,"(35.39346, -83.62906)",3.5011941696031608,427.0,25517_0_no,35.349600854593874,-83.66018567524952,5.0

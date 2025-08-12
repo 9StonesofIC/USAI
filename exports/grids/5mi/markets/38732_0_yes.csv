@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50207,41.43344,-92.6381,New Sharon,IA,Iowa,True,,2196.0,5.9,19123,Mahaska,"{""19123"": 97.61, ""19157"": 2.39}",Mahaska|Poweshiek,19123|19157,False,False,America/Chicago,"(41.43344, -92.6381)",4.854545695946882,2196.0,38732_0_yes,41.36952555614854,-92.6770023633246,5.0

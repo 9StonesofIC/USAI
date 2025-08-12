@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84752,38.24975,-112.88434,Minersville,UT,Utah,True,,826.0,6.4,49001,Beaver,"{""49001"": 100}",Beaver,49001,False,False,America/Denver,"(38.24975, -112.88434)",4.640812596950124,826.0,32222_0_no,38.2708449639791,-112.96555264396729,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77905,28.72789,-97.0508,Victoria,TX,Texas,True,,15279.0,13.8,48469,Victoria,"{""48469"": 90.1, ""48175"": 9.9}",Victoria|Goliad,48469|48175,False,False,America/Chicago,"(28.72789, -97.0508)",12.551548869613876,15341.0,2468_0_no,28.5975233841515,-97.1949792720078,10.0
+77960,28.65306,-97.2461,Fannin,TX,Texas,True,,62.0,1.2,48175,Goliad,"{""48175"": 100}",Goliad,48175,False,False,America/Chicago,"(28.65306, -97.2461)",4.933212386248739,15341.0,2468_0_no,28.5975233841515,-97.1949792720078,10.0

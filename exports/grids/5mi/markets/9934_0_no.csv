@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32776,28.81033,-81.4872,Sorrento,FL,Florida,True,,12191.0,95.0,12069,Lake,"{""12069"": 85.08, ""12095"": 14.92}",Lake|Orange,12069|12095,False,False,America/New_York,"(28.81033, -81.4872)",3.9202095976035563,12191.0,9934_0_no,28.822446493376614,-81.55046288162814,5.0

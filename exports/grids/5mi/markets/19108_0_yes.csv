@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36022,32.61951,-86.40492,Deatsville,AL,Alabama,True,,12833.0,55.1,1051,Elmore,"{""01051"": 56.31, ""01001"": 43.69}",Elmore|Autauga,01051|01001,False,False,America/Chicago,"(32.61951, -86.40492)",3.5408136478789594,12833.0,19108_0_yes,32.66935043352457,-86.39076007718374,5.0

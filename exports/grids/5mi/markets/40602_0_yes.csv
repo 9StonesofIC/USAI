@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69135,42.21111,-100.31028,Elsmere,NE,Nebraska,True,,28.0,0.2,31031,Cherry,"{""31031"": 100}",Cherry,31031,False,False,America/Chicago,"(42.21111, -100.31028)",4.6577848919707705,28.0,40602_0_yes,42.24485608689808,-100.23146812211633,5.0

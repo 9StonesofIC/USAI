@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60932,40.46513,-87.80013,East Lynn,IL,Illinois,True,,379.0,447.0,17183,Vermilion,"{""17183"": 100}",Vermilion,17183,False,False,America/Chicago,"(40.46513, -87.80013)",2.3601352140665326,379.0,36850_0_yes,40.49647043321176,-87.78226792473495,5.0

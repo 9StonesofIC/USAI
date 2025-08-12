@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60442,41.39189,-87.96062,Manhattan,IL,Illinois,True,,11310.0,65.1,17197,Will,"{""17197"": 100}",Will,17197,False,False,America/Chicago,"(41.39189, -87.96062)",3.365355303759269,47346.0,38988_0_no,41.43802025106832,-87.9397737614371,5.0
+60451,41.50717,-87.96088,New Lenox,IL,Illinois,True,,36036.0,553.1,17197,Will,"{""17197"": 100}",Will,17197,False,False,America/Chicago,"(41.50717, -87.96088)",4.901144765365986,47346.0,38988_0_no,41.43802025106832,-87.9397737614371,5.0

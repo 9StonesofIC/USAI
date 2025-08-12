@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36312,31.16748,-85.23867,Ashford,AL,Alabama,True,,6352.0,33.1,1069,Houston,"{""01069"": 100}",Houston,01069,False,False,America/Chicago,"(31.16748, -85.23867)",1.7661920711916352,8250.0,15618_0_no,31.14581229537693,-85.25451874626538,5.0
+36321,31.20558,-85.30093,Cowarts,AL,Alabama,True,,1898.0,116.1,1069,Houston,"{""01069"": 100}",Houston,01069,False,False,America/Chicago,"(31.20558, -85.30093)",4.957885328516478,8250.0,15618_0_no,31.14581229537693,-85.25451874626538,5.0

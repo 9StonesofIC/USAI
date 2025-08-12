@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59412,47.32538,-110.8762,Belt,MT,Montana,True,,1490.0,1.5,30013,Cascade,"{""30013"": 96.89, ""30045"": 3.11}",Cascade|Judith Basin,30013|30045,False,False,America/Denver,"(47.32538, -110.8762)",4.8964563995388595,1490.0,51069_0_no,47.39385420157796,-110.8492431785394,5.0

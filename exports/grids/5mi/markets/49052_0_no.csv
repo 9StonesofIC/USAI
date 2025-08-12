@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58033,46.44019,-97.92628,Fort Ransom,ND,North Dakota,True,,491.0,1.3,38073,Ransom,"{""38073"": 100}",Ransom,38073,False,False,America/Chicago,"(46.44019, -97.92628)",4.939310984100015,491.0,49052_0_no,46.36889508421074,-97.93388319060924,5.0

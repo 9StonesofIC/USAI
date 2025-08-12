@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72153,35.65651,-92.31988,Shirley,AR,Arkansas,True,,3552.0,13.6,5141,Van Buren,"{""05141"": 78.65, ""05137"": 15.13, ""05023"": 6.22}",Van Buren|Stone|Cleburne,05141|05137|05023,False,False,America/Chicago,"(35.65651, -92.31988)",5.14607365467546,3552.0,26249_0_yes,35.71828234879317,-92.2686488348714,5.0

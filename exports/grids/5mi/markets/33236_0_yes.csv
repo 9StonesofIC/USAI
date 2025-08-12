@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89430,38.79567,-119.31785,Smith,NV,Nevada,True,,118.0,1.4,32019,Lyon,"{""32019"": 100}",Lyon,32019,False,False,America/Los_Angeles,"(38.79567, -119.31785)",3.3311970055445452,118.0,33236_0_yes,38.78310595611918,-119.25813242677344,5.0

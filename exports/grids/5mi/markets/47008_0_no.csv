@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49848,45.37926,-87.63576,Ingalls,MI,Michigan,True,,84.0,8.0,26109,Menominee,"{""26109"": 100}",Menominee,26109,False,False,America/Menominee,"(45.37926, -87.63576)",5.378936142372093,1357.0,47008_0_no,45.34642208796159,-87.53529869183791,5.0
+49893,45.29767,-87.59927,Wallace,MI,Michigan,True,,1273.0,6.6,26109,Menominee,"{""26109"": 100}",Menominee,26109,False,False,America/Menominee,"(45.29767, -87.59927)",4.583101471166484,1357.0,47008_0_no,45.34642208796159,-87.53529869183791,5.0

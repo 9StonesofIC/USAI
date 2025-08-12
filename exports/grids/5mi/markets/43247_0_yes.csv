@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53901,43.55606,-89.48606,Portage,WI,Wisconsin,True,,14729.0,38.6,55021,Columbia,"{""55021"": 98.83, ""55077"": 1.17}",Columbia|Marquette,55021|55077,False,False,America/Chicago,"(43.55606, -89.48606)",3.345027389871747,14729.0,43247_0_yes,43.538839194176376,-89.54848625750893,5.0

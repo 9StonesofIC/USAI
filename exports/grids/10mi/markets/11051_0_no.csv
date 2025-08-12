@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82430,43.80433,-108.17898,Kirby,WY,Wyoming,True,,77.0,7.9,56017,Hot Springs,"{""56017"": 100}",Hot Springs,56017,False,False,America/Denver,"(43.80433, -108.17898)",9.85967231816907,77.0,11051_0_no,43.685189625458094,-108.07025867052847,10.0

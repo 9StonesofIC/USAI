@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65604,37.27348,-93.60367,Ash Grove,MO,Missouri,True,,3223.0,14.3,29077,Greene,"{""29077"": 59.15, ""29109"": 33.06, ""29057"": 7.79}",Greene|Lawrence|Dade,29077|29109|29057,False,False,America/Chicago,"(37.27348, -93.60367)",2.926178452918249,3223.0,29874_0_yes,37.313663572184566,-93.5868575099617,5.0

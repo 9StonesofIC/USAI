@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71292,32.40147,-92.21569,West Monroe,LA,Louisiana,True,,19200.0,48.2,22073,Ouachita,"{""22073"": 100}",Ouachita,22073,False,False,America/Chicago,"(32.40147, -92.21569)",3.566533822669467,19200.0,18452_0_yes,32.38322739789591,-92.15850381224234,5.0

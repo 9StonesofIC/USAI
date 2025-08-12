@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80823,38.69026,-103.46738,Karval,CO,Colorado,True,,222.0,0.3,8073,Lincoln,"{""08073"": 100}",Lincoln,08073,False,False,America/Denver,"(38.69026, -103.46738)",7.28178405526896,222.0,8427_0_no,38.75353514654745,-103.35935309686988,10.0

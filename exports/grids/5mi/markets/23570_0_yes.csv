@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72046,34.55542,-91.9403,England,AR,Arkansas,True,,4079.0,6.8,5085,Lonoke,"{""05085"": 70.83, ""05119"": 16.72, ""05069"": 12.45}",Lonoke|Pulaski|Jefferson,05085|05119|05069,False,False,America/Chicago,"(34.55542, -91.9403)",4.964906131378077,4079.0,23570_0_yes,34.55818770892982,-91.85311244271274,5.0

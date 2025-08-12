@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97362,45.06903,-122.7692,Mount Angel,OR,Oregon,True,,4322.0,71.4,41047,Marion,"{""41047"": 89.19, ""41005"": 10.81}",Marion|Clackamas,41047|41005,False,False,America/Los_Angeles,"(45.06903, -122.7692)",4.947485903432926,4322.0,46604_0_no,45.08840970123036,-122.6715792627007,5.0

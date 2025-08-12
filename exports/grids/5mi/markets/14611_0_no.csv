@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70654,30.69212,-92.88075,Mittie,LA,Louisiana,True,,185.0,3.0,22003,Allen,"{""22003"": 100}",Allen,22003,False,False,America/Chicago,"(30.69212, -92.88075)",3.6193727832870026,185.0,14611_0_no,30.71556385713162,-92.82626767224149,5.0

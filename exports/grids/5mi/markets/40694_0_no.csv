@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97544,42.207,-123.30006,Williams,OR,Oregon,True,,2594.0,13.1,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles,"(42.207, -123.30006)",3.313709415766088,2594.0,40694_0_no,42.19212705993564,-123.36160808379216,5.0

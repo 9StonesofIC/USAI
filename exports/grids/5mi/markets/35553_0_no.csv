@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43140,39.88406,-83.42946,London,OH,Ohio,True,,24352.0,42.8,39097,Madison,"{""39097"": 96.45, ""39049"": 2.21, ""39023"": 1.34}",Madison|Franklin|Clark,39097|39049|39023,False,False,America/New_York,"(39.88406, -83.42946)",4.882671738530232,24352.0,35553_0_no,39.84112226018173,-83.35633796763943,5.0

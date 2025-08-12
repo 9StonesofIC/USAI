@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28719,35.53223,-83.47056,Cherokee,NC,North Carolina,True,,7404.0,7.2,37173,Swain,"{""37173"": 92.42, ""37099"": 7.58}",Swain|Jackson,37173|37099,False,False,America/New_York,"(35.53223, -83.47056)",2.62846646114901,7404.0,25867_0_yes,35.56682698704895,-83.45111641700214,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78609,30.75975,-98.45271,Buchanan Dam,TX,Texas,True,,1999.0,48.6,48299,Llano,"{""48299"": 100}",Llano,48299,False,False,America/Chicago,"(30.75975, -98.45271)",5.614292286535645,1999.0,14644_0_no,30.719151620668782,-98.370816527505,5.0

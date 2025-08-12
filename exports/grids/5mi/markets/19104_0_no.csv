@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35470,32.56801,-88.09894,Livingston,AL,Alabama,True,,5123.0,7.2,1119,Sumter,"{""01119"": 100}",Sumter,01119,False,False,America/Chicago,"(32.56801, -88.09894)",3.2230426696731054,5123.0,19104_0_no,32.59801243668836,-88.05654909921611,5.0

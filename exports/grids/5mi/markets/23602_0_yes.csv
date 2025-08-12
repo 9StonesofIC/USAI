@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73433,34.62352,-97.40868,Elmore City,OK,Oklahoma,True,,2719.0,6.5,40049,Garvin,"{""40049"": 100}",Garvin,40049,False,False,America/Chicago,"(34.62352, -97.40868)",5.2975113264756715,2719.0,23602_0_yes,34.56221774201933,-97.4646195436874,5.0

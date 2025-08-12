@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80721,40.68821,-102.15297,Amherst,CO,Colorado,True,,296.0,1.3,8095,Phillips,"{""08095"": 100}",Phillips,08095,False,False,America/Denver,"(40.68821, -102.15297)",2.4720235581069727,296.0,37237_0_yes,40.65315324148582,-102.16239373150562,5.0

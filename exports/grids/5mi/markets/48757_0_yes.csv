@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54557,46.22178,-89.75453,Presque Isle,WI,Wisconsin,True,,838.0,3.6,55125,Vilas,"{""55125"": 99.01, ""55051"": 0.99}",Vilas|Iron,55125|55051,False,False,America/Chicago,"(46.22178, -89.75453)",5.449338471069224,838.0,48757_0_yes,46.28895823473468,-89.69476964359538,5.0

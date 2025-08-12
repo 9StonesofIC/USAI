@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98856,48.37065,-120.22762,Twisp,WA,Washington,True,,2612.0,2.3,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.37065, -120.22762)",1.900999998960763,2612.0,52785_0_yes,48.34326783477151,-120.2235795558666,5.0

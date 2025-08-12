@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75447,33.765,-96.11966,Ivanhoe,TX,Texas,True,,1201.0,8.8,48147,Fannin,"{""48147"": 100}",Fannin,48147,False,False,America/Chicago,"(33.765, -96.11966)",8.823382398510295,1948.0,5608_0_no,33.81580572504729,-95.97868552587911,10.0
+75488,33.77628,-95.98899,Telephone,TX,Texas,True,,747.0,2.4,48147,Fannin,"{""48147"": 100}",Fannin,48147,False,False,America/Chicago,"(33.77628, -95.98899)",2.794324643834217,1948.0,5608_0_no,33.81580572504729,-95.97868552587911,10.0

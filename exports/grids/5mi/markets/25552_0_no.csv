@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38054,35.3358,-89.8744,Millington,TN,Tennessee,True,,289.0,358.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago,"(35.3358, -89.8744)",1.599727423126828,289.0,25552_0_no,35.35413954360276,-89.85707404502965,5.0

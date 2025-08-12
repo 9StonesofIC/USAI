@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35745,34.94101,-86.20002,Estillfork,AL,Alabama,True,,137.0,0.8,1071,Jackson,"{""01071"": 100}",Jackson,01071,False,False,America/Chicago,"(34.94101, -86.20002)",3.4134412891066717,2852.0,24546_0_yes,34.98903935501307,-86.21413832553112,5.0
+37345,35.0366,-86.24299,Huntland,TN,Tennessee,True,,2715.0,18.6,47051,Franklin,"{""47051"": 100}",Franklin,47051,False,False,America/Chicago,"(35.0366, -86.24299)",3.6693754267810634,2852.0,24546_0_yes,34.98903935501307,-86.21413832553112,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89405,40.45057,-119.46926,Empire,NV,Nevada,True,,103.0,0.1,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles,"(40.45057, -119.46926)",7.739494752744794,344.0,2398_0_no,40.36438943847436,-119.37528712796818,20.0
+89424,40.10964,-119.49396,Nixon,NV,Nevada,True,,241.0,0.2,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles,"(40.10964, -119.49396)",18.68133357480828,344.0,2398_0_no,40.36438943847436,-119.37528712796818,20.0

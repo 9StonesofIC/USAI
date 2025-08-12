@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39180,32.223,-90.90225,Vicksburg,MS,Mississippi,True,,31720.0,46.9,28149,Warren,"{""28149"": 100}",Warren,28149,False,False,America/Chicago,"(32.223, -90.90225)",3.164481122960311,31997.0,4571_0_yes,32.21424053149885,-90.84911344002248,10.0
+71233,32.32509,-90.93177,Delta,LA,Louisiana,True,,277.0,181.7,22065,Madison,"{""22065"": 100}",Madison,22065,False,False,America/Chicago,"(32.32509, -90.93177)",9.05418748375025,31997.0,4571_0_yes,32.21424053149885,-90.84911344002248,10.0

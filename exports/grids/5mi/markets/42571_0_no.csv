@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14094,43.15989,-78.70032,Lockport,NY,New York,True,,49792.0,158.0,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/New_York,"(43.15989, -78.70032)",4.720374739375299,55791.0,42571_0_no,43.16765079759131,-78.79337782554475,5.0
+14132,43.14787,-78.87856,Sanborn,NY,New York,True,,5999.0,80.7,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/New_York,"(43.14787, -78.87856)",4.505623896940164,55791.0,42571_0_no,43.16765079759131,-78.79337782554475,5.0

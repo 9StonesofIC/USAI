@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71651,33.31472,-92.28377,Jersey,AR,Arkansas,True,,55.0,0.3,5011,Bradley,"{""05011"": 100}",Bradley,05011,False,False,America/Chicago,"(33.31472, -92.28377)",2.208233631211117,55.0,20842_0_no,33.32599129699834,-92.24797991285476,5.0

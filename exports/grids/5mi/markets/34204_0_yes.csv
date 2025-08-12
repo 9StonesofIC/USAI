@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95932,39.26839,-122.00426,Colusa,CA,California,True,,7573.0,20.5,6011,Colusa,"{""06011"": 100}",Colusa,06011,False,False,America/Los_Angeles,"(39.26839, -122.00426)",3.414426593559697,7573.0,34204_0_yes,39.22016791260847,-122.01821025325106,5.0

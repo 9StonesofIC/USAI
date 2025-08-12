@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38236,36.17572,-88.26463,Mansfield,TN,Tennessee,True,,512.0,4.8,47079,Henry,"{""47079"": 100}",Henry,47079,False,False,America/Chicago,"(36.17572, -88.26463)",4.214307069701583,1899.0,27221_0_yes,36.15021255767181,-88.33325605362823,5.0
+38342,36.10766,-88.29024,Hollow Rock,TN,Tennessee,True,,1387.0,15.9,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago,"(36.10766, -88.29024)",3.795642362164905,1899.0,27221_0_yes,36.15021255767181,-88.33325605362823,5.0

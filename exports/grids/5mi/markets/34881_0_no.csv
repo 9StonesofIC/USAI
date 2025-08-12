@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08001,39.55423,-75.35683,Alloway,NJ,New Jersey,True,,847.0,98.4,34033,Salem,"{""34033"": 100}",Salem,34033,False,False,America/New_York,"(39.55423, -75.35683)",3.5346992044516665,847.0,34881_0_no,39.544934589340045,-75.29158762213514,5.0

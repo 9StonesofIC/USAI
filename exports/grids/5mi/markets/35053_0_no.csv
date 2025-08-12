@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81647,39.57972,-107.5364,New Castle,CO,Colorado,True,,6961.0,9.4,8045,Garfield,"{""08045"": 100}",Garfield,08045,False,False,America/Denver,"(39.57972, -107.5364)",2.0234106501680302,6961.0,35053_0_no,39.570881505561495,-107.50017792580864,5.0

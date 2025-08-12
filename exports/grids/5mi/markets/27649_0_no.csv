@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86556,36.24093,-109.21631,Tsaile,AZ,Arizona,True,,2358.0,4.2,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(36.24093, -109.21631)",2.9020752295103187,2358.0,27649_0_no,36.23830368643648,-109.16433564658352,5.0

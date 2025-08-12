@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55785,46.92332,-93.74591,Swatara,MN,Minnesota,True,,256.0,0.9,27001,Aitkin,"{""27001"": 74.18, ""27021"": 25.82}",Aitkin|Cass,27001|27021,False,False,America/Chicago,"(46.92332, -93.74591)",3.586112323274877,256.0,49902_0_yes,46.87148250967725,-93.74970679866092,5.0

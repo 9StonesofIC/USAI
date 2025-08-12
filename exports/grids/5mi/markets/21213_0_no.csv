@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76238,33.4861,-97.34148,Era,TX,Texas,True,,276.0,3.8,48097,Cooke,"{""48097"": 100}",Cooke,48097,False,False,America/Chicago,"(33.4861, -97.34148)",2.7834450777679876,299.0,21213_0_no,33.47459493988031,-97.38776772541888,5.0
+76263,33.50435,-97.43735,Rosston,TX,Texas,True,,23.0,2.2,48097,Cooke,"{""48097"": 100}",Cooke,48097,False,False,America/Chicago,"(33.50435, -97.43735)",3.5198789784276885,299.0,21213_0_no,33.47459493988031,-97.38776772541888,5.0

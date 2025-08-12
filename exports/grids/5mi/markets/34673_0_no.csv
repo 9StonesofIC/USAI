@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66060,39.41866,-95.3325,Nortonville,KS,Kansas,True,,1364.0,8.8,20087,Jefferson,"{""20087"": 51.58, ""20005"": 48.42}",Jefferson|Atchison,20087|20005,False,False,America/Chicago,"(39.41866, -95.3325)",2.9830322409412906,1364.0,34673_0_no,39.41624201902882,-95.38829791806242,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52563,41.17295,-92.27765,Hedrick,IA,Iowa,True,,1709.0,6.1,19107,Keokuk,"{""19107"": 58.29, ""19179"": 38.22, ""19101"": 3.49}",Keokuk|Wapello|Jefferson,19107|19179|19101,False,False,America/Chicago,"(41.17295, -92.27765)",2.672072733997815,1709.0,38397_0_no,41.15202725752966,-92.32085252095251,5.0

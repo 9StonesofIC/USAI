@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98671,45.61143,-122.24955,Washougal,WA,Washington,True,,23116.0,110.1,53011,Clark,"{""53011"": 50.27, ""53059"": 49.73}",Clark|Skamania,53011|53059,False,False,America/Los_Angeles,"(45.61143, -122.24955)",3.9138786216631853,23116.0,47750_0_no,45.66721293786331,-122.23545962320108,5.0

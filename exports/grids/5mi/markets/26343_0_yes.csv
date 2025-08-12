@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86515,35.70301,-108.99057,Window Rock,AZ,Arizona,True,,3660.0,12.2,35031,McKinley,"{""35031"": 88.14, ""04001"": 11.86}",McKinley|Apache,35031|04001,False,False,America/Denver,"(35.70301, -108.99057)",1.911430349779753,3660.0,26343_0_yes,35.73063970432946,-108.98886319971773,5.0

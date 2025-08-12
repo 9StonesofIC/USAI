@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66757,37.41602,-95.69874,Neodesha,KS,Kansas,True,,3162.0,10.7,20205,Wilson,"{""20205"": 75.94, ""20125"": 24.06}",Wilson|Montgomery,20205|20125,False,False,America/Chicago,"(37.41602, -95.69874)",3.106776993365525,3162.0,30211_0_yes,37.46022268018695,-95.70912270438994,5.0

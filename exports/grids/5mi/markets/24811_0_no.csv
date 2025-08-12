@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28529,35.12237,-76.86848,Grantsboro,NC,North Carolina,True,,1979.0,13.9,37137,Pamlico,"{""37137"": 100}",Pamlico,37137,False,False,America/New_York,"(35.12237, -76.86848)",5.704128222923052,1979.0,24811_0_no,35.05480312272522,-76.92645356618024,5.0

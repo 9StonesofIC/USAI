@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98830,47.88702,-119.52278,Mansfield,WA,Washington,True,,492.0,0.5,53017,Douglas,"{""53017"": 100}",Douglas,53017,False,False,America/Los_Angeles,"(47.88702, -119.52278)",4.64741206803312,492.0,51963_0_yes,47.90852682900142,-119.61783735106988,5.0

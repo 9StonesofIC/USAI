@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42031,36.68741,-88.98864,Clinton,KY,Kentucky,True,,3330.0,8.7,21105,Hickman,"{""21105"": 100}",Hickman,21105,False,False,America/Chicago,"(36.68741, -88.98864)",4.595820415315878,3330.0,28522_0_no,36.65796374008109,-88.91427762871321,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43014,40.46646,-82.25242,Danville,OH,Ohio,True,,3624.0,20.0,39083,Knox,"{""39083"": 94.41, ""39031"": 5.05, ""39005"": 0.54}",Knox|Coshocton|Ashland,39083|39031|39005,False,False,America/New_York,"(40.46646, -82.25242)",2.184032242415162,3624.0,36821_0_yes,40.49194903352311,-82.27699752796252,5.0

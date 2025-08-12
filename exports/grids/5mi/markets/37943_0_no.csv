@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95527,40.93593,-123.41966,Burnt Ranch,CA,California,True,,437.0,1.2,6105,Trinity,"{""06105"": 100}",Trinity,06105,False,False,America/Los_Angeles,"(40.93593, -123.41966)",3.595845224380415,437.0,37943_0_no,40.88806903187832,-123.3926117525489,5.0

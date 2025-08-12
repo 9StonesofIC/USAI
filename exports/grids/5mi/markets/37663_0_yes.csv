@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95564,40.79023,-124.20312,Samoa,CA,California,True,,465.0,53.5,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.79023, -124.20312)",2.5245724687243807,465.0,37663_0_yes,40.81626462423435,-124.23698864553155,5.0

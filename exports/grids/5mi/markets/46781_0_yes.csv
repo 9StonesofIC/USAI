@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55389,45.2998,-94.43748,Watkins,MN,Minnesota,True,,2571.0,13.3,27093,Meeker,"{""27093"": 62.98, ""27145"": 37.02}",Meeker|Stearns,27093|27145,False,False,America/Chicago,"(45.2998, -94.43748)",1.391297155366413,2571.0,46781_0_yes,45.28020204127736,-94.43090489272797,5.0

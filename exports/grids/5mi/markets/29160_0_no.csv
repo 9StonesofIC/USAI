@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42141,36.94883,-85.91489,Glasgow,KY,Kentucky,True,,31455.0,45.2,21009,Barren,"{""21009"": 100}",Barren,21009,False,False,America/Chicago,"(36.94883, -85.91489)",1.533106073361344,31455.0,29160_0_no,36.9455166894404,-85.88743706045783,5.0

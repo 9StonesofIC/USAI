@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56331,45.67926,-94.6742,Freeport,MN,Minnesota,True,,2462.0,13.7,27145,Stearns,"{""27145"": 98.89, ""27097"": 1.11}",Stearns|Morrison,27145|27097,False,False,America/Chicago,"(45.67926, -94.6742)",4.006401463214871,2462.0,47643_0_yes,45.71456144151521,-94.60833866394582,5.0

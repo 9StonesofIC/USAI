@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42050,36.54675,-89.20347,Hickman,KY,Kentucky,True,,2928.0,10.3,21075,Fulton,"{""21075"": 100}",Fulton,21075,False,False,America/Chicago,"(36.54675, -89.20347)",2.6991666568584454,2928.0,28215_0_yes,36.58568017278196,-89.20751452379679,5.0

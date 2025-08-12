@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89815,40.56652,-115.59504,Spring Creek,NV,Nevada,True,,15292.0,8.4,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles,"(40.56652, -115.59504)",7.7952543027119985,15292.0,9404_0_no,40.51198176128492,-115.7249996509588,10.0

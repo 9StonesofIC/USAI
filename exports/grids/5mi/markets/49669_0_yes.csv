@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58654,46.77817,-103.81757,Sentinel Butte,ND,North Dakota,True,,304.0,0.2,38033,Golden Valley,"{""38033"": 79.91, ""38087"": 20.09}",Golden Valley|Slope,38033|38087,False,False,America/Denver,"(46.77817, -103.81757)",5.102408869678713,304.0,49669_0_yes,46.73596270082965,-103.72911839285938,5.0

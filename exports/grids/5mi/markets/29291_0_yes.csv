@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81129,37.10495,-106.02167,Conejos,CO,Colorado,True,,58.0,8.6,8021,Conejos,"{""08021"": 100}",Conejos,08021,False,False,America/Denver,"(37.10495, -106.02167)",5.029826219818938,58.0,29291_0_yes,37.03326620211113,-106.00577240284794,5.0

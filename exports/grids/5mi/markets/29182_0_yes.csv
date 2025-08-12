@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42103,36.94802,-86.33396,Bowling Green,KY,Kentucky,True,,20571.0,112.8,21227,Warren,"{""21227"": 100}",Warren,21227,False,False,America/Chicago,"(36.94802, -86.33396)",5.381841565223383,22056.0,29182_0_yes,37.01824321597891,-86.29176844343482,5.0
+42159,36.99594,-86.24771,Oakland,KY,Kentucky,True,,1485.0,18.3,21227,Warren,"{""21227"": 100}",Warren,21227,False,False,America/Chicago,"(36.99594, -86.24771)",2.8782214231301704,22056.0,29182_0_yes,37.01824321597891,-86.29176844343482,5.0

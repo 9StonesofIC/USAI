@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78590,26.50401,-97.63486,San Perlita,TX,Texas,True,,298.0,114.9,48489,Willacy,"{""48489"": 100}",Willacy,48489,False,False,America/Chicago,"(26.50401, -97.63486)",0.4101428983515827,298.0,4244_0_no,26.50985116074478,-97.63367860510913,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36048,31.79011,-85.59066,Louisville,AL,Alabama,True,,1373.0,5.0,1005,Barbour,"{""01005"": 100}",Barbour,01005,False,False,America/Chicago,"(31.79011, -85.59066)",1.4750989846083724,1373.0,17027_0_yes,31.798658030382956,-85.56764276009925,5.0

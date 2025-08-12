@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58270,48.39336,-97.78848,Park River,ND,North Dakota,True,,1836.0,4.6,38099,Walsh,"{""38099"": 100}",Walsh,38099,False,False,America/Chicago,"(48.39336, -97.78848)",6.093886525296054,1836.0,52682_0_yes,48.3221745526422,-97.866845220728,5.0

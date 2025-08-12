@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27316,35.68996,-79.62366,Ramseur,NC,North Carolina,True,,8169.0,46.6,37151,Randolph,"{""37151"": 100}",Randolph,37151,False,False,America/New_York,"(35.68996, -79.62366)",3.878922958662119,8169.0,26160_0_no,35.636496542512674,-79.60257757598748,5.0

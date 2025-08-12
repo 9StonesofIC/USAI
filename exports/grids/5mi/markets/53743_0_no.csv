@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58323,48.84252,-98.91923,Calvin,ND,North Dakota,True,,91.0,0.5,38019,Cavalier,"{""38019"": 81.58, ""38095"": 18.42}",Cavalier|Towner,38019|38095,False,False,America/Chicago,"(48.84252, -98.91923)",4.162264728460574,91.0,53743_0_no,48.82947550351358,-98.8298797009204,5.0

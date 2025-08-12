@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98626,46.15317,-122.78564,Kelso,WA,Washington,True,,25366.0,72.8,53015,Cowlitz,"{""53015"": 100}",Cowlitz,53015,False,False,America/Los_Angeles,"(46.15317, -122.78564)",4.018079410786682,25366.0,48632_0_yes,46.17433796527369,-122.70743473817588,5.0

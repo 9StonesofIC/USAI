@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81063,38.45232,-103.78494,Ordway,CO,Colorado,True,,3186.0,3.1,8025,Crowley,"{""08025"": 63.14, ""08073"": 36.86}",Crowley|Lincoln,08025|08073,False,False,America/Denver,"(38.45232, -103.78494)",1.9848470309266186,3186.0,32513_0_yes,38.48100368620277,-103.7869541514252,5.0

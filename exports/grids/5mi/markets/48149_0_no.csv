@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49878,45.95852,-86.86516,Rapid River,MI,Michigan,True,,3369.0,2.9,26041,Delta,"{""26041"": 97.21, ""26003"": 2.79}",Delta|Alger,26041|26003,False,False,America/Detroit,"(45.95852, -86.86516)",4.315099786190748,3369.0,48149_0_no,45.92473996864547,-86.94069890762218,5.0

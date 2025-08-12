@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49067,42.02359,-85.79982,Marcellus,MI,Michigan,True,,4150.0,19.5,26027,Cass,"{""26027"": 63.8, ""26149"": 28.61, ""26159"": 7.59}",Cass|St. Joseph|Van Buren,26027|26149|26159,False,False,America/Detroit,"(42.02359, -85.79982)",3.0000236342399718,4150.0,40198_0_no,42.01549365946222,-85.85724003115146,5.0

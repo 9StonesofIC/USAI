@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54848,45.51546,-91.10284,Ladysmith,WI,Wisconsin,True,,5776.0,11.7,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago,"(45.51546, -91.10284)",5.212283709334495,5776.0,47340_0_yes,45.56673975283312,-91.18183674343972,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93251,35.37059,-119.69735,McKittrick,CA,California,True,,237.0,0.9,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(35.37059, -119.69735)",5.183656550184487,237.0,6525_0_yes,35.44456965490662,-119.68204578388188,10.0

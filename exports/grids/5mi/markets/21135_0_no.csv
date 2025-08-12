@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30016,33.51836,-83.93073,Covington,GA,Georgia,True,,56934.0,242.1,13217,Newton,"{""13217"": 99.62, ""13247"": 0.38}",Newton|Rockdale,13217|13247,False,False,America/New_York,"(33.51836, -83.93073)",4.574327943671977,56934.0,21135_0_no,33.4651645141375,-83.88347092522157,5.0

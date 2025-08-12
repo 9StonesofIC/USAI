@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88044,32.01977,-107.08116,La Mesa,NM,New Mexico,True,,3333.0,2.2,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(32.01977, -107.08116)",14.359628025765495,3333.0,1146_0_yes,31.92266699989453,-107.29776586987192,20.0

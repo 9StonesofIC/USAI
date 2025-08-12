@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47355,40.04376,-84.9258,Lynn,IN,Indiana,True,,3027.0,18.5,18135,Randolph,"{""18135"": 98.66, ""18177"": 1.34}",Randolph|Wayne,18135|18177,False,False,America/Indiana/Indianapolis,"(40.04376, -84.9258)",4.170122490986091,3027.0,35898_0_yes,40.05967828228744,-85.00185561705038,5.0

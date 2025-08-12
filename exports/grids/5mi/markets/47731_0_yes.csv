@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59727,45.78797,-112.79394,Divide,MT,Montana,True,,269.0,0.3,30093,Silver Bow,"{""30093"": 79.64, ""30001"": 20.36}",Silver Bow|Beaverhead,30093|30001,False,False,America/Denver,"(45.78797, -112.79394)",3.946446528876509,269.0,47731_0_yes,45.73101938729362,-112.80019464228695,5.0

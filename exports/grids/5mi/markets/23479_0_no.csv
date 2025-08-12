@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28438,34.4166,-78.92221,Evergreen,NC,North Carolina,True,,1654.0,14.2,37047,Columbus,"{""37047"": 95.51, ""37017"": 4.49}",Columbus|Bladen,37047|37017,False,False,America/New_York,"(34.4166, -78.92221)",6.341053081361433,1654.0,23479_0_no,34.47640115679135,-78.83779078165641,5.0

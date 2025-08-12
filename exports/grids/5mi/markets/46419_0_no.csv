@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49730,45.04641,-84.87644,Elmira,MI,Michigan,True,,2163.0,8.7,26009,Antrim,"{""26009"": 63.08, ""26137"": 21.8, ""26029"": 15.12}",Antrim|Otsego|Charlevoix,26009|26137|26029,False,False,America/Detroit,"(45.04641, -84.87644)",0.8231348003637615,2163.0,46419_0_no,45.05458325514861,-84.86417144569839,5.0

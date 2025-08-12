@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32732,28.74565,-81.10563,Geneva,FL,Florida,True,,5345.0,37.0,12117,Seminole,"{""12117"": 100}",Seminole,12117,False,False,America/New_York,"(28.74565, -81.10563)",4.781582770529543,21760.0,9573_0_no,28.677098439119156,-81.11644439145174,5.0
+32766,28.64761,-81.08124,Oviedo,FL,Florida,True,,16415.0,144.6,12117,Seminole,"{""12117"": 100}",Seminole,12117,False,False,America/New_York,"(28.64761, -81.08124)",2.950694197655124,21760.0,9573_0_no,28.677098439119156,-81.11644439145174,5.0

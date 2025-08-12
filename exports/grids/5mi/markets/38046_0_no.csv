@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45853,40.98625,-84.19469,Kalida,OH,Ohio,True,,1620.0,393.0,39137,Putnam,"{""39137"": 100}",Putnam,39137,False,False,America/New_York,"(40.98625, -84.19469)",1.7522931836291766,1620.0,38046_0_no,41.00042658865356,-84.16682921749116,5.0

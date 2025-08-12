@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04750,46.9582,-67.85718,Limestone,ME,Maine,True,,2261.0,11.1,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.9582, -67.85718)",67.38731203742113,2261.0,536_0_yes,47.6577694680723,-66.85490154627432,50.0

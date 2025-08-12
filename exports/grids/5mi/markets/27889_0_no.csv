@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72662,36.43184,-93.18297,Omaha,AR,Arkansas,True,,2870.0,9.4,5009,Boone,"{""05009"": 98.59, ""05015"": 1.41}",Boone|Carroll,05009|05015,False,False,America/Chicago,"(36.43184, -93.18297)",4.219925257287513,2870.0,27889_0_no,36.37129119336797,-93.1730246486308,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88337,32.99141,-105.89025,La Luz,NM,New Mexico,True,,1977.0,18.9,35035,Otero,"{""35035"": 100}",Otero,35035,False,False,America/Denver,"(32.99141, -105.89025)",1.2864178119039078,1977.0,19909_0_yes,32.97280856255199,-105.88929918312884,5.0

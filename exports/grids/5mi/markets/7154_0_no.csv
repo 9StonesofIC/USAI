@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78351,27.66779,-97.75258,Driscoll,TX,Texas,True,,519.0,212.5,48355,Nueces,"{""48355"": 100}",Nueces,48355,False,False,America/Chicago,"(27.66779, -97.75258)",4.636579946674705,519.0,7154_0_no,27.671181534623063,-97.67690577802972,5.0

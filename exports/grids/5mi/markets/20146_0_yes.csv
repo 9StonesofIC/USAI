@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35405,33.12087,-87.55082,Tuscaloosa,AL,Alabama,True,,44449.0,324.5,1125,Tuscaloosa,"{""01125"": 100}",Tuscaloosa,01125,False,False,America/Chicago,"(33.12087, -87.55082)",2.0454173114230634,44449.0,20146_0_yes,33.10520213195357,-87.58080778526772,5.0

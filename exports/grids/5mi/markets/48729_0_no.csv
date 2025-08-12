@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54540,46.15505,-89.38216,Land O'Lakes,WI,Wisconsin,True,,880.0,4.3,55125,Vilas,"{""55125"": 99.35, ""26053"": 0.65}",Vilas|Gogebic,55125|26053,False,False,America/Chicago,"(46.15505, -89.38216)",5.426591719377756,880.0,48729_0_no,46.21643695061415,-89.452923897668,5.0

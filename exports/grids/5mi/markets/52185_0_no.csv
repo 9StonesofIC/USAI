@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59922,47.99962,-114.22227,Lakeside,MT,Montana,True,,2128.0,21.5,30029,Flathead,"{""30029"": 93.2, ""30047"": 6.8}",Flathead|Lake,30029|30047,False,False,America/Denver,"(47.99962, -114.22227)",4.083166455339278,2128.0,52185_0_no,47.97580551885252,-114.14145967705882,5.0

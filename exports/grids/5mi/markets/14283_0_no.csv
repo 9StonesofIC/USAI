@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77836,30.53798,-96.67813,Caldwell,TX,Texas,True,,12516.0,11.2,48051,Burleson,"{""48051"": 97.94, ""48331"": 2.06}",Burleson|Milam,48051|48331,False,False,America/Chicago,"(30.53798, -96.67813)",4.052444955766812,12516.0,14283_0_no,30.57300483729717,-96.73276184407638,5.0

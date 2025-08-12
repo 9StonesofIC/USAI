@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05454,44.7056,-73.02294,Fairfax,VT,Vermont,True,,5156.0,41.4,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York,"(44.7056, -73.02294)",4.165647639659938,20329.0,45781_0_no,44.754638317069386,-73.0723091604068,5.0
+05478,44.7941,-73.11714,Saint Albans,VT,Vermont,True,,15173.0,98.8,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York,"(44.7941, -73.11714)",3.5027302837311716,20329.0,45781_0_no,44.754638317069386,-73.0723091604068,5.0

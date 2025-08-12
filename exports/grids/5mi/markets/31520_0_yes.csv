@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67581,37.99316,-98.41068,Sylvia,KS,Kansas,True,,292.0,1.0,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago,"(37.99316, -98.41068)",3.3781487494403626,292.0,31520_0_yes,38.04202113965137,-98.41290179934217,5.0

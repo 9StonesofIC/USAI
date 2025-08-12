@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87014,35.1372,-107.45315,Cubero,NM,New Mexico,True,,469.0,8.6,35006,Cibola,"{""35006"": 100}",Cibola,35006,False,False,America/Denver,"(35.1372, -107.45315)",3.5305856335896717,1111.0,25002_0_yes,35.149519754531006,-107.51379631957457,5.0
+87038,35.0944,-107.43259,New Laguna,NM,New Mexico,True,,642.0,10.4,35006,Cibola,"{""35006"": 100}",Cibola,35006,False,False,America/Denver,"(35.0944, -107.43259)",5.963662264444701,1111.0,25002_0_yes,35.149519754531006,-107.51379631957457,5.0

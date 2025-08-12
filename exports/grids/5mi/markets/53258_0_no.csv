@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59530,48.60212,-110.68802,Inverness,MT,Montana,True,,125.0,0.2,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver,"(48.60212, -110.68802)",4.4793033433681995,125.0,53258_0_no,48.55142677440696,-110.74909988741474,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95683,38.51018,-121.09894,Sloughhouse,CA,California,True,,6084.0,27.2,6067,Sacramento,"{""06067"": 100}",Sacramento,06067,False,False,America/Los_Angeles,"(38.51018, -121.09894)",1.8119292482562361,6084.0,32607_0_yes,38.494656083875775,-121.1259478400103,5.0

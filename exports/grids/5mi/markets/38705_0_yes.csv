@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46303,41.37198,-87.4765,Cedar Lake,IN,Indiana,True,,14799.0,198.7,18089,Lake,"{""18089"": 100}",Lake,18089,False,False,America/Chicago,"(41.37198, -87.4765)",0.5928626616779253,14799.0,38705_0_yes,41.36518522806043,-87.48348226911835,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33332,26.03825,-80.44352,Fort Lauderdale,FL,Florida,True,,12111.0,136.2,12011,Broward,"{""12011"": 100}",Broward,12011,False,False,America/New_York,"(26.03825, -80.44352)",10.041553656448357,12111.0,785_0_yes,26.11256592253804,-80.58256809899395,10.0

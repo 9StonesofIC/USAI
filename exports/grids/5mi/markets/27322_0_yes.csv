@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87516,36.18116,-106.46149,Canones,NM,New Mexico,True,,94.0,0.9,35039,Rio Arriba,"{""35039"": 100}",Rio Arriba,35039,False,False,America/Denver,"(36.18116, -106.46149)",3.8075299429341407,94.0,27322_0_yes,36.16370143862856,-106.3967409210238,5.0

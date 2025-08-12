@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93436,34.60888,-120.4002,Lompoc,CA,California,True,,55727.0,94.4,6083,Santa Barbara,"{""06083"": 100}",Santa Barbara,06083,False,False,America/Los_Angeles,"(34.60888, -120.4002)",3.05796235268947,55727.0,23733_0_yes,34.578721981630245,-120.43955003707715,5.0

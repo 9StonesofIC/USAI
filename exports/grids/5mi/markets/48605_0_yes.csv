@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99402,46.1868,-117.14922,Asotin,WA,Washington,True,,1597.0,1.8,53003,Asotin,"{""53003"": 100}",Asotin,53003,False,False,America/Los_Angeles,"(46.1868, -117.14922)",3.5007881214600443,1597.0,48605_0_yes,46.16920910006768,-117.08059720626086,5.0

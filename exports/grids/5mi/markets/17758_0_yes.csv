@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71295,32.14565,-91.70795,Winnsboro,LA,Louisiana,True,,13799.0,16.9,22041,Franklin,"{""22041"": 100}",Franklin,22041,False,False,America/Chicago,"(32.14565, -91.70795)",4.442145531015618,13799.0,17758_0_yes,32.09287459194706,-91.7513034001294,5.0

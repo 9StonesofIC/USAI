@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04730,46.12574,-67.91471,Houlton,ME,Maine,True,,9818.0,15.5,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.12574, -67.91471)",0.2739914925344087,10302.0,48369_0_yes,46.12441783542605,-67.92010415565773,5.0
+04761,46.11857,-67.97183,New Limerick,ME,Maine,True,,484.0,10.3,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.11857, -67.97183)",2.5099283211182857,10302.0,48369_0_yes,46.12441783542605,-67.92010415565773,5.0

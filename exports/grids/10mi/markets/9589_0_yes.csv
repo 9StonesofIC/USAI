@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96091,41.04567,-122.78053,Trinity Center,CA,California,True,,678.0,0.6,6105,Trinity,"{""06105"": 100}",Trinity,06105,False,False,America/Los_Angeles,"(41.04567, -122.78053)",7.1956396472798945,678.0,9589_0_yes,40.95801024558781,-122.70602417137616,10.0

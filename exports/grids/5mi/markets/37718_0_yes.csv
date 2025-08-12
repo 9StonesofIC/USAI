@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18229,40.93245,-75.68247,Jim Thorpe,PA,Pennsylvania,True,,9038.0,63.1,42025,Carbon,"{""42025"": 100}",Carbon,42025,False,False,America/New_York,"(40.93245, -75.68247)",0.9734192333532212,9038.0,37718_0_yes,40.92095307959155,-75.69324734554046,5.0

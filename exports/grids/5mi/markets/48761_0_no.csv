@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56537,46.27697,-96.08977,Fergus Falls,MN,Minnesota,True,,18914.0,25.8,27111,Otter Tail,"{""27111"": 100}",Otter Tail,27111,False,False,America/Chicago,"(46.27697, -96.08977)",4.172252508488937,18914.0,48761_0_no,46.22252567776465,-96.12754181981836,5.0

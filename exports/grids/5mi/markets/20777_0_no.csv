@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29038,33.37494,-80.98095,Cope,SC,South Carolina,True,,2280.0,10.4,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York,"(33.37494, -80.98095)",4.347049434419421,2280.0,20777_0_no,33.31817634977516,-81.013431740088,5.0

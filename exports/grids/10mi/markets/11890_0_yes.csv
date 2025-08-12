@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54102,45.50278,-88.00524,Amberg,WI,Wisconsin,True,,737.0,3.0,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago,"(45.50278, -88.00524)",5.685676845329789,2151.0,11890_0_yes,45.53030408236199,-87.89456531025311,10.0
+54156,45.60099,-87.93963,Pembine,WI,Wisconsin,True,,1414.0,5.5,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago,"(45.60099, -87.93963)",5.348323233839468,2151.0,11890_0_yes,45.53030408236199,-87.89456531025311,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79738,32.73625,-101.48269,Gail,TX,Texas,True,,187.0,0.2,48033,Borden,"{""48033"": 100}",Borden,48033,False,False,America/Chicago,"(32.73625, -101.48269)",4.790802711658453,187.0,19527_0_no,32.75228380656689,-101.56289365421436,5.0

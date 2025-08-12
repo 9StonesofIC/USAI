@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31606,30.7963,-83.18647,Valdosta,GA,Georgia,True,,3196.0,27.7,13185,Lowndes,"{""13185"": 93.91, ""13101"": 6.09}",Lowndes|Echols,13185|13101,False,False,America/New_York,"(30.7963, -83.18647)",4.012753400455101,3196.0,14905_0_no,30.85437403534399,-83.1871777731117,5.0

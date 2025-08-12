@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34498,29.03299,-82.734,Yankeetown,FL,Florida,True,,570.0,30.0,12075,Levy,"{""12075"": 100}",Levy,12075,False,False,America/New_York,"(29.03299, -82.734)",6.451071525249096,570.0,10299_0_no,28.968301247592542,-82.81097830889131,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67635,39.60025,-100.45484,Dresden,KS,Kansas,True,,156.0,0.6,20039,Decatur,"{""20039"": 69.76, ""20179"": 30.24}",Decatur|Sheridan,20039|20179,False,False,America/Chicago,"(39.60025, -100.45484)",2.7418930883086365,156.0,35037_0_yes,39.63759275897363,-100.43740714812556,5.0

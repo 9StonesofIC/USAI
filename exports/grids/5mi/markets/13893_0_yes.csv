@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39562,30.54573,-88.49039,Moss Point,MS,Mississippi,True,,17447.0,33.4,28059,Jackson,"{""28059"": 100}",Jackson,28059,False,False,America/Chicago,"(30.54573, -88.49039)",4.1938731677221215,30843.0,13893_0_yes,30.49510614505097,-88.45151422604413,5.0
+39563,30.42449,-88.52601,Moss Point,MS,Mississippi,True,,13396.0,260.2,28059,Jackson,"{""28059"": 100}",Jackson,28059,False,False,America/Chicago,"(30.42449, -88.52601)",6.594751646171338,30843.0,13893_0_yes,30.49510614505097,-88.45151422604413,5.0

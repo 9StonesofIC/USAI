@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30251,33.18871,-84.69983,Luthersville,GA,Georgia,True,,1882.0,20.0,13199,Meriwether,"{""13199"": 97.18, ""13077"": 2.82}",Meriwether|Coweta,13199|13077,False,False,America/New_York,"(33.18871, -84.69983)",1.0541655971996333,1882.0,20457_0_no,33.175749913677016,-84.70944939962867,5.0

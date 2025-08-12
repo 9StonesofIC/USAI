@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65484,37.36348,-92.22052,Huggins,MO,Missouri,True,,68.0,0.9,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago,"(37.36348, -92.22052)",1.723572341347261,290.0,30172_0_no,37.38510500862744,-92.2048718490022,5.0
+65660,37.32624,-92.26998,Graff,MO,Missouri,True,,222.0,3.2,29229,Wright,"{""29229"": 81.68, ""29215"": 18.32}",Wright|Texas,29229|29215,False,False,America/Chicago,"(37.32624, -92.26998)",5.415578881785004,290.0,30172_0_no,37.38510500862744,-92.2048718490022,5.0

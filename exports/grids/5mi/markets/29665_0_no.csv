@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93513,37.18401,-118.17129,Big Pine,CA,California,True,,1461.0,1.4,6027,Inyo,"{""06027"": 100}",Inyo,06027,False,False,America/Los_Angeles,"(37.18401, -118.17129)",5.472166164119885,1461.0,29665_0_no,37.11511434548184,-118.22029933161744,5.0

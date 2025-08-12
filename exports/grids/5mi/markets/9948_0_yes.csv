@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34428,28.9608,-82.63421,Crystal River,FL,Florida,True,,9334.0,53.7,12017,Citrus,"{""12017"": 100}",Citrus,12017,False,False,America/New_York,"(28.9608, -82.63421)",5.238248826730797,17773.0,9948_0_yes,28.89559648499048,-82.59001391362536,5.0
+34429,28.85737,-82.65152,Crystal River,FL,Florida,True,,8439.0,78.7,12017,Citrus,"{""12017"": 100}",Citrus,12017,False,False,America/New_York,"(28.85737, -82.65152)",4.563311400995713,17773.0,9948_0_yes,28.89559648499048,-82.59001391362536,5.0

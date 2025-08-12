@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29927,32.24343,-81.04971,Hardeeville,SC,South Carolina,True,,9644.0,18.6,45053,Jasper,"{""45053"": 99.67, ""45013"": 0.33}",Jasper|Beaufort,45053|45013,False,False,America/New_York,"(32.24343, -81.04971)",5.133904897474038,9644.0,18373_0_no,32.303186940980346,-80.99748040110043,5.0

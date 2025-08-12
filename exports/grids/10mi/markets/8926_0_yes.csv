@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81650,39.75926,-108.11201,Rifle,CO,Colorado,True,,13758.0,5.2,8103,Rio Blanco,"{""08103"": 59.93, ""08045"": 40.07}",Rio Blanco|Garfield,08103|08045,False,False,America/Denver,"(39.75926, -108.11201)",1.576125866113272,13758.0,8926_0_yes,39.77498889268171,-108.0905155498246,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32358,30.09535,-84.54468,Sopchoppy,FL,Florida,True,,1481.0,3.2,12129,Wakulla,"{""12129"": 84.78, ""12037"": 15.22}",Wakulla|Franklin,12129|12037,False,False,America/New_York,"(30.09535, -84.54468)",3.6792850395472287,1481.0,13152_0_no,30.129944255106512,-84.4978807593157,5.0

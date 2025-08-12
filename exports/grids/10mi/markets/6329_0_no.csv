@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86334,34.94847,-112.53946,Paulden,AZ,Arizona,True,,4778.0,7.2,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.94847, -112.53946)",4.190592406303719,4778.0,6329_0_no,34.99919237541613,-112.49887790152296,10.0

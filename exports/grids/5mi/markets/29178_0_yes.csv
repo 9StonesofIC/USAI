@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42129,36.99,-85.58992,Edmonton,KY,Kentucky,True,,6553.0,13.1,21169,Metcalfe,"{""21169"": 95.1, ""21001"": 4.9}",Metcalfe|Adair,21169|21001,False,False,America/Chicago,"(36.99, -85.58992)",2.25206901062455,6553.0,29178_0_yes,37.01769206859821,-85.56839258504014,5.0

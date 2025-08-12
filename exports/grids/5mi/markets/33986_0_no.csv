@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47037,39.16431,-85.31908,Osgood,IN,Indiana,True,,4644.0,22.5,18137,Ripley,"{""18137"": 98.58, ""18079"": 1.42}",Ripley|Jennings,18137|18079,False,False,America/Indiana/Indianapolis,"(39.16431, -85.31908)",3.9814621454285946,4644.0,33986_0_no,39.11839714910612,-85.27418258214368,5.0

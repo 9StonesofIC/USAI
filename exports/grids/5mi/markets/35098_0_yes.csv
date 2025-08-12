@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84648,39.68659,-111.86819,Nephi,UT,Utah,True,,6659.0,15.3,49023,Juab,"{""49023"": 100}",Juab,49023,False,False,America/Denver,"(39.68659, -111.86819)",2.765473347309723,6659.0,35098_0_yes,39.64682229202215,-111.8740777155352,5.0

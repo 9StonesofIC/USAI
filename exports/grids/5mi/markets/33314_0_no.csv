@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22664,38.8944,-78.53119,Woodstock,VA,Virginia,True,,9528.0,81.1,51171,Shenandoah,"{""51171"": 100}",Shenandoah,51171,False,False,America/New_York,"(38.8944, -78.53119)",5.527380987127394,15938.0,33314_0_no,38.8233507112147,-78.57840577656026,5.0
+22824,38.84743,-78.6278,Edinburg,VA,Virginia,True,,6410.0,29.0,51171,Shenandoah,"{""51171"": 100}",Shenandoah,51171,False,False,America/New_York,"(38.84743, -78.6278)",3.13610236139017,15938.0,33314_0_no,38.8233507112147,-78.57840577656026,5.0

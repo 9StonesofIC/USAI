@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81067,38.01674,-103.72326,Rocky Ford,CO,Colorado,True,,5436.0,9.7,8089,Otero,"{""08089"": 100}",Otero,08089,False,False,America/Denver,"(38.01674, -103.72326)",2.063392674245563,5436.0,31549_0_yes,38.04616691502129,-103.72972153494266,5.0

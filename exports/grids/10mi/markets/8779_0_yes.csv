@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84638,39.50192,-112.25773,Leamington,UT,Utah,True,,362.0,3.1,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(39.50192, -112.25773)",1.2156247988182112,489.0,8779_0_yes,39.49199022228738,-112.27655177013617,10.0
+84640,39.47622,-112.39942,Lynndyl,UT,Utah,True,,127.0,0.7,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(39.47622, -112.39942)",6.642100233673075,489.0,8779_0_yes,39.49199022228738,-112.27655177013617,10.0

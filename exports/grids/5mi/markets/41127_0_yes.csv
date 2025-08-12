@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48827,42.509,-84.65971,Eaton Rapids,MI,Michigan,True,,15873.0,53.8,26045,Eaton,"{""26045"": 82.25, ""26065"": 15.85, ""26075"": 1.9}",Eaton|Ingham|Jackson,26045|26065|26075,False,False,America/Detroit,"(42.509, -84.65971)",1.1851716644180887,15873.0,41127_0_yes,42.521178418764826,-84.6433219303507,5.0

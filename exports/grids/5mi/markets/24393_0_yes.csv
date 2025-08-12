@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93560,34.87116,-118.32594,Rosamond,CA,California,True,,20988.0,48.3,6029,Kern,"{""06029"": 95.18, ""06037"": 4.82}",Kern|Los Angeles,06029|06037,False,False,America/Los_Angeles,"(34.87116, -118.32594)",0.8630069340873852,20988.0,24393_0_yes,34.86729821398454,-118.31146218848576,5.0

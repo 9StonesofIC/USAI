@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65708,36.91048,-93.90899,Monett,MO,Missouri,True,,13202.0,59.1,29009,Barry,"{""29009"": 69.04, ""29109"": 30.96}",Barry|Lawrence,29009|29109,False,False,America/Chicago,"(36.91048, -93.90899)",2.9958478021432438,13202.0,28897_0_yes,36.87913894030257,-93.94645581461356,5.0

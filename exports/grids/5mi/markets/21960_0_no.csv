@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87824,33.82708,-108.97731,Luna,NM,New Mexico,True,,63.0,0.2,35003,Catron,"{""35003"": 100}",Catron,35003,False,False,America/Denver,"(33.82708, -108.97731)",4.461760777688343,63.0,21960_0_no,33.772767726779485,-108.93527379248366,5.0

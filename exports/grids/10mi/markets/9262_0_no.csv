@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95923,40.18385,-121.13672,Canyon Dam,CA,California,True,,27.0,1.0,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(40.18385, -121.13672)",5.258276564970954,27.0,9262_0_no,40.230920549399485,-121.05841696701472,10.0

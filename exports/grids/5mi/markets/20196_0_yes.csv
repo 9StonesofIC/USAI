@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75135,33.06666,-96.22567,Caddo Mills,TX,Texas,True,,7183.0,42.1,48231,Hunt,"{""48231"": 100}",Hunt,48231,False,False,America/Chicago,"(33.06666, -96.22567)",3.3719588770890225,7183.0,20196_0_yes,33.11116513192366,-96.201768355925,5.0

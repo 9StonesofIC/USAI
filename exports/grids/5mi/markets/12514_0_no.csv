@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77473,29.79459,-96.1038,San Felipe,TX,Texas,True,,38.0,146.1,48015,Austin,"{""48015"": 100}",Austin,48015,False,False,America/Chicago,"(29.79459, -96.1038)",3.632932030993933,13385.0,12514_0_no,29.84712917775751,-96.10618771423398,5.0
+77474,29.77583,-96.18518,Sealy,TX,Texas,True,,13347.0,24.9,48015,Austin,"{""48015"": 98.1, ""48089"": 1.9}",Austin|Colorado,48015|48089,False,False,America/Chicago,"(29.77583, -96.18518)",6.833319411541374,13385.0,12514_0_no,29.84712917775751,-96.10618771423398,5.0

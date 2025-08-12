@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24586,36.60776,-79.2828,Ringgold,VA,Virginia,True,,5334.0,38.4,51143,Pittsylvania,"{""51143"": 100}",Pittsylvania,51143,False,False,America/New_York,"(36.60776, -79.2828)",2.798639836944424,7267.0,28160_0_yes,36.57822045033169,-79.31731817019892,5.0
+27315,36.50613,-79.39173,Providence,NC,North Carolina,True,,1933.0,29.0,37033,Caswell,"{""37033"": 100}",Caswell,37033,False,False,America/New_York,"(36.50613, -79.39173)",6.470900929264644,7267.0,28160_0_yes,36.57822045033169,-79.31731817019892,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43103,39.72484,-82.93428,Ashville,OH,Ohio,True,,11346.0,52.4,39129,Pickaway,"{""39129"": 99.39, ""39045"": 0.61}",Pickaway|Fairfield,39129|39045,False,False,America/New_York,"(39.72484, -82.93428)",3.488215740261195,11346.0,35236_0_no,39.6958934775106,-82.88051202519493,5.0

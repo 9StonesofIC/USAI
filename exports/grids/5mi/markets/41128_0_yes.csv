@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48813,42.57862,-84.84524,Charlotte,MI,Michigan,True,,20688.0,47.5,26045,Eaton,"{""26045"": 99.86, ""26025"": 0.14}",Eaton|Calhoun,26045|26025,False,False,America/Detroit,"(42.57862, -84.84524)",3.969297229141835,20688.0,41128_0_yes,42.5213457727807,-84.83917450766683,5.0

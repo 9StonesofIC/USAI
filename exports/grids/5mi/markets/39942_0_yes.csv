@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61285,41.98307,-90.0811,Thomson,IL,Illinois,True,,1828.0,15.9,17015,Carroll,"{""17015"": 100}",Carroll,17015,False,False,America/Chicago,"(41.98307, -90.0811)",2.811387675462323,1828.0,39942_0_yes,41.94659789086686,-90.05683848466965,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62642,40.09022,-89.71303,Greenview,IL,Illinois,True,,1346.0,7.1,17129,Menard,"{""17129"": 100}",Menard,17129,False,False,America/Chicago,"(40.09022, -89.71303)",1.8609275000338974,1346.0,35923_0_yes,40.06351720949183,-89.71762723118945,5.0

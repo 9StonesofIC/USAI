@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16313,41.72294,-79.13884,Clarendon,PA,Pennsylvania,True,,1785.0,6.0,42123,Warren,"{""42123"": 100}",Warren,42123,False,False,America/New_York,"(41.72294, -79.13884)",3.5286241405550713,1974.0,39554_0_no,41.7201811347599,-79.07051658301795,5.0
+16352,41.76615,-79.03644,Tiona,PA,Pennsylvania,True,,189.0,6.6,42123,Warren,"{""42123"": 100}",Warren,42123,False,False,America/New_York,"(41.76615, -79.03644)",3.6296130847312282,1974.0,39554_0_no,41.7201811347599,-79.07051658301795,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57657,45.51599,-100.7776,Trail City,SD,South Dakota,True,,195.0,0.4,46031,Corson,"{""46031"": 77.87, ""46041"": 22.13}",Corson|Dewey,46031|46041,False,False,America/Denver,"(45.51599, -100.7776)",6.1363350203599865,195.0,47387_0_yes,45.57548367454899,-100.87175451629234,5.0

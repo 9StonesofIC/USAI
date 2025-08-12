@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81235,37.99363,-107.33098,Lake City,CO,Colorado,True,,740.0,0.5,8053,Hinsdale,"{""08053"": 100}",Hinsdale,08053,False,False,America/Denver,"(37.99363, -107.33098)",5.237734751426477,740.0,31569_0_yes,38.04902642832973,-107.39666846219792,5.0

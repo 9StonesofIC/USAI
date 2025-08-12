@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99155,48.27737,-118.9618,Nespelem,WA,Washington,True,,1231.0,1.6,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.27737, -118.9618)",4.8500010627915655,1231.0,52753_0_no,48.26987127002086,-119.06666159464966,5.0

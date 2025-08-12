@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59710,45.06801,-112.08613,Alder,MT,Montana,True,,243.0,0.1,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver,"(45.06801, -112.08613)",8.929889700969873,243.0,11660_0_yes,44.994685694081454,-111.93553185630594,10.0

@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44610,40.56078,-81.80139,Berlin,OH,Ohio,True,,128.0,187.9,39075,Holmes,"{""39075"": 100}",Holmes,39075,False,False,America/New_York,"(40.56078, -81.80139)",1.6005087972012448,571.0,37105_0_no,40.56398912172528,-81.7711924235983,5.0
+44687,40.53941,-81.71189,Walnut Creek,OH,Ohio,True,,278.0,202.1,39075,Holmes,"{""39075"": 100}",Holmes,39075,False,False,America/New_York,"(40.53941, -81.71189)",3.546357093811669,571.0,37105_0_no,40.56398912172528,-81.7711924235983,5.0
+44690,40.61353,-81.69391,Winesburg,OH,Ohio,True,,165.0,321.9,39075,Holmes,"{""39075"": 100}",Holmes,39075,False,False,America/New_York,"(40.61353, -81.69391)",5.306537248843037,571.0,37105_0_no,40.56398912172528,-81.7711924235983,5.0

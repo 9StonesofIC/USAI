@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65470,37.54872,-92.40287,Falcon,MO,Missouri,True,,1250.0,4.5,29105,Laclede,"{""29105"": 88.02, ""29229"": 11.98}",Laclede|Wright,29105|29229,False,False,America/Chicago,"(37.54872, -92.40287)",4.091202793402757,1250.0,30517_0_yes,37.60257357702509,-92.37181123018772,5.0

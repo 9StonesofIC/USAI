@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57248,44.58063,-97.19328,Lake Norden,SD,South Dakota,True,,1101.0,6.3,46057,Hamlin,"{""46057"": 83.26, ""46077"": 16.74}",Hamlin|Kingsbury,46057|46077,False,False,America/Chicago,"(44.58063, -97.19328)",2.8747853094284457,1101.0,45345_0_yes,44.558960799807615,-97.2431386473436,5.0

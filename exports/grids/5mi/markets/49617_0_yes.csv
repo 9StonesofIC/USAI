@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55726,46.67027,-92.83209,Cromwell,MN,Minnesota,True,,1059.0,4.6,27017,Carlton,"{""27017"": 100}",Carlton,27017,False,False,America/Chicago,"(46.67027, -92.83209)",4.547797290751037,1235.0,49617_0_yes,46.72589125930116,-92.78077376182512,5.0
+55780,46.67505,-92.68321,Sawyer,MN,Minnesota,True,,176.0,3.6,27017,Carlton,"{""27017"": 100}",Carlton,27017,False,False,America/Chicago,"(46.67505, -92.68321)",5.80624774715442,1235.0,49617_0_yes,46.72589125930116,-92.78077376182512,5.0

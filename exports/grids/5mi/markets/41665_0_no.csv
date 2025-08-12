@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14507,42.69635,-77.27373,Middlesex,NY,New York,True,,894.0,11.0,36123,Yates,"{""36123"": 100}",Yates,36123,False,False,America/New_York,"(42.69635, -77.27373)",4.513978489795784,894.0,41665_0_no,42.73213592861955,-77.34812131999333,5.0

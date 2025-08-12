@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95570,41.11375,-124.08037,Trinidad,CA,California,True,,2599.0,19.2,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(41.11375, -124.08037)",2.0664411338791724,2599.0,38280_0_yes,41.105931957713466,-124.04205557881392,5.0

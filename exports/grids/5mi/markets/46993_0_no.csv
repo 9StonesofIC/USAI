@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49705,45.34826,-84.45824,Afton,MI,Michigan,True,,922.0,5.3,26031,Cheboygan,"{""26031"": 100}",Cheboygan,26031,False,False,America/Detroit,"(45.34826, -84.45824)",0.35282642519562185,922.0,46993_0_no,45.343653266123184,-84.45510509519087,5.0

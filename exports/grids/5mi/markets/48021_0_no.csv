@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97838,45.85266,-119.28878,Hermiston,OR,Oregon,True,,26071.0,49.7,41059,Umatilla,"{""41059"": 75.52, ""41049"": 24.48}",Umatilla|Morrow,41059|41049,False,False,America/Los_Angeles,"(45.85266, -119.28878)",3.5842862470229337,26071.0,48021_0_no,45.809369548462605,-119.32980330692108,5.0

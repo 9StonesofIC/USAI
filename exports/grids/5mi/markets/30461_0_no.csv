@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42748,37.57029,-85.70952,Hodgenville,KY,Kentucky,True,,9425.0,28.4,21123,Larue,"{""21123"": 99.81, ""21093"": 0.19}",Larue|Hardin,21123|21093,False,False,America/New_York,"(37.57029, -85.70952)",4.526528756351101,9425.0,30461_0_no,37.52506526838608,-85.76930377784925,5.0

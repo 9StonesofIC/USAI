@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71725,34.03791,-92.53252,Carthage,AR,Arkansas,True,,268.0,0.5,5039,Dallas,"{""05039"": 84.24, ""05025"": 15.76}",Dallas|Cleveland,05039|05025,False,False,America/Chicago,"(34.03791, -92.53252)",5.725177297951517,268.0,22221_0_yes,33.97874494009956,-92.602503179744,5.0

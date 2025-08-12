@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80812,39.67901,-102.89161,Cope,CO,Colorado,True,,246.0,0.6,8121,Washington,"{""08121"": 95.54, ""08125"": 4.46}",Washington|Yuma,08121|08125,False,False,America/Denver,"(39.67901, -102.89161)",2.8719690507164892,246.0,35050_0_yes,39.63955945655092,-102.87460292036488,5.0

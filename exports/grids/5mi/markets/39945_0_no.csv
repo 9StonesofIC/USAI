@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51558,41.91497,-95.87023,Moorhead,IA,Iowa,True,,603.0,2.7,19133,Monona,"{""19133"": 90.83, ""19085"": 9.17}",Monona|Harrison,19133|19085,False,False,America/Chicago,"(41.91497, -95.87023)",3.137641685773067,967.0,39945_0_no,41.87911433788854,-95.83279142975827,5.0
+51564,41.81309,-95.90801,Pisgah,IA,Iowa,True,,364.0,3.8,19085,Harrison,"{""19085"": 100}",Harrison,19085,False,False,America/Chicago,"(41.81309, -95.90801)",5.98324285041103,967.0,39945_0_no,41.87911433788854,-95.83279142975827,5.0

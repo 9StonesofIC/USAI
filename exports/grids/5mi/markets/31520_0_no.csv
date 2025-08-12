@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81047,38.03226,-102.19206,Holly,CO,Colorado,True,,1535.0,1.0,8099,Prowers,"{""08099"": 96.36, ""08061"": 3.64}",Prowers|Kiowa,08099|08061,False,False,America/Denver,"(38.03226, -102.19206)",4.191280094415712,1535.0,31520_0_no,37.97255282146388,-102.2056583282078,5.0

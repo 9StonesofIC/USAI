@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31796,31.77351,-83.87659,Warwick,GA,Georgia,True,,1462.0,8.0,13321,Worth,"{""13321"": 99.1, ""13081"": 0.9}",Worth|Crisp,13321|13081,False,False,America/New_York,"(31.77351, -83.87659)",4.695578882260163,1462.0,17004_0_no,31.725010280574875,-83.82060672928169,5.0

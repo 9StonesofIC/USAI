@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63845,36.70944,-89.31505,East Prairie,MO,Missouri,True,,5628.0,11.5,29133,Mississippi,"{""29133"": 86.87, ""29143"": 13.13}",Mississippi|New Madrid,29133|29143,False,False,America/Chicago,"(36.70944, -89.31505)",4.1977402796856085,5628.0,28524_0_no,36.658235752153104,-89.27427501450107,5.0

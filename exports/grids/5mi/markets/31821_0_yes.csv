@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64745,38.15662,-94.50384,Foster,MO,Missouri,True,,64.0,16.1,29013,Bates,"{""29013"": 100}",Bates,29013,False,False,America/Chicago,"(38.15662, -94.50384)",1.8846513486618182,64.0,31821_0_yes,38.18388345156604,-94.50275235376716,5.0

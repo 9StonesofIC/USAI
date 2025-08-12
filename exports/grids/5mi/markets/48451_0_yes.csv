@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49793,46.21221,-85.04417,Trout Lake,MI,Michigan,True,,164.0,0.8,26033,Chippewa,"{""26033"": 79.41, ""26097"": 20.59}",Chippewa|Mackinac,26033|26097,False,False,America/Detroit,"(46.21221, -85.04417)",5.4820795765756785,164.0,48451_0_yes,46.13997301099181,-84.99677316260625,5.0

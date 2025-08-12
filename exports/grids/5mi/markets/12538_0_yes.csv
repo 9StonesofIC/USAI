@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78133,29.88119,-98.24624,Canyon Lake,TX,Texas,True,,19405.0,99.2,48091,Comal,"{""48091"": 100}",Comal,48091,False,False,America/Chicago,"(29.88119, -98.24624)",5.59018876418909,20449.0,12538_0_yes,29.92095182964913,-98.16495710383674,5.0
+78623,29.95973,-98.21933,Fischer,TX,Texas,True,,1044.0,18.0,48091,Comal,"{""48091"": 92.25, ""48209"": 7.75}",Comal|Hays,48091|48209,False,False,America/Chicago,"(29.95973, -98.21933)",4.216238433268525,20449.0,12538_0_yes,29.92095182964913,-98.16495710383674,5.0

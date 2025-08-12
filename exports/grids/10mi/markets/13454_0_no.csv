@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59244,48.62832,-106.30945,Larslan,MT,Montana,True,,21.0,0.0,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver,"(48.62832, -106.30945)",9.10121280602612,21.0,13454_0_no,48.60238935536096,-106.5047966797446,10.0

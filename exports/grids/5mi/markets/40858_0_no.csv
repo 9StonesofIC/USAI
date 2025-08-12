@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51054,42.37832,-96.33159,Sergeant Bluff,IA,Iowa,True,,5423.0,54.1,19193,Woodbury,"{""19193"": 100}",Woodbury,19193,False,False,America/Chicago,"(42.37832, -96.33159)",6.128325999428412,6084.0,40858_0_no,42.3140658974654,-96.41431724103684,5.0
+68030,42.3184,-96.45057,Homer,NE,Nebraska,True,,661.0,6.6,31043,Dakota,"{""31043"": 100}",Dakota,31043,False,False,America/Chicago,"(42.3184, -96.45057)",1.8762222215906899,6084.0,40858_0_no,42.3140658974654,-96.41431724103684,5.0

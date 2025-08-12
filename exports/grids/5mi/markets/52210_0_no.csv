@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98813,48.01107,-119.61063,Bridgeport,WA,Washington,True,,3012.0,11.6,53017,Douglas,"{""53017"": 76.94, ""53047"": 23.06}",Douglas|Okanogan,53017|53047,False,False,America/Los_Angeles,"(48.01107, -119.61063)",4.247851667471941,3012.0,52210_0_no,47.98086234035523,-119.53061171354544,5.0

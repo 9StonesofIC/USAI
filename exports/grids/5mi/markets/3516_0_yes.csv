@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78550,26.25469,-97.66406,Harlingen,TX,Texas,True,,52022.0,213.3,48061,Cameron,"{""48061"": 100}",Cameron,48061,False,False,America/Chicago,"(26.25469, -97.66406)",4.55792356539925,52022.0,3516_0_yes,26.292045585613657,-97.60342418608596,5.0

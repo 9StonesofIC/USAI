@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57264,45.10863,-96.80254,Stockholm,SD,South Dakota,True,,282.0,2.5,46051,Grant,"{""46051"": 100}",Grant,46051,False,False,America/Chicago,"(45.10863, -96.80254)",2.917476895723701,282.0,46504_0_yes,45.13754728964044,-96.75893185084908,5.0

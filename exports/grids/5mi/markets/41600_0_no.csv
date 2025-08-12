@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97532,42.56142,-123.58586,Merlin,OR,Oregon,True,,2621.0,12.0,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles,"(42.56142, -123.58586)",4.93822179917945,2621.0,41600_0_no,42.62691447234443,-123.54699312479764,5.0

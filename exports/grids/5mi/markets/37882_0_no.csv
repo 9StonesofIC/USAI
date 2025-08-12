@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84010,40.87433,-111.83042,Bountiful,UT,Utah,True,,46326.0,470.5,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver,"(40.87433, -111.83042)",4.4705245658387645,46326.0,37882_0_no,40.8784278387507,-111.74502028448607,5.0

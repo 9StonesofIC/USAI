@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30625,33.52128,-83.34211,Buckhead,GA,Georgia,True,,2582.0,21.0,13211,Morgan,"{""13211"": 88.63, ""13237"": 11.37}",Morgan|Putnam,13211|13237,False,False,America/New_York,"(33.52128, -83.34211)",4.102898081278007,2582.0,21132_0_no,33.46480187244468,-83.36410409947902,5.0

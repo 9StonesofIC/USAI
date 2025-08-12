@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79846,29.41684,-103.98559,Redford,TX,Texas,True,,23.0,0.0,48377,Presidio,"{""48377"": 100}",Presidio,48377,False,False,America/Chicago,"(29.41684, -103.98559)",2.304758604680011,23.0,11497_0_no,29.416736016408606,-104.0238842553126,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62438,39.32553,-88.87005,Lakewood,IL,Illinois,True,,331.0,5.5,17173,Shelby,"{""17173"": 100}",Shelby,17173,False,False,America/Chicago,"(39.32553, -88.87005)",4.996666417200296,727.0,34343_0_yes,39.3384568712376,-88.7780602526867,5.0
+62444,39.27853,-88.73474,Mode,IL,Illinois,True,,396.0,5.4,17173,Shelby,"{""17173"": 100}",Shelby,17173,False,False,America/Chicago,"(39.27853, -88.73474)",4.7442307054705335,727.0,34343_0_yes,39.3384568712376,-88.7780602526867,5.0

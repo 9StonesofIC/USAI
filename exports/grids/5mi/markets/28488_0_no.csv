@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24244,36.71075,-82.79785,Duffield,VA,Virginia,True,,6085.0,13.9,51169,Scott,"{""51169"": 82.7, ""51105"": 17.3}",Scott|Lee,51169|51105,False,False,America/New_York,"(36.71075, -82.79785)",3.97095702465119,6085.0,28488_0_no,36.65333994480464,-82.79451581512006,5.0

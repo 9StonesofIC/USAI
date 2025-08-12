@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83650,42.87041,-116.65518,Murphy,ID,Idaho,True,,558.0,0.1,16073,Owyhee,"{""16073"": 100}",Owyhee,16073,False,False,America/Boise,"(42.87041, -116.65518)",4.469498729993284,558.0,41892_0_yes,42.83831128667912,-116.73179061550354,5.0

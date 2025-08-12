@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65326,38.16271,-93.1458,Edwards,MO,Missouri,True,,1665.0,4.3,29015,Benton,"{""29015"": 81.2, ""29029"": 16.83, ""29085"": 1.97}",Benton|Camden|Hickory,29015|29029|29085,False,False,America/Chicago,"(38.16271, -93.1458)",3.8203697047574035,1665.0,31793_0_no,38.11042754955707,-93.16867939260383,5.0

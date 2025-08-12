@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62218,38.52069,-89.47738,Bartelso,IL,Illinois,True,,1896.0,16.0,17027,Clinton,"{""17027"": 100}",Clinton,17027,False,False,America/Chicago,"(38.52069, -89.47738)",5.398477739021158,1896.0,32435_0_yes,38.46968013636945,-89.40176080593348,5.0

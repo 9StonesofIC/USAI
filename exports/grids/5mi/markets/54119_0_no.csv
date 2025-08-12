@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98276,48.92765,-122.32096,Nooksack,WA,Washington,True,,713.0,389.2,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.92765, -122.32096)",5.087576415090613,3597.0,54119_0_no,48.996482035302414,-122.2811255272982,5.0
+98295,48.97163,-122.2213,Sumas,WA,Washington,True,,2884.0,35.6,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.97163, -122.2213)",3.210502757132672,3597.0,54119_0_no,48.996482035302414,-122.2811255272982,5.0

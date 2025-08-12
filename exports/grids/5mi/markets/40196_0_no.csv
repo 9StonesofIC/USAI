@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49072,42.01295,-85.45825,Mendon,MI,Michigan,True,,2726.0,18.0,26149,St. Joseph,"{""26149"": 96.33, ""26077"": 3.67}",St. Joseph|Kalamazoo,26149|26077,False,False,America/Detroit,"(42.01295, -85.45825)",0.555612988755349,2726.0,40196_0_no,42.01516479837572,-85.4686546565281,5.0

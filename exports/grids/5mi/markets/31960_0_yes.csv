@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95375,38.21493,-119.97031,Strawberry,CA,California,True,,5.0,0.1,6109,Tuolumne,"{""06109"": 100}",Tuolumne,06109,False,False,America/Los_Angeles,"(38.21493, -119.97031)",3.802920693664541,5.0,31960_0_yes,38.20386115076805,-120.03892650007448,5.0

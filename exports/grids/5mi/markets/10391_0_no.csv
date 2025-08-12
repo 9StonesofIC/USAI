@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78117,28.95092,-97.95736,Hobson,TX,Texas,True,,512.0,2.8,48255,Karnes,"{""48255"": 100}",Karnes,48255,False,False,America/Chicago,"(28.95092, -97.95736)",3.2765740098981504,512.0,10391_0_no,28.977625439541946,-98.00215031348692,5.0

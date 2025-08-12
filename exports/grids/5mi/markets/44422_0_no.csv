@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56093,44.06342,-93.51683,Waseca,MN,Minnesota,True,,12297.0,26.3,27161,Waseca,"{""27161"": 93.16, ""27147"": 6.08, ""27131"": 0.76}",Waseca|Steele|Rice,27161|27147|27131,False,False,America/Chicago,"(44.06342, -93.51683)",3.5581066104425707,12297.0,44422_0_no,44.04910635642919,-93.58566366637092,5.0

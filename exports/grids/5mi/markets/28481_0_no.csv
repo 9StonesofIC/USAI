@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24292,36.6147,-81.5791,Whitetop,VA,Virginia,True,,383.0,5.7,51077,Grayson,"{""51077"": 100}",Grayson,51077,False,False,America/New_York,"(36.6147, -81.5791)",3.5868703820683874,383.0,28481_0_no,36.652388083065325,-81.53461027463311,5.0

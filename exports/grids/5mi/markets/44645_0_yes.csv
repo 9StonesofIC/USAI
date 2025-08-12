@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12946,44.23162,-73.98903,Lake Placid,NY,New York,True,,4819.0,13.6,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.23162, -73.98903)",1.3644365235160156,6582.0,44645_0_yes,44.24892908979546,-74.0022989859804,5.0
+12977,44.29484,-74.09673,Ray Brook,NY,New York,True,,1763.0,547.4,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.29484, -74.09673)",5.646976993754859,6582.0,44645_0_yes,44.24892908979546,-74.0022989859804,5.0

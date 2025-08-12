@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52653,41.16642,-91.15597,Wapello,IA,Iowa,True,,3175.0,11.0,19115,Louisa,"{""19115"": 100}",Louisa,19115,False,False,America/Chicago,"(41.16642, -91.15597)",1.3032586418854035,3175.0,38391_0_no,41.15106999258538,-91.17052973452806,5.0

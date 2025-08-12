@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32631,29.71719,-82.10225,Earleton,FL,Florida,True,,298.0,25.0,12001,Alachua,"{""12001"": 100}",Alachua,12001,False,False,America/New_York,"(29.71719, -82.10225)",4.897694572847801,16556.0,12076_0_no,29.693283581649307,-82.17907848943325,5.0
+32641,29.62956,-82.22557,Gainesville,FL,Florida,True,,16258.0,91.4,12001,Alachua,"{""12001"": 100}",Alachua,12001,False,False,America/New_York,"(29.62956, -82.22557)",5.21314925520109,16556.0,12076_0_no,29.693283581649307,-82.17907848943325,5.0

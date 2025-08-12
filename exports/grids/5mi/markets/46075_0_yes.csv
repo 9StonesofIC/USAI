@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04408,44.9877,-68.23246,Aurora,ME,Maine,True,,164.0,0.2,23009,Hancock,"{""23009"": 100}",Hancock,23009,False,False,America/New_York,"(44.9877, -68.23246)",2.1092020232653925,164.0,46075_0_yes,44.96734482773025,-68.26462046224692,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84002,40.42467,-110.27784,Altonah,UT,Utah,True,,314.0,3.2,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.42467, -110.27784)",8.75563394387444,861.0,9390_0_no,40.50324664472514,-110.4085142138812,10.0
+84051,40.39552,-110.43131,Mountain Home,UT,Utah,True,,547.0,4.2,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.39552, -110.43131)",7.539086994138286,861.0,9390_0_no,40.50324664472514,-110.4085142138812,10.0

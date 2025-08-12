@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95219,38.0207,-121.51584,Stockton,CA,California,True,,29117.0,96.2,6077,San Joaquin,"{""06077"": 80.4, ""06013"": 19.6}",San Joaquin|Contra Costa,06077|06013,False,False,America/Los_Angeles,"(38.0207, -121.51584)",2.7180212683937532,29117.0,31646_0_yes,38.06003828315873,-121.51574624685806,5.0

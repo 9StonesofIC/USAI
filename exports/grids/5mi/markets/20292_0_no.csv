@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92227,32.98677,-115.3341,Brawley,CA,California,True,,27165.0,17.7,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.98677, -115.3341)",5.809633149615973,27165.0,20292_0_no,33.05185054105691,-115.27060353669218,5.0

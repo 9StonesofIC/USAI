@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72658,36.15468,-92.32301,Norfork,AR,Arkansas,True,,1273.0,5.8,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago,"(36.15468, -92.32301)",3.092320792704347,1273.0,27243_0_yes,36.153150165374655,-92.2676129833662,5.0

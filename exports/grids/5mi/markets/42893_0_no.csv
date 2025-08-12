@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48768,43.37077,-83.57661,Vassar,MI,Michigan,True,,9245.0,33.7,26157,Tuscola,"{""26157"": 100}",Tuscola,26157,False,False,America/Detroit,"(43.37077, -83.57661)",5.029809341961504,9245.0,42893_0_no,43.31660825252051,-83.64349343630387,5.0

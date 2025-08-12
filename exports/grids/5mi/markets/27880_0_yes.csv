@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38222,36.44512,-88.16288,Buchanan,TN,Tennessee,True,,2109.0,11.8,47079,Henry,"{""47079"": 100}",Henry,47079,False,False,America/Chicago,"(36.44512, -88.16288)",1.9438594458693041,2109.0,27880_0_yes,36.43998577225472,-88.19726528174711,5.0

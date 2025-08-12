@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97416,43.03524,-123.69123,Camas Valley,OR,Oregon,True,,1241.0,7.9,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.03524, -123.69123)",7.091253214420721,5729.0,10658_0_yes,42.988244779782455,-123.81601040295288,10.0
+97458,43.06372,-124.01287,Myrtle Point,OR,Oregon,True,,4488.0,4.8,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles,"(43.06372, -124.01287)",11.22793954224611,5729.0,10658_0_yes,42.988244779782455,-123.81601040295288,10.0

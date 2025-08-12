@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05363,42.88301,-72.89554,Wilmington,VT,Vermont,True,,1917.0,11.8,50025,Windham,"{""50025"": 66.67, ""50003"": 33.33}",Windham|Bennington,50025|50003,False,False,America/New_York,"(42.88301, -72.89554)",0.8017722771485124,1917.0,41943_0_no,42.87307136495644,-72.90371412618863,5.0

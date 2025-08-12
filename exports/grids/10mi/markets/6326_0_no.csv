@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86038,34.9018,-111.49161,Mormon Lake,AZ,Arizona,True,,55.0,0.2,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix,"(34.9018, -111.49161)",7.213417849440051,55.0,6326_0_no,34.997656381984065,-111.44114293708354,10.0

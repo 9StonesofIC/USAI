@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43758,39.62482,-81.9432,Malta,OH,Ohio,True,,3013.0,13.7,39115,Morgan,"{""39115"": 100}",Morgan,39115,False,False,America/New_York,"(39.62482, -81.9432)",4.8585464303694925,3013.0,35231_0_no,39.69513553391575,-81.94235932230204,5.0

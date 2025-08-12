@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95651,38.82088,-120.93515,Lotus,CA,California,True,,480.0,13.9,6017,El Dorado,"{""06017"": 100}",El Dorado,06017,False,False,America/Los_Angeles,"(38.82088, -120.93515)",2.57627322888156,7023.0,33245_0_yes,38.78442692805008,-120.92508864310904,5.0
+95672,38.72664,-120.99638,Rescue,CA,California,True,,6543.0,116.2,6017,El Dorado,"{""06017"": 100}",El Dorado,06017,False,False,America/Los_Angeles,"(38.72664, -120.99638)",5.540456585136964,7023.0,33245_0_yes,38.78442692805008,-120.92508864310904,5.0

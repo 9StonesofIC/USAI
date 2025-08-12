@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86326,34.69857,-112.01383,Cottonwood,AZ,Arizona,True,,25300.0,214.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.69857, -112.01383)",1.5950428927150715,25300.0,24021_0_yes,34.71769500062111,-111.9981021802353,5.0

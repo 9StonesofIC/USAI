@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15510,39.96435,-79.04009,Somerset,PA,Pennsylvania,True,,2588.0,5695.4,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(39.96435, -79.04009)",3.949070527221884,3655.0,35553_0_yes,39.91001568663442,-79.06322035762032,5.0
+15542,39.86742,-79.07851,Garrett,PA,Pennsylvania,True,,1067.0,11.4,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(39.86742, -79.07851)",3.0526651790762567,3655.0,35553_0_yes,39.91001568663442,-79.06322035762032,5.0

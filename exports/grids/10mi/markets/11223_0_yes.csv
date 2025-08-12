@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83435,43.98469,-112.58043,Monteview,ID,Idaho,True,,726.0,1.6,16051,Jefferson,"{""16051"": 81.42, ""16033"": 18.58}",Jefferson|Clark,16051|16033,False,False,America/Boise,"(43.98469, -112.58043)",10.147170295062253,726.0,11223_0_yes,44.127138614375056,-112.5307107770719,10.0

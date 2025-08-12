@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71040,32.78564,-93.01238,Homer,LA,Louisiana,True,,8474.0,11.2,22027,Claiborne,"{""22027"": 100}",Claiborne,22027,False,False,America/Chicago,"(32.78564, -93.01238)",3.41404861579705,8474.0,19477_0_no,32.74640164861143,-92.97666569576413,5.0

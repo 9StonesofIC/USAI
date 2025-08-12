@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43907,40.25697,-81.0205,Cadiz,OH,Ohio,True,,5430.0,13.0,39067,Harrison,"{""39067"": 96.71, ""39081"": 3.29}",Harrison|Jefferson,39067|39081,False,False,America/New_York,"(40.25697, -81.0205)",1.285413560217057,5430.0,36479_0_no,40.27371632960699,-81.00988006184038,5.0

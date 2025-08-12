@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71827,33.41186,-93.41463,Buckner,AR,Arkansas,True,,881.0,5.4,5073,Lafayette,"{""05073"": 63.35, ""05099"": 36.65}",Lafayette|Nevada,05073|05099,False,False,America/Chicago,"(33.41186, -93.41463)",4.1751507198517,881.0,21190_0_no,33.47181382453404,-93.40557942401632,5.0

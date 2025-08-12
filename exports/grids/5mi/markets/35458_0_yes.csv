@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96129,39.81848,-120.35346,Beckwourth,CA,California,True,,301.0,1.0,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.81848, -120.35346)",3.053074562867382,581.0,35458_0_yes,39.7985609869587,-120.30211402970043,5.0
+96135,39.81303,-120.20927,Vinton,CA,California,True,,280.0,3.1,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.81303, -120.20927)",5.028434610733312,581.0,35458_0_yes,39.7985609869587,-120.30211402970043,5.0

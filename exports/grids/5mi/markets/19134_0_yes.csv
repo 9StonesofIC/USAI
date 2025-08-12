@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39177,32.61286,-90.84546,Valley Park,MS,Mississippi,True,,183.0,0.7,28055,Issaquena,"{""28055"": 100}",Issaquena,28055,False,False,America/Chicago,"(32.61286, -90.84546)",4.1297695928378335,183.0,19134_0_yes,32.67240000769938,-90.85169190926564,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97702,43.98336,-121.21083,Bend,OR,Oregon,True,,50395.0,188.0,41017,Deschutes,"{""41017"": 100}",Deschutes,41017,False,False,America/Los_Angeles,"(43.98336, -121.21083)",1.6785902376586406,50395.0,44292_0_yes,44.000904264164845,-121.18747083450404,5.0

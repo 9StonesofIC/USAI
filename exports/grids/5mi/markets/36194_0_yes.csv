@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43836,40.2087,-81.71854,Plainfield,OH,Ohio,True,,135.0,427.1,39031,Coshocton,"{""39031"": 100}",Coshocton,39031,False,False,America/New_York,"(40.2087, -81.71854)",0.9286809356533455,4623.0,36194_0_yes,40.20182495622373,-81.70341753703248,5.0
+43845,40.25692,-81.73144,West Lafayette,OH,Ohio,True,,4488.0,61.1,39031,Coshocton,"{""39031"": 100}",Coshocton,39031,False,False,America/New_York,"(40.25692, -81.73144)",4.083633992013376,4623.0,36194_0_yes,40.20182495622373,-81.70341753703248,5.0

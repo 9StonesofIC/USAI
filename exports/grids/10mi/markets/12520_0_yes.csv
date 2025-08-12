@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59825,46.66009,-113.66421,Clinton,MT,Montana,True,,2341.0,2.2,30039,Granite,"{""30039"": 61.49, ""30063"": 38.51}",Granite|Missoula,30039|30063,False,False,America/Denver,"(46.66009, -113.66421)",5.432855868432935,2341.0,12520_0_yes,46.73460665803658,-113.62761240728486,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41040,38.65232,-84.33188,Falmouth,KY,Kentucky,True,,7500.0,19.4,21191,Pendleton,"{""21191"": 95.67, ""21023"": 4.33}",Pendleton|Bracken,21191|21023,False,False,America/New_York,"(38.65232, -84.33188)",4.507204661784245,7500.0,33027_0_no,38.68310183040204,-84.40554228660758,5.0

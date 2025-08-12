@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12926,44.95223,-74.32214,Constable,NY,New York,True,,2380.0,19.4,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.95223, -74.32214)",4.2362689567760174,2380.0,46078_0_no,44.90049575655226,-74.3686153106082,5.0

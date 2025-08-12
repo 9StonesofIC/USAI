@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37727,35.88885,-83.00651,Del Rio,TN,Tennessee,True,,2450.0,8.5,47029,Cocke,"{""47029"": 100}",Cocke,47029,False,False,America/New_York,"(35.88885, -83.00651)",2.768602393652053,2450.0,26842_0_no,35.928877022553635,-83.00420809066375,5.0

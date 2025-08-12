@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67035,37.64845,-98.39338,Cunningham,KS,Kansas,True,,925.0,1.6,20095,Kingman,"{""20095"": 65.68, ""20151"": 25.32, ""20155"": 9.0}",Kingman|Pratt|Reno,20095|20151|20155,False,False,America/Chicago,"(37.64845, -98.39338)",2.875584136617095,925.0,30550_0_yes,37.607217578333525,-98.38623625626003,5.0

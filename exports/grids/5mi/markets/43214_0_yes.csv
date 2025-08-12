@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48426,43.50856,-83.06025,Decker,MI,Michigan,True,,1309.0,13.5,26151,Sanilac,"{""26151"": 100}",Sanilac,26151,False,False,America/Detroit,"(43.50856, -83.06025)",4.456394593862363,2961.0,43214_0_yes,43.53311825709151,-82.97800235857143,5.0
+48472,43.51211,-82.95732,Snover,MI,Michigan,True,,1652.0,8.6,26151,Sanilac,"{""26151"": 100}",Sanilac,26151,False,False,America/Detroit,"(43.51211, -82.95732)",1.7834292896913286,2961.0,43214_0_yes,43.53311825709151,-82.97800235857143,5.0

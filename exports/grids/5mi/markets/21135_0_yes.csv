@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29107,33.52348,-81.11856,Neeses,SC,South Carolina,True,,3048.0,16.9,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York,"(33.52348, -81.11856)",2.352804776972578,3048.0,21135_0_yes,33.53571726486066,-81.15668103380366,5.0

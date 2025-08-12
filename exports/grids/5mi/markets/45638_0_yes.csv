@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57271,44.75179,-97.55161,Vienna,SD,South Dakota,True,,279.0,1.7,46025,Clark,"{""46025"": 83.01, ""46057"": 16.99}",Clark|Hamlin,46025|46057,False,False,America/Chicago,"(44.75179, -97.55161)",3.585745965010781,279.0,45638_0_yes,44.70402075619212,-97.58015941685971,5.0

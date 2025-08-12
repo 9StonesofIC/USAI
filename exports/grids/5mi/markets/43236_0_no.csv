@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50455,43.45695,-92.64981,McIntire,IA,Iowa,True,,506.0,6.0,19131,Mitchell,"{""19131"": 100}",Mitchell,19131,False,False,America/Chicago,"(43.45695, -92.64981)",2.3381713825741306,1174.0,43236_0_no,43.46923698841357,-92.69325249399198,5.0
+50476,43.4527,-92.76311,Stacyville,IA,Iowa,True,,668.0,6.7,19131,Mitchell,"{""19131"": 99.8, ""27099"": 0.2}",Mitchell|Mower,19131|27099,False,False,America/Chicago,"(43.4527, -92.76311)",3.6850369246097743,1174.0,43236_0_no,43.46923698841357,-92.69325249399198,5.0

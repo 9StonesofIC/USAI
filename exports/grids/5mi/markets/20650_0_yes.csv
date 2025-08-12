@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92257,33.33976,-115.52814,Niland,CA,California,True,,1217.0,1.7,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(33.33976, -115.52814)",5.128185421321728,1217.0,20650_0_yes,33.269597075475595,-115.49917731266486,5.0

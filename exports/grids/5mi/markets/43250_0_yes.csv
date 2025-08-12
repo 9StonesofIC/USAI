@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53941,43.57947,-90.13694,La Valle,WI,Wisconsin,True,,3151.0,17.7,55111,Sauk,"{""55111"": 94.1, ""55057"": 5.57, ""55103"": 0.33}",Sauk|Juneau|Richland,55111|55057|55103,False,False,America/Chicago,"(43.57947, -90.13694)",2.806930665622982,3151.0,43250_0_yes,43.5393593357153,-90.14583377978418,5.0

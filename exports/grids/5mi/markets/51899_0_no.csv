@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59433,47.89565,-111.68483,Dutton,MT,Montana,True,,484.0,0.6,30099,Teton,"{""30099"": 99.65, ""30073"": 0.35}",Teton|Pondera,30099|30073,False,False,America/Denver,"(47.89565, -111.68483)",6.315998939266313,484.0,51899_0_no,47.82870169128752,-111.59205721115742,5.0

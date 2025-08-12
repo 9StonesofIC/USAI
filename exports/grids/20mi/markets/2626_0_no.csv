@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89421,42.04485,-117.94724,McDermitt,NV,Nevada,True,,423.0,0.2,41045,Malheur,"{""41045"": 61.22, ""32013"": 38.78}",Malheur|Humboldt,41045|32013,False,False,America/Los_Angeles,"(42.04485, -117.94724)",14.349564614799876,423.0,2626_0_no,42.09693240994844,-117.67640259060668,20.0

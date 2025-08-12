@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99003,47.91997,-117.27608,Chattaroy,WA,Washington,True,,4110.0,20.8,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.91997, -117.27608)",1.538348121386408,13551.0,51952_0_yes,47.906307321036536,-117.24985148072716,5.0
+99021,47.84951,-117.18721,Mead,WA,Washington,True,,9441.0,45.4,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.84951, -117.18721)",4.88131559459345,13551.0,51952_0_yes,47.906307321036536,-117.24985148072716,5.0

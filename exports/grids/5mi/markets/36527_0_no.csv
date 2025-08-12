@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62644,40.28553,-90.06022,Havana,IL,Illinois,True,,4814.0,19.3,17125,Mason,"{""17125"": 69.73, ""17057"": 30.27}",Mason|Fulton,17125|17057,False,False,America/Chicago,"(40.28553, -90.06022)",1.748244507717171,4814.0,36527_0_no,40.28114324517863,-90.09288597649588,5.0

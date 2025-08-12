@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73737,36.29133,-98.58517,Fairview,OK,Oklahoma,True,,3656.0,5.4,40093,Major,"{""40093"": 100}",Major,40093,False,False,America/Chicago,"(36.29133, -98.58517)",4.313001663626377,3656.0,27590_0_no,36.23040181359013,-98.60200896074656,5.0

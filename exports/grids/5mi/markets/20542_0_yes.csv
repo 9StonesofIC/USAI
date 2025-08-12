@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75078,33.24526,-96.80791,Prosper,TX,Texas,True,,34300.0,419.5,48085,Collin,"{""48085"": 70.28, ""48121"": 29.72}",Collin|Denton,48085|48121,False,False,America/Chicago,"(33.24526, -96.80791)",2.2879959255607942,34300.0,20542_0_yes,33.256641167889214,-96.84509538252507,5.0

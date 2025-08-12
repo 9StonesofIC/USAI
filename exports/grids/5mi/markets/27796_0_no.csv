@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27919,36.31178,-76.50293,Belvidere,NC,North Carolina,True,,1324.0,8.6,37143,Perquimans,"{""37143"": 90.38, ""37041"": 9.62}",Perquimans|Chowan,37143|37041,False,False,America/New_York,"(36.31178, -76.50293)",3.2690730113684103,1324.0,27796_0_no,36.35877637973941,-76.49613788880852,5.0

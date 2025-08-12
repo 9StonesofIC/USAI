@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66870,37.93809,-95.99316,Virgil,KS,Kansas,True,,153.0,0.6,20073,Greenwood,"{""20073"": 80.05, ""20207"": 19.95}",Greenwood|Woodson,20073|20207,False,False,America/Chicago,"(37.93809, -95.99316)",5.715298300769969,153.0,31184_0_yes,37.895146675824975,-95.90354473467764,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30116,33.55224,-85.01298,Carrollton,GA,Georgia,True,,23886.0,87.9,13045,Carroll,"{""13045"": 100}",Carroll,13045,False,False,America/New_York,"(33.55224, -85.01298)",4.157068749407193,26004.0,21482_0_no,33.61095589463018,-85.02873970804158,5.0
+30118,33.57288,-85.09938,Carrollton,GA,Georgia,True,,2118.0,4080.1,13045,Carroll,"{""13045"": 100}",Carroll,13045,False,False,America/New_York,"(33.57288, -85.09938)",4.8426102302655645,26004.0,21482_0_no,33.61095589463018,-85.02873970804158,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87311,35.60501,-108.50061,Church Rock,NM,New Mexico,True,,4101.0,7.5,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.60501, -108.50061)",5.266905397437698,4101.0,26323_0_no,35.65786417504448,-108.56819225932551,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58448,47.30944,-98.21451,Hannaford,ND,North Dakota,True,,296.0,0.8,38039,Griggs,"{""38039"": 99.4, ""38003"": 0.6}",Griggs|Barnes,38039|38003,False,False,America/Chicago,"(47.30944, -98.21451)",1.767053568235115,296.0,50759_0_yes,47.30967201525288,-98.17679260297642,5.0

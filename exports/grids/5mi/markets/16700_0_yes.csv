@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39440,31.694,-89.14791,Laurel,MS,Mississippi,True,,21365.0,466.1,28067,Jones,"{""28067"": 100}",Jones,28067,False,False,America/Chicago,"(31.694, -89.14791)",3.702458914562119,21365.0,16700_0_yes,31.656034778033742,-89.19234629494734,5.0

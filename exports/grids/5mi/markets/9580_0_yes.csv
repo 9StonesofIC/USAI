@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32754,28.68565,-80.9208,Mims,FL,Florida,True,,11398.0,32.1,12009,Brevard,"{""12009"": 78.38, ""12127"": 21.62}",Brevard|Volusia,12009|12127,False,False,America/New_York,"(28.68565, -80.9208)",6.570696287104888,11398.0,9580_0_yes,28.749542718957848,-81.00111693576744,5.0

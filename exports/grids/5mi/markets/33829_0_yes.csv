@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84523,39.0946,-111.2014,Ferron,UT,Utah,True,,1719.0,5.8,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(39.0946, -111.2014)",2.767414087715504,1719.0,33829_0_yes,39.06661804374358,-111.23831782416374,5.0

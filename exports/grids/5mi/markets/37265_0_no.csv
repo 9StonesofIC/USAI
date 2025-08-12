@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84006,40.59682,-112.12373,Bingham Canyon,UT,Utah,True,,839.0,12.5,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver,"(40.59682, -112.12373)",3.118971318806447,839.0,37265_0_no,40.58900693630379,-112.18228004790063,5.0

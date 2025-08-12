@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39525,30.38123,-89.37065,Diamondhead,MS,Mississippi,True,,8076.0,297.7,28045,Hancock,"{""28045"": 100}",Hancock,28045,False,False,America/Chicago,"(30.38123, -89.37065)",3.514738882141347,15779.0,13887_0_no,30.423213103429536,-89.40395430646504,5.0
+39556,30.44457,-89.42747,Kiln,MS,Mississippi,True,,7703.0,29.0,28045,Hancock,"{""28045"": 100}",Hancock,28045,False,False,America/Chicago,"(30.44457, -89.42747)",2.0346991789292153,15779.0,13887_0_no,30.423213103429536,-89.40395430646504,5.0

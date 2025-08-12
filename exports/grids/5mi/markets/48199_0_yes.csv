@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54875,45.97405,-91.6948,Springbrook,WI,Wisconsin,True,,1151.0,4.0,55129,Washburn,"{""55129"": 100}",Washburn,55129,False,False,America/Chicago,"(45.97405, -91.6948)",3.2244323637189036,1151.0,48199_0_yes,46.00141185186537,-91.74921013009944,5.0

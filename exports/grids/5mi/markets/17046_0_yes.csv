@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39360,31.86357,-88.7409,Shubuta,MS,Mississippi,True,,3993.0,6.9,28023,Clarke,"{""28023"": 61.58, ""28153"": 38.42}",Clarke|Wayne,28023|28153,False,False,America/Chicago,"(31.86357, -88.7409)",5.430569354112156,3993.0,17046_0_yes,31.80081311038232,-88.7965964873378,5.0

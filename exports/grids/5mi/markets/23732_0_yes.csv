@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93427,34.62724,-120.22465,Buellton,CA,California,True,,6195.0,34.4,6083,Santa Barbara,"{""06083"": 100}",Santa Barbara,06083,False,False,America/Los_Angeles,"(34.62724, -120.22465)",4.042651009650788,6195.0,23732_0_yes,34.578595956748046,-120.26415168951549,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30240,33.03757,-85.12222,Lagrange,GA,Georgia,True,,31223.0,86.4,13285,Troup,"{""13285"": 99.82, ""13149"": 0.18}",Troup|Heard,13285|13149,False,False,America/New_York,"(33.03757, -85.12222)",0.4693719667831415,31223.0,20117_0_no,33.03103283922683,-85.12001588766206,5.0

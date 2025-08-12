@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54125,45.58995,-88.38325,Goodman,WI,Wisconsin,True,,550.0,2.5,55075,Marinette,"{""55075"": 70.66, ""55041"": 29.34}",Marinette|Forest,55075|55041,False,False,America/Chicago,"(45.58995, -88.38325)",3.247486298144904,550.0,47586_0_no,45.6366166147439,-88.37524461925709,5.0

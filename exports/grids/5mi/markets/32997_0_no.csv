@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22815,38.63469,-78.80939,Broadway,VA,Virginia,True,,8915.0,48.6,51165,Rockingham,"{""51165"": 96.96, ""51171"": 3.04}",Rockingham|Shenandoah,51165|51171,False,False,America/New_York,"(38.63469, -78.80939)",3.9808262766334104,8915.0,32997_0_no,38.67871465327613,-78.85698401325847,5.0

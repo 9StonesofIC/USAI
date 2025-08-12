@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59460,48.07682,-110.50908,Loma,MT,Montana,True,,170.0,0.3,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver,"(48.07682, -110.50908)",4.3476225805897855,170.0,52441_0_no,48.11703512867208,-110.43661737823484,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82072,41.42557,-105.55849,Laramie,WY,Wyoming,True,,17318.0,35.4,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver,"(41.42557, -105.55849)",3.1528196297977185,17318.0,38799_0_yes,41.38029884531627,-105.56611773078376,5.0

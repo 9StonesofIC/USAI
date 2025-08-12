@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59716,45.28578,-111.3873,Big Sky,MT,Montana,True,,2477.0,14.8,30057,Madison,"{""30057"": 55.87, ""30031"": 44.13}",Madison|Gallatin,30057|30031,False,False,America/Denver,"(45.28578, -111.3873)",4.347077948351186,2477.0,46837_0_no,45.22309816560572,-111.3950029397318,5.0

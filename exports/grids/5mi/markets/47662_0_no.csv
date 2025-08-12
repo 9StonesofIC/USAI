@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57724,45.66696,-104.06056,Camp Crook,SD,South Dakota,True,,251.0,0.3,46063,Harding,"{""46063"": 62.72, ""30011"": 37.28}",Harding|Carter,46063|30011,False,False,America/Denver,"(45.66696, -104.06056)",1.131433490479349,251.0,47662_0_no,45.65079136217602,-104.06427155094016,5.0

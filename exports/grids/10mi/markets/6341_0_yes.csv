@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86401,35.11024,-113.70423,Kingman,AZ,Arizona,True,,27059.0,8.5,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix,"(35.11024, -113.70423)",2.4991523210355395,27059.0,6341_0_yes,35.145787237434284,-113.69605457835311,10.0

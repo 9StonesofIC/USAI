@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12514,41.87137,-73.76274,Clinton Corners,NY,New York,True,,2772.0,39.2,36027,Dutchess,"{""36027"": 100}",Dutchess,36027,False,False,America/New_York,"(41.87137, -73.76274)",4.262009676424453,5003.0,39858_0_yes,41.932822096559576,-73.75554881934694,5.0
+12581,41.90625,-73.69374,Stanfordville,NY,New York,True,,2231.0,22.1,36027,Dutchess,"{""36027"": 100}",Dutchess,36027,False,False,America/New_York,"(41.90625, -73.69374)",3.669922641124735,5003.0,39858_0_yes,41.932822096559576,-73.75554881934694,5.0

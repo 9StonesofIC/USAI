@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54837,45.6746,-92.35754,Frederic,WI,Wisconsin,True,,3622.0,8.2,55095,Polk,"{""55095"": 81.74, ""55013"": 18.26}",Polk|Burnett,55095|55013,False,False,America/Chicago,"(45.6746, -92.35754)",3.7647527025723,3622.0,47605_0_no,45.640159648385215,-92.29713046218176,5.0

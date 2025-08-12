@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75770,32.14058,-95.64694,Larue,TX,Texas,True,,2552.0,8.3,48213,Henderson,"{""48213"": 100}",Henderson,48213,False,False,America/Chicago,"(32.14058, -95.64694)",4.905101654470495,2552.0,18113_0_no,32.16800190515657,-95.56959410778596,5.0

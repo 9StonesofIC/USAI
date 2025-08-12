@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07822,41.1409,-74.70373,Augusta,NJ,New Jersey,True,,1002.0,52.4,34037,Sussex,"{""34037"": 100}",Sussex,34037,False,False,America/New_York,"(41.1409, -74.70373)",4.7622926711409725,6829.0,38331_0_yes,41.2097230135974,-74.70871974211023,5.0
+07826,41.17633,-74.79042,Branchville,NJ,New Jersey,True,,5827.0,38.6,34037,Sussex,"{""34037"": 100}",Sussex,34037,False,False,America/New_York,"(41.17633, -74.79042)",4.833955171631432,6829.0,38331_0_yes,41.2097230135974,-74.70871974211023,5.0

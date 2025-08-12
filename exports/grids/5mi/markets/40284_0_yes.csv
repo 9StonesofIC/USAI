@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68740,42.14561,-97.29245,Hoskins,NE,Nebraska,True,,872.0,5.0,31179,Wayne,"{""31179"": 93.46, ""31167"": 6.54}",Wayne|Stanton,31179|31167,False,False,America/Chicago,"(42.14561, -97.29245)",5.165627510179959,872.0,40284_0_yes,42.097603052421945,-97.3697206999458,5.0

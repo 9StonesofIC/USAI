@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50208,41.71129,-93.03924,Newton,IA,Iowa,True,,20189.0,49.2,19099,Jasper,"{""19099"": 100}",Jasper,19099,False,False,America/Chicago,"(41.71129, -93.03924)",2.6172759350812917,20189.0,39626_0_no,41.73190126427114,-92.99665902979864,5.0

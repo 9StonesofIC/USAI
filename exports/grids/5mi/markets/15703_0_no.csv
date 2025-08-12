@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76858,31.20758,-99.62002,Melvin,TX,Texas,True,,300.0,0.8,48095,Concho,"{""48095"": 66.22, ""48307"": 33.78}",Concho|McCulloch,48095|48307,False,False,America/Chicago,"(31.20758, -99.62002)",3.798449669551843,300.0,15703_0_no,31.15521247723227,-99.6004627485726,5.0

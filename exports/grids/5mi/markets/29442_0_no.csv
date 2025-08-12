@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23894,37.13867,-77.82404,Wilsons,VA,Virginia,True,,995.0,13.7,51053,Dinwiddie,"{""51053"": 90.66, ""51135"": 9.34}",Dinwiddie|Nottoway,51053|51135,False,False,America/New_York,"(37.13867, -77.82404)",3.997072266644414,995.0,29442_0_no,37.08429716498632,-77.84881191122345,5.0

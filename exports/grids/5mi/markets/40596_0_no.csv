@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82240,42.23064,-104.17824,Torrington,WY,Wyoming,True,,10680.0,6.2,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver,"(42.23064, -104.17824)",6.04489193285636,10680.0,40596_0_no,42.17591784473264,-104.27039108887595,5.0

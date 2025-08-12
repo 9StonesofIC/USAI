@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68831,41.10937,-98.54661,Dannebrog,NE,Nebraska,True,,591.0,3.2,31093,Howard,"{""31093"": 96.0, ""31079"": 4.0}",Howard|Hall,31093|31079,False,False,America/Chicago,"(41.10937, -98.54661)",1.9513026037425731,591.0,38147_0_yes,41.08475428263093,-98.56498022924566,5.0

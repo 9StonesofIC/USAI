@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56546,47.10107,-96.73038,Georgetown,MN,Minnesota,True,,231.0,1.5,27027,Clay,"{""27027"": 100}",Clay,27027,False,False,America/Chicago,"(47.10107, -96.73038)",0.7669245860042034,231.0,50447_0_no,47.09132908599739,-96.72256279807858,5.0

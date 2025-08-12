@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95228,37.94669,-120.68067,Copperopolis,CA,California,True,,4486.0,18.9,6009,Calaveras,"{""06009"": 100}",Calaveras,06009,False,False,America/Los_Angeles,"(37.94669, -120.68067)",3.122249354091334,4486.0,31621_0_no,37.98695838926979,-120.706680395704,5.0

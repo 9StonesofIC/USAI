@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42544,37.03473,-84.8143,Nancy,KY,Kentucky,True,,5569.0,15.1,21199,Pulaski,"{""21199"": 73.6, ""21207"": 16.53, ""21231"": 9.87}",Pulaski|Russell|Wayne,21199|21207|21231,False,False,America/New_York,"(37.03473, -84.8143)",2.085387993611861,5569.0,29174_0_yes,37.01714093217756,-84.84502195101555,5.0

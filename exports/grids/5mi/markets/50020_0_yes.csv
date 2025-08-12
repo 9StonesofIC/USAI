@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99341,46.90663,-118.64224,Lind,WA,Washington,True,,687.0,0.8,53001,Adams,"{""53001"": 100}",Adams,53001,False,False,America/Los_Angeles,"(46.90663, -118.64224)",1.332316402297789,687.0,50020_0_yes,46.89445797772836,-118.66412833955262,5.0

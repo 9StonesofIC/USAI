@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45628,39.38959,-83.19657,Frankfort,OH,Ohio,True,,5601.0,28.5,39141,Ross,"{""39141"": 100}",Ross,39141,False,False,America/New_York,"(39.38959, -83.19657)",2.69033183094446,5601.0,34608_0_no,39.40648713901284,-83.24196631302459,5.0

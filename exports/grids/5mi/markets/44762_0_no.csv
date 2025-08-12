@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57719,44.23059,-102.98312,Box Elder,SD,South Dakota,True,,8156.0,18.8,46093,Meade,"{""46093"": 76.57, ""46103"": 23.43}",Meade|Pennington,46093|46103,False,False,America/Denver,"(44.23059, -102.98312)",2.0534765444596297,8156.0,44762_0_no,44.20214072445432,-102.9711228228554,5.0

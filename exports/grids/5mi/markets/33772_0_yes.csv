@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67738,39.0027,-100.65348,Grinnell,KS,Kansas,True,,541.0,0.8,20063,Gove,"{""20063"": 78.41, ""20179"": 21.59}",Gove|Sheridan,20063|20179,False,False,America/Chicago,"(39.0027, -100.65348)",3.9047170084355685,541.0,33772_0_yes,39.05816877751791,-100.63955555391613,5.0

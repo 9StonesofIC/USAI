@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89835,41.2848,-114.87765,Wells,NV,Nevada,True,,1544.0,0.3,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles,"(41.2848, -114.87765)",19.240684998940274,1544.0,2546_0_no,41.50748877937777,-114.6547569970202,20.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26187,39.36711,-81.44894,Williamstown,WV,West Virginia,True,,6169.0,110.6,54107,Wood,"{""54107"": 100}",Wood,54107,False,False,America/New_York,"(39.36711, -81.44894)",4.806245568299542,32879.0,34598_0_no,39.40498668677872,-81.37345010916117,5.0
+45750,39.4301,-81.42947,Marietta,OH,Ohio,True,,26710.0,96.6,39167,Washington,"{""39167"": 100}",Washington,39167,False,False,America/New_York,"(39.4301, -81.42947)",3.457175122219571,32879.0,34598_0_no,39.40498668677872,-81.37345010916117,5.0

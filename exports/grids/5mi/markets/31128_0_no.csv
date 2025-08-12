@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62907,37.86503,-89.50009,Ava,IL,Illinois,True,,1870.0,7.7,17077,Jackson,"{""17077"": 99.06, ""17157"": 0.94}",Jackson|Randolph,17077|17157,False,False,America/Chicago,"(37.86503, -89.50009)",4.094055407110225,1870.0,31128_0_no,37.81772361795007,-89.45490773709315,5.0

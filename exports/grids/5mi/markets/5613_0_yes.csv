@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34291,27.11494,-82.21722,North Port,FL,Florida,True,,6165.0,131.9,12115,Sarasota,"{""12115"": 100}",Sarasota,12115,False,False,America/New_York,"(27.11494, -82.21722)",5.414085797954808,21255.0,5613_0_yes,27.15420828740355,-82.29341573199939,5.0
+34292,27.10308,-82.33496,Venice,FL,Florida,True,,15090.0,179.3,12115,Sarasota,"{""12115"": 100}",Sarasota,12115,False,False,America/New_York,"(27.10308, -82.33496)",4.359549187120379,21255.0,5613_0_yes,27.15420828740355,-82.29341573199939,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72543,35.45528,-91.99407,Heber Springs,AR,Arkansas,True,,13011.0,44.2,5023,Cleburne,"{""05023"": 100}",Cleburne,05023,False,False,America/Chicago,"(35.45528, -91.99407)",2.8398310799590862,13011.0,25582_0_yes,35.428179586764834,-92.03199932856474,5.0

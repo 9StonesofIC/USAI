@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57325,43.83961,-99.31144,Chamberlain,SD,South Dakota,True,,3096.0,4.2,46015,Brule,"{""46015"": 65.52, ""46017"": 34.48}",Brule|Buffalo,46015|46017,False,False,America/Chicago,"(43.83961, -99.31144)",5.217164043481996,3096.0,44156_0_no,43.9093219901768,-99.27119057353651,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43756,39.68993,-81.79574,Mcconnelsville,OH,Ohio,True,,5007.0,14.0,39115,Morgan,"{""39115"": 98.64, ""39119"": 1.36}",Morgan|Muskingum,39115|39119,False,False,America/New_York,"(39.68993, -81.79574)",2.2081330916747164,5007.0,35230_0_no,39.69498394762909,-81.75473001299594,5.0

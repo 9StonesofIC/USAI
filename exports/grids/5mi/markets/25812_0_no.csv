@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27808,35.47228,-76.76494,Bath,NC,North Carolina,True,,1955.0,16.4,37013,Beaufort,"{""37013"": 100}",Beaufort,37013,False,False,America/New_York,"(35.47228, -76.76494)",4.738182339666984,1955.0,25812_0_no,35.48953907949126,-76.84644357138576,5.0

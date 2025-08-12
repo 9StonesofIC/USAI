@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97820,44.16327,-119.21436,Canyon City,OR,Oregon,True,,985.0,1.0,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles,"(44.16327, -119.21436)",4.952557095884808,985.0,44843_0_no,44.21651499076573,-119.28128607264549,5.0

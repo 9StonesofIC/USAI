@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43730,39.6294,-82.09435,Corning,OH,Ohio,True,,2610.0,22.6,39127,Perry,"{""39127"": 100}",Perry,39127,False,False,America/New_York,"(39.6294, -82.09435)",1.5298606528585705,2706.0,34939_0_yes,39.62277127726513,-82.06692106855665,5.0
+43761,39.66829,-82.14798,Moxahala,OH,Ohio,True,,96.0,64.8,39127,Perry,"{""39127"": 100}",Perry,39127,False,False,America/New_York,"(39.66829, -82.14798)",5.337527191526561,2706.0,34939_0_yes,39.62277127726513,-82.06692106855665,5.0

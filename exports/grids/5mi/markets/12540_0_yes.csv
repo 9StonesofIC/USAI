@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78004,29.85767,-98.53773,Bergheim,TX,Texas,True,,1328.0,45.1,48259,Kendall,"{""48259"": 100}",Kendall,48259,False,False,America/Chicago,"(29.85767, -98.53773)",4.982826771581018,2318.0,12540_0_yes,29.921162478320976,-98.49828376608116,5.0
+78027,29.98193,-98.53868,Kendalia,TX,Texas,True,,990.0,5.3,48259,Kendall,"{""48259"": 100}",Kendall,48259,False,False,America/Chicago,"(29.98193, -98.53868)",4.845305157325155,2318.0,12540_0_yes,29.921162478320976,-98.49828376608116,5.0

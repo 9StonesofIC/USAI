@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79061,35.51987,-100.45706,Mobeetie,TX,Texas,True,,182.0,0.4,48483,Wheeler,"{""48483"": 90.95, ""48179"": 9.05}",Wheeler|Gray,48483|48179,False,False,America/Chicago,"(35.51987, -100.45706)",8.584626319339302,182.0,6471_0_yes,35.41647830071323,-100.54165983843347,10.0

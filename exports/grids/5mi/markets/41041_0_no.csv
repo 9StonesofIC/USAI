@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+01226,42.47954,-73.15329,Dalton,MA,Massachusetts,True,,6698.0,118.9,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,False,False,America/New_York,"(42.47954, -73.15329)",5.126928720077679,9067.0,41041_0_no,42.43895807489917,-73.06908588598255,5.0
+01235,42.43181,-73.07336,Hinsdale,MA,Massachusetts,True,,2369.0,19.6,25003,Berkshire,"{""25003"": 100}",Berkshire,25003,False,False,America/New_York,"(42.43181, -73.07336)",0.5398385351503635,9067.0,41041_0_no,42.43895807489917,-73.06908588598255,5.0

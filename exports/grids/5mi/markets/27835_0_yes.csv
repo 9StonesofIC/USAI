@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27046,36.49228,-80.09223,Sandy Ridge,NC,North Carolina,True,,2061.0,18.4,37169,Stokes,"{""37169"": 100}",Stokes,37169,False,False,America/New_York,"(36.49228, -80.09223)",4.3251316939195386,2061.0,27835_0_yes,36.43391438091883,-80.12036526698402,5.0

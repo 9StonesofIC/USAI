@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98821,47.55199,-120.56155,Dryden,WA,Washington,True,,1000.0,292.4,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.55199, -120.56155)",3.8676427172511754,1000.0,51391_0_no,47.547703655873455,-120.64424172425286,5.0

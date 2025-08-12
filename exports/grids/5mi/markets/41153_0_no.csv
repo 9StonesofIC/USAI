@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50583,42.43049,-94.98595,Sac City,IA,Iowa,True,,2415.0,8.1,19161,Sac,"{""19161"": 97.41, ""19025"": 2.59}",Sac|Calhoun,19161|19025,False,False,America/Chicago,"(42.43049, -94.98595)",1.9090638077350222,2415.0,41153_0_no,42.45765418601695,-94.97910236581518,5.0

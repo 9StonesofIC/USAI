@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03590,44.74195,-71.51485,North Stratford,NH,New Hampshire,True,,1173.0,4.1,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.74195, -71.51485)",5.691784283839833,2053.0,45510_0_yes,44.68092207373672,-71.59271156976975,5.0
+05905,44.70151,-71.66672,Guildhall,VT,Vermont,True,,880.0,1.8,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York,"(44.70151, -71.66672)",3.9036278855906548,2053.0,45510_0_yes,44.68092207373672,-71.59271156976975,5.0

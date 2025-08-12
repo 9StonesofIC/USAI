@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67416,38.66505,-97.5718,Assaria,KS,Kansas,True,,903.0,5.0,20169,Saline,"{""20169"": 87.37, ""20113"": 12.63}",Saline|McPherson,20169|20113,False,False,America/Chicago,"(38.66505, -97.5718)",2.662815474846203,903.0,33098_0_no,38.69348754252891,-97.53848022699616,5.0

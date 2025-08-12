@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62355,39.40963,-90.77936,Nebo,IL,Illinois,True,,824.0,3.6,17149,Pike,"{""17149"": 52.04, ""17013"": 47.96}",Pike|Calhoun,17149|17013,False,False,America/Chicago,"(39.40963, -90.77936)",5.552120092585414,824.0,34354_0_yes,39.34010349458956,-90.8314805275363,5.0

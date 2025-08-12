@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72747,36.37023,-94.5807,Maysville,AR,Arkansas,True,,293.0,16.8,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago,"(36.37023, -94.5807)",1.510472932656774,293.0,27897_0_no,36.37236800230708,-94.60772031879377,5.0

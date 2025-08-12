@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04911,44.78039,-69.96112,Anson,ME,Maine,True,,1873.0,11.4,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(44.78039, -69.96112)",3.6463769465644846,2664.0,45766_0_no,44.75192572658448,-70.023713176149,5.0
+04956,44.80533,-70.11215,New Vineyard,ME,Maine,True,,791.0,8.5,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(44.80533, -70.11215)",5.694558946203502,2664.0,45766_0_no,44.75192572658448,-70.023713176149,5.0

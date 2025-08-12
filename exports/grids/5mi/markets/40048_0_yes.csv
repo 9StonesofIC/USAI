@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83101,41.97455,-110.5468,Kemmerer,WY,Wyoming,True,,3043.0,2.2,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(41.97455, -110.5468)",4.463773702147668,3043.0,40048_0_yes,41.96399108134058,-110.6325241322457,5.0

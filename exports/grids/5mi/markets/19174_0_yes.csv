@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76087,32.66995,-97.79065,Weatherford,TX,Texas,True,,29119.0,60.6,48367,Parker,"{""48367"": 95.19, ""48221"": 4.81}",Parker|Hood,48367|48221,False,False,America/Chicago,"(32.66995, -97.79065)",4.429717462671178,29119.0,19174_0_yes,32.67709235398964,-97.71495990996335,5.0

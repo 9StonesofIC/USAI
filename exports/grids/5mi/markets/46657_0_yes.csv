@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04463,45.28117,-68.90569,Milo,ME,Maine,True,,3207.0,8.6,23021,Piscataquis,"{""23021"": 100}",Piscataquis,23021,False,False,America/New_York,"(45.28117, -68.90569)",4.967374320564095,3724.0,46657_0_yes,45.25737355074696,-69.00208593880336,5.0
+04481,45.24298,-69.10423,Sebec,ME,Maine,True,,517.0,5.4,23021,Piscataquis,"{""23021"": 100}",Piscataquis,23021,False,False,America/New_York,"(45.24298, -69.10423)",5.067107179472568,3724.0,46657_0_yes,45.25737355074696,-69.00208593880336,5.0

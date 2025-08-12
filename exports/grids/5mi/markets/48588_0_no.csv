@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99337,46.06235,-119.09127,Kennewick,WA,Washington,True,,32080.0,74.6,53005,Benton,"{""53005"": 100}",Benton,53005,False,False,America/Los_Angeles,"(46.06235, -119.09127)",2.5127816986209446,32080.0,48588_0_no,46.09870814073074,-119.09248378069552,5.0

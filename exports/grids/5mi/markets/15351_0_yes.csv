@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76501,31.07555,-97.25469,Temple,TX,Texas,True,,16922.0,55.3,48027,Bell,"{""48027"": 100}",Bell,48027,False,False,America/Chicago,"(31.07555, -97.25469)",4.960691967070915,82637.0,15351_0_yes,31.081160074193072,-97.33826329742962,5.0
+76502,31.09388,-97.41082,Temple,TX,Texas,True,,42946.0,284.6,48027,Bell,"{""48027"": 100}",Bell,48027,False,False,America/Chicago,"(31.09388, -97.41082)",4.382227172405443,82637.0,15351_0_yes,31.081160074193072,-97.33826329742962,5.0
+76504,31.14135,-97.37748,Temple,TX,Texas,True,,22769.0,285.1,48027,Bell,"{""48027"": 100}",Bell,48027,False,False,America/Chicago,"(31.14135, -97.37748)",4.762022577646291,82637.0,15351_0_yes,31.081160074193072,-97.33826329742962,5.0

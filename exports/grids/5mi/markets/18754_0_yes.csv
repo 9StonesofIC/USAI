@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31829,32.56681,-84.72787,Upatoi,GA,Georgia,True,,1251.0,36.2,13215,Muscogee,"{""13215"": 84.22, ""13145"": 15.78}",Muscogee|Harris,13215|13145,False,False,America/New_York,"(32.56681, -84.72787)",3.0942008929975433,1251.0,18754_0_yes,32.52321051840235,-84.74000201385877,5.0

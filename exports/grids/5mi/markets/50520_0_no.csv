@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59648,47.07221,-112.14059,Wolf Creek,MT,Montana,True,,402.0,0.2,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver,"(47.07221, -112.14059)",3.5472117618686205,402.0,50520_0_no,47.10564959498983,-112.1978047959795,5.0

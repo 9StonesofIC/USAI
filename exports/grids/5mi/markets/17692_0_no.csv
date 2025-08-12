@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31055,31.98248,-82.89046,McRae Helena,GA,Georgia,True,,8005.0,23.1,13271,Telfair,"{""13271"": 100}",Telfair,13271,False,False,America/New_York,"(31.98248, -82.89046)",3.6946803970017372,8438.0,17692_0_no,32.014401767493865,-82.83987373654556,5.0
+31083,32.04473,-82.81957,Scotland,GA,Georgia,True,,433.0,204.9,13271,Telfair,"{""13271"": 100}",Telfair,13271,False,False,America/New_York,"(32.04473, -82.81957)",2.4094577433849858,8438.0,17692_0_no,32.014401767493865,-82.83987373654556,5.0

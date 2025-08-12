@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97840,44.90218,-116.93608,Oxbow,OR,Oregon,True,,168.0,0.5,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Boise,"(44.90218, -116.93608)",4.731565355746731,168.0,46023_0_yes,44.865959002721006,-116.85405521879572,5.0

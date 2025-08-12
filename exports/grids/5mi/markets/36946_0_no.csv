@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84051,40.39552,-110.43131,Mountain Home,UT,Utah,True,,547.0,4.2,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.39552, -110.43131)",4.963626855312357,547.0,36946_0_no,40.44273194995926,-110.50243268715406,5.0

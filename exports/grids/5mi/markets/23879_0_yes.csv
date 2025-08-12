@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35611,34.76554,-87.08418,Athens,AL,Alabama,True,,27293.0,91.6,1083,Limestone,"{""01083"": 100}",Limestone,01083,False,False,America/Chicago,"(34.76554, -87.08418)",4.88848137708518,27293.0,23879_0_yes,34.699712920024645,-87.05262236401478,5.0

@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78719,30.14465,-97.67148,Austin,TX,Texas,True,,1803.0,35.2,48453,Travis,"{""48453"": 100}",Travis,48453,False,False,America/Chicago,"(30.14465, -97.67148)",1.3280886101938483,70491.0,13231_0_no,30.138336245949,-97.69247370581364,5.0
+78744,30.18024,-97.72888,Austin,TX,Texas,True,,48551.0,829.3,48453,Travis,"{""48453"": 100}",Travis,48453,False,False,America/Chicago,"(30.18024, -97.72888)",3.62117545281545,70491.0,13231_0_no,30.138336245949,-97.69247370581364,5.0
+78747,30.12521,-97.74117,Austin,TX,Texas,True,,20137.0,349.8,48453,Travis,"{""48453"": 100}",Travis,48453,False,False,America/Chicago,"(30.12521, -97.74117)",3.0480033311397343,70491.0,13231_0_no,30.138336245949,-97.69247370581364,5.0

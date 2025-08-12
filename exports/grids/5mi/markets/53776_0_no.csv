@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59260,48.84027,-106.10217,Richland,MT,Montana,True,,86.0,0.1,30105,Valley,"{""30105"": 60.82, ""30019"": 39.18}",Valley|Daniels,30105|30019,False,False,America/Denver,"(48.84027, -106.10217)",1.768283370736588,86.0,53776_0_no,48.83635272343572,-106.06374459011704,5.0

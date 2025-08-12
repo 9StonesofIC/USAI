@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39567,30.36192,-88.55254,Pascagoula,MS,Mississippi,True,,11095.0,668.9,28059,Jackson,"{""28059"": 100}",Jackson,28059,False,False,America/Chicago,"(30.36192, -88.55254)",2.9169191678086315,21734.0,13541_0_yes,30.350072295297316,-88.50558161547048,5.0
+39581,30.35048,-88.49324,Pascagoula,MS,Mississippi,True,,10639.0,293.3,28059,Jackson,"{""28059"": 100}",Jackson,28059,False,False,America/Chicago,"(30.35048, -88.49324)",0.7363996519928493,21734.0,13541_0_yes,30.350072295297316,-88.50558161547048,5.0

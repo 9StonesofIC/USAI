@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29446,32.6281,-80.54028,Green Pond,SC,South Carolina,True,,940.0,2.1,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York,"(32.6281, -80.54028)",2.7618829736547497,940.0,19074_0_yes,32.665363064759745,-80.55746244636755,5.0

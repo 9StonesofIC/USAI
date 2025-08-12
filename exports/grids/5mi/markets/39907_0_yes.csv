@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48166,41.98677,-83.29375,Newport,MI,Michigan,True,,11680.0,169.5,26115,Monroe,"{""26115"": 100}",Monroe,26115,False,False,America/Detroit,"(41.98677, -83.29375)",3.5166520935003485,11680.0,39907_0_yes,41.94085717227346,-83.26420806768077,5.0

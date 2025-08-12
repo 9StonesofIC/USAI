@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22473,37.88316,-76.41386,Heathsville,VA,Virginia,True,,5013.0,16.9,51133,Northumberland,"{""51133"": 96.92, ""51103"": 3.08}",Northumberland|Lancaster,51133|51103,False,False,America/New_York,"(37.88316, -76.41386)",5.064957050726376,5013.0,31379_0_no,37.95245448060628,-76.38354254651443,5.0

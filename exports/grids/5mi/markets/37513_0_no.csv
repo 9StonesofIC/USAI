@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69039,40.7013,-100.38529,Moorefield,NE,Nebraska,True,,105.0,0.3,31111,Lincoln,"{""31111"": 54.33, ""31063"": 45.67}",Lincoln|Frontier,31111|31063,False,False,America/Chicago,"(40.7013, -100.38529)",2.6968496480448927,105.0,37513_0_no,40.724130946329545,-100.34352403202163,5.0

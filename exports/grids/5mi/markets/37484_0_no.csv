@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50848,40.78685,-94.76758,Gravity,IA,Iowa,True,,225.0,1.8,19173,Taylor,"{""19173"": 100}",Taylor,19173,False,False,America/Chicago,"(40.78685, -94.76758)",5.385546275406816,1158.0,37484_0_no,40.71957328586056,-94.81954167730584,5.0
+51646,40.75315,-94.8725,New Market,IA,Iowa,True,,933.0,6.4,19173,Taylor,"{""19173"": 100}",Taylor,19173,False,False,America/Chicago,"(40.75315, -94.8725)",3.6151243579314083,1158.0,37484_0_no,40.71957328586056,-94.81954167730584,5.0

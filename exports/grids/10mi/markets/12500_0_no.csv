@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59645,46.69476,-111.04729,White Sulphur Springs,MT,Montana,True,,1513.0,0.4,30059,Meagher,"{""30059"": 98.62, ""30007"": 1.38}",Meagher|Broadwater,30059|30007,False,False,America/Denver,"(46.69476, -111.04729)",8.238396694044031,1513.0,12500_0_no,46.58523005704447,-110.9786594769359,10.0

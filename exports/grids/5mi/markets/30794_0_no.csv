@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42452,37.68531,-87.53654,Robards,KY,Kentucky,True,,2338.0,15.0,21101,Henderson,"{""21101"": 91.71, ""21233"": 8.29}",Henderson|Webster,21101|21233,False,False,America/Chicago,"(37.68531, -87.53654)",1.4242065139450892,2338.0,30794_0_no,37.67131825455596,-87.51741494630802,5.0

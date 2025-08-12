@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69356,41.89318,-103.45074,Minatare,NE,Nebraska,True,,2005.0,6.0,31157,Scotts Bluff,"{""31157"": 100}",Scotts Bluff,31157,False,False,America/Denver,"(41.89318, -103.45074)",2.9425824490179555,2005.0,39984_0_no,41.88549744994473,-103.39446946200376,5.0

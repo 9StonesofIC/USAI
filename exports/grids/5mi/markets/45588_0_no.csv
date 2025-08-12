@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55031,44.60772,-92.96647,Hampton,MN,Minnesota,True,,1848.0,17.5,27037,Dakota,"{""27037"": 100}",Dakota,27037,False,False,America/Chicago,"(44.60772, -92.96647)",4.9375066657599245,2325.0,45588_0_no,44.62750816810445,-92.87000194435905,5.0
+55085,44.6731,-92.96432,Vermillion,MN,Minnesota,True,,477.0,200.3,27037,Dakota,"{""27037"": 100}",Dakota,27037,False,False,America/Chicago,"(44.6731, -92.96432)",5.605028699900539,2325.0,45588_0_no,44.62750816810445,-92.87000194435905,5.0

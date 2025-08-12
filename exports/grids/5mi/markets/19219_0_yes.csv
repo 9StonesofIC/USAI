@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88354,32.73771,-105.49297,Weed,NM,New Mexico,True,,98.0,0.2,35035,Otero,"{""35035"": 100}",Otero,35035,False,False,America/Denver,"(32.73771, -105.49297)",5.037045580834318,98.0,19219_0_yes,32.6823722489253,-105.4365653674176,5.0

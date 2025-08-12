@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78650,30.30536,-97.21574,McDade,TX,Texas,True,,2366.0,14.4,48021,Bastrop,"{""48021"": 71.02, ""48287"": 28.98}",Bastrop|Lee,48021|48287,False,False,America/Chicago,"(30.30536, -97.21574)",3.4918374471533387,2366.0,13593_0_yes,30.355644563530987,-97.20988445675778,5.0

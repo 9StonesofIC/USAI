@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84649,39.34661,-112.32992,Oak City,UT,Utah,True,,1047.0,2.7,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(39.34661, -112.32992)",6.502087402951543,1047.0,34448_0_no,39.284999392345405,-112.42186394603236,5.0

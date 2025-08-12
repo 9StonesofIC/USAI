@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14724,42.05272,-79.67031,Clymer,NY,New York,True,,2723.0,14.3,36013,Chautauqua,"{""36013"": 100}",Chautauqua,36013,False,False,America/New_York,"(42.05272, -79.67031)",2.067046924894829,2911.0,40193_0_yes,42.08260082074728,-79.66833695089383,5.0
+14736,42.13715,-79.74644,Findley Lake,NY,New York,True,,188.0,15.9,36013,Chautauqua,"{""36013"": 100}",Chautauqua,36013,False,False,America/New_York,"(42.13715, -79.74644)",5.498392906299368,2911.0,40193_0_yes,42.08260082074728,-79.66833695089383,5.0

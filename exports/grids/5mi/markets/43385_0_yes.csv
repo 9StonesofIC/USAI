@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83628,43.57934,-116.96975,Homedale,ID,Idaho,True,,4460.0,27.3,16073,Owyhee,"{""16073"": 100}",Owyhee,16073,False,False,America/Boise,"(43.57934, -116.96975)",3.309894357805078,5170.0,43385_0_yes,43.56277543173867,-117.03179054092428,5.0
+97901,43.5996,-117.09602,Adrian,OR,Oregon,True,,710.0,2.0,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise,"(43.5996, -117.09602)",4.099794141204908,5170.0,43385_0_yes,43.56277543173867,-117.03179054092428,5.0

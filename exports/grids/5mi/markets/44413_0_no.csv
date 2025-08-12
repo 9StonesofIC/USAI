@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55959,44.11287,-91.78365,Minnesota City,MN,Minnesota,True,,2403.0,25.4,27169,Winona,"{""27169"": 100}",Winona,27169,False,False,America/Chicago,"(44.11287, -91.78365)",4.523071259369974,3565.0,44413_0_no,44.04751811148575,-91.77833980967166,5.0
+55969,44.08263,-91.87658,Rollingstone,MN,Minnesota,True,,1162.0,15.4,27169,Winona,"{""27169"": 100}",Winona,27169,False,False,America/Chicago,"(44.08263, -91.87658)",5.447377830550572,3565.0,44413_0_no,44.04751811148575,-91.77833980967166,5.0

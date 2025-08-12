@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82322,42.24643,-107.54816,Bairoil,WY,Wyoming,True,,209.0,15.3,56037,Sweetwater,"{""56037"": 99.79, ""56013"": 0.21}",Sweetwater|Fremont,56037|56013,False,False,America/Denver,"(42.24643, -107.54816)",11.711348380859773,209.0,10315_0_yes,42.38080336765288,-107.40844432473432,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96034,41.44177,-122.60772,Gazelle,CA,California,True,,328.0,1.1,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.44177, -122.60772)",5.213753509999965,7432.0,9884_0_no,41.39259990313547,-122.5313909034042,10.0
+96094,41.51214,-122.36253,Weed,CA,California,True,,7104.0,13.7,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.51214, -122.36253)",12.028572662977583,7432.0,9884_0_no,41.39259990313547,-122.5313909034042,10.0

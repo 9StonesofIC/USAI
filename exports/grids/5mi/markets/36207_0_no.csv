@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61839,40.13184,-88.63694,De Land,IL,Illinois,True,,662.0,7.9,17147,Piatt,"{""17147"": 100}",Piatt,17147,False,False,America/Chicago,"(40.13184, -88.63694)",1.0476630687144044,662.0,36207_0_no,40.1351215657584,-88.65630268042763,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82051,41.60053,-105.64743,Bosler,WY,Wyoming,True,,24.0,0.0,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver,"(41.60053, -105.64743)",7.7424982499803905,24.0,9993_0_no,41.653773025598106,-105.5155186076558,10.0

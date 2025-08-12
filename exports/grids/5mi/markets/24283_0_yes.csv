@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73564,34.84444,-99.00729,Roosevelt,OK,Oklahoma,True,,407.0,0.9,40075,Kiowa,"{""40075"": 100}",Kiowa,40075,False,False,America/Chicago,"(34.84444, -99.00729)",3.1877999505540595,407.0,24283_0_yes,34.85329001906483,-98.95211408998188,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83211,42.66257,-113.06186,American Falls,ID,Idaho,True,,5766.0,3.0,16077,Power,"{""16077"": 65.33, ""16031"": 34.41, ""16011"": 0.26}",Power|Cassia|Bingham,16077|16031|16011,False,False,America/Boise,"(42.66257, -113.06186)",7.977431263485739,5766.0,10481_0_yes,42.68034718733338,-113.21702014481752,10.0

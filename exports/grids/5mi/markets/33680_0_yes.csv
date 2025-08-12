@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45679,38.97634,-83.56788,Seaman,OH,Ohio,True,,2714.0,16.7,39001,Adams,"{""39001"": 91.76, ""39071"": 8.24}",Adams|Highland,39001|39071,False,False,America/New_York,"(38.97634, -83.56788)",5.023417345412263,2714.0,33680_0_yes,39.044536700810006,-83.53544515030394,5.0

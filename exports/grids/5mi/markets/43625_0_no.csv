@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83455,43.60638,-111.14077,Victor,ID,Idaho,True,,5423.0,22.6,16081,Teton,"{""16081"": 100}",Teton,16081,False,False,America/Boise,"(43.60638, -111.14077)",1.8817181029586914,5423.0,43625_0_no,43.6301170412466,-111.15921267700936,5.0

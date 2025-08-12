@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85543,32.9593,-109.90123,Pima,AZ,Arizona,True,,4058.0,4.1,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix,"(32.9593, -109.90123)",22.743802552959774,7808.0,1321_0_no,32.80089127668465,-110.24482378437968,20.0
+85631,32.58133,-110.5627,San Manuel,AZ,Arizona,True,,3750.0,12.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(32.58133, -110.5627)",23.912253941576207,7808.0,1321_0_no,32.80089127668465,-110.24482378437968,20.0

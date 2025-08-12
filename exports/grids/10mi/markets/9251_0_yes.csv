@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84069,40.36521,-112.48548,Rush Valley,UT,Utah,True,,479.0,3.3,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver,"(40.36521, -112.48548)",0.4878178901785458,2285.0,9251_0_yes,40.36162639938138,-112.49346368763412,10.0
+84071,40.4191,-112.32475,Stockton,UT,Utah,True,,1806.0,5.7,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver,"(40.4191, -112.32475)",9.726120136112883,2285.0,9251_0_yes,40.36162639938138,-112.49346368763412,10.0

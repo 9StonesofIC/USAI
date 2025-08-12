@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23322,36.62703,-76.26929,Chesapeake,VA,Virginia,True,,65272.0,134.2,51550,Chesapeake,"{""51550"": 100}",Chesapeake,51550,False,False,America/New_York,"(36.62703, -76.26929)",3.5648886246375784,65272.0,28143_0_yes,36.5759151259496,-76.2605408654951,5.0

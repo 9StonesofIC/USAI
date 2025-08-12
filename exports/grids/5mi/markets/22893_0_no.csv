@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71841,34.1639,-94.34718,Gillham,AR,Arkansas,True,,943.0,5.6,5133,Sevier,"{""05133"": 87.36, ""05113"": 12.64}",Sevier|Polk,05133|05113,False,False,America/Chicago,"(34.1639, -94.34718)",2.444204656041769,1757.0,22893_0_no,34.19753029258341,-94.36044482380936,5.0
+71944,34.23922,-94.32517,Grannis,AR,Arkansas,True,,814.0,8.0,5113,Polk,"{""05113"": 100}",Polk,05113,False,False,America/Chicago,"(34.23922, -94.32517)",3.515523293434735,1757.0,22893_0_no,34.19753029258341,-94.36044482380936,5.0

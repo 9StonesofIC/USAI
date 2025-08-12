@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48858,43.61483,-84.79576,Mount Pleasant,MI,Michigan,True,,50340.0,111.5,26073,Isabella,"{""26073"": 98.61, ""26111"": 1.39}",Isabella|Midland,26073|26111,False,False,America/Detroit,"(43.61483, -84.79576)",2.33887773507054,50340.0,43493_0_no,43.60716752944317,-84.84129938297978,5.0

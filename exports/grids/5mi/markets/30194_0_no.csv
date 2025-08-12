@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67345,37.37122,-96.20075,Elk Falls,KS,Kansas,True,,124.0,1.1,20049,Elk,"{""20049"": 100}",Elk,20049,False,False,America/Chicago,"(37.37122, -96.20075)",1.1771950829824727,124.0,30194_0_no,37.3881768372015,-96.20283687966275,5.0

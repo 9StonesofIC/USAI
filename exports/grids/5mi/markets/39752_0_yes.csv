@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84312,41.77976,-112.15681,Garland,UT,Utah,True,,4766.0,74.1,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.77976, -112.15681)",4.093722042653657,4978.0,39752_0_yes,41.82046608839416,-112.21456103539592,5.0
+84334,41.78955,-112.15189,Riverside,UT,Utah,True,,212.0,181.9,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.78955, -112.15189)",3.870587415281004,4978.0,39752_0_yes,41.82046608839416,-112.21456103539592,5.0

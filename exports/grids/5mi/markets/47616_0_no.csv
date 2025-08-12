@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56307,45.62666,-94.58769,Albany,MN,Minnesota,True,,5428.0,19.8,27145,Stearns,"{""27145"": 99.31, ""27097"": 0.69}",Stearns|Morrison,27145|27097,False,False,America/Chicago,"(45.62666, -94.58769)",1.4412033437003389,5428.0,47616_0_no,45.64221107738927,-94.56780893548331,5.0

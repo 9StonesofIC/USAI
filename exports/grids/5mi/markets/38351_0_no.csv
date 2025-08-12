@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44804,41.10708,-83.53538,Arcadia,OH,Ohio,True,,1269.0,25.2,39063,Hancock,"{""39063"": 100}",Hancock,39063,False,False,America/New_York,"(41.10708, -83.53538)",3.121784328648079,2883.0,38351_0_no,41.14468904560312,-83.50213867669588,5.0
+44817,41.1987,-83.54676,Bloomdale,OH,Ohio,True,,1614.0,20.2,39173,Wood,"{""39173"": 85.35, ""39063"": 14.65}",Wood|Hancock,39173|39063,False,False,America/New_York,"(41.1987, -83.54676)",4.394555695839911,2883.0,38351_0_no,41.14468904560312,-83.50213867669588,5.0

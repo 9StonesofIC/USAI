@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88101,34.50114,-103.26616,Clovis,NM,New Mexico,True,,46133.0,33.0,35009,Curry,"{""35009"": 98.89, ""35041"": 1.11}",Curry|Roosevelt,35009|35041,False,False,America/Denver,"(34.50114, -103.26616)",10.090726906515988,46133.0,5967_0_no,34.40576623256192,-103.13202911198746,10.0

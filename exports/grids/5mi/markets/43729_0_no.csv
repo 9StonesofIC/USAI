@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05737,43.76778,-72.90434,Chittenden,VT,Vermont,True,,951.0,7.6,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York,"(43.76778, -72.90434)",3.1688718710527137,3729.0,43729_0_no,43.74153479285813,-72.95641189714411,5.0
+05763,43.73678,-72.98946,Pittsford,VT,Vermont,True,,2778.0,29.6,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York,"(43.73678, -72.98946)",1.6821418708388365,3729.0,43729_0_no,43.74153479285813,-72.95641189714411,5.0

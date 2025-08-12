@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54418,45.21566,-88.98003,Bryant,WI,Wisconsin,True,,993.0,4.4,55067,Langlade,"{""55067"": 100}",Langlade,55067,False,False,America/Chicago,"(45.21566, -88.98003)",5.900588860739444,993.0,46754_0_yes,45.27522978241414,-88.89311637454828,5.0

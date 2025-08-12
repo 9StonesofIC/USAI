@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81140,37.28692,-106.1543,La Jara,CO,Colorado,True,,2150.0,2.9,8021,Conejos,"{""08021"": 100}",Conejos,08021,False,False,America/Denver,"(37.28692, -106.1543)",9.242989035188705,2150.0,7631_0_no,37.30926150723393,-106.32010454654416,10.0

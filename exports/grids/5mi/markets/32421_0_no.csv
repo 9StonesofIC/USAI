@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63016,38.35692,-90.65014,Cedar Hill,MO,Missouri,True,,6819.0,94.6,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago,"(38.35692, -90.65014)",2.8603050885222294,19540.0,32421_0_no,38.398254921143256,-90.64723405928996,5.0
+63051,38.39886,-90.57303,House Springs,MO,Missouri,True,,12721.0,114.2,29099,Jefferson,"{""29099"": 100}",Jefferson,29099,False,False,America/Chicago,"(38.39886, -90.57303)",4.018303443143667,19540.0,32421_0_no,38.398254921143256,-90.64723405928996,5.0

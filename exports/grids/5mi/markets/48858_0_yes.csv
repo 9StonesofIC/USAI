@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59642,46.28045,-110.75624,Ringling,MT,Montana,True,,36.0,0.0,30059,Meagher,"{""30059"": 100}",Meagher,30059,False,False,America/Denver,"(46.28045, -110.75624)",2.5640297450297056,36.0,48858_0_yes,46.30822861703486,-110.79185212109932,5.0

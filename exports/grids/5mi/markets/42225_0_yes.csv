@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97417,42.94014,-123.21802,Canyonville,OR,Oregon,True,,2249.0,30.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(42.94014, -123.21802)",3.372588596537993,12614.0,42225_0_yes,42.98875507394197,-123.2240058099616,5.0
+97457,43.05484,-123.2229,Myrtle Creek,OR,Oregon,True,,10365.0,24.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.05484, -123.2229)",4.566375145842657,12614.0,42225_0_yes,42.98875507394197,-123.2240058099616,5.0

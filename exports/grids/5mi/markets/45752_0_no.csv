@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04626,44.68494,-67.22169,Cutler,ME,Maine,True,,609.0,5.0,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.68494, -67.22169)",4.932742488045617,1008.0,45752_0_no,44.7493942056306,-67.17848557463977,5.0
+04691,44.76178,-67.25217,Whiting,ME,Maine,True,,399.0,3.3,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.76178, -67.25217)",3.7151868866270923,1008.0,45752_0_no,44.7493942056306,-67.17848557463977,5.0

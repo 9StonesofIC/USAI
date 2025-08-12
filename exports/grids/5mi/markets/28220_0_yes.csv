@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63933,36.52102,-90.10876,Campbell,MO,Missouri,True,,3337.0,12.6,29069,Dunklin,"{""29069"": 100}",Dunklin,29069,False,False,America/Chicago,"(36.52102, -90.10876)",4.515944896429973,3337.0,28220_0_yes,36.58635842939271,-90.10667047310804,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35183,33.00675,-86.35706,Weogufka,AL,Alabama,True,,663.0,2.8,1037,Coosa,"{""01037"": 100}",Coosa,01037,False,False,America/Chicago,"(33.00675, -86.35706)",5.679869746778358,663.0,19796_0_yes,32.95940469525499,-86.4371745783257,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54555,45.71977,-90.36403,Phillips,WI,Wisconsin,True,,4769.0,5.1,55099,Price,"{""55099"": 100}",Price,55099,False,False,America/Chicago,"(45.71977, -90.36403)",4.680832060532522,4769.0,47622_0_yes,45.710635365210216,-90.2678894557643,5.0

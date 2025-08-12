@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73401,34.21045,-97.11434,Ardmore,OK,Oklahoma,True,,35870.0,39.4,40019,Carter,"{""40019"": 96.86, ""40085"": 2.82, ""40069"": 0.32}",Carter|Love|Johnston,40019|40085|40069,False,False,America/Chicago,"(34.21045, -97.11434)",2.397594126909951,35870.0,22909_0_no,34.19951835609849,-97.15416181461909,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31773,30.97795,-84.04624,Ochlocknee,GA,Georgia,True,,4245.0,19.2,13275,Thomas,"{""13275"": 78.94, ""13131"": 19.09, ""13071"": 1.97}",Thomas|Grady|Colquitt,13275|13131|13071,False,False,America/New_York,"(30.97795, -84.04624)",4.953029163754603,4245.0,15260_0_no,30.99992603057764,-83.96664470066331,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36439,31.42252,-87.34512,Excel,AL,Alabama,True,,508.0,225.6,1099,Monroe,"{""01099"": 100}",Monroe,01099,False,False,America/Chicago,"(31.42252, -87.34512)",1.227858435848386,508.0,16329_0_no,31.43726846748178,-87.33350108916896,5.0

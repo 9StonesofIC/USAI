@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95386,37.67391,-120.63045,Waterford,CA,California,True,,10493.0,42.8,6099,Stanislaus,"{""06099"": 100}",Stanislaus,06099,False,False,America/Los_Angeles,"(37.67391, -120.63045)",5.159105909505291,10493.0,30975_0_no,37.69686234353512,-120.5406657820884,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98065,47.59234,-121.78931,Snoqualmie,WA,Washington,True,,15896.0,87.2,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.59234, -121.78931)",1.9866362019145485,15896.0,51423_0_yes,47.62108782069741,-121.78850839298576,5.0

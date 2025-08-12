@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49950,47.37834,-88.12035,Mohawk,MI,Michigan,True,,1041.0,2.0,26083,Keweenaw,"{""26083"": 100}",Keweenaw,26083,False,False,America/Detroit,"(47.37834, -88.12035)",47.38306098978193,1041.0,844_0_yes,47.9303335521058,-88.72448900086864,40.0

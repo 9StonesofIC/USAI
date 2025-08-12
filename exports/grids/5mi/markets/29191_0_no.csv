@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65438,36.9375,-91.50739,Birch Tree,MO,Missouri,True,,2681.0,3.5,29203,Shannon,"{""29203"": 67.19, ""29149"": 32.81}",Shannon|Oregon,29203|29149,False,False,America/Chicago,"(36.9375, -91.50739)",1.3469554626418907,2681.0,29191_0_no,36.94977725379975,-91.48844286625643,5.0

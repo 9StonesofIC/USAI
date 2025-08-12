@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67556,38.60719,-99.52436,McCracken,KS,Kansas,True,,173.0,0.3,20165,Rush,"{""20165"": 64.14, ""20135"": 23.15, ""20051"": 12.71}",Rush|Ness|Ellis,20165|20135|20051,False,False,America/Chicago,"(38.60719, -99.52436)",1.9627529876846836,173.0,32810_0_yes,38.62253702250747,-99.49376609676968,5.0

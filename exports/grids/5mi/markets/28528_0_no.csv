@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63822,36.65904,-90.00103,Bernie,MO,Missouri,True,,2365.0,11.8,29207,Stoddard,"{""29207"": 92.18, ""29069"": 7.82}",Stoddard|Dunklin,29207|29069,False,False,America/Chicago,"(36.65904, -90.00103)",0.3749192535451953,2365.0,28528_0_no,36.65877978433621,-89.99427358558485,5.0

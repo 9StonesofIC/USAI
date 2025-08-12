@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05491,44.12101,-73.32111,Vergennes,VT,Vermont,True,,5919.0,26.1,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York,"(44.12101, -73.32111)",1.2055223024815347,5919.0,44348_0_yes,44.10361328689882,-73.32296673825103,5.0

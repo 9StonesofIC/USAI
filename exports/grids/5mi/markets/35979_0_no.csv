@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80642,40.05353,-104.61565,Hudson,CO,Colorado,True,,5694.0,22.1,8123,Weld,"{""08123"": 70.38, ""08001"": 29.62}",Weld|Adams,08123|08001,False,False,America/Denver,"(40.05353, -104.61565)",4.453272431145975,5694.0,35979_0_no,40.00320295601981,-104.563064345257,5.0

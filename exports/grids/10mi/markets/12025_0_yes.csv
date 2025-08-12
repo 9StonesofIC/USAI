@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49775,45.76941,-84.46333,Pointe Aux Pins,MI,Michigan,True,,63.0,0.7,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(45.76941, -84.46333)",4.668316611457234,63.0,12025_0_yes,45.81321508058544,-84.38955543889476,10.0

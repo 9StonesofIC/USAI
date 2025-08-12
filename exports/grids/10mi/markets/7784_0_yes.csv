@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67563,37.84627,-99.55931,Offerle,KS,Kansas,True,,353.0,1.3,20047,Edwards,"{""20047"": 51.97, ""20057"": 40.4, ""20083"": 7.63}",Edwards|Ford|Hodgeman,20047|20057|20083,False,False,America/Chicago,"(37.84627, -99.55931)",10.40451130338276,353.0,7784_0_yes,37.73315750117725,-99.43352050937062,10.0

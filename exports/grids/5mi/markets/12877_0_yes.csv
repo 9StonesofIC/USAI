@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77375,30.09393,-95.59095,Tomball,TX,Texas,True,,60115.0,658.8,48201,Harris,"{""48201"": 100}",Harris,48201,False,False,America/Chicago,"(30.09393, -95.59095)",2.7689885076762017,98348.0,12877_0_yes,30.06444249612056,-95.62231350260726,5.0
+77377,30.06141,-95.67608,Tomball,TX,Texas,True,,38233.0,418.9,48201,Harris,"{""48201"": 100}",Harris,48201,False,False,America/Chicago,"(30.06141, -95.67608)",3.22198538879605,98348.0,12877_0_yes,30.06444249612056,-95.62231350260726,5.0

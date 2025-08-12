@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31019,32.42622,-83.0534,Dexter,GA,Georgia,True,,2622.0,18.9,13175,Laurens,"{""13175"": 100}",Laurens,13175,False,False,America/New_York,"(32.42622, -83.0534)",4.5160548747882245,30125.0,18730_0_no,32.44954117578127,-82.98105238362245,5.0
+31021,32.49002,-82.93435,Dublin,GA,Georgia,True,,27503.0,45.5,13175,Laurens,"{""13175"": 100}",Laurens,13175,False,False,America/New_York,"(32.49002, -82.93435)",3.903027683582877,30125.0,18730_0_no,32.44954117578127,-82.98105238362245,5.0

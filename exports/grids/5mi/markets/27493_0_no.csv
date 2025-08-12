@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28651,36.27241,-81.28496,Millers Creek,NC,North Carolina,True,,6332.0,29.0,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.27241, -81.28496)",4.578012283276116,6332.0,27493_0_no,36.21741553492263,-81.23913672352185,5.0

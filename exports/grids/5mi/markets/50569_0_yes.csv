@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83870,47.13862,-116.85372,Tensed,ID,Idaho,True,,383.0,2.3,16009,Benewah,"{""16009"": 100}",Benewah,16009,False,False,America/Los_Angeles,"(47.13862, -116.85372)",4.728827597951338,383.0,50569_0_yes,47.182348862285096,-116.931151719163,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45690,39.13106,-83.01674,Waverly,OH,Ohio,True,,15257.0,41.6,39131,Pike,"{""39131"": 88.04, ""39141"": 11.96}",Pike|Ross,39131|39141,False,False,America/New_York,"(39.13106, -83.01674)",5.172858484084374,15257.0,33995_0_yes,39.18903082098114,-83.07784073956678,5.0

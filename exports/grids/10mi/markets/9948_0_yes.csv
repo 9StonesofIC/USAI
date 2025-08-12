@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43412,41.62933,-83.31961,Curtice,OH,Ohio,True,,4218.0,58.9,39095,Lucas,"{""39095"": 61.62, ""39123"": 38.38}",Lucas|Ottawa,39095|39123,False,False,America/New_York,"(41.62933, -83.31961)",11.71231410387307,4218.0,9948_0_yes,41.76075415039461,-83.17622586839282,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30554,34.40093,-83.65926,Lula,GA,Georgia,True,,8486.0,45.8,13139,Hall,"{""13139"": 60.56, ""13011"": 39.44}",Hall|Banks,13139|13011,False,False,America/New_York,"(34.40093, -83.65926)",1.439604151611136,8486.0,23186_0_yes,34.40735418702238,-83.68328275195388,5.0

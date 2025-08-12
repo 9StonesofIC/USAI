@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58222,48.61853,-97.68221,Crystal,ND,North Dakota,True,,254.0,1.4,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago,"(48.61853, -97.68221)",6.057394564685019,391.0,53468_0_no,48.68363878055808,-97.5933426649752,5.0
+58241,48.70442,-97.69772,Hensel,ND,North Dakota,True,,137.0,0.9,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago,"(48.70442, -97.69772)",4.972186293734565,391.0,53468_0_no,48.68363878055808,-97.5933426649752,5.0

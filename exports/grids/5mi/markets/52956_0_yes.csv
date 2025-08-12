@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58229,48.5182,-98.25087,Fairdale,ND,North Dakota,True,,74.0,0.3,38099,Walsh,"{""38099"": 60.65, ""38019"": 32.92, ""38071"": 6.43}",Walsh|Cavalier|Ramsey,38099|38019|38071,False,False,America/Chicago,"(48.5182, -98.25087)",3.7180509635128387,74.0,52956_0_yes,48.46718354260885,-98.22503902381648,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97049,45.35931,-121.86829,Rhododendron,OR,Oregon,True,,1725.0,4.2,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles,"(45.35931, -121.86829)",4.5737700664780085,3729.0,46915_0_yes,45.30489187061029,-121.92190640279236,5.0
+97067,45.31302,-121.97733,Welches,OR,Oregon,True,,2004.0,34.0,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles,"(45.31302, -121.97733)",2.7510899611422386,3729.0,46915_0_yes,45.30489187061029,-121.92190640279236,5.0

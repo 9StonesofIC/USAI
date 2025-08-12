@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67418,39.18692,-98.05214,Barnard,KS,Kansas,True,,218.0,0.7,20105,Lincoln,"{""20105"": 75.37, ""20123"": 24.63}",Lincoln|Mitchell,20105|20123,False,False,America/Chicago,"(39.18692, -98.05214)",6.419149753806734,218.0,8583_0_yes,39.17965159163271,-98.17163061635551,10.0

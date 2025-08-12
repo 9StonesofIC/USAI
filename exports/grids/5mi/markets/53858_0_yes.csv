@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99146,48.95766,-118.29768,Laurier,WA,Washington,True,,25.0,0.2,53019,Ferry,"{""53019"": 100}",Ferry,53019,False,False,America/Los_Angeles,"(48.95766, -118.29768)",5.439508530723183,138.0,53858_0_yes,48.92018094694881,-118.1922802100075,5.0
+99160,48.86895,-118.30122,Orient,WA,Washington,True,,113.0,0.9,53019,Ferry,"{""53019"": 100}",Ferry,53019,False,False,America/Los_Angeles,"(48.86895, -118.30122)",6.084276258246174,138.0,53858_0_yes,48.92018094694881,-118.1922802100075,5.0

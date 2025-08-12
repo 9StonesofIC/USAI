@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28146,35.62194,-80.39563,Salisbury,NC,North Carolina,True,,30212.0,120.1,37159,Rowan,"{""37159"": 100}",Rowan,37159,False,False,America/New_York,"(35.62194, -80.39563)",4.739658063202216,30212.0,26164_0_no,35.637020701455995,-80.31329791971393,5.0

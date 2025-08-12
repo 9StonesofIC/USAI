@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99008,47.50449,-117.93533,Edwall,WA,Washington,True,,470.0,1.2,53043,Lincoln,"{""53043"": 94.64, ""53063"": 5.36}",Lincoln|Spokane,53043|53063,False,False,America/Los_Angeles,"(47.50449, -117.93533)",2.3649108557967002,470.0,51129_0_yes,47.47277616586765,-117.95438354948874,5.0

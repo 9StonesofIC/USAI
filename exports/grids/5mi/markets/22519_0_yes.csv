@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30124,34.12872,-85.35589,Cave Spring,GA,Georgia,True,,3048.0,19.6,13115,Floyd,"{""13115"": 98.94, ""13233"": 1.06}",Floyd|Polk,13115|13233,False,False,America/New_York,"(34.12872, -85.35589)",2.3374777363109813,3048.0,22519_0_yes,34.11862615443607,-85.39489538641543,5.0

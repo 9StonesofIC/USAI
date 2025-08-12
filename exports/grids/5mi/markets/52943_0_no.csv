@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58703,48.32646,-101.31637,Minot,ND,North Dakota,True,,22524.0,55.7,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago,"(48.32646, -101.31637)",6.4423996503839644,27610.0,52943_0_no,48.39773647557884,-101.2258939449861,5.0
+58704,48.4232,-101.33152,Minot Afb,ND,North Dakota,True,,5086.0,415.0,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago,"(48.4232, -101.33152)",5.153965764291354,27610.0,52943_0_no,48.39773647557884,-101.2258939449861,5.0

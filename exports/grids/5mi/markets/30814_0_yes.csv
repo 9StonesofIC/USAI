@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42356,37.69364,-87.32289,Maple Mount,KY,Kentucky,True,,94.0,808.5,21059,Daviess,"{""21059"": 100}",Daviess,21059,False,False,America/Chicago,"(37.69364, -87.32289)",4.584747808915176,94.0,30814_0_yes,37.74362141162469,-87.37806617868546,5.0

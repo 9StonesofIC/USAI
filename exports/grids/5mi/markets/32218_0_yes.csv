@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81424,38.34098,-108.47346,Nucla,CO,Colorado,True,,1080.0,1.2,8085,Montrose,"{""08085"": 100}",Montrose,08085,False,False,America/Denver,"(38.34098, -108.47346)",2.2913146914629183,1080.0,32218_0_yes,38.339721299496425,-108.43120960116362,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72569,36.08121,-91.45817,Poughkeepsie,AR,Arkansas,True,,674.0,7.8,5135,Sharp,"{""05135"": 100}",Sharp,05135,False,False,America/Chicago,"(36.08121, -91.45817)",6.8280181214038524,674.0,27238_0_yes,36.15248249966438,-91.37342806929752,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78801,29.36407,-99.88476,Uvalde,TX,Texas,True,,22707.0,10.3,48463,Uvalde,"{""48463"": 97.61, ""48385"": 2.39}",Uvalde|Real,48463|48385,False,False,America/Chicago,"(29.36407, -99.88476)",8.336388506176727,22707.0,3012_0_no,29.471225603657583,-99.94842132802508,10.0

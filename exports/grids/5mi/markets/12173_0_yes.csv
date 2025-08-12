@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78934,29.7023,-96.56741,Columbus,TX,Texas,True,,6698.0,11.7,48089,Colorado,"{""48089"": 100}",Colorado,48089,False,False,America/Chicago,"(29.7023, -96.56741)",5.28244561885781,6698.0,12173_0_yes,29.77482156718725,-96.5395358948472,5.0

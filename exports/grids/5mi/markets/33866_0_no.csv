@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95950,39.05144,-121.92196,Grimes,CA,California,True,,494.0,3.6,6011,Colusa,"{""06011"": 100}",Colusa,06011,False,False,America/Los_Angeles,"(39.05144, -121.92196)",3.6376760313581746,494.0,33866_0_no,39.00272057421587,-121.94765025509686,5.0

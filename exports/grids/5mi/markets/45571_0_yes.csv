@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48621,44.72064,-83.99408,Fairview,MI,Michigan,True,,1058.0,8.0,26135,Oscoda,"{""26135"": 100}",Oscoda,26135,False,False,America/Detroit,"(44.72064, -83.99408)",2.1721106593273376,1058.0,45571_0_yes,44.69192773215866,-83.97606632696498,5.0

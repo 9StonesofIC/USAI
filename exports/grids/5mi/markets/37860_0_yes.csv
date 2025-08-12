@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80726,40.91044,-102.7773,Crook,CO,Colorado,True,,471.0,1.2,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.91044, -102.7773)",3.466055888202262,471.0,37860_0_yes,40.9434350301692,-102.82731243905646,5.0

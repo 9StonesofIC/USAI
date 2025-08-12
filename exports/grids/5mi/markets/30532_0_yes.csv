@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66780,37.60895,-95.05881,Walnut,KS,Kansas,True,,513.0,1.9,20037,Crawford,"{""20037"": 62.91, ""20133"": 27.24, ""20011"": 9.85}",Crawford|Neosho|Bourbon,20037|20133|20011,False,False,America/Chicago,"(37.60895, -95.05881)",2.5777430273670277,513.0,30532_0_yes,37.60468439079367,-95.10559443649096,5.0

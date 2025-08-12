@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81325,37.89605,-108.72011,Egnar,CO,Colorado,True,,140.0,0.1,8033,Dolores,"{""08033"": 51.12, ""08113"": 48.88}",Dolores|San Miguel,08033|08113,False,False,America/Denver,"(37.89605, -108.72011)",0.9599870807007648,140.0,7961_0_no,37.892644156225735,-108.73717929280934,10.0

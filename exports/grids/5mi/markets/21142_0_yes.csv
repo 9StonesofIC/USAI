@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30802,33.60215,-82.31832,Appling,GA,Georgia,True,,6243.0,18.2,13073,Columbia,"{""13073"": 98.49, ""13189"": 1.51}",Columbia|McDuffie,13073|13189,False,False,America/New_York,"(33.60215, -82.31832)",5.406033602226136,6243.0,21142_0_yes,33.53656570215368,-82.3695289170323,5.0

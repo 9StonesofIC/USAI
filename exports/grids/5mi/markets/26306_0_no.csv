@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87552,35.67026,-105.61382,Pecos,NM,New Mexico,True,,2721.0,5.1,35047,San Miguel,"{""35047"": 100}",San Miguel,35047,False,False,America/Denver,"(35.67026, -105.61382)",3.8913154487117554,2721.0,26306_0_no,35.655634867616456,-105.54687823866568,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86052,36.29112,-112.12543,North Rim,AZ,Arizona,True,,316.0,0.1,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix,"(36.29112, -112.12543)",1.7698172503073213,316.0,7001_0_yes,36.30329015365957,-112.0974644619304,10.0

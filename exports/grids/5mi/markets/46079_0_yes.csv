@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04427,44.9805,-69.01063,Corinth,ME,Maine,True,,2808.0,26.9,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.9805, -69.01063)",3.526260396413437,4031.0,46079_0_yes,44.968073583219024,-69.08060246830674,5.0
+04435,44.96435,-69.13539,Exeter,ME,Maine,True,,1223.0,12.2,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.96435, -69.13539)",2.6906293539999004,4031.0,46079_0_yes,44.968073583219024,-69.08060246830674,5.0

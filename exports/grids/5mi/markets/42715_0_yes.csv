@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57714,43.32689,-101.91843,Allen,SD,South Dakota,True,,793.0,1.9,46007,Bennett,"{""46007"": 92.97, ""46071"": 7.03}",Bennett|Jackson,46007|46071,False,False,America/Denver,"(43.32689, -101.91843)",6.329811101471988,793.0,42715_0_yes,43.26008385715252,-102.00455733512084,5.0

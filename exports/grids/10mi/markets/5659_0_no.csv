@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85325,33.98328,-113.84323,Bouse,AZ,Arizona,True,,1281.0,0.7,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix,"(33.98328, -113.84323)",12.408700828923687,4117.0,5659_0_no,33.840804838894186,-113.71148232192525,10.0
+85348,33.69914,-113.66372,Salome,AZ,Arizona,True,,2836.0,1.6,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix,"(33.69914, -113.66372)",10.165261306979628,4117.0,5659_0_no,33.840804838894186,-113.71148232192525,10.0

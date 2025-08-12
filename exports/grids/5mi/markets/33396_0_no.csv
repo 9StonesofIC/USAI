@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64019,38.77543,-93.86665,Centerview,MO,Missouri,True,,2052.0,9.3,29101,Johnson,"{""29101"": 100}",Johnson,29101,False,False,America/Chicago,"(38.77543, -93.86665)",6.40618869109798,29905.0,33396_0_no,38.835405742392176,-93.77591591697148,5.0
+64093,38.79057,-93.73206,Warrensburg,MO,Missouri,True,,27853.0,56.5,29101,Johnson,"{""29101"": 100}",Johnson,29101,False,False,America/Chicago,"(38.79057, -93.73206)",3.8950511318201877,29905.0,33396_0_no,38.835405742392176,-93.77591591697148,5.0

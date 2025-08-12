@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77982,28.44903,-96.48657,Port O'Connor,TX,Texas,True,,1139.0,10.3,48057,Calhoun,"{""48057"": 100}",Calhoun,48057,False,False,America/Chicago,"(28.44903, -96.48657)",12.521399278712511,3553.0,2287_0_no,28.306712187863365,-96.6140893661115,10.0
+77983,28.39874,-96.64049,Seadrift,TX,Texas,True,,2414.0,10.8,48057,Calhoun,"{""48057"": 100}",Calhoun,48057,False,False,America/Chicago,"(28.39874, -96.64049)",6.558024588878687,3553.0,2287_0_no,28.306712187863365,-96.6140893661115,10.0

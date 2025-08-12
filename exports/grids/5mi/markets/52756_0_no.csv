@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98829,48.31103,-119.80822,Malott,WA,Washington,True,,451.0,2.5,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.31103, -119.80822)",5.041884861848735,451.0,52756_0_no,48.27048429766045,-119.71703364508708,5.0

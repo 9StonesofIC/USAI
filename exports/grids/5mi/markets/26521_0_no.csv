@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37337,35.78594,-84.86651,Grandview,TN,Tennessee,True,,1330.0,8.5,47143,Rhea,"{""47143"": 50.23, ""47035"": 43.86, ""47007"": 5.91}",Rhea|Cumberland|Bledsoe,47143|47035|47007,False,False,America/Chicago,"(35.78594, -84.86651)",0.33545183591699146,1330.0,26521_0_no,35.7853167876028,-84.86057457096373,5.0

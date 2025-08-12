@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49646,44.72727,-85.04926,Kalkaska,MI,Michigan,True,,8246.0,14.5,26079,Kalkaska,"{""26079"": 100}",Kalkaska,26079,False,False,America/Detroit,"(44.72727, -85.04926)",2.7372410231582673,8246.0,45840_0_no,44.76531031567815,-85.06483747125642,5.0

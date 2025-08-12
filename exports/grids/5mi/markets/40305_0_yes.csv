@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69366,42.13175,-101.5421,Whitman,NE,Nebraska,True,,284.0,0.2,31031,Cherry,"{""31031"": 58.32, ""31075"": 39.42, ""31005"": 2.26}",Cherry|Grant|Arthur,31031|31075|31005,False,False,America/Denver,"(42.13175, -101.5421)",4.930450191810351,284.0,40305_0_yes,42.10106622017232,-101.45524792997662,5.0

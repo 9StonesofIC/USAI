@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38311,35.43842,-88.09737,Bath Springs,TN,Tennessee,True,,907.0,6.3,47039,Decatur,"{""47039"": 100}",Decatur,47039,False,False,America/Chicago,"(35.43842, -88.09737)",5.963500814548223,907.0,25875_0_no,35.49775137456569,-88.02040372380249,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97640,42.90742,-120.65381,Summer Lake,OR,Oregon,True,,179.0,0.2,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles,"(42.90742, -120.65381)",5.214766928746259,179.0,10650_0_yes,42.98280225719415,-120.65889631087649,10.0

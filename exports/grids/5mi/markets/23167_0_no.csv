@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30521,34.36202,-83.29355,Carnesville,GA,Georgia,True,,4683.0,19.6,13119,Franklin,"{""13119"": 94.16, ""13011"": 5.84}",Franklin|Banks,13119|13011,False,False,America/New_York,"(34.36202, -83.29355)",1.90760895098771,4683.0,23167_0_no,34.33462386364094,-83.28940427657028,5.0

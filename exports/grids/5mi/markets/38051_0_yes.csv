@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16156,41.09702,-80.21943,Volant,PA,Pennsylvania,True,,3148.0,23.7,42073,Lawrence,"{""42073"": 78.68, ""42085"": 21.32}",Lawrence|Mercer,42073|42085,False,False,America/New_York,"(41.09702, -80.21943)",2.7771022785536696,3148.0,38051_0_yes,41.0694778904086,-80.18059297556304,5.0

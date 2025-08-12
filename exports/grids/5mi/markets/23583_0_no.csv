@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73086,34.48915,-96.97251,Sulphur,OK,Oklahoma,True,,8644.0,21.0,40099,Murray,"{""40099"": 98.43, ""40069"": 1.57}",Murray|Johnston,40099|40069,False,False,America/Chicago,"(34.48915, -96.97251)",4.888882478468612,8644.0,23583_0_no,34.4894612089574,-97.05835585093952,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15411,39.74724,-79.34344,Addison,PA,Pennsylvania,True,,629.0,12.9,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(39.74724, -79.34344)",4.028523537675079,2632.0,35217_0_no,39.69301339967822,-79.3155863375552,5.0
+21520,39.63661,-79.30786,Accident,MD,Maryland,True,,2003.0,13.6,24023,Garrett,"{""24023"": 100}",Garrett,24023,False,False,America/New_York,"(39.63661, -79.30786)",3.918710644957548,2632.0,35217_0_no,39.69301339967822,-79.3155863375552,5.0

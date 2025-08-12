@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84741,37.19749,-112.25533,Kanab,UT,Utah,True,,6180.0,1.8,49025,Kane,"{""49025"": 100}",Kane,49025,False,False,America/Denver,"(37.19749, -112.25533)",16.939796034383992,6180.0,1914_0_yes,37.15285240903741,-111.95277327689284,20.0

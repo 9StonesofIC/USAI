@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86032,35.04288,-110.32234,Joseph City,AZ,Arizona,True,,2034.0,3.8,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(35.04288, -110.32234)",3.7485743410052215,2034.0,25000_0_no,35.07905619025239,-110.27294478161988,5.0

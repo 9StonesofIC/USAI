@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85601,31.58453,-111.33359,Arivaca,AZ,Arizona,True,,692.0,1.6,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix,"(31.58453, -111.33359)",17.757146443784467,726.0,1065_0_yes,31.35385912146977,-111.46644894096052,20.0
+85633,31.60632,-111.52827,Sasabe,AZ,Arizona,True,,34.0,0.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix,"(31.60632, -111.52827)",17.819691144992866,726.0,1065_0_yes,31.35385912146977,-111.46644894096052,20.0

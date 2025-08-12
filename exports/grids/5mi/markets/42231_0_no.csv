@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03905,43.08481,-70.68449,Kittery Point,ME,Maine,True,,1717.0,96.2,23031,York,"{""23031"": 100}",York,23031,False,False,America/New_York,"(43.08481, -70.68449)",6.071386664239546,1717.0,42231_0_no,43.01583784651817,-70.60998356422459,5.0

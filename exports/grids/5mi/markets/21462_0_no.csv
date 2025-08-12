@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29805,33.6495,-81.61044,Aiken,SC,South Carolina,True,,5409.0,21.4,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York,"(33.6495, -81.61044)",4.032806803705902,5409.0,21462_0_no,33.6085250589564,-81.56051814366177,5.0

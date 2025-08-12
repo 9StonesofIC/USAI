@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49806,46.43802,-86.90056,Au Train,MI,Michigan,True,,679.0,7.5,26003,Alger,"{""26003"": 100}",Alger,26003,False,False,America/Detroit,"(46.43802, -86.90056)",5.306138600159835,885.0,49281_0_no,46.50355351052744,-86.95869417685206,5.0
+49822,46.45095,-87.02812,Deerton,MI,Michigan,True,,206.0,1.4,26003,Alger,"{""26003"": 97.46, ""26103"": 2.54}",Alger|Marquette,26003|26103,False,False,America/Detroit,"(46.45095, -87.02812)",4.911411691120039,885.0,49281_0_no,46.50355351052744,-86.95869417685206,5.0

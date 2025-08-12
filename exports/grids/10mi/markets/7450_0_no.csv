@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67840,37.0736,-100.01097,Englewood,KS,Kansas,True,,92.0,1.1,20025,Clark,"{""20025"": 100}",Clark,20025,False,False,America/Chicago,"(37.0736, -100.01097)",8.43818325087534,208.0,7450_0_no,37.00961639833083,-99.88064555638928,10.0
+73855,36.88481,-99.85877,Rosston,OK,Oklahoma,True,,116.0,0.3,40059,Harper,"{""40059"": 100}",Harper,40059,False,False,America/Chicago,"(36.88481, -99.85877)",8.707493064734981,208.0,7450_0_no,37.00961639833083,-99.88064555638928,10.0

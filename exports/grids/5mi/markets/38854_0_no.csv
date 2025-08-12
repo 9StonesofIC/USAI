@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96054,41.26665,-121.10633,Lookout,CA,California,True,,265.0,0.9,6049,Modoc,"{""06049"": 100}",Modoc,06049,False,False,America/Los_Angeles,"(41.26665, -121.10633)",4.06561167862446,265.0,38854_0_no,41.320862296846514,-121.07587926709134,5.0

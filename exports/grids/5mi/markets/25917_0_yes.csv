@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72088,35.59803,-92.26239,Fairfield Bay,AR,Arkansas,True,,2387.0,63.4,5141,Van Buren,"{""05141"": 78.71, ""05023"": 21.29}",Van Buren|Cleburne,05141|05023,False,False,America/Chicago,"(35.59803, -92.26239)",4.049047418722632,2387.0,25917_0_yes,35.573362985130586,-92.32775543276487,5.0

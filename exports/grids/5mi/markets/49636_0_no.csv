@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58641,46.66732,-102.48551,Lefor,ND,North Dakota,True,,87.0,0.4,38089,Stark,"{""38089"": 100}",Stark,38089,False,False,America/Denver,"(46.66732, -102.48551)",3.306642714923773,87.0,49636_0_no,46.66244607957152,-102.41613624047514,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24236,36.64408,-81.73689,Damascus,VA,Virginia,True,,3060.0,19.7,51191,Washington,"{""51191"": 95.94, ""51173"": 4.06}",Washington|Smyth,51191|51173,False,False,America/New_York,"(36.64408, -81.73689)",1.3666612917265002,3060.0,28482_0_no,36.65252406130472,-81.71459583099374,5.0

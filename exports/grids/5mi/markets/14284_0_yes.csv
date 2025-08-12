@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77335,30.58901,-94.92353,Goodrich,TX,Texas,True,,3468.0,35.1,48373,Polk,"{""48373"": 100}",Polk,48373,False,False,America/Chicago,"(30.58901, -94.92353)",4.025162041838573,3468.0,14284_0_yes,30.64436386698773,-94.94463233570734,5.0

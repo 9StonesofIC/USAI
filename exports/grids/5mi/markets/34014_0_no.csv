@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62031,39.1123,-90.53355,Fieldon,IL,Illinois,True,,678.0,4.4,17083,Jersey,"{""17083"": 100}",Jersey,17083,False,False,America/Chicago,"(39.1123, -90.53355)",2.7043511071655764,678.0,34014_0_no,39.12255621670907,-90.48486450738729,5.0

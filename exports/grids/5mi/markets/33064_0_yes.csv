@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47512,38.779,-87.31809,Bicknell,IN,Indiana,True,,3970.0,32.0,18083,Knox,"{""18083"": 100}",Knox,18083,False,False,America/Indiana/Vincennes,"(38.779, -87.31809)",4.989306046765945,5236.0,33064_0_yes,38.75787261803583,-87.40665314048233,5.0
+47516,38.7645,-87.41857,Bruceville,IN,Indiana,True,,1266.0,16.8,18083,Knox,"{""18083"": 100}",Knox,18083,False,False,America/Indiana/Vincennes,"(38.7645, -87.41857)",0.7886018872531392,5236.0,33064_0_yes,38.75787261803583,-87.40665314048233,5.0

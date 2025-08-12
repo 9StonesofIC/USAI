@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27957,36.05577,-76.76293,Merry Hill,NC,North Carolina,True,,1153.0,8.3,37015,Bertie,"{""37015"": 100}",Bertie,37015,False,False,America/New_York,"(36.05577, -76.76293)",7.052913378197578,9699.0,6737_0_yes,35.96086195775246,-76.80938818159812,10.0
+27983,35.98198,-76.94704,Windsor,NC,North Carolina,True,,8546.0,10.4,37015,Bertie,"{""37015"": 100}",Bertie,37015,False,False,America/New_York,"(35.98198, -76.94704)",7.834291491633319,9699.0,6737_0_yes,35.96086195775246,-76.80938818159812,10.0

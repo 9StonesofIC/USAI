@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79241,34.18069,-101.38507,Lockney,TX,Texas,True,,2166.0,2.2,48153,Floyd,"{""48153"": 99.3, ""48437"": 0.7}",Floyd|Swisher,48153|48437,False,False,America/Chicago,"(34.18069, -101.38507)",6.401182175555347,2226.0,5793_0_no,34.1134621008239,-101.46209532357535,10.0
+79258,34.24344,-101.29647,South Plains,TX,Texas,True,,60.0,1.2,48153,Floyd,"{""48153"": 100}",Floyd,48153,False,False,America/Chicago,"(34.24344, -101.29647)",13.049119635112598,2226.0,5793_0_no,34.1134621008239,-101.46209532357535,10.0

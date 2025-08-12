@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57066,42.98874,-97.86703,Tyndall,SD,South Dakota,True,,1484.0,5.0,46009,Bon Homme,"{""46009"": 100}",Bon Homme,46009,False,False,America/Chicago,"(42.98874, -97.86703)",3.5214671973763307,1484.0,42369_0_no,43.03934299240338,-97.8587169253608,5.0

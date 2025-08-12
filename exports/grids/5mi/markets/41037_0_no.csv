@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+01037,42.37063,-72.19466,Hardwick,MA,Massachusetts,True,,642.0,13.3,25027,Worcester,"{""25027"": 100}",Worcester,25027,False,False,America/New_York,"(42.37063, -72.19466)",6.626287775507209,1623.0,41037_0_no,42.43829058164766,-72.28670576576349,5.0
+01355,42.45101,-72.33141,New Salem,MA,Massachusetts,True,,981.0,8.0,25011,Franklin,"{""25011"": 100}",Franklin,25011,False,False,America/New_York,"(42.45101, -72.33141)",2.4428504975549226,1623.0,41037_0_no,42.43829058164766,-72.28670576576349,5.0

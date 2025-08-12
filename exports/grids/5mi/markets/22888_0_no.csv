@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71921,34.25435,-93.40109,Amity,AR,Arkansas,True,,3552.0,6.8,5019,Clark,"{""05019"": 69.81, ""05109"": 21.6, ""05059"": 8.59}",Clark|Pike|Hot Spring,05019|05109|05059,False,False,America/Chicago,"(34.25435, -93.40109)",6.330552028867264,3552.0,22888_0_no,34.19690905298859,-93.48742171100145,5.0

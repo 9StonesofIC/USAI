@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87710,36.3729,-105.23873,Angel Fire,NM,New Mexico,True,,1450.0,3.9,35007,Colfax,"{""35007"": 100}",Colfax,35007,False,False,America/Denver,"(36.3729, -105.23873)",6.185701507425321,1699.0,6982_0_yes,36.29308777754468,-105.28907706685736,10.0
+87713,36.1708,-105.36111,Chacon,NM,New Mexico,True,,249.0,1.3,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(36.1708, -105.36111)",9.354537232779167,1699.0,6982_0_yes,36.29308777754468,-105.28907706685736,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77904,28.91788,-97.0311,Victoria,TX,Texas,True,,28838.0,101.3,48469,Victoria,"{""48469"": 100}",Victoria,48469,False,False,America/Chicago,"(28.91788, -97.0311)",4.25639293579499,28838.0,10385_0_no,28.9770172314374,-97.01138018888844,5.0

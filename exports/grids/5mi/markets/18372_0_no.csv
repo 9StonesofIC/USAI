@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29909,32.34042,-80.85465,Okatie,SC,South Carolina,True,,20554.0,142.6,45013,Beaufort,"{""45013"": 98.38, ""45053"": 1.62}",Beaufort|Jasper,45013|45053,False,False,America/New_York,"(32.34042, -80.85465)",3.056319141515945,20554.0,18372_0_no,32.303071290587255,-80.82660254761407,5.0

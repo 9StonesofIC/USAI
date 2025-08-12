@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80137,39.70901,-104.59235,Watkins,CO,Colorado,True,,2157.0,7.7,8005,Arapahoe,"{""08005"": 59.33, ""08001"": 40.67}",Arapahoe|Adams,08005|08001,False,False,America/Denver,"(39.70901, -104.59235)",4.974820965504946,2157.0,35059_0_yes,39.64092109639179,-104.56193273948656,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68748,41.83883,-97.47638,Madison,NE,Nebraska,True,,2731.0,6.1,31119,Madison,"{""31119"": 82.71, ""31167"": 17.29}",Madison|Stanton,31119|31167,False,False,America/Chicago,"(41.83883, -97.47638)",2.323784686346524,2731.0,39676_0_yes,41.8080566958113,-97.49459000493847,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72326,35.11183,-90.89333,Colt,AR,Arkansas,True,,1837.0,7.6,5123,St. Francis,"{""05123"": 93.23, ""05037"": 6.77}",St. Francis|Cross,05123|05037,False,False,America/Chicago,"(35.11183, -90.89333)",2.096450315554391,1837.0,24908_0_yes,35.137423286032465,-90.91325701242434,5.0

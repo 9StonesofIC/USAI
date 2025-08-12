@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83428,43.3833,-111.16093,Irwin,ID,Idaho,True,,625.0,1.0,16019,Bonneville,"{""16019"": 100}",Bonneville,16019,False,False,America/Boise,"(43.3833, -111.16093)",8.521617133037847,793.0,10911_0_no,43.401302908022174,-111.32883874261972,10.0
+83449,43.42487,-111.35966,Swan Valley,ID,Idaho,True,,168.0,0.3,16019,Bonneville,"{""16019"": 100}",Bonneville,16019,False,False,America/Boise,"(43.42487, -111.35966)",2.245993073412747,793.0,10911_0_no,43.401302908022174,-111.32883874261972,10.0

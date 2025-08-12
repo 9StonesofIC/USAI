@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93706,36.65344,-119.90216,Fresno,CA,California,True,,41534.0,101.2,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.65344, -119.90216)",2.327180856487112,41534.0,28694_0_no,36.68136657712486,-119.87868486145491,5.0

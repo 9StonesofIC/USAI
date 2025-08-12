@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31563,31.73653,-82.18288,Surrency,GA,Georgia,True,,1183.0,3.8,13001,Appling,"{""13001"": 100}",Appling,13001,False,False,America/New_York,"(31.73653, -82.18288)",4.217516488119211,1183.0,17007_0_yes,31.79638971959063,-82.16882504912903,5.0

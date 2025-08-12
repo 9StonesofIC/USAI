@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71272,32.52928,-92.6517,Ruston,LA,Louisiana,True,,1272.0,1321.0,22061,Lincoln,"{""22061"": 100}",Lincoln,22061,False,False,America/Chicago,"(32.52928, -92.6517)",5.3404022905833095,1272.0,19131_0_no,32.601170686290686,-92.68538336698354,5.0

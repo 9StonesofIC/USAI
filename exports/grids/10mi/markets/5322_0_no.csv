@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92266,33.17507,-114.92594,Palo Verde,CA,California,True,,119.0,0.0,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(33.17507, -114.92594)",8.506247107382535,119.0,5322_0_no,33.2621932932548,-114.82196541476492,10.0

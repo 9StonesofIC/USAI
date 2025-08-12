@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81625,40.70295,-107.74652,Craig,CO,Colorado,True,,12670.0,3.2,8081,Moffat,"{""08081"": 100}",Moffat,08081,False,False,America/Denver,"(40.70295, -107.74652)",14.472739036307688,15602.0,2387_0_yes,40.6142967652886,-107.4963492198968,20.0
+81639,40.52636,-107.24457,Hayden,CO,Colorado,True,,2932.0,2.4,8107,Routt,"{""08107"": 100}",Routt,08107,False,False,America/Denver,"(40.52636, -107.24457)",14.544247246225886,15602.0,2387_0_yes,40.6142967652886,-107.4963492198968,20.0

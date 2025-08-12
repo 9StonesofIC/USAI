@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75156,32.28759,-96.09999,Mabank,TX,Texas,True,,16718.0,201.3,48213,Henderson,"{""48213"": 100}",Henderson,48213,False,False,America/Chicago,"(32.28759, -96.09999)",3.9266550808631417,16718.0,18130_0_yes,32.24087839974945,-96.13827042907118,5.0

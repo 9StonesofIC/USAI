@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73730,36.31754,-97.54765,Covington,OK,Oklahoma,True,,701.0,4.7,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago,"(36.31754, -97.54765)",5.557390829425884,1680.0,27913_0_no,36.37452174656186,-97.4771709806015,5.0
+73738,36.44463,-97.55315,Garber,OK,Oklahoma,True,,979.0,4.1,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago,"(36.44463, -97.55315)",6.427613065924474,1680.0,27913_0_no,36.37452174656186,-97.4771709806015,5.0

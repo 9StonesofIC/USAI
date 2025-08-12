@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28757,35.64781,-82.30006,Montreat,NC,North Carolina,True,,29.0,4.1,37021,Buncombe,"{""37021"": 100}",Buncombe,37021,False,False,America/New_York,"(35.64781, -82.30006)",4.38881893846074,29.0,26193_0_yes,35.71092317565687,-82.3088969561651,5.0

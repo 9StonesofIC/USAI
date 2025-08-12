@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29826,33.383,-81.36697,Elko,SC,South Carolina,True,,321.0,61.4,45011,Barnwell,"{""45011"": 100}",Barnwell,45011,False,False,America/New_York,"(33.383, -81.36697)",4.485361948022839,321.0,20779_0_no,33.31841677526205,-81.35909519558567,5.0

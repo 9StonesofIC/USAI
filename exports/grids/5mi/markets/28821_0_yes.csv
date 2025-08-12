@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24185,36.80868,-80.27557,Woolwine,VA,Virginia,True,,729.0,8.0,51141,Patrick,"{""51141"": 100}",Patrick,51141,False,False,America/New_York,"(36.80868, -80.27557)",4.907296899681053,729.0,28821_0_yes,36.86872146162021,-80.22816434535227,5.0

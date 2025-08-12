@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68624,41.34974,-97.22858,Bellwood,NE,Nebraska,True,,965.0,5.2,31023,Butler,"{""31023"": 100}",Butler,31023,False,False,America/Chicago,"(41.34974, -97.22858)",3.7539537428679357,965.0,38756_0_yes,41.37338417847168,-97.29375446767963,5.0

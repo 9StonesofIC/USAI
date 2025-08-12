@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04779,47.11615,-68.31162,Sinclair,ME,Maine,True,,301.0,1.2,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(47.11615, -68.31162)",1.6917725961364847,301.0,50340_0_yes,47.137329697638734,-68.3296778351069,5.0

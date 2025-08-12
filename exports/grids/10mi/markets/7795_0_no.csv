@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81130,37.7179,-107.04471,Creede,CO,Colorado,True,,807.0,0.3,8079,Mineral,"{""08079"": 70.47, ""08053"": 29.53}",Mineral|Hinsdale,08079|08053,False,False,America/Denver,"(37.7179, -107.04471)",8.932845483622646,807.0,7795_0_no,37.600096259036,-106.9774260183389,10.0

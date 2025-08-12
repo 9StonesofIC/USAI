@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80807,39.31575,-102.23303,Burlington,CO,Colorado,True,,4460.0,2.3,8063,Kit Carson,"{""08063"": 94.54, ""08125"": 5.46}",Kit Carson|Yuma,08063|08125,False,False,America/Denver,"(39.31575, -102.23303)",2.4239914633766104,4460.0,34415_0_yes,39.34923651037335,-102.2195038901612,5.0

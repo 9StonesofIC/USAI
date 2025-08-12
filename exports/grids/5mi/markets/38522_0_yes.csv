@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84018,41.20535,-111.42716,Croydon,UT,Utah,True,,284.0,0.6,49029,Morgan,"{""49029"": 100}",Morgan,49029,False,False,America/Denver,"(41.20535, -111.42716)",3.8971863252019485,284.0,38522_0_yes,41.24027435280594,-111.36827320892144,5.0

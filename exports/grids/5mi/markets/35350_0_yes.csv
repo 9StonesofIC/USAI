@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67654,39.83067,-99.95573,Norton,KS,Kansas,True,,4118.0,4.6,20137,Norton,"{""20137"": 100}",Norton,20137,False,False,America/Chicago,"(39.83067, -99.95573)",4.428394699091829,4118.0,35350_0_yes,39.782134551139535,-100.0102193189987,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93208,36.1298,-118.63982,Camp Nelson,CA,California,True,,110.0,5.5,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.1298, -118.63982)",7.142682006537581,3340.0,7011_0_no,36.168425685040354,-118.75857153416725,10.0
+93265,36.20713,-118.70876,Springville,CA,California,True,,3230.0,3.2,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.20713, -118.70876)",3.855784945154538,3340.0,7011_0_no,36.168425685040354,-118.75857153416725,10.0

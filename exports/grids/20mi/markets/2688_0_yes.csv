@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69346,42.66459,-103.80651,Harrison,NE,Nebraska,True,,518.0,0.2,31165,Sioux,"{""31165"": 100}",Sioux,31165,False,False,America/Denver,"(42.66459, -103.80651)",18.240506096886616,783.0,2688_0_yes,42.91689253747436,-103.70061997251656,20.0
+69367,42.81651,-103.32332,Whitney,NE,Nebraska,True,,265.0,0.4,31045,Dawes,"{""31045"": 100}",Dawes,31045,False,False,America/Denver,"(42.81651, -103.32332)",20.32679998628833,783.0,2688_0_yes,42.91689253747436,-103.70061997251656,20.0

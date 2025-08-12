@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50523,42.36783,-94.29357,Callender,IA,Iowa,True,,561.0,5.2,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.36783, -94.29357)",4.0728092539299245,2538.0,40847_0_no,42.31223829322726,-94.26705061007335,5.0
+50543,42.27434,-94.30666,Gowrie,IA,Iowa,True,,1404.0,6.8,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.27434, -94.30666)",3.3098118830724186,2538.0,40847_0_no,42.31223829322726,-94.26705061007335,5.0
+50544,42.2537,-94.17042,Harcourt,IA,Iowa,True,,573.0,7.0,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.2537, -94.17042)",6.384171045550157,2538.0,40847_0_no,42.31223829322726,-94.26705061007335,5.0

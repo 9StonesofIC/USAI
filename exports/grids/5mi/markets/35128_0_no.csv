@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95965,39.59169,-121.59034,Oroville,CA,California,True,,20681.0,25.6,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.59169, -121.59034)",2.3283698711321947,20681.0,35128_0_no,39.58220301583819,-121.5483811985552,5.0

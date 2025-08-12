@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79357,33.64659,-101.40577,Ralls,TX,Texas,True,,2071.0,3.3,48107,Crosby,"{""48107"": 100}",Crosby,48107,False,False,America/Chicago,"(33.64659, -101.40577)",3.4507250032633734,2071.0,21592_0_yes,33.69490745440941,-101.39058457863254,5.0

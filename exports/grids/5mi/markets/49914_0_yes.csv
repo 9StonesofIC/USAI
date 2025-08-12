@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56549,46.85287,-96.31285,Hawley,MN,Minnesota,True,,4934.0,9.2,27027,Clay,"{""27027"": 100}",Clay,27027,False,False,America/Chicago,"(46.85287, -96.31285)",2.024360557380345,4934.0,49914_0_yes,46.87381816031263,-96.28289108572986,5.0

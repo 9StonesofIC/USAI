@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58575,47.55749,-100.89971,Turtle Lake,ND,North Dakota,True,,796.0,1.3,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago,"(47.55749, -100.89971)",8.655696017640006,2624.0,12894_0_no,47.43475636443281,-100.93686987769638,10.0
+58577,47.31983,-101.05319,Washburn,ND,North Dakota,True,,1828.0,3.6,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago,"(47.31983, -101.05319)",9.626697453505331,2624.0,12894_0_no,47.43475636443281,-100.93686987769638,10.0

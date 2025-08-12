@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36067,32.51134,-86.57084,Prattville,AL,Alabama,True,,27682.0,43.7,1001,Autauga,"{""01001"": 100}",Autauga,01001,False,False,America/Chicago,"(32.51134, -86.57084)",3.241155484457966,27682.0,18765_0_yes,32.524493489098234,-86.62423971926782,5.0

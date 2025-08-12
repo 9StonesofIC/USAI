@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+02837,41.51524,-71.16455,Little Compton,RI,Rhode Island,True,,3496.0,65.7,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York,"(41.51524, -71.16455)",2.626907047064474,19427.0,38928_0_yes,41.4963623675663,-71.20861789139012,5.0
+02842,41.51739,-71.27667,Middletown,RI,Rhode Island,True,,15931.0,490.6,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York,"(41.51739, -71.27667)",3.809139741525082,19427.0,38928_0_yes,41.4963623675663,-71.20861789139012,5.0

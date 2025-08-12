@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41571,37.62651,-82.44437,Varney,KY,Kentucky,True,,481.0,8.8,21195,Pike,"{""21195"": 100}",Pike,21195,False,False,America/New_York,"(37.62651, -82.44437)",5.209843590511757,933.0,30463_0_yes,37.59497597077714,-82.53083110825726,5.0
+41659,37.58415,-82.60064,Stanville,KY,Kentucky,True,,452.0,16.5,21195,Pike,"{""21195"": 74.29, ""21071"": 25.71}",Pike|Floyd,21195|21071,False,False,America/New_York,"(37.58415, -82.60064)",3.894522079087294,933.0,30463_0_yes,37.59497597077714,-82.53083110825726,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61458,40.78027,-90.18107,Maquon,IL,Illinois,True,,494.0,2.3,17095,Knox,"{""17095"": 100}",Knox,17095,False,False,America/Chicago,"(40.78027, -90.18107)",4.294820820788281,1711.0,37484_0_yes,40.78805354019506,-90.09962208614476,5.0
+61572,40.79768,-90.0343,Yates City,IL,Illinois,True,,1217.0,12.2,17095,Knox,"{""17095"": 100}",Knox,17095,False,False,America/Chicago,"(40.79768, -90.0343)",3.4810659899442586,1711.0,37484_0_yes,40.78805354019506,-90.09962208614476,5.0

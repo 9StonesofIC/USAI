@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81131,37.87706,-105.66651,Crestone,CO,Colorado,True,,1290.0,1.3,8109,Saguache,"{""08109"": 100}",Saguache,08109,False,False,America/Denver,"(37.87706, -105.66651)",9.380103981794605,2326.0,7801_0_yes,37.74277275491451,-105.64126987259532,10.0
+81146,37.64616,-105.6776,Mosca,CO,Colorado,True,,1036.0,1.4,8003,Alamosa,"{""08003"": 100}",Alamosa,08003,False,False,America/Denver,"(37.64616, -105.6776)",6.96454696018367,2326.0,7801_0_yes,37.74277275491451,-105.64126987259532,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31087,33.26609,-83.00712,Sparta,GA,Georgia,True,,8608.0,7.6,13141,Hancock,"{""13141"": 97.67, ""13009"": 1.6, ""13303"": 0.73}",Hancock|Baldwin|Washington,13141|13009|13303,False,False,America/New_York,"(33.26609, -83.00712)",5.9321053628843385,8608.0,20789_0_no,33.319618935480534,-83.08742670835446,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67066,37.77374,-98.75798,Iuka,KS,Kansas,True,,314.0,2.5,20151,Pratt,"{""20151"": 100}",Pratt,20151,False,False,America/Chicago,"(37.77374, -98.75798)",3.512468626618111,314.0,30876_0_yes,37.752391387403485,-98.69961983568902,5.0

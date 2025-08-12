@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57065,43.90041,-96.60631,Trent,SD,South Dakota,True,,378.0,4.8,46101,Moody,"{""46101"": 100}",Moody,46101,False,False,America/Chicago,"(43.90041, -96.60631)",4.729679592593608,378.0,43874_0_yes,43.834526161725904,-96.58053930956348,5.0

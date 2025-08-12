@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65762,36.68613,-92.65634,Thornfield,MO,Missouri,True,,398.0,2.0,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago,"(36.68613, -92.65634)",2.736135258487575,398.0,28543_0_no,36.66082000049263,-92.694313349989,5.0

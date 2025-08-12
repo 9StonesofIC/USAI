@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81327,37.5155,-108.66488,Lewis,CO,Colorado,True,,384.0,4.9,8083,Montezuma,"{""08083"": 100}",Montezuma,08083,False,False,America/Denver,"(37.5155, -108.66488)",3.1817651543247383,405.0,30587_0_no,37.54275179380107,-108.71168811308004,5.0
+81335,37.54381,-108.71978,Yellow Jacket,CO,Colorado,True,,21.0,1.8,8083,Montezuma,"{""08083"": 100}",Montezuma,08083,False,False,America/Denver,"(37.54381, -108.71978)",0.4492926191225498,405.0,30587_0_no,37.54275179380107,-108.71168811308004,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88436,36.14965,-103.13345,Sedan,NM,New Mexico,True,,48.0,0.1,35059,Union,"{""35059"": 100}",Union,35059,False,False,America/Denver,"(36.14965, -103.13345)",9.693437469298237,48.0,6976_0_yes,36.28986676066329,-103.13924414822203,10.0

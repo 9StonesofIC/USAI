@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80517,40.39731,-105.61165,Estes Park,CO,Colorado,True,,11416.0,14.8,8069,Larimer,"{""08069"": 100}",Larimer,08069,False,False,America/Denver,"(40.39731, -105.61165)",3.789838908927803,11416.0,36633_0_yes,40.36628242425488,-105.6710292454744,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96134,41.8444,-121.41231,Tulelake,CA,California,True,,2075.0,2.4,6049,Modoc,"{""06049"": 62.93, ""06093"": 37.07}",Modoc|Siskiyou,06049|06093,False,False,America/Los_Angeles,"(41.8444, -121.41231)",3.98750767971716,2075.0,40077_0_no,41.90072445476965,-121.42920185535772,5.0

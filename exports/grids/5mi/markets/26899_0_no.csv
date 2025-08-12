@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72641,35.98829,-93.21978,Jasper,AR,Arkansas,True,,2664.0,9.1,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago,"(35.98829, -93.21978)",4.552236280220229,3072.0,26899_0_no,35.93642755409904,-93.16957711637548,5.0
+72683,35.93102,-93.11629,Vendor,AR,Arkansas,True,,408.0,9.9,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago,"(35.93102, -93.11629)",3.004453331482794,3072.0,26899_0_no,35.93642755409904,-93.16957711637548,5.0

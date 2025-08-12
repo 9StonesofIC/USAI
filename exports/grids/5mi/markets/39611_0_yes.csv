@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49255,41.77152,-84.85499,Montgomery,MI,Michigan,True,,2332.0,22.6,26023,Branch,"{""26023"": 60.89, ""26059"": 39.11}",Branch|Hillsdale,26023|26059,False,False,America/Detroit,"(41.77152, -84.85499)",3.2401360255165423,2332.0,39611_0_yes,41.79744766065164,-84.90739421099872,5.0

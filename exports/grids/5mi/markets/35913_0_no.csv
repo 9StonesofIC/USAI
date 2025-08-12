@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63460,40.00237,-92.21002,Novelty,MO,Missouri,True,,329.0,1.6,29103,Knox,"{""29103"": 100}",Knox,29103,False,False,America/Chicago,"(40.00237, -92.21002)",4.54781902092958,329.0,35913_0_no,39.99309080368964,-92.12495732483092,5.0

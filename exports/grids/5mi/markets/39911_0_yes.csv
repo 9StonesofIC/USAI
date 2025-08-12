@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49221,41.90343,-84.06372,Adrian,MI,Michigan,True,,40930.0,131.8,26091,Lenawee,"{""26091"": 100}",Lenawee,26091,False,False,America/Detroit,"(41.90343, -84.06372)",2.8898799915447895,40930.0,39911_0_yes,41.94151319623392,-84.04047784976022,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14113,42.66813,-78.33624,North Java,NY,New York,True,,488.0,8.7,36121,Wyoming,"{""36121"": 100}",Wyoming,36121,False,False,America/New_York,"(42.66813, -78.33624)",4.489447022798731,2276.0,41670_0_no,42.73297887299496,-78.33070164490434,5.0
+14167,42.74327,-78.32629,Varysburg,NY,New York,True,,1788.0,19.6,36121,Wyoming,"{""36121"": 100}",Wyoming,36121,False,False,America/New_York,"(42.74327, -78.32629)",0.7454604573217598,2276.0,41670_0_no,42.73297887299496,-78.33070164490434,5.0

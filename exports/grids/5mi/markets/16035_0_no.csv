@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76653,31.29963,-96.60536,Kosse,TX,Texas,True,,1481.0,3.8,48293,Limestone,"{""48293"": 57.59, ""48145"": 32.86, ""48395"": 9.55}",Limestone|Falls|Robertson,48293|48145|48395,False,False,America/Chicago,"(31.29963, -96.60536)",4.882417090797282,1481.0,16035_0_no,31.29837802378063,-96.68804644065376,5.0

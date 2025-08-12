@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61944,39.59969,-87.70146,Paris,IL,Illinois,True,,11901.0,17.5,17045,Edgar,"{""17045"": 99.21, ""17023"": 0.79}",Edgar|Clark,17045|17023,False,False,America/Chicago,"(39.59969, -87.70146)",4.159858016184499,12125.0,34947_0_no,39.55488815306365,-87.64927905243664,5.0
+61955,39.58162,-87.5875,Vermilion,IL,Illinois,True,,224.0,219.5,17045,Edgar,"{""17045"": 100}",Edgar,17045,False,False,America/Chicago,"(39.58162, -87.5875)",3.7733981991487764,12125.0,34947_0_no,39.55488815306365,-87.64927905243664,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29360,34.49361,-82.04884,Laurens,SC,South Carolina,True,,21044.0,54.0,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York,"(34.49361, -82.04884)",3.444206656711135,21044.0,23497_0_no,34.47866109666533,-81.99114694237647,5.0

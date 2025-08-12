@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83312,42.10296,-113.6319,Almo,ID,Idaho,True,,74.0,0.3,16031,Cassia,"{""16031"": 100}",Cassia,16031,False,False,America/Boise,"(42.10296, -113.6319)",8.011617950664832,2055.0,2621_0_no,42.08374331628671,-113.78599934607148,20.0
+83346,42.19491,-113.9046,Oakley,ID,Idaho,True,,1981.0,2.5,16031,Cassia,"{""16031"": 100}",Cassia,16031,False,False,America/Boise,"(42.19491, -113.9046)",9.793783960161957,2055.0,2621_0_no,42.08374331628671,-113.78599934607148,20.0

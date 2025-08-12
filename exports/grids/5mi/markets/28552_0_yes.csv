@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63939,36.68456,-90.68253,Fairdealing,MO,Missouri,True,,1308.0,9.5,29181,Ripley,"{""29181"": 100}",Ripley,29181,False,False,America/Chicago,"(36.68456, -90.68253)",5.472425093442011,1308.0,28552_0_yes,36.73178819046311,-90.76183979280296,5.0

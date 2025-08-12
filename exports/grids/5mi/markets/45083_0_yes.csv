@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57741,44.41044,-103.47273,Fort Meade,SD,South Dakota,True,,154.0,361.7,46093,Meade,"{""46093"": 100}",Meade,46093,False,False,America/Denver,"(44.41044, -103.47273)",4.920124225215453,154.0,45083_0_yes,44.41961988188414,-103.37386868898712,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60549,41.4908,-88.74251,Serena,IL,Illinois,True,,337.0,5.5,17099,LaSalle,"{""17099"": 100}",LaSalle,17099,False,False,America/Chicago,"(41.4908, -88.74251)",3.97558625395318,592.0,38992_0_no,41.43866485997975,-88.71002192885291,5.0
+60557,41.44383,-88.76654,Wedron,IL,Illinois,True,,255.0,112.1,17099,LaSalle,"{""17099"": 100}",LaSalle,17099,False,False,America/Chicago,"(41.44383, -88.76654)",2.949017386708434,592.0,38992_0_no,41.43866485997975,-88.71002192885291,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33570,27.69354,-82.45861,Ruskin,FL,Florida,True,,29576.0,273.1,12057,Hillsborough,"{""12057"": 100}",Hillsborough,12057,False,False,America/New_York,"(27.69354, -82.45861)",3.6740829159530795,29576.0,7061_0_no,27.66225455593318,-82.50716435141008,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79019,34.98099,-101.39288,Claude,TX,Texas,True,,1890.0,1.3,48011,Armstrong,"{""48011"": 97.05, ""48381"": 2.95}",Armstrong|Randall,48011|48381,False,False,America/Chicago,"(34.98099, -101.39288)",1.6850378107337727,1890.0,24632_0_yes,35.00004569484029,-101.37430205052311,5.0

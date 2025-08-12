@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51350,43.30752,-95.59827,Melvin,IA,Iowa,True,,486.0,4.2,19143,Osceola,"{""19143"": 93.4, ""19141"": 6.6}",Osceola|O'Brien,19143|19141,False,False,America/Chicago,"(43.30752, -95.59827)",2.8710482944412408,486.0,42953_0_no,43.326932871154014,-95.54777334659246,5.0

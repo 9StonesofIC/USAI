@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79560,32.67514,-100.2094,Sylvester,TX,Texas,True,,160.0,0.9,48151,Fisher,"{""48151"": 75.19, ""48253"": 24.81}",Fisher|Jones,48151|48253,False,False,America/Chicago,"(32.67514, -100.2094)",4.890183261202594,160.0,19175_0_no,32.6063182808093,-100.22901686772585,5.0

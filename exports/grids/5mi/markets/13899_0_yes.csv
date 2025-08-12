@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39556,30.44457,-89.42747,Kiln,MS,Mississippi,True,,7703.0,29.0,28045,Hancock,"{""28045"": 100}",Hancock,28045,False,False,America/Chicago,"(30.44457, -89.42747)",3.957974829201694,7703.0,13899_0_yes,30.495752754557568,-89.45731825749878,5.0

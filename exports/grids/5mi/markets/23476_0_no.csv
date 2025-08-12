@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28448,34.49078,-78.31933,Kelly,NC,North Carolina,True,,621.0,2.5,37017,Bladen,"{""37017"": 95.29, ""37141"": 4.71}",Bladen|Pender,37017|37141,False,False,America/New_York,"(34.49078, -78.31933)",1.0965674702565757,621.0,23476_0_no,34.47602451860805,-78.31223968720899,5.0

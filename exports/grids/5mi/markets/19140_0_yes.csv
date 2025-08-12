@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71229,32.6374,-91.89251,Collinston,LA,Louisiana,True,,1330.0,9.4,22067,Morehouse,"{""22067"": 90.58, ""22073"": 9.42}",Morehouse|Ouachita,22067|22073,False,False,America/Chicago,"(32.6374, -91.89251)",2.5537378968775166,1330.0,19140_0_yes,32.67310380603372,-91.88115923788934,5.0

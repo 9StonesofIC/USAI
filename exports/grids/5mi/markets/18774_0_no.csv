@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39041,32.41757,-90.47273,Bolton,MS,Mississippi,True,,3889.0,12.2,28049,Hinds,"{""28049"": 99.58, ""28089"": 0.42}",Hinds|Madison,28049|28089,False,False,America/Chicago,"(32.41757, -90.47273)",3.437650185995942,3889.0,18774_0_no,32.454658971114746,-90.51202401224413,5.0

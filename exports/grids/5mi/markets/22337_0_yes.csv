@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85390,33.92391,-112.86739,Wickenburg,AZ,Arizona,True,,9443.0,7.7,4013,Maricopa,"{""04013"": 76.23, ""04025"": 23.77}",Maricopa|Yavapai,04013|04025,False,False,America/Phoenix,"(33.92391, -112.86739)",5.919895132835198,9443.0,22337_0_yes,33.99304428879649,-112.80637229484742,5.0

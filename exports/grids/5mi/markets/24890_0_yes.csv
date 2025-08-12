@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38450,35.18523,-87.80143,Collinwood,TN,Tennessee,True,,3130.0,11.4,47181,Wayne,"{""47181"": 100}",Wayne,47181,False,False,America/Chicago,"(35.18523, -87.80143)",5.11830365460486,4075.0,24890_0_yes,35.135107556169466,-87.73471045675862,5.0
+38452,35.07898,-87.79239,Cypress Inn,TN,Tennessee,True,,945.0,6.9,47181,Wayne,"{""47181"": 100}",Wayne,47181,False,False,America/Chicago,"(35.07898, -87.79239)",5.066418677991275,4075.0,24890_0_yes,35.135107556169466,-87.73471045675862,5.0

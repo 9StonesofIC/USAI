@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49030,41.85529,-85.33129,Burr Oak,MI,Michigan,True,,2568.0,20.1,26149,St. Joseph,"{""26149"": 86.36, ""26023"": 13.64}",St. Joseph|Branch,26149|26023,False,False,America/Detroit,"(41.85529, -85.33129)",4.39874156857073,2568.0,39613_0_yes,41.79777403395006,-85.29466158748485,5.0

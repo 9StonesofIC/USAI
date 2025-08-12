@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71219,32.32344,-91.6842,Baskin,LA,Louisiana,True,,1205.0,7.7,22041,Franklin,"{""22041"": 100}",Franklin,22041,False,False,America/Chicago,"(32.32344, -91.6842)",4.700391125193374,2930.0,18436_0_no,32.31047395208182,-91.76322279039304,5.0
+71259,32.2713,-91.84558,Mangham,LA,Louisiana,True,,1725.0,7.3,22083,Richland,"{""22083"": 100}",Richland,22083,False,False,America/Chicago,"(32.2713, -91.84558)",5.519521454822244,2930.0,18436_0_no,32.31047395208182,-91.76322279039304,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33430,26.61415,-80.57952,Belle Glade,FL,Florida,True,,23428.0,37.7,12099,Palm Beach,"{""12099"": 100}",Palm Beach,12099,False,False,America/New_York,"(26.61415, -80.57952)",4.593928909094885,30109.0,1150_0_no,26.547661368239076,-80.57958966991328,10.0
+33493,26.47559,-80.72306,South Bay,FL,Florida,True,,6681.0,10.6,12099,Palm Beach,"{""12099"": 100}",Palm Beach,12099,False,False,America/New_York,"(26.47559, -80.72306)",10.17260908560237,30109.0,1150_0_no,26.547661368239076,-80.57958966991328,10.0

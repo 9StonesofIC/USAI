@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72084,34.13687,-92.6887,Leola,AR,Arkansas,True,,1206.0,2.6,5039,Dallas,"{""05039"": 57.88, ""05053"": 30.15, ""05059"": 11.97}",Dallas|Grant|Hot Spring,05039|05053|05059,False,False,America/Chicago,"(34.13687, -92.6887)",3.886686951441274,1206.0,5768_0_no,34.10107894216061,-92.74112060565368,10.0

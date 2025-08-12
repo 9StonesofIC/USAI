@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60954,41.15446,-87.62827,Momence,IL,Illinois,True,,5706.0,33.3,17091,Kankakee,"{""17091"": 100}",Kankakee,17091,False,False,America/Chicago,"(41.15446, -87.62827)",4.774349657605621,5706.0,38373_0_no,41.148198390127625,-87.71966175916643,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79546,32.8792,-100.49136,Rotan,TX,Texas,True,,1734.0,1.7,48151,Fisher,"{""48151"": 77.1, ""48433"": 19.08, ""48415"": 3.82}",Fisher|Stonewall|Scurry,48151|48433|48415,False,False,America/Chicago,"(32.8792, -100.49136)",5.607634753375444,1734.0,19534_0_yes,32.82399263942544,-100.42054454574192,5.0

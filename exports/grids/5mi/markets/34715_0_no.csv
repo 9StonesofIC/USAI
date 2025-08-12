@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80804,39.35644,-103.26331,Arriba,CO,Colorado,True,,267.0,0.3,8073,Lincoln,"{""08073"": 100}",Lincoln,08073,False,False,America/Denver,"(39.35644, -103.26331)",4.7694637680734004,267.0,34715_0_no,39.4225469617742,-103.2375972308498,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94060,37.22297,-122.33572,Pescadero,CA,California,True,,1098.0,5.8,6081,San Mateo,"{""06081"": 100}",San Mateo,06081,False,False,America/Los_Angeles,"(37.22297, -122.33572)",3.7098206742594,1275.0,30013_0_no,37.26329503940661,-122.38025291955886,5.0
+94074,37.32817,-122.34164,San Gregorio,CA,California,True,,177.0,3.0,6081,San Mateo,"{""06081"": 100}",San Mateo,06081,False,False,America/Los_Angeles,"(37.32817, -122.34164)",4.959498715940607,1275.0,30013_0_no,37.26329503940661,-122.38025291955886,5.0

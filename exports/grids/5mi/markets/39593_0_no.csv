@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46371,41.67683,-86.6005,Rolling Prairie,IN,Indiana,True,,3348.0,34.4,18091,LaPorte,"{""18091"": 100}",LaPorte,18091,False,False,America/Chicago,"(41.67683, -86.6005)",3.4990351649506195,3348.0,39593_0_no,41.726528943110814,-86.61352957412151,5.0

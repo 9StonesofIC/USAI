@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97343,44.56934,-123.73091,Eddyville,OR,Oregon,True,,293.0,0.8,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles,"(44.56934, -123.73091)",4.276061608986107,293.0,45449_0_no,44.51006991770665,-123.70592277095976,5.0

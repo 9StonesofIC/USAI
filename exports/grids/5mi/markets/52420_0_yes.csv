@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58368,48.25124,-100.04105,Rugby,ND,North Dakota,True,,3427.0,2.1,38069,Pierce,"{""38069"": 88.06, ""38049"": 6.82, ""38005"": 5.12}",Pierce|McHenry|Benson,38069|38049|38005,False,False,America/Chicago,"(48.25124, -100.04105)",5.81459895898364,3427.0,52420_0_yes,48.17960958441896,-100.1073427693682,5.0

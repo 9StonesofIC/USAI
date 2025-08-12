@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98830,47.88702,-119.52278,Mansfield,WA,Washington,True,,492.0,0.5,53017,Douglas,"{""53017"": 100}",Douglas,53017,False,False,America/Los_Angeles,"(47.88702, -119.52278)",11.707654778686667,2330.0,13076_0_no,47.759108052031735,-119.6883002271978,10.0
+98858,47.67938,-119.87974,Waterville,WA,Washington,True,,1838.0,1.9,53017,Douglas,"{""53017"": 100}",Douglas,53017,False,False,America/Los_Angeles,"(47.67938, -119.87974)",10.465859080059161,2330.0,13076_0_no,47.759108052031735,-119.6883002271978,10.0

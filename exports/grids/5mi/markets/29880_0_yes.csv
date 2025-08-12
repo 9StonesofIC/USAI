@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66781,37.29114,-94.72806,Weir,KS,Kansas,True,,1155.0,9.8,20021,Cherokee,"{""20021"": 94.51, ""20037"": 5.49}",Cherokee|Crawford,20021|20037,False,False,America/Chicago,"(37.29114, -94.72806)",3.2772420461867955,1155.0,29880_0_yes,37.31449916032416,-94.67616275648705,5.0

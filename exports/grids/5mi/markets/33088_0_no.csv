@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66537,38.75118,-95.72255,Scranton,KS,Kansas,True,,1307.0,9.5,20139,Osage,"{""20139"": 100}",Osage,20139,False,False,America/Chicago,"(38.75118, -95.72255)",4.477050399673938,2440.0,33088_0_no,38.692024534198936,-95.68865577461428,5.0
+66543,38.64175,-95.60029,Vassar,KS,Kansas,True,,1133.0,49.3,20139,Osage,"{""20139"": 100}",Osage,20139,False,False,America/Chicago,"(38.64175, -95.60029)",5.898438826937509,2440.0,33088_0_no,38.692024534198936,-95.68865577461428,5.0

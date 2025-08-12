@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35592,33.74315,-88.09672,Vernon,AL,Alabama,True,,4590.0,15.4,1075,Lamar,"{""01075"": 100}",Lamar,01075,False,False,America/Chicago,"(33.74315, -88.09672)",1.1381840197862039,4590.0,21840_0_no,33.7580970799531,-88.08839193959885,5.0

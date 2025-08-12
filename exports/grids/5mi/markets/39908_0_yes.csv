@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48161,41.90818,-83.47263,Monroe,MI,Michigan,True,,26483.0,228.1,26115,Monroe,"{""26115"": 100}",Monroe,26115,False,False,America/Detroit,"(41.90818, -83.47263)",2.3860941166574694,53897.0,39908_0_yes,41.94102117685655,-83.45827476726294,5.0
+48162,41.96045,-83.43503,Monroe,MI,Michigan,True,,27414.0,184.2,26115,Monroe,"{""26115"": 100}",Monroe,26115,False,False,America/Detroit,"(41.96045, -83.43503)",1.79688076269058,53897.0,39908_0_yes,41.94102117685655,-83.45827476726294,5.0

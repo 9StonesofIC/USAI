@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32425,30.85538,-85.72225,Bonifay,FL,Florida,True,,14330.0,20.9,12059,Holmes,"{""12059"": 85.81, ""12133"": 14.19}",Holmes|Washington,12059|12133,False,False,America/Chicago,"(30.85538, -85.72225)",6.485597142765052,14330.0,14580_0_yes,30.78341881396561,-85.65206818706676,5.0

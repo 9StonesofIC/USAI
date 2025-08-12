@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68346,40.66195,-96.03066,Dunbar,NE,Nebraska,True,,564.0,3.9,31131,Otoe,"{""31131"": 100}",Otoe,31131,False,False,America/Chicago,"(40.66195, -96.03066)",2.4375114647494858,597.0,37205_0_yes,40.64813664376078,-96.07344903042195,5.0
+68382,40.59724,-96.02425,Lorton,NE,Nebraska,True,,33.0,299.1,31131,Otoe,"{""31131"": 100}",Otoe,31131,False,False,America/Chicago,"(40.59724, -96.02425)",4.361621638542028,597.0,37205_0_yes,40.64813664376078,-96.07344903042195,5.0

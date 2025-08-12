@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27217,36.19221,-79.38404,Burlington,NC,North Carolina,True,,38587.0,120.9,37001,Alamance,"{""37001"": 82.77, ""37033"": 17.23}",Alamance|Caswell,37001|37033,False,False,America/New_York,"(36.19221, -79.38404)",3.3927396892802393,38587.0,27171_0_yes,36.14353734508587,-79.39208131904762,5.0

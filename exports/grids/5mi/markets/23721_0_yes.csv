@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91390,34.53159,-118.40668,Santa Clarita,CA,California,True,,19093.0,46.6,6037,Los Angeles,"{""06037"": 100}",Los Angeles,06037,False,False,America/Los_Angeles,"(34.53159, -118.40668)",5.164461583349021,19093.0,23721_0_yes,34.57720972196551,-118.33478733724723,5.0

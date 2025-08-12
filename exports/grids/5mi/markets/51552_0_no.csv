@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56736,47.71212,-96.20567,Mentor,MN,Minnesota,True,,768.0,2.7,27119,Polk,"{""27119"": 84.95, ""27125"": 15.05}",Polk|Red Lake,27119|27125,False,False,America/Chicago,"(47.71212, -96.20567)",2.9596656890943063,768.0,51552_0_no,47.6696093677156,-96.19784494907096,5.0

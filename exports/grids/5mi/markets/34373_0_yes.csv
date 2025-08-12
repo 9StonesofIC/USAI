@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64060,39.37134,-94.36821,Kearney,MO,Missouri,True,,16323.0,107.5,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago,"(39.37134, -94.36821)",2.0359976603676446,36085.0,34373_0_yes,39.34294788809503,-94.3784108479959,5.0
+64157,39.27657,-94.47103,Kansas City,MO,Missouri,True,,19762.0,706.0,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago,"(39.27657, -94.47103)",6.7490959125461805,36085.0,34373_0_yes,39.34294788809503,-94.3784108479959,5.0

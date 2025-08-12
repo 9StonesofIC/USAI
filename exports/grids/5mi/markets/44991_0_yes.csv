@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48627,44.46177,-84.74869,Higgins Lake,MI,Michigan,True,,112.0,209.0,26143,Roscommon,"{""26143"": 100}",Roscommon,26143,False,False,America/Detroit,"(44.46177, -84.74869)",4.4284366502435955,112.0,44991_0_yes,44.403178732716,-84.78507471718139,5.0

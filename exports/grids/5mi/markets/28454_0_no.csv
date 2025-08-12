@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23434,36.70163,-76.59074,Suffolk,VA,Virginia,True,,49583.0,92.6,51800,Suffolk,"{""51800"": 100}",Suffolk,51800,False,False,America/New_York,"(36.70163, -76.59074)",5.9355125674039195,51138.0,28454_0_no,36.648716923721615,-76.67511986442359,5.0
+23438,36.58116,-76.69749,Suffolk,VA,Virginia,True,,1555.0,15.1,51800,Suffolk,"{""51800"": 100}",Suffolk,51800,False,False,America/New_York,"(36.58116, -76.69749)",4.829794802861493,51138.0,28454_0_no,36.648716923721615,-76.67511986442359,5.0

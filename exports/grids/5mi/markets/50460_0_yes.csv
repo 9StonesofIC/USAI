@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55721,47.21837,-93.68841,Cohasset,MN,Minnesota,True,,3558.0,14.7,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.21837, -93.68841)",6.299547510090951,3558.0,50460_0_yes,47.160911737168064,-93.79257912679807,5.0

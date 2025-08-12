@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29080,34.01525,-80.08374,Lynchburg,SC,South Carolina,True,,2883.0,8.7,45061,Lee,"{""45061"": 55.63, ""45085"": 44.37}",Lee|Sumter,45061|45085,False,False,America/New_York,"(34.01525, -80.08374)",3.3354324627077365,2883.0,22149_0_yes,33.96987333133707,-80.06387168448025,5.0

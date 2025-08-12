@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98672,45.81269,-121.47393,White Salmon,WA,Washington,True,,7256.0,20.2,53039,Klickitat,"{""53039"": 95.7, ""53059"": 4.3}",Klickitat|Skamania,53039|53059,False,False,America/Los_Angeles,"(45.81269, -121.47393)",3.5476100491303306,7256.0,48031_0_no,45.81124545528661,-121.40029489242748,5.0

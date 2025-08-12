@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54638,43.79088,-90.3875,Kendall,WI,Wisconsin,True,,1614.0,10.2,55081,Monroe,"{""55081"": 83.99, ""55123"": 13.26, ""55057"": 2.75}",Monroe|Vernon|Juneau,55081|55123|55057,False,False,America/Chicago,"(43.79088, -90.3875)",2.6838873591946997,1614.0,43843_0_yes,43.82909648041236,-90.37786119401916,5.0

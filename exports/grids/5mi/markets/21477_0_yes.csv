@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29164,33.65699,-81.42586,Wagener,SC,South Carolina,True,,4979.0,17.9,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York,"(33.65699, -81.42586)",1.670703106611864,4979.0,21477_0_yes,33.680888989218325,-81.43027931874278,5.0

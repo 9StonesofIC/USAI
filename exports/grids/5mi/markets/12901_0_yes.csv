@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78058,30.13188,-99.59042,Mountain Home,TX,Texas,True,,763.0,0.7,48265,Kerr,"{""48265"": 78.54, ""48385"": 17.93, ""48171"": 3.53}",Kerr|Real|Gillespie,48265|48385|48171,False,False,America/Chicago,"(30.13188, -99.59042)",5.0160720161958245,763.0,12901_0_yes,30.06698498924526,-99.62803728467156,5.0

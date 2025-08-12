@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72703,36.1155,-94.04897,Fayetteville,AR,Arkansas,True,,33223.0,319.0,5143,Washington,"{""05143"": 95.27, ""05087"": 4.73}",Washington|Madison,05143|05087,False,False,America/Chicago,"(36.1155, -94.04897)",3.3839556333453604,33223.0,27234_0_no,36.08200714623746,-94.00474472353396,5.0

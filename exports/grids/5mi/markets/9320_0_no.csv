@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78007,28.48212,-98.40373,Calliham,TX,Texas,True,,198.0,2.7,48311,McMullen,"{""48311"": 100}",McMullen,48311,False,False,America/Chicago,"(28.48212, -98.40373)",4.791879597005301,198.0,9320_0_no,28.542501493816328,-98.4425565671961,5.0

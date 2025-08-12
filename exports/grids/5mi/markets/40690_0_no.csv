@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97520,42.15472,-122.53168,Ashland,OR,Oregon,True,,25345.0,29.8,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.15472, -122.53168)",3.6275521861567057,25345.0,40690_0_no,42.19146528008449,-122.58227925808264,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74824,35.8873,-96.87358,Agra,OK,Oklahoma,True,,1617.0,15.4,40081,Lincoln,"{""40081"": 91.63, ""40119"": 8.37}",Lincoln|Payne,40081|40119,False,False,America/Chicago,"(35.8873, -96.87358)",4.269078739824909,2751.0,26920_0_no,35.93920985361623,-96.91495677880582,5.0
+74875,35.8751,-96.95877,Tryon,OK,Oklahoma,True,,1134.0,9.3,40081,Lincoln,"{""40081"": 100}",Lincoln,40081,False,False,America/Chicago,"(35.8751, -96.95877)",5.0629134318463205,2751.0,26920_0_no,35.93920985361623,-96.91495677880582,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95669,38.49522,-120.89157,Plymouth,CA,California,True,,4899.0,25.0,6005,Amador,"{""06005"": 100}",Amador,06005,False,False,America/Los_Angeles,"(38.49522, -120.89157)",2.699058745982903,4912.0,32606_0_yes,38.494510810678456,-120.94147324104438,5.0
+95699,38.44074,-120.85702,Drytown,CA,California,True,,13.0,1.4,6005,Amador,"{""06005"": 100}",Amador,06005,False,False,America/Los_Angeles,"(38.44074, -120.85702)",5.888614028840792,4912.0,32606_0_yes,38.494510810678456,-120.94147324104438,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45118,39.17192,-83.93107,Fayetteville,OH,Ohio,True,,3768.0,35.6,39015,Brown,"{""39015"": 87.17, ""39071"": 9.0, ""39025"": 3.83}",Brown|Highland|Clermont,39015|39071|39025,False,False,America/New_York,"(39.17192, -83.93107)",4.364001446918102,3768.0,34000_0_yes,39.18977532684696,-84.0092278798007,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37381,35.68533,-84.8775,Spring City,TN,Tennessee,True,,9574.0,27.1,47143,Rhea,"{""47143"": 81.59, ""47007"": 18.41}",Rhea|Bledsoe,47143|47007,False,False,America/New_York,"(35.68533, -84.8775)",4.80810478023272,9574.0,26207_0_yes,35.71276278311031,-84.79874908742707,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49649,44.5685,-85.52596,Kingsley,MI,Michigan,True,,7089.0,24.8,26055,Grand Traverse,"{""26055"": 91.0, ""26165"": 9.0}",Grand Traverse|Wexford,26055|26165,False,False,America/Detroit,"(44.5685, -85.52596)",4.21672028195947,7089.0,45552_0_no,44.62102700921241,-85.56959526116908,5.0

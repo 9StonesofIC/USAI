@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30728,34.68015,-85.23417,La Fayette,GA,Georgia,True,,20183.0,44.9,13295,Walker,"{""13295"": 100}",Walker,13295,False,False,America/New_York,"(34.68015, -85.23417)",3.738701993685702,20183.0,23869_0_yes,34.698447027988976,-85.29610183851551,5.0

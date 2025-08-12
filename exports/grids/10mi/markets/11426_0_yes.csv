@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13614,44.53081,-75.69194,Brier Hill,NY,New York,True,,355.0,15.7,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/Toronto,"(44.53081, -75.69194)",11.76420528632769,355.0,11426_0_yes,44.64108397181533,-75.8740945892761,10.0

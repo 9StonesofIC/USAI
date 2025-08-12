@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56025,43.7516,-93.90877,Easton,MN,Minnesota,True,,462.0,3.4,27043,Faribault,"{""27043"": 100}",Faribault,27043,False,False,America/Chicago,"(43.7516, -93.90877)",5.200485869368717,462.0,43565_0_yes,43.68736602042633,-93.85448645186165,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73761,36.68452,-98.03647,Nash,OK,Oklahoma,True,,328.0,1.1,40053,Grant,"{""40053"": 90.01, ""40047"": 9.99}",Grant|Garfield,40053|40047,False,False,America/Chicago,"(36.68452, -98.03647)",5.222162232673566,328.0,28592_0_yes,36.7372435025378,-97.9689167882732,5.0

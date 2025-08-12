@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76541,31.11447,-97.72922,Killeen,TX,Texas,True,,18396.0,1452.1,48027,Bell,"{""48027"": 100}",Bell,48027,False,False,America/Chicago,"(31.11447, -97.72922)",2.8647410424440385,18396.0,15692_0_no,31.153995787884146,-97.74384906355242,5.0

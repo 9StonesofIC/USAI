@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98583,47.00122,-123.4875,Satsop,WA,Washington,True,,97.0,361.4,53027,Grays Harbor,"{""53027"": 100}",Grays Harbor,53027,False,False,America/Los_Angeles,"(47.00122, -123.4875)",3.2587432534054215,97.0,50322_0_yes,47.04369533829468,-123.51757378465616,5.0

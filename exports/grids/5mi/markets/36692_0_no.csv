@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96020,40.30089,-121.26286,Chester,CA,California,True,,2417.0,16.6,6063,Plumas,"{""06063"": 99.85, ""06089"": 0.15}",Plumas|Shasta,06063|06089,False,False,America/Los_Angeles,"(40.30089, -121.26286)",3.2100731319543607,2417.0,36692_0_no,40.30668806637327,-121.32330471842648,5.0

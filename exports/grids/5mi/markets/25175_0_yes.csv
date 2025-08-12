@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28390,35.21783,-78.95488,Spring Lake,NC,North Carolina,True,,24794.0,159.1,37085,Harnett,"{""37085"": 52.21, ""37051"": 47.79}",Harnett|Cumberland,37085|37051,False,False,America/New_York,"(35.21783, -78.95488)",4.646443512991144,24794.0,25175_0_yes,35.27368349842875,-79.00074063104041,5.0

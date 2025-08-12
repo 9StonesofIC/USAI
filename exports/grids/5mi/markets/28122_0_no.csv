@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27950,36.52599,-76.00081,Knotts Island,NC,North Carolina,True,,1946.0,25.3,37053,Currituck,"{""37053"": 100}",Currituck,37053,False,False,America/New_York,"(36.52599, -76.00081)",2.9901740204011453,1946.0,28122_0_no,36.503342320473685,-76.04669531012279,5.0

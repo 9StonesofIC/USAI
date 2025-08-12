@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51638,40.83919,-95.26663,Essex,IA,Iowa,True,,1149.0,5.5,19145,Page,"{""19145"": 98.02, ""19137"": 1.98}",Page|Montgomery,19145|19137,False,False,America/Chicago,"(40.83919, -95.26663)",3.384001598625662,1196.0,37511_0_yes,40.79230705712482,-95.24790839065314,5.0
+51656,40.73527,-95.15437,Yorktown,IA,Iowa,True,,47.0,66.9,19145,Page,"{""19145"": 100}",Page,19145,False,False,America/Chicago,"(40.73527, -95.15437)",6.2842661458865905,1196.0,37511_0_yes,40.79230705712482,-95.24790839065314,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59521,48.30489,-109.972,Box Elder,MT,Montana,True,,3863.0,5.3,30041,Hill,"{""30041"": 81.61, ""30015"": 18.39}",Hill|Chouteau,30041|30015,False,False,America/Denver,"(48.30489, -109.972)",3.0454962759154616,3863.0,52711_0_no,48.26129025998275,-109.96226943405922,5.0

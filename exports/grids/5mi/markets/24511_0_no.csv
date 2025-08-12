@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29676,34.93326,-82.96006,Salem,SC,South Carolina,True,,5748.0,30.8,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York,"(34.93326, -82.96006)",2.5464348633109166,6767.0,24511_0_no,34.9142644228263,-82.99857928829066,5.0
+29686,34.92858,-83.04541,Tamassee,SC,South Carolina,True,,1019.0,12.3,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York,"(34.92858, -83.04541)",2.8314507200853587,6767.0,24511_0_no,34.9142644228263,-82.99857928829066,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04783,47.03586,-68.18907,Stockholm,ME,Maine,True,,389.0,2.0,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(47.03586, -68.18907)",4.891758578326955,389.0,50061_0_yes,46.99263738670733,-68.27131259034532,5.0

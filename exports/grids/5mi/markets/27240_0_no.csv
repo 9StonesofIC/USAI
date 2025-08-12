@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74452,36.12137,-95.06829,Peggs,OK,Oklahoma,True,,464.0,7.0,40021,Cherokee,"{""40021"": 91.79, ""40097"": 8.21}",Cherokee|Mayes,40021|40097,False,False,America/Chicago,"(36.12137, -95.06829)",2.7066083541655566,464.0,27240_0_no,36.08280629255569,-95.07680909091964,5.0

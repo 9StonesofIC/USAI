@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74724,34.33926,-94.85833,Bethel,OK,Oklahoma,True,,338.0,5.0,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago,"(34.33926, -94.85833)",6.588581987800773,338.0,22912_0_yes,34.270407117542646,-94.93819477750134,5.0

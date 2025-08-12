@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50456,43.28812,-93.21579,Manly,IA,Iowa,True,,1854.0,14.3,19195,Worth,"{""19195"": 98.17, ""19033"": 1.83}",Worth|Cerro Gordo,19195|19033,False,False,America/Chicago,"(43.28812, -93.21579)",4.226154695237632,1854.0,42671_0_yes,43.25252966701082,-93.28410931341284,5.0

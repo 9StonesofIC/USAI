@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95936,39.56336,-120.79279,Downieville,CA,California,True,,99.0,0.9,6091,Sierra,"{""06091"": 100}",Sierra,06091,False,False,America/Los_Angeles,"(39.56336, -120.79279)",1.304048577242446,179.0,35124_0_no,39.58159908768552,-120.79908599000228,5.0
+95944,39.53482,-120.86159,Goodyears Bar,CA,California,True,,80.0,3.3,6091,Sierra,"{""06091"": 100}",Sierra,06091,False,False,America/Los_Angeles,"(39.53482, -120.86159)",4.640322934720688,179.0,35124_0_no,39.58159908768552,-120.79908599000228,5.0

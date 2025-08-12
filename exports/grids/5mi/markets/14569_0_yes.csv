@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31626,30.77609,-83.80208,Boston,GA,Georgia,True,,3274.0,8.9,13275,Thomas,"{""13275"": 92.11, ""13027"": 7.89}",Thomas|Brooks,13275|13027,False,False,America/New_York,"(30.77609, -83.80208)",0.42480691557985256,3274.0,14569_0_yes,30.78221979533845,-83.80263477019135,5.0

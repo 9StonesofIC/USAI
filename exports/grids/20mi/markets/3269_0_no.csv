@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59451,47.38984,-109.39779,Hilger,MT,Montana,True,,127.0,0.2,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver,"(47.38984, -109.39779)",7.988311383679331,9185.0,3269_0_no,47.27733515068124,-109.35848079627544,20.0
+59457,47.08027,-109.38656,Lewistown,MT,Montana,True,,9058.0,3.5,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver,"(47.08027, -109.38656)",13.679613972738487,9185.0,3269_0_no,47.27733515068124,-109.35848079627544,20.0

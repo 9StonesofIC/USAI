@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48047,42.67754,-82.77744,New Baltimore,MI,Michigan,True,,41119.0,881.5,26099,Macomb,"{""26099"": 100}",Macomb,26099,False,False,America/Detroit,"(42.67754, -82.77744)",0.9532896332216534,59739.0,41419_0_yes,42.664364813196656,-82.78301042180286,5.0
+48051,42.69067,-82.82582,New Baltimore,MI,Michigan,True,,18620.0,506.7,26099,Macomb,"{""26099"": 100}",Macomb,26099,False,False,America/Detroit,"(42.69067, -82.82582)",2.834092310086113,59739.0,41419_0_yes,42.664364813196656,-82.78301042180286,5.0

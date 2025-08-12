@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70450,30.93667,-90.26755,Mount Hermon,LA,Louisiana,True,,2617.0,13.7,22117,Washington,"{""22117"": 100}",Washington,22117,False,False,America/Chicago,"(30.93667, -90.26755)",2.4003791761890043,2617.0,14959_0_yes,30.93150154300773,-90.30760140097982,5.0

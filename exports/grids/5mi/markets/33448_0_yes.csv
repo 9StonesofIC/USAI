@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67637,38.94008,-99.59197,Ellis,KS,Kansas,True,,2873.0,3.2,20051,Ellis,"{""20051"": 50.23, ""20195"": 48.6, ""20065"": 1.17}",Ellis|Trego|Graham,20051|20195|20065,False,False,America/Chicago,"(38.94008, -99.59197)",2.0979664641408355,2873.0,33448_0_yes,38.91241802970864,-99.575873980137,5.0

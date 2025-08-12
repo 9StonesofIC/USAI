@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27926,36.51687,-76.60288,Corapeake,NC,North Carolina,True,,1899.0,20.3,37073,Gates,"{""37073"": 100}",Gates,37073,False,False,America/New_York,"(36.51687, -76.60288)",1.3195298342862647,3116.0,28125_0_no,36.50374805925611,-76.58561610530863,5.0
+27979,36.44072,-76.56243,Sunbury,NC,North Carolina,True,,1217.0,6.6,37073,Gates,"{""37073"": 100}",Gates,37073,False,False,America/New_York,"(36.44072, -76.56243)",4.541373226353019,3116.0,28125_0_no,36.50374805925611,-76.58561610530863,5.0

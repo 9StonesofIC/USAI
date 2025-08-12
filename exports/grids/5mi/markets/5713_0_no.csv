@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78067,27.11312,-99.32793,San Ygnacio,TX,Texas,True,,615.0,1.3,48505,Zapata,"{""48505"": 100}",Zapata,48505,False,False,America/Chicago,"(27.11312, -99.32793)",3.343634416086341,615.0,5713_0_no,27.091476671370348,-99.27930770614424,5.0

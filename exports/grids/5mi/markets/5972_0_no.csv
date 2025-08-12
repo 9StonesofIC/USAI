@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34241,27.24944,-82.37305,Sarasota,FL,Florida,True,,15222.0,83.8,12115,Sarasota,"{""12115"": 100}",Sarasota,12115,False,False,America/New_York,"(27.24944, -82.37305)",2.171061522374794,15222.0,5972_0_no,27.226823688896943,-82.34851537243037,5.0

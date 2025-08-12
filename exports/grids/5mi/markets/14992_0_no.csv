@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76527,30.8379,-97.79531,Florence,TX,Texas,True,,3696.0,11.9,48491,Williamson,"{""48491"": 85.74, ""48053"": 7.62, ""48027"": 6.64}",Williamson|Burnet|Bell,48491|48053|48027,False,False,America/Chicago,"(30.8379, -97.79531)",2.5604693927772493,3696.0,14992_0_no,30.86388578197662,-97.826084966086,5.0

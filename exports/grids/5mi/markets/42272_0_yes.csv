@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12816,43.05085,-73.37829,Cambridge,NY,New York,True,,4642.0,29.9,36115,Washington,"{""36115"": 100}",Washington,36115,False,False,America/New_York,"(43.05085, -73.37829)",2.840771303702699,5517.0,42272_0_yes,43.09056201035195,-73.39286699241684,5.0
+12873,43.1185,-73.30682,Shushan,NY,New York,True,,875.0,16.0,36115,Washington,"{""36115"": 100}",Washington,36115,False,False,America/New_York,"(43.1185, -73.30682)",4.750562046432537,5517.0,42272_0_yes,43.09056201035195,-73.39286699241684,5.0

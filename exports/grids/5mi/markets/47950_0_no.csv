@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59324,45.76652,-104.58732,Ekalaka,MT,Montana,True,,926.0,0.3,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver,"(45.76652, -104.58732)",2.9423397331105394,926.0,47950_0_no,45.796054118717706,-104.63131088507195,5.0

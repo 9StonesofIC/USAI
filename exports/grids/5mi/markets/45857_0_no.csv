@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54107,44.70068,-88.44436,Bonduel,WI,Wisconsin,True,,3600.0,18.9,55115,Shawano,"{""55115"": 97.28, ""55087"": 2.72}",Shawano|Outagamie,55115|55087,False,False,America/Chicago,"(44.70068, -88.44436)",5.994292007087351,3600.0,45857_0_no,44.76838603132152,-88.5207215146477,5.0

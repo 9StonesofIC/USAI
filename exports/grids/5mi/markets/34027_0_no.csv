@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65320,39.06606,-92.94415,Arrow Rock,MO,Missouri,True,,37.0,26.8,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago,"(39.06606, -92.94415)",4.569794783819868,37.0,34027_0_no,39.124487420699325,-92.90421384080098,5.0

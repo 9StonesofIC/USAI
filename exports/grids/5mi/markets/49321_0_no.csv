@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56518,46.48926,-95.24506,Bluffton,MN,Minnesota,True,,379.0,7.9,27111,Otter Tail,"{""27111"": 100}",Otter Tail,27111,False,False,America/Chicago,"(46.48926, -95.24506)",5.031242033103622,3445.0,49321_0_no,46.5112408654378,-95.34591134559814,5.0
+56567,46.54896,-95.36707,New York Mills,MN,Minnesota,True,,3066.0,8.0,27111,Otter Tail,"{""27111"": 100}",Otter Tail,27111,False,False,America/Chicago,"(46.54896, -95.36707)",2.7934832735472805,3445.0,49321_0_no,46.5112408654378,-95.34591134559814,5.0

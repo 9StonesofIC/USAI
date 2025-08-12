@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88115,33.93185,-103.34466,Dora,NM,New Mexico,True,,74.0,27.7,35041,Roosevelt,"{""35041"": 100}",Roosevelt,35041,False,False,America/Denver,"(33.93185, -103.34466)",1.280003393509558,74.0,22267_0_no,33.91386279882377,-103.33931627384294,5.0

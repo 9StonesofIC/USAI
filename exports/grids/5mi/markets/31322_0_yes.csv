@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95215,37.9444,-121.15276,Stockton,CA,California,True,,25473.0,106.0,6077,San Joaquin,"{""06077"": 100}",San Joaquin,06077,False,False,America/Los_Angeles,"(37.9444, -121.15276)",2.057215714377286,25473.0,31322_0_yes,37.91477694765259,-121.15656133444304,5.0

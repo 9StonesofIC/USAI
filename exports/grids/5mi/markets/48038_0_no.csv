@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97053,45.82695,-122.88401,Warren,OR,Oregon,True,,3633.0,109.5,41009,Columbia,"{""41009"": 100}",Columbia,41009,False,False,America/Los_Angeles,"(45.82695, -122.88401)",1.9290720217801598,3633.0,48038_0_no,45.81255866269387,-122.84968036152767,5.0

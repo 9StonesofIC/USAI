@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87827,34.36366,-108.12546,Pie Town,NM,New Mexico,True,,185.0,0.2,35003,Catron,"{""35003"": 100}",Catron,35003,False,False,America/Denver,"(34.36366, -108.12546)",19.71422545179307,185.0,1572_0_no,34.53330138608624,-107.84725225517262,20.0

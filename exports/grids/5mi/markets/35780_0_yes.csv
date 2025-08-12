@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95973,39.88099,-121.8516,Chico,CA,California,True,,36223.0,46.6,6007,Butte,"{""06007"": 61.67, ""06103"": 38.33}",Butte|Tehama,06007|06103,False,False,America/Los_Angeles,"(39.88099, -121.8516)",5.220000112149207,36223.0,35780_0_yes,39.94470875454745,-121.7986784537664,5.0

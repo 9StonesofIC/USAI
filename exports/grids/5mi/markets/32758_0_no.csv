@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64761,38.59463,-93.68657,Leeton,MO,Missouri,True,,1470.0,8.1,29101,Johnson,"{""29101"": 79.59, ""29083"": 20.41}",Johnson|Henry,29101|29083,False,False,America/Chicago,"(38.59463, -93.68657)",3.7619232211076525,1470.0,32758_0_no,38.54556781572122,-93.71676603574625,5.0

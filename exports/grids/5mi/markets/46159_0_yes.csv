@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49648,44.98359,-85.3435,Kewadin,MI,Michigan,True,,2442.0,34.6,26009,Antrim,"{""26009"": 100}",Antrim,26009,False,False,America/Detroit,"(44.98359, -85.3435)",2.8798675801448614,2442.0,46159_0_yes,44.98265256123609,-85.40241326226081,5.0

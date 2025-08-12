@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42054,36.71734,-88.43149,Kirksey,KY,Kentucky,True,,876.0,10.3,21035,Calloway,"{""21035"": 86.03, ""21157"": 9.74, ""21083"": 4.23}",Calloway|Marshall|Graves,21035|21157|21083,False,False,America/Chicago,"(36.71734, -88.43149)",1.094069340857775,876.0,28539_0_yes,36.73001544589648,-88.41964954717976,5.0

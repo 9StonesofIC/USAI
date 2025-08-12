@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60953,40.62854,-87.6894,Milford,IL,Illinois,True,,2651.0,6.7,17075,Iroquois,"{""17075"": 100}",Iroquois,17075,False,False,America/Chicago,"(40.62854, -87.6894)",4.3607031881244795,2989.0,37136_0_no,40.56883460792998,-87.66245608100901,5.0
+60973,40.53654,-87.66265,Wellington,IL,Illinois,True,,338.0,4.6,17075,Iroquois,"{""17075"": 100}",Iroquois,17075,False,False,America/Chicago,"(40.53654, -87.66265)",2.231368099944134,2989.0,37136_0_no,40.56883460792998,-87.66245608100901,5.0

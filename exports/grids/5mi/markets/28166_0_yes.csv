@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24076,36.59704,-80.42116,Claudville,VA,Virginia,True,,1292.0,12.8,51141,Patrick,"{""51141"": 100}",Patrick,51141,False,False,America/New_York,"(36.59704, -80.42116)",1.8614121519404745,1292.0,28166_0_yes,36.57903414022627,-80.39620244508292,5.0

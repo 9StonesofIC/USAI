@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80103,39.78035,-104.09576,Byers,CO,Colorado,True,,2928.0,3.1,8001,Adams,"{""08001"": 66.6, ""08005"": 33.4}",Adams|Arapahoe,08001|08005,False,False,America/Denver,"(39.78035, -104.09576)",2.552235196354117,2928.0,35372_0_yes,39.78547990536849,-104.14336205863148,5.0

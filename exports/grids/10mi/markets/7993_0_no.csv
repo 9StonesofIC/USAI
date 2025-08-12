@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95327,37.84912,-120.4858,Jamestown,CA,California,True,,8542.0,20.8,6109,Tuolumne,"{""06109"": 100}",Tuolumne,06109,False,False,America/Los_Angeles,"(37.84912, -120.4858)",4.732382714694915,36843.0,7993_0_no,37.91084990856067,-120.44820249794331,10.0
+95370,37.98484,-120.34515,Sonora,CA,California,True,,28301.0,106.0,6109,Tuolumne,"{""06109"": 100}",Tuolumne,06109,False,False,America/Los_Angeles,"(37.98484, -120.34515)",7.593489308022625,36843.0,7993_0_no,37.91084990856067,-120.44820249794331,10.0

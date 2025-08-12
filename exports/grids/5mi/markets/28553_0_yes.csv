@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63935,36.67053,-90.92055,Doniphan,MO,Missouri,True,,10066.0,8.5,29181,Ripley,"{""29181"": 92.49, ""29149"": 6.73, ""29035"": 0.78}",Ripley|Oregon|Carter,29181|29149|29035,False,False,America/Chicago,"(36.67053, -90.92055)",4.405401182560401,10066.0,28553_0_yes,36.73192456014044,-90.94201050350723,5.0

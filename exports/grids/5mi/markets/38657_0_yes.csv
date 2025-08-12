@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15832,41.35301,-78.19053,Driftwood,PA,Pennsylvania,True,,231.0,0.8,42023,Cameron,"{""42023"": 89.31, ""42047"": 10.69}",Cameron|Elk,42023|42047,False,False,America/New_York,"(41.35301, -78.19053)",3.172431824223376,231.0,38657_0_yes,41.35747071488333,-78.25140961860016,5.0

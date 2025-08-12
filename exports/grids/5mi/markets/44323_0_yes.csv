@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04635,44.11376,-68.35479,Frenchboro,ME,Maine,True,,10.0,1.6,23009,Hancock,"{""23009"": 100}",Hancock,23009,False,False,America/New_York,"(44.11376, -68.35479)",2.9856760810491783,10.0,44323_0_yes,44.09919336246413,-68.29813223763892,5.0

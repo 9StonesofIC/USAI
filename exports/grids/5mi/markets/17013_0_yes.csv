@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31750,31.73391,-83.21752,Fitzgerald,GA,Georgia,True,,17959.0,24.7,13017,Ben Hill,"{""13017"": 74.4, ""13155"": 25.6}",Ben Hill|Irwin,13017|13155,False,False,America/New_York,"(31.73391, -83.21752)",4.685930437988342,17959.0,17013_0_yes,31.797070191886945,-83.18846164576891,5.0

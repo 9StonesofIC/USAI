@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55398,45.45787,-93.5903,Zimmerman,MN,Minnesota,True,,17039.0,90.0,27141,Sherburne,"{""27141"": 82.64, ""27059"": 17.36}",Sherburne|Isanti,27141|27059,False,False,America/Chicago,"(45.45787, -93.5903)",2.957129440640373,17039.0,47325_0_no,45.49662176361392,-93.61620933467034,5.0

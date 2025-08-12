@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61068,41.94928,-89.0652,Rochelle,IL,Illinois,True,,14194.0,45.4,17141,Ogle,"{""17141"": 88.77, ""17103"": 10.01, ""17037"": 1.22}",Ogle|Lee|DeKalb,17141|17103|17037,False,False,America/Chicago,"(41.94928, -89.0652)",1.1172666498233308,14194.0,39937_0_yes,41.94577771784381,-89.08642540343968,5.0

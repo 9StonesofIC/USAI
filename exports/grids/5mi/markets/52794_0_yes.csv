@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98274,48.36013,-122.14346,Mount Vernon,WA,Washington,True,,18346.0,49.5,53057,Skagit,"{""53057"": 100}",Skagit,53057,False,False,America/Los_Angeles,"(48.36013, -122.14346)",1.8767865736718388,18346.0,52794_0_yes,48.34511167523797,-122.17751883382412,5.0

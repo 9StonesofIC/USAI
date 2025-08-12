@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86429,35.28769,-114.51261,Bullhead City,AZ,Arizona,True,,8415.0,11.8,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix,"(35.28769, -114.51261)",4.378832428156151,8415.0,25358_0_no,35.227156612884535,-114.48962825441846,5.0

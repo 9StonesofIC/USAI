@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62214,38.37682,-89.60529,Addieville,IL,Illinois,True,,1449.0,10.4,17189,Washington,"{""17189"": 100}",Washington,17189,False,False,America/Chicago,"(38.37682, -89.60529)",3.717354798181358,3363.0,32415_0_no,38.39738628040566,-89.54186339473544,5.0
+62271,38.44028,-89.52209,Okawville,IL,Illinois,True,,1914.0,11.7,17189,Washington,"{""17189"": 100}",Washington,17189,False,False,America/Chicago,"(38.44028, -89.52209)",3.151054374255487,3363.0,32415_0_no,38.39738628040566,-89.54186339473544,5.0

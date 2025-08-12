@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29530,33.98984,-79.74222,Coward,SC,South Carolina,True,,2149.0,20.5,45041,Florence,"{""45041"": 100}",Florence,45041,False,False,America/New_York,"(33.98984, -79.74222)",3.990473506606179,11868.0,22471_0_no,34.0421853528795,-79.77166260514626,5.0
+29541,34.0653,-79.74087,Effingham,SC,South Carolina,True,,9719.0,47.0,45041,Florence,"{""45041"": 100}",Florence,45041,False,False,America/New_York,"(34.0653, -79.74087)",2.3786128811893934,11868.0,22471_0_no,34.0421853528795,-79.77166260514626,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39338,32.11034,-89.23274,Louin,MS,Mississippi,True,,3954.0,7.3,28061,Jasper,"{""28061"": 81.72, ""28129"": 18.28}",Jasper|Smith,28061|28129,False,False,America/Chicago,"(32.11034, -89.23274)",3.9454235837127434,3954.0,18076_0_no,32.163745377091224,-89.25661116098243,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49688,44.12115,-85.44349,Tustin,MI,Michigan,True,,2369.0,10.0,26133,Osceola,"{""26133"": 88.64, ""26085"": 10.47, ""26165"": 0.89}",Osceola|Lake|Wexford,26133|26085|26165,False,False,America/Detroit,"(44.12115, -85.44349)",2.984659457534379,2369.0,44408_0_yes,44.1142238712979,-85.3840974662749,5.0

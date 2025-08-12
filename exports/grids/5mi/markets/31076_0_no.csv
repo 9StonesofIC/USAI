@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24457,37.79379,-79.87014,Low Moor,VA,Virginia,True,,333.0,110.9,51005,Alleghany,"{""51005"": 100}",Alleghany,51005,False,False,America/New_York,"(37.79379, -79.87014)",4.558180787837161,333.0,31076_0_no,37.81035073741398,-79.95096037898894,5.0

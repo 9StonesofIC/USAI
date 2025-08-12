@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87729,36.31405,-104.80642,Miami,NM,New Mexico,True,,88.0,0.4,35007,Colfax,"{""35007"": 100}",Colfax,35007,False,False,America/Denver,"(36.31405, -104.80642)",7.081353002057506,332.0,6981_0_yes,36.29255091520015,-104.93076544385376,10.0
+87734,36.17323,-105.09363,Ocate,NM,New Mexico,True,,244.0,0.7,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(36.17323, -105.09363)",12.26199642141013,332.0,6981_0_yes,36.29255091520015,-104.93076544385376,10.0

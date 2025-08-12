@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50213,41.03292,-93.76557,Osceola,IA,Iowa,True,,7076.0,13.0,19039,Clarke,"{""19039"": 100}",Clarke,19039,False,False,America/Chicago,"(41.03292, -93.76557)",2.456362948373878,7076.0,38096_0_no,41.00836281154493,-93.73149743058268,5.0

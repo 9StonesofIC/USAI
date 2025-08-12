@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58021,46.73837,-97.08102,Davenport,ND,North Dakota,True,,501.0,3.0,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(46.73837, -97.08102)",4.4182020137024525,2133.0,49891_0_no,46.8022567360556,-97.08501606262364,5.0
+58059,46.83825,-97.11812,Mapleton,ND,North Dakota,True,,1632.0,5.6,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(46.83825, -97.11812)",2.938427480831787,2133.0,49891_0_no,46.8022567360556,-97.08501606262364,5.0

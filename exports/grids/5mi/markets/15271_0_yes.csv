@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31738,31.01133,-83.87502,Coolidge,GA,Georgia,True,,2232.0,13.8,13275,Thomas,"{""13275"": 73.56, ""13071"": 26.44}",Thomas|Colquitt,13275|13071,False,False,America/New_York,"(31.01133, -83.87502)",4.5378756314603645,2232.0,15271_0_yes,31.0723384178802,-83.84663428062643,5.0

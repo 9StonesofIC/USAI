@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98360,47.03246,-122.1575,Orting,WA,Washington,True,,14084.0,80.3,53053,Pierce,"{""53053"": 100}",Pierce,53053,False,False,America/Los_Angeles,"(47.03246, -122.1575)",4.353442286512117,14084.0,50289_0_no,46.97012423627031,-122.17096043444369,5.0

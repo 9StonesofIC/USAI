@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76887,31.02696,-99.15806,Voca,TX,Texas,True,,89.0,0.4,48307,McCulloch,"{""48307"": 100}",McCulloch,48307,False,False,America/Chicago,"(31.02696, -99.15806)",4.364551888541821,89.0,15362_0_yes,31.08237329096251,-99.19345972715034,5.0

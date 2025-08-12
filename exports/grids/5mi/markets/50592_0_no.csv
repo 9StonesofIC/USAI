@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04745,47.27371,-68.39936,Frenchville,ME,Maine,True,,885.0,11.9,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(47.27371, -68.39936)",4.467524397323301,1689.0,50592_0_no,47.20975190958901,-68.38537285669945,5.0
+04772,47.23375,-68.32732,Saint Agatha,ME,Maine,True,,804.0,10.5,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(47.23375, -68.32732)",3.189110746488684,1689.0,50592_0_no,47.20975190958901,-68.38537285669945,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62001,38.87971,-89.74562,Alhambra,IL,Illinois,True,,1540.0,12.4,17119,Madison,"{""17119"": 100}",Madison,17119,False,False,America/Chicago,"(38.87971, -89.74562)",4.156401950191093,3258.0,33374_0_no,38.832170959270826,-89.69828354295463,5.0
+62061,38.79077,-89.77624,Marine,IL,Illinois,True,,1718.0,28.6,17119,Madison,"{""17119"": 100}",Madison,17119,False,False,America/Chicago,"(38.79077, -89.77624)",5.079165633515878,3258.0,33374_0_no,38.832170959270826,-89.69828354295463,5.0

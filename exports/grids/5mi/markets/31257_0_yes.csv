@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84535,37.84244,-109.28673,Monticello,UT,Utah,True,,3354.0,1.4,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver,"(37.84244, -109.28673)",4.576212416789546,3354.0,31257_0_yes,37.90552908752282,-109.2611887785834,5.0

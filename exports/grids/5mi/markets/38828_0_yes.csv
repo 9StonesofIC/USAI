@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84086,41.41644,-111.20858,Woodruff,UT,Utah,True,,428.0,1.4,49033,Rich,"{""49033"": 100}",Rich,49033,False,False,America/Denver,"(41.41644, -111.20858)",3.9201811514685505,428.0,38828_0_yes,41.38496316911165,-111.14564821282976,5.0

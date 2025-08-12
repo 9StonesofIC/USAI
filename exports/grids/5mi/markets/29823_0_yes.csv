@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40456,37.3538,-84.32099,Mount Vernon,KY,Kentucky,True,,9240.0,21.9,21203,Rockcastle,"{""21203"": 100}",Rockcastle,21203,False,False,America/New_York,"(37.3538, -84.32099)",3.2881079779638456,9240.0,29823_0_yes,37.30656208700215,-84.32824960230765,5.0

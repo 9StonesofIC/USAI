@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92339,34.08189,-116.83838,Forest Falls,CA,California,True,,1382.0,6.8,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.08189, -116.83838)",3.666447440575875,1382.0,22684_0_no,34.068510242218125,-116.90037495464084,5.0

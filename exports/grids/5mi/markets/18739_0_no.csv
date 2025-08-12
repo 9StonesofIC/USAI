@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31801,32.51765,-84.5906,Box Springs,GA,Georgia,True,,3068.0,13.8,13197,Marion,"{""13197"": 64.88, ""13263"": 32.63, ""13215"": 2.49}",Marion|Talbot|Muscogee,13197|13263|13215,False,False,America/New_York,"(32.51765, -84.5906)",6.141320453805811,3068.0,18739_0_no,32.45058791587637,-84.5214437669165,5.0

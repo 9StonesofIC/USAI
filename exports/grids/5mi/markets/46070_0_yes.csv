@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04666,44.97646,-67.22204,Pembroke,ME,Maine,True,,1299.0,8.6,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.97646, -67.22204)",1.3046636106403144,1299.0,46070_0_yes,44.966433909263,-67.24465748358647,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38665,34.58165,-90.16693,Sarah,MS,Mississippi,True,,2998.0,17.7,28137,Tate,"{""28137"": 61.63, ""28107"": 26.79, ""28143"": 11.58}",Tate|Panola|Tunica,28137|28107|28143,False,False,America/Chicago,"(34.58165, -90.16693)",4.195716581729298,2998.0,23560_0_yes,34.55692844728747,-90.09957197124466,5.0

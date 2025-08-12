@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67857,37.99598,-101.55154,Kendall,KS,Kansas,True,,217.0,0.3,20075,Hamilton,"{""20075"": 52.97, ""20093"": 47.03}",Hamilton|Kearny,20075|20093,False,False,America/Denver,"(37.99598, -101.55154)",2.3269666179851796,217.0,7951_0_yes,38.02615838266913,-101.53256497772004,10.0

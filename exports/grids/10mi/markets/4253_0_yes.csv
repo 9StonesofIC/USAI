@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76958,31.64467,-100.75515,Water Valley,TX,Texas,True,,134.0,1.1,48451,Tom Green,"{""48451"": 100}",Tom Green,48451,False,False,America/Chicago,"(31.64467, -100.75515)",8.701241363082497,134.0,4253_0_yes,31.647801998517416,-100.90303551354413,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75550,33.49966,-94.88454,Annona,TX,Texas,True,,775.0,3.3,48387,Red River,"{""48387"": 100}",Red River,48387,False,False,America/Chicago,"(33.49966, -94.88454)",4.927998171647361,775.0,21199_0_no,33.472902052315185,-94.96381187036854,5.0

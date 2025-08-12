@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33841,27.7381,-81.7674,Fort Meade,FL,Florida,True,,9650.0,22.1,12105,Polk,"{""12105"": 100}",Polk,12105,False,False,America/New_York,"(27.7381, -81.7674)",5.102304698135711,9804.0,7418_0_no,27.806942271508785,-81.79760052985792,5.0
+33847,27.80864,-81.82381,Homeland,FL,Florida,True,,154.0,66.4,12105,Polk,"{""12105"": 100}",Polk,12105,False,False,America/New_York,"(27.80864, -81.82381)",1.6060639135824737,9804.0,7418_0_no,27.806942271508785,-81.79760052985792,5.0

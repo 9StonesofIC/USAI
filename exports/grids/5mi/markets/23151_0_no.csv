@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29032,34.34002,-80.44374,Cassatt,SC,South Carolina,True,,5669.0,27.7,45055,Kershaw,"{""45055"": 78.8, ""45061"": 21.2}",Kershaw|Lee,45055|45061,False,False,America/New_York,"(34.34002, -80.44374)",2.7564398922672804,5669.0,23151_0_no,34.33262575893868,-80.49121634537448,5.0

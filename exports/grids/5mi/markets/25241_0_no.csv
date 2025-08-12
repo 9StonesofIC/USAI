@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72943,35.18326,-93.78721,Magazine,AR,Arkansas,True,,2370.0,9.0,5083,Logan,"{""05083"": 94.96, ""05149"": 4.71, ""05047"": 0.33}",Logan|Yell|Franklin,05083|05149|05047,False,False,America/Chicago,"(35.18326, -93.78721)",2.3095467201777975,2370.0,25241_0_no,35.21205807884568,-93.80797742227472,5.0

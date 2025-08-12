@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15341,39.82381,-80.34728,Holbrook,PA,Pennsylvania,True,,772.0,5.7,42059,Greene,"{""42059"": 100}",Greene,42059,False,False,America/New_York,"(39.82381, -80.34728)",1.0283822504859927,975.0,35537_0_no,39.83868445868843,-80.34797166793906,5.0
+15359,39.87667,-80.27555,Rogersville,PA,Pennsylvania,True,,203.0,530.2,42059,Greene,"{""42059"": 100}",Greene,42059,False,False,America/New_York,"(39.87667, -80.27555)",4.6521774702982395,975.0,35537_0_no,39.83868445868843,-80.34797166793906,5.0

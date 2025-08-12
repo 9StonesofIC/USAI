@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68620,41.72452,-98.05814,Albion,NE,Nebraska,True,,2633.0,3.6,31011,Boone,"{""31011"": 100}",Boone,31011,False,False,America/Chicago,"(41.72452, -98.05814)",1.8336277647048245,2633.0,39652_0_no,41.73613471175511,-98.0261659611878,5.0

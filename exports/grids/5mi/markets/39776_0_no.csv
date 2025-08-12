@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96058,41.74536,-121.9337,Macdoel,CA,California,True,,507.0,0.5,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.74536, -121.9337)",4.390320334637647,507.0,39776_0_no,41.75633360939482,-122.0175915258441,5.0

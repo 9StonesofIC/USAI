@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79754,31.81735,-103.49163,Mentone,TX,Texas,True,,117.0,0.1,48301,Loving,"{""48301"": 100}",Loving,48301,False,False,America/Chicago,"(31.81735, -103.49163)",9.245981697822701,117.0,4435_0_yes,31.94136491999468,-103.55083698081674,10.0

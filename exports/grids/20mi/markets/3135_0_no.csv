@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83539,46.20361,-114.93684,Kooskia,ID,Idaho,True,,2297.0,0.4,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Los_Angeles,"(46.20361, -114.93684)",13.037323060140384,2297.0,3135_0_no,46.13963236175124,-114.68050203261885,20.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07732,40.43115,-73.99192,Highlands,NJ,New Jersey,True,,4814.0,492.7,34025,Monmouth,"{""34025"": 100}",Monmouth,34025,False,False,America/New_York,"(40.43115, -73.99192)",5.129507227989825,8341.0,36777_0_yes,40.4850903492567,-73.92487895902919,5.0
+11697,40.55749,-73.91361,Breezy Point,NY,New York,True,,3527.0,665.1,36081,Queens,"{""36081"": 100}",Queens,36081,False,False,America/New_York,"(40.55749, -73.91361)",5.037232607450125,8341.0,36777_0_yes,40.4850903492567,-73.92487895902919,5.0

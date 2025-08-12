@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68404,40.619,-96.75566,Martell,NE,Nebraska,True,,1015.0,7.8,31109,Lancaster,"{""31109"": 100}",Lancaster,31109,False,False,America/Chicago,"(40.619, -96.75566)",4.619145802618839,1088.0,37209_0_yes,40.64876367019693,-96.83454218237289,5.0
+68438,40.62656,-96.74463,Sprague,NE,Nebraska,True,,73.0,279.7,31109,Lancaster,"{""31109"": 100}",Lancaster,31109,False,False,America/Chicago,"(40.62656, -96.74463)",4.957535784851533,1088.0,37209_0_yes,40.64876367019693,-96.83454218237289,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52154,43.12201,-92.16519,Lawler,IA,Iowa,True,,795.0,4.2,19037,Chickasaw,"{""19037"": 98.58, ""19089"": 1.42}",Chickasaw|Howard,19037|19089,False,False,America/Chicago,"(43.12201, -92.16519)",5.907882356769868,795.0,42639_0_no,43.17929190664323,-92.2522048536978,5.0

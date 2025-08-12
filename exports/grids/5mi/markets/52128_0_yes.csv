@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56754,47.99065,-96.18199,Saint Hilaire,MN,Minnesota,True,,589.0,5.9,27113,Pennington,"{""27113"": 91.0, ""27125"": 9.0}",Pennington|Red Lake,27113|27125,False,False,America/Chicago,"(47.99065, -96.18199)",5.599878134565089,589.0,52128_0_yes,48.03114255632665,-96.07704407773784,5.0

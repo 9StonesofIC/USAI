@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16214,41.2008,-79.36046,Clarion,PA,Pennsylvania,True,,10276.0,82.8,42031,Clarion,"{""42031"": 100}",Clarion,42031,False,False,America/New_York,"(41.2008, -79.36046)",2.5602620450011515,11924.0,38355_0_yes,41.21356013226006,-79.31421878680602,5.0
+16258,41.2307,-79.27217,Strattanville,PA,Pennsylvania,True,,1648.0,17.3,42031,Clarion,"{""42031"": 100}",Clarion,42031,False,False,America/New_York,"(41.2307, -79.27217)",2.485509921427519,11924.0,38355_0_yes,41.21356013226006,-79.31421878680602,5.0

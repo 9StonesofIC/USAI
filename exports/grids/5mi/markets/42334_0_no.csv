@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53816,42.97794,-90.85773,Mount Hope,WI,Wisconsin,True,,911.0,5.8,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago,"(42.97794, -90.85773)",5.910747522587437,911.0,42334_0_no,43.0333797246509,-90.94682207785908,5.0

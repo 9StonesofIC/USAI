@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13731,42.13059,-74.7882,Andes,NY,New York,True,,946.0,4.1,36025,Delaware,"{""36025"": 100}",Delaware,36025,False,False,America/New_York,"(42.13059, -74.7882)",4.124301366140802,1832.0,40445_0_no,42.15096032788024,-74.86386884031741,5.0
+13752,42.17257,-74.90379,Delancey,NY,New York,True,,886.0,6.3,36025,Delaware,"{""36025"": 100}",Delaware,36025,False,False,America/New_York,"(42.17257, -74.90379)",2.5317290354441857,1832.0,40445_0_no,42.15096032788024,-74.86386884031741,5.0

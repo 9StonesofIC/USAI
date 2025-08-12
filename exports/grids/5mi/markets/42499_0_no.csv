@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97481,43.11376,-123.55237,Tenmile,OR,Oregon,True,,875.0,45.0,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.11376, -123.55237)",3.689472271357466,8538.0,42499_0_no,43.0615030991716,-123.53733302816067,5.0
+97496,43.05261,-123.49992,Winston,OR,Oregon,True,,7663.0,33.6,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.05261, -123.49992)",1.986221558612224,8538.0,42499_0_no,43.0615030991716,-123.53733302816067,5.0

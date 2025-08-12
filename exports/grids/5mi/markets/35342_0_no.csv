@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80822,39.67088,-102.67815,Joes,CO,Colorado,True,,230.0,0.8,8125,Yuma,"{""08125"": 100}",Yuma,08125,False,False,America/Denver,"(39.67088, -102.67815)",5.72989896156597,230.0,35342_0_no,39.71196665321548,-102.77176501859586,5.0

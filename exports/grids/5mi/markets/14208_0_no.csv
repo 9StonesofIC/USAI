@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32309,30.57174,-84.10128,Tallahassee,FL,Florida,True,,33359.0,105.6,12073,Leon,"{""12073"": 100}",Leon,12073,False,False,America/New_York,"(30.57174, -84.10128)",2.980146685579704,33359.0,14208_0_no,30.56489860359724,-84.15073987272754,5.0

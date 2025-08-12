@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22935,38.25785,-78.55474,Dyke,VA,Virginia,True,,814.0,14.1,51079,Greene,"{""51079"": 62.47, ""51003"": 37.53}",Greene|Albemarle,51079|51003,False,False,America/New_York,"(38.25785, -78.55474)",5.19136075185783,814.0,32056_0_yes,38.31632626412834,-78.61484700583907,5.0

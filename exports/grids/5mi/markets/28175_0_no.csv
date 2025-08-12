@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38551,36.55804,-85.48699,Celina,TN,Tennessee,True,,4213.0,18.2,47027,Clay,"{""47027"": 97.82, ""47087"": 2.18}",Clay|Jackson,47027|47087,False,False,America/Chicago,"(36.55804, -85.48699)",5.570679514461878,5310.0,28175_0_no,36.51051125162232,-85.56804344004281,5.0
+38575,36.55848,-85.63515,Moss,TN,Tennessee,True,,1097.0,8.8,47027,Clay,"{""47027"": 100}",Clay,47027,False,False,America/Chicago,"(36.55848, -85.63515)",4.986405330394609,5310.0,28175_0_no,36.51051125162232,-85.56804344004281,5.0

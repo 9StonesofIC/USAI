@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62432,39.13353,-88.14176,Hidalgo,IL,Illinois,True,,784.0,7.4,17079,Jasper,"{""17079"": 99.72, ""17035"": 0.28}",Jasper|Cumberland,17079|17035,False,False,America/Chicago,"(39.13353, -88.14176)",4.179334761059181,1128.0,34001_0_no,39.1206251448288,-88.06558122693373,5.0
+62481,39.12657,-88.02293,Yale,IL,Illinois,True,,344.0,3.8,17079,Jasper,"{""17079"": 100}",Jasper,17079,False,False,America/Chicago,"(39.12657, -88.02293)",2.3227863092552967,1128.0,34001_0_no,39.1206251448288,-88.06558122693373,5.0

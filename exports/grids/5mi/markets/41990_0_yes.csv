@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13148,42.9208,-76.78106,Seneca Falls,NY,New York,True,,10648.0,66.0,36099,Seneca,"{""36099"": 100}",Seneca,36099,False,False,America/New_York,"(42.9208, -76.78106)",4.731214679544626,20553.0,41990_0_yes,42.94880993088413,-76.86640672938782,5.0
+13165,42.91185,-76.87601,Waterloo,NY,New York,True,,9905.0,56.1,36099,Seneca,"{""36099"": 100}",Seneca,36099,False,False,America/New_York,"(42.91185, -76.87601)",2.5994890173998697,20553.0,41990_0_yes,42.94880993088413,-76.86640672938782,5.0

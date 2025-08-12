@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89013,37.34574,-117.34393,Goldfield,NV,Nevada,True,,242.0,0.1,32009,Esmeralda,"{""32009"": 100}",Esmeralda,32009,False,False,America/Los_Angeles,"(37.34574, -117.34393)",7.2857523402195845,242.0,7661_0_no,37.32597544968594,-117.21365734153618,10.0

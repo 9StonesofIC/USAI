@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39327,32.44563,-89.12173,Decatur,MS,Mississippi,True,,4044.0,14.9,28101,Newton,"{""28101"": 100}",Newton,28101,False,False,America/Chicago,"(32.44563, -89.12173)",1.3459318453425697,4044.0,18766_0_no,32.45372838819087,-89.14272477726182,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99403,46.38114,-117.25974,Clarkston,WA,Washington,True,,20707.0,55.7,53003,Asotin,"{""53003"": 80.03, ""53023"": 19.97}",Asotin|Garfield,53003|53023,False,False,America/Los_Angeles,"(46.38114, -117.25974)",3.877452009202655,20707.0,49144_0_no,46.38649656555474,-117.17875883801167,5.0

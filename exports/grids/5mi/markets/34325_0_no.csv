@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62015,39.22011,-89.54203,Butler,IL,Illinois,True,,578.0,6.4,17135,Montgomery,"{""17135"": 100}",Montgomery,17135,False,False,America/Chicago,"(39.22011, -89.54203)",4.5584507846317175,1318.0,34325_0_no,39.26662844405628,-89.48162168561569,5.0
+62051,39.20309,-89.40244,Irving,IL,Illinois,True,,740.0,7.3,17135,Montgomery,"{""17135"": 100}",Montgomery,17135,False,False,America/Chicago,"(39.20309, -89.40244)",6.101624967537165,1318.0,34325_0_no,39.26662844405628,-89.48162168561569,5.0

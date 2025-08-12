@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59827,45.88649,-114.08346,Conner,MT,Montana,True,,335.0,7.9,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver,"(45.88649, -114.08346)",8.996931273741206,335.0,12225_0_no,46.01190361185946,-114.0330782451978,10.0

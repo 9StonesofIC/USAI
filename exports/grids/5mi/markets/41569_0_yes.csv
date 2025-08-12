@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83250,42.67228,-112.20865,Mccammon,ID,Idaho,True,,2046.0,9.3,16005,Bannock,"{""16005"": 100}",Bannock,16005,False,False,America/Boise,"(42.67228, -112.20865)",1.7632642601344561,2046.0,41569_0_yes,42.68960430550893,-112.2341399749399,5.0

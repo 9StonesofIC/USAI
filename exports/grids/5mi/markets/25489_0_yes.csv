@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27915,35.40794,-75.49465,Avon,NC,North Carolina,True,,474.0,22.4,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.40794, -75.49465)",3.261316631879421,474.0,25489_0_yes,35.41608846272039,-75.5516960537271,5.0

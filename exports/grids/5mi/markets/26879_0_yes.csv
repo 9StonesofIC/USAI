@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37085,35.95308,-86.27912,Lascassas,TN,Tennessee,True,,5220.0,36.7,47149,Rutherford,"{""47149"": 72.56, ""47189"": 27.44}",Rutherford|Wilson,47149|47189,False,False,America/Chicago,"(35.95308, -86.27912)",3.6842052613125165,5220.0,26879_0_yes,36.00372611796878,-86.25850827814043,5.0

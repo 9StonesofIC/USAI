@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78886,29.15453,-99.18749,Yancey,TX,Texas,True,,490.0,2.6,48325,Medina,"{""48325"": 100}",Medina,48325,False,False,America/Chicago,"(29.15453, -99.18749)",4.500860882857129,490.0,10755_0_no,29.123440159099783,-99.12195168292956,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80729,40.87439,-104.22632,Grover,CO,Colorado,True,,737.0,0.5,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.87439, -104.22632)",5.805081271054762,737.0,37867_0_yes,40.94454375337004,-104.165145162342,5.0

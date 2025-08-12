@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81328,37.30054,-108.3101,Mancos,CO,Colorado,True,,3882.0,3.0,8083,Montezuma,"{""08083"": 90.92, ""08067"": 9.08}",Montezuma|La Plata,08083|08067,False,False,America/Denver,"(37.30054, -108.3101)",9.626837054037056,3882.0,7636_0_no,37.31204646649378,-108.13552920028124,10.0

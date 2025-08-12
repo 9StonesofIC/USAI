@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38255,36.23954,-88.86483,Sharon,TN,Tennessee,True,,2478.0,19.4,47183,Weakley,"{""47183"": 97.37, ""47131"": 2.63}",Weakley|Obion,47183|47131,False,False,America/Chicago,"(36.23954, -88.86483)",4.109932059696006,2478.0,27536_0_no,36.22317158167404,-88.93572593618173,5.0

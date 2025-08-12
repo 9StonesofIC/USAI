@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84031,40.60493,-110.63735,Hanna,UT,Utah,True,,210.0,0.1,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.60493, -110.63735)",6.0058959991141245,210.0,37282_0_yes,40.660209326051984,-110.72574391664736,5.0

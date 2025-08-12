@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59020,45.08831,-110.01499,Cooke City,MT,Montana,True,,69.0,0.1,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver,"(45.08831, -110.01499)",1.1181041891347268,151.0,46542_0_no,45.077068850126,-109.9985035148567,5.0
+59081,45.01979,-109.98295,Silver Gate,MT,Montana,True,,82.0,7.3,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver,"(45.01979, -109.98295)",4.0297625673931945,151.0,46542_0_no,45.077068850126,-109.9985035148567,5.0

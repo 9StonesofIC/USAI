@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59063,45.65079,-108.97028,Park City,MT,Montana,True,,2205.0,13.9,30095,Stillwater,"{""30095"": 99.59, ""30111"": 0.41}",Stillwater|Yellowstone,30095|30111,False,False,America/Denver,"(45.65079, -108.97028)",5.444707854085646,2205.0,47426_0_yes,45.58274128258963,-108.913466445908,5.0

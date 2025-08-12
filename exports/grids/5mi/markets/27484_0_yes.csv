@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27909,36.29548,-76.28394,Elizabeth City,NC,North Carolina,True,,39804.0,67.7,37139,Pasquotank,"{""37139"": 100}",Pasquotank,37139,False,False,America/New_York,"(36.29548, -76.28394)",1.3634920182037735,39804.0,27484_0_yes,36.28610950078775,-76.26239300600417,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84724,38.67417,-112.15015,Elsinore,UT,Utah,True,,1110.0,105.2,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.67417, -112.15015)",2.140734585030519,1744.0,33177_0_no,38.70504798335795,-112.15341839924676,5.0
+84739,38.64204,-112.22299,Joseph,UT,Utah,True,,634.0,9.0,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.64204, -112.22299)",5.74773320899463,1744.0,33177_0_no,38.70504798335795,-112.15341839924676,5.0

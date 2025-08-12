@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98922,47.25056,-120.8821,Cle Elum,WA,Washington,True,,7630.0,7.1,53037,Kittitas,"{""53037"": 100}",Kittitas,53037,False,False,America/Los_Angeles,"(47.25056, -120.8821)",0.5511410594801845,7630.0,50839_0_no,47.25843524776509,-120.88023113291428,5.0

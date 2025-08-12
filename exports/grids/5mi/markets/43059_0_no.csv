@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83641,43.35079,-116.6357,Melba,ID,Idaho,True,,3720.0,6.3,16073,Owyhee,"{""16073"": 61.01, ""16027"": 24.76, ""16001"": 14.23}",Owyhee|Canyon|Ada,16073|16027|16001,False,False,America/Boise,"(43.35079, -116.6357)",2.6463836014941067,3720.0,43059_0_no,43.34518208378295,-116.58359760411162,5.0

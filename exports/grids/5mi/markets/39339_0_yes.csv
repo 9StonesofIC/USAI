@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52358,41.69644,-91.32097,West Branch,IA,Iowa,True,,3774.0,18.5,19031,Cedar,"{""19031"": 82.52, ""19103"": 17.48}",Cedar|Johnson,19031|19103,False,False,America/Chicago,"(41.69644, -91.32097)",3.7804528533355546,3774.0,39339_0_yes,41.65808015404976,-91.373207365243,5.0

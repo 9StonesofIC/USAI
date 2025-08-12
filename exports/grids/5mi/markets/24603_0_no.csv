@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73655,34.98189,-99.25267,Lone Wolf,OK,Oklahoma,True,,814.0,1.8,40075,Kiowa,"{""40075"": 97.26, ""40149"": 2.74}",Kiowa|Washita,40075|40149,False,False,America/Chicago,"(34.98189, -99.25267)",4.8181746238407825,814.0,24603_0_no,34.92600632244329,-99.20177791981568,5.0

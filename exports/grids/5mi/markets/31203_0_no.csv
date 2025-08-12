@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81054,37.88583,-103.19493,Las Animas,CO,Colorado,True,,4963.0,2.0,8011,Bent,"{""08011"": 84.82, ""08071"": 7.85, ""08009"": 7.33}",Bent|Las Animas|Baca,08011|08071|08009,False,False,America/Denver,"(37.88583, -103.19493)",4.310325527585449,4963.0,31203_0_no,37.82836100955438,-103.16418945716369,5.0

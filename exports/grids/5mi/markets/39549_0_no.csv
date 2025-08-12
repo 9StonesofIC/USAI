@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16746,41.79064,-78.13858,Roulette,PA,Pennsylvania,True,,1156.0,11.0,42105,Potter,"{""42105"": 100}",Potter,42105,False,False,America/New_York,"(41.79064, -78.13858)",5.245622106509806,1156.0,39549_0_no,41.719367414880864,-78.10351732008222,5.0

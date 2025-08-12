@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48726,43.60776,-83.16833,Cass City,MI,Michigan,True,,5534.0,16.8,26157,Tuscola,"{""26157"": 64.77, ""26151"": 26.26, ""26063"": 8.97}",Tuscola|Sanilac|Huron,26157|26151|26063,False,False,America/Detroit,"(43.60776, -83.16833)",6.674422152065087,5534.0,43511_0_yes,43.67795669758939,-83.07662550443632,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70607,30.04982,-93.20606,Lake Charles,LA,Louisiana,True,,29157.0,97.6,22023,Cameron,"{""22023"": 53.25, ""22019"": 46.75}",Cameron|Calcasieu,22023|22019,False,False,America/Chicago,"(30.04982, -93.20606)",4.329905225486212,29157.0,12851_0_no,29.990407679432003,-93.22908291569904,5.0

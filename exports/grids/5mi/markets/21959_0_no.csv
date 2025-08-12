@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87830,33.70362,-108.73884,Reserve,NM,New Mexico,True,,1062.0,0.6,35003,Catron,"{""35003"": 100}",Catron,35003,False,False,America/Denver,"(33.70362, -108.73884)",4.9442591771188455,1062.0,21959_0_no,33.77264543798389,-108.7615350965666,5.0

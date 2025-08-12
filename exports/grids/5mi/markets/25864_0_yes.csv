@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28721,35.63378,-82.93081,Clyde,NC,North Carolina,True,,10394.0,42.7,37087,Haywood,"{""37087"": 100}",Haywood,37087,False,False,America/New_York,"(35.63378, -82.93081)",4.703879027517764,10834.0,25864_0_yes,35.566434876969176,-82.91854099939155,5.0
+28745,35.52524,-82.97152,Lake Junaluska,NC,North Carolina,True,,440.0,284.1,37087,Haywood,"{""37087"": 100}",Haywood,37087,False,False,America/New_York,"(35.52524, -82.97152)",4.119717563952987,10834.0,25864_0_yes,35.566434876969176,-82.91854099939155,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83314,42.97376,-114.95228,Bliss,ID,Idaho,True,,1006.0,3.0,16047,Gooding,"{""16047"": 99.13, ""16083"": 0.87}",Gooding|Twin Falls,16047|16083,False,False,America/Boise,"(42.97376, -114.95228)",6.146667845492992,1006.0,42156_0_no,42.90917935145413,-114.86870052707016,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12927,44.2005,-74.81818,Cranberry Lake,NY,New York,True,,276.0,0.9,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/New_York,"(44.2005, -74.81818)",2.123025759804951,276.0,44622_0_no,44.17731319940069,-74.79006157625207,5.0

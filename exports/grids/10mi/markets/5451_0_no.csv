@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79229,33.67379,-100.744,Dickens,TX,Texas,True,,451.0,0.8,48125,Dickens,"{""48125"": 100}",Dickens,48125,False,False,America/Chicago,"(33.67379, -100.744)",13.58720191777836,451.0,5451_0_no,33.532359666321135,-100.57995332193704,10.0

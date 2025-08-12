@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13642,44.3263,-75.46742,Gouverneur,NY,New York,True,,10055.0,20.5,36089,St. Lawrence,"{""36089"": 91.85, ""36045"": 8.15}",St. Lawrence|Jefferson,36089|36045,False,False,America/New_York,"(44.3263, -75.46742)",4.904796050828931,10055.0,44945_0_yes,44.394961672165,-75.49262968746618,5.0

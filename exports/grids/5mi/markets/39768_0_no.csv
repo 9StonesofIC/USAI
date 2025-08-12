@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96108,41.77687,-120.42351,Davis Creek,CA,California,True,,158.0,0.3,6049,Modoc,"{""06049"": 100}",Modoc,06049,False,False,America/Los_Angeles,"(41.77687, -120.42351)",2.811028002948928,158.0,39768_0_no,41.75503002493434,-120.46953063977088,5.0

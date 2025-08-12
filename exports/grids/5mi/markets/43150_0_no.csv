@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13489,43.46698,-75.52928,West Leyden,NY,New York,True,,538.0,6.7,36049,Lewis,"{""36049"": 100}",Lewis,36049,False,False,America/New_York,"(43.46698, -75.52928)",3.2215806328893564,538.0,43150_0_no,43.45436622826999,-75.59112204514913,5.0

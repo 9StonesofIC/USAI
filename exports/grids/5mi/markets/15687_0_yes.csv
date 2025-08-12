@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75926,31.23281,-94.96944,Apple Springs,TX,Texas,True,,1207.0,5.2,48455,Trinity,"{""48455"": 100}",Trinity,48455,False,False,America/Chicago,"(31.23281, -94.96944)",2.3197289497087685,1207.0,15687_0_yes,31.22465679969489,-94.9313525040562,5.0

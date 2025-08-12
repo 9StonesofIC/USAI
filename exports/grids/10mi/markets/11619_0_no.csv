@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57625,44.95738,-101.00369,Eagle Butte,SD,South Dakota,True,,4336.0,1.3,46041,Dewey,"{""46041"": 78.64, ""46137"": 21.36}",Dewey|Ziebach,46041|46137,False,False,America/Denver,"(44.95738, -101.00369)",12.653997572060286,4336.0,11619_0_no,44.83031251812018,-100.81751189240016,10.0

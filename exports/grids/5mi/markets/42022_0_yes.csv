@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48428,42.93752,-83.14756,Dryden,MI,Michigan,True,,5544.0,64.8,26087,Lapeer,"{""26087"": 98.71, ""26125"": 1.29}",Lapeer|Oakland,26087|26125,False,False,America/Detroit,"(42.93752, -83.14756)",1.8915160071203418,5544.0,42022_0_yes,42.95424600847631,-83.1771673502404,5.0

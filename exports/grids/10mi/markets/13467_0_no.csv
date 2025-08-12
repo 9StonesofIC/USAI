@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59454,48.74481,-111.97769,Kevin,MT,Montana,True,,202.0,0.7,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver,"(48.74481, -111.97769)",12.92097799612151,202.0,13467_0_no,48.6131412313848,-112.17881360853848,10.0

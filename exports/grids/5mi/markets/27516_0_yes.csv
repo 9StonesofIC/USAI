@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37640,36.33023,-81.9773,Butler,TN,Tennessee,True,,3494.0,12.8,47091,Johnson,"{""47091"": 63.03, ""47019"": 36.97}",Johnson|Carter,47091|47019,False,False,America/New_York,"(36.33023, -81.9773)",2.9238225631477657,3494.0,27516_0_yes,36.29040367335231,-81.99505010266388,5.0

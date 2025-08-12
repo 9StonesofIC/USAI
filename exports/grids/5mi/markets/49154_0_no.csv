@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99354,46.33153,-119.30106,Richland,WA,Washington,True,,23891.0,385.4,53005,Benton,"{""53005"": 100}",Benton,53005,False,False,America/Los_Angeles,"(46.33153, -119.30106)",4.183845782647919,23891.0,49154_0_no,46.38841041822391,-119.2709658604636,5.0

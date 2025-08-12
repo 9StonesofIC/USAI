@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05260,42.81594,-73.26173,North Pownal,VT,Vermont,True,,593.0,39.6,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York,"(42.81594, -73.26173)",1.4810911154806217,3034.0,41671_0_yes,42.80094015604416,-73.24085610985746,5.0
+05261,42.77516,-73.21273,Pownal,VT,Vermont,True,,2441.0,32.5,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York,"(42.77516, -73.21273)",2.281825530259607,3034.0,41671_0_yes,42.80094015604416,-73.24085610985746,5.0

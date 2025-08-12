@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30450,32.55964,-81.93322,Portal,GA,Georgia,True,,1882.0,12.9,13031,Bulloch,"{""13031"": 98.02, ""13107"": 1.98}",Bulloch|Emanuel,13031|13107,False,False,America/New_York,"(32.55964, -81.93322)",3.666891029108989,1882.0,19068_0_no,32.59380203048759,-81.88502264805359,5.0

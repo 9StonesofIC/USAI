@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56257,44.9684,-96.40275,Marietta,MN,Minnesota,True,,514.0,2.2,27073,Lac qui Parle,"{""27073"": 95.08, ""46039"": 4.92}",Lac qui Parle|Deuel,27073|46039,False,False,America/Chicago,"(44.9684, -96.40275)",3.5445926280802356,514.0,46186_0_no,44.92013303717639,-96.3781918014506,5.0

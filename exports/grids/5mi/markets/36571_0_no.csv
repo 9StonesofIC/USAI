@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68930,40.28514,-98.41846,Blue Hill,NE,Nebraska,True,,1440.0,4.0,31181,Webster,"{""31181"": 80.75, ""31001"": 19.25}",Webster|Adams,31181|31001,False,False,America/Chicago,"(40.28514, -98.41846)",0.20766887257309313,1440.0,36571_0_no,40.28795295497247,-98.419848010727,5.0

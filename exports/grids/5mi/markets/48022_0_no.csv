@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97844,45.87867,-119.54676,Irrigon,OR,Oregon,True,,3803.0,44.5,41049,Morrow,"{""41049"": 100}",Morrow,41049,False,False,America/Los_Angeles,"(45.87867, -119.54676)",4.799010259147159,3803.0,48022_0_no,45.809557133652326,-119.53684933773576,5.0

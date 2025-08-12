@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97527,42.37615,-123.38288,Grants Pass,OR,Oregon,True,,37120.0,65.2,41033,Josephine,"{""41033"": 86.85, ""41029"": 13.15}",Josephine|Jackson,41033|41029,False,False,America/Los_Angeles,"(42.37615, -123.38288)",3.5539791689322033,37120.0,41023_0_yes,42.409462244264965,-123.43594820778668,5.0

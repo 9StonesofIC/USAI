@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63334,39.30747,-91.18838,Bowling Green,MO,Missouri,True,,9099.0,21.1,29163,Pike,"{""29163"": 94.92, ""29113"": 5.08}",Pike|Lincoln,29163|29113,False,False,America/Chicago,"(39.30747, -91.18838)",2.4395010518250975,9099.0,34356_0_yes,39.3404028909571,-91.20483484441904,5.0

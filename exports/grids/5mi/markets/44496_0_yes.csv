@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57706,44.1564,-103.09561,Ellsworth Afb,SD,South Dakota,True,,3244.0,204.1,46093,Meade,"{""46093"": 93.42, ""46103"": 6.58}",Meade|Pennington,46093|46103,False,False,America/Denver,"(44.1564, -103.09561)",2.042435013636333,3244.0,44496_0_yes,44.12979312965202,-103.0776612200887,5.0

@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84719,37.65532,-112.76974,Brian Head,UT,Utah,True,,43.0,0.2,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.65532, -112.76974)",11.786306850265579,3851.0,7821_0_yes,37.75408906085419,-112.94553280595896,10.0
+84761,37.84603,-112.87124,Parowan,UT,Utah,True,,3556.0,10.8,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.84603, -112.87124)",7.536933320169708,3851.0,7821_0_yes,37.75408906085419,-112.94553280595896,10.0
+84772,37.79706,-112.94168,Summit,UT,Utah,True,,252.0,66.5,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.79706, -112.94168)",2.9764556245032385,3851.0,7821_0_yes,37.75408906085419,-112.94553280595896,10.0

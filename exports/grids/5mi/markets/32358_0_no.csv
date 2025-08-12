@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22812,38.37934,-79.03836,Bridgewater,VA,Virginia,True,,9100.0,70.6,51165,Rockingham,"{""51165"": 59.31, ""51015"": 40.69}",Rockingham|Augusta,51165|51015,False,False,America/New_York,"(38.37934, -79.03836)",0.6978667528840728,9100.0,32358_0_no,38.38913553386672,-79.04150159096359,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63834,36.91989,-89.27885,Charleston,MO,Missouri,True,,6522.0,10.1,29133,Mississippi,"{""29133"": 85.25, ""29201"": 14.75}",Mississippi|Scott,29133|29201,False,False,America/Chicago,"(36.91989, -89.27885)",3.006773831975297,6522.0,29179_0_no,36.94812792532726,-89.3202745850041,5.0

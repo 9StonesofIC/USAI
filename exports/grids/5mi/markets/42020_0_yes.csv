@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48041,42.93861,-82.80271,Memphis,MI,Michigan,True,,4370.0,42.2,26147,St. Clair,"{""26147"": 96.79, ""26099"": 3.21}",St. Clair|Macomb,26147|26099,False,False,America/Detroit,"(42.93861, -82.80271)",1.4622734347550568,4370.0,42020_0_yes,42.95390622352981,-82.7827285391424,5.0

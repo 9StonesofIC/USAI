@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71450,31.78137,-93.40367,Marthaville,LA,Louisiana,True,,843.0,5.2,22069,Natchitoches,"{""22069"": 78.87, ""22085"": 21.13}",Natchitoches|Sabine,22069|22085,False,False,America/Chicago,"(31.78137, -93.40367)",1.8946442541531798,843.0,17073_0_yes,31.803875902189407,-93.38523860334216,5.0

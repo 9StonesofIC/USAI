@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40162,37.7517,-86.04394,Rineyville,KY,Kentucky,True,,5473.0,42.9,21093,Hardin,"{""21093"": 100}",Hardin,21093,False,False,America/New_York,"(37.7517, -86.04394)",3.12138417579374,11061.0,30807_0_yes,37.74263142617619,-86.09991017451105,5.0
+42724,37.67293,-86.06461,Cecilia,KY,Kentucky,True,,5588.0,28.3,21093,Hardin,"{""21093"": 100}",Hardin,21093,False,False,America/New_York,"(37.67293, -86.06461)",5.1880959818864385,11061.0,30807_0_yes,37.74263142617619,-86.09991017451105,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83217,42.77525,-111.93559,Bancroft,ID,Idaho,True,,895.0,1.2,16029,Caribou,"{""16029"": 100}",Caribou,16029,False,False,America/Boise,"(42.77525, -111.93559)",1.0003259088311467,895.0,41841_0_no,42.761822456727074,-111.94296480723558,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39421,31.48411,-89.71179,Bassfield,MS,Mississippi,True,,2985.0,17.3,28065,Jefferson Davis,"{""28065"": 82.76, ""28091"": 17.24}",Jefferson Davis|Marion,28065|28091,False,False,America/Chicago,"(31.48411, -89.71179)",3.1657614578975686,2985.0,16343_0_no,31.438834244012423,-89.7035462377758,5.0

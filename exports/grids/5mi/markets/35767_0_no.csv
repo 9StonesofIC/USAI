@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95585,39.85872,-123.66619,Leggett,CA,California,True,,420.0,2.8,6045,Mendocino,"{""06045"": 100}",Mendocino,06045,False,False,America/Los_Angeles,"(39.85872, -123.66619)",3.4843277516756332,420.0,35767_0_no,39.87374800826336,-123.60347300887436,5.0

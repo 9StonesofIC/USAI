@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56324,46.16385,-95.90766,Dalton,MN,Minnesota,True,,1090.0,7.2,27111,Otter Tail,"{""27111"": 98.24, ""27051"": 1.76}",Otter Tail|Grant,27111|27051,False,False,America/Chicago,"(46.16385, -95.90766)",4.076866744123507,1090.0,48760_0_no,46.22233538556551,-95.91894884134838,5.0

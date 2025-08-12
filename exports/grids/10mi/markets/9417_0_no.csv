@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96130,40.54992,-120.63064,Susanville,CA,California,True,,19859.0,15.3,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(40.54992, -120.63064)",2.6494959875684914,19859.0,9417_0_no,40.5200953402808,-120.66235395958604,10.0

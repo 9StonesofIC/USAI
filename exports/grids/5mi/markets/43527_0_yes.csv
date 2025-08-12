@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49420,43.71958,-86.2811,Hart,MI,Michigan,True,,6342.0,20.8,26127,Oceana,"{""26127"": 100}",Oceana,26127,False,False,America/Detroit,"(43.71958, -86.2811)",2.74109314595945,11174.0,43527_0_yes,43.680744324742456,-86.26989018538853,5.0
+49455,43.60976,-86.36723,Shelby,MI,Michigan,True,,4832.0,22.0,26127,Oceana,"{""26127"": 100}",Oceana,26127,False,False,America/Detroit,"(43.60976, -86.36723)",6.909425914751675,11174.0,43527_0_yes,43.680744324742456,-86.26989018538853,5.0

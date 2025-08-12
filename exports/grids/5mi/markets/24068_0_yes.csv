@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93440,34.74606,-120.25292,Los Alamos,CA,California,True,,1355.0,11.9,6083,Santa Barbara,"{""06083"": 100}",Santa Barbara,06083,False,False,America/Los_Angeles,"(34.74606, -120.25292)",1.5576032816776664,1355.0,24068_0_yes,34.72364945696539,-120.2558942348702,5.0

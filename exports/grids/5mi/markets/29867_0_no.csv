@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67344,37.28875,-95.9514,Elk City,KS,Kansas,True,,758.0,1.8,20125,Montgomery,"{""20125"": 54.71, ""20019"": 32.72, ""20049"": 12.57}",Montgomery|Chautauqua|Elk,20125|20019|20049,False,False,America/Chicago,"(37.28875, -95.9514)",4.420797497152938,758.0,29867_0_no,37.24300692918458,-95.89518624962125,5.0

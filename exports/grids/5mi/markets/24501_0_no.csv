@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29726,34.85738,-81.23223,McConnells,SC,South Carolina,True,,1537.0,14.7,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York,"(34.85738, -81.23223)",3.853774220168487,1537.0,24501_0_no,34.91298843643116,-81.23750107148634,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97325,44.83141,-122.85195,Aumsville,OR,Oregon,True,,6837.0,87.3,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles,"(44.83141, -122.85195)",2.801474413398608,12532.0,46026_0_no,44.7989801150434,-122.8862574121302,5.0
+97392,44.79096,-122.9413,Turner,OR,Oregon,True,,5695.0,52.0,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles,"(44.79096, -122.9413)",2.7550925216543294,12532.0,46026_0_no,44.7989801150434,-122.8862574121302,5.0

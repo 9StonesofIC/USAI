@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72630,36.45856,-92.92032,Diamond City,AR,Arkansas,True,,265.0,692.7,5009,Boone,"{""05009"": 100}",Boone,05009,False,False,America/Chicago,"(36.45856, -92.92032)",3.2877779884912477,265.0,27906_0_yes,36.443494297271904,-92.86420542830966,5.0

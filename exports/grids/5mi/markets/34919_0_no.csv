@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43138,39.52225,-82.41335,Logan,OH,Ohio,True,,18619.0,40.9,39073,Hocking,"{""39073"": 94.08, ""39127"": 5.43, ""39163"": 0.49}",Hocking|Perry|Vinton,39073|39127|39163,False,False,America/New_York,"(39.52225, -82.41335)",1.997849776828025,18619.0,34919_0_no,39.5506650017112,-82.40640642477013,5.0

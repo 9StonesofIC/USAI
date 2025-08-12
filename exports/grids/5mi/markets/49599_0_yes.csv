@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49948,46.74567,-88.99919,Mass City,MI,Michigan,True,,541.0,1.9,26131,Ontonagon,"{""26131"": 98.43, ""26061"": 1.57}",Ontonagon|Houghton,26131|26061,False,False,America/Detroit,"(46.74567, -88.99919)",1.6488010127447823,541.0,49599_0_yes,46.72240581183294,-88.99143686494362,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83119,42.64394,-110.98828,Fairview,WY,Wyoming,True,,188.0,5.5,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(42.64394, -110.98828)",1.9300028428216647,605.0,41536_0_no,42.61616637450907,-110.99233285302088,5.0
+83126,42.58697,-110.90916,Smoot,WY,Wyoming,True,,417.0,14.0,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(42.58697, -110.90916)",4.686414060985317,605.0,41536_0_no,42.61616637450907,-110.99233285302088,5.0

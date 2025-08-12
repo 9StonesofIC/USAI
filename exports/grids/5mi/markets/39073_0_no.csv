@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82050,41.43517,-104.21477,Albin,WY,Wyoming,True,,323.0,0.9,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver,"(41.43517, -104.21477)",5.022119651225011,323.0,39073_0_no,41.451721315545946,-104.30918771237369,5.0

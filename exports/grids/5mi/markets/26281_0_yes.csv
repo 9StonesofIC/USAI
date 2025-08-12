@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73762,35.71197,-97.97442,Okarche,OK,Oklahoma,True,,1975.0,4.3,40017,Canadian,"{""40017"": 55.63, ""40073"": 44.37}",Canadian|Kingfisher,40017|40073,False,False,America/Chicago,"(35.71197, -97.97442)",1.0730514725497708,1975.0,26281_0_yes,35.72248848072676,-97.96034682746463,5.0

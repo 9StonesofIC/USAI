@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50054,41.68729,-93.23196,Colfax,IA,Iowa,True,,2912.0,18.4,19099,Jasper,"{""19099"": 100}",Jasper,19099,False,False,America/Chicago,"(41.68729, -93.23196)",4.2416603335483005,5866.0,39349_0_yes,41.65970413870861,-93.30538330608933,5.0
+50169,41.65617,-93.35062,Mitchellville,IA,Iowa,True,,2954.0,25.0,19153,Polk,"{""19153"": 56.08, ""19099"": 43.92}",Polk|Jasper,19153|19099,False,False,America/Chicago,"(41.65617, -93.35062)",2.347918892751783,5866.0,39349_0_yes,41.65970413870861,-93.30538330608933,5.0

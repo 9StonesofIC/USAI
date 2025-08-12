@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48866,42.99303,-84.37219,Ovid,MI,Michigan,True,,4555.0,35.5,26037,Clinton,"{""26037"": 55.38, ""26155"": 44.62}",Clinton|Shiawassee,26037|26155,False,False,America/Detroit,"(42.99303, -84.37219)",3.799762128974919,4555.0,42301_0_no,43.02775834682454,-84.43050550136836,5.0

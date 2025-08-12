@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74955,35.50213,-94.75547,Sallisaw,OK,Oklahoma,True,,15446.0,28.2,40135,Sequoyah,"{""40135"": 100}",Sequoyah,40135,False,False,America/Chicago,"(35.50213, -94.75547)",0.3025791005949599,15446.0,25913_0_no,35.50270601929777,-94.76080260672715,5.0

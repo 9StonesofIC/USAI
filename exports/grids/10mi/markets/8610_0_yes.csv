@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81526,39.07741,-108.33056,Palisade,CO,Colorado,True,,5789.0,30.9,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.07741, -108.33056)",9.781234880541815,6219.0,8610_0_yes,39.19573199495046,-108.23035714819574,10.0
+81643,39.11968,-108.15001,Mesa,CO,Colorado,True,,430.0,1.1,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.11968, -108.15001)",6.792782434479468,6219.0,8610_0_yes,39.19573199495046,-108.23035714819574,10.0

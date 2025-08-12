@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56573,46.61443,-95.55216,Perham,MN,Minnesota,True,,6498.0,18.2,27111,Otter Tail,"{""27111"": 100}",Otter Tail,27111,False,False,America/Chicago,"(46.61443, -95.55216)",2.9776908736254186,6498.0,49349_0_yes,46.583773586426496,-95.59624429871062,5.0

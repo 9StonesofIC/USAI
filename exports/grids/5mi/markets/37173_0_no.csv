@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64486,40.52951,-94.61471,Sheridan,MO,Missouri,True,,327.0,2.5,29227,Worth,"{""29227"": 60.76, ""29147"": 39.24}",Worth|Nodaway,29227|29147,False,False,America/Chicago,"(40.52951, -94.61471)",5.222015959825661,327.0,37173_0_no,40.57461900907706,-94.69452062285414,5.0

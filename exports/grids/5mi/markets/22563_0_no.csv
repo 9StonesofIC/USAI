@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74727,34.01907,-95.86018,Boswell,OK,Oklahoma,True,,2128.0,3.7,40023,Choctaw,"{""40023"": 75.53, ""40013"": 14.38, ""40005"": 10.09}",Choctaw|Bryan|Atoka,40023|40013|40005,False,False,America/Chicago,"(34.01907, -95.86018)",3.863115649561884,2128.0,22563_0_no,34.053552547896054,-95.80706933043126,5.0

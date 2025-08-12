@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54450,45.00367,-89.04172,Mattoon,WI,Wisconsin,True,,406.0,107.6,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago,"(45.00367, -89.04172)",2.051429261480718,406.0,46177_0_yes,44.98593384713959,-89.07539080001878,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84096,40.50539,-112.08546,Herriman,UT,Utah,True,,53693.0,291.7,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver,"(40.50539, -112.08546)",0.7633955872438384,53693.0,36978_0_yes,40.51643553593588,-112.08581024631208,5.0

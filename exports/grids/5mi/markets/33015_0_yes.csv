@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22610,38.81803,-78.28102,Bentonville,VA,Virginia,True,,1499.0,11.1,51187,Warren,"{""51187"": 100}",Warren,51187,False,False,America/New_York,"(38.81803, -78.28102)",5.479025228645533,2155.0,33015_0_yes,38.75068818829606,-78.33473764810377,5.0
+22650,38.75893,-78.35817,Rileyville,VA,Virginia,True,,656.0,8.6,51139,Page,"{""51139"": 100}",Page,51139,False,False,America/New_York,"(38.75893, -78.35817)",1.3850444479345854,2155.0,33015_0_yes,38.75068818829606,-78.33473764810377,5.0

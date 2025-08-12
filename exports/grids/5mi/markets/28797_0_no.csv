@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24531,36.83922,-79.44332,Chatham,VA,Virginia,True,,8697.0,17.1,51143,Pittsylvania,"{""51143"": 100}",Pittsylvania,51143,False,False,America/New_York,"(36.83922, -79.44332)",3.3334452107636006,8697.0,28797_0_no,36.79573317078307,-79.46941849301285,5.0

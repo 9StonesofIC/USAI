@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13020,42.81646,-76.07458,Apulia Station,NY,New York,True,,75.0,61.9,36067,Onondaga,"{""36067"": 100}",Onondaga,36067,False,False,America/New_York,"(42.81646, -76.07458)",4.126880788733849,1902.0,41685_0_yes,42.80330611767591,-75.99516126756544,5.0
+13063,42.84429,-75.98023,Fabius,NY,New York,True,,1827.0,19.3,36067,Onondaga,"{""36067"": 100}",Onondaga,36067,False,False,America/New_York,"(42.84429, -75.98023)",2.931067606558049,1902.0,41685_0_yes,42.80330611767591,-75.99516126756544,5.0

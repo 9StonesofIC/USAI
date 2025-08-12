@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13815,42.54712,-75.53413,Norwich,NY,New York,True,,12901.0,46.0,36017,Chenango,"{""36017"": 100}",Chenango,36017,False,False,America/New_York,"(42.54712, -75.53413)",3.2473606524013734,12901.0,41355_0_no,42.58579115099233,-75.49786158118788,5.0

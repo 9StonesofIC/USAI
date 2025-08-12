@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30624,34.18097,-83.03885,Bowman,GA,Georgia,True,,3016.0,25.5,13105,Elbert,"{""13105"": 82.53, ""13147"": 10.75, ""13195"": 6.72}",Elbert|Hart|Madison,13105|13147|13195,False,False,America/New_York,"(34.18097, -83.03885)",6.622478265768441,3016.0,22505_0_yes,34.11689183807449,-82.9527192682056,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48040,42.90983,-82.48022,Marysville,MI,Michigan,True,,9695.0,541.6,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(42.90983, -82.48022)",11.83158216781548,9695.0,10539_0_no,42.77230977607933,-82.34106195647506,10.0

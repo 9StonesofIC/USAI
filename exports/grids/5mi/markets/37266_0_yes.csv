@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81625,40.70295,-107.74652,Craig,CO,Colorado,True,,12670.0,3.2,8081,Moffat,"{""08081"": 100}",Moffat,08081,False,False,America/Denver,"(40.70295, -107.74652)",4.647478539147864,12670.0,37266_0_yes,40.65770029587832,-107.68089381734458,5.0

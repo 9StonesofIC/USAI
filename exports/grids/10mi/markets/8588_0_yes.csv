@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67659,39.31804,-100.00496,Penokee,KS,Kansas,True,,72.0,0.3,20065,Graham,"{""20065"": 100}",Graham,20065,False,False,America/Chicago,"(39.31804, -100.00496)",9.485795501520002,72.0,8588_0_yes,39.182628753406746,-100.0341848466266,10.0

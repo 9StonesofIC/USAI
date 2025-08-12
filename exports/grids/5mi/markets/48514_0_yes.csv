@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58474,46.09588,-98.13574,Oakes,ND,North Dakota,True,,2652.0,2.6,38021,Dickey,"{""38021"": 86.67, ""38081"": 12.6, ""38045"": 0.73}",Dickey|Sargent|LaMoure,38021|38081|38045,False,False,America/Chicago,"(46.09588, -98.13574)",3.946064455382469,2652.0,48514_0_yes,46.15192964449572,-98.11992055157236,5.0

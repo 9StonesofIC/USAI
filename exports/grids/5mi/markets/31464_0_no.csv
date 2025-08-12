@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65529,37.92912,-91.98926,Jerome,MO,Missouri,True,,322.0,90.3,29161,Phelps,"{""29161"": 100}",Phelps,29161,False,False,America/Chicago,"(37.92912, -91.98926)",3.2798641919121563,322.0,31464_0_no,37.9645687723831,-91.94922368385878,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74438,35.51382,-95.75935,Hitchita,OK,Oklahoma,True,,120.0,2.2,40091,McIntosh,"{""40091"": 100}",McIntosh,40091,False,False,America/Chicago,"(35.51382, -95.75935)",3.7670789253067474,120.0,25919_0_no,35.50348841397771,-95.82511395517764,5.0

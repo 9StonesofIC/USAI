@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80521,40.59372,-105.1268,Fort Collins,CO,Colorado,True,,37796.0,1040.9,8069,Larimer,"{""08069"": 100}",Larimer,08069,False,False,America/Denver,"(40.59372, -105.1268)",6.001792329103633,37796.0,37253_0_yes,40.65566187145691,-105.20703710319314,5.0

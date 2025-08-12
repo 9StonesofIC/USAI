@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87410,36.86708,-107.89433,Aztec,NM,New Mexico,True,,16716.0,24.3,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.86708, -107.89433)",3.0399010310662216,16716.0,28974_0_yes,36.889697491584464,-107.84715182820884,5.0

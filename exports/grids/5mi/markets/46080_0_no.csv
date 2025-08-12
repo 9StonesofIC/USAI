@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13613,44.85884,-74.73879,Brasher Falls,NY,New York,True,,2698.0,12.8,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/New_York,"(44.85884, -74.73879)",3.4309289900573523,2698.0,46080_0_no,44.900859288416,-74.77613197040779,5.0

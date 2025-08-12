@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95942,39.98954,-121.58872,Forest Ranch,CA,California,True,,1605.0,9.0,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.98954, -121.58872)",3.7740056334650323,13826.0,36069_0_no,40.01699806010093,-121.5270775720081,5.0
+95954,39.94916,-121.54088,Magalia,CA,California,True,,12221.0,37.2,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.94916, -121.54088)",4.743781194035291,13826.0,36069_0_no,40.01699806010093,-121.5270775720081,5.0

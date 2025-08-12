@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31804,32.66199,-84.88402,Cataula,GA,Georgia,True,,6151.0,49.4,13145,Harris,"{""13145"": 100}",Harris,13145,False,False,America/New_York,"(32.66199, -84.88402)",2.218200234329179,8640.0,19099_0_yes,32.66829489445284,-84.8466266693585,5.0
+31807,32.64054,-84.80142,Ellerslie,GA,Georgia,True,,2489.0,71.5,13145,Harris,"{""13145"": 100}",Harris,13145,False,False,America/New_York,"(32.64054, -84.80142)",3.254731257630562,8640.0,19099_0_yes,32.66829489445284,-84.8466266693585,5.0

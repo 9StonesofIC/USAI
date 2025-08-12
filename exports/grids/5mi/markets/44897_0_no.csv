@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03593,44.29816,-71.31774,Randolph,NH,New Hampshire,True,,384.0,1.1,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.29816, -71.31774)",4.226389438057029,384.0,44897_0_no,44.318894459794734,-71.23731973175686,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55710,47.64542,-92.69457,Britt,MN,Minnesota,True,,1142.0,5.1,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(47.64542, -92.69457)",3.6273962425465727,1142.0,51287_0_yes,47.59393183045125,-92.67935301167331,5.0

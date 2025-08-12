@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58711,48.93262,-101.2752,Antler,ND,North Dakota,True,,271.0,0.9,38009,Bottineau,"{""38009"": 100}",Bottineau,38009,False,False,America/Chicago,"(48.93262, -101.2752)",5.550716290235442,271.0,54023_0_no,48.97636779040807,-101.1725894914385,5.0

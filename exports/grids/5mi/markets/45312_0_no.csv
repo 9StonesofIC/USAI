@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56239,44.50416,-95.91079,Ghent,MN,Minnesota,True,,691.0,10.2,27083,Lyon,"{""27083"": 100}",Lyon,27083,False,False,America/Chicago,"(44.50416, -95.91079)",3.8286358382080676,691.0,45312_0_no,44.48551344240037,-95.98394281435831,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83283,42.35709,-111.66445,Thatcher,ID,Idaho,True,,236.0,1.6,16041,Franklin,"{""16041"": 100}",Franklin,16041,False,False,America/Boise,"(42.35709, -111.66445)",2.368222096641781,236.0,40936_0_no,42.327028610975866,-111.6421724920312,5.0

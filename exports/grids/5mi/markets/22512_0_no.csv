@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35077,34.01984,-86.83108,Hanceville,AL,Alabama,True,,13935.0,35.8,1043,Cullman,"{""01043"": 100}",Cullman,01043,False,False,America/Chicago,"(34.01984, -86.83108)",5.304319821609579,13935.0,22512_0_no,34.04725057103754,-86.91761216059483,5.0

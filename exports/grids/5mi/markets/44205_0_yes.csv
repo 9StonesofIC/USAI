@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57745,44.01304,-103.78616,Hill City,SD,South Dakota,True,,2111.0,2.1,46103,Pennington,"{""46103"": 100}",Pennington,46103,False,False,America/Denver,"(44.01304, -103.78616)",3.2593648894192415,2111.0,44205_0_yes,43.9855805341875,-103.73283740648424,5.0

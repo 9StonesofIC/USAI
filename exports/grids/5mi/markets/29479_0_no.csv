@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42503,37.15677,-84.52511,Somerset,KY,Kentucky,True,,25463.0,75.9,21199,Pulaski,"{""21199"": 100}",Pulaski,21199,False,False,America/New_York,"(37.15677, -84.52511)",4.795625970295253,26201.0,29479_0_no,37.08940796083666,-84.54608898909528,5.0
+42533,37.06752,-84.59382,Ferguson,KY,Kentucky,True,,738.0,175.6,21199,Pulaski,"{""21199"": 100}",Pulaski,21199,False,False,America/New_York,"(37.06752, -84.59382)",3.034760803898019,26201.0,29479_0_no,37.08940796083666,-84.54608898909528,5.0

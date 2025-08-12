@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49892,45.77547,-87.77243,Vulcan,MI,Michigan,True,,1867.0,4.7,26043,Dickinson,"{""26043"": 69.67, ""26109"": 30.33}",Dickinson|Menominee,26043|26109,False,False,America/Menominee,"(45.77547, -87.77243)",4.693289290995437,1867.0,47610_0_yes,45.70839213303947,-87.78776919928374,5.0

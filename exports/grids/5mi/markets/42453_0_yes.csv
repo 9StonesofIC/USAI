@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82512,43.1639,-109.24974,Crowheart,WY,Wyoming,True,,179.0,0.1,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver,"(43.1639, -109.24974)",4.665649942492968,179.0,42453_0_yes,43.12147536445107,-109.17773899641168,5.0

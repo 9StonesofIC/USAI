@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84643,39.12873,-111.68485,Mayfield,UT,Utah,True,,507.0,4.1,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.12873, -111.68485)",1.2223518139904501,1190.0,34128_0_no,39.13949589229832,-111.70294843148343,5.0
+84665,39.19527,-111.66109,Sterling,UT,Utah,True,,683.0,12.2,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.19527, -111.66109)",4.458506339858698,1190.0,34128_0_no,39.13949589229832,-111.70294843148343,5.0

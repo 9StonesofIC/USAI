@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71432,31.75368,-92.47435,Georgetown,LA,Louisiana,True,,1084.0,4.2,22043,Grant,"{""22043"": 95.07, ""22127"": 4.93}",Grant|Winn,22043|22127,False,False,America/Chicago,"(31.75368, -92.47435)",4.964810352713924,1084.0,17068_0_yes,31.80330869108949,-92.5354786433242,5.0

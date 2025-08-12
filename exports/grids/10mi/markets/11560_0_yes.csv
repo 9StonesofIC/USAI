@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03579,44.95234,-71.04182,Errol,NH,New Hampshire,True,,341.0,0.2,23017,Oxford,"{""23017"": 58.53, ""33007"": 41.47}",Oxford|Coos,23017|33007,False,False,America/New_York,"(44.95234, -71.04182)",5.387701380759394,341.0,11560_0_yes,44.92183380520488,-71.1431956368493,10.0

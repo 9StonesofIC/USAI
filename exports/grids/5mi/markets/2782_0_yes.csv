@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78567,26.04607,-97.73866,Los Indios,TX,Texas,True,,269.0,74.6,48061,Cameron,"{""48061"": 100}",Cameron,48061,False,False,America/Chicago,"(26.04607, -97.73866)",5.19134677319947,269.0,2782_0_yes,26.00172037843461,-97.6711670963702,5.0

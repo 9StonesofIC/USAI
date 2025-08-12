@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97827,45.60854,-117.85886,Elgin,OR,Oregon,True,,2485.0,4.6,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles,"(45.60854, -117.85886)",4.243924395488513,2485.0,47729_0_no,45.66329330305014,-117.89867077411276,5.0

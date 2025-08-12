@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59837,46.53898,-113.27688,Hall,MT,Montana,True,,560.0,1.1,30039,Granite,"{""30039"": 100}",Granite,30039,False,False,America/Denver,"(46.53898, -113.27688)",4.624814313583368,560.0,49433_0_yes,46.59996445245466,-113.23674568703562,5.0

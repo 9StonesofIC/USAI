@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71940,34.01527,-93.50705,Delight,AR,Arkansas,True,,1770.0,7.1,5109,Pike,"{""05109"": 100}",Pike,05109,False,False,America/Chicago,"(34.01527, -93.50705)",3.1961283397817324,1770.0,22550_0_no,34.05194602056564,-93.54106680618722,5.0

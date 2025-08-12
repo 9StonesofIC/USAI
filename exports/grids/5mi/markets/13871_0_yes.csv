@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32351,30.52358,-84.68362,Quincy,FL,Florida,True,,18095.0,32.8,12039,Gadsden,"{""12039"": 100}",Gadsden,12039,False,False,America/New_York,"(30.52358, -84.68362)",5.217510134164418,18095.0,13871_0_yes,30.492735385564117,-84.76362301524134,5.0

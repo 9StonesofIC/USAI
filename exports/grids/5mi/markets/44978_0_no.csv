@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54228,44.27677,-87.64875,Mishicot,WI,Wisconsin,True,,2919.0,28.0,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago,"(44.27677, -87.64875)",5.185606854579717,2919.0,44978_0_no,44.33332706653211,-87.57980836507161,5.0

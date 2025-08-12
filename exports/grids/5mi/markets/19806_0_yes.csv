@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35477,32.96304,-88.23121,Panola,AL,Alabama,True,,132.0,5.2,1119,Sumter,"{""01119"": 99.6, ""01107"": 0.4}",Sumter|Pickens,01119|01107,False,False,America/Chicago,"(32.96304, -88.23121)",4.219497195158137,132.0,19806_0_yes,32.96059060275759,-88.15848307944547,5.0

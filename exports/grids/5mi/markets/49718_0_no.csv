@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99349,46.73078,-119.6996,Mattawa,WA,Washington,True,,9184.0,13.3,53025,Grant,"{""53025"": 100}",Grant,53025,False,False,America/Los_Angeles,"(46.73078, -119.6996)",4.050003029321823,9184.0,49718_0_no,46.67829459748488,-119.66154154286048,5.0

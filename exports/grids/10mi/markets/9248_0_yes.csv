@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84032,40.35839,-111.188,Heber City,UT,Utah,True,,24229.0,28.5,49051,Wasatch,"{""49051"": 100}",Wasatch,49051,False,False,America/Denver,"(40.35839, -111.188)",8.882099800701328,25308.0,9248_0_yes,40.35976422287322,-111.3566936202923,10.0
+84082,40.3404,-111.36184,Wallsburg,UT,Utah,True,,1079.0,2.8,49051,Wasatch,"{""49051"": 100}",Wasatch,49051,False,False,America/Denver,"(40.3404, -111.36184)",1.3651078961700946,25308.0,9248_0_yes,40.35976422287322,-111.3566936202923,10.0

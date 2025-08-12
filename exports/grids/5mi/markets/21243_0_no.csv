@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79372,33.42482,-102.50108,Sundown,TX,Texas,True,,1488.0,36.8,48219,Hockley,"{""48219"": 100}",Hockley,48219,False,False,America/Chicago,"(33.42482, -102.50108)",5.953075611192457,2039.0,21243_0_no,33.47822292014046,-102.5821175856718,5.0
+79379,33.49523,-102.65345,Whiteface,TX,Texas,True,,551.0,2.9,48079,Cochran,"{""48079"": 100}",Cochran,48079,False,False,America/Chicago,"(33.49523, -102.65345)",4.275181983692349,2039.0,21243_0_no,33.47822292014046,-102.5821175856718,5.0

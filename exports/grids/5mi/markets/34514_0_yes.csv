@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95986,39.36149,-120.7652,Washington,CA,California,True,,123.0,4.4,6057,Nevada,"{""06057"": 100}",Nevada,06057,False,False,America/Los_Angeles,"(39.36149, -120.7652)",3.2281089150353592,123.0,34514_0_yes,39.36406522764866,-120.7048622107572,5.0

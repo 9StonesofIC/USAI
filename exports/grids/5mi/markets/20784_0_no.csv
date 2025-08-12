@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30805,33.28012,-82.19936,Blythe,GA,Georgia,True,,2397.0,22.9,13245,Richmond,"{""13245"": 59.54, ""13033"": 40.46}",Richmond|Burke,13245|13033,False,False,America/New_York,"(33.28012, -82.19936)",3.021217262566341,2397.0,20784_0_no,33.31901784854116,-82.22325798621397,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49651,44.39603,-85.10862,Lake City,MI,Michigan,True,,7868.0,12.9,26113,Missaukee,"{""26113"": 100}",Missaukee,26113,False,False,America/Detroit,"(44.39603, -85.10862)",5.11166027795347,7868.0,44966_0_no,44.33118844666775,-85.15844605397646,5.0

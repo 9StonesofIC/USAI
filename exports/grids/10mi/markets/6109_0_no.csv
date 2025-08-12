@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71961,34.59722,-93.84676,Oden,AR,Arkansas,True,,1211.0,5.5,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago,"(34.59722, -93.84676)",7.3353152589674675,2612.0,6109_0_no,34.682416581974,-93.92375259525735,10.0
+72926,34.72909,-94.0376,Boles,AR,Arkansas,True,,724.0,2.9,5127,Scott,"{""05127"": 100}",Scott,05127,False,False,America/Chicago,"(34.72909, -94.0376)",7.22611263617593,2612.0,6109_0_no,34.682416581974,-93.92375259525735,10.0
+72950,34.79317,-93.91077,Parks,AR,Arkansas,True,,677.0,2.5,5127,Scott,"{""05127"": 100}",Scott,05127,False,False,America/Chicago,"(34.79317, -93.91077)",7.687753828171041,2612.0,6109_0_no,34.682416581974,-93.92375259525735,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81019,37.94152,-104.83714,Colorado City,CO,Colorado,True,,1748.0,51.6,8101,Pueblo,"{""08101"": 100}",Pueblo,08101,False,False,America/Denver,"(37.94152, -104.83714)",4.313913716818782,1748.0,31534_0_no,37.97454918993228,-104.76994056687104,5.0

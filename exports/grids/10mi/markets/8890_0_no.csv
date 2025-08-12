@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67628,39.62741,-98.99598,Cedar,KS,Kansas,True,,106.0,0.9,20183,Smith,"{""20183"": 100}",Smith,20183,False,False,America/Chicago,"(39.62741, -98.99598)",1.623249583092317,341.0,8890_0_no,39.61558053615923,-98.96962828212608,10.0
+67638,39.63418,-98.8534,Gaylord,KS,Kansas,True,,235.0,1.3,20183,Smith,"{""20183"": 100}",Smith,20183,False,False,America/Chicago,"(39.63418, -98.8534)",6.317553697414628,341.0,8890_0_no,39.61558053615923,-98.96962828212608,10.0

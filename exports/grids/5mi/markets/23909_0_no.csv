@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74574,34.67885,-95.27335,Tuskahoma,OK,Oklahoma,True,,1034.0,2.8,40127,Pushmataha,"{""40127"": 56.9, ""40077"": 43.1}",Pushmataha|Latimer,40127|40077,False,False,America/Chicago,"(34.67885, -95.27335)",3.328117957887685,1034.0,23909_0_no,34.63316408328715,-95.25479376908696,5.0

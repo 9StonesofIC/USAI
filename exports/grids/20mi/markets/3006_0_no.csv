@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04619,45.13397,-67.22401,Calais,ME,Maine,True,,3011.0,33.9,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(45.13397, -67.22401)",19.896539774619093,3011.0,3006_0_no,45.38911630164032,-67.03433128031601,20.0

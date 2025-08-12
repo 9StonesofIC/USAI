@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98584,47.24608,-123.16209,Shelton,WA,Washington,True,,37698.0,40.5,53045,Mason,"{""53045"": 100}",Mason,53045,False,False,America/Los_Angeles,"(47.24608, -123.16209)",5.280690388668203,37698.0,50598_0_yes,47.1880550100217,-123.08885458105928,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98387,47.0562,-122.39111,Spanaway,WA,Washington,True,,51305.0,744.5,53053,Pierce,"{""53053"": 100}",Pierce,53053,False,False,America/Los_Angeles,"(47.0562, -122.39111)",3.3165337139204434,62800.0,50317_0_yes,47.04271636478348,-122.45872116166488,5.0
+98580,46.9918,-122.50101,Roy,WA,Washington,True,,11495.0,34.1,53053,Pierce,"{""53053"": 100}",Pierce,53053,False,False,America/Los_Angeles,"(46.9918, -122.50101)",4.042843148600327,62800.0,50317_0_yes,47.04271636478348,-122.45872116166488,5.0

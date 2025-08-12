@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50674,42.84202,-92.11746,Sumner,IA,Iowa,True,,3861.0,9.4,19017,Bremer,"{""19017"": 61.82, ""19065"": 32.18, ""19037"": 6.0}",Bremer|Fayette|Chickasaw,19017|19065|19037,False,False,America/Chicago,"(42.84202, -92.11746)",1.8244734764946018,3861.0,41767_0_yes,42.81716780349717,-92.12962847194056,5.0

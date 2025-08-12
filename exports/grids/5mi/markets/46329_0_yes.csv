@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97830,44.9779,-120.17165,Fossil,OR,Oregon,True,,660.0,0.6,41069,Wheeler,"{""41069"": 86.71, ""41021"": 13.29}",Wheeler|Gilliam,41069|41021,False,False,America/Los_Angeles,"(44.9779, -120.17165)",4.284496574437294,660.0,46329_0_yes,45.01365738004184,-120.10000787900944,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48653,44.48936,-84.60624,Roscommon,MI,Michigan,True,,10264.0,16.4,26143,Roscommon,"{""26143"": 61.16, ""26039"": 38.84}",Roscommon|Crawford,26143|26039,False,False,America/Detroit,"(44.48936, -84.60624)",5.617840669984225,10264.0,45283_0_yes,44.54782620216987,-84.6854854073136,5.0

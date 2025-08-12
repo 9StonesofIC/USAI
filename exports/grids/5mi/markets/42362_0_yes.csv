@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52158,43.04388,-91.18647,Marquette,IA,Iowa,True,,250.0,75.4,19043,Clayton,"{""19043"": 100}",Clayton,19043,False,False,America/Chicago,"(43.04388, -91.18647)",4.2887191298825265,250.0,42362_0_yes,43.10592914059506,-91.18419900708778,5.0

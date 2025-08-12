@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74538,34.57453,-96.25575,Coalgate,OK,Oklahoma,True,,4062.0,4.3,40029,Coal,"{""40029"": 99.11, ""40005"": 0.89}",Coal|Atoka,40029|40005,False,False,America/Chicago,"(34.57453, -96.25575)",1.3998097054351326,4062.0,23595_0_yes,34.561336120735504,-96.23707923841314,5.0

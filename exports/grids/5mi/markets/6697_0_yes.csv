@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33825,27.62704,-81.44343,Avon Park,FL,Florida,True,,28151.0,96.4,12055,Highlands,"{""12055"": 65.77, ""12105"": 34.23}",Highlands|Polk,12055|12105,False,False,America/New_York,"(27.62704, -81.44343)",3.2169595138222236,28151.0,6697_0_yes,27.589067883373986,-81.47383466710602,5.0

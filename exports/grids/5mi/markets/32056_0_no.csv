@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25535,38.30772,-82.43405,Lavalette,WV,West Virginia,True,,2848.0,70.4,54099,Wayne,"{""54099"": 100}",Wayne,54099,False,False,America/New_York,"(38.30772, -82.43405)",4.221942557291297,8041.0,32056_0_no,38.246931298348336,-82.44195769377865,5.0
+25570,38.23508,-82.41927,Wayne,WV,West Virginia,True,,5193.0,26.2,54099,Wayne,"{""54099"": 100}",Wayne,54099,False,False,America/New_York,"(38.23508, -82.41927)",1.4786288615112961,8041.0,32056_0_no,38.246931298348336,-82.44195769377865,5.0

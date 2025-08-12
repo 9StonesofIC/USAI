@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93925,36.60209,-121.42526,Chualar,CA,California,True,,1794.0,13.9,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.60209, -121.42526)",1.3900813300096049,1794.0,28394_0_yes,36.60997215077039,-121.40220121072076,5.0

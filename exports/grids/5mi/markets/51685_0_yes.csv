@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99103,47.73041,-118.93171,Almira,WA,Washington,True,,489.0,0.8,53043,Lincoln,"{""53043"": 76.14, ""53025"": 23.86}",Lincoln|Grant,53043|53025,False,False,America/Los_Angeles,"(47.73041, -118.93171)",3.486965889177848,489.0,51685_0_yes,47.76320811664625,-118.9887539183336,5.0

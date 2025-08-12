@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59725,45.06267,-112.85714,Dillon,MT,Montana,True,,8018.0,1.6,30001,Beaverhead,"{""30001"": 96.05, ""30057"": 3.95}",Beaverhead|Madison,30001|30057,False,False,America/Denver,"(45.06267, -112.85714)",6.1167525070039686,8018.0,46294_0_yes,45.007271309756185,-112.95485541055288,5.0

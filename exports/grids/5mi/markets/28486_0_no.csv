@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24258,36.6517,-82.41199,Hiltons,VA,Virginia,True,,1495.0,14.6,51169,Scott,"{""51169"": 93.26, ""51191"": 6.74}",Scott|Washington,51169|51191,False,False,America/New_York,"(36.6517, -82.41199)",1.2536211668492196,1495.0,28486_0_no,36.65306798095919,-82.43454122115574,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51249,43.41068,-95.73203,Sibley,IA,Iowa,True,,3186.0,9.7,19143,Osceola,"{""19143"": 100}",Osceola,19143,False,False,America/Chicago,"(43.41068, -95.73203)",5.0578148307648085,3605.0,43251_0_no,43.47183151226956,-95.67661166267813,5.0
+56117,43.52662,-95.68607,Bigelow,MN,Minnesota,True,,419.0,6.9,27105,Nobles,"{""27105"": 100}",Nobles,27105,False,False,America/Chicago,"(43.52662, -95.68607)",3.8150897451324965,3605.0,43251_0_no,43.47183151226956,-95.67661166267813,5.0

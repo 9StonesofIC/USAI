@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67514,37.86278,-98.19714,Arlington,KS,Kansas,True,,963.0,4.6,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago,"(37.86278, -98.19714)",3.1519182212833528,963.0,31176_0_no,37.82453108183902,-98.22862135550837,5.0

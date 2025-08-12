@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67492,38.81558,-96.96418,Woodbine,KS,Kansas,True,,124.0,1.6,20041,Dickinson,"{""20041"": 100}",Dickinson,20041,False,False,America/Chicago,"(38.81558, -96.96418)",5.149215171901229,124.0,33116_0_yes,38.76549891674159,-97.03498695486272,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69148,41.61329,-102.58773,Lisco,NE,Nebraska,True,,113.0,0.1,31069,Garden,"{""31069"": 75.06, ""31123"": 24.94}",Garden|Morrill,31069|31123,False,False,America/Denver,"(41.61329, -102.58773)",8.77969128339976,113.0,9985_0_no,41.648577658053135,-102.42440996110729,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29154,33.88515,-80.47547,Sumter,SC,South Carolina,True,,27443.0,99.3,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York,"(33.88515, -80.47547)",4.039102521675517,31692.0,22136_0_no,33.89776276676606,-80.54423524917696,5.0
+29168,33.84848,-80.54483,Wedgefield,SC,South Carolina,True,,4249.0,21.0,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York,"(33.84848, -80.54483)",3.405285781031112,31692.0,22136_0_no,33.89776276676606,-80.54423524917696,5.0

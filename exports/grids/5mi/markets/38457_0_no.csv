@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69128,41.23252,-103.90613,Bushnell,NE,Nebraska,True,,328.0,0.3,31105,Kimball,"{""31105"": 88.79, ""31007"": 11.21}",Kimball|Banner,31105|31007,False,False,America/Denver,"(41.23252, -103.90613)",6.46529712284129,328.0,38457_0_no,41.16160167092468,-103.82500092273506,5.0

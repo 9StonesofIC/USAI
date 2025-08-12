@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36080,32.70497,-86.28662,Titus,AL,Alabama,True,,1997.0,14.8,1051,Elmore,"{""01051"": 96.62, ""01037"": 3.38}",Elmore|Coosa,01051|01037,False,False,America/Chicago,"(32.70497, -86.28662)",4.633868193932353,22802.0,19107_0_yes,32.66923314930384,-86.2191888020284,5.0
+36092,32.61401,-86.19619,Wetumpka,AL,Alabama,True,,20805.0,58.2,1051,Elmore,"{""01051"": 100}",Elmore,01051,False,False,America/Chicago,"(32.61401, -86.19619)",4.04338394903753,22802.0,19107_0_yes,32.66923314930384,-86.2191888020284,5.0

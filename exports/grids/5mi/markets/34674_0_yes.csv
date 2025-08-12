@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63436,39.50093,-91.54524,Center,MO,Missouri,True,,1401.0,6.8,29173,Ralls,"{""29173"": 100}",Ralls,29173,False,False,America/Chicago,"(39.50093, -91.54524)",2.210424602924718,1401.0,34674_0_yes,39.48551938457815,-91.50891044439189,5.0

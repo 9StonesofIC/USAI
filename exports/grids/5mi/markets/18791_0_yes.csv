@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71276,32.57727,-91.16277,Sondheimer,LA,Louisiana,True,,47.0,0.3,22035,East Carroll,"{""22035"": 100}",East Carroll,22035,False,False,America/Chicago,"(32.57727, -91.16277)",6.015512750728018,47.0,18791_0_yes,32.527526215834285,-91.07799892758722,5.0

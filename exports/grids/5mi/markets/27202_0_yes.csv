@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38553,36.20322,-85.00442,Clarkrange,TN,Tennessee,True,,2827.0,22.7,47049,Fentress,"{""47049"": 100}",Fentress,47049,False,False,America/Chicago,"(36.20322, -85.00442)",5.43092413364928,2827.0,27202_0_yes,36.14767578572175,-84.93552040874887,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97835,45.8992,-118.772,Helix,OR,Oregon,True,,421.0,1.0,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles,"(45.8992, -118.772)",1.684784354090639,421.0,12108_0_yes,45.87556905008403,-118.78063954548831,10.0

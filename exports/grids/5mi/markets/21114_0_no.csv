@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29048,33.39057,-80.29702,Eutawville,SC,South Carolina,True,,5406.0,46.6,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York,"(33.39057, -80.29702)",5.726576443689598,5406.0,21114_0_no,33.462626126468656,-80.24794855926513,5.0

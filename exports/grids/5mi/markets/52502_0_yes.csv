@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99181,48.1456,-117.76526,Valley,WA,Washington,True,,1788.0,7.6,53065,Stevens,"{""53065"": 100}",Stevens,53065,False,False,America/Los_Angeles,"(48.1456, -117.76526)",5.445904009474985,1788.0,52502_0_yes,48.19631766899007,-117.85572832987778,5.0

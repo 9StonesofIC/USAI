@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55738,47.27342,-92.65826,Forbes,MN,Minnesota,True,,558.0,1.8,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(47.27342, -92.65826)",2.2595970584466682,558.0,50733_0_yes,47.30453442254655,-92.6434135617276,5.0

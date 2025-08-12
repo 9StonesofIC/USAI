@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30740,34.75407,-85.07786,Rocky Face,GA,Georgia,True,,8584.0,66.1,13313,Whitfield,"{""13313"": 91.99, ""13295"": 8.01}",Whitfield|Walker,13313|13295,False,False,America/New_York,"(34.75407, -85.07786)",4.54830339252728,8584.0,23868_0_yes,34.69832044205278,-85.12045125715498,5.0

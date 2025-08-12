@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04912,44.97286,-69.68045,Athens,ME,Maine,True,,813.0,5.6,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(44.97286, -69.68045)",5.737468841531296,2468.0,46345_0_no,45.04106377732247,-69.7474472530928,5.0
+04920,45.11323,-69.83863,Bingham,ME,Maine,True,,1655.0,2.9,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(45.11323, -69.83863)",6.682413448223225,2468.0,46345_0_no,45.04106377732247,-69.7474472530928,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95313,37.43511,-121.03769,Crows Landing,CA,California,True,,1166.0,9.8,6099,Stanislaus,"{""06099"": 100}",Stanislaus,06099,False,False,America/Los_Angeles,"(37.43511, -121.03769)",4.062468722789169,1166.0,30331_0_no,37.407313588601625,-121.1029280267156,5.0

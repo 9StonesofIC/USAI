@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53805,43.14236,-90.68445,Boscobel,WI,Wisconsin,True,,5336.0,15.6,55043,Grant,"{""55043"": 63.99, ""55023"": 36.01}",Grant|Crawford,55043|55023,False,False,America/Chicago,"(43.14236, -90.68445)",5.355854023546905,5336.0,42359_0_yes,43.10541677068956,-90.59108291246775,5.0

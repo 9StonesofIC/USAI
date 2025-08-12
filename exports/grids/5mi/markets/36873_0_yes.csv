@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63555,40.48458,-92.18698,Memphis,MO,Missouri,True,,3380.0,6.7,29199,Scotland,"{""29199"": 100}",Scotland,29199,False,False,America/Chicago,"(40.48458, -92.18698)",2.2743175029751335,3380.0,36873_0_yes,40.500056881346325,-92.148779660638,5.0

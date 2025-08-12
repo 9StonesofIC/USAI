@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69161,42.12034,-100.76679,Seneca,NE,Nebraska,True,,43.0,0.1,31031,Cherry,"{""31031"": 65.06, ""31171"": 34.94}",Cherry|Thomas,31031|31171,False,False,America/Denver,"(42.12034, -100.76679)",6.226976568621155,43.0,10146_0_yes,42.08012854815358,-100.87549466024606,10.0

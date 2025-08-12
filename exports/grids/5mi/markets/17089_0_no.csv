@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76531,31.68423,-98.19058,Hamilton,TX,Texas,True,,4595.0,4.6,48193,Hamilton,"{""48193"": 96.14, ""48093"": 2.48, ""48333"": 1.38}",Hamilton|Comanche|Mills,48193|48093|48333,False,False,America/Chicago,"(31.68423, -98.19058)",5.14712122408138,4595.0,17089_0_no,31.734625318759104,-98.25506848121664,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30292,33.17207,-84.39438,Williamson,GA,Georgia,True,,5631.0,37.5,13231,Pike,"{""13231"": 77.69, ""13255"": 22.31}",Pike|Spalding,13231|13255,False,False,America/New_York,"(33.17207, -84.39438)",1.7530649514530945,5631.0,20455_0_no,33.1755107829913,-84.36434707520657,5.0

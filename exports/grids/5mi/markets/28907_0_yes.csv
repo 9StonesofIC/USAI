@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74083,36.91504,-95.77093,Wann,OK,Oklahoma,True,,1040.0,3.7,40105,Nowata,"{""40105"": 69.72, ""40147"": 30.28}",Nowata|Washington,40105|40147,False,False,America/Chicago,"(36.91504, -95.77093)",2.613222932732894,1040.0,28907_0_yes,36.880509953159326,-95.75163287912288,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85336,32.51904,-114.77977,San Luis,AZ,Arizona,True,,873.0,34.5,4027,Yuma,"{""04027"": 100}",Yuma,04027,False,False,America/Phoenix,"(32.51904, -114.77977)",4.0342769100264775,873.0,18916_0_no,32.47118234372378,-114.8194288958315,5.0

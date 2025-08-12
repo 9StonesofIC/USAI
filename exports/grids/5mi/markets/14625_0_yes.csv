@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70634,30.80142,-93.24309,Deridder,LA,Louisiana,True,,28024.0,24.3,22011,Beauregard,"{""22011"": 79.65, ""22115"": 20.35}",Beauregard|Vernon,22011|22115,False,False,America/Chicago,"(30.80142, -93.24309)",1.7338002698044117,28024.0,14625_0_yes,30.788324481410463,-93.218171100503,5.0

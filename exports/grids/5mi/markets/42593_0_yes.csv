@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14468,43.29242,-77.80542,Hilton,NY,New York,True,,17994.0,132.0,36055,Monroe,"{""36055"": 100}",Monroe,36055,False,False,America/New_York,"(43.29242, -77.80542)",3.849175764664527,36578.0,42593_0_yes,43.23914301807317,-77.82778121502676,5.0
+14559,43.18823,-77.81778,Spencerport,NY,New York,True,,18584.0,164.1,36055,Monroe,"{""36055"": 100}",Monroe,36055,False,False,America/New_York,"(43.18823, -77.81778)",3.5536217031345476,36578.0,42593_0_yes,43.23914301807317,-77.82778121502676,5.0

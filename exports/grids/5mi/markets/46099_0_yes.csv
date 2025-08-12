@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05488,44.92214,-73.14286,Swanton,VT,Vermont,True,,7763.0,44.8,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York,"(44.92214, -73.14286)",3.5344436089258484,7763.0,46099_0_yes,44.97171763689603,-73.16066749745966,5.0

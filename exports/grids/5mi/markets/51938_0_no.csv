@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98817,47.79049,-119.99588,Chelan Falls,WA,Washington,True,,185.0,77.2,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.79049, -119.99588)",3.3190247644291513,185.0,51938_0_no,47.8365503723596,-119.97557280370503,5.0

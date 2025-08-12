@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62864,38.33041,-88.90272,Mount Vernon,IL,Illinois,True,,23287.0,62.9,17081,Jefferson,"{""17081"": 100}",Jefferson,17081,False,False,America/Chicago,"(38.33041, -88.90272)",1.0567368596096316,23287.0,32112_0_yes,38.32441123050224,-88.92065391664487,5.0

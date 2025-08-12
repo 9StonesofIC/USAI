@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56437,46.25049,-95.05654,Bertha,MN,Minnesota,True,,1451.0,8.5,27153,Todd,"{""27153"": 88.49, ""27111"": 11.51}",Todd|Otter Tail,27153|27111,False,False,America/Chicago,"(46.25049, -95.05654)",2.405798010115295,1451.0,48756_0_no,46.2215742293354,-95.08458413397452,5.0

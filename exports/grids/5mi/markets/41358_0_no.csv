@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13101,42.60211,-76.06665,McGraw,NY,New York,True,,2448.0,24.6,36023,Cortland,"{""36023"": 100}",Cortland,36023,False,False,America/New_York,"(42.60211, -76.06665)",1.4715793783933273,2448.0,41358_0_no,42.586294346171776,-76.0860272808796,5.0

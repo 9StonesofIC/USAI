@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54854,46.64127,-91.66864,Maple,WI,Wisconsin,True,,905.0,4.2,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago,"(46.64127, -91.66864)",1.3905660011044951,2281.0,49585_0_no,46.65259347283796,-91.6928765660961,5.0
+54864,46.60431,-91.79443,Poplar,WI,Wisconsin,True,,1376.0,10.3,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago,"(46.60431, -91.79443)",5.860687035337267,2281.0,49585_0_no,46.65259347283796,-91.6928765660961,5.0

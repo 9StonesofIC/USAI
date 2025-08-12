@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49782,45.65547,-85.55199,Beaver Island,MI,Michigan,True,,578.0,4.0,26029,Charlevoix,"{""26029"": 100}",Charlevoix,26029,False,False,America/Detroit,"(45.65547, -85.55199)",23.71195680347781,578.0,3029_0_no,45.45723009210216,-85.95207209159615,20.0

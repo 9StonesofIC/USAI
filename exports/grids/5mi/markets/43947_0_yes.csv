@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83424,43.90488,-111.19136,Felt,ID,Idaho,True,,157.0,1.5,16081,Teton,"{""16081"": 100}",Teton,16081,False,False,America/Boise,"(43.90488, -111.19136)",3.97891555090197,2232.0,43947_0_yes,43.84731622797244,-111.18906808568876,5.0
+83452,43.83619,-111.21239,Tetonia,ID,Idaho,True,,2075.0,4.6,16081,Teton,"{""16081"": 100}",Teton,16081,False,False,America/Boise,"(43.83619, -111.21239)",1.3934638492779126,2232.0,43947_0_yes,43.84731622797244,-111.18906808568876,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84058,40.27474,-111.71468,Orem,UT,Utah,True,,42952.0,2065.8,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.27474, -111.71468)",4.197666683696559,76723.0,36353_0_yes,40.226371890225806,-111.76284781061923,5.0
+84601,40.22593,-111.6955,Provo,UT,Utah,True,,33771.0,979.9,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.22593, -111.6955)",3.552924675407776,76723.0,36353_0_yes,40.226371890225806,-111.76284781061923,5.0

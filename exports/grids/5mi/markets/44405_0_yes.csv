@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48625,44.04976,-84.8345,Harrison,MI,Michigan,True,,12804.0,19.2,26035,Clare,"{""26035"": 100}",Clare,26035,False,False,America/Detroit,"(44.04976, -84.8345)",5.154304146863432,12804.0,44405_0_yes,44.11369324931315,-84.78098967794995,5.0

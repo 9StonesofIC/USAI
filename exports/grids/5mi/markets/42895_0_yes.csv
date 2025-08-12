@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14028,43.31498,-78.71664,Burt,NY,New York,True,,1571.0,43.7,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/New_York,"(43.31498, -78.71664)",4.830782117452903,2232.0,42895_0_yes,43.384655258055055,-78.70865684685356,5.0
+14126,43.33529,-78.72335,Olcott,NY,New York,True,,661.0,384.6,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/New_York,"(43.33529, -78.72335)",3.4897643771719413,2232.0,42895_0_yes,43.384655258055055,-78.70865684685356,5.0

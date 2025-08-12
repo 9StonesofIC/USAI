@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72560,35.84023,-92.08032,Mountain View,AR,Arkansas,True,,8574.0,11.1,5137,Stone,"{""05137"": 99.29, ""05065"": 0.71}",Stone|Izard,05137|05065,False,False,America/Chicago,"(35.84023, -92.08032)",5.590358118643705,8574.0,26562_0_no,35.79071924505395,-92.15923576798431,5.0

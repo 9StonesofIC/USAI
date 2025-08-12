@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55927,44.0335,-92.87291,Dodge Center,MN,Minnesota,True,,4286.0,20.6,27039,Dodge,"{""27039"": 100}",Dodge,27039,False,False,America/Chicago,"(44.0335, -92.87291)",4.209280150947186,4286.0,44151_0_yes,43.97607334948051,-92.90118489630352,5.0

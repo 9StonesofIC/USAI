@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04616,44.28346,-68.57069,Brooklin,ME,Maine,True,,677.0,14.6,23009,Hancock,"{""23009"": 100}",Hancock,23009,False,False,America/New_York,"(44.28346, -68.57069)",2.749982038374027,677.0,44618_0_yes,44.24413148098219,-68.56215245726494,5.0

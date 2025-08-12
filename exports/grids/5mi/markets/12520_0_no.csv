@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78949,29.83681,-97.08062,Muldoon,TX,Texas,True,,822.0,3.9,48149,Fayette,"{""48149"": 100}",Fayette,48149,False,False,America/Chicago,"(29.83681, -97.08062)",1.6684736656673218,822.0,12520_0_no,29.847759256503128,-97.10543339198097,5.0

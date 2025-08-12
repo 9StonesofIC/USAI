@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97041,45.41655,-121.59617,Mount Hood Parkdale,OR,Oregon,True,,3084.0,7.5,41027,Hood River,"{""41027"": 100}",Hood River,41027,False,False,America/Los_Angeles,"(45.41655, -121.59617)",5.070608281854627,3084.0,47200_0_yes,45.44931178376199,-121.50259018530072,5.0

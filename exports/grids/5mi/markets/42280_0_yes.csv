@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13350,43.06352,-74.98817,Herkimer,NY,New York,True,,9727.0,118.7,36043,Herkimer,"{""36043"": 100}",Herkimer,36043,False,False,America/New_York,"(43.06352, -74.98817)",2.0866152772224322,10592.0,42280_0_yes,43.09192764523499,-74.97413860007754,5.0
+13406,43.14326,-74.92257,Middleville,NY,New York,True,,865.0,72.2,36043,Herkimer,"{""36043"": 100}",Herkimer,36043,False,False,America/New_York,"(43.14326, -74.92257)",4.3981515938909785,10592.0,42280_0_yes,43.09192764523499,-74.97413860007754,5.0

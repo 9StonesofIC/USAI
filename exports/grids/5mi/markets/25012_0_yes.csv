@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86512,35.079,-109.24737,Sanders,AZ,Arizona,True,,2867.0,2.4,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix,"(35.079, -109.24737)",5.2921816407952695,2867.0,25012_0_yes,35.15080693033225,-109.27995571118362,5.0

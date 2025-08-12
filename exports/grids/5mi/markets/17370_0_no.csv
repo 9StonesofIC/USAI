@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36768,31.8837,-87.01186,Pine Apple,AL,Alabama,True,,923.0,1.6,1131,Wilcox,"{""01131"": 73.42, ""01099"": 26.58}",Wilcox|Monroe,01131|01099,False,False,America/Chicago,"(31.8837, -87.01186)",1.6233658266960285,923.0,17370_0_no,31.87215489531473,-86.9877624398539,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50025,41.75628,-94.92034,Audubon,IA,Iowa,True,,2976.0,5.8,19009,Audubon,"{""19009"": 98.48, ""19077"": 1.52}",Audubon|Guthrie,19009|19077,False,False,America/Chicago,"(41.75628, -94.92034)",4.5042186539518445,2976.0,39663_0_yes,41.80593457458355,-94.97698472799875,5.0

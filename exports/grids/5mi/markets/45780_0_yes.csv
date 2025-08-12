@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04630,44.8471,-67.47287,East Machias,ME,Maine,True,,1338.0,5.8,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.8471, -67.47287)",4.444503651998783,1338.0,45780_0_yes,44.82187672486338,-67.38942531413407,5.0

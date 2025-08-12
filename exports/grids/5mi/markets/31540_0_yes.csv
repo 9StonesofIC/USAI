@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67836,38.03977,-101.9942,Coolidge,KS,Kansas,True,,127.0,0.5,20075,Hamilton,"{""20075"": 100}",Hamilton,20075,False,False,America/Denver,"(38.03977, -101.9942)",4.662704306558437,127.0,31540_0_yes,38.04488022935139,-102.07964194759325,5.0

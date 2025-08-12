@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22405,38.31568,-77.40377,Fredericksburg,VA,Virginia,True,,33482.0,242.5,51179,Stafford,"{""51179"": 100}",Stafford,51179,False,False,America/New_York,"(38.31568, -77.40377)",5.103005137639056,90970.0,32349_0_no,38.38783300609629,-77.38365878665738,5.0
+22554,38.42285,-77.3835,Stafford,VA,Virginia,True,,57488.0,346.2,51179,Stafford,"{""51179"": 100}",Stafford,51179,False,False,America/New_York,"(38.42285, -77.3835)",2.4194591064545112,90970.0,32349_0_no,38.38783300609629,-77.38365878665738,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59447,47.28116,-110.45955,Geyser,MT,Montana,True,,271.0,0.3,30045,Judith Basin,"{""30045"": 96.99, ""30015"": 3.01}",Judith Basin|Chouteau,30045|30015,False,False,America/Denver,"(47.28116, -110.45955)",2.241994953274388,271.0,50790_0_no,47.248770863056365,-110.46244706962142,5.0

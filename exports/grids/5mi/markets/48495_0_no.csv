@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58581,46.04646,-99.7983,Zeeland,ND,North Dakota,True,,235.0,0.7,38051,McIntosh,"{""38051"": 100}",McIntosh,38051,False,False,America/Chicago,"(46.04646, -99.7983)",3.684775647975618,235.0,48495_0_no,46.08109216723226,-99.73985083361924,5.0

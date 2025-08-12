@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79853,31.43559,-106.06493,Tornillo,TX,Texas,True,,2282.0,25.3,48141,El Paso,"{""48141"": 100}",El Paso,48141,False,False,America/Denver,"(31.43559, -106.06493)",4.131066324668838,2282.0,16102_0_yes,31.37705682549168,-106.05064439856672,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29702,35.11674,-81.47884,Blacksburg,SC,South Carolina,True,,10209.0,42.2,45021,Cherokee,"{""45021"": 85.58, ""45091"": 14.42}",Cherokee|York,45021|45091,False,False,America/New_York,"(35.11674, -81.47884)",4.491304345860815,10209.0,24837_0_no,35.05813823639158,-81.5132165844926,5.0

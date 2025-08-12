@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92364,35.35678,-115.43741,Nipton,CA,California,True,,5.0,0.0,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(35.35678, -115.43741)",4.692017996384578,5.0,25696_0_no,35.372820977889745,-115.35649289139748,5.0

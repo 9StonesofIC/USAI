@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98950,46.84642,-119.9877,Vantage,WA,Washington,True,,33.0,0.3,53037,Kittitas,"{""53037"": 100}",Kittitas,53037,False,False,America/Los_Angeles,"(46.84642, -119.9877)",4.169245505277333,33.0,50000_0_no,46.82342818846895,-120.06925245801008,5.0

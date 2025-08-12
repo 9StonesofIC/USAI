@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77485,29.64118,-96.06236,Wallis,TX,Texas,True,,4209.0,21.1,48015,Austin,"{""48015"": 59.12, ""48157"": 40.88}",Austin|Fort Bend,48015|48157,False,False,America/Chicago,"(29.64118, -96.06236)",1.4266524077405098,4209.0,11815_0_yes,29.629428751173315,-96.08189320212392,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57551,43.18087,-101.70012,Martin,SD,South Dakota,True,,2492.0,1.3,46007,Bennett,"{""46007"": 100}",Bennett,46007,False,False,America/Denver,"(43.18087, -101.70012)",2.7576164351634214,2492.0,42687_0_no,43.187511995744536,-101.75409306574264,5.0

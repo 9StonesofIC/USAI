@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59925,48.04732,-114.83045,Marion,MT,Montana,True,,1526.0,1.6,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver,"(48.04732, -114.83045)",5.275324669043398,1526.0,52188_0_no,47.97641229036427,-114.78813013670856,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67134,37.48474,-98.6824,Sawyer,KS,Kansas,True,,482.0,2.6,20151,Pratt,"{""20151"": 64.72, ""20007"": 35.28}",Pratt|Barber,20151|20007,False,False,America/Chicago,"(37.48474, -98.6824)",3.559483378360589,482.0,30532_0_no,37.53503010393545,-98.69648892594914,5.0

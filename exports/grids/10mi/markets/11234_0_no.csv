@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97488,44.13077,-122.41198,Vida,OR,Oregon,True,,1165.0,3.0,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.13077, -122.41198)",9.097912836653022,2038.0,11234_0_no,43.99993821064647,-122.43269196993911,10.0
+97489,44.10986,-122.61962,Walterville,OR,Oregon,True,,873.0,11.3,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.10986, -122.61962)",11.993249249913177,2038.0,11234_0_no,43.99993821064647,-122.43269196993911,10.0

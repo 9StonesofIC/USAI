@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29540,34.38903,-79.85028,Darlington,SC,South Carolina,True,,4556.0,16.3,45031,Darlington,"{""45031"": 100}",Darlington,45031,False,False,America/New_York,"(34.38903, -79.85028)",1.4794555102072844,4556.0,23164_0_yes,34.4045993810267,-79.83246515359096,5.0

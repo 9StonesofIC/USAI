@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82329,42.09073,-106.09959,Medicine Bow,WY,Wyoming,True,,313.0,0.4,56007,Carbon,"{""56007"": 57.83, ""56001"": 42.17}",Carbon|Albany,56007|56001,False,False,America/Denver,"(42.09073, -106.09959)",4.3615841526035455,313.0,40302_0_no,42.03259963369058,-106.06643943791494,5.0

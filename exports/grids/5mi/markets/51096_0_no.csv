@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83842,47.44046,-116.55056,Medimont,ID,Idaho,True,,101.0,2.0,16055,Kootenai,"{""16055"": 100}",Kootenai,16055,False,False,America/Los_Angeles,"(47.44046, -116.55056)",3.826234687854812,101.0,51096_0_no,47.399206018887526,-116.60515951838003,5.0

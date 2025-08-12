@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80825,38.81864,-102.80624,Kit Carson,CO,Colorado,True,,543.0,0.4,8017,Cheyenne,"{""08017"": 100}",Cheyenne,08017,False,False,America/Denver,"(38.81864, -102.80624)",6.7066920224288,543.0,8436_0_yes,38.89723501795875,-102.73308843348818,10.0

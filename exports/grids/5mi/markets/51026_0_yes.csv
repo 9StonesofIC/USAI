@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56516,47.44368,-95.96663,Bejou,MN,Minnesota,True,,292.0,1.3,27087,Mahnomen,"{""27087"": 88.15, ""27107"": 11.85}",Mahnomen|Norman,27087|27107,False,False,America/Chicago,"(47.44368, -95.96663)",0.608043391649437,292.0,51026_0_yes,47.45231301976763,-95.96915528367576,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55333,44.55987,-94.86593,Franklin,MN,Minnesota,True,,839.0,4.7,27129,Renville,"{""27129"": 91.74, ""27015"": 4.36, ""27127"": 3.9}",Renville|Brown|Redwood,27129|27015|27127,False,False,America/Chicago,"(44.55987, -94.86593)",2.6419832777476766,839.0,45333_0_yes,44.55680538084558,-94.81243822713324,5.0

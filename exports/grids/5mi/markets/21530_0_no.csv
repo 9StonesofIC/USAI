@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71858,33.58543,-93.26706,Rosston,AR,Arkansas,True,,2216.0,4.4,5099,Nevada,"{""05099"": 100}",Nevada,05099,False,False,America/Chicago,"(33.58543, -93.26706)",5.392651361088638,2216.0,21530_0_no,33.61679080791782,-93.35286870131476,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24165,36.58368,-80.05319,Spencer,VA,Virginia,True,,1251.0,11.8,51089,Henry,"{""51089"": 51.32, ""51141"": 48.68}",Henry|Patrick,51089|51141,False,False,America/New_York,"(36.58368, -80.05319)",0.9825587765672593,1251.0,28164_0_yes,36.578762907594886,-80.03657309556976,5.0

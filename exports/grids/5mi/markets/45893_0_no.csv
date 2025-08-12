@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56223,44.76259,-95.81691,Clarkfield,MN,Minnesota,True,,1468.0,4.9,27173,Yellow Medicine,"{""27173"": 100}",Yellow Medicine,27173,False,False,America/Chicago,"(44.76259, -95.81691)",1.4035299942583184,1468.0,45893_0_no,44.77490039448262,-95.83966971165188,5.0

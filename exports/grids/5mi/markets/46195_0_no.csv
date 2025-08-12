@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57440,44.8502,-98.25956,Frankfort,SD,South Dakota,True,,536.0,1.5,46115,Spink,"{""46115"": 100}",Spink,46115,False,False,America/Chicago,"(44.8502, -98.25956)",5.451984522765898,536.0,46195_0_no,44.92177008091428,-98.21266158282386,5.0

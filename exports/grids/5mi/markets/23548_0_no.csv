@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72366,34.52612,-90.95307,Marvell,AR,Arkansas,True,,2248.0,6.7,5107,Phillips,"{""05107"": 93.59, ""05095"": 3.84, ""05077"": 2.57}",Phillips|Monroe|Lee,05107|05095|05077,False,False,America/Chicago,"(34.52612, -90.95307)",3.2251113433571783,2248.0,23548_0_no,34.48506529108536,-90.92611788181,5.0

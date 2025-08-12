@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87043,35.28978,-106.44418,Placitas,NM,New Mexico,True,,4506.0,16.2,35043,Sandoval,"{""35043"": 100}",Sandoval,35043,False,False,America/Denver,"(35.28978, -106.44418)",1.3307833235150466,4506.0,25330_0_yes,35.29373308075021,-106.42108501481366,5.0

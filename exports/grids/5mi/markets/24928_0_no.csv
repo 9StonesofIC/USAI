@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73093,35.10321,-97.4966,Washington,OK,Oklahoma,True,,3282.0,21.8,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago,"(35.10321, -97.4966)",4.6672462703790565,3282.0,24928_0_no,35.06981436730317,-97.56835638448786,5.0

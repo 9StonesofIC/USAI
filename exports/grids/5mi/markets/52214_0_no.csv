@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98816,48.0229,-120.34361,Chelan,WA,Washington,True,,6005.0,4.7,53007,Chelan,"{""53007"": 98.63, ""53047"": 1.37}",Chelan|Okanogan,53007|53047,False,False,America/Los_Angeles,"(48.0229, -120.34361)",3.648607255676754,6005.0,52214_0_no,47.98167151453291,-120.39292488080171,5.0

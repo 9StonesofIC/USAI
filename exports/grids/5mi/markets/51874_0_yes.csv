@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58736,47.92804,-100.38732,Drake,ND,North Dakota,True,,540.0,1.3,38049,McHenry,"{""38049"": 72.85, ""38083"": 27.15}",McHenry|Sheridan,38049|38083,False,False,America/Chicago,"(47.92804, -100.38732)",4.304669381602343,540.0,51874_0_yes,47.890573915104,-100.46158164420068,5.0

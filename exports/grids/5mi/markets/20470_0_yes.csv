@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30205,33.26911,-84.46634,Brooks,GA,Georgia,True,,3147.0,33.1,13113,Fayette,"{""13113"": 60.78, ""13255"": 39.22}",Fayette|Spalding,13113|13255,False,False,America/New_York,"(33.26911, -84.46634)",3.536711579325575,3147.0,20470_0_yes,33.2480074239034,-84.41057004571911,5.0

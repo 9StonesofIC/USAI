@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77444,29.29641,-95.77794,Guy,TX,Texas,True,,582.0,5.7,48157,Fort Bend,"{""48157"": 50.24, ""48039"": 49.76}",Fort Bend|Brazoria,48157|48039,False,False,America/Chicago,"(29.29641, -95.77794)",2.082765904108452,582.0,11091_0_no,29.266490338317872,-95.77372960441583,5.0

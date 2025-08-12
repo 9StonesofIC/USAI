@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95959,39.34509,-120.86797,Nevada City,CA,California,True,,17838.0,22.1,6057,Nevada,"{""06057"": 100}",Nevada,06057,False,False,America/Los_Angeles,"(39.34509, -120.86797)",1.827649136235952,17838.0,34515_0_yes,39.36421505234991,-120.89160294275406,5.0

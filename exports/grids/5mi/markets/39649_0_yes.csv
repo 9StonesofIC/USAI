@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52232,41.80128,-92.34043,Hartwick,IA,Iowa,True,,362.0,6.6,19157,Poweshiek,"{""19157"": 100}",Poweshiek,19157,False,False,America/Chicago,"(41.80128, -92.34043)",3.8468044984908953,362.0,39649_0_yes,41.80364938897465,-92.26581041168612,5.0

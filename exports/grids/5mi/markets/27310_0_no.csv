@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87018,36.11644,-107.51745,Counselor,NM,New Mexico,True,,499.0,1.1,35043,Sandoval,"{""35043"": 97.64, ""35039"": 2.36}",Sandoval|Rio Arriba,35043|35039,False,False,America/Denver,"(36.11644, -107.51745)",4.129479486732449,499.0,27310_0_no,36.09213138641984,-107.58502855529537,5.0

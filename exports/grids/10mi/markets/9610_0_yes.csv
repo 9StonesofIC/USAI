@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+02807,41.17762,-71.57854,Block Island,RI,Rhode Island,True,,871.0,37.0,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York,"(41.17762, -71.57854)",4.190155896715657,871.0,9610_0_yes,41.16275978255016,-71.65664743579565,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98940,47.39682,-121.06683,Ronald,WA,Washington,True,,445.0,1.1,53037,Kittitas,"{""53037"": 100}",Kittitas,53037,False,False,America/Los_Angeles,"(47.39682, -121.06683)",6.541724780633912,445.0,50867_0_yes,47.33102261896291,-121.16734106595786,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93242,36.44115,-119.73024,Laton,CA,California,True,,3455.0,32.8,6019,Fresno,"{""06019"": 83.05, ""06031"": 16.95}",Fresno|Kings,06019|06031,False,False,America/Los_Angeles,"(36.44115, -119.73024)",3.5153514617777617,3455.0,28037_0_no,36.39121898015134,-119.7180969635863,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39071,32.54887,-90.3185,Flora,MS,Mississippi,True,,6496.0,22.9,28089,Madison,"{""28089"": 99.1, ""28049"": 0.9}",Madison|Hinds,28089|28049,False,False,America/Chicago,"(32.54887, -90.3185)",4.582447312756211,6496.0,18787_0_yes,32.527059619569535,-90.392795464494,5.0

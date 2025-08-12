@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73439,33.93643,-96.74708,Kingston,OK,Oklahoma,True,,7234.0,21.5,40095,Marshall,"{""40095"": 100}",Marshall,40095,False,False,America/Chicago,"(33.93643, -96.74708)",2.2194172471608917,7234.0,22229_0_no,33.90919156007221,-96.7265614123648,5.0

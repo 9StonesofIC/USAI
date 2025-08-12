@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21702,39.48019,-77.4578,Frederick,MD,Maryland,True,,41729.0,386.2,24021,Frederick,"{""24021"": 100}",Frederick,24021,False,False,America/New_York,"(39.48019, -77.4578)",6.289857008924018,47133.0,34893_0_no,39.54674406795572,-77.53830928398969,5.0
+21773,39.53725,-77.55301,Myersville,MD,Maryland,True,,5404.0,57.5,24021,Frederick,"{""24021"": 100}",Frederick,24021,False,False,America/New_York,"(39.53725, -77.55301)",1.0216842226432503,47133.0,34893_0_no,39.54674406795572,-77.53830928398969,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98237,48.53272,-121.69748,Concrete,WA,Washington,True,,4762.0,4.4,53057,Skagit,"{""53057"": 83.32, ""53073"": 16.68}",Skagit|Whatcom,53057|53073,False,False,America/Los_Angeles,"(48.53272, -121.69748)",2.9667966013379066,4762.0,53308_0_no,48.56174660910653,-121.6496828158315,5.0

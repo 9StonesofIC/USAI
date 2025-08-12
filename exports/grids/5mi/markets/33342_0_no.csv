@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45115,38.80818,-83.70728,Decatur,OH,Ohio,True,,85.0,7.3,39015,Brown,"{""39015"": 100}",Brown,39015,False,False,America/New_York,"(38.80818, -83.70728)",3.5056190108006215,5195.0,33342_0_no,38.82746648325024,-83.76751131993221,5.0
+45167,38.77234,-83.79943,Ripley,OH,Ohio,True,,3525.0,22.0,39015,Brown,"{""39015"": 100}",Brown,39015,False,False,America/New_York,"(38.77234, -83.79943)",4.178705869035744,5195.0,33342_0_no,38.82746648325024,-83.76751131993221,5.0
+45168,38.85266,-83.76783,Russellville,OH,Ohio,True,,1585.0,22.1,39015,Brown,"{""39015"": 100}",Brown,39015,False,False,America/New_York,"(38.85266, -83.76783)",1.7407906936120068,5195.0,33342_0_no,38.82746648325024,-83.76751131993221,5.0

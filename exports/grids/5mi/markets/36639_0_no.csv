@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84082,40.3404,-111.36184,Wallsburg,UT,Utah,True,,1079.0,2.8,49051,Wasatch,"{""49051"": 100}",Wasatch,49051,False,False,America/Denver,"(40.3404, -111.36184)",4.747573450966767,1079.0,36639_0_no,40.29848025930035,-111.29043350222744,5.0

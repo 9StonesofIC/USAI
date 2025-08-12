@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76827,31.52589,-99.13031,Brookesmith,TX,Texas,True,,592.0,2.8,48049,Brown,"{""48049"": 93.12, ""48083"": 6.88}",Brown|Coleman,48049|48083,False,False,America/Chicago,"(31.52589, -99.13031)",4.5155110286286595,592.0,16747_0_no,31.590146461302027,-99.14430508209472,5.0

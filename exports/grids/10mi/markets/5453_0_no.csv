@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79322,33.65887,-101.19814,Crosbyton,TX,Texas,True,,2032.0,3.0,48107,Crosby,"{""48107"": 100}",Crosby,48107,False,False,America/Chicago,"(33.65887, -101.19814)",9.68463338883292,4103.0,5453_0_no,33.53332919156241,-101.27298246393006,10.0
+79357,33.64659,-101.40577,Ralls,TX,Texas,True,,2071.0,3.3,48107,Crosby,"{""48107"": 100}",Crosby,48107,False,False,America/Chicago,"(33.64659, -101.40577)",10.93850580241223,4103.0,5453_0_no,33.53332919156241,-101.27298246393006,10.0

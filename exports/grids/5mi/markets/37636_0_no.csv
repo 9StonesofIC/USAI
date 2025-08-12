@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95550,40.77695,-123.82951,Korbel,CA,California,True,,172.0,0.5,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.77695, -123.82951)",3.5913350110008553,172.0,37636_0_no,40.74346981374397,-123.77701918653231,5.0

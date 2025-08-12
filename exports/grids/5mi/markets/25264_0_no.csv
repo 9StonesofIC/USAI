@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73004,35.14362,-97.83875,Amber,OK,Oklahoma,True,,966.0,6.0,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago,"(35.14362, -97.83875)",5.305437097189586,14003.0,25264_0_no,35.21502550388808,-97.87329867111237,5.0
+73089,35.2661,-97.79638,Tuttle,OK,Oklahoma,True,,13037.0,47.1,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago,"(35.2661, -97.79638)",5.594111440536393,14003.0,25264_0_no,35.21502550388808,-97.87329867111237,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57076,43.97673,-97.35307,Winfred,SD,South Dakota,True,,487.0,1.8,46079,Lake,"{""46079"": 53.38, ""46097"": 46.62}",Lake|Miner,46079|46097,False,False,America/Chicago,"(43.97673, -97.35307)",6.391345543323051,487.0,44146_0_no,43.90756581641168,-97.26776138715672,5.0

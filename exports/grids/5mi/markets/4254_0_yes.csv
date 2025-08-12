@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78536,26.6432,-98.44369,Delmita,TX,Texas,True,,340.0,3.0,48427,Starr,"{""48427"": 98.23, ""48215"": 1.77}",Starr|Hidalgo,48427|48215,False,False,America/Chicago,"(26.6432, -98.44369)",5.586358199692712,600.0,4254_0_yes,26.582907882549783,-98.50394344211811,5.0
+78591,26.65351,-98.53408,Santa Elena,TX,Texas,True,,260.0,0.6,48427,Starr,"{""48427"": 100}",Starr,48427,False,False,America/Chicago,"(26.65351, -98.53408)",5.22126580997801,600.0,4254_0_yes,26.582907882549783,-98.50394344211811,5.0

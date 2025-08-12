@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72722,36.34042,-94.46397,Decatur,AR,Arkansas,True,,2737.0,26.8,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago,"(36.34042, -94.46397)",2.958547812311523,10154.0,27896_0_no,36.37223339888606,-94.42838227871296,5.0
+72736,36.41402,-94.46548,Gravette,AR,Arkansas,True,,7417.0,29.1,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago,"(36.41402, -94.46548)",3.5486590171031143,10154.0,27896_0_no,36.37223339888606,-94.42838227871296,5.0

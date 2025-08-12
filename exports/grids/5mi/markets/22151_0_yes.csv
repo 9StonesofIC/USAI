@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29152,33.97517,-80.47019,Shaw Afb,SC,South Carolina,True,,2387.0,180.7,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York,"(33.97517, -80.47019)",3.3439507148206156,2387.0,22151_0_yes,33.97011972512232,-80.41214942177983,5.0

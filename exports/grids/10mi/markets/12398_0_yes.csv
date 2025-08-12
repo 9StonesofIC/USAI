@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98377,46.50586,-121.81912,Randle,WA,Washington,True,,1845.0,2.2,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.50586, -121.81912)",8.74641908558196,1845.0,12398_0_yes,46.459848138374674,-121.64785221212696,10.0

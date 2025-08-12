@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74427,35.68638,-94.91056,Cookson,OK,Oklahoma,True,,1293.0,13.1,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago,"(35.68638, -94.91056)",2.7589076209557324,5419.0,26264_0_yes,35.72025389251581,-94.93659502270812,5.0
+74451,35.72886,-95.00166,Park Hill,OK,Oklahoma,True,,4126.0,18.0,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago,"(35.72886, -95.00166)",3.6977698040022466,5419.0,26264_0_yes,35.72025389251581,-94.93659502270812,5.0

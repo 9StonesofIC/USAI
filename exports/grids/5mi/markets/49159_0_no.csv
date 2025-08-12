@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98921,46.43082,-120.31719,Buena,WA,Washington,True,,158.0,345.9,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.43082, -120.31719)",2.864105837850644,6619.0,49159_0_no,46.38936739224156,-120.3170967935232,5.0
+98953,46.44149,-120.23284,Zillah,WA,Washington,True,,6461.0,41.2,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.44149, -120.23284)",5.392413511718788,6619.0,49159_0_no,46.38936739224156,-120.3170967935232,5.0

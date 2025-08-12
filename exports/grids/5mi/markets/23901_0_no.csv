@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71961,34.59722,-93.84676,Oden,AR,Arkansas,True,,1211.0,5.5,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago,"(34.59722, -93.84676)",2.4240667100118927,1211.0,23901_0_no,34.63215386137099,-93.85069833775768,5.0

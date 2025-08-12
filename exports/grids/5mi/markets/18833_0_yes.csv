@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76453,32.57202,-98.33908,Gordon,TX,Texas,True,,1438.0,4.5,48363,Palo Pinto,"{""48363"": 80.83, ""48143"": 19.17}",Palo Pinto|Erath,48363|48143,False,False,America/Chicago,"(32.57202, -98.33908)",4.728856088809899,1438.0,18833_0_yes,32.53242597990809,-98.27284914933352,5.0

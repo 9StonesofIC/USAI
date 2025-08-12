@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32566,30.4253,-86.8843,Navarre,FL,Florida,True,,41165.0,405.8,12113,Santa Rosa,"{""12113"": 100}",Santa Rosa,12113,False,False,America/Chicago,"(30.4253, -86.8843)",5.8964763324328935,41165.0,13884_0_yes,30.49413626192026,-86.94282065034653,5.0

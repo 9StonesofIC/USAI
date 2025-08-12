@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59855,47.60032,-114.11787,Pablo,MT,Montana,True,,675.0,738.5,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.60032, -114.11787)",8.33919017410414,18266.0,12939_0_yes,47.60411225455378,-114.2967807799732,10.0
+59860,47.71314,-114.17832,Polson,MT,Montana,True,,10834.0,16.0,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.71314, -114.17832)",9.334850128425883,18266.0,12939_0_yes,47.60411225455378,-114.2967807799732,10.0
+59864,47.53324,-114.11741,Ronan,MT,Montana,True,,6757.0,14.0,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.53324, -114.11741)",9.690168399046422,18266.0,12939_0_yes,47.60411225455378,-114.2967807799732,10.0

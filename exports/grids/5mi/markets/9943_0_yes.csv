@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32735,28.89099,-81.73718,Grand Island,FL,Florida,True,,4133.0,399.9,12069,Lake,"{""12069"": 100}",Lake,12069,False,False,America/New_York,"(28.89099, -81.73718)",1.707893742788713,23477.0,9943_0_yes,28.89509134640957,-81.765021627905,5.0
+34788,28.88542,-81.79678,Leesburg,FL,Florida,True,,19344.0,206.6,12069,Lake,"{""12069"": 100}",Lake,12069,False,False,America/New_York,"(28.88542, -81.79678)",2.0341003113681673,23477.0,9943_0_yes,28.89509134640957,-81.765021627905,5.0

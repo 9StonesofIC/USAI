@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97444,42.44453,-124.33223,Gold Beach,OR,Oregon,True,,5974.0,14.1,41015,Curry,"{""41015"": 100}",Curry,41015,False,False,America/Los_Angeles,"(42.44453, -124.33223)",9.66191889938265,5974.0,10496_0_no,42.55491855411144,-124.4486631677957,10.0

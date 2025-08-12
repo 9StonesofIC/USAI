@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38221,36.24552,-88.03685,Big Sandy,TN,Tennessee,True,,3289.0,11.7,47005,Benton,"{""47005"": 100}",Benton,47005,False,False,America/Chicago,"(36.24552, -88.03685)",1.6051216986719254,3289.0,27531_0_no,36.22250221196412,-88.0407447299995,5.0

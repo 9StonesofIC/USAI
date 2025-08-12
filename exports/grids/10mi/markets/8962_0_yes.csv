@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95969,39.72178,-121.63388,Paradise,CA,California,True,,19112.0,145.5,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.72178, -121.63388)",5.261271120781003,19265.0,8962_0_yes,39.79688747135093,-121.61756682267662,10.0
+95978,39.90826,-121.52941,Stirling City,CA,California,True,,153.0,1589.4,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.90826, -121.52941)",9.00446485270927,19265.0,8962_0_yes,39.79688747135093,-121.61756682267662,10.0

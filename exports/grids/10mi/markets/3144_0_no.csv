@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32328,29.8463,-84.90991,Eastpoint,FL,Florida,True,,3682.0,16.6,12037,Franklin,"{""12037"": 100}",Franklin,12037,False,False,America/New_York,"(29.8463, -84.90991)",7.192188231388623,3682.0,3144_0_no,29.74240297292735,-84.90254037848665,10.0

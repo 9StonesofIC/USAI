@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+02557,41.44218,-70.56648,Oak Bluffs,MA,Massachusetts,True,,4701.0,560.2,25007,Dukes,"{""25007"": 100}",Dukes,25007,False,False,America/New_York,"(41.44218, -70.56648)",4.972253817837903,8833.0,38925_0_yes,41.49587793388807,-70.630418681994,5.0
+02568,41.44341,-70.61534,Vineyard Haven,MA,Massachusetts,True,,4132.0,124.2,25007,Dukes,"{""25007"": 100}",Dukes,25007,False,False,America/New_York,"(41.44341, -70.61534)",3.708290496143624,8833.0,38925_0_yes,41.49587793388807,-70.630418681994,5.0

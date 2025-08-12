@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48647,44.65309,-84.08148,Mio,MI,Michigan,True,,4389.0,10.1,26135,Oscoda,"{""26135"": 97.07, ""26001"": 2.93}",Oscoda|Alcona,26135|26001,False,False,America/Detroit,"(44.65309, -84.08148)",4.087182599933719,4389.0,45545_0_no,44.61976695299828,-84.15016605313787,5.0

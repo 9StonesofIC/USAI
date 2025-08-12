@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43433,41.50463,-82.88033,Gypsum,OH,Ohio,True,,54.0,42.5,39123,Ottawa,"{""39123"": 100}",Ottawa,39123,False,False,America/New_York,"(41.50463, -82.88033)",5.609214493054357,1915.0,38962_0_no,41.43383064704864,-82.93334641817283,5.0
+43464,41.40318,-82.93116,Vickery,OH,Ohio,True,,1861.0,21.8,39143,Sandusky,"{""39143"": 94.18, ""39043"": 5.82}",Sandusky|Erie,39143|39043,False,False,America/New_York,"(41.40318, -82.93116)",2.1207857964289856,1915.0,38962_0_no,41.43383064704864,-82.93334641817283,5.0

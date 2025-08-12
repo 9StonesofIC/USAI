@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25831,37.95645,-80.94037,Danese,WV,West Virginia,True,,1672.0,11.1,54019,Fayette,"{""54019"": 100}",Fayette,54019,False,False,America/New_York,"(37.95645, -80.94037)",1.147097265870068,1832.0,31404_0_no,37.956016962837744,-80.96141866960986,5.0
+25942,38.02691,-80.98836,Winona,WV,West Virginia,True,,160.0,4.0,54019,Fayette,"{""54019"": 100}",Fayette,54019,False,False,America/New_York,"(38.02691, -80.98836)",5.11321310610887,1832.0,31404_0_no,37.956016962837744,-80.96141866960986,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30456,32.98137,-81.79246,Sardis,GA,Georgia,True,,2146.0,11.6,13033,Burke,"{""13033"": 100}",Burke,13033,False,False,America/New_York,"(32.98137, -81.79246)",4.549310715081132,2146.0,20098_0_no,33.028773621658665,-81.84695013988232,5.0

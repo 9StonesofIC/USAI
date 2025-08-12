@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80432,39.22256,-105.82969,Como,CO,Colorado,True,,215.0,0.4,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(39.22256, -105.82969)",1.6333660242609018,215.0,34117_0_yes,39.20720236906543,-105.8064938062091,5.0

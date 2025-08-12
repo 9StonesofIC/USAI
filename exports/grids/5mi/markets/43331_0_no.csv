@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83443,43.50942,-111.56155,Ririe,ID,Idaho,True,,1089.0,2.1,16019,Bonneville,"{""16019"": 95.1, ""16051"": 3.69, ""16065"": 1.21}",Bonneville|Jefferson|Madison,16019|16051|16065,False,False,America/Boise,"(43.50942, -111.56155)",2.174349940832497,1089.0,43331_0_no,43.4856729217064,-111.59001678558458,5.0

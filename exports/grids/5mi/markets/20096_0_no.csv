@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29836,33.09046,-81.50026,Martin,SC,South Carolina,True,,254.0,1.0,45005,Allendale,"{""45005"": 83.09, ""45011"": 16.91}",Allendale|Barnwell,45005|45011,False,False,America/New_York,"(33.09046, -81.50026)",4.280384177960643,254.0,20096_0_no,33.02853582055898,-81.50242176113706,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43805,40.39177,-81.97223,Blissfield,OH,Ohio,True,,244.0,91.9,39031,Coshocton,"{""39031"": 100}",Coshocton,39031,False,False,America/New_York,"(40.39177, -81.97223)",3.235025338711591,4499.0,36508_0_yes,40.346887615929255,-81.98973060328295,5.0
+43844,40.33349,-82.05163,Warsaw,OH,Ohio,True,,4255.0,13.3,39031,Coshocton,"{""39031"": 100}",Coshocton,39031,False,False,America/New_York,"(40.33349, -82.05163)",3.388753267315209,4499.0,36508_0_yes,40.346887615929255,-81.98973060328295,5.0

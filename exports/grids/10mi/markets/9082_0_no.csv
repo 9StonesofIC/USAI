@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84626,39.93359,-111.98545,Elberta,UT,Utah,True,,466.0,1.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(39.93359, -111.98545)",2.77672467628429,2167.0,9082_0_no,39.92643112980202,-112.03701979187892,10.0
+84628,39.93583,-112.13419,Eureka,UT,Utah,True,,669.0,24.9,49023,Juab,"{""49023"": 100}",Juab,49023,False,False,America/Denver,"(39.93583, -112.13419)",5.189065131130026,2167.0,9082_0_no,39.92643112980202,-112.03701979187892,10.0
+84633,39.94026,-111.89281,Goshen,UT,Utah,True,,1032.0,16.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(39.94026, -111.89281)",7.699785545521831,2167.0,9082_0_no,39.92643112980202,-112.03701979187892,10.0

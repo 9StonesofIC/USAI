@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67621,39.82866,-99.12891,Agra,KS,Kansas,True,,316.0,1.9,20147,Phillips,"{""20147"": 100}",Phillips,20147,False,False,America/Chicago,"(39.82866, -99.12891)",7.833204120717973,3296.0,9048_0_no,39.9056540761329,-99.23733047559212,10.0
+67661,39.82546,-99.33039,Phillipsburg,KS,Kansas,True,,2980.0,3.1,20147,Phillips,"{""20147"": 100}",Phillips,20147,False,False,America/Chicago,"(39.82546, -99.33039)",7.420077033334745,3296.0,9048_0_no,39.9056540761329,-99.23733047559212,10.0

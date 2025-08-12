@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81241,38.62675,-106.48848,Pitkin,CO,Colorado,True,,208.0,2.0,8051,Gunnison,"{""08051"": 100}",Gunnison,08051,False,False,America/Denver,"(38.62675, -106.48848)",5.230119016959405,208.0,32827_0_no,38.55561166634658,-106.45538150850707,5.0

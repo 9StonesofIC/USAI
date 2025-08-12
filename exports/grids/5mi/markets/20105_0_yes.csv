@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29477,33.16626,-80.57176,Saint George,SC,South Carolina,True,,7903.0,27.7,45035,Dorchester,"{""45035"": 99.13, ""45075"": 0.87}",Dorchester|Orangeburg,45035|45075,False,False,America/New_York,"(33.16626, -80.57176)",5.717949390116529,7903.0,20105_0_yes,33.1003134782622,-80.51205454251898,5.0

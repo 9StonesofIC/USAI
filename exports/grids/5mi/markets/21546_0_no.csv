@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75418,33.57235,-96.1773,Bonham,TX,Texas,True,,14570.0,40.0,48147,Fannin,"{""48147"": 100}",Fannin,48147,False,False,America/Chicago,"(33.57235, -96.1773)",4.291802635840264,15543.0,21546_0_no,33.61873606383175,-96.12770302663922,5.0
+75438,33.60701,-96.07462,Dodd City,TX,Texas,True,,973.0,9.9,48147,Fannin,"{""48147"": 100}",Fannin,48147,False,False,America/Chicago,"(33.60701, -96.07462)",3.16006506981871,15543.0,21546_0_no,33.61873606383175,-96.12770302663922,5.0

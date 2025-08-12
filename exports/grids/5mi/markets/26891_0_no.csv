@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72526,35.87762,-91.76623,Cushman,AR,Arkansas,True,,111.0,5.5,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago,"(35.87762, -91.76623)",4.19991419533044,797.0,26891_0_no,35.93536770480511,-91.74280034034044,5.0
+72561,35.9428,-91.81093,Mount Pleasant,AR,Arkansas,True,,686.0,5.2,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago,"(35.9428, -91.81093)",3.8456743885454077,797.0,26891_0_no,35.93536770480511,-91.74280034034044,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82063,40.87554,-105.9889,Jelm,WY,Wyoming,True,,109.0,0.1,8069,Larimer,"{""08069"": 79.7, ""56001"": 20.3}",Larimer|Albany,08069|56001,False,False,America/Denver,"(40.87554, -105.9889)",1.490113786018128,109.0,37852_0_no,40.87368746286055,-106.01731648584028,5.0

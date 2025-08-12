@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88051,33.01471,-108.94299,Mule Creek,NM,New Mexico,True,,118.0,0.1,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(33.01471, -108.94299)",3.7940061878276063,118.0,19927_0_yes,32.974944322617404,-108.98813899953367,5.0

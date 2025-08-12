@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39823,31.34004,-84.94641,Blakely,GA,Georgia,True,,7923.0,8.8,13099,Early,"{""13099"": 95.24, ""13201"": 4.76}",Early|Miller,13099|13201,False,False,America/New_York,"(31.34004, -84.94641)",5.749338124633956,7923.0,15966_0_no,31.290704121902756,-85.02484422369889,5.0

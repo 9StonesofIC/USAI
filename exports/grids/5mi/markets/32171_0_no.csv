@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81076,38.32338,-103.6167,Sugar City,CO,Colorado,True,,570.0,0.8,8025,Crowley,"{""08025"": 100}",Crowley,08025,False,False,America/Denver,"(38.32338, -103.6167)",4.444808822774694,570.0,32171_0_no,38.26349582354462,-103.58675682002809,5.0

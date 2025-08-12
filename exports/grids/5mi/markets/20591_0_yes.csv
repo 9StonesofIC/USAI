@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88336,33.31883,-105.28552,Hondo,NM,New Mexico,True,,385.0,1.1,35027,Lincoln,"{""35027"": 100}",Lincoln,35027,False,False,America/Denver,"(33.31883, -105.28552)",4.104965981736732,385.0,20591_0_yes,33.26251852398013,-105.30818016043062,5.0

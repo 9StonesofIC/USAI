@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83262,43.18419,-112.7658,Pingree,ID,Idaho,True,,896.0,1.6,16011,Bingham,"{""16011"": 100}",Bingham,16011,False,False,America/Boise,"(43.18419, -112.7658)",3.9036831265597787,896.0,42743_0_no,43.19710506768243,-112.84124118943755,5.0

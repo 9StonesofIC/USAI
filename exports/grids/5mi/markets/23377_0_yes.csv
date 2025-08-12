@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92308,34.42005,-117.15558,Apple Valley,CA,California,True,,42375.0,158.5,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.42005, -117.15558)",2.1345718656949826,42375.0,23377_0_yes,34.431282788817064,-117.1206897689248,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49715,46.3923,-84.69493,Brimley,MI,Michigan,True,,3434.0,7.6,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.3923, -84.69493)",65.34393950847077,22684.0,537_0_no,47.10196011061353,-83.78258572413355,50.0
+49783,46.41495,-84.28006,Sault Sainte Marie,MI,Michigan,True,,19250.0,50.0,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.41495, -84.28006)",52.98731471281582,22684.0,537_0_no,47.10196011061353,-83.78258572413355,50.0

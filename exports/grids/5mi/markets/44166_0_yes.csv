@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56151,44.03304,-95.92833,Lake Wilson,MN,Minnesota,True,,738.0,3.0,27101,Murray,"{""27101"": 100}",Murray,27101,False,False,America/Chicago,"(44.03304, -95.92833)",3.8648397835682933,738.0,44166_0_yes,43.97871391957781,-95.90980389242556,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89510,39.93619,-119.73734,Reno,NV,Nevada,True,,1671.0,1.1,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles,"(39.93619, -119.73734)",0.7113624793708405,1671.0,35769_0_yes,39.943026614724495,-119.72729966698634,5.0

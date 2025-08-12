@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59055,46.10282,-109.78662,Melville,MT,Montana,True,,85.0,0.1,30097,Sweet Grass,"{""30097"": 100}",Sweet Grass,30097,False,False,America/Denver,"(46.10282, -109.78662)",2.9624027679137326,85.0,48543_0_no,46.090182938049416,-109.7275372306832,5.0

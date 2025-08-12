@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04459,45.58898,-68.33948,Mattawamkeag,ME,Maine,True,,794.0,4.0,23003,Aroostook,"{""23003"": 51.94, ""23019"": 48.06}",Aroostook|Penobscot,23003|23019,False,False,America/New_York,"(45.58898, -68.33948)",2.2076841492750185,794.0,47489_0_no,45.61853527720891,-68.35683511261492,5.0

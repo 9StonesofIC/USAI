@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50201,42.03337,-93.44434,Nevada,IA,Iowa,True,,7940.0,26.1,19169,Story,"{""19169"": 100}",Story,19169,False,False,America/Chicago,"(42.03337, -93.44434)",0.9243174789874861,7940.0,40237_0_no,42.02190720438761,-93.43505503349674,5.0

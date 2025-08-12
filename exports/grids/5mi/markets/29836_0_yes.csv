@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42333,37.37718,-86.75609,Cromwell,KY,Kentucky,True,,1211.0,13.0,21183,Ohio,"{""21183"": 94.68, ""21031"": 5.32}",Ohio|Butler,21183|21031,False,False,America/Chicago,"(37.37718, -86.75609)",6.042160428202991,1211.0,29836_0_yes,37.30837209720709,-86.68820422143058,5.0

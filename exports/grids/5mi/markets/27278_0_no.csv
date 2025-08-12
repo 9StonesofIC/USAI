@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79086,36.13538,-101.79255,Sunray,TX,Texas,True,,2476.0,3.0,48421,Sherman,"{""48421"": 58.58, ""48341"": 41.42}",Sherman|Moore,48421|48341,False,False,America/Chicago,"(36.13538, -101.79255)",5.2872067216553,2476.0,27278_0_no,36.08786809314296,-101.86680206199584,5.0

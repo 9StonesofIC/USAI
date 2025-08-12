@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82930,40.98028,-110.5964,Evanston,WY,Wyoming,True,,14872.0,6.0,49043,Summit,"{""49043"": 70.29, ""56041"": 29.71}",Summit|Uinta,49043|56041,False,False,America/Denver,"(40.98028, -110.5964)",4.081191167727628,14872.0,37901_0_yes,40.94992959290264,-110.66350812841384,5.0

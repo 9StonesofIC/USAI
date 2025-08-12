@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48767,43.64172,-83.45541,Unionville,MI,Michigan,True,,2307.0,12.2,26157,Tuscola,"{""26157"": 96.9, ""26063"": 3.1}",Tuscola|Huron,26157|26063,False,False,America/Detroit,"(43.64172, -83.45541)",2.5164563925820995,2307.0,43486_0_no,43.60595102020688,-83.44593184714995,5.0

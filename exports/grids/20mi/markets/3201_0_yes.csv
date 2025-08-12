@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59312,47.0541,-106.26872,Angela,MT,Montana,True,,28.0,0.0,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver,"(47.0541, -106.26872)",7.3720966153807685,87.0,3201_0_yes,46.97622310385555,-106.37569383981608,20.0
+59322,47.03521,-106.64069,Cohagen,MT,Montana,True,,59.0,0.0,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver,"(47.03521, -106.64069)",13.13404832008814,87.0,3201_0_yes,46.97622310385555,-106.37569383981608,20.0

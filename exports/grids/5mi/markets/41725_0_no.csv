@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53537,42.67267,-89.21056,Footville,WI,Wisconsin,True,,998.0,442.1,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago,"(42.67267, -89.21056)",5.996775526119305,21163.0,41725_0_no,42.7422528926607,-89.13996367898649,5.0
+53548,42.68907,-89.13095,Janesville,WI,Wisconsin,True,,20165.0,103.8,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago,"(42.68907, -89.13095)",3.70296834989449,21163.0,41725_0_no,42.7422528926607,-89.13996367898649,5.0

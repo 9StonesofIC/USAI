@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71851,33.85728,-93.94658,Mineral Springs,AR,Arkansas,True,,1979.0,9.4,5061,Howard,"{""05061"": 100}",Howard,05061,False,False,America/Chicago,"(33.85728, -93.94658)",3.4593819692996486,1979.0,22213_0_no,33.90722496734077,-93.94235149108448,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72389,34.36985,-90.88596,Wabash,AR,Arkansas,True,,417.0,3.8,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago,"(34.36985, -90.88596)",3.293323765838817,417.0,23227_0_yes,34.412488897445954,-90.86014333403908,5.0

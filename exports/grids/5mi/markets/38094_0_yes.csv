@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60420,41.08795,-88.42127,Dwight,IL,Illinois,True,,4699.0,18.8,17105,Livingston,"{""17105"": 71.59, ""17063"": 28.41}",Livingston|Grundy,17105|17063,False,False,America/Chicago,"(41.08795, -88.42127)",0.8725924732554606,4699.0,38094_0_yes,41.07631943107853,-88.41474018326238,5.0

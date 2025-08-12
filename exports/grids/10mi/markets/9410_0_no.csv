@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89418,40.5669,-118.03851,Imlay,NV,Nevada,True,,244.0,0.4,32027,Pershing,"{""32027"": 100}",Pershing,32027,False,False,America/Los_Angeles,"(40.5669, -118.03851)",3.980138221807652,244.0,9410_0_no,40.515726202875335,-118.00370460782248,10.0

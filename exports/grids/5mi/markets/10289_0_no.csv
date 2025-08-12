@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32738,28.90755,-81.18862,Deltona,FL,Florida,True,,46727.0,700.0,12127,Volusia,"{""12127"": 100}",Volusia,12127,False,False,America/New_York,"(28.90755, -81.18862)",4.479222204556611,50205.0,10289_0_no,28.96728796315879,-81.15984600184115,5.0
+32744,28.98497,-81.21899,Lake Helen,FL,Florida,True,,3478.0,98.8,12127,Volusia,"{""12127"": 100}",Volusia,12127,False,False,America/New_York,"(28.98497, -81.21899)",3.77791815053525,50205.0,10289_0_no,28.96728796315879,-81.15984600184115,5.0

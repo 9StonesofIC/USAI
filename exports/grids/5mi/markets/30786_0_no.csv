@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42724,37.67293,-86.06461,Cecilia,KY,Kentucky,True,,5588.0,28.3,21093,Hardin,"{""21093"": 100}",Hardin,21093,False,False,America/New_York,"(37.67293, -86.06461)",0.4039649670910233,8139.0,30786_0_no,37.67018977369335,-86.05808497579177,5.0
+42732,37.61,-86.11235,Eastview,KY,Kentucky,True,,2551.0,18.2,21093,Hardin,"{""21093"": 100}",Hardin,21093,False,False,America/New_York,"(37.61, -86.11235)",5.10976863568001,8139.0,30786_0_no,37.67018977369335,-86.05808497579177,5.0

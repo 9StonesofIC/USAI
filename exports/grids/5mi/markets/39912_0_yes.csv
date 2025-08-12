@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49253,41.96443,-84.2697,Manitou Beach,MI,Michigan,True,,2864.0,46.9,26091,Lenawee,"{""26091"": 100}",Lenawee,26091,False,False,America/Detroit,"(41.96443, -84.2697)",2.3946286402604735,7881.0,39912_0_yes,41.941677204569125,-84.23454653853288,5.0
+49265,42.01022,-84.17432,Onsted,MI,Michigan,True,,5017.0,59.9,26091,Lenawee,"{""26091"": 100}",Lenawee,26091,False,False,America/Detroit,"(42.01022, -84.17432)",5.656730491473675,7881.0,39912_0_yes,41.941677204569125,-84.23454653853288,5.0

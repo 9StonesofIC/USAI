@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49309,43.76021,-85.87842,Bitely,MI,Michigan,True,,1477.0,4.5,26123,Newaygo,"{""26123"": 95.02, ""26085"": 4.98}",Newaygo|Lake,26123|26085,False,False,America/Detroit,"(43.76021, -85.87842)",6.634989578799205,1477.0,43821_0_yes,43.82524377873892,-85.9763016774506,5.0

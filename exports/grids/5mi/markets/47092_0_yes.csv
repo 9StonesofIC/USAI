@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57471,45.40967,-99.31359,Roscoe,SD,South Dakota,True,,543.0,0.6,46045,Edmunds,"{""46045"": 96.31, ""46089"": 3.69}",Edmunds|McPherson,46045|46089,False,False,America/Chicago,"(45.40967, -99.31359)",1.8293499444034327,543.0,47092_0_yes,45.42931099146098,-99.28829496397668,5.0

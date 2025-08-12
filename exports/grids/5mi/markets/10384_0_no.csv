@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77968,28.90619,-96.84952,Inez,TX,Texas,True,,3142.0,6.2,48469,Victoria,"{""48469"": 100}",Victoria,48469,False,False,America/Chicago,"(28.90619, -96.84952)",4.890684255147488,3142.0,10384_0_no,28.97691586489389,-96.84625239813349,5.0

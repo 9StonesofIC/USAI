@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40444,37.67893,-84.58819,Lancaster,KY,Kentucky,True,,14732.0,35.7,21079,Garrard,"{""21079"": 96.57, ""21137"": 3.43}",Garrard|Lincoln,21079|21137,False,False,America/New_York,"(37.67893, -84.58819)",0.8945126716854983,14732.0,30778_0_no,37.6690613384885,-84.59877710219331,5.0

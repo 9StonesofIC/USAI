@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31735,31.97195,-83.96446,Cobb,GA,Georgia,True,,581.0,11.3,13261,Sumter,"{""13261"": 100}",Sumter,13261,False,False,America/New_York,"(31.97195, -83.96446)",2.100980609448179,907.0,17365_0_yes,31.94261957983586,-83.97391568761759,5.0
+31743,31.90089,-84.00604,De Soto,GA,Georgia,True,,326.0,1.9,13177,Lee,"{""13177"": 60.35, ""13261"": 39.65}",Lee|Sumter,13177|13261,False,False,America/New_York,"(31.90089, -84.00604)",3.4441545090738437,907.0,17365_0_yes,31.94261957983586,-83.97391568761759,5.0

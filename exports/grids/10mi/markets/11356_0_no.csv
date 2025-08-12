@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83423,44.33967,-112.33199,Dubois,ID,Idaho,True,,810.0,0.6,16033,Clark,"{""16033"": 100}",Clark,16033,False,False,America/Boise,"(44.33967, -112.33199)",4.710814336520775,827.0,11356_0_no,44.27177686539032,-112.34072606243092,10.0
+83446,44.37841,-112.21887,Spencer,ID,Idaho,True,,17.0,0.2,16033,Clark,"{""16033"": 100}",Clark,16033,False,False,America/Boise,"(44.37841, -112.21887)",9.516338606239236,827.0,11356_0_no,44.27177686539032,-112.34072606243092,10.0

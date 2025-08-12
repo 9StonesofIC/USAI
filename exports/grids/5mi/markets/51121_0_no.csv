@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98038,47.41861,-121.95589,Maple Valley,WA,Washington,True,,36157.0,212.1,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.41861, -121.95589)",1.3890761107067433,40543.0,51121_0_no,47.40416229405663,-121.93523145372512,5.0
+98051,47.3396,-121.89049,Ravensdale,WA,Washington,True,,4386.0,31.4,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.3396, -121.89049)",4.927680514680874,40543.0,51121_0_no,47.40416229405663,-121.93523145372512,5.0

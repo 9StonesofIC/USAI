@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57232,45.61752,-97.38393,Eden,SD,South Dakota,True,,380.0,1.9,46091,Marshall,"{""46091"": 100}",Marshall,46091,False,False,America/Chicago,"(45.61752, -97.38393)",3.2319516388892526,674.0,47370_0_yes,45.57232067337887,-97.36671706523396,5.0
+57239,45.51223,-97.30938,Grenville,SD,South Dakota,True,,294.0,2.5,46037,Day,"{""46037"": 100}",Day,46037,False,False,America/Chicago,"(45.51223, -97.30938)",4.993664348805018,674.0,47370_0_yes,45.57232067337887,-97.36671706523396,5.0

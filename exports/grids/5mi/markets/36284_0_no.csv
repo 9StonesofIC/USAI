@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80720,40.07457,-103.18878,Akron,CO,Colorado,True,,2711.0,1.1,8121,Washington,"{""08121"": 100}",Washington,08121,False,False,America/Denver,"(40.07457, -103.18878)",5.025528166869136,2711.0,36284_0_no,40.14697856863975,-103.19778375704668,5.0

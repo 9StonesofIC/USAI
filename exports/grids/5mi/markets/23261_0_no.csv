@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79252,34.31001,-99.80874,Quanah,TX,Texas,True,,3017.0,2.2,48197,Hardeman,"{""48197"": 96.77, ""48101"": 3.23}",Hardeman|Cottle,48197|48101,False,False,America/Chicago,"(34.31001, -99.80874)",5.142431122415523,3017.0,23261_0_no,34.34636573343097,-99.73009872989395,5.0

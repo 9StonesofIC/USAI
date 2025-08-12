@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97101,45.09225,-123.21557,Amity,OR,Oregon,True,,4141.0,31.9,41071,Yamhill,"{""41071"": 64.32, ""41053"": 35.68}",Yamhill|Polk,41071|41053,False,False,America/Los_Angeles,"(45.09225, -123.21557)",3.387361939092758,4141.0,46607_0_no,45.08895856521491,-123.2848562118146,5.0

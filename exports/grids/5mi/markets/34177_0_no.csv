@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95714,39.2013,-120.83677,Dutch Flat,CA,California,True,,445.0,47.8,6061,Placer,"{""06061"": 100}",Placer,06061,False,False,America/Los_Angeles,"(39.2013, -120.83677)",3.8232745864491697,595.0,34177_0_no,39.14678010543221,-120.82456471970212,5.0
+95717,39.14258,-120.84268,Gold Run,CA,California,True,,150.0,3.0,6061,Placer,"{""06061"": 100}",Placer,06061,False,False,America/Los_Angeles,"(39.14258, -120.84268)",1.0131698700226435,595.0,34177_0_no,39.14678010543221,-120.82456471970212,5.0

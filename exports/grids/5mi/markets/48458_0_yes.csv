@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49854,46.09581,-86.36453,Manistique,MI,Michigan,True,,6196.0,5.0,26153,Schoolcraft,"{""26153"": 94.51, ""26041"": 5.49}",Schoolcraft|Delta,26153|26041,False,False,America/Detroit,"(46.09581, -86.36453)",5.343612143994171,6196.0,48458_0_yes,46.14130128087558,-86.45476036455403,5.0

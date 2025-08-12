@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69146,41.34986,-101.82892,Lemoyne,NE,Nebraska,True,,252.0,0.6,31101,Keith,"{""31101"": 67.43, ""31005"": 32.57}",Keith|Arthur,31101|31005,False,False,America/Denver,"(41.34986, -101.82892)",4.647519121577634,252.0,38780_0_yes,41.377243321319,-101.91077941729432,5.0

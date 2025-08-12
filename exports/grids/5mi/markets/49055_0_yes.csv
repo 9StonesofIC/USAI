@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55783,46.40836,-92.92625,Sturgeon Lake,MN,Minnesota,True,,2330.0,6.5,27115,Pine,"{""27115"": 62.17, ""27001"": 26.07, ""27017"": 11.76}",Pine|Aitkin|Carlton,27115|27001|27017,False,False,America/Chicago,"(46.40836, -92.92625)",2.302990996816818,2330.0,49055_0_yes,46.43664161814287,-92.95183876493432,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39175,32.09238,-90.62097,Utica,MS,Mississippi,True,,4009.0,6.6,28049,Hinds,"{""28049"": 58.85, ""28029"": 25.57, ""28021"": 15.58}",Hinds|Copiah|Claiborne,28049|28029|28021,False,False,America/Chicago,"(32.09238, -90.62097)",4.994580114788898,4009.0,18084_0_no,32.16466564835317,-90.62155557558218,5.0

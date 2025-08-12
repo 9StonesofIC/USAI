@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89043,38.30434,-114.39018,Pioche,NV,Nevada,True,,1493.0,0.4,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles,"(38.30434, -114.39018)",16.397648673646295,1493.0,2080_0_yes,38.32036794047132,-114.69195305234926,20.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72949,35.55755,-93.80813,Ozark,AR,Arkansas,True,,10613.0,12.9,5047,Franklin,"{""05047"": 87.79, ""05071"": 10.13, ""05083"": 2.08}",Franklin|Johnson|Logan,05047|05071|05083,False,False,America/Chicago,"(35.55755, -93.80813)",5.326610454127482,10613.0,25908_0_no,35.5020540408897,-93.87388436745476,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97050,45.68256,-120.7727,Rufus,OR,Oregon,True,,211.0,9.9,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles,"(45.68256, -120.7727)",8.092406889934429,755.0,11970_0_yes,45.58981453185624,-120.87499554845832,10.0
+98673,45.67367,-120.98129,Wishram,WA,Washington,True,,544.0,12.4,53039,Klickitat,"{""53039"": 100}",Klickitat,53039,False,False,America/Los_Angeles,"(45.67367, -120.98129)",7.742293819471559,755.0,11970_0_yes,45.58981453185624,-120.87499554845832,10.0

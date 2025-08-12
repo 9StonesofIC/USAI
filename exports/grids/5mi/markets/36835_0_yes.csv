@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47326,40.54597,-84.97018,Bryant,IN,Indiana,True,,2105.0,12.3,18075,Jay,"{""18075"": 95.96, ""18001"": 4.04}",Jay|Adams,18075|18001,False,False,America/Indiana/Indianapolis,"(40.54597, -84.97018)",4.038248728326657,2105.0,36835_0_yes,40.49413168858423,-84.93466813510972,5.0

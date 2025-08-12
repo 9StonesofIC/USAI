@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73559,34.73473,-98.94317,Mountain Park,OK,Oklahoma,True,,582.0,1.6,40075,Kiowa,"{""40075"": 85.53, ""40031"": 14.47}",Kiowa|Comanche,40075|40031,False,False,America/Chicago,"(34.73473, -98.94317)",4.187053557096726,582.0,24266_0_no,34.780785458523255,-98.89523030388946,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98527,46.58917,-123.90939,Bay Center,WA,Washington,True,,227.0,9.0,53049,Pacific,"{""53049"": 100}",Pacific,53049,False,False,America/Los_Angeles,"(46.58917, -123.90939)",2.3828854891482236,5001.0,49484_0_yes,46.60979906436405,-123.94961438739018,5.0
+98640,46.5429,-124.04938,Ocean Park,WA,Washington,True,,4774.0,130.9,53049,Pacific,"{""53049"": 100}",Pacific,53049,False,False,America/Los_Angeles,"(46.5429, -124.04938)",6.619413525756998,5001.0,49484_0_yes,46.60979906436405,-123.94961438739018,5.0

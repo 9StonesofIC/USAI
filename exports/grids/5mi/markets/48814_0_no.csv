@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59038,46.18917,-107.23069,Hysham,MT,Montana,True,,513.0,0.2,30103,Treasure,"{""30103"": 87.24, ""30003"": 12.76}",Treasure|Big Horn,30103|30003,False,False,America/Denver,"(46.18917, -107.23069)",3.7407273914400747,513.0,48814_0_no,46.232612963053725,-107.184001263389,5.0

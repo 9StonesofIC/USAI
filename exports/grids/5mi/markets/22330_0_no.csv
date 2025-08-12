@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85344,33.98527,-114.23267,Parker,AZ,Arizona,True,,10608.0,4.7,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix,"(33.98527, -114.23267)",5.9801803605374895,10918.0,22330_0_no,33.92160902314183,-114.30336283612594,5.0
+85371,33.96732,-114.39005,Poston,AZ,Arizona,True,,310.0,12.9,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix,"(33.96732, -114.39005)",5.887593232812004,10918.0,22330_0_no,33.92160902314183,-114.30336283612594,5.0

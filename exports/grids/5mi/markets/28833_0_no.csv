@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42123,36.82039,-85.99573,Austin,KY,Kentucky,True,,1013.0,17.8,21009,Barren,"{""21009"": 100}",Barren,21009,False,False,America/Chicago,"(36.82039, -85.99573)",2.349019843172142,1358.0,28833_0_no,36.80065427460445,-85.96115313336593,5.0
+42156,36.85947,-86.04952,Lucas,KY,Kentucky,True,,345.0,17.5,21009,Barren,"{""21009"": 100}",Barren,21009,False,False,America/Chicago,"(36.85947, -86.04952)",6.355869354105295,1358.0,28833_0_no,36.80065427460445,-85.96115313336593,5.0

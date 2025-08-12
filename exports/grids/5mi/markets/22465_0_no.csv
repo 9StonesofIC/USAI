@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28463,34.10213,-78.78001,Tabor City,NC,North Carolina,True,,8732.0,29.9,37047,Columbus,"{""37047"": 100}",Columbus,37047,False,False,America/New_York,"(34.10213, -78.78001)",5.21096284904578,8732.0,22465_0_no,34.04144418193736,-78.72594952321212,5.0

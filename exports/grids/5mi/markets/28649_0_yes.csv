@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87401,36.73824,-108.18377,Farmington,NM,New Mexico,True,,46151.0,134.2,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.73824, -108.18377)",3.141931253646366,46151.0,28649_0_yes,36.74501918340222,-108.2398828162152,5.0

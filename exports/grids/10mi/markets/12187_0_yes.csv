@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55072,46.15118,-92.59274,Sandstone,MN,Minnesota,True,,4543.0,5.0,27115,Pine,"{""27115"": 94.04, ""27065"": 5.96}",Pine|Kanabec,27115|27065,False,False,America/Chicago,"(46.15118, -92.59274)",4.848370488913425,4543.0,12187_0_yes,46.11721199712092,-92.50413352861256,10.0

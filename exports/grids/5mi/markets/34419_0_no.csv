@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81615,39.21437,-106.94172,Snowmass Village,CO,Colorado,True,,2786.0,42.5,8097,Pitkin,"{""08097"": 100}",Pitkin,08097,False,False,America/Denver,"(39.21437, -106.94172)",5.948647898794694,4515.0,34419_0_no,39.28066695453615,-107.01264913152556,5.0
+81654,39.21462,-107.02597,Snowmass,CO,Colorado,True,,1729.0,6.5,8097,Pitkin,"{""08097"": 100}",Pitkin,08097,False,False,America/Denver,"(39.21462, -107.02597)",4.618737988136719,4515.0,34419_0_no,39.28066695453615,-107.01264913152556,5.0

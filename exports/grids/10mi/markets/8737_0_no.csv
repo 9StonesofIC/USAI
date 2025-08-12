@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67753,39.43164,-100.74805,Rexford,KS,Kansas,True,,467.0,0.7,20193,Thomas,"{""20193"": 52.72, ""20179"": 32.08, ""20153"": 15.2}",Thomas|Sheridan|Rawlins,20193|20179|20153,False,False,America/Chicago,"(39.43164, -100.74805)",11.88700270116112,467.0,8737_0_no,39.32849391119721,-100.56991067217872,10.0

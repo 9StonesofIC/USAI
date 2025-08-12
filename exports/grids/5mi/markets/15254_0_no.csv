@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31649,30.94349,-83.00781,Stockton,GA,Georgia,True,,1166.0,14.4,13173,Lanier,"{""13173"": 97.85, ""13101"": 2.15}",Lanier|Echols,13173|13101,False,False,America/New_York,"(30.94349, -83.00781)",4.941956016370751,1166.0,15254_0_no,30.99926640939933,-82.95558810195968,5.0

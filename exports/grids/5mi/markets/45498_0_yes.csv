@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04932,44.6957,-69.13335,Dixmont,ME,Maine,True,,1289.0,13.7,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.6957, -69.13335)",1.6463939836423989,2449.0,45498_0_yes,44.67875752046264,-69.15691772359442,5.0
+04987,44.67915,-69.25361,Troy,ME,Maine,True,,1160.0,12.8,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.67915, -69.25361)",4.750512055534386,2449.0,45498_0_yes,44.67875752046264,-69.15691772359442,5.0

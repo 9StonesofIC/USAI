@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78934,29.7023,-96.56741,Columbus,TX,Texas,True,,6698.0,11.7,48089,Colorado,"{""48089"": 100}",Colorado,48089,False,False,America/Chicago,"(29.7023, -96.56741)",4.753886249744326,6967.0,12163_0_no,29.702364812225724,-96.64662116865804,5.0
+78943,29.69721,-96.59538,Glidden,TX,Texas,True,,269.0,148.1,48089,Colorado,"{""48089"": 100}",Colorado,48089,False,False,America/Chicago,"(29.69721, -96.59538)",3.0958889051950287,6967.0,12163_0_no,29.702364812225724,-96.64662116865804,5.0

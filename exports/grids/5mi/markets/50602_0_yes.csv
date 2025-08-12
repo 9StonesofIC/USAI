@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98550,47.14081,-123.90122,Hoquiam,WA,Washington,True,,11307.0,16.4,53027,Grays Harbor,"{""53027"": 100}",Grays Harbor,53027,False,False,America/Los_Angeles,"(47.14081, -123.90122)",3.746849216276983,11307.0,50602_0_yes,47.18884215374749,-123.93824469639566,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93604,37.3717,-119.52215,Bass Lake,CA,California,True,,366.0,3.2,6039,Madera,"{""06039"": 100}",Madera,06039,False,False,America/Los_Angeles,"(37.3717, -119.52215)",3.848876625261309,366.0,30322_0_no,37.40605602568476,-119.4669612758932,5.0

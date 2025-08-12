@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52640,41.09649,-91.28205,Morning Sun,IA,Iowa,True,,1510.0,8.5,19115,Louisa,"{""19115"": 66.6, ""19057"": 33.4}",Louisa|Des Moines,19115|19057,False,False,America/Chicago,"(41.09649, -91.28205)",1.2589823978704033,1510.0,38109_0_yes,41.07870640055132,-91.28731797546295,5.0

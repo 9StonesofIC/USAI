@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98362,48.01639,-123.31951,Port Angeles,WA,Washington,True,,24997.0,78.5,53009,Clallam,"{""53009"": 100}",Clallam,53009,False,False,America/Los_Angeles,"(48.01639, -123.31951)",3.521829023513761,24997.0,52254_0_yes,48.05668728021553,-123.27282931086124,5.0

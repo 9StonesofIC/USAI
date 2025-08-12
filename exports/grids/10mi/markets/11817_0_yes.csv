@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97846,45.27465,-117.10956,Joseph,OR,Oregon,True,,1954.0,1.7,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles,"(45.27465, -117.10956)",4.725819526469052,1954.0,11817_0_yes,45.29364980513407,-117.2029460847086,10.0

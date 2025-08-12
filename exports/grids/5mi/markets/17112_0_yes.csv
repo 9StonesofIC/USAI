@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76821,31.73862,-99.94963,Ballinger,TX,Texas,True,,4680.0,6.8,48399,Runnels,"{""48399"": 100}",Runnels,48399,False,False,America/Chicago,"(31.73862, -99.94963)",6.105211142514048,4680.0,17112_0_yes,31.80830057677121,-100.01354448314947,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28424,34.29032,-78.69971,Brunswick,NC,North Carolina,True,,48.0,129.3,37047,Columbus,"{""37047"": 100}",Columbus,37047,False,False,America/New_York,"(34.29032, -78.69971)",3.73874126185562,18721.0,23141_0_no,34.3313770190293,-78.74238257716175,5.0
+28472,34.29707,-78.68452,Whiteville,NC,North Carolina,True,,18673.0,36.4,37047,Columbus,"{""37047"": 100}",Columbus,37047,False,False,America/New_York,"(34.29707, -78.68452)",4.064815965524522,18721.0,23141_0_no,34.3313770190293,-78.74238257716175,5.0

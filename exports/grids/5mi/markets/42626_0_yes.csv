@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48614,43.25084,-84.30147,Brant,MI,Michigan,True,,1274.0,13.9,26145,Saginaw,"{""26145"": 94.94, ""26057"": 5.06}",Saginaw|Gratiot,26145|26057,False,False,America/Detroit,"(43.25084, -84.30147)",3.303431394430011,1274.0,42626_0_yes,43.24480584060634,-84.36658391138594,5.0

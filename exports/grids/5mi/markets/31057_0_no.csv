@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22503,37.7624,-76.50432,Lancaster,VA,Virginia,True,,3606.0,16.1,51103,Lancaster,"{""51103"": 98.07, ""51133"": 1.93}",Lancaster|Northumberland,51103|51133,False,False,America/New_York,"(37.7624, -76.50432)",3.4279017562771603,3606.0,31057_0_no,37.80765728576682,-76.4785999472248,5.0

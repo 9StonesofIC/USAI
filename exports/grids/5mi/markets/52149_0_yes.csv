@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58712,47.96799,-100.54559,Balfour,ND,North Dakota,True,,77.0,0.3,38049,McHenry,"{""38049"": 100}",McHenry,38049,False,False,America/Chicago,"(47.96799, -100.54559)",5.496898688409029,77.0,52149_0_yes,48.035398430450776,-100.60874141164878,5.0

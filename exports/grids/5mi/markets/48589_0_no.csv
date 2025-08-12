@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99346,46.02685,-119.306,Plymouth,WA,Washington,True,,443.0,1.2,53005,Benton,"{""53005"": 100}",Benton,53005,False,False,America/Los_Angeles,"(46.02685, -119.306)",4.98471838188933,443.0,48589_0_no,46.0988976183249,-119.3006100961856,5.0

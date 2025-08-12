@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44026,41.53182,-81.3305,Chesterland,OH,Ohio,True,,10928.0,146.1,39055,Geauga,"{""39055"": 100}",Geauga,39055,False,False,America/New_York,"(41.53182, -81.3305)",3.6154563299020617,46854.0,39260_0_no,41.5772587721241,-81.29582155574008,5.0
+44094,41.60985,-81.3791,Willoughby,OH,Ohio,True,,35926.0,349.6,39085,Lake,"{""39085"": 98.98, ""39055"": 1.02}",Lake|Geauga,39085|39055,False,False,America/New_York,"(41.60985, -81.3791)",4.856827663663359,46854.0,39260_0_no,41.5772587721241,-81.29582155574008,5.0

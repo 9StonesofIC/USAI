@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50441,42.73938,-93.22146,Hampton,IA,Iowa,True,,5251.0,13.7,19069,Franklin,"{""19069"": 100}",Franklin,19069,False,False,America/Chicago,"(42.73938, -93.22146)",2.3809391312627817,5251.0,41746_0_no,42.74579467129788,-93.26756147721686,5.0

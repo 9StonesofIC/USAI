@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69345,41.58164,-103.7234,Harrisburg,NE,Nebraska,True,,411.0,0.4,31007,Banner,"{""31007"": 100}",Banner,31007,False,False,America/Denver,"(41.58164, -103.7234)",2.2635967714983196,411.0,39376_0_no,41.59604953626706,-103.68406149528232,5.0

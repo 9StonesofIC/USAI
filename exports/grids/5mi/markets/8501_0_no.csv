@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33809,28.20291,-81.96597,Lakeland,FL,Florida,True,,30646.0,179.7,12105,Polk,"{""12105"": 99.83, ""12101"": 0.17}",Polk|Pasco,12105|12101,False,False,America/New_York,"(28.20291, -81.96597)",2.8608755467218017,30646.0,8501_0_no,28.24233291125319,-81.95160153690098,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27943,35.21432,-75.69363,Hatteras,NC,North Carolina,True,,373.0,53.8,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.21432, -75.69363)",5.043054736222687,373.0,25139_0_no,35.19890210063669,-75.78094346197864,5.0

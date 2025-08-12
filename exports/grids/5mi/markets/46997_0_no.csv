@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49720,45.27555,-85.23984,Charlevoix,MI,Michigan,True,,8971.0,36.3,26029,Charlevoix,"{""26029"": 91.98, ""26009"": 8.02}",Charlevoix|Antrim,26029|26009,False,False,America/Detroit,"(45.27555, -85.23984)",5.078708885260564,8971.0,46997_0_no,45.34439159262164,-85.27647537285084,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82325,41.1628,-106.7919,Encampment,WY,Wyoming,True,,883.0,0.8,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.1628, -106.7919)",4.942404142278013,883.0,38190_0_yes,41.09159948309473,-106.80103445211924,5.0

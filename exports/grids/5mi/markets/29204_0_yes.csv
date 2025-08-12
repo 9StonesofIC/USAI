@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63763,37.05885,-90.18058,McGee,MO,Missouri,True,,207.0,4.0,29223,Wayne,"{""29223"": 100}",Wayne,29223,False,False,America/Chicago,"(37.05885, -90.18058)",5.594216592734599,2674.0,29204_0_yes,37.0212747225009,-90.27042906123692,5.0
+63966,36.96956,-90.26216,Wappapello,MO,Missouri,True,,2467.0,15.9,29223,Wayne,"{""29223"": 79.62, ""29023"": 20.38}",Wayne|Butler,29223|29023,False,False,America/Chicago,"(36.96956, -90.26216)",3.602166787486178,2674.0,29204_0_yes,37.0212747225009,-90.27042906123692,5.0

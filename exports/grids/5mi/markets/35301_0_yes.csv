@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62314,39.76967,-90.89204,Baylis,IL,Illinois,True,,621.0,3.7,17149,Pike,"{""17149"": 84.57, ""17001"": 15.43}",Pike|Adams,17149|17001,False,False,America/Chicago,"(39.76967, -90.89204)",4.619198940800512,2500.0,35301_0_yes,39.77468495296803,-90.80530237412292,5.0
+62340,39.7228,-90.72588,Griggsville,IL,Illinois,True,,1879.0,8.0,17149,Pike,"{""17149"": 100}",Pike,17149,False,False,America/Chicago,"(39.7228, -90.72588)",5.536492855330413,2500.0,35301_0_yes,39.77468495296803,-90.80530237412292,5.0

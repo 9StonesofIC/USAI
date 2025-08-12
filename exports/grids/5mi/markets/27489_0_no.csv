@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27018,36.1978,-80.52096,East Bend,NC,North Carolina,True,,8337.0,39.1,37197,Yadkin,"{""37197"": 100}",Yadkin,37197,False,False,America/New_York,"(36.1978, -80.52096)",1.3242333762737686,8337.0,27489_0_no,36.21688015000216,-80.52320359886839,5.0

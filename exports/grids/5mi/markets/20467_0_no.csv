@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35151,33.108,-86.36704,Sylacauga,AL,Alabama,True,,7827.0,20.4,1121,Talladega,"{""01121"": 52.07, ""01037"": 47.93}",Talladega|Coosa,01121|01037,False,False,America/Chicago,"(33.108, -86.36704)",6.175717721641692,7827.0,20467_0_no,33.17694559960857,-86.43497508059676,5.0

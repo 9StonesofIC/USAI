@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93530,36.48458,-117.87201,Keeler,CA,California,True,,6.0,2.0,6027,Inyo,"{""06027"": 100}",Inyo,06027,False,False,America/Los_Angeles,"(36.48458, -117.87201)",8.23065435514524,1528.0,1840_0_yes,36.59097067036599,-117.80531642206076,20.0
+93545,36.6046,-118.02721,Lone Pine,CA,California,True,,1522.0,1.5,6027,Inyo,"{""06027"": 100}",Inyo,06027,False,False,America/Los_Angeles,"(36.6046, -118.02721)",12.34462566311425,1528.0,1840_0_yes,36.59097067036599,-117.80531642206076,20.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59353,46.96394,-104.28218,Wibaux,MT,Montana,True,,1037.0,0.4,30109,Wibaux,"{""30109"": 83.91, ""30021"": 13.92, ""30025"": 2.17}",Wibaux|Dawson|Fallon,30109|30021|30025,False,False,America/Denver,"(46.96394, -104.28218)",4.044669566094952,1037.0,50204_0_no,46.95352869528135,-104.19777887461578,5.0

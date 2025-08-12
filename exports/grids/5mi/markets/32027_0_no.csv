@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22485,38.2717,-77.15996,King George,VA,Virginia,True,,25997.0,57.1,51099,King George,"{""51099"": 99.77, ""51193"": 0.23}",King George|Westmoreland,51099|51193,False,False,America/New_York,"(38.2717, -77.15996)",3.3445756174202264,25997.0,32027_0_no,38.2427557020086,-77.11054854331164,5.0

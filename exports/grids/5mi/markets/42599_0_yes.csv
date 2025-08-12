@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14092,43.17314,-78.99521,Lewiston,NY,New York,True,,10819.0,197.0,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/New_York,"(43.17314, -78.99521)",4.755239815296853,16662.0,42599_0_yes,43.24017253931567,-79.01660938989481,5.0
+14174,43.24178,-79.00548,Youngstown,NY,New York,True,,5843.0,97.1,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/New_York,"(43.24178, -79.00548)",0.571080819726457,16662.0,42599_0_yes,43.24017253931567,-79.01660938989481,5.0

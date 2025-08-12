@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85142,33.19302,-111.66645,Queen Creek,AZ,Arizona,True,,77101.0,293.8,4021,Pinal,"{""04021"": 67.52, ""04013"": 32.48}",Pinal|Maricopa,04021|04013,False,False,America/Phoenix,"(33.19302, -111.66645)",2.0912130210544113,77101.0,20613_0_no,33.194408785625015,-111.63031986434476,5.0

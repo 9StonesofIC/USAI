@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64622,39.49535,-93.54569,Bogard,MO,Missouri,True,,583.0,3.6,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago,"(39.49535, -93.54569)",1.252210955514803,1007.0,34685_0_yes,39.48717459102393,-93.56664928784744,5.0
+64682,39.55251,-93.49132,Tina,MO,Missouri,True,,424.0,4.5,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago,"(39.55251, -93.49132)",6.0413923887722625,1007.0,34685_0_yes,39.48717459102393,-93.56664928784744,5.0

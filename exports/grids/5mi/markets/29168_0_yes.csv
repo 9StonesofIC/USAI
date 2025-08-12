@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40946,36.95757,-83.82467,Green Road,KY,Kentucky,True,,302.0,72.3,21121,Knox,"{""21121"": 100}",Knox,21121,False,False,America/New_York,"(36.95757, -83.82467)",5.4057778358654085,302.0,29168_0_yes,37.01631424809593,-83.7599757951334,5.0

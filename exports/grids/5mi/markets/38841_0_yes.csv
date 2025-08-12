@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84313,41.34615,-113.71268,Grouse Creek,UT,Utah,True,,62.0,0.0,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.34615, -113.71268)",4.427850477187267,62.0,38841_0_yes,41.38705431976184,-113.64694648559232,5.0

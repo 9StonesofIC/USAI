@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69201,42.70004,-100.59663,Valentine,NE,Nebraska,True,,4174.0,1.0,31031,Cherry,"{""31031"": 83.23, ""46121"": 16.77}",Cherry|Todd,31031|46121,False,False,America/Chicago,"(42.70004, -100.59663)",10.812682830351084,4174.0,10585_0_no,42.80338993797767,-100.4365977531046,10.0

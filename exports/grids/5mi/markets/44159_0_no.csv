@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57544,43.88374,-99.83647,Kennebec,SD,South Dakota,True,,465.0,0.7,46085,Lyman,"{""46085"": 93.88, ""46123"": 6.12}",Lyman|Tripp,46085|46123,False,False,America/Chicago,"(43.88374, -99.83647)",2.5346156077826913,465.0,44159_0_no,43.90984886317448,-99.87223081632548,5.0

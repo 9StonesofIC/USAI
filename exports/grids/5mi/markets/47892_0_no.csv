@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54840,45.7556,-92.68928,Grantsburg,WI,Wisconsin,True,,4360.0,6.6,55013,Burnett,"{""55013"": 88.32, ""55095"": 11.68}",Burnett|Polk,55013|55095,False,False,America/Chicago,"(45.7556, -92.68928)",3.643788520978904,4360.0,47892_0_no,45.785181287410346,-92.6266889117909,5.0

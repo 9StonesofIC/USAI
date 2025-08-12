@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31831,32.66486,-84.70701,Waverly Hall,GA,Georgia,True,,2951.0,15.5,13145,Harris,"{""13145"": 62.4, ""13263"": 37.6}",Harris|Talbot,13145|13263,False,False,America/New_York,"(32.66486, -84.70701)",1.8725941917464466,2951.0,19098_0_yes,32.668177614960776,-84.67505741131173,5.0

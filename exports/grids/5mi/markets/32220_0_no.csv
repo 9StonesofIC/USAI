@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84713,38.3292,-112.54441,Beaver,UT,Utah,True,,3480.0,8.6,49001,Beaver,"{""49001"": 100}",Beaver,49001,False,False,America/Denver,"(38.3292, -112.54441)",4.97787687646062,3480.0,32220_0_no,38.27055672610172,-112.59773892452364,5.0

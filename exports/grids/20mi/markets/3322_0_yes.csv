@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55604,47.96201,-90.55792,Grand Marais,MN,Minnesota,True,,3515.0,1.7,27031,Cook,"{""27031"": 100}",Cook,27031,False,False,America/Chicago,"(47.96201, -90.55792)",10.484832188205033,3716.0,3322_0_yes,48.07286518365228,-90.40299776527704,20.0
+55606,47.96785,-90.02818,Hovland,MN,Minnesota,True,,201.0,0.5,27031,Cook,"{""27031"": 100}",Cook,27031,False,False,America/Chicago,"(47.96785, -90.02818)",18.78019672551759,3716.0,3322_0_yes,48.07286518365228,-90.40299776527704,20.0

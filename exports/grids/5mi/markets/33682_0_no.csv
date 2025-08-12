@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62454,38.99725,-87.75767,Robinson,IL,Illinois,True,,10788.0,33.7,17033,Crawford,"{""17033"": 100}",Crawford,17033,False,False,America/Chicago,"(38.99725, -87.75767)",1.6285382974608344,10788.0,33682_0_no,38.975516508849616,-87.76940512226713,5.0

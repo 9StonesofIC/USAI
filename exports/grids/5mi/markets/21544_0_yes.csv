@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71726,33.68016,-92.99584,Chidester,AR,Arkansas,True,,977.0,1.9,5103,Ouachita,"{""05103"": 99.0, ""05099"": 1.0}",Ouachita|Nevada,05103|05099,False,False,America/Chicago,"(33.68016, -92.99584)",3.679081169170733,977.0,21544_0_yes,33.689055370485534,-93.05893272696672,5.0

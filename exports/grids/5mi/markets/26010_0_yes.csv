@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87301,35.52153,-108.76524,Gallup,NM,New Mexico,True,,24684.0,241.4,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.52153, -108.76524)",6.108689509308832,26813.0,26010_0_yes,35.585524108962325,-108.84022239499178,5.0
+87317,35.58024,-108.75244,Gamerco,NM,New Mexico,True,,2129.0,63.2,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.58024, -108.75244)",4.946154749948834,26813.0,26010_0_yes,35.585524108962325,-108.84022239499178,5.0

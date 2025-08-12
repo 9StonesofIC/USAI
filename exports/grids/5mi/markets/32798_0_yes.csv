@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67483,38.55322,-97.19856,Tampa,KS,Kansas,True,,655.0,2.9,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago,"(38.55322, -97.19856)",6.273954105028543,655.0,32798_0_yes,38.62078584423767,-97.27616995721922,5.0

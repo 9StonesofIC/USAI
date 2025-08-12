@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59853,48.0571,-115.81522,Noxon,MT,Montana,True,,699.0,0.9,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver,"(48.0571, -115.81522)",17.353910973824895,9853.0,3351_0_yes,48.1671861442415,-115.47709818067216,20.0
+59923,48.26996,-115.31073,Libby,MT,Montana,True,,9154.0,2.5,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver,"(48.26996, -115.31073)",10.444328014603428,9853.0,3351_0_yes,48.1671861442415,-115.47709818067216,20.0

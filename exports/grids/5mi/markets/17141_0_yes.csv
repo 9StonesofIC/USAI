@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79847,31.78975,-104.99032,Salt Flat,TX,Texas,True,,90.0,0.0,48109,Culberson,"{""48109"": 54.4, ""48229"": 45.6}",Culberson|Hudspeth,48109|48229,False,False,America/Denver,"(31.78975, -104.99032)",3.1884168705783673,90.0,17141_0_yes,31.81159121134397,-104.94248957788488,5.0

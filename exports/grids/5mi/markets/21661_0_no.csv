@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92236,33.70276,-116.07254,Coachella,CA,California,True,,45975.0,287.0,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.70276, -116.07254)",4.839608373161835,45975.0,21661_0_no,33.63272178277015,-116.07365990035724,5.0

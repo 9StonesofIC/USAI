@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86332,34.30403,-112.61809,Kirkland,AZ,Arizona,True,,2191.0,1.6,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.30403, -112.61809)",4.79791562608994,2191.0,23335_0_no,34.355612947305055,-112.6743856978454,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94508,38.57909,-122.44451,Angwin,CA,California,True,,4083.0,98.4,6055,Napa,"{""06055"": 100}",Napa,06055,False,False,America/Los_Angeles,"(38.57909, -122.44451)",4.5988532790791075,4952.0,32934_0_yes,38.64063891955083,-122.41208561706522,5.0
+94567,38.66342,-122.4349,Pope Valley,CA,California,True,,869.0,4.6,6055,Napa,"{""06055"": 100}",Napa,06055,False,False,America/Los_Angeles,"(38.66342, -122.4349)",1.998248337271331,4952.0,32934_0_yes,38.64063891955083,-122.41208561706522,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92254,33.54371,-115.99995,Mecca,CA,California,True,,8336.0,67.2,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.54371, -115.99995)",1.3409712105641276,8336.0,21336_0_yes,33.56009033490472,-115.98745933318529,5.0

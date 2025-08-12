@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83012,43.7073,-110.75036,Moose,WY,Wyoming,True,,31.0,0.1,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.7073, -110.75036)",3.648034669260783,31.0,43650_0_yes,43.702183219878776,-110.82305240427355,5.0

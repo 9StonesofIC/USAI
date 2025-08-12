@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56630,47.74432,-94.49852,Blackduck,MN,Minnesota,True,,2255.0,2.8,27007,Beltrami,"{""27007"": 71.1, ""27061"": 28.9}",Beltrami|Itasca,27007|27061,False,False,America/Chicago,"(47.74432, -94.49852)",6.379020093486118,2255.0,13017_0_no,47.711773858354185,-94.37007617808383,10.0

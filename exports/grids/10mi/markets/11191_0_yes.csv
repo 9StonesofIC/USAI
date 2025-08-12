@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57339,44.11233,-99.47862,Fort Thompson,SD,South Dakota,True,,1547.0,11.0,46017,Buffalo,"{""46017"": 100}",Buffalo,46017,False,False,America/Chicago,"(44.11233, -99.47862)",9.214090348086621,3158.0,11191_0_yes,44.10449721124064,-99.6640271307094,10.0
+57548,44.08429,-99.62373,Lower Brule,SD,South Dakota,True,,1611.0,6.5,46085,Lyman,"{""46085"": 100}",Lyman,46085,False,False,America/Chicago,"(44.08429, -99.62373)",2.4388340934211317,3158.0,11191_0_yes,44.10449721124064,-99.6640271307094,10.0

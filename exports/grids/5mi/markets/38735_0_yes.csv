@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50225,41.3823,-93.27103,Pleasantville,IA,Iowa,True,,3319.0,14.9,19125,Marion,"{""19125"": 84.59, ""19181"": 15.41}",Marion|Warren,19125|19181,False,False,America/Chicago,"(41.3823, -93.27103)",1.222081007992796,3319.0,38735_0_yes,41.37000785547726,-93.2540814582231,5.0

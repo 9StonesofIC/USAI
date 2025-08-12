@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87321,35.06791,-108.40638,Ramah,NM,New Mexico,True,,2419.0,2.0,35006,Cibola,"{""35006"": 70.2, ""35031"": 29.8}",Cibola|McKinley,35006|35031,False,False,America/Denver,"(35.06791, -108.40638)",4.47828918775155,2419.0,24672_0_yes,35.00516644726285,-108.42623272592498,5.0

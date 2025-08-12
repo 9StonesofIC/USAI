@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89832,41.98001,-116.19537,Owyhee,NV,Nevada,True,,1079.0,2.4,32007,Elko,"{""32007"": 66.92, ""16073"": 33.08}",Elko|Owyhee,32007|16073,False,False,America/Los_Angeles,"(41.98001, -116.19537)",11.496798086996183,1079.0,10185_0_yes,42.105849328887295,-116.04877761858856,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73951,36.95004,-101.05463,Tyrone,OK,Oklahoma,True,,1403.0,6.5,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago,"(36.95004, -101.05463)",0.7538507658467063,1403.0,29244_0_no,36.95706296298335,-101.06507870707244,5.0

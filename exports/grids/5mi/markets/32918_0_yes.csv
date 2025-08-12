@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96133,38.63181,-119.50423,Topaz,CA,California,True,,136.0,4.0,6051,Mono,"{""06051"": 100}",Mono,06051,False,False,America/Los_Angeles,"(38.63181, -119.50423)",2.7180825387994356,136.0,32918_0_yes,38.63830253607472,-119.45455920216422,5.0

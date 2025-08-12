@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27976,36.48185,-76.34005,South Mills,NC,North Carolina,True,,4714.0,15.5,37029,Camden,"{""37029"": 100}",Camden,37029,False,False,America/New_York,"(36.48185, -76.34005)",3.95862722185556,4714.0,28124_0_no,36.50361281233176,-76.40597552779386,5.0

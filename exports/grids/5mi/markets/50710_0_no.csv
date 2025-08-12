@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55722,47.28253,-93.4338,Coleraine,MN,Minnesota,True,,902.0,285.0,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.28253, -93.4338)",3.6038898701315087,21044.0,50710_0_no,47.23299925381147,-93.45789075241623,5.0
+55744,47.23306,-93.51299,Grand Rapids,MN,Minnesota,True,,20142.0,32.5,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.23306, -93.51299)",2.585022569968526,21044.0,50710_0_no,47.23299925381147,-93.45789075241623,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66094,39.95912,-95.34298,White Cloud,KS,Kansas,True,,325.0,2.6,20013,Brown,"{""20013"": 52.28, ""20043"": 47.72}",Brown|Doniphan,20013|20043,False,False,America/Chicago,"(39.95912, -95.34298)",2.640268310857933,325.0,35930_0_no,39.99569510470367,-95.32853675840424,5.0

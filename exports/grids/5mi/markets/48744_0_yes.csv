@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49816,46.27517,-86.89863,Chatham,MI,Michigan,True,,746.0,5.0,26003,Alger,"{""26003"": 100}",Alger,26003,False,False,America/Detroit,"(46.27517, -86.89863)",3.9559331585613564,1649.0,48744_0_yes,46.28647882447233,-86.97984099554208,5.0
+49826,46.32316,-87.04567,Rumely,MI,Michigan,True,,78.0,2.1,26003,Alger,"{""26003"": 100}",Alger,26003,False,False,America/Detroit,"(46.32316, -87.04567)",4.036843953132803,1649.0,48744_0_yes,46.28647882447233,-86.97984099554208,5.0
+49891,46.23206,-87.02828,Trenary,MI,Michigan,True,,825.0,4.4,26003,Alger,"{""26003"": 100}",Alger,26003,False,False,America/Detroit,"(46.23206, -87.02828)",4.414969190794405,1649.0,48744_0_yes,46.28647882447233,-86.97984099554208,5.0

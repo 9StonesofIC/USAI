@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64648,39.98517,-93.79922,Jamesport,MO,Missouri,True,,2372.0,7.9,29061,Daviess,"{""29061"": 78.16, ""29079"": 14.86, ""29117"": 6.98}",Daviess|Grundy|Livingston,29061|29079|29117,False,False,America/Chicago,"(39.98517, -93.79922)",1.3178210445311,2372.0,35922_0_no,39.994469521532885,-93.8209548088432,5.0

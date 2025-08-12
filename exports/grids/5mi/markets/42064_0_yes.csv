@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52072,42.92022,-91.38025,Saint Olaf,IA,Iowa,True,,417.0,4.8,19043,Clayton,"{""19043"": 100}",Clayton,19043,False,False,America/Chicago,"(42.92022, -91.38025)",4.972190725095209,417.0,42064_0_yes,42.96138241960015,-91.46088375077927,5.0

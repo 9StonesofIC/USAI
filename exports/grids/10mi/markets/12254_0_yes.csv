@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98948,46.23067,-120.37168,Toppenish,WA,Washington,True,,12601.0,14.5,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.23067, -120.37168)",4.7986850542392325,12601.0,12254_0_yes,46.168069449601695,-120.41513783727446,10.0

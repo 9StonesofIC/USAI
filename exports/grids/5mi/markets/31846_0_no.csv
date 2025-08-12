@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81057,38.12525,-102.89675,McClave,CO,Colorado,True,,323.0,2.6,8011,Bent,"{""08011"": 100}",Bent,08011,False,False,America/Denver,"(38.12525, -102.89675)",0.5092301837598534,323.0,31846_0_no,38.11802331736982,-102.89491039367974,5.0

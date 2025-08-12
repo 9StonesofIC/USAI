@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85736,31.87623,-111.37472,Tucson,AZ,Arizona,True,,4404.0,4.0,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix,"(31.87623, -111.37472)",3.831528097148885,4404.0,17513_0_no,31.88842539565837,-111.31101196050297,5.0

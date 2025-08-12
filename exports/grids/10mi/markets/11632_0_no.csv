@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82837,44.72549,-106.28169,Leiter,WY,Wyoming,True,,33.0,0.9,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver,"(44.72549, -106.28169)",11.570346999257689,33.0,11632_0_no,44.83974288635785,-106.10920176700182,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96122,39.82082,-120.47652,Portola,CA,California,True,,3594.0,21.7,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.82082, -120.47652)",5.124399796428256,3895.0,35750_0_no,39.87115487103083,-120.40557359136088,5.0
+96129,39.81848,-120.35346,Beckwourth,CA,California,True,,301.0,1.0,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.81848, -120.35346)",4.570410553498437,3895.0,35750_0_no,39.87115487103083,-120.40557359136088,5.0

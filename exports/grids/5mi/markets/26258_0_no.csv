@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74881,35.72136,-97.08264,Wellston,OK,Oklahoma,True,,5358.0,12.8,40081,Lincoln,"{""40081"": 87.56, ""40083"": 12.44}",Lincoln|Logan,40081|40083,False,False,America/Chicago,"(35.72136, -97.08264)",6.205804490429498,5358.0,26258_0_no,35.649341334962095,-97.01656237431877,5.0

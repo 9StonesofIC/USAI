@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52171,43.07451,-92.04808,Waucoma,IA,Iowa,True,,1144.0,5.4,19065,Fayette,"{""19065"": 50.39, ""19037"": 31.18, ""19191"": 18.43}",Fayette|Chickasaw|Winneshiek,19065|19037|19191,False,False,America/Chicago,"(43.07451, -92.04808)",5.048764031658527,1144.0,42340_0_no,43.03440191135224,-92.13167080782532,5.0

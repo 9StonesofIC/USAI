@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43517,41.44003,-84.72833,Edgerton,OH,Ohio,True,,3855.0,23.3,39171,Williams,"{""39171"": 59.53, ""39039"": 40.47}",Williams|Defiance,39171|39039,False,False,America/New_York,"(41.44003, -84.72833)",3.229513948182815,3855.0,38971_0_no,41.43528082517925,-84.66630406746688,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50461,43.29995,-92.81412,Osage,IA,Iowa,True,,5488.0,11.9,19131,Mitchell,"{""19131"": 99.84, ""19067"": 0.16}",Mitchell|Floyd,19131|19067,False,False,America/Chicago,"(43.29995, -92.81412)",4.960863306671792,5488.0,42669_0_yes,43.25218634182776,-92.88775092211452,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28733,35.43536,-83.78403,Fontana Dam,NC,North Carolina,True,,34.0,1.1,37075,Graham,"{""37075"": 100}",Graham,37075,False,False,America/New_York,"(35.43536, -83.78403)",4.254171485058845,34.0,25851_0_no,35.49462258935348,-83.76352292170246,5.0

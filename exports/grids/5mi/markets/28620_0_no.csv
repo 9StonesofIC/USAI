@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87575,36.64203,-106.59341,Tierra Amarilla,NM,New Mexico,True,,1012.0,1.9,35039,Rio Arriba,"{""35039"": 100}",Rio Arriba,35039,False,False,America/Denver,"(36.64203, -106.59341)",2.9106229533608214,1012.0,28620_0_no,36.67129548374533,-106.55563947208029,5.0

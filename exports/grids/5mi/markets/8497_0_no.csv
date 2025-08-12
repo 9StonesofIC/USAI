@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34744,28.2954,-81.34675,Kissimmee,FL,Florida,True,,60555.0,703.0,12097,Osceola,"{""12097"": 100}",Osceola,12097,False,False,America/New_York,"(28.2954, -81.34675)",4.827574619295545,86079.0,8497_0_no,28.241939572410736,-81.29567109348395,5.0
+34769,28.24366,-81.29412,Saint Cloud,FL,Florida,True,,25524.0,931.5,12097,Osceola,"{""12097"": 100}",Osceola,12097,False,False,America/New_York,"(28.24366, -81.29412)",0.15180154042750343,86079.0,8497_0_no,28.241939572410736,-81.29567109348395,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61863,39.90575,-88.28194,Pesotum,IL,Illinois,True,,764.0,9.0,17019,Champaign,"{""17019"": 100}",Champaign,17019,False,False,America/Chicago,"(39.90575, -88.28194)",4.623106119959384,6547.0,35579_0_no,39.8450841344537,-88.2451601116798,5.0
+61953,39.79803,-88.28991,Tuscola,IL,Illinois,True,,5783.0,17.9,17041,Douglas,"{""17041"": 100}",Douglas,17041,False,False,America/Chicago,"(39.79803, -88.28991)",4.0260635095651,6547.0,35579_0_no,39.8450841344537,-88.2451601116798,5.0

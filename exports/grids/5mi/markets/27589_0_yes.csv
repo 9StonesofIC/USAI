@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74365,36.29072,-95.05461,Salina,OK,Oklahoma,True,,4478.0,21.0,40097,Mayes,"{""40097"": 74.89, ""40041"": 25.11}",Mayes|Delaware,40097|40041,False,False,America/Chicago,"(36.29072, -95.05461)",1.2558684587071505,4478.0,27589_0_yes,36.30020226462203,-95.07385006728056,5.0

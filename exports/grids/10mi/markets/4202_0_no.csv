@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36346,31.55783,-85.9331,Jack,AL,Alabama,True,,1379.0,10.0,1031,Coffee,"{""01031"": 100}",Coffee,01031,False,False,America/Chicago,"(31.55783, -85.9331)",6.203744728736462,4578.0,4202_0_no,31.48302793028661,-85.87484014358672,10.0
+36351,31.41469,-85.90596,New Brockton,AL,Alabama,True,,3199.0,12.5,1031,Coffee,"{""01031"": 100}",Coffee,01031,False,False,America/Chicago,"(31.41469, -85.90596)",5.0654937324709675,4578.0,4202_0_no,31.48302793028661,-85.87484014358672,10.0

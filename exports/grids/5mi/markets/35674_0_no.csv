@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80468,39.91447,-106.10979,Parshall,CO,Colorado,True,,322.0,0.4,8049,Grand,"{""08049"": 100}",Grand,08049,False,False,America/Denver,"(39.91447, -106.10979)",3.7937960068857772,322.0,35674_0_no,39.85956491936535,-106.11055406854578,5.0

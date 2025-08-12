@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28748,35.65492,-82.76032,Leicester,NC,North Carolina,True,,11764.0,49.3,37021,Buncombe,"{""37021"": 89.05, ""37115"": 10.95}",Buncombe|Madison,37021|37115,False,False,America/New_York,"(35.65492, -82.76032)",2.5321906049270253,11764.0,26178_0_no,35.638855337026456,-82.80085566918814,5.0

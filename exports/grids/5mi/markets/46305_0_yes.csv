@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83611,45.03935,-115.24709,Cascade,ID,Idaho,True,,2159.0,0.3,16085,Valley,"{""16085"": 60.26, ""16049"": 39.74}",Valley|Idaho,16085|16049,False,False,America/Boise,"(45.03935, -115.24709)",3.0852120518855095,2159.0,46305_0_yes,45.0092782080564,-115.20038920331388,5.0

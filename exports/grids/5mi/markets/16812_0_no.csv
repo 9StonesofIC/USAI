@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85635,31.55322,-110.17304,Sierra Vista,AZ,Arizona,True,,33427.0,189.6,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix,"(31.55322, -110.17304)",3.0819539606935895,33427.0,16812_0_no,31.597460381740408,-110.16635371937126,5.0

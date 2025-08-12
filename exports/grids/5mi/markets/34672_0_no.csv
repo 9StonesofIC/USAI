@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66016,39.47038,-95.23158,Cummings,KS,Kansas,True,,636.0,7.8,20005,Atchison,"{""20005"": 100}",Atchison,20005,False,False,America/Chicago,"(39.47038, -95.23158)",4.081620729439059,636.0,34672_0_no,39.41609191847044,-95.20141845713258,5.0

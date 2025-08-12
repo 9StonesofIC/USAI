@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98596,46.49556,-122.95364,Winlock,WA,Washington,True,,7579.0,33.0,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.49556, -122.95364)",4.687765136257227,7579.0,49453_0_no,46.53662370455994,-123.03212404283708,5.0

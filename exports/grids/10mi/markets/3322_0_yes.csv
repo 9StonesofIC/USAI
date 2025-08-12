@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32066,30.04423,-83.22495,Mayo,FL,Florida,True,,7455.0,10.3,12067,Lafayette,"{""12067"": 100}",Lafayette,12067,False,False,America/New_York,"(30.04423, -83.22495)",9.050163293726616,7455.0,3322_0_yes,30.17501144941577,-83.21652339631682,10.0

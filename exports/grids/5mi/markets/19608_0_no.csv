@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92249,32.72606,-115.48218,Heber,CA,California,True,,8459.0,164.4,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.72606, -115.48218)",2.518241097288165,8459.0,19608_0_no,32.76181570426425,-115.47378091387746,5.0

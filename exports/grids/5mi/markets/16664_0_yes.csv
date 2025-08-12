@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31798,31.64117,-83.04333,Wray,GA,Georgia,True,,812.0,3.4,13155,Irwin,"{""13155"": 53.32, ""13069"": 34.22, ""13017"": 12.46}",Irwin|Coffee|Ben Hill,13155|13069|13017,False,False,America/New_York,"(31.64117, -83.04333)",2.5000803089284043,812.0,16664_0_yes,31.651974498415573,-83.0838953373816,5.0

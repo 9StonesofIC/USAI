@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04238,44.20785,-70.37937,Hebron,ME,Maine,True,,1600.0,30.1,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.20785, -70.37937)",2.624356653475981,1600.0,44627_0_yes,44.24573059521822,-70.37548550468921,5.0

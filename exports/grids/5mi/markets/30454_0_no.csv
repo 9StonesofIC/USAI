@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40461,37.59014,-84.40849,Paint Lick,KY,Kentucky,True,,3495.0,24.2,21079,Garrard,"{""21079"": 65.15, ""21151"": 34.85}",Garrard|Madison,21079|21151,False,False,America/New_York,"(37.59014, -84.40849)",6.574551159672587,3495.0,30454_0_no,37.52408301284963,-84.49488568499912,5.0

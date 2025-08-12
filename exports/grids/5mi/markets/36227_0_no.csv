@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63533,40.20471,-92.39608,Brashear,MO,Missouri,True,,864.0,5.3,29001,Adair,"{""29001"": 91.18, ""29103"": 8.82}",Adair|Knox,29001|29103,False,False,America/Chicago,"(40.20471, -92.39608)",4.993053043665751,979.0,36227_0_no,40.1382008312569,-92.4330677585433,5.0
+63540,40.09782,-92.40792,Gibbs,MO,Missouri,True,,115.0,3.2,29001,Adair,"{""29001"": 100}",Adair,29001,False,False,America/Chicago,"(40.09782, -92.40792)",3.0902926942741833,979.0,36227_0_no,40.1382008312569,-92.4330677585433,5.0

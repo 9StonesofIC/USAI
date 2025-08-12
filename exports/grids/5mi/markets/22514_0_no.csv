@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35541,34.07936,-87.1801,Arley,AL,Alabama,True,,3399.0,19.8,1133,Winston,"{""01133"": 99.02, ""01043"": 0.98}",Winston|Cullman,01133|01043,False,False,America/Chicago,"(34.07936, -87.1801)",5.397880781373848,3399.0,22514_0_no,34.047497679401424,-87.26620593459695,5.0

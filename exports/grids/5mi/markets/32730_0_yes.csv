@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41052,38.65914,-84.77777,Jonesville,KY,Kentucky,True,,65.0,2.4,21081,Grant,"{""21081"": 53.1, ""21187"": 46.9}",Grant|Owen,21081|21187,False,False,America/New_York,"(38.65914, -84.77777)",4.917941189687028,65.0,32730_0_yes,38.610864560145885,-84.71081013517757,5.0

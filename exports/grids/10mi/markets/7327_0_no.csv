@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89007,36.68605,-114.22915,Bunkerville,NV,Nevada,True,,1430.0,2.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(36.68605, -114.22915)",9.61802896306809,4566.0,7327_0_no,36.74179609846063,-114.38826774613902,10.0
+89021,36.6255,-114.47863,Logandale,NV,Nevada,True,,3136.0,23.5,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(36.6255, -114.47863)",9.46757592951593,4566.0,7327_0_no,36.74179609846063,-114.38826774613902,10.0

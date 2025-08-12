@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84522,38.90991,-111.20987,Emery,UT,Utah,True,,344.0,1.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(38.90991, -111.20987)",4.222001645247311,344.0,33490_0_no,38.84923127443914,-111.2006069070964,5.0

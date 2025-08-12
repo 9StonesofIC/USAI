@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82055,41.3483,-106.18191,Centennial,WY,Wyoming,True,,292.0,1.9,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver,"(41.3483, -106.18191)",5.632605606396368,292.0,38777_0_no,41.30850709619228,-106.27665806635136,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47987,40.11916,-87.23428,Veedersburg,IN,Indiana,True,,4182.0,14.0,18045,Fountain,"{""18045"": 100}",Fountain,18045,False,False,America/Indiana/Indianapolis,"(40.11916, -87.23428)",4.308691983689185,4182.0,35910_0_yes,40.06152090260342,-87.26539296223788,5.0

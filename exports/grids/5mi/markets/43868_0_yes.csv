@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56137,43.83246,-95.32424,Heron Lake,MN,Minnesota,True,,1084.0,3.7,27063,Jackson,"{""27063"": 65.52, ""27033"": 34.48}",Jackson|Cottonwood,27063|27033,False,False,America/Chicago,"(43.83246, -95.32424)",2.778896796907893,1084.0,43868_0_yes,43.83347517581985,-95.37997707579324,5.0

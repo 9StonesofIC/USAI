@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89442,39.69511,-119.35082,Wadsworth,NV,Nevada,True,,1048.0,1.9,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles,"(39.69511, -119.35082)",3.9032081101025486,1048.0,35430_0_no,39.725317349429744,-119.28876615392366,5.0

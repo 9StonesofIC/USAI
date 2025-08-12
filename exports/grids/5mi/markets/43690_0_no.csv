@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97449,43.57571,-124.08581,Lakeside,OR,Oregon,True,,1955.0,16.7,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles,"(43.57571, -124.08581)",4.89690773596049,1955.0,43690_0_no,43.64142465868844,-124.12247169856605,5.0

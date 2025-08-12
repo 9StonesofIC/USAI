@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78133,29.88119,-98.24624,Canyon Lake,TX,Texas,True,,19405.0,99.2,48091,Comal,"{""48091"": 100}",Comal,48091,False,False,America/Chicago,"(29.88119, -98.24624)",2.7101678408314274,19405.0,12527_0_no,29.84849436855911,-98.27122794532082,5.0

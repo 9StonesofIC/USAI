@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74560,34.64717,-95.74679,Pittsburg,OK,Oklahoma,True,,482.0,0.9,40121,Pittsburg,"{""40121"": 79.5, ""40005"": 20.5}",Pittsburg|Atoka,40121|40005,False,False,America/Chicago,"(34.64717, -95.74679)",2.177730947694879,482.0,23912_0_no,34.63354292626861,-95.78133394432048,5.0

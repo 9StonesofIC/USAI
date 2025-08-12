@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57756,43.23729,-102.47544,Manderson,SD,South Dakota,True,,721.0,4.2,46102,Oglala Lakota,"{""46102"": 100}",Oglala Lakota,46102,False,False,America/Denver,"(43.23729, -102.47544)",4.074670211963661,721.0,42717_0_yes,43.2604272765365,-102.40096695186004,5.0

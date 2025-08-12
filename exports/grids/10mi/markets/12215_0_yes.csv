@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59313,46.27497,-104.25016,Baker,MT,Montana,True,,2427.0,1.0,30025,Fallon,"{""30025"": 93.63, ""30011"": 6.37}",Fallon|Carter,30025|30011,False,False,America/Denver,"(46.27497, -104.25016)",10.2679106144885,2427.0,12215_0_yes,46.13845494245924,-104.16530835226514,10.0

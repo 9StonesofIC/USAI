@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67012,37.66175,-96.54701,Beaumont,KS,Kansas,True,,29.0,0.6,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago,"(37.66175, -96.54701)",5.090344442227757,154.0,30843_0_no,37.67823119629678,-96.45629330334634,5.0
+67122,37.62015,-96.42392,Piedmont,KS,Kansas,True,,125.0,0.4,20073,Greenwood,"{""20073"": 57.85, ""20049"": 42.15}",Greenwood|Elk,20073|20049,False,False,America/Chicago,"(37.62015, -96.42392)",4.386440732795749,154.0,30843_0_no,37.67823119629678,-96.45629330334634,5.0

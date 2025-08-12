@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30541,34.91164,-84.53482,Epworth,GA,Georgia,True,,1326.0,6.9,13111,Fannin,"{""13111"": 100}",Fannin,13111,False,False,America/New_York,"(34.91164, -84.53482)",2.774508244460834,1498.0,24520_0_no,34.91541286204546,-84.5835729835643,5.0
+30708,34.93985,-84.66754,Cisco,GA,Georgia,True,,172.0,1.9,13213,Murray,"{""13213"": 100}",Murray,13213,False,False,America/New_York,"(34.93985, -84.66754)",5.047352118281841,1498.0,24520_0_no,34.91541286204546,-84.5835729835643,5.0

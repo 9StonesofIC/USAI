@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56178,44.28593,-96.12997,Tyler,MN,Minnesota,True,,1846.0,8.5,27081,Lincoln,"{""27081"": 85.62, ""27083"": 14.38}",Lincoln|Lyon,27081|27083,False,False,America/Chicago,"(44.28593, -96.12997)",2.3365783105146636,1846.0,44755_0_yes,44.26848315921583,-96.17043211535396,5.0

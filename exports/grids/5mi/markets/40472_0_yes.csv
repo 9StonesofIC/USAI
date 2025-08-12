@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13752,42.17257,-74.90379,Delancey,NY,New York,True,,886.0,6.3,36025,Delaware,"{""36025"": 100}",Delaware,36025,False,False,America/New_York,"(42.17257, -74.90379)",3.6177380164594104,1710.0,40472_0_yes,42.22331653029409,-74.88637919731596,5.0
+13782,42.17304,-74.9836,Hamden,NY,New York,True,,824.0,8.9,36025,Delaware,"{""36025"": 100}",Delaware,36025,False,False,America/New_York,"(42.17304, -74.9836)",6.068880646267416,1710.0,40472_0_yes,42.22331653029409,-74.88637919731596,5.0

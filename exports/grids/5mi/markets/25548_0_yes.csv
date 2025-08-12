@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37342,35.38175,-85.94937,Hillsboro,TN,Tennessee,True,,4286.0,24.2,47031,Coffee,"{""47031"": 100}",Coffee,47031,False,False,America/Chicago,"(35.38175, -85.94937)",4.339747894848539,4286.0,25548_0_yes,35.423758553064324,-86.00665662701721,5.0

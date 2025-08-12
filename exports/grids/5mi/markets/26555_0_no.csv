@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72421,35.77851,-90.97869,Cash,AR,Arkansas,True,,435.0,2.1,5031,Craighead,"{""05031"": 92.32, ""05111"": 7.68}",Craighead|Poinsett,05031|05111,False,False,America/Chicago,"(35.77851, -90.97869)",3.7588070175246444,435.0,26555_0_no,35.78979679870729,-90.9130879128434,5.0

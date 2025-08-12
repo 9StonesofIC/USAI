@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65466,37.2113,-91.38645,Eminence,MO,Missouri,True,,2031.0,4.5,29203,Shannon,"{""29203"": 100}",Shannon,29203,False,False,America/Chicago,"(37.2113, -91.38645)",5.63822305618402,2031.0,29537_0_yes,37.1671179475258,-91.47257059066526,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14809,42.41961,-77.44355,Avoca,NY,New York,True,,2676.0,18.2,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.41961, -77.44355)",3.965231795235183,2951.0,41063_0_no,42.44262956506415,-77.37232499172283,5.0
+14856,42.37737,-77.36944,Kanona,NY,New York,True,,275.0,614.5,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.37737, -77.36944)",4.51140776883689,2951.0,41063_0_no,42.44262956506415,-77.37232499172283,5.0

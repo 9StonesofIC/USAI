@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98610,45.77765,-122.01401,Carson,WA,Washington,True,,3199.0,8.7,53059,Skamania,"{""53059"": 100}",Skamania,53059,False,False,America/Los_Angeles,"(45.77765, -122.01401)",8.229106460173922,3199.0,12116_0_yes,45.88158620344964,-122.09747512127043,10.0

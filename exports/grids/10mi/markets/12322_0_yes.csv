@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49959,46.46987,-89.99803,Ramsay,MI,Michigan,True,,334.0,128.7,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.46987, -89.99803)",9.651578833262212,2480.0,12322_0_yes,46.40157940121859,-89.82121093502981,10.0
+49968,46.50199,-89.88314,Wakefield,MI,Michigan,True,,2146.0,3.1,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.50199, -89.88314)",7.538074349905301,2480.0,12322_0_yes,46.40157940121859,-89.82121093502981,10.0

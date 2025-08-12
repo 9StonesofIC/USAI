@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82727,44.33595,-105.19426,Rozet,WY,Wyoming,True,,1568.0,1.4,56005,Campbell,"{""56005"": 94.97, ""56011"": 5.03}",Campbell|Crook,56005|56011,False,False,America/Denver,"(44.33595, -105.19426)",4.721998171889232,1568.0,44800_0_yes,44.27648637515927,-105.24133248861786,5.0

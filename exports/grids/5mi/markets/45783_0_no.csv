@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12901,44.70842,-73.47465,Plattsburgh,NY,New York,True,,33048.0,180.7,36019,Clinton,"{""36019"": 100}",Clinton,36019,False,False,America/New_York,"(44.70842, -73.47465)",3.224810657342121,36613.0,45783_0_no,44.75500001507813,-73.47879940040922,5.0
+12992,44.81822,-73.51582,West Chazy,NY,New York,True,,3565.0,20.9,36019,Clinton,"{""36019"": 100}",Clinton,36019,False,False,America/New_York,"(44.81822, -73.51582)",4.73031777123196,36613.0,45783_0_no,44.75500001507813,-73.47879940040922,5.0

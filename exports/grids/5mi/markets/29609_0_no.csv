@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81326,37.14635,-108.11525,Hesperus,CO,Colorado,True,,2663.0,2.5,8067,La Plata,"{""08067"": 100}",La Plata,08067,False,False,America/Denver,"(37.14635, -108.11525)",3.3000059822689267,2663.0,29609_0_no,37.10737228200831,-108.08063004710294,5.0

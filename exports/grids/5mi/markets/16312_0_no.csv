@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39862,31.45694,-84.51615,Leary,GA,Georgia,True,,1017.0,2.7,13037,Calhoun,"{""13037"": 58.51, ""13007"": 41.49}",Calhoun|Baker,13037|13007,False,False,America/New_York,"(31.45694, -84.51615)",3.8656061122955827,1017.0,16312_0_no,31.43536729598302,-84.45564208841799,5.0

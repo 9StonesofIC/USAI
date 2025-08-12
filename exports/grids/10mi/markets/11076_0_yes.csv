@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83450,43.8463,-112.41356,Terreton,ID,Idaho,True,,960.0,2.9,16051,Jefferson,"{""16051"": 100}",Jefferson,16051,False,False,America/Boise,"(43.8463, -112.41356)",8.872215458097163,960.0,11076_0_yes,43.83767928027184,-112.59119439432128,10.0

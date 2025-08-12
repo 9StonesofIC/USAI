@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76950,30.43439,-100.56564,Sonora,TX,Texas,True,,3824.0,0.8,48435,Sutton,"{""48435"": 79.32, ""48137"": 13.25, ""48465"": 7.43}",Sutton|Edwards|Val Verde,48435|48137|48465,False,False,America/Chicago,"(30.43439, -100.56564)",5.409518204058214,3824.0,13965_0_yes,30.502866555067865,-100.52160171467894,5.0

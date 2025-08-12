@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27508,35.95882,-78.25105,Bunn,NC,North Carolina,True,,2092.0,76.3,37069,Franklin,"{""37069"": 100}",Franklin,37069,False,False,America/New_York,"(35.95882, -78.25105)",3.02431839218716,2092.0,26834_0_yes,35.99775034217789,-78.22632409659718,5.0

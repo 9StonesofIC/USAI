@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75478,33.17276,-95.35226,Saltillo,TX,Texas,True,,947.0,6.5,48223,Hopkins,"{""48223"": 91.57, ""48159"": 8.43}",Hopkins|Franklin,48223|48159,False,False,America/Chicago,"(33.17276, -95.35226)",3.3074743573322314,947.0,20519_0_no,33.18316403983455,-95.40808642055492,5.0

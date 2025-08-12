@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49031,41.89883,-85.98849,Cassopolis,MI,Michigan,True,,8224.0,28.1,26027,Cass,"{""26027"": 100}",Cass,26027,False,False,America/Detroit,"(41.89883, -85.98849)",3.0853777353850873,8224.0,39921_0_yes,41.94315332179973,-85.98118711750567,5.0

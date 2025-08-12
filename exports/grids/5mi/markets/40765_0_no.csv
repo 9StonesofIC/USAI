@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14714,42.28368,-78.23493,Black Creek,NY,New York,True,,604.0,19.7,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.28368, -78.23493)",1.7306726496971245,998.0,40765_0_no,42.29861799895773,-78.26211075032762,5.0
+14717,42.36258,-78.18235,Caneadea,NY,New York,True,,394.0,4.4,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.36258, -78.18235)",6.010726440310033,998.0,40765_0_no,42.29861799895773,-78.26211075032762,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58440,46.27941,-99.16324,Fredonia,ND,North Dakota,True,,93.0,0.2,38047,Logan,"{""38047"": 53.73, ""38051"": 46.27}",Logan|McIntosh,38047|38051,False,False,America/Chicago,"(46.27941, -99.16324)",11.498998094094214,93.0,12344_0_yes,46.41843454917787,-99.03069935614,10.0

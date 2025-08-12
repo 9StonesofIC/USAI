@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82217,41.76223,-104.17504,Hawk Springs,WY,Wyoming,True,,27.0,0.1,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver,"(41.76223, -104.17504)",6.0689919854995376,27.0,39710_0_yes,41.81360760201481,-104.07948898272664,5.0

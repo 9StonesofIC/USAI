@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50703,42.54817,-92.28195,Waterloo,IA,Iowa,True,,18906.0,78.3,19013,Black Hawk,"{""19013"": 100}",Black Hawk,19013,False,False,America/Chicago,"(42.54817, -92.28195)",5.3760389078684065,18906.0,41441_0_no,42.600219574567966,-92.36048823589572,5.0

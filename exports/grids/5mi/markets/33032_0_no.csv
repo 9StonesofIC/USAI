@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40045,38.69376,-85.35641,Milton,KY,Kentucky,True,,3780.0,28.0,21223,Trimble,"{""21223"": 72.32, ""21041"": 27.68}",Trimble|Carroll,21223|21041,False,False,America/New_York,"(38.69376, -85.35641)",1.5646059112127806,3780.0,33032_0_no,38.68383309310746,-85.33033493563478,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97875,45.81481,-119.14898,Stanfield,OR,Oregon,True,,2885.0,19.1,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles,"(45.81481, -119.14898)",1.3213452756962072,2885.0,48020_0_no,45.809181964493405,-119.12275797111695,5.0

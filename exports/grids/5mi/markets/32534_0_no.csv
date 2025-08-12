@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84749,38.36687,-111.47667,Lyman,UT,Utah,True,,141.0,0.6,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver,"(38.36687, -111.47667)",3.336172818709033,141.0,32534_0_no,38.41461934395626,-111.4675196585171,5.0

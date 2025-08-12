@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95525,40.94845,-123.82629,Blue Lake,CA,California,True,,1403.0,5.8,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.94845, -123.82629)",1.6358773107312865,1403.0,37970_0_yes,40.960862803178905,-123.85298602276347,5.0

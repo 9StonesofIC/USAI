@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64084,39.38697,-94.0653,Rayville,MO,Missouri,True,,1437.0,10.3,29177,Ray,"{""29177"": 100}",Ray,29177,False,False,America/Chicago,"(39.38697, -94.0653)",4.442799457286399,9707.0,34371_0_yes,39.34264846477656,-94.00504299171791,5.0
+64085,39.33838,-93.95158,Richmond,MO,Missouri,True,,8270.0,19.9,29177,Ray,"{""29177"": 100}",Ray,29177,False,False,America/Chicago,"(39.33838, -93.95158)",2.872047380986467,9707.0,34371_0_yes,39.34264846477656,-94.00504299171791,5.0

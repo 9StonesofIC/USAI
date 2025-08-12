@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98271,48.09373,-122.23559,Marysville,WA,Washington,True,,28473.0,242.6,53061,Snohomish,"{""53061"": 100}",Snohomish,53061,False,False,America/Los_Angeles,"(48.09373, -122.23559)",4.80024027614984,28473.0,52496_0_no,48.12821625554992,-122.3259179434092,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88022,32.80238,-108.18766,Arenas Valley,NM,New Mexico,True,,1080.0,36.7,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(32.80238, -108.18766)",5.273692752797747,1536.0,19566_0_no,32.75687280619057,-108.26054327615095,5.0
+88065,32.71375,-108.30231,Tyrone,NM,New Mexico,True,,456.0,276.4,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(32.71375, -108.30231)",3.843184720623005,1536.0,19566_0_no,32.75687280619057,-108.26054327615095,5.0

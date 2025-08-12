@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58422,47.59853,-99.39531,Cathay,ND,North Dakota,True,,114.0,0.3,38103,Wells,"{""38103"": 100}",Wells,38103,False,False,America/Chicago,"(47.59853, -99.39531)",10.222463479103778,945.0,13029_0_no,47.72139483171416,-99.517687435776,10.0
+58438,47.66247,-99.57983,Fessenden,ND,North Dakota,True,,831.0,2.0,38103,Wells,"{""38103"": 100}",Wells,38103,False,False,America/Chicago,"(47.66247, -99.57983)",4.99283814397402,945.0,13029_0_no,47.72139483171416,-99.517687435776,10.0

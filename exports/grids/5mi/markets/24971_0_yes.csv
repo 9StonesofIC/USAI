@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79119,35.10876,-102.01968,Amarillo,TX,Texas,True,,18510.0,71.8,48381,Randall,"{""48381"": 100}",Randall,48381,False,False,America/Chicago,"(35.10876, -102.01968)",2.7625184468046844,18510.0,24971_0_yes,35.145529897572075,-102.03887893008338,5.0

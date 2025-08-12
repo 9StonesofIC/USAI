@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58274,47.49158,-97.48989,Portland,ND,North Dakota,True,,1025.0,3.0,38091,Steele,"{""38091"": 54.45, ""38097"": 45.55}",Steele|Traill,38091|38097,False,False,America/Chicago,"(47.49158, -97.48989)",4.021941335269439,1025.0,51283_0_no,47.52619151549968,-97.5591781295946,5.0

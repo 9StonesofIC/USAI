@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42037,37.15843,-88.18441,Dycusburg,KY,Kentucky,True,,61.0,422.7,21055,Crittenden,"{""21055"": 100}",Crittenden,21055,False,False,America/Chicago,"(37.15843, -88.18441)",4.684038346050886,2531.0,29499_0_no,37.09217094536379,-88.16642601258197,5.0
+42055,37.06959,-88.16765,Kuttawa,KY,Kentucky,True,,2470.0,21.3,21143,Lyon,"{""21143"": 100}",Lyon,21143,False,False,America/Chicago,"(37.06959, -88.16765)",1.5616528197201485,2531.0,29499_0_no,37.09217094536379,-88.16642601258197,5.0

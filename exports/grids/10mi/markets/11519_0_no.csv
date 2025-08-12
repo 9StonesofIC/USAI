@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97865,44.42949,-119.19192,Mount Vernon,OR,Oregon,True,,1511.0,1.6,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles,"(44.42949, -119.19192)",10.021041325403916,1511.0,11519_0_no,44.5734289417081,-119.16695464103252,10.0

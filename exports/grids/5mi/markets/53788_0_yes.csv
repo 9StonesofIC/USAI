@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58727,48.85542,-102.80479,Columbus,ND,North Dakota,True,,173.0,0.3,38013,Burke,"{""38013"": 100}",Burke,38013,False,False,America/Chicago,"(48.85542, -102.80479)",3.5638874684801793,173.0,53788_0_yes,48.905552030576985,-102.82324825931148,5.0

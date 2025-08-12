@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50622,42.67358,-92.33358,Denver,IA,Iowa,True,,3067.0,46.2,19017,Bremer,"{""19017"": 100}",Bremer,19017,False,False,America/Chicago,"(42.67358, -92.33358)",5.518727896638612,6573.0,41741_0_no,42.74495135109502,-92.284778785034,5.0
+50668,42.69087,-92.2265,Readlyn,IA,Iowa,True,,1118.0,12.8,19017,Bremer,"{""19017"": 100}",Bremer,19017,False,False,America/Chicago,"(42.69087, -92.2265)",4.7660120213208135,6573.0,41741_0_no,42.74495135109502,-92.284778785034,5.0
+50676,42.7943,-92.27895,Tripoli,IA,Iowa,True,,2388.0,16.4,19017,Bremer,"{""19017"": 100}",Bremer,19017,False,False,America/Chicago,"(42.7943, -92.27895)",3.4224598633114165,6573.0,41741_0_no,42.74495135109502,-92.284778785034,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56127,43.54892,-94.77261,Dunnell,MN,Minnesota,True,,539.0,3.8,27091,Martin,"{""27091"": 100}",Martin,27091,False,False,America/Chicago,"(43.54892, -94.77261)",2.3821543434420382,539.0,43273_0_yes,43.5433473995944,-94.7256687313741,5.0

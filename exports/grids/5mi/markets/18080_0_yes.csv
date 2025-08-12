@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36783,32.24085,-87.6081,Thomaston,AL,Alabama,True,,633.0,2.3,1091,Marengo,"{""01091"": 94.05, ""01131"": 5.95}",Marengo|Wilcox,01091|01131,False,False,America/Chicago,"(32.24085, -87.6081)",0.5963380245308143,633.0,18080_0_yes,32.235110343687346,-87.60047937531954,5.0

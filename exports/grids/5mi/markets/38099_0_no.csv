@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50801,41.07959,-94.39224,Creston,IA,Iowa,True,,9252.0,17.2,19175,Union,"{""19175"": 68.73, ""19003"": 20.52, ""19001"": 10.75}",Union|Adams|Adair,19175|19003|19001,False,False,America/Chicago,"(41.07959, -94.39224)",6.660943853336321,9252.0,38099_0_no,41.00883905505959,-94.30541401632554,5.0

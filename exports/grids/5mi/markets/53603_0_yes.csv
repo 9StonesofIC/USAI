@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98283,48.80137,-121.29997,Rockport,WA,Washington,True,,350.0,0.3,53073,Whatcom,"{""53073"": 95.8, ""53057"": 4.2}",Whatcom|Skagit,53073|53057,False,False,America/Los_Angeles,"(48.80137, -121.29997)",1.8908155726558182,350.0,53603_0_yes,48.77840939942289,-121.27736902609588,5.0

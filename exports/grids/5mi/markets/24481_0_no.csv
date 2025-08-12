@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28518,34.89678,-77.75569,Beulaville,NC,North Carolina,True,,9442.0,38.1,37061,Duplin,"{""37061"": 88.8, ""37133"": 11.2}",Duplin|Onslow,37061|37133,False,False,America/New_York,"(34.89678, -77.75569)",2.4689460232938716,9442.0,24481_0_no,34.91043664419632,-77.71542638107424,5.0

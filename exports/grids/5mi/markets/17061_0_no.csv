@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71406,31.73425,-93.50536,Belmont,LA,Louisiana,True,,138.0,6.6,22085,Sabine,"{""22085"": 100}",Sabine,22085,False,False,America/Chicago,"(31.73425, -93.50536)",0.36825345978335206,138.0,17061_0_no,31.731457615773504,-93.50002232733657,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54470,45.29419,-90.13852,Rib Lake,WI,Wisconsin,True,,2059.0,7.5,55119,Taylor,"{""55119"": 97.64, ""55099"": 2.36}",Taylor|Price,55119|55099,False,False,America/Chicago,"(45.29419, -90.13852)",1.4287818245579331,2059.0,46760_0_yes,45.27633465474708,-90.12369425015082,5.0

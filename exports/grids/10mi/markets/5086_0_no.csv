@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71277,32.94902,-92.55554,Spearsville,LA,Louisiana,True,,1314.0,4.7,22111,Union,"{""22111"": 100}",Union,22111,False,False,America/Chicago,"(32.94902, -92.55554)",4.487753672185203,1314.0,5086_0_no,32.94130016680591,-92.47869035004766,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83546,46.57326,-115.81115,Pierce,ID,Idaho,True,,384.0,3.6,16035,Clearwater,"{""16035"": 100}",Clearwater,16035,False,False,America/Los_Angeles,"(46.57326, -115.81115)",8.68575832777438,1165.0,12384_0_yes,46.44910556325224,-115.78250006585176,10.0
+83553,46.38365,-115.9038,Weippe,ID,Idaho,True,,781.0,2.8,16035,Clearwater,"{""16035"": 100}",Clearwater,16035,False,False,America/Los_Angeles,"(46.38365, -115.9038)",7.33747469809957,1165.0,12384_0_yes,46.44910556325224,-115.78250006585176,10.0

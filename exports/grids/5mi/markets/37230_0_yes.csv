@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69038,40.60932,-100.73703,Maywood,NE,Nebraska,True,,473.0,0.9,31063,Frontier,"{""31063"": 64.32, ""31085"": 35.68}",Frontier|Hayes,31063|31085,False,False,America/Chicago,"(40.60932, -100.73703)",5.717399526673423,473.0,37230_0_yes,40.65205578529142,-100.83039811248337,5.0

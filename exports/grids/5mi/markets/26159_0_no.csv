@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27207,35.6064,-79.38893,Bear Creek,NC,North Carolina,True,,3877.0,17.3,37037,Chatham,"{""37037"": 100}",Chatham,37037,False,False,America/New_York,"(35.6064, -79.38893)",2.8926883098441905,3877.0,26159_0_no,35.63636550434956,-79.42489821513169,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98568,46.86467,-123.30235,Oakville,WA,Washington,True,,2492.0,5.6,53027,Grays Harbor,"{""53027"": 91.0, ""53041"": 9.0}",Grays Harbor|Lewis,53027|53041,False,False,America/Los_Angeles,"(46.86467, -123.30235)",2.3845081751071615,2492.0,50042_0_yes,46.898743569029385,-123.31036691353296,5.0

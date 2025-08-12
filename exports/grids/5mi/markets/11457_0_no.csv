@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78629,29.47762,-97.45093,Gonzales,TX,Texas,True,,12612.0,11.6,48177,Gonzales,"{""48177"": 98.14, ""48123"": 1.86}",Gonzales|DeWitt,48177|48123,False,False,America/Chicago,"(29.47762, -97.45093)",5.772947441554207,12612.0,11457_0_no,29.41260831555437,-97.39066108589913,5.0

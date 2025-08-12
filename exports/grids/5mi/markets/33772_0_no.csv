@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80831,38.98867,-104.51172,Peyton,CO,Colorado,True,,27786.0,56.9,8041,El Paso,"{""08041"": 94.85, ""08039"": 5.15}",El Paso|Elbert,08041|08039,False,False,America/Denver,"(38.98867, -104.51172)",1.4140439679173333,27786.0,33772_0_no,38.98881956640653,-104.4853904784305,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69030,40.20318,-101.92592,Haigler,NE,Nebraska,True,,280.0,0.3,31057,Dundy,"{""31057"": 88.58, ""31029"": 11.42}",Dundy|Chase,31057|31029,False,False,America/Denver,"(40.20318, -101.92592)",4.762848965259398,280.0,36277_0_no,40.14590045486743,-101.8757264643365,5.0

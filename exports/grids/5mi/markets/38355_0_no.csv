@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45831,41.11141,-84.24993,Continental,OH,Ohio,True,,3752.0,19.5,39137,Putnam,"{""39137"": 97.08, ""39039"": 2.23, ""39125"": 0.69}",Putnam|Defiance|Paulding,39137|39039|39125,False,False,America/New_York,"(41.11141, -84.24993)",2.5438172869033555,3752.0,38355_0_no,41.14532707619053,-84.26894433091304,5.0

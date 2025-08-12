@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87941,32.7055,-107.21424,Salem,NM,New Mexico,True,,680.0,33.3,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(32.7055, -107.21424)",3.8951703011139562,680.0,19229_0_yes,32.683545703504755,-107.15253939147374,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38852,34.84484,-88.21598,Iuka,MS,Mississippi,True,,9016.0,17.6,28141,Tishomingo,"{""28141"": 99.7, ""01033"": 0.3}",Tishomingo|Colbert,28141|01033,False,False,America/Chicago,"(34.84484, -88.21598)",0.11817943705182855,9016.0,24222_0_yes,34.84552496628085,-88.21788969890424,5.0

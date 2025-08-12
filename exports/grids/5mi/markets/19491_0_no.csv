@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75773,32.67969,-95.44654,Mineola,TX,Texas,True,,14305.0,31.2,48499,Wood,"{""48499"": 82.52, ""48423"": 17.48}",Wood|Smith,48499|48423,False,False,America/Chicago,"(32.67969, -95.44654)",6.0773733345957055,14305.0,19491_0_no,32.74804851979571,-95.38075264615672,5.0

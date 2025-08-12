@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73573,34.1556,-97.95412,Waurika,OK,Oklahoma,True,,2639.0,5.2,40067,Jefferson,"{""40067"": 99.7, ""40137"": 0.3}",Jefferson|Stephens,40067|40137,False,False,America/Chicago,"(34.1556, -97.95412)",1.9397415605129373,2639.0,22591_0_yes,34.12754727151457,-97.95544597793582,5.0

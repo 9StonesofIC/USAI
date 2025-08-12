@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14736,42.13715,-79.74644,Findley Lake,NY,New York,True,,188.0,15.9,36013,Chautauqua,"{""36013"": 100}",Chautauqua,36013,False,False,America/New_York,"(42.13715, -79.74644)",1.4514698580315726,188.0,40470_0_no,42.15509086812774,-79.73170023303346,5.0

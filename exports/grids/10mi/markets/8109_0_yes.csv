@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67518,38.40403,-100.17343,Beeler,KS,Kansas,True,,31.0,0.1,20135,Ness,"{""20135"": 92.55, ""20101"": 7.45}",Ness|Lane,20135|20101,False,False,America/Chicago,"(38.40403, -100.17343)",10.75112328139425,31.0,8109_0_yes,38.31401657835541,-100.33529497053895,10.0

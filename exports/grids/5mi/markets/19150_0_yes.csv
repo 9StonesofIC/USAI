@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71006,32.72871,-93.63511,Benton,LA,Louisiana,True,,13582.0,25.6,22015,Bossier,"{""22015"": 100}",Bossier,22015,False,False,America/Chicago,"(32.72871, -93.63511)",4.36645821648101,13582.0,19150_0_yes,32.67427684530169,-93.5969560558664,5.0

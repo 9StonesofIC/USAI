@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51525,41.23443,-95.41999,Carson,IA,Iowa,True,,1131.0,7.1,19155,Pottawattamie,"{""19155"": 100}",Pottawattamie,19155,False,False,America/Chicago,"(41.23443, -95.41999)",6.689619174390352,2573.0,38721_0_no,41.29952484705167,-95.5153425257082,5.0
+51575,41.24111,-95.60218,Treynor,IA,Iowa,True,,1442.0,11.6,19155,Pottawattamie,"{""19155"": 100}",Pottawattamie,19155,False,False,America/Chicago,"(41.24111, -95.60218)",6.051947550773887,2573.0,38721_0_no,41.29952484705167,-95.5153425257082,5.0

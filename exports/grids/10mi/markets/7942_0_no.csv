@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67878,38.00218,-101.80824,Syracuse,KS,Kansas,True,,2382.0,1.2,20075,Hamilton,"{""20075"": 95.72, ""20187"": 4.28}",Hamilton|Stanton,20075|20187,False,False,America/Denver,"(38.00218, -101.80824)",8.409563569864082,2382.0,7942_0_no,37.88184009944706,-101.78512347413496,10.0

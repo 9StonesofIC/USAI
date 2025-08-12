@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49461,43.38215,-86.32317,Whitehall,MI,Michigan,True,,9494.0,84.8,26121,Muskegon,"{""26121"": 100}",Muskegon,26121,False,False,America/Detroit,"(43.38215, -86.32317)",6.570877294154993,9494.0,42907_0_no,43.31901699906199,-86.42097845930955,5.0

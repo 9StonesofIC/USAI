@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74401,35.72304,-95.45431,Muskogee,OK,Oklahoma,True,,15761.0,54.9,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago,"(35.72304, -95.45431)",0.9060946026251013,17850.0,26267_0_yes,35.72064821833243,-95.47019214728805,5.0
+74463,35.76943,-95.54843,Taft,OK,Oklahoma,True,,2089.0,145.9,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago,"(35.76943, -95.54843)",5.532601894044559,17850.0,26267_0_yes,35.72064821833243,-95.47019214728805,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39356,32.13632,-89.0283,Rose Hill,MS,Mississippi,True,,521.0,3.1,28061,Jasper,"{""28061"": 100}",Jasper,28061,False,False,America/Chicago,"(32.13632, -89.0283)",3.1408547415773524,521.0,17742_0_yes,32.09103916750136,-89.02356504117719,5.0

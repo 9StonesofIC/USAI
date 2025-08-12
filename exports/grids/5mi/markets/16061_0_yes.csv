@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76872,31.3357,-99.1603,Rochelle,TX,Texas,True,,876.0,1.1,48307,McCulloch,"{""48307"": 79.34, ""48411"": 20.66}",McCulloch|San Saba,48307|48411,False,False,America/Chicago,"(31.3357, -99.1603)",3.711652852688672,876.0,16061_0_yes,31.37248264984952,-99.11445396716312,5.0

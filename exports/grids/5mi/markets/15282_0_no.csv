@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36562,31.03738,-87.66274,Perdido,AL,Alabama,True,,1230.0,9.6,1003,Baldwin,"{""01003"": 94.78, ""01053"": 5.22}",Baldwin|Escambia,01003|01053,False,False,America/Chicago,"(31.03738, -87.66274)",2.5094604049390346,1230.0,15282_0_no,31.00234478797129,-87.67391177518462,5.0

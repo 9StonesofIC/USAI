@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28713,35.3697,-83.50559,Bryson City,NC,North Carolina,True,,9094.0,25.2,37173,Swain,"{""37173"": 99.77, ""37113"": 0.23}",Swain|Macon,37173|37113,False,False,America/New_York,"(35.3697, -83.50559)",3.783360320034673,9094.0,25534_0_yes,35.42193833606917,-83.5257288490805,5.0

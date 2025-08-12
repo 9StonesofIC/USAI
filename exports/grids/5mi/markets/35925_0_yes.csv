@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62627,40.05425,-90.12887,Chandlerville,IL,Illinois,True,,980.0,4.5,17017,Cass,"{""17017"": 61.15, ""17125"": 38.85}",Cass|Mason,17017|17125,False,False,America/Chicago,"(40.05425, -90.12887)",1.9143407075927552,980.0,35925_0_yes,40.06382434608001,-90.09490039439282,5.0

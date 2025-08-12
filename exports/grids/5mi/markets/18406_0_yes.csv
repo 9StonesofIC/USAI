@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31081,32.40824,-84.27725,Rupert,GA,Georgia,True,,11.0,0.1,13269,Taylor,"{""13269"": 88.3, ""13193"": 10.51, ""13249"": 1.19}",Taylor|Macon|Schley,13269|13193|13249,False,False,America/New_York,"(32.40824, -84.27725)",2.2540774454071144,11.0,18406_0_yes,32.37789163697215,-84.29142569689319,5.0

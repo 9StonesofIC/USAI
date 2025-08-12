@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95236,38.04218,-121.03176,Linden,CA,California,True,,4458.0,13.5,6077,San Joaquin,"{""06077"": 98.09, ""06009"": 1.91}",San Joaquin|Calaveras,06077|06009,False,False,America/Los_Angeles,"(38.04218, -121.03176)",3.7951078513646586,4458.0,31643_0_yes,38.0596091687294,-120.96561269778827,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29487,32.65691,-80.18476,Wadmalaw Island,SC,South Carolina,True,,2693.0,24.8,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York,"(32.65691, -80.18476)",4.515240531837068,2693.0,19058_0_no,32.592632593516925,-80.17076095936982,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59930,48.86277,-115.14514,Rexford,MT,Montana,True,,399.0,1.6,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver,"(48.86277, -115.14514)",64.69795063904766,399.0,586_0_yes,49.56452461494907,-116.09423513161896,50.0

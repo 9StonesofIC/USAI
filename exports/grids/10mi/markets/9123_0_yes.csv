@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95595,40.11074,-123.26642,Zenia,CA,California,True,,160.0,0.1,6105,Trinity,"{""06105"": 100}",Trinity,06105,False,False,America/Los_Angeles,"(40.11074, -123.26642)",8.249896225830327,160.0,9123_0_yes,40.089174548300726,-123.11289002806596,10.0

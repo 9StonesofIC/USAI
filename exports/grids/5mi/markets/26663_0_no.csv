@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86034,35.77145,-110.138,Keams Canyon,AZ,Arizona,True,,1842.0,1.5,4017,Navajo,"{""04017"": 92.61, ""04001"": 7.39}",Navajo|Apache,04017|04001,False,False,America/Denver,"(35.77145, -110.138)",2.257378741750629,1842.0,26663_0_no,35.80403229254858,-110.14097261039193,5.0

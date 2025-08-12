@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24319,36.76048,-81.65778,Chilhowie,VA,Virginia,True,,6838.0,42.3,51173,Smyth,"{""51173"": 79.32, ""51191"": 20.68}",Smyth|Washington,51173|51191,False,False,America/New_York,"(36.76048, -81.65778)",2.887144374674395,6838.0,28809_0_no,36.797373441417534,-81.63328389708767,5.0

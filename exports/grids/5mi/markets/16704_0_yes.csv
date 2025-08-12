@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39474,31.61739,-89.85458,Prentiss,MS,Mississippi,True,,5526.0,13.9,28065,Jefferson Davis,"{""28065"": 99.36, ""28031"": 0.64}",Jefferson Davis|Covington,28065|28031,False,False,America/Chicago,"(31.61739, -89.85458)",2.870351514203309,5526.0,16704_0_yes,31.65648595976221,-89.87107946261509,5.0

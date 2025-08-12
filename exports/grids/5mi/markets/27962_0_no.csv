@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87530,36.34088,-106.20198,El Rito,NM,New Mexico,True,,682.0,1.6,35039,Rio Arriba,"{""35039"": 100}",Rio Arriba,35039,False,False,America/Denver,"(36.34088, -106.20198)",4.490465836614417,682.0,27962_0_no,36.3811186367554,-106.2653557991168,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49405,43.91051,-86.18931,Custer,MI,Michigan,True,,1633.0,9.0,26105,Mason,"{""26105"": 100}",Mason,26105,False,False,America/Detroit,"(43.91051, -86.18931)",6.215341573355349,6491.0,44118_0_yes,43.97026494665735,-86.28269232423169,5.0
+49454,43.95208,-86.28638,Scottville,MI,Michigan,True,,4858.0,25.8,26105,Mason,"{""26105"": 100}",Mason,26105,False,False,America/Detroit,"(43.95208, -86.28638)",1.269775140457331,6491.0,44118_0_yes,43.97026494665735,-86.28269232423169,5.0

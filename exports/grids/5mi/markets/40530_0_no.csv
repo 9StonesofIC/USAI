@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52214,42.19056,-91.50704,Central City,IA,Iowa,True,,3460.0,14.8,19113,Linn,"{""19113"": 100}",Linn,19113,False,False,America/Chicago,"(42.19056, -91.50704)",4.994837566700106,3460.0,40530_0_no,42.16500659103589,-91.41578736453091,5.0

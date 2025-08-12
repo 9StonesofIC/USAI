@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28382,34.97546,-78.50561,Roseboro,NC,North Carolina,True,,7879.0,27.0,37163,Sampson,"{""37163"": 87.22, ""37051"": 12.78}",Sampson|Cumberland,37163|37051,False,False,America/New_York,"(34.97546, -78.50561)",6.593232615990064,7879.0,24485_0_no,34.910946983385315,-78.41983260071531,5.0

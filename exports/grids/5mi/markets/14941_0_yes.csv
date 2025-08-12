@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32535,30.96515,-87.34673,Century,FL,Florida,True,,5683.0,31.1,12033,Escambia,"{""12033"": 100}",Escambia,12033,False,False,America/Chicago,"(30.96515, -87.34673)",4.829140956500223,5683.0,14941_0_yes,30.929528051869823,-87.27661436146857,5.0

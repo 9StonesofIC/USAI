@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32303,30.51237,-84.34386,Tallahassee,FL,Florida,True,,49073.0,544.1,12073,Leon,"{""12073"": 100}",Leon,12073,False,False,America/New_York,"(30.51237, -84.34386)",3.9376909650452583,81453.0,14209_0_no,30.56500666957548,-84.31849328466355,5.0
+32312,30.60421,-84.23996,Tallahassee,FL,Florida,True,,32380.0,133.9,12073,Leon,"{""12073"": 100}",Leon,12073,False,False,America/New_York,"(30.60421, -84.23996)",5.3997702341421165,81453.0,14209_0_no,30.56500666957548,-84.31849328466355,5.0

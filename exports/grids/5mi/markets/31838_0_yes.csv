@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67107,38.19496,-97.53911,Moundridge,KS,Kansas,True,,2926.0,9.7,20113,McPherson,"{""20113"": 69.77, ""20079"": 30.23}",McPherson|Harvey,20113|20079,False,False,America/Chicago,"(38.19496, -97.53911)",4.72953288490083,2926.0,31838_0_yes,38.18632600294907,-97.62550722611292,5.0

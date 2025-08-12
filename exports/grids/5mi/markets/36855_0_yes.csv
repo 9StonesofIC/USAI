@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61730,40.53262,-88.73437,Cooksville,IL,Illinois,True,,515.0,6.9,17113,McLean,"{""17113"": 100}",McLean,17113,False,False,America/Chicago,"(40.53262, -88.73437)",2.448508597093548,952.0,36855_0_yes,40.49725005743348,-88.7314898275082,5.0
+61737,40.45646,-88.73331,Ellsworth,IL,Illinois,True,,437.0,4.9,17113,McLean,"{""17113"": 100}",McLean,17113,False,False,America/Chicago,"(40.45646, -88.73331)",2.8199476199897284,952.0,36855_0_yes,40.49725005743348,-88.7314898275082,5.0

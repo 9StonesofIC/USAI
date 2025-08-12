@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81321,37.31826,-108.76267,Cortez,CO,Colorado,True,,15389.0,14.2,8083,Montezuma,"{""08083"": 100}",Montezuma,08083,False,False,America/Denver,"(37.31826, -108.76267)",4.180554637326589,15389.0,29958_0_yes,37.32536409246395,-108.83822848056036,5.0

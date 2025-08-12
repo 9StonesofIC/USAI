@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73079,35.20941,-98.01397,Pocasset,OK,Oklahoma,True,,432.0,2.0,40051,Grady,"{""40051"": 79.2, ""40015"": 20.8}",Grady|Caddo,40051|40015,False,False,America/Chicago,"(35.20941, -98.01397)",5.067876995009415,432.0,24948_0_yes,35.142570060226696,-97.97701609888428,5.0

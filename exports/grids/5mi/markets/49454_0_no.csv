@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98538,46.47422,-123.15884,Curtis,WA,Washington,True,,378.0,1.3,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.47422, -123.15884)",5.857849443684347,1303.0,49454_0_no,46.53681608420207,-123.24191731050536,5.0
+98572,46.55256,-123.32429,Pe Ell,WA,Washington,True,,925.0,10.2,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.55256, -123.32429)",4.062821845486003,1303.0,49454_0_no,46.53681608420207,-123.24191731050536,5.0

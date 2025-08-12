@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48623,43.5198,-84.13523,Freeland,MI,Michigan,True,,13690.0,72.6,26145,Saginaw,"{""26145"": 63.88, ""26111"": 23.89, ""26017"": 12.23}",Saginaw|Midland|Bay,26145|26111|26017,False,False,America/Detroit,"(43.5198, -84.13523)",2.1182503169602906,13690.0,43220_0_yes,43.5341583429564,-84.17258959537047,5.0

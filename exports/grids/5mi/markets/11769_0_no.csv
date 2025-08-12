@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70345,29.51815,-90.23763,Cut Off,LA,Louisiana,True,,9269.0,27.8,22057,Lafourche,"{""22057"": 100}",Lafourche,22057,False,False,America/Chicago,"(29.51815, -90.23763)",2.9113307806764626,9269.0,11769_0_no,29.55323442260337,-90.21080926117224,5.0

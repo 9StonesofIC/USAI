@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65348,38.70963,-92.98344,Otterville,MO,Missouri,True,,1346.0,7.3,29053,Cooper,"{""29053"": 70.38, ""29141"": 26.61, ""29159"": 3.01}",Cooper|Morgan|Pettis,29053|29141|29159,False,False,America/Chicago,"(38.70963, -92.98344)",3.8273515480348017,1346.0,33094_0_yes,38.76227215361232,-92.9613360405136,5.0

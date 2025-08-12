@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73533,34.49484,-97.84774,Duncan,OK,Oklahoma,True,,27185.0,31.9,40137,Stephens,"{""40137"": 99.69, ""40033"": 0.31}",Stephens|Cotton,40137|40033,False,False,America/Chicago,"(34.49484, -97.84774)",5.023390041108036,27185.0,23604_0_yes,34.562469639117,-97.81534772425884,5.0

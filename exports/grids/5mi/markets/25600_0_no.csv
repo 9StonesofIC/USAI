@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73053,35.36248,-98.41841,Lookeba,OK,Oklahoma,True,,708.0,3.6,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago,"(35.36248, -98.41841)",3.506825713173874,708.0,25600_0_no,35.36036526308047,-98.35622769120744,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36773,32.28252,-87.38607,Safford,AL,Alabama,True,,294.0,1.6,1047,Dallas,"{""01047"": 89.41, ""01091"": 10.59}",Dallas|Marengo,01047|01091,False,False,America/Chicago,"(32.28252, -87.38607)",4.220232303865411,294.0,18410_0_no,32.307466366884306,-87.32011356909788,5.0

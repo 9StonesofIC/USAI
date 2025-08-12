@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35983,34.17088,-85.76746,Leesburg,AL,Alabama,True,,3827.0,30.7,1019,Cherokee,"{""01019"": 99.6, ""01049"": 0.4}",Cherokee|DeKalb,01019|01049,False,False,America/Chicago,"(34.17088, -85.76746)",3.839915507016784,3827.0,22521_0_yes,34.1188739230919,-85.74378175878508,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87935,33.25423,-107.22903,Elephant Butte,NM,New Mexico,True,,1457.0,14.7,35051,Sierra,"{""35051"": 100}",Sierra,35051,False,False,America/Denver,"(33.25423, -107.22903)",12.165949965532288,1573.0,5308_0_yes,33.396692480874655,-107.35287698675398,10.0
+87939,33.40339,-107.36566,Monticello,NM,New Mexico,True,,116.0,0.2,35051,Sierra,"{""35051"": 100}",Sierra,35051,False,False,America/Denver,"(33.40339, -107.36566)",0.8705372969877462,1573.0,5308_0_yes,33.396692480874655,-107.35287698675398,10.0

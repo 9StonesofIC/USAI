@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84642,39.20135,-111.60893,Manti,UT,Utah,True,,3790.0,11.7,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.20135, -111.60893)",6.5349625997724505,3790.0,34127_0_no,39.13934725445432,-111.51680278429848,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23930,37.17468,-78.09608,Crewe,VA,Virginia,True,,5279.0,20.3,51135,Nottoway,"{""51135"": 100}",Nottoway,51135,False,False,America/New_York,"(37.17468, -78.09608)",2.118135620033504,5279.0,29463_0_yes,37.1568686352254,-78.06476956391575,5.0

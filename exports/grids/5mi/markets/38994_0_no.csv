@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61301,41.39368,-89.07827,La Salle,IL,Illinois,True,,9785.0,89.4,17099,LaSalle,"{""17099"": 100}",LaSalle,17099,False,False,America/Chicago,"(41.39368, -89.07827)",3.25030061540069,9941.0,38994_0_no,41.43898716988077,-89.0951488705957,5.0
+61372,41.46582,-89.08239,Troy Grove,IL,Illinois,True,,156.0,95.3,17099,LaSalle,"{""17099"": 100}",LaSalle,17099,False,False,America/Chicago,"(41.46582, -89.08239)",1.9681910703411771,9941.0,38994_0_no,41.43898716988077,-89.0951488705957,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49961,46.50667,-88.74358,Sidnaw,MI,Michigan,True,,158.0,0.9,26061,Houghton,"{""26061"": 100}",Houghton,26061,False,False,America/Detroit,"(46.50667, -88.74358)",6.080392994660991,421.0,49316_0_yes,46.57741537884256,-88.6674839676985,5.0
+49970,46.53555,-88.59783,Watton,MI,Michigan,True,,263.0,1.1,26013,Baraga,"{""26013"": 100}",Baraga,26013,False,False,America/Detroit,"(46.53555, -88.59783)",4.395347538000651,421.0,49316_0_yes,46.57741537884256,-88.6674839676985,5.0

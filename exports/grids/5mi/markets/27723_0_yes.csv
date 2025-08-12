@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93221,36.29637,-119.02992,Exeter,CA,California,True,,14596.0,42.7,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.29637, -119.02992)",3.4560903275748545,14596.0,27723_0_yes,36.31819780936044,-119.08576974284016,5.0

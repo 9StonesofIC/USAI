@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24460,38.02237,-79.65048,Millboro,VA,Virginia,True,,915.0,1.4,51017,Bath,"{""51017"": 100}",Bath,51017,False,False,America/New_York,"(38.02237, -79.65048)",3.515273079494935,915.0,31418_0_yes,38.027444324366776,-79.7147438796567,5.0

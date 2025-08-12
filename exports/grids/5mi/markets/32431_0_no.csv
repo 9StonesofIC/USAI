@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65064,38.40634,-92.47664,Olean,MO,Missouri,True,,666.0,15.1,29131,Miller,"{""29131"": 98.94, ""29135"": 1.06}",Miller|Moniteau,29131|29135,False,False,America/Chicago,"(38.40634, -92.47664)",0.8359305813185939,666.0,32431_0_no,38.399702715444825,-92.48954789404752,5.0

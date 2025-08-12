@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79373,33.15905,-101.83628,Tahoka,TX,Texas,True,,2985.0,2.3,48305,Lynn,"{""48305"": 100}",Lynn,48305,False,False,America/Chicago,"(33.15905, -101.83628)",9.985097218948143,4575.0,5284_0_no,33.243965921562655,-101.69652919968505,10.0
+79381,33.32312,-101.76982,Wilson,TX,Texas,True,,1590.0,5.2,48305,Lynn,"{""48305"": 100}",Lynn,48305,False,False,America/Chicago,"(33.32312, -101.76982)",6.915972128348549,4575.0,5284_0_no,33.243965921562655,-101.69652919968505,10.0

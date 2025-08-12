@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87046,36.27773,-106.91643,Regina,NM,New Mexico,True,,256.0,1.1,35039,Rio Arriba,"{""35039"": 78.49, ""35043"": 21.51}",Rio Arriba|Sandoval,35039|35043,False,False,America/Denver,"(36.27773, -106.91643)",2.3519832869311195,256.0,27655_0_yes,36.30906427063383,-106.89992692627364,5.0

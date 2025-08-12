@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54961,44.41173,-88.7628,New London,WI,Wisconsin,True,,14037.0,43.7,55135,Waupaca,"{""55135"": 64.16, ""55087"": 35.84}",Waupaca|Outagamie,55135|55087,False,False,America/Chicago,"(44.41173, -88.7628)",3.1223059883146145,14037.0,45011_0_yes,44.40675209822946,-88.82567394618233,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58601,46.90964,-102.82766,Dickinson,ND,North Dakota,True,,27075.0,18.3,38089,Stark,"{""38089"": 66.21, ""38025"": 33.79}",Stark|Dunn,38089|38025,False,False,America/Denver,"(46.90964, -102.82766)",9.84162902028101,27075.0,12635_0_yes,47.00436669895311,-102.98351162762474,10.0

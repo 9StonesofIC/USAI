@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69122,41.09713,-102.08834,Big Springs,NE,Nebraska,True,,696.0,1.2,31049,Deuel,"{""31049"": 59.71, ""31101"": 23.83, ""31135"": 16.46}",Deuel|Keith|Perkins,31049|31101|31135,False,False,America/Denver,"(41.09713, -102.08834)",4.392327654708966,696.0,38448_0_no,41.16016530441688,-102.09927193612783,5.0

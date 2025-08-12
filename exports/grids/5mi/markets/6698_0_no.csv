@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34211,27.44944,-82.37738,Bradenton,FL,Florida,True,,10897.0,123.6,12081,Manatee,"{""12081"": 100}",Manatee,12081,False,False,America/New_York,"(27.44944, -82.37738)",4.876962199769459,33016.0,6698_0_no,27.51708178014583,-82.40011610449329,5.0
+34212,27.49559,-82.40528,Bradenton,FL,Florida,True,,22119.0,383.7,12081,Manatee,"{""12081"": 100}",Manatee,12081,False,False,America/New_York,"(27.49559, -82.40528)",1.5182868865470598,33016.0,6698_0_no,27.51708178014583,-82.40011610449329,5.0

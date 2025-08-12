@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80643,40.11186,-104.47164,Keenesburg,CO,Colorado,True,,4471.0,8.0,8123,Weld,"{""08123"": 88.68, ""08001"": 11.32}",Weld|Adams,08123|08001,False,False,America/Denver,"(40.11186, -104.47164)",3.2532961229833224,4471.0,36001_0_yes,40.07549799758739,-104.4325363683321,5.0

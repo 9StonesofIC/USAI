@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54822,45.3944,-91.69995,Cameron,WI,Wisconsin,True,,4602.0,38.9,55005,Barron,"{""55005"": 100}",Barron,55005,False,False,America/Chicago,"(45.3944, -91.69995)",2.1747042509617027,4602.0,47055_0_yes,45.4224620571261,-91.67964605551978,5.0

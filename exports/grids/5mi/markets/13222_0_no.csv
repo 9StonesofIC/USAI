@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77426,30.11633,-96.24721,Chappell Hill,TX,Texas,True,,2415.0,10.3,48477,Washington,"{""48477"": 78.75, ""48015"": 21.25}",Washington|Austin,48477|48015,False,False,America/Chicago,"(30.11633, -96.24721)",3.7574372516744377,2415.0,13222_0_no,30.137380054184792,-96.18923588826992,5.0

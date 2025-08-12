@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87831,34.28303,-106.88722,San Acacia,NM,New Mexico,True,,223.0,5.8,35053,Socorro,"{""35053"": 100}",Socorro,35053,False,False,America/Denver,"(34.28303, -106.88722)",4.802255783135925,223.0,23302_0_no,34.35148879628584,-106.90175781200128,5.0

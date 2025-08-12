@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66956,39.79625,-98.21581,Mankato,KS,Kansas,True,,1118.0,2.2,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago,"(39.79625, -98.21581)",4.600387091936412,1118.0,35340_0_yes,39.78061406603173,-98.1315842332605,5.0

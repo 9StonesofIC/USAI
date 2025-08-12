@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99138,48.23093,-118.38876,Inchelium,WA,Washington,True,,1084.0,0.7,53019,Ferry,"{""53019"": 100}",Ferry,53019,False,False,America/Los_Angeles,"(48.23093, -118.38876)",2.935685549432862,1084.0,52750_0_no,48.26925825549733,-118.41629732268856,5.0

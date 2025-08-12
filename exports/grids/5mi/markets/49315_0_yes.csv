@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49919,46.50995,-88.43518,Covington,MI,Michigan,True,,173.0,0.5,26013,Baraga,"{""26013"": 100}",Baraga,26013,False,False,America/Detroit,"(46.50995, -88.43518)",4.767955769786924,173.0,49315_0_yes,46.57722272779866,-88.45753417606136,5.0

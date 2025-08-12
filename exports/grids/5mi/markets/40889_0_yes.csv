@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68717,42.38962,-97.2192,Belden,NE,Nebraska,True,,299.0,6.4,31027,Cedar,"{""31027"": 100}",Cedar,31027,False,False,America/Chicago,"(42.38962, -97.2192)",1.2268055278870276,299.0,40889_0_yes,42.38713259370425,-97.24300293045049,5.0

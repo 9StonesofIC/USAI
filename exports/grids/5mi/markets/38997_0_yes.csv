@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43506,41.46739,-84.55704,Bryan,OH,Ohio,True,,14045.0,52.4,39171,Williams,"{""39171"": 82.17, ""39039"": 17.83}",Williams|Defiance,39171|39039,False,False,America/New_York,"(41.46739, -84.55704)",3.744796291029725,14045.0,38997_0_yes,41.5075066055984,-84.50838916467117,5.0

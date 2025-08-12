@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98591,46.44224,-122.74671,Toledo,WA,Washington,True,,3411.0,11.6,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.44224, -122.74671)",5.211747005052105,5373.0,49171_0_no,46.3916642595978,-122.827885631566,5.0
+98645,46.32509,-122.77993,Silverlake,WA,Washington,True,,1962.0,49.9,53015,Cowlitz,"{""53015"": 100}",Cowlitz,53015,False,False,America/Los_Angeles,"(46.32509, -122.77993)",5.136899641283964,5373.0,49171_0_no,46.3916642595978,-122.827885631566,5.0

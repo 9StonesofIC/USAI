@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66088,39.3416,-95.4563,Valley Falls,KS,Kansas,True,,2783.0,9.0,20087,Jefferson,"{""20087"": 97.05, ""20005"": 2.95}",Jefferson|Atchison,20087|20005,False,False,America/Chicago,"(39.3416, -95.4563)",2.2615533654146267,2783.0,34379_0_yes,39.34384617707656,-95.49852397537268,5.0

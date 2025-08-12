@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89061,36.07143,-115.89957,Pahrump,NV,Nevada,True,,5537.0,33.4,32023,Nye,"{""32023"": 95.56, ""06027"": 4.44}",Nye|Inyo,32023|06027,False,False,America/Los_Angeles,"(36.07143, -115.89957)",3.171674965380825,5537.0,27045_0_yes,36.02578136287424,-115.89358786605484,5.0

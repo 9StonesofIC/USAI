@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13360,43.72457,-74.73577,Inlet,NY,New York,True,,134.0,0.9,36041,Hamilton,"{""36041"": 100}",Hamilton,36041,False,False,America/New_York,"(43.72457, -74.73577)",1.5859072924510058,176.0,43738_0_no,43.74310626390903,-74.75450484253551,5.0
+13436,43.80501,-74.67034,Raquette Lake,NY,New York,True,,42.0,0.5,36041,Hamilton,"{""36041"": 100}",Hamilton,36041,False,False,America/New_York,"(43.80501, -74.67034)",5.993810642358495,176.0,43738_0_no,43.74310626390903,-74.75450484253551,5.0

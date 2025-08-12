@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14541,42.75704,-76.84403,Romulus,NY,New York,True,,4584.0,36.9,36099,Seneca,"{""36099"": 100}",Seneca,36099,False,False,America/New_York,"(42.75704, -76.84403)",4.513862613970162,4584.0,41689_0_yes,42.80398214247028,-76.78212487541212,5.0

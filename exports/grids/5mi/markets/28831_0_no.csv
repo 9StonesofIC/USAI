@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42124,36.86534,-85.64817,Beaumont,KY,Kentucky,True,,32.0,6.2,21169,Metcalfe,"{""21169"": 100}",Metcalfe,21169,False,False,America/Chicago,"(36.86534, -85.64817)",5.205466241185258,32.0,28831_0_no,36.800380856971245,-85.60049031315982,5.0

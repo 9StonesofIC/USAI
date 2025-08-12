@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28677,35.73743,-80.92272,Statesville,NC,North Carolina,True,,34710.0,161.5,37097,Iredell,"{""37097"": 100}",Iredell,37097,False,False,America/New_York,"(35.73743, -80.92272)",3.338094161674901,34710.0,26499_0_no,35.78241834796781,-80.94442337552245,5.0

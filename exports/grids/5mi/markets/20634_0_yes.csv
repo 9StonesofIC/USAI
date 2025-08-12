@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85343,33.33774,-112.69087,Palo Verde,AZ,Arizona,True,,87.0,5.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(33.33774, -112.69087)",5.4824417786813475,87.0,20634_0_yes,33.267677280919095,-112.73543582336862,5.0

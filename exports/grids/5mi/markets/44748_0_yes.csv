@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56085,44.29279,-94.73547,Sleepy Eye,MN,Minnesota,True,,5237.0,9.8,27015,Brown,"{""27015"": 95.76, ""27127"": 4.24}",Brown|Redwood,27015|27127,False,False,America/Chicago,"(44.29279, -94.73547)",2.1287044596559146,5237.0,44748_0_yes,44.267238414152814,-94.7595137909791,5.0

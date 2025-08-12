@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68955,40.59288,-98.53966,Juniata,NE,Nebraska,True,,2259.0,9.2,31001,Adams,"{""31001"": 100}",Adams,31001,False,False,America/Chicago,"(40.59288, -98.53966)",2.523596498960944,2259.0,37193_0_no,40.57774620139583,-98.49588875232814,5.0

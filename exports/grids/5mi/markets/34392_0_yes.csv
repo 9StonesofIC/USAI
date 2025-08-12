@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67478,39.38572,-97.94988,Simpson,KS,Kansas,True,,76.0,16.4,20123,Mitchell,"{""20123"": 100}",Mitchell,20123,False,False,America/Chicago,"(39.38572, -97.94988)",3.051007932720447,76.0,34392_0_yes,39.34579256778185,-97.92548494242337,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52045,42.45485,-90.93113,Epworth,IA,Iowa,True,,2645.0,21.3,19061,Dubuque,"{""19061"": 100}",Dubuque,19061,False,False,America/Chicago,"(42.45485, -90.93113)",3.092307495856649,7294.0,41132_0_no,42.45414773817536,-90.87047789753404,5.0
+52068,42.42382,-90.81128,Peosta,IA,Iowa,True,,4649.0,41.6,19061,Dubuque,"{""19061"": 100}",Dubuque,19061,False,False,America/Chicago,"(42.42382, -90.81128)",3.6745737415664155,7294.0,41132_0_no,42.45414773817536,-90.87047789753404,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54153,44.89939,-87.92516,Oconto,WI,Wisconsin,True,,7069.0,26.9,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago,"(44.89939, -87.92516)",4.195380035378961,7069.0,45881_0_yes,44.84019080677256,-87.94421765831325,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43713,39.98979,-81.17368,Barnesville,OH,Ohio,True,,6715.0,28.5,39013,Belmont,"{""39013"": 100}",Belmont,39013,False,False,America/New_York,"(39.98979, -81.17368)",1.2436402633683021,6715.0,35855_0_no,39.98420733855311,-81.19601356652437,5.0

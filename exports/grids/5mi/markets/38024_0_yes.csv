@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07881,41.12213,-74.93249,Wallpack Center,NJ,New Jersey,True,,8.0,0.3,34037,Sussex,"{""34037"": 100}",Sussex,34037,False,False,America/New_York,"(41.12213, -74.93249)",5.6646589259781,796.0,38024_0_yes,41.06518287654944,-75.01075067761748,5.0
+18335,41.06413,-75.10455,Marshalls Creek,PA,Pennsylvania,True,,788.0,207.2,42089,Monroe,"{""42089"": 100}",Monroe,42089,False,False,America/New_York,"(41.06413, -75.10455)",4.8869493476768175,796.0,38024_0_yes,41.06518287654944,-75.01075067761748,5.0

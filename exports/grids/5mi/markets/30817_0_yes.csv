@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42461,37.78668,-87.88807,Uniontown,KY,Kentucky,True,,1134.0,13.8,21225,Union,"{""21225"": 98.75, ""21101"": 1.25}",Union|Henderson,21225|21101,False,False,America/Chicago,"(37.78668, -87.88807)",3.596698289062015,1134.0,30817_0_yes,37.74404570185275,-87.9258525348157,5.0

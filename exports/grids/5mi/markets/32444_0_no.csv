@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66026,38.39047,-94.86056,Fontana,KS,Kansas,True,,976.0,7.8,20121,Miami,"{""20121"": 50.01, ""20107"": 49.99}",Miami|Linn,20121|20107,False,False,America/Chicago,"(38.39047, -94.86056)",1.511940311977776,976.0,32444_0_no,38.401584959683824,-94.88461081552192,5.0

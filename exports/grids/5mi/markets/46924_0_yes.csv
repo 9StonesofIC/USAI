@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97108,45.27423,-123.67544,Beaver,OR,Oregon,True,,518.0,2.0,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles,"(45.27423, -123.67544)",5.05534966495403,2206.0,46924_0_yes,45.30655090046884,-123.7687446033638,5.0
+97112,45.26218,-123.86629,Cloverdale,OR,Oregon,True,,1688.0,5.7,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles,"(45.26218, -123.86629)",5.646713812001078,2206.0,46924_0_yes,45.30655090046884,-123.7687446033638,5.0

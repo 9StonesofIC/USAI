@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77830,30.52648,-96.00849,Anderson,TX,Texas,True,,3007.0,6.0,48185,Grimes,"{""48185"": 100}",Grimes,48185,False,False,America/Chicago,"(30.52648, -96.00849)",4.490483171530941,3007.0,14279_0_no,30.5725724390513,-96.06169425806416,5.0

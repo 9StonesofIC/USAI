@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87048,35.23624,-106.61977,Corrales,NM,New Mexico,True,,8983.0,315.6,35043,Sandoval,"{""35043"": 98.13, ""35001"": 1.87}",Sandoval|Bernalillo,35043|35001,False,False,America/Denver,"(35.23624, -106.61977)",4.166247297360157,8983.0,25331_0_yes,35.293862480924254,-106.59801241386285,5.0

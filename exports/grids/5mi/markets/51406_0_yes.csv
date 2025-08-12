@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99122,47.67615,-118.21774,Davenport,WA,Washington,True,,4338.0,2.8,53043,Lincoln,"{""53043"": 98.25, ""53065"": 1.75}",Lincoln|Stevens,53043|53065,False,False,America/Los_Angeles,"(47.67615, -118.21774)",5.151737862255134,4338.0,51406_0_yes,47.617691917383375,-118.14903974416076,5.0

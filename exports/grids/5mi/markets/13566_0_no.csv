@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77519,30.21124,-94.58596,Batson,TX,Texas,True,,781.0,10.8,48199,Hardin,"{""48199"": 100}",Hardin,48199,False,False,America/Chicago,"(30.21124, -94.58596)",5.88102275786863,2313.0,13566_0_no,30.28148600546828,-94.64160118021528,5.0
+77564,30.21811,-94.65989,Hull,TX,Texas,True,,1532.0,9.9,48291,Liberty,"{""48291"": 76.3, ""48199"": 23.7}",Liberty|Hardin,48291|48199,False,False,America/Chicago,"(30.21811, -94.65989)",4.512870209550886,2313.0,13566_0_no,30.28148600546828,-94.64160118021528,5.0

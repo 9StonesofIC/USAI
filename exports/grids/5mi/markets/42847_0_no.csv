@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12032,43.24042,-74.55666,Caroga Lake,NY,New York,True,,753.0,3.1,36041,Hamilton,"{""36041"": 56.48, ""36035"": 43.52}",Hamilton|Fulton,36041|36035,False,False,America/New_York,"(43.24042, -74.55666)",5.097875540563195,753.0,42847_0_no,43.30869521818751,-74.51824348182504,5.0

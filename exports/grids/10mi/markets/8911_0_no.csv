@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81631,39.63116,-106.77136,Eagle,CO,Colorado,True,,8475.0,14.8,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.63116, -106.77136)",3.7510571482270842,8587.0,8911_0_no,39.62828100411893,-106.84175014192851,10.0
+81655,39.7477,-106.67821,Wolcott,CO,Colorado,True,,112.0,0.7,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.7477, -106.67821)",11.987060633959056,8587.0,8911_0_no,39.62828100411893,-106.84175014192851,10.0

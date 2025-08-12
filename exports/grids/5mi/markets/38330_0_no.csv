@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16213,41.12556,-79.55831,Callensburg,PA,Pennsylvania,True,,123.0,397.1,42031,Clarion,"{""42031"": 100}",Clarion,42031,False,False,America/New_York,"(41.12556, -79.55831)",4.393199067816699,1813.0,38330_0_no,41.14133961870703,-79.47653091706387,5.0
+16255,41.1267,-79.46809,Sligo,PA,Pennsylvania,True,,1690.0,16.1,42031,Clarion,"{""42031"": 100}",Clarion,42031,False,False,America/New_York,"(41.1267, -79.46809)",1.102761841706763,1813.0,38330_0_no,41.14133961870703,-79.47653091706387,5.0

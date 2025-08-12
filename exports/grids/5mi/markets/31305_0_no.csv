@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94517,37.8926,-121.88252,Clayton,CA,California,True,,12970.0,104.9,6013,Contra Costa,"{""06013"": 100}",Contra Costa,06013,False,False,America/Los_Angeles,"(37.8926, -121.88252)",5.160446338560686,12970.0,31305_0_no,37.84283436653538,-121.81197205512528,5.0

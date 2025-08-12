@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96046,40.61118,-123.43151,Hyampom,CA,California,True,,124.0,0.3,6105,Trinity,"{""06105"": 100}",Trinity,06105,False,False,America/Los_Angeles,"(40.61118, -123.43151)",4.762793800968539,124.0,37349_0_yes,40.67071828906322,-123.47729316963752,5.0

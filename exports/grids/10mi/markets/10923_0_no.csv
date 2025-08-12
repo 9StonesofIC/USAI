@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83709,43.55212,-116.28847,Boise,ID,Idaho,True,,60449.0,692.6,16001,Ada,"{""16001"": 100}",Ada,16001,False,False,America/Boise,"(43.55212, -116.28847)",13.749235341138862,60449.0,10923_0_no,43.409586666670485,-116.0970927887127,10.0

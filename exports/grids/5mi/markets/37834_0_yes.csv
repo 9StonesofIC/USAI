@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68843,40.90334,-97.88018,Hampton,NE,Nebraska,True,,751.0,3.6,31081,Hamilton,"{""31081"": 96.33, ""31185"": 3.67}",Hamilton|York,31081|31185,False,False,America/Chicago,"(40.90334, -97.88018)",2.7331868869387868,751.0,37834_0_yes,40.939317292362325,-97.85841532589204,5.0

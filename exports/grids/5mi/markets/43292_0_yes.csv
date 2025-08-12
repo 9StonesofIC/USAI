@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57375,43.56222,-98.47877,Stickney,SD,South Dakota,True,,641.0,1.8,46003,Aurora,"{""46003"": 98.57, ""46035"": 1.43}",Aurora|Davison,46003|46035,False,False,America/Chicago,"(43.56222, -98.47877)",1.8671045200207723,641.0,43292_0_yes,43.54664230367537,-98.50923837475912,5.0

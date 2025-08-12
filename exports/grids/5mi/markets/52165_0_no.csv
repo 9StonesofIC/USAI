@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59520,48.03822,-109.93749,Big Sandy,MT,Montana,True,,1093.0,0.4,30015,Chouteau,"{""30015"": 97.14, ""30005"": 2.33, ""30041"": 0.53}",Chouteau|Blaine|Hill,30015|30005|30041,False,False,America/Denver,"(48.03822, -109.93749)",6.748342301299469,1093.0,52165_0_no,47.97176070342148,-109.83051687802568,5.0

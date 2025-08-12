@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32059,30.38672,-83.27066,Lee,FL,Florida,True,,2507.0,8.1,12079,Madison,"{""12079"": 100}",Madison,12079,False,False,America/New_York,"(30.38672, -83.27066)",4.450391264767398,2507.0,13850_0_no,30.419237418736117,-83.20619463320699,5.0

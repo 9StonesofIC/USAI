@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31001,31.97595,-83.33979,Abbeville,GA,Georgia,True,,4323.0,9.6,13315,Wilcox,"{""13315"": 100}",Wilcox,13315,False,False,America/New_York,"(31.97595, -83.33979)",2.7583191039951953,4323.0,17695_0_no,32.014744883385006,-83.35089441341773,5.0

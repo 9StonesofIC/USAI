@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92118,32.67466,-117.16915,Coronado,CA,California,True,,23426.0,1176.2,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.67466, -117.16915)",4.408468468594192,23426.0,19274_0_no,32.61790407410718,-117.20377031596544,5.0

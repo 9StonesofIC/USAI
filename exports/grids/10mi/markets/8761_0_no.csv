@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84540,39.20039,-109.55281,Thompson,UT,Utah,True,,99.0,0.0,49019,Grand,"{""49019"": 100}",Grand,49019,False,False,America/Denver,"(39.20039, -109.55281)",9.920429246077042,99.0,8761_0_no,39.34286265721002,-109.52982067807908,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49654,45.0268,-86.00875,Leland,MI,Michigan,True,,572.0,18.9,26089,Leelanau,"{""26089"": 100}",Leelanau,26089,False,False,America/Detroit,"(45.0268, -86.00875)",4.440673596449065,572.0,46425_0_no,45.05567970682342,-86.09000788724306,5.0

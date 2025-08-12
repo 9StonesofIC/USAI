@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38544,36.11605,-85.66238,Baxter,TN,Tennessee,True,,7450.0,36.3,47141,Putnam,"{""47141"": 87.98, ""47041"": 12.02}",Putnam|DeKalb,47141|47041,False,False,America/Chicago,"(36.11605, -85.66238)",2.3137153460259077,7450.0,27206_0_yes,36.148209823498746,-85.65082408362923,5.0

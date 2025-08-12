@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56472,46.57507,-94.34884,Pequot Lakes,MN,Minnesota,True,,8250.0,20.6,27021,Cass,"{""27021"": 54.66, ""27035"": 45.34}",Cass|Crow Wing,27021|27035,False,False,America/Chicago,"(46.57507, -94.34884)",0.7876876943977651,8250.0,49343_0_yes,46.582617444260606,-94.33640944507664,5.0

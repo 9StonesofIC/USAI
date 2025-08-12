@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36785,32.27615,-86.82683,Tyler,AL,Alabama,True,,1037.0,4.0,1085,Lowndes,"{""01085"": 55.65, ""01047"": 44.35}",Lowndes|Dallas,01085|01047,False,False,America/Chicago,"(32.27615, -86.82683)",2.4205504885400315,1037.0,18407_0_no,32.30711936018822,-86.80745656548378,5.0

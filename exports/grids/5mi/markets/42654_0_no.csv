@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51301,43.15314,-95.14973,Spencer,IA,Iowa,True,,12161.0,29.8,19041,Clay,"{""19041"": 100}",Clay,19041,False,False,America/Chicago,"(43.15314, -95.14973)",4.12131573117149,12161.0,42654_0_no,43.18186043231515,-95.22140798151312,5.0

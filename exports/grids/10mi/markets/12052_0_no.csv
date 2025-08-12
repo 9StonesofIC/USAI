@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57621,45.76891,-101.0808,Bullhead,SD,South Dakota,True,,320.0,40.3,46031,Corson,"{""46031"": 100}",Corson,46031,False,False,America/Denver,"(45.76891, -101.0808)",10.518439449056771,320.0,12052_0_no,45.69933580769511,-101.27479539648488,10.0

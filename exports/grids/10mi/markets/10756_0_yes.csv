@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57747,43.37973,-103.5231,Hot Springs,SD,South Dakota,True,,5802.0,4.4,46047,Fall River,"{""46047"": 73.26, ""46033"": 26.74}",Fall River|Custer,46047|46033,False,False,America/Denver,"(43.37973, -103.5231)",10.093480084084261,5802.0,10756_0_yes,43.24291799127117,-103.59348796194192,10.0

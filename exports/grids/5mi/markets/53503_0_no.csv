@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59222,48.7007,-105.1557,Flaxville,MT,Montana,True,,191.0,0.3,30019,Daniels,"{""30019"": 98.41, ""30085"": 1.59}",Daniels|Roosevelt,30019|30085,False,False,America/Denver,"(48.7007, -105.1557)",4.059885424431124,191.0,53503_0_no,48.69089573839902,-105.24347374261066,5.0

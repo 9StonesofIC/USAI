@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59859,47.5205,-114.80396,Plains,MT,Montana,True,,3194.0,1.7,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver,"(47.5205, -114.80396)",3.517906873272318,3194.0,51364_0_no,47.54232411034228,-114.8720904869074,5.0

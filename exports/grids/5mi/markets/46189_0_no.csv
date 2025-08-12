@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57245,44.89365,-96.91835,Kranzburg,SD,South Dakota,True,,182.0,282.8,46029,Codington,"{""46029"": 100}",Codington,46029,False,False,America/Chicago,"(44.89365, -96.91835)",3.9585697187682536,182.0,46189_0_no,44.92067870809812,-96.98967594044916,5.0

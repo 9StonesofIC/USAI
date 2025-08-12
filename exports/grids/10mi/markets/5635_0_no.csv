@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88316,33.77306,-105.36895,Capitan,NM,New Mexico,True,,2097.0,0.9,35027,Lincoln,"{""35027"": 100}",Lincoln,35027,False,False,America/Denver,"(33.77306, -105.36895)",3.871408040356312,2097.0,5635_0_no,33.82903762881349,-105.36599385805243,10.0

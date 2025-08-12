@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55972,43.99396,-92.05092,Saint Charles,MN,Minnesota,True,,5196.0,22.7,27169,Winona,"{""27169"": 73.67, ""27109"": 26.33}",Winona|Olmsted,27169|27109,False,False,America/Chicago,"(43.99396, -92.05092)",5.147711798812707,5196.0,44414_0_no,44.047694578824704,-91.97915118669545,5.0

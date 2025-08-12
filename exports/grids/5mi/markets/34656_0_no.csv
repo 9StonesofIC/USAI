@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65263,39.45244,-92.22062,Madison,MO,Missouri,True,,1471.0,4.5,29137,Monroe,"{""29137"": 97.09, ""29175"": 2.91}",Monroe|Randolph,29137|29175,False,False,America/Chicago,"(39.45244, -92.22062)",2.7221619453326578,1471.0,34656_0_no,39.413690417848045,-92.21140158204312,5.0

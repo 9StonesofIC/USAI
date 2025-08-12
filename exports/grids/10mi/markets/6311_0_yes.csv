@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88411,35.23488,-103.16248,Bard,NM,New Mexico,True,,102.0,0.1,35037,Quay,"{""35037"": 100}",Quay,35037,False,False,America/Denver,"(35.23488, -103.16248)",8.021598603400863,102.0,6311_0_yes,35.13034796373294,-103.10067426668893,10.0

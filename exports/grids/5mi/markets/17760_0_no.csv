@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75643,32.01041,-94.35518,Gary,TX,Texas,True,,2151.0,11.2,48365,Panola,"{""48365"": 87.1, ""48419"": 12.9}",Panola|Shelby,48365|48419,False,False,America/Chicago,"(32.01041, -94.35518)",4.082916334792711,2151.0,17760_0_no,32.022180177571606,-94.42347674831692,5.0

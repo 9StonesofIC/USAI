@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28609,35.67608,-81.05314,Catawba,NC,North Carolina,True,,5858.0,49.5,37035,Catawba,"{""37035"": 100}",Catawba,37035,False,False,America/New_York,"(35.67608, -81.05314)",2.421703164381786,16762.0,26186_0_yes,35.71000341837996,-81.06399234504362,5.0
+28610,35.73103,-81.13837,Claremont,NC,North Carolina,True,,10904.0,105.5,37035,Catawba,"{""37035"": 100}",Catawba,37035,False,False,America/New_York,"(35.73103, -81.13837)",4.417930711899369,16762.0,26186_0_yes,35.71000341837996,-81.06399234504362,5.0

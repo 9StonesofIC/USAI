@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28628,35.72914,-81.77826,Glen Alpine,NC,North Carolina,True,,686.0,938.0,37023,Burke,"{""37023"": 100}",Burke,37023,False,False,America/New_York,"(35.72914, -81.77826)",4.879829491909081,686.0,26504_0_no,35.783077057270226,-81.8344452549831,5.0

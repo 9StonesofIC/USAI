@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83602,44.09676,-116.15049,Banks,ID,Idaho,True,,6.0,0.1,16015,Boise,"{""16015"": 100}",Boise,16015,False,False,America/Boise,"(44.09676, -116.15049)",3.077536085981427,6.0,44561_0_yes,44.141298551640666,-116.14975614609838,5.0

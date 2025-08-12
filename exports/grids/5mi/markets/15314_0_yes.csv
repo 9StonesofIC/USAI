@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39631,31.07321,-91.09581,Centreville,MS,Mississippi,True,,3442.0,8.4,28157,Wilkinson,"{""28157"": 69.63, ""28005"": 30.37}",Wilkinson|Amite,28157|28005,False,False,America/Chicago,"(31.07321, -91.09581)",0.3033085804412193,3442.0,15314_0_yes,31.077079678277443,-91.09823002953932,5.0

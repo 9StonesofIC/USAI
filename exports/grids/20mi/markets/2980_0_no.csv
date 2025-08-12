@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59314,45.07847,-105.43933,Biddle,MT,Montana,True,,89.0,0.1,30075,Powder River,"{""30075"": 100}",Powder River,30075,False,False,America/Denver,"(45.07847, -105.43933)",19.193546316186126,264.0,2980_0_no,44.94769865718268,-105.09264723406068,20.0
+82731,44.80203,-105.23982,Weston,WY,Wyoming,True,,175.0,0.2,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver,"(44.80203, -105.23982)",12.37843812307123,264.0,2980_0_no,44.94769865718268,-105.09264723406068,20.0

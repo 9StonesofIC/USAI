@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36756,32.69327,-87.29873,Marion,AL,Alabama,True,,4949.0,5.1,1105,Perry,"{""01105"": 99.9, ""01065"": 0.1}",Perry|Hale,01105|01065,False,False,America/Chicago,"(32.69327, -87.29873)",3.330367591536268,4949.0,19113_0_yes,32.66993686250971,-87.24861981502748,5.0

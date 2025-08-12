@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97023,45.19147,-122.20501,Estacada,OR,Oregon,True,,10481.0,20.6,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles,"(45.19147, -122.20501)",3.7853576211804585,10481.0,46890_0_no,45.23284170475521,-122.25599079307835,5.0

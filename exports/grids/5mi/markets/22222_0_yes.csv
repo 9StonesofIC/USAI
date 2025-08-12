@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71763,33.90885,-92.80648,Sparkman,AR,Arkansas,True,,1642.0,2.6,5039,Dallas,"{""05039"": 85.21, ""05103"": 11.03, ""05019"": 3.76}",Dallas|Ouachita|Clark,05039|05103|05019,False,False,America/Chicago,"(33.90885, -92.80648)",5.13086656128433,1642.0,22222_0_yes,33.97886817764001,-92.77666000948862,5.0

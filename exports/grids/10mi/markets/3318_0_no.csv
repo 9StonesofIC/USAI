@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32347,30.14416,-83.64268,Perry,FL,Florida,True,,7240.0,20.3,12123,Taylor,"{""12123"": 100}",Taylor,12123,False,False,America/New_York,"(30.14416, -83.64268)",11.583851482784713,7240.0,3318_0_no,30.03090512109464,-83.78554844770055,10.0

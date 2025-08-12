@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79108,35.37511,-101.80307,Amarillo,TX,Texas,True,,14580.0,30.7,48375,Potter,"{""48375"": 98.75, ""48065"": 1.25}",Potter|Carson,48375|48065,False,False,America/Chicago,"(35.37511, -101.80307)",4.720207937656432,14580.0,25619_0_no,35.362830004040816,-101.72065625409482,5.0

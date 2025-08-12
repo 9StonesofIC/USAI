@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83025,43.59371,-110.82814,Teton Village,WY,Wyoming,True,,946.0,26.3,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.59371, -110.82814)",4.206794666727155,946.0,43623_0_no,43.629769184929984,-110.76038170896804,5.0

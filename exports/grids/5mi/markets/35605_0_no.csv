@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64628,39.79711,-93.05002,Brookfield,MO,Missouri,True,,5872.0,15.2,29115,Linn,"{""29115"": 86.86, ""29041"": 13.14}",Linn|Chariton,29115|29041,False,False,America/Chicago,"(39.79711, -93.05002)",5.732515531745826,6458.0,35605_0_no,39.84904656208523,-93.13426327106208,5.0
+64653,39.89403,-93.20403,Linneus,MO,Missouri,True,,586.0,2.8,29115,Linn,"{""29115"": 100}",Linn,29115,False,False,America/Chicago,"(39.89403, -93.20403)",4.831877024314917,6458.0,35605_0_no,39.84904656208523,-93.13426327106208,5.0

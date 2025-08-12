@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74738,33.90131,-95.444,Grant,OK,Oklahoma,True,,642.0,8.7,40023,Choctaw,"{""40023"": 100}",Choctaw,40023,False,False,America/Chicago,"(33.90131, -95.444)",3.7282616561397037,642.0,22222_0_no,33.90833115791603,-95.5084617042546,5.0

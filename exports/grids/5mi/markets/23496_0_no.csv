@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29325,34.47682,-81.83973,Clinton,SC,South Carolina,True,,14763.0,36.2,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York,"(34.47682, -81.83973)",1.359144162382428,16033.0,23496_0_no,34.47853553946795,-81.81595825842183,5.0
+29351,34.42177,-81.80967,Joanna,SC,South Carolina,True,,1270.0,103.5,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York,"(34.42177, -81.80967)",3.9384551854860557,16033.0,23496_0_no,34.47853553946795,-81.81595825842183,5.0

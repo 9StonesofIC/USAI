@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37303,35.4403,-84.64051,Athens,TN,Tennessee,True,,25062.0,65.0,47107,McMinn,"{""47107"": 100}",McMinn,47107,False,False,America/New_York,"(35.4403, -84.64051)",3.14526893342921,25062.0,25540_0_yes,35.42271841416546,-84.58897677731045,5.0

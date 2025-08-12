@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54820,46.56024,-91.55475,Brule,WI,Wisconsin,True,,941.0,3.1,55031,Douglas,"{""55031"": 52.37, ""55007"": 47.63}",Douglas|Bayfield,55031|55007,False,False,America/Chicago,"(46.56024, -91.55475)",3.711135201293145,941.0,49303_0_no,46.507781301810674,-91.57151730112936,5.0

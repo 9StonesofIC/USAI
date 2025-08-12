@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42088,36.61808,-88.75409,Wingo,KY,Kentucky,True,,2138.0,12.2,21083,Graves,"{""21083"": 80.5, ""21105"": 19.5}",Graves|Hickman,21083|21105,False,False,America/Chicago,"(36.61808, -88.75409)",2.95779544584954,2138.0,28521_0_no,36.65782773504996,-88.73427941074488,5.0

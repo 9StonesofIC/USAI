@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84511,37.52687,-109.42054,Blanding,UT,Utah,True,,4695.0,9.9,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver,"(37.52687, -109.42054)",5.954498451253248,4695.0,7649_0_yes,37.4586826648078,-109.35411642474436,10.0

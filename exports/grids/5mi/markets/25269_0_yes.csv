@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74432,35.28371,-95.64911,Eufaula,OK,Oklahoma,True,,10197.0,18.8,40091,McIntosh,"{""40091"": 79.37, ""40121"": 20.63}",McIntosh|Pittsburg,40091|40121,False,False,America/Chicago,"(35.28371, -95.64911)",1.1411513896559093,10197.0,25269_0_yes,35.28584083484272,-95.62904603981276,5.0

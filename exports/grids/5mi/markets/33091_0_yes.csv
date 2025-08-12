@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65046,38.77658,-92.47889,Jamestown,MO,Missouri,True,,1548.0,8.1,29135,Moniteau,"{""29135"": 100}",Moniteau,29135,False,False,America/Chicago,"(38.77658, -92.47889)",4.064370225126894,1548.0,33091_0_yes,38.761832169112814,-92.4058524026356,5.0

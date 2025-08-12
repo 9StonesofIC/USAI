@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85262,33.85834,-111.80169,Scottsdale,AZ,Arizona,True,,12675.0,31.5,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(33.85834, -111.80169)",8.904432268535343,15715.0,5661_0_yes,33.982935275724714,-111.76199775901227,10.0
+85263,33.90026,-111.62412,Rio Verde,AZ,Arizona,True,,3040.0,6.2,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(33.90026, -111.62412)",9.751472850982598,15715.0,5661_0_yes,33.982935275724714,-111.76199775901227,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69133,41.21975,-103.47178,Dix,NE,Nebraska,True,,486.0,1.1,31105,Kimball,"{""31105"": 100}",Kimball,31105,False,False,America/Denver,"(41.21975, -103.47178)",4.335628659754362,486.0,38455_0_no,41.16128247212871,-103.4415023362492,5.0

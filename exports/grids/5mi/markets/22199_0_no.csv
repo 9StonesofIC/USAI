@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71639,33.89143,-91.54414,Dumas,AR,Arkansas,True,,5633.0,11.8,5079,Lincoln,"{""05079"": 52.26, ""05041"": 47.74}",Lincoln|Desha,05079|05041,False,False,America/Chicago,"(33.89143, -91.54414)",2.3821958570260535,5633.0,22199_0_no,33.90550431760177,-91.50622025599996,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65324,38.11104,-92.99997,Climax Springs,MO,Missouri,True,,1130.0,6.9,29029,Camden,"{""29029"": 100}",Camden,29029,False,False,America/Chicago,"(38.11104, -92.99997)",5.273467915170193,1130.0,31813_0_yes,38.18273408929597,-93.03325672577358,5.0

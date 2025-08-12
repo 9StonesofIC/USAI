@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84027,40.15643,-110.79453,Fruitland,UT,Utah,True,,587.0,1.0,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.15643, -110.79453)",4.929475226528783,587.0,36348_0_yes,40.22559965127218,-110.81741748604932,5.0

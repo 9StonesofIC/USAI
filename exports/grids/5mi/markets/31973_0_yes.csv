@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95476,38.25531,-122.46055,Sonoma,CA,California,True,,37150.0,133.0,6097,Sonoma,"{""06097"": 97.81, ""06055"": 2.19}",Sonoma|Napa,06097|06055,False,False,America/Los_Angeles,"(38.25531, -122.46055)",3.8653840278345655,37150.0,31973_0_yes,38.20573029720499,-122.42755862858893,5.0

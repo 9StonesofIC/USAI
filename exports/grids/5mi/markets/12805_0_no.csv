@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32403,30.05337,-85.55679,Panama City,FL,Florida,True,,2072.0,18.1,12005,Bay,"{""12005"": 100}",Bay,12005,False,False,America/Chicago,"(30.05337, -85.55679)",4.686092655742094,2072.0,12805_0_no,29.985549727540626,-85.55743354089998,5.0

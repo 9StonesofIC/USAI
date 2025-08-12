@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13782,42.17304,-74.9836,Hamden,NY,New York,True,,824.0,8.9,36025,Delaware,"{""36025"": 100}",Delaware,36025,False,False,America/New_York,"(42.17304, -74.9836)",4.1276732475249975,824.0,40446_0_no,42.15112553807569,-75.0585760194315,5.0

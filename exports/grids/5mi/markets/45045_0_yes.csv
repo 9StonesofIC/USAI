@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56258,44.44121,-95.75906,Marshall,MN,Minnesota,True,,15666.0,31.2,27083,Lyon,"{""27083"": 96.02, ""27127"": 3.98}",Lyon|Redwood,27083|27127,False,False,America/Chicago,"(44.44121, -95.75906)",3.7090026023725686,15666.0,45045_0_yes,44.41282783606457,-95.6952572715286,5.0

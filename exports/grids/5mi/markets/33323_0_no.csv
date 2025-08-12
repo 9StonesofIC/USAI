@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26218,38.84506,-80.26798,French Creek,WV,West Virginia,True,,2931.0,16.4,54097,Upshur,"{""54097"": 100}",Upshur,54097,False,False,America/New_York,"(38.84506, -80.26798)",1.8290895598848012,4121.0,33323_0_no,38.82467357235167,-80.24629997843074,5.0
+26234,38.76618,-80.30833,Rock Cave,WV,West Virginia,True,,1190.0,10.0,54097,Upshur,"{""54097"": 100}",Upshur,54097,False,False,America/New_York,"(38.76618, -80.30833)",5.243266509184806,4121.0,33323_0_no,38.82467357235167,-80.24629997843074,5.0

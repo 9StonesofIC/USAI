@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32639,29.23092,-82.72007,Gulf Hammock,FL,Florida,True,,270.0,2.2,12075,Levy,"{""12075"": 100}",Levy,12075,False,False,America/New_York,"(29.23092, -82.72007)",5.840666701526348,270.0,10665_0_yes,29.185889298290466,-82.80203194629884,5.0

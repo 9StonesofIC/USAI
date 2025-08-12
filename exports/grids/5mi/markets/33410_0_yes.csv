@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65287,38.88443,-92.51953,Wooldridge,MO,Missouri,True,,284.0,5.1,29135,Moniteau,"{""29135"": 54.88, ""29053"": 45.12}",Moniteau|Cooper,29135|29053,False,False,America/Chicago,"(38.88443, -92.51953)",1.5765031611058233,284.0,33410_0_yes,38.9068156196029,-92.52520361403596,5.0

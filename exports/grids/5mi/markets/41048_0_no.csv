@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12076,42.40868,-74.38506,Gilboa,NY,New York,True,,1188.0,6.7,36095,Schoharie,"{""36095"": 100}",Schoharie,36095,False,False,America/New_York,"(42.40868, -74.38506)",3.47649267644283,1286.0,41048_0_no,42.4401262254136,-74.43827107785224,5.0
+12131,42.46573,-74.46249,North Blenheim,NY,New York,True,,98.0,3.3,36095,Schoharie,"{""36095"": 100}",Schoharie,36095,False,False,America/New_York,"(42.46573, -74.46249)",2.1572999603010823,1286.0,41048_0_no,42.4401262254136,-74.43827107785224,5.0

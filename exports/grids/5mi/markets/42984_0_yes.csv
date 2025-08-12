@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51230,43.3562,-96.32217,Alvord,IA,Iowa,True,,367.0,6.0,19119,Lyon,"{""19119"": 100}",Lyon,19119,False,False,America/Chicago,"(43.3562, -96.32217)",4.450706751513412,2392.0,42984_0_yes,43.40000768526729,-96.387144447435,5.0
+51241,43.44992,-96.46001,Larchwood,IA,Iowa,True,,2025.0,8.7,19119,Lyon,"{""19119"": 100}",Lyon,19119,False,False,America/Chicago,"(43.44992, -96.46001)",5.026189822306716,2392.0,42984_0_yes,43.40000768526729,-96.387144447435,5.0

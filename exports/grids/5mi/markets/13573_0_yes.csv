@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77612,30.39851,-93.93276,Buna,TX,Texas,True,,9619.0,10.6,48241,Jasper,"{""48241"": 65.28, ""48351"": 34.72}",Jasper|Newton,48241|48351,False,False,America/Chicago,"(30.39851, -93.93276)",5.239557787561391,9619.0,13573_0_yes,30.35350123711422,-93.86201729827364,5.0

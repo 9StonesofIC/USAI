@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43036,40.3524,-83.26325,Magnetic Springs,OH,Ohio,True,,332.0,786.6,39159,Union,"{""39159"": 100}",Union,39159,False,False,America/New_York,"(40.3524, -83.26325)",2.7789118020382055,332.0,36515_0_yes,40.34797337588706,-83.31570402256855,5.0

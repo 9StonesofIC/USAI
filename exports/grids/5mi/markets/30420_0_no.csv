@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23040,37.51017,-78.24919,Cumberland,VA,Virginia,True,,4353.0,11.3,51049,Cumberland,"{""51049"": 90.52, ""51029"": 9.48}",Cumberland|Buckingham,51049|51029,False,False,America/New_York,"(37.51017, -78.24919)",3.128167088589172,4353.0,30420_0_no,37.51931255007602,-78.30509258504772,5.0

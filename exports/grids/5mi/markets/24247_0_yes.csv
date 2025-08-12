@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72135,34.87698,-92.56087,Roland,AR,Arkansas,True,,2978.0,15.6,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago,"(34.87698, -92.56087)",3.735861696889258,2978.0,24247_0_yes,34.84870709517384,-92.6170400453082,5.0

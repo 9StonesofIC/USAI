@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63954,36.56365,-90.47337,Neelyville,MO,Missouri,True,,833.0,3.0,29023,Butler,"{""29023"": 93.63, ""29181"": 6.37}",Butler|Ripley,29023|29181,False,False,America/Chicago,"(36.56365, -90.47337)",4.565196836084737,833.0,28202_0_no,36.51416406550965,-90.41887916006002,5.0

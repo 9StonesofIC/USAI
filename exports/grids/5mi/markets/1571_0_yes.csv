@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33187,25.54889,-80.57638,Miami,FL,Florida,True,,18381.0,62.8,12086,Miami-Dade,"{""12086"": 100}",Miami-Dade,12086,False,False,America/New_York,"(25.54889, -80.57638)",3.6481819906848947,18381.0,1571_0_yes,25.55683515415533,-80.63423882787149,5.0

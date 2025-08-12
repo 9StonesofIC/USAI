@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80759,40.10892,-102.68759,Yuma,CO,Colorado,True,,4806.0,2.9,8125,Yuma,"{""08125"": 92.06, ""08121"": 7.94}",Yuma|Washington,08125|08121,False,False,America/Denver,"(40.10892, -102.68759)",3.4553063037756355,4806.0,35992_0_yes,40.07411534108061,-102.73453064755788,5.0

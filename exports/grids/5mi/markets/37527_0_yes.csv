@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68832,40.76963,-98.36608,Doniphan,NE,Nebraska,True,,2118.0,8.2,31079,Hall,"{""31079"": 88.36, ""31081"": 11.64}",Hall|Hamilton,31079|31081,False,False,America/Chicago,"(40.76963, -98.36608)",3.9222695461430446,2118.0,37527_0_yes,40.7948279590603,-98.29889976169956,5.0

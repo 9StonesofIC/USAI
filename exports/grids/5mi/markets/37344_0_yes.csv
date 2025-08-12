@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96087,40.63296,-122.58067,Shasta,CA,California,True,,699.0,6.3,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(40.63296, -122.58067)",3.8542134005639075,699.0,37344_0_yes,40.66993390431491,-122.52561589807551,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95306,37.36015,-120.11581,Catheys Valley,CA,California,True,,841.0,2.0,6043,Mariposa,"{""06043"": 100}",Mariposa,06043,False,False,America/Los_Angeles,"(37.36015, -120.11581)",2.060687206901939,3853.0,7669_0_no,37.33043419874125,-120.11901227547312,10.0
+95333,37.2447,-120.24277,Le Grand,CA,California,True,,3012.0,9.5,6047,Merced,"{""06047"": 100}",Merced,06047,False,False,America/Los_Angeles,"(37.2447, -120.24277)",9.020638169114516,3853.0,7669_0_no,37.33043419874125,-120.11901227547312,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28366,35.22974,-78.36317,Newton Grove,NC,North Carolina,True,,5003.0,22.5,37163,Sampson,"{""37163"": 79.59, ""37101"": 20.41}",Sampson|Johnston,37163|37101,False,False,America/New_York,"(35.22974, -78.36317)",4.9583751639392455,5003.0,25171_0_yes,35.27316628558489,-78.2932082814963,5.0

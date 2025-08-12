@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56295,45.0437,-95.84292,Watson,MN,Minnesota,True,,262.0,4.5,27023,Chippewa,"{""27023"": 100}",Chippewa,27023,False,False,America/Chicago,"(45.0437, -95.84292)",3.925908502833223,262.0,46210_0_yes,44.99195050770116,-95.80972726032786,5.0

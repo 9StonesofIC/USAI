@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39451,31.16722,-88.61757,Leakesville,MS,Mississippi,True,,7377.0,10.9,28041,Greene,"{""28041"": 100}",Greene,28041,False,False,America/Chicago,"(31.16722, -88.61757)",1.5137034778567664,7377.0,15638_0_no,31.14802379112405,-88.62990763138357,5.0

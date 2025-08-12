@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64645,40.29834,-93.32575,Harris,MO,Missouri,True,,128.0,0.7,29211,Sullivan,"{""29211"": 70.8, ""29129"": 29.2}",Sullivan|Mercer,29211|29129,False,False,America/Chicago,"(40.29834, -93.32575)",1.3038084638132639,128.0,36544_0_no,40.28377407617664,-93.31002225901791,5.0

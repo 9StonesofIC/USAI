@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98325,47.96093,-122.77911,Chimacum,WA,Washington,True,,1321.0,18.4,53031,Jefferson,"{""53031"": 100}",Jefferson,53031,False,False,America/Los_Angeles,"(47.96093, -122.77911)",4.640669606300846,3497.0,51978_0_yes,47.91155370750194,-122.8470721672948,5.0
+98376,47.8455,-122.85916,Quilcene,WA,Washington,True,,2176.0,7.6,53031,Jefferson,"{""53031"": 100}",Jefferson,53031,False,False,America/Los_Angeles,"(47.8455, -122.85916)",4.598125046276836,3497.0,51978_0_yes,47.91155370750194,-122.8470721672948,5.0

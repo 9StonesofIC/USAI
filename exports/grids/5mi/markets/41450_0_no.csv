@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50516,42.62566,-94.13545,Badger,IA,Iowa,True,,578.0,8.6,19187,Webster,"{""19187"": 76.42, ""19091"": 23.58}",Webster|Humboldt,19187|19091,False,False,America/Chicago,"(42.62566, -94.13545)",1.7304814811372016,744.0,41450_0_no,42.60172994466383,-94.12540660391817,5.0
+50594,42.58561,-94.03949,Vincent,IA,Iowa,True,,166.0,2.4,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.58561, -94.03949)",4.5098143464242515,744.0,41450_0_no,42.60172994466383,-94.12540660391817,5.0

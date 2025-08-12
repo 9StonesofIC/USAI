@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40486,37.37238,-83.86123,Tyner,KY,Kentucky,True,,3068.0,23.0,21109,Jackson,"{""21109"": 90.49, ""21189"": 8.06, ""21051"": 1.45}",Jackson|Owsley|Clay,21109|21189|21051,False,False,America/New_York,"(37.37238, -83.86123)",0.941995014345043,3068.0,30126_0_no,37.37868319035828,-83.84601736223452,5.0

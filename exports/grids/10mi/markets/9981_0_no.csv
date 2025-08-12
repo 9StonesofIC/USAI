@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69167,41.58758,-101.02296,Tryon,NE,Nebraska,True,,306.0,0.2,31117,McPherson,"{""31117"": 100}",McPherson,31117,False,False,America/Chicago,"(41.58758, -101.02296)",8.46274047429568,306.0,9981_0_no,41.64598032763463,-100.87894876085866,10.0

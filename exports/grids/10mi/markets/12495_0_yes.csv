@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58655,46.77921,-103.03163,South Heart,ND,North Dakota,True,,625.0,2.2,38089,Stark,"{""38089"": 100}",Stark,38089,False,False,America/Denver,"(46.77921, -103.03163)",5.5218115117776,625.0,12495_0_yes,46.71524247772923,-103.1015445211148,10.0

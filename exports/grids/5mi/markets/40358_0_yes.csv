@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83263,42.17757,-111.76101,Preston,ID,Idaho,True,,9844.0,9.2,16041,Franklin,"{""16041"": 100}",Franklin,16041,False,False,America/Boise,"(42.17757, -111.76101)",4.693056224279021,9844.0,40358_0_yes,42.10980845513017,-111.76732926677818,5.0

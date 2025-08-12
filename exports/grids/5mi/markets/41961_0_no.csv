@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13152,42.89323,-76.38518,Skaneateles,NY,New York,True,,7841.0,47.8,36067,Onondaga,"{""36067"": 85.77, ""36011"": 14.23}",Onondaga|Cayuga,36067|36011,False,False,America/New_York,"(42.89323, -76.38518)",3.4454109669914796,7841.0,41961_0_no,42.87612099121001,-76.44910448304557,5.0

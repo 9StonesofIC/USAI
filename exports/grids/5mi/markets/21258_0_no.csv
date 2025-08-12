@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88351,33.47154,-105.09777,Tinnie,NM,New Mexico,True,,205.0,0.2,35027,Lincoln,"{""35027"": 100}",Lincoln,35027,False,False,America/Denver,"(33.47154, -105.09777)",4.739498463709971,205.0,21258_0_no,33.4800370964588,-105.17937370767808,5.0

@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50521,42.3462,-94.10276,Burnside,IA,Iowa,True,,77.0,24.4,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.3462, -94.10276)",2.7304242177495017,1462.0,40873_0_yes,42.38446752662056,-94.11610745077309,5.0
+50557,42.35544,-94.04409,Lehigh,IA,Iowa,True,,740.0,6.0,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.35544, -94.04409)",4.187765507914002,1462.0,40873_0_yes,42.38446752662056,-94.11610745077309,5.0
+50569,42.4032,-94.13841,Otho,IA,Iowa,True,,645.0,11.9,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.4032, -94.13841)",1.7234635628056447,1462.0,40873_0_yes,42.38446752662056,-94.11610745077309,5.0

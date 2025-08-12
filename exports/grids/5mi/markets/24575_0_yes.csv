@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72036,35.00673,-91.27205,Cotton Plant,AR,Arkansas,True,,630.0,2.1,5147,Woodruff,"{""05147"": 80.66, ""05095"": 19.34}",Woodruff|Monroe,05147|05095,False,False,America/Chicago,"(35.00673, -91.27205)",3.205828739389562,630.0,24575_0_yes,34.99275029528243,-91.32605976730854,5.0

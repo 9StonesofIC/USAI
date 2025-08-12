@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98244,48.79423,-121.93557,Deming,WA,Washington,True,,3483.0,2.9,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.79423, -121.93557)",1.2523552882963211,3483.0,13503_0_yes,48.77612143283804,-121.93437990319372,10.0

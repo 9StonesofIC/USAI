@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42603,36.77875,-85.01093,Alpha,KY,Kentucky,True,,54.0,1.8,21231,Wayne,"{""21231"": 55.37, ""21053"": 44.63}",Wayne|Clinton,21231|21053,False,False,America/Kentucky/Monticello,"(36.77875, -85.01093)",3.634549408768936,54.0,28520_0_yes,36.72742471608854,-84.99654526402871,5.0

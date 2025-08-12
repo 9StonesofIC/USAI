@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81426,37.87339,-107.83191,Ophir,CO,Colorado,True,,194.0,7.7,8113,San Miguel,"{""08113"": 100}",San Miguel,08113,False,False,America/Denver,"(37.87339, -107.83191)",2.856725303668857,194.0,31249_0_yes,37.90439110079097,-107.79724581437546,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84083,40.84354,-113.6944,Wendover,UT,Utah,True,,1384.0,0.9,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver,"(40.84354, -113.6944)",15.901421409022218,5757.0,2468_0_no,40.92599351681975,-113.97860471255238,20.0
+89883,40.84711,-114.18217,West Wendover,NV,Nevada,True,,4373.0,5.8,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles,"(40.84711, -114.18217)",11.948730280948999,5757.0,2468_0_no,40.92599351681975,-113.97860471255238,20.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28358,34.60527,-78.94097,Lumberton,NC,North Carolina,True,,39102.0,76.8,37155,Robeson,"{""37155"": 100}",Robeson,37155,False,False,America/New_York,"(34.60527, -78.94097)",1.1995793586725103,39102.0,23816_0_no,34.62142259159277,-78.93323525403382,5.0

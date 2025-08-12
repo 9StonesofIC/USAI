@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38070,35.94045,-89.24915,Tigrett,TN,Tennessee,True,,94.0,21.5,47045,Dyer,"{""47045"": 100}",Dyer,47045,False,False,America/Chicago,"(35.94045, -89.24915)",5.150469898309737,94.0,26896_0_yes,36.00598397232589,-89.29304669985547,5.0

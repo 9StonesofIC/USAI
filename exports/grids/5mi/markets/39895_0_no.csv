@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49120,41.83148,-86.23162,Niles,MI,Michigan,True,,35679.0,118.2,26021,Berrien,"{""26021"": 53.17, ""26027"": 46.83}",Berrien|Cass,26021|26027,False,False,America/Detroit,"(41.83148, -86.23162)",5.471861086119204,35679.0,39895_0_no,41.87093293939452,-86.13943296588207,5.0

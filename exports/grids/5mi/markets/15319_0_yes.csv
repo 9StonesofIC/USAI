@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71339,31.0058,-91.93637,Hamburg,LA,Louisiana,True,,255.0,13.8,22009,Avoyelles,"{""22009"": 100}",Avoyelles,22009,False,False,America/Chicago,"(31.0058, -91.93637)",4.972198986529459,2697.0,15319_0_yes,31.0776310449249,-91.94146219363292,5.0
+71355,31.05257,-91.88531,Moreauville,LA,Louisiana,True,,2442.0,14.1,22009,Avoyelles,"{""22009"": 100}",Avoyelles,22009,False,False,America/Chicago,"(31.05257, -91.88531)",3.74736310650487,2697.0,15319_0_yes,31.0776310449249,-91.94146219363292,5.0

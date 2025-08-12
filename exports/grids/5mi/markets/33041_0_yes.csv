@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45630,38.69758,-83.09275,Friendship,OH,Ohio,True,,75.0,131.3,39145,Scioto,"{""39145"": 100}",Scioto,39145,False,False,America/New_York,"(38.69758, -83.09275)",4.942757826152724,6369.0,33041_0_yes,38.75450010634462,-83.14829384499502,5.0
+45663,38.74507,-83.11198,West Portsmouth,OH,Ohio,True,,6294.0,36.1,39145,Scioto,"{""39145"": 100}",Scioto,39145,False,False,America/New_York,"(38.74507, -83.11198)",2.0623990259025016,6369.0,33041_0_yes,38.75450010634462,-83.14829384499502,5.0

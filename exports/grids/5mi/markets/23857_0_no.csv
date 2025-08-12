@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35769,34.59255,-86.09472,Scottsboro,AL,Alabama,True,,9376.0,57.4,1071,Jackson,"{""01071"": 73.36, ""01095"": 26.64}",Jackson|Marshall,01071|01095,False,False,America/Chicago,"(34.59255, -86.09472)",3.0363681069814676,9376.0,23857_0_no,34.6265983176304,-86.12847767279413,5.0

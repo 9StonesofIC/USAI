@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65721,36.9805,-93.21045,Ozark,MO,Missouri,True,,32788.0,132.0,29043,Christian,"{""29043"": 97.96, ""29077"": 2.04}",Christian|Greene,29043|29077,False,False,America/Chicago,"(36.9805, -93.21045)",3.9191482938455384,32788.0,29220_0_yes,37.023479662801,-93.16409971077584,5.0

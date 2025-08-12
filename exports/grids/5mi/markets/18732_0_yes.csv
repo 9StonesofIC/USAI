@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29936,32.48475,-80.96766,Ridgeland,SC,South Carolina,True,,14498.0,24.2,45053,Jasper,"{""45053"": 100}",Jasper,45053,False,False,America/New_York,"(32.48475, -80.96766)",2.4907334019640612,14498.0,18732_0_yes,32.52064476606597,-80.97160692233886,5.0

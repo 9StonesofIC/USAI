@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31305,31.39057,-81.39054,Darien,GA,Georgia,True,,6039.0,37.7,13191,McIntosh,"{""13191"": 100}",McIntosh,13191,False,False,America/New_York,"(31.39057, -81.39054)",7.650628993437604,14118.0,4189_0_no,31.477202622595644,-81.4713625363077,10.0
+31331,31.5159,-81.42042,Townsend,GA,Georgia,True,,8079.0,11.0,13191,McIntosh,"{""13191"": 100}",McIntosh,13191,False,False,America/New_York,"(31.5159, -81.42042)",4.019480724490273,14118.0,4189_0_no,31.477202622595644,-81.4713625363077,10.0

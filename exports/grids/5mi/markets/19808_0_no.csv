@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39159,32.82894,-90.92476,Rolling Fork,MS,Mississippi,True,,3133.0,3.2,28125,Sharkey,"{""28125"": 55.42, ""28055"": 44.58}",Sharkey|Issaquena,28125|28055,False,False,America/Chicago,"(32.82894, -90.92476)",5.6208021698573924,3133.0,19808_0_no,32.8899755589903,-90.86073296432548,5.0

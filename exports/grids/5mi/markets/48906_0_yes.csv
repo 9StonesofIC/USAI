@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98952,46.34991,-120.81561,White Swan,WA,Washington,True,,2125.0,2.1,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.34991, -120.81561)",2.260344080361192,2125.0,48906_0_yes,46.31739133875944,-120.82078420931092,5.0

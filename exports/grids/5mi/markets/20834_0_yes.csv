@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35461,33.41749,-88.21158,Ethelsville,AL,Alabama,True,,2140.0,6.5,1107,Pickens,"{""01107"": 100}",Pickens,01107,False,False,America/Chicago,"(33.41749, -88.21158)",3.920894743496245,2140.0,20834_0_yes,33.3956074571804,-88.14885851867855,5.0

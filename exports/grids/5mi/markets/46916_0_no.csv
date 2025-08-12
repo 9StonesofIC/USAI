@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04448,45.31208,-68.71977,Howland,ME,Maine,True,,1474.0,6.1,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(45.31208, -68.71977)",3.788265643047175,1474.0,46916_0_no,45.32944416390685,-68.64580731719892,5.0

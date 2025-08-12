@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49093,41.97375,-85.64665,Three Rivers,MI,Michigan,True,,18335.0,67.0,26149,St. Joseph,"{""26149"": 94.87, ""26027"": 5.13}",St. Joseph|Cass,26149|26027,False,False,America/Detroit,"(41.97375, -85.64665)",2.9922605261229474,18335.0,40197_0_no,42.01532922844766,-85.66294709360716,5.0

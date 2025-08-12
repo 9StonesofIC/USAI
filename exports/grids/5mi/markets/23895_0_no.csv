@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72087,34.59877,-92.83391,Lonsdale,AR,Arkansas,True,,2545.0,15.9,5125,Saline,"{""05125"": 63.81, ""05051"": 36.19}",Saline|Garland,05125|05051,False,False,America/Chicago,"(34.59877, -92.83391)",3.055443656135318,2545.0,23895_0_no,34.63139621978375,-92.79763793425818,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81431,38.13808,-108.51429,Redvale,CO,Colorado,True,,409.0,1.2,8113,San Miguel,"{""08113"": 65.09, ""08085"": 34.91}",San Miguel|Montrose,08113|08085,False,False,America/Denver,"(38.13808, -108.51429)",4.773964386412627,409.0,31897_0_yes,38.19480474525189,-108.46411266399056,5.0

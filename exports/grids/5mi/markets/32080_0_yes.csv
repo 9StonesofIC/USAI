@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41143,38.33916,-82.97704,Grayson,KY,Kentucky,True,,13851.0,27.6,21043,Carter,"{""21043"": 90.48, ""21089"": 9.52}",Carter|Greenup,21043|21089,False,False,America/New_York,"(38.33916, -82.97704)",3.240056710913522,13851.0,32080_0_yes,38.31979096437927,-83.03148124545888,5.0

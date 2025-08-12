@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68822,41.38899,-99.62766,Broken Bow,NE,Nebraska,True,,4883.0,4.9,31041,Custer,"{""31041"": 100}",Custer,31041,False,False,America/Chicago,"(41.38899, -99.62766)",1.6218984877819342,4883.0,38768_0_yes,41.37531368482162,-99.60223283119797,5.0

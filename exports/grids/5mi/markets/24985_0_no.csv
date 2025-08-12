@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87049,35.11699,-107.61026,San Fidel,NM,New Mexico,True,,1761.0,22.0,35006,Cibola,"{""35006"": 100}",Cibola,35006,False,False,America/Denver,"(35.11699, -107.61026)",2.8948503920323216,1761.0,24985_0_no,35.07713055061261,-107.62603739934298,5.0

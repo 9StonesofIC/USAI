@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53555,43.32163,-89.55625,Lodi,WI,Wisconsin,True,,8625.0,44.0,55021,Columbia,"{""55021"": 79.32, ""55025"": 20.68}",Columbia|Dane,55021|55025,False,False,America/Chicago,"(43.32163, -89.55625)",1.9670174715329816,8625.0,42923_0_no,43.32177009903577,-89.5953814142831,5.0

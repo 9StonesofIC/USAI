@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82009,41.38431,-104.85415,Cheyenne,WY,Wyoming,True,,34666.0,10.5,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver,"(41.38431, -104.85415)",3.002928777353094,34666.0,38795_0_yes,41.37965554998561,-104.79655860507916,5.0

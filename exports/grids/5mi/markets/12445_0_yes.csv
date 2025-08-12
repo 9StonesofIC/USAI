@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32038,29.93617,-82.69924,Fort White,FL,Florida,True,,10639.0,38.4,12023,Columbia,"{""12023"": 100}",Columbia,12023,False,False,America/New_York,"(29.93617, -82.69924)",2.6340972317285702,10639.0,12445_0_yes,29.911158634455266,-82.66604204853896,5.0

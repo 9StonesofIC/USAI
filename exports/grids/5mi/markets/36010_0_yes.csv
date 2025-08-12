@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80451,40.04007,-106.04456,Hot Sulphur Springs,CO,Colorado,True,,1094.0,11.4,8049,Grand,"{""08049"": 100}",Grand,08049,False,False,America/Denver,"(40.04007, -106.04456)",5.211586150582181,1094.0,36010_0_yes,40.07688072138654,-106.1305764298756,5.0

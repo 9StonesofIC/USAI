@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87325,35.97495,-108.58746,Tohatchi,NM,New Mexico,True,,3443.0,2.6,35031,McKinley,"{""35031"": 61.44, ""35045"": 38.56}",McKinley|San Juan,35031|35045,False,False,America/Denver,"(35.97495, -108.58746)",4.790410528243104,3443.0,26985_0_no,35.9478235245393,-108.50863073630708,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59410,47.49442,-112.64299,Augusta,MT,Montana,True,,519.0,0.2,30049,Lewis and Clark,"{""30049"": 97.51, ""30099"": 2.49}",Lewis and Clark|Teton,30049|30099,False,False,America/Denver,"(47.49442, -112.64299)",8.973230061178114,519.0,12921_0_no,47.45620019542068,-112.45935577821236,10.0

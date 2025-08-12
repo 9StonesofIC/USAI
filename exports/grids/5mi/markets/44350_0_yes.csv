@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12943,44.13934,-73.82075,Keene Valley,NY,New York,True,,314.0,1.2,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.13934, -73.82075)",5.342491440077519,381.0,44350_0_yes,44.103966910131234,-73.72496967155729,5.0
+12964,44.13224,-73.63625,New Russia,NY,New York,True,,67.0,0.8,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.13224, -73.63625)",4.814820410292794,381.0,44350_0_yes,44.103966910131234,-73.72496967155729,5.0

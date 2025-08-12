@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74577,34.71967,-94.85689,Whitesboro,OK,Oklahoma,True,,273.0,3.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago,"(34.71967, -94.85689)",4.033299067101574,273.0,24243_0_no,34.77786523705801,-94.85132533284374,5.0

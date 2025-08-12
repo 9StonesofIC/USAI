@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65233,38.91528,-92.72035,Boonville,MO,Missouri,True,,11785.0,32.1,29053,Cooper,"{""29053"": 100}",Cooper,29053,False,False,America/Chicago,"(38.91528, -92.72035)",0.7727445170714093,11785.0,33411_0_yes,38.9069630371808,-92.71074047112668,5.0

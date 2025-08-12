@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81091,37.14869,-104.97774,Weston,CO,Colorado,True,,727.0,0.7,8071,Las Animas,"{""08071"": 100}",Las Animas,08071,False,False,America/Denver,"(37.14869, -104.97774)",5.120011446902445,727.0,29612_0_yes,37.17750962720088,-105.0634060557946,5.0

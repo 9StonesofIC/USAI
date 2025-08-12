@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49969,46.24608,-89.21431,Watersmeet,MI,Michigan,True,,1170.0,1.8,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.24608, -89.21431)",4.1964852812373685,1170.0,48755_0_yes,46.28857677311412,-89.27708033992447,5.0

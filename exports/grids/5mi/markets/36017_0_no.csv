@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84651,39.95633,-111.69342,Payson,UT,Utah,True,,27142.0,82.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(39.95633, -111.69342)",4.011635939382548,50500.0,36017_0_no,40.00902673817882,-111.72523117972403,5.0
+84653,40.04803,-111.66804,Salem,UT,Utah,True,,9481.0,228.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.04803, -111.66804)",4.0518754959635395,50500.0,36017_0_no,40.00902673817882,-111.72523117972403,5.0
+84655,39.97427,-111.80716,Santaquin,UT,Utah,True,,13877.0,115.8,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(39.97427, -111.80716)",4.957399409974532,50500.0,36017_0_no,40.00902673817882,-111.72523117972403,5.0

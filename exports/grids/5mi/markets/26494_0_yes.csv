@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27962,35.78437,-76.75026,Plymouth,NC,North Carolina,True,,6813.0,30.9,37187,Washington,"{""37187"": 93.12, ""37013"": 6.88}",Washington|Beaufort,37187|37013,False,False,America/New_York,"(35.78437, -76.75026)",5.214585126182357,6813.0,26494_0_yes,35.851704866098736,-76.708222166861,5.0

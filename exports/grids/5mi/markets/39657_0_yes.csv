@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50109,41.76802,-93.80775,Granger,IA,Iowa,True,,3221.0,64.2,19153,Polk,"{""19153"": 58.22, ""19049"": 41.78}",Polk|Dallas,19153|19049,False,False,America/Chicago,"(41.76802, -93.80775)",2.579474215511847,3221.0,39657_0_yes,41.80495518701132,-93.81504108173424,5.0

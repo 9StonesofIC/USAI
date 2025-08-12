@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59820,46.89803,-114.61474,Alberton,MT,Montana,True,,2064.0,2.1,30061,Mineral,"{""30061"": 72.05, ""30063"": 27.95}",Mineral|Missoula,30061|30063,False,False,America/Denver,"(46.89803, -114.61474)",4.386035685860063,2064.0,12649_0_no,46.88151991314846,-114.7044310045062,10.0

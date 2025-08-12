@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23079,37.7248,-76.68941,Jamaica,VA,Virginia,True,,497.0,8.9,51119,Middlesex,"{""51119"": 100}",Middlesex,51119,False,False,America/New_York,"(37.7248, -76.68941)",4.638394921986014,1167.0,30755_0_yes,37.735278347737626,-76.60556982866468,5.0
+23180,37.69977,-76.62045,Water View,VA,Virginia,True,,670.0,27.3,51119,Middlesex,"{""51119"": 100}",Middlesex,51119,False,False,America/New_York,"(37.69977, -76.62045)",2.5846789648446173,1167.0,30755_0_yes,37.735278347737626,-76.60556982866468,5.0

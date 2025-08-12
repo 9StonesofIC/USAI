@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99129,48.00281,-118.18342,Fruitland,WA,Washington,True,,671.0,1.8,53065,Stevens,"{""53065"": 100}",Stevens,53065,False,False,America/Los_Angeles,"(48.00281, -118.18342)",5.426923322034189,671.0,52230_0_yes,48.05181986385236,-118.09164281706732,5.0

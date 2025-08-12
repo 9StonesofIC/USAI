@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58045,47.38241,-97.02686,Hillsboro,ND,North Dakota,True,,2003.0,3.7,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago,"(47.38241, -97.02686)",4.917883916968389,2121.0,51031_0_yes,47.453306039903936,-97.03620240687586,5.0
+58223,47.51384,-97.02573,Cummings,ND,North Dakota,True,,118.0,0.6,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago,"(47.51384, -97.02573)",4.210986288828095,2121.0,51031_0_yes,47.453306039903936,-97.03620240687586,5.0

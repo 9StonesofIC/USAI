@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83238,42.37942,-111.10593,Geneva,ID,Idaho,True,,58.0,0.2,16007,Bear Lake,"{""16007"": 100}",Bear Lake,16007,False,False,America/Boise,"(42.37942, -111.10593)",1.534015944041406,58.0,40960_0_yes,42.39896181335556,-111.12019783020656,5.0

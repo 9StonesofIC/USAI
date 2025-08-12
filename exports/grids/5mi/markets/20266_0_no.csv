@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85135,32.9987,-110.78242,Hayden,AZ,Arizona,True,,444.0,118.4,4007,Gila,"{""04007"": 100}",Gila,04007,False,False,America/Phoenix,"(32.9987, -110.78242)",3.4912010372331785,444.0,20266_0_no,33.04875658438265,-110.7906390107366,5.0

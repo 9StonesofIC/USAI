@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23083,37.31899,-78.11111,Jetersville,VA,Virginia,True,,2299.0,14.3,51007,Amelia,"{""51007"": 98.34, ""51135"": 1.66}",Amelia|Nottoway,51007|51135,False,False,America/New_York,"(37.31899, -78.11111)",2.753327377669848,2299.0,29789_0_yes,37.30182877135665,-78.15632799745745,5.0

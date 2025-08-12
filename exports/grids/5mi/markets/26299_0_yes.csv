@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79080,35.70341,-101.21116,Skellytown,TX,Texas,True,,453.0,0.9,48233,Hutchinson,"{""48233"": 86.06, ""48065"": 13.94}",Hutchinson|Carson,48233|48065,False,False,America/Chicago,"(35.70341, -101.21116)",3.1277991138601626,453.0,26299_0_yes,35.72485471451164,-101.16205842278856,5.0

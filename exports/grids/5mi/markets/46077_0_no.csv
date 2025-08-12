@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12917,44.92468,-74.17387,Burke,NY,New York,True,,1344.0,11.5,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.92468, -74.17387)",1.7403244863455385,1344.0,46077_0_no,44.90031399233868,-74.16485794369275,5.0

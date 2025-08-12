@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49881,46.07852,-88.03259,Sagola,MI,Michigan,True,,440.0,3.6,26043,Dickinson,"{""26043"": 100}",Dickinson,26043,False,False,America/Menominee,"(46.07852, -88.03259)",2.789404157155498,440.0,48439_0_no,46.07048989080421,-88.08962263246276,5.0

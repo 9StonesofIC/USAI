@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68753,42.84464,-99.45588,Mills,NE,Nebraska,True,,175.0,0.8,31103,Keya Paha,"{""31103"": 100}",Keya Paha,31103,False,False,America/Chicago,"(42.84464, -99.45588)",10.251175741271718,783.0,10583_0_no,42.802037927818695,-99.64964700569098,10.0
+68778,42.86963,-99.79483,Springview,NE,Nebraska,True,,608.0,0.5,31103,Keya Paha,"{""31103"": 100}",Keya Paha,31103,False,False,America/Chicago,"(42.86963, -99.79483)",8.713206926455232,783.0,10583_0_no,42.802037927818695,-99.64964700569098,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59076,46.28252,-107.06847,Sanders,MT,Montana,True,,48.0,1.3,30103,Treasure,"{""30103"": 100}",Treasure,30103,False,False,America/Denver,"(46.28252, -107.06847)",9.258018539482682,2667.0,12349_0_no,46.28830091367078,-106.8747577541006,10.0
+59327,46.2389,-106.7082,Forsyth,MT,Montana,True,,2619.0,0.5,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver,"(46.2389, -106.7082)",8.65726273684579,2667.0,12349_0_no,46.28830091367078,-106.8747577541006,10.0

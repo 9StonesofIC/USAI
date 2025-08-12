@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57762,44.75285,-103.60902,Nisland,SD,South Dakota,True,,445.0,1.6,46019,Butte,"{""46019"": 100}",Butte,46019,False,False,America/Denver,"(44.75285, -103.60902)",7.962604040943076,445.0,11494_0_yes,44.69012311623103,-103.47295721967107,10.0

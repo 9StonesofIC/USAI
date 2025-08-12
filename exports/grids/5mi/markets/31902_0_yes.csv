@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84530,38.23736,-109.40846,La Sal,UT,Utah,True,,255.0,0.1,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver,"(38.23736, -109.40846)",3.211201345544459,255.0,31902_0_yes,38.19552340067356,-109.38269631014988,5.0

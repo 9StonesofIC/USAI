@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56732,48.5863,-96.49276,Karlstad,MN,Minnesota,True,,1030.0,2.5,27069,Kittson,"{""27069"": 70.59, ""27089"": 18.09, ""27135"": 11.32}",Kittson|Marshall|Roseau,27069|27089|27135,False,False,America/Chicago,"(48.5863, -96.49276)",5.258547254874559,1030.0,53193_0_no,48.53801655047394,-96.58165471698518,5.0

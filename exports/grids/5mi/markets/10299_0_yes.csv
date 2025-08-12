@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32720,29.01775,-81.37802,Deland,FL,Florida,True,,33485.0,195.0,12127,Volusia,"{""12127"": 55.86, ""12069"": 44.14}",Volusia|Lake,12127|12069,False,False,America/New_York,"(29.01775, -81.37802)",1.5500126491833919,33485.0,10299_0_yes,29.039931031003324,-81.3741810521864,5.0

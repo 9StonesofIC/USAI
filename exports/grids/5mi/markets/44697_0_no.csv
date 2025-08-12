@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54457,44.22965,-89.89502,Nekoosa,WI,Wisconsin,True,,7592.0,21.0,55001,Adams,"{""55001"": 42.84, ""55141"": 32.34, ""55057"": 24.82}",Adams|Wood|Juneau,55001|55141|55057,False,False,America/Chicago,"(44.22965, -89.89502)",2.7374917600251285,7592.0,44697_0_no,44.190611000234775,-89.88558744633445,5.0

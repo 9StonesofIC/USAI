@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78631,30.34576,-99.31161,Harper,TX,Texas,True,,3157.0,4.1,48267,Kimble,"{""48267"": 48.78, ""48171"": 44.33, ""48265"": 6.9}",Kimble|Gillespie|Kerr,48267|48171|48265,False,False,America/Chicago,"(30.34576, -99.31161)",4.311164093220953,3157.0,13594_0_no,30.284478114554016,-99.32520877624108,5.0

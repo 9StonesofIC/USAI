@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+11772,40.76118,-72.9875,Patchogue,NY,New York,True,,46311.0,1108.4,36103,Suffolk,"{""36103"": 100}",Suffolk,36103,False,False,America/New_York,"(40.76118, -72.9875)",5.5059972935735395,61067.0,37369_0_no,40.70150697330093,-72.91780187754125,5.0
+11951,40.76624,-72.83655,Mastic Beach,NY,New York,True,,14756.0,1187.2,36103,Suffolk,"{""36103"": 100}",Suffolk,36103,False,False,America/New_York,"(40.76624, -72.83655)",6.172577181628851,61067.0,37369_0_no,40.70150697330093,-72.91780187754125,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83271,42.4574,-112.84551,Rockland,ID,Idaho,True,,381.0,0.6,16077,Power,"{""16077"": 100}",Power,16077,False,False,America/Boise,"(42.4574, -112.84551)",4.298319034504435,381.0,40969_0_yes,42.40046163989992,-112.87946501540532,5.0

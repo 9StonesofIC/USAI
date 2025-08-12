@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28112,34.89355,-80.54113,Monroe,NC,North Carolina,True,,27580.0,80.6,37179,Union,"{""37179"": 100}",Union,37179,False,False,America/New_York,"(34.89355, -80.54113)",1.3851215308871587,27580.0,24497_0_no,34.91247805872564,-80.53307741457816,5.0

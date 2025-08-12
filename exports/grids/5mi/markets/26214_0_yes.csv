@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37026,35.69578,-86.10746,Bradyville,TN,Tennessee,True,,2117.0,16.0,47015,Cannon,"{""47015"": 96.34, ""47031"": 3.66}",Cannon|Coffee,47015|47031,False,False,America/Chicago,"(35.69578, -86.10746)",3.7853348172847636,2117.0,26214_0_yes,35.71368263329032,-86.04369660983131,5.0

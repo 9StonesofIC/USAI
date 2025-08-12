@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98860,47.46899,-119.12391,Wilson Creek,WA,Washington,True,,214.0,0.8,53025,Grant,"{""53025"": 100}",Grant,53025,False,False,America/Los_Angeles,"(47.46899, -119.12391)",4.778306099319635,214.0,51134_0_yes,47.47376989346248,-119.0218448378462,5.0

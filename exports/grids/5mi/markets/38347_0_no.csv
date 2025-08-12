@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44890,41.0818,-82.71248,Willard,OH,Ohio,True,,10551.0,48.1,39077,Huron,"{""39077"": 100}",Huron,39077,False,False,America/New_York,"(41.0818, -82.71248)",4.46272699746861,10551.0,38347_0_no,41.14405102926035,-82.73534045467274,5.0

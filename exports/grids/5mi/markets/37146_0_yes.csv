@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46711,40.6635,-84.92398,Berne,IN,Indiana,True,,8228.0,55.1,18001,Adams,"{""18001"": 100}",Adams,18001,False,False,America/Indiana/Indianapolis,"(40.6635, -84.92398)",4.32335983286151,8228.0,37146_0_yes,40.63888960560952,-84.8481522560767,5.0

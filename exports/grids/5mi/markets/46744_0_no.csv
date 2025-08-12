@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54007,45.18781,-92.35734,Deer Park,WI,Wisconsin,True,,960.0,8.2,55109,St. Croix,"{""55109"": 77.92, ""55095"": 22.08}",St. Croix|Polk,55109|55095,False,False,America/Chicago,"(45.18781, -92.35734)",1.474464126967731,960.0,46744_0_no,45.20600896371266,-92.34152485330344,5.0

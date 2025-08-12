@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23937,36.94547,-78.52463,Drakes Branch,VA,Virginia,True,,2143.0,12.3,51037,Charlotte,"{""51037"": 77.68, ""51111"": 22.32}",Charlotte|Lunenburg,51037|51111,False,False,America/New_York,"(36.94547, -78.52463)",2.487291850664138,2143.0,29119_0_no,36.93988275600294,-78.4801341487421,5.0

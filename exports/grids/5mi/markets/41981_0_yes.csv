@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13357,42.96952,-75.08037,Ilion,NY,New York,True,,10748.0,140.4,36043,Herkimer,"{""36043"": 100}",Herkimer,36043,False,False,America/New_York,"(42.96952, -75.08037)",1.6382197556888645,10748.0,41981_0_yes,42.9472812191304,-75.09160536036727,5.0

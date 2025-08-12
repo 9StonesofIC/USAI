@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98256,47.82883,-121.41464,Index,WA,Washington,True,,369.0,1.9,53061,Snohomish,"{""53061"": 100}",Snohomish,53061,False,False,America/Los_Angeles,"(47.82883, -121.41464)",5.3039852272611885,369.0,51696_0_yes,47.76541658463166,-121.35023763086188,5.0

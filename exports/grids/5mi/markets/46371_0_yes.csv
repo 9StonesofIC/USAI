@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04942,45.04148,-69.59241,Harmony,ME,Maine,True,,1124.0,3.7,23025,Somerset,"{""23025"": 56.48, ""23021"": 43.52}",Somerset|Piscataquis,23025|23021,False,False,America/New_York,"(45.04148, -69.59241)",5.3160203293126775,1124.0,46371_0_yes,45.11318335344581,-69.55290205221792,5.0

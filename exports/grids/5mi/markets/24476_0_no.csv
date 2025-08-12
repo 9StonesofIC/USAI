@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28532,34.88857,-76.90872,Havelock,NC,North Carolina,True,,22187.0,51.8,37049,Craven,"{""37049"": 100}",Craven,37049,False,False,America/New_York,"(34.88857, -76.90872)",4.43157906329521,25650.0,24476_0_no,34.90979873374993,-76.83492473611389,5.0
+28533,34.90167,-76.89955,Cherry Point,NC,North Carolina,True,,3463.0,1912.6,37049,Craven,"{""37049"": 100}",Craven,37049,False,False,America/New_York,"(34.90167, -76.89955)",3.70469109118372,25650.0,24476_0_no,34.90979873374993,-76.83492473611389,5.0

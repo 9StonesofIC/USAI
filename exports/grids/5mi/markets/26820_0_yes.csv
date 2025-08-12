@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27948,36.01761,-75.68663,Kill Devil Hills,NC,North Carolina,True,,12044.0,502.4,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(36.01761, -75.68663)",2.735285994123436,12044.0,26820_0_yes,35.99589147759048,-75.72754592625519,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79547,33.20478,-99.91023,Rule,TX,Texas,True,,932.0,4.5,48207,Haskell,"{""48207"": 99.52, ""48433"": 0.48}",Haskell|Stonewall,48207|48433,False,False,America/Chicago,"(33.20478, -99.91023)",8.965951134047147,1129.0,5115_0_yes,33.096260049206066,-99.82524622472756,10.0
+79548,33.06989,-99.93005,Rule,TX,Texas,True,,197.0,0.9,48207,Haskell,"{""48207"": 100}",Haskell,48207,False,False,America/Chicago,"(33.06989, -99.93005)",6.334965759732694,1129.0,5115_0_yes,33.096260049206066,-99.82524622472756,10.0

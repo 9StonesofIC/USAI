@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75144,32.11157,-96.20954,Kerens,TX,Texas,True,,3414.0,7.6,48349,Navarro,"{""48349"": 100}",Navarro,48349,False,False,America/Chicago,"(32.11157, -96.20954)",1.8477043156233686,6004.0,17784_0_yes,32.09585743378808,-96.18399455541616,5.0
+75163,32.1672,-96.10999,Trinidad,TX,Texas,True,,2590.0,29.5,48213,Henderson,"{""48213"": 100}",Henderson,48213,False,False,America/Chicago,"(32.1672, -96.10999)",6.561035198440708,6004.0,17784_0_yes,32.09585743378808,-96.18399455541616,5.0

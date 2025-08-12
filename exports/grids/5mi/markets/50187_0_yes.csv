@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56467,46.97714,-94.83753,Nevis,MN,Minnesota,True,,2685.0,8.3,27057,Hubbard,"{""27057"": 100}",Hubbard,27057,False,False,America/Chicago,"(46.97714, -94.83753)",5.379349887283901,2685.0,50187_0_yes,47.01727473983675,-94.93534658336232,5.0

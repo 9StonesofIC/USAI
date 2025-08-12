@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87375,35.66114,-108.79477,Yatahey,NM,New Mexico,True,,3607.0,8.3,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.66114, -108.79477)",2.7509816524811432,3607.0,26324_0_no,35.657995316444456,-108.74591922837236,5.0

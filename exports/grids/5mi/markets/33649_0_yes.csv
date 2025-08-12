@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+20117,38.99473,-77.73851,Middleburg,VA,Virginia,True,,2591.0,20.6,51107,Loudoun,"{""51107"": 89.41, ""51061"": 10.59}",Loudoun|Fauquier,51107|51061,False,False,America/New_York,"(38.99473, -77.73851)",3.62722897163381,2591.0,33649_0_yes,39.03994476692247,-77.77284399493546,5.0

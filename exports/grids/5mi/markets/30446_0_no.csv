@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41632,37.55029,-82.94982,Gunlock,KY,Kentucky,True,,457.0,5.4,21153,Magoffin,"{""21153"": 100}",Magoffin,21153,False,False,America/New_York,"(37.55029, -82.94982)",5.209030438311644,457.0,30446_0_no,37.522960477509166,-83.03842832326085,5.0

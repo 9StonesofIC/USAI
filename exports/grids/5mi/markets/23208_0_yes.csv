@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35651,34.46254,-87.48044,Mount Hope,AL,Alabama,True,,1614.0,15.4,1079,Lawrence,"{""01079"": 100}",Lawrence,01079,False,False,America/Chicago,"(34.46254, -87.48044)",4.7452935938131455,1614.0,23208_0_yes,34.410109275495294,-87.53422658864307,5.0

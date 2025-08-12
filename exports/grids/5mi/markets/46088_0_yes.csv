@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04964,44.9355,-70.83584,Oquossoc,ME,Maine,True,,130.0,0.6,23017,Oxford,"{""23017"": 74.12, ""23007"": 25.88}",Oxford|Franklin,23017|23007,False,False,America/New_York,"(44.9355, -70.83584)",4.602377455828554,130.0,46088_0_yes,44.96971335039747,-70.91659976071422,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95567,41.9498,-124.1118,Smith River,CA,California,True,,1888.0,11.7,6015,Del Norte,"{""06015"": 100}",Del Norte,06015,False,False,America/Los_Angeles,"(41.9498, -124.1118)",4.598329900190265,1888.0,40117_0_yes,41.97531873491593,-124.02913859474072,5.0

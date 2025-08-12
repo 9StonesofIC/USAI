@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58561,46.49706,-99.68118,Napoleon,ND,North Dakota,True,,972.0,1.1,38047,Logan,"{""38047"": 100}",Logan,38047,False,False,America/Chicago,"(46.49706, -99.68118)",3.9783531940557793,972.0,49087_0_yes,46.4427770666396,-99.65329891533814,5.0

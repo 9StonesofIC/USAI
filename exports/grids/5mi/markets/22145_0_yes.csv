@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29519,34.01622,-79.36048,Centenary,SC,South Carolina,True,,407.0,35.6,45067,Marion,"{""45067"": 100}",Marion,45067,False,False,America/New_York,"(34.01622, -79.36048)",3.2599268405471906,407.0,22145_0_yes,33.96938055058666,-79.36731922312282,5.0

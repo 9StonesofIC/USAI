@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86040,36.66294,-111.3852,Page,AZ,Arizona,True,,10599.0,4.6,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver,"(36.66294, -111.3852)",6.980715205507287,13464.0,1831_0_yes,36.57143997703351,-111.33182388875976,20.0
+86053,36.75699,-111.05597,Kaibeto,AZ,Arizona,True,,2865.0,1.8,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver,"(36.75699, -111.05597)",19.952531593347206,13464.0,1831_0_yes,36.57143997703351,-111.33182388875976,20.0

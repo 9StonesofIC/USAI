@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33875,27.41813,-81.49198,Sebring,FL,Florida,True,,10787.0,78.0,12055,Highlands,"{""12055"": 100}",Highlands,12055,False,False,America/New_York,"(27.41813, -81.49198)",3.313616224439282,10787.0,6330_0_no,27.371432772499382,-81.47967353055422,5.0

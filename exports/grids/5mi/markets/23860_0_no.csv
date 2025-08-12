@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35808,34.63236,-86.65579,Huntsville,AL,Alabama,True,,1308.0,8.6,1089,Madison,"{""01089"": 100}",Madison,01089,False,False,America/Chicago,"(34.63236, -86.65579)",0.3747907035243664,1308.0,23860_0_no,34.62697706832435,-86.65497636724696,5.0

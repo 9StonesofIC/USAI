@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51250,43.08437,-96.21232,Sioux Center,IA,Iowa,True,,9032.0,47.6,19167,Sioux,"{""19167"": 100}",Sioux,19167,False,False,America/Chicago,"(43.08437, -96.21232)",4.658630461846076,9032.0,42387_0_yes,43.11019924460521,-96.12702552046385,5.0

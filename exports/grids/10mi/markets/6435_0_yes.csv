@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38485,35.33281,-87.77659,Waynesboro,TN,Tennessee,True,,6384.0,8.7,47181,Wayne,"{""47181"": 99.02, ""47101"": 0.98}",Wayne|Lewis,47181|47101,False,False,America/Chicago,"(35.33281, -87.77659)",4.513580133849407,6384.0,6435_0_yes,35.39776682197401,-87.7850917360594,10.0

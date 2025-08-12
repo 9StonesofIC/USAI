@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65330,39.22096,-92.94945,Gilliam,MO,Missouri,True,,494.0,3.7,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago,"(39.22096, -92.94945)",1.6629508494517637,494.0,34048_0_yes,39.19692358189157,-92.95104453297012,5.0

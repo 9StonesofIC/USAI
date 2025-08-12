@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84022,40.17921,-112.81371,Dugway,UT,Utah,True,,672.0,1.8,49045,Tooele,"{""49045"": 75.59, ""49023"": 24.41}",Tooele|Juab,49045|49023,False,False,America/Denver,"(40.17921, -112.81371)",9.391888662242842,672.0,9096_0_yes,40.072579072322746,-112.92396252820656,10.0

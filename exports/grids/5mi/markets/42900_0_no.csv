@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48852,43.35256,-85.04652,Mcbrides,MI,Michigan,True,,138.0,278.9,26117,Montcalm,"{""26117"": 100}",Montcalm,26117,False,False,America/Detroit,"(43.35256, -85.04652)",2.5060359023758316,6121.0,42900_0_no,43.317812600601,-85.03222223373031,5.0
+48888,43.3089,-85.09566,Stanton,MI,Michigan,True,,5983.0,27.1,26117,Montcalm,"{""26117"": 100}",Montcalm,26117,False,False,America/Detroit,"(43.3089, -85.09566)",3.2481313408750982,6121.0,42900_0_no,43.317812600601,-85.03222223373031,5.0

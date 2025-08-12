@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58716,47.80049,-101.06003,Benedict,ND,North Dakota,True,,146.0,0.7,38055,McLean,"{""38055"": 61.42, ""38101"": 38.58}",McLean|Ward,38055|38101,False,False,America/Chicago,"(47.80049, -101.06003)",1.2685073136216292,146.0,51850_0_no,47.81884356948434,-101.06071340130325,5.0

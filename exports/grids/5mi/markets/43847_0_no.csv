@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57030,43.73435,-96.53549,Garretson,SD,South Dakota,True,,2953.0,8.6,46099,Minnehaha,"{""46099"": 89.97, ""27133"": 10.03}",Minnehaha|Rock,46099|27133,False,False,America/Chicago,"(43.73435, -96.53549)",1.9205519232501793,2953.0,43847_0_no,43.76214533220468,-96.5351445709108,5.0

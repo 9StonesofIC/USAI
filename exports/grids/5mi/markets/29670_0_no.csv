@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93664,37.05671,-119.17981,Shaver Lake,CA,California,True,,370.0,0.8,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(37.05671, -119.17981)",5.057100884712218,370.0,29670_0_no,37.11580570623069,-119.12567714794434,5.0

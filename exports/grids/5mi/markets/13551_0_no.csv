@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70583,30.25846,-92.12204,Scott,LA,Louisiana,True,,11072.0,150.7,22055,Lafayette,"{""22055"": 85.5, ""22001"": 14.5}",Lafayette|Acadia,22055|22001,False,False,America/Chicago,"(30.25846, -92.12204)",1.6083867791406694,11072.0,13551_0_no,30.279883236730257,-92.13258413572868,5.0

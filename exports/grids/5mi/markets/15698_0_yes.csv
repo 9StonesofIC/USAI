@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76680,31.18798,-96.80383,Reagan,TX,Texas,True,,189.0,1.6,48145,Falls,"{""48145"": 100}",Falls,48145,False,False,America/Chicago,"(31.18798, -96.80383)",2.75477280258693,189.0,15698_0_yes,31.225876862946198,-96.78934607241108,5.0

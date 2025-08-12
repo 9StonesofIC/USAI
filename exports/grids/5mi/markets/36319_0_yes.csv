@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80540,40.23186,-105.39341,Lyons,CO,Colorado,True,,4733.0,12.0,8013,Boulder,"{""08013"": 65.4, ""08069"": 34.6}",Boulder|Larimer,08013|08069,False,False,America/Denver,"(40.23186, -105.39341)",3.2138294572027757,4733.0,36319_0_yes,40.22112107885124,-105.33413328928368,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96011,41.05762,-121.89157,Big Bend,CA,California,True,,260.0,0.9,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(41.05762, -121.89157)",6.77521140236924,5143.0,9729_0_no,41.101546258367286,-121.77526581510632,10.0
+96013,40.97495,-121.68316,Burney,CA,California,True,,4883.0,12.3,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(40.97495, -121.68316)",9.977499738924571,5143.0,9729_0_no,41.101546258367286,-121.77526581510632,10.0

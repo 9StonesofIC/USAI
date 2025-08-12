@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55321,45.08406,-94.193,Cokato,MN,Minnesota,True,,5238.0,25.0,27171,Wright,"{""27171"": 100}",Wright,27171,False,False,America/Chicago,"(45.08406, -94.193)",3.7061056396667906,9995.0,46465_0_no,45.06299045008464,-94.26284960151888,5.0
+55325,45.08432,-94.32031,Dassel,MN,Minnesota,True,,4757.0,24.0,27093,Meeker,"{""27093"": 100}",Meeker,27093,False,False,America/Chicago,"(45.08432, -94.32031)",3.1674294013527184,9995.0,46465_0_no,45.06299045008464,-94.26284960151888,5.0

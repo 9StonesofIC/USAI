@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80745,40.88801,-103.40077,Padroni,CO,Colorado,True,,209.0,0.5,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.88801, -103.40077)",3.152405535804304,209.0,37838_0_no,40.87147555687662,-103.34452784940602,5.0

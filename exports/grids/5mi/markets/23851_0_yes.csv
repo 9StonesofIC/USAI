@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29644,34.66864,-82.19714,Fountain Inn,SC,South Carolina,True,,21811.0,102.7,45045,Greenville,"{""45045"": 50.14, ""45059"": 49.86}",Greenville|Laurens,45045|45059,False,False,America/New_York,"(34.66864, -82.19714)",4.0387725613879315,21811.0,23851_0_yes,34.69616857202312,-82.13443229565789,5.0

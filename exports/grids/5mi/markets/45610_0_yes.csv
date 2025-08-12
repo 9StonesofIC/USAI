@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54737,44.71593,-91.98298,Eau Galle,WI,Wisconsin,True,,679.0,12.4,55033,Dunn,"{""55033"": 94.83, ""55091"": 5.17}",Dunn|Pepin,55033|55091,False,False,America/Chicago,"(44.71593, -91.98298)",4.499087411103392,679.0,45610_0_yes,44.69896633832708,-91.89452236780228,5.0

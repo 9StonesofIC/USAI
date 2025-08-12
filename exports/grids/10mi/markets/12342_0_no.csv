@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58643,46.22974,-103.95091,Marmarth,ND,North Dakota,True,,180.0,0.5,38011,Bowman,"{""38011"": 70.28, ""38087"": 29.72}",Bowman|Slope,38011|38087,False,False,America/Denver,"(46.22974, -103.95091)",3.677233660637852,180.0,12342_0_no,46.28296101533672,-103.95110457706316,10.0

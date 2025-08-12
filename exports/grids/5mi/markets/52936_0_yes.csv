@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56654,48.47285,-93.94153,Loman,MN,Minnesota,True,,116.0,0.4,27071,Koochiching,"{""27071"": 100}",Koochiching,27071,False,False,America/Chicago,"(48.47285, -93.94153)",3.22725874084747,116.0,52936_0_yes,48.46306877810103,-93.87264562928624,5.0

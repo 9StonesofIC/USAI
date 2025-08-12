@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59471,47.4161,-108.77191,Roy,MT,Montana,True,,303.0,0.1,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver,"(47.4161, -108.77191)",3.3288012520794283,303.0,51086_0_yes,47.464231526960205,-108.77504694115134,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58763,47.98362,-102.58401,New Town,ND,North Dakota,True,,4001.0,2.9,38061,Mountrail,"{""38061"": 61.28, ""38053"": 38.72}",Mountrail|McKenzie,38061|38053,False,False,America/Chicago,"(47.98362, -102.58401)",8.965414231410989,4001.0,13173_0_no,48.01606559234078,-102.39625056853556,10.0

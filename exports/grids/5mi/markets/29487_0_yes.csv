@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24226,37.14223,-82.33384,Clinchco,VA,Virginia,True,,1298.0,19.2,51051,Dickenson,"{""51051"": 100}",Dickenson,51051,False,False,America/New_York,"(37.14223, -82.33384)",4.5351051973497265,7522.0,29487_0_yes,37.16019232182542,-82.41304723428398,5.0
+24228,37.17047,-82.44963,Clintwood,VA,Virginia,True,,6224.0,26.0,51051,Dickenson,"{""51051"": 100}",Dickenson,51051,False,False,America/New_York,"(37.17047, -82.44963)",2.1357661842578755,7522.0,29487_0_yes,37.16019232182542,-82.41304723428398,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81021,38.43332,-103.36732,Arlington,CO,Colorado,True,,19.0,0.0,8061,Kiowa,"{""08061"": 67.95, ""08073"": 32.05}",Kiowa|Lincoln,08061|08073,False,False,America/Denver,"(38.43332, -103.36732)",1.777805512154666,19.0,32490_0_no,38.40824622215279,-103.35994763962351,5.0

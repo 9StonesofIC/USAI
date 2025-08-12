@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13862,42.3369,-75.9372,Whitney Point,NY,New York,True,,4053.0,30.4,36007,Broome,"{""36007"": 98.8, ""36023"": 1.2}",Broome|Cortland,36007|36023,False,False,America/New_York,"(42.3369, -75.9372)",2.240928951107971,4053.0,40780_0_yes,42.36898171872161,-75.94364474728597,5.0

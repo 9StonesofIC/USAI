@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83617,43.93303,-116.50368,Emmett,ID,Idaho,True,,15586.0,26.9,16045,Gem,"{""16045"": 99.9, ""16075"": 0.1}",Gem|Payette,16045|16075,False,False,America/Boise,"(43.93303, -116.50368)",0.5949041215463722,15586.0,44242_0_no,43.92442950364333,-116.5031142818624,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05061,43.93023,-72.58087,Randolph Center,VT,Vermont,True,,1562.0,21.6,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York,"(43.93023, -72.58087)",3.9279121192234085,1562.0,44023_0_no,43.885973627745614,-72.63039738158722,5.0

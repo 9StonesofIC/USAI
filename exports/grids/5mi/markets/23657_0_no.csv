@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85937,34.56927,-110.01285,Snowflake,AZ,Arizona,True,,8734.0,11.6,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(34.56927, -110.01285)",4.918540868676668,13114.0,23657_0_no,34.49875780110544,-110.02471854431904,5.0
+85939,34.43729,-110.08754,Taylor,AZ,Arizona,True,,4380.0,31.4,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(34.43729, -110.08754)",5.55365370802581,13114.0,23657_0_no,34.49875780110544,-110.02471854431904,5.0

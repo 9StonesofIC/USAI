@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95493,39.20241,-122.97948,Witter Springs,CA,California,True,,99.0,4.9,6033,Lake,"{""06033"": 100}",Lake,06033,False,False,America/Los_Angeles,"(39.20241, -122.97948)",5.638124349939854,99.0,34189_0_no,39.14856428087805,-123.05857325632368,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29646,34.13995,-82.15032,Greenwood,SC,South Carolina,True,,28739.0,109.4,45047,Greenwood,"{""45047"": 96.05, ""45001"": 3.95}",Greenwood|Abbeville,45047|45001,False,False,America/New_York,"(34.13995, -82.15032)",4.314080409808302,28739.0,22500_0_yes,34.11627246661255,-82.08052559291684,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81036,38.42984,-102.79292,Eads,CO,Colorado,True,,1082.0,0.6,8061,Kiowa,"{""08061"": 100}",Kiowa,08061,False,False,America/Denver,"(38.42984, -102.79292)",5.1253535155301275,1082.0,8266_0_no,38.46277393062935,-102.70805142806728,10.0

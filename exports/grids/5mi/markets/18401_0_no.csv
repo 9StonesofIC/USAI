@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36031,32.24944,-85.75157,Fort Davis,AL,Alabama,True,,129.0,5.1,1087,Macon,"{""01087"": 100}",Macon,01087,False,False,America/Chicago,"(32.24944, -85.75157)",4.3235656465842665,268.0,18401_0_no,32.30642536067674,-85.78214841997006,5.0
+36039,32.28939,-85.82789,Hardaway,AL,Alabama,True,,139.0,1.1,1087,Macon,"{""01087"": 100}",Macon,01087,False,False,America/Chicago,"(32.28939, -85.82789)",2.9192663409569413,268.0,18401_0_no,32.30642536067674,-85.78214841997006,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87515,36.56257,-106.3696,Canjilon,NM,New Mexico,True,,254.0,0.5,35039,Rio Arriba,"{""35039"": 100}",Rio Arriba,35039,False,False,America/Denver,"(36.56257, -106.3696)",4.4308906772714085,279.0,7150_0_yes,36.58445926290829,-106.29454321052944,10.0
+87581,36.51531,-106.16017,Vallecitos,NM,New Mexico,True,,25.0,0.1,35039,Rio Arriba,"{""35039"": 100}",Rio Arriba,35039,False,False,America/Denver,"(36.51531, -106.16017)",8.857499337420542,279.0,7150_0_yes,36.58445926290829,-106.29454321052944,10.0

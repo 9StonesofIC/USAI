@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14858,42.02909,-77.13315,Lindley,NY,New York,True,,1232.0,13.0,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.02909, -77.13315)",3.566104925529863,1232.0,40180_0_yes,42.08045828502854,-77.13990824077503,5.0

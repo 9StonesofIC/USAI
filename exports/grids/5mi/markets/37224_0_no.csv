@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80622,40.54235,-104.44732,Galeton,CO,Colorado,True,,83.0,2.9,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.54235, -104.44732)",4.160512688432016,83.0,37224_0_no,40.5825940278514,-104.38835919742394,5.0

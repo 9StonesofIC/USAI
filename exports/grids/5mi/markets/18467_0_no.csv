@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76064,32.30757,-97.03225,Maypearl,TX,Texas,True,,2100.0,37.4,48139,Ellis,"{""48139"": 100}",Ellis,48139,False,False,America/Chicago,"(32.30757, -97.03225)",1.73591078121251,2100.0,18467_0_no,32.31406037335527,-97.06096796297756,5.0

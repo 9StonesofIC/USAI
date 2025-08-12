@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97823,45.24334,-120.19097,Condon,OR,Oregon,True,,1014.0,0.6,41021,Gilliam,"{""41021"": 98.22, ""41069"": 1.78}",Gilliam|Wheeler,41021|41069,False,False,America/Los_Angeles,"(45.24334, -120.19097)",9.410546489097673,1014.0,11811_0_no,45.15469419359157,-120.3377164629704,10.0

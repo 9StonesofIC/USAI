@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82201,42.01049,-105.11328,Wheatland,WY,Wyoming,True,,6830.0,1.6,56031,Platte,"{""56031"": 71.69, ""56001"": 28.31}",Platte|Albany,56031|56001,False,False,America/Denver,"(42.01049, -105.11328)",6.723031537243941,6830.0,2610_0_no,42.0547486351536,-105.22994607695873,20.0

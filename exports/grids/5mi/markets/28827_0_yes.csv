@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24368,36.89283,-81.30003,Rural Retreat,VA,Virginia,True,,5582.0,24.9,51197,Wythe,"{""51197"": 72.65, ""51173"": 27.35}",Wythe|Smyth,51197|51173,False,False,America/New_York,"(36.89283, -81.30003)",1.7217066337863625,5582.0,28827_0_yes,36.86954375158639,-81.31111963358747,5.0

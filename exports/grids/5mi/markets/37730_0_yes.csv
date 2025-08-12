@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16844,40.91285,-77.93261,Julian,PA,Pennsylvania,True,,2623.0,16.3,42027,Centre,"{""42027"": 100}",Centre,42027,False,False,America/New_York,"(40.91285, -77.93261)",2.867406700873659,2623.0,37730_0_yes,40.92285227798976,-77.98591122979595,5.0

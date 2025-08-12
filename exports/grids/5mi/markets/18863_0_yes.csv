@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88265,32.58421,-103.34642,Monument,NM,New Mexico,True,,142.0,0.7,35025,Lea,"{""35025"": 100}",Lea,35025,False,False,America/Denver,"(32.58421, -103.34642)",5.0826198747101285,142.0,18863_0_yes,32.53592637417849,-103.41226703864017,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75840,31.78412,-96.08552,Fairfield,TX,Texas,True,,6297.0,9.1,48161,Freestone,"{""48161"": 100}",Freestone,48161,False,False,America/Chicago,"(31.78412, -96.08552)",10.612121783378804,12648.0,4239_0_yes,31.64148828487319,-96.15249700047146,10.0
+75860,31.62342,-96.24615,Teague,TX,Texas,True,,6351.0,13.9,48161,Freestone,"{""48161"": 100}",Freestone,48161,False,False,America/Chicago,"(31.62342, -96.24615)",5.649106932196741,12648.0,4239_0_yes,31.64148828487319,-96.15249700047146,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59486,48.33709,-112.35552,Valier,MT,Montana,True,,1200.0,0.9,30073,Pondera,"{""30073"": 100}",Pondera,30073,False,False,America/Denver,"(48.33709, -112.35552)",5.322162494301283,1200.0,52994_0_no,48.40820637211062,-112.31096851513216,5.0

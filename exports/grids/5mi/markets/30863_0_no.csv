@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67801,37.72961,-100.05406,Dodge City,KS,Kansas,True,,30562.0,32.1,20057,Ford,"{""20057"": 98.65, ""20083"": 1.35}",Ford|Hodgeman,20057|20083,False,False,America/Chicago,"(37.72961, -100.05406)",4.3618784575153375,30562.0,30863_0_no,37.681053297623805,-100.10505345012804,5.0

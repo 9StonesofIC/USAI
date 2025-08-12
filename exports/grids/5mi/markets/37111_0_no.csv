@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43320,40.5886,-82.89994,Edison,OH,Ohio,True,,1147.0,14.0,39117,Morrow,"{""39117"": 100}",Morrow,39117,False,False,America/New_York,"(40.5886, -82.89994)",1.7427864036192473,1147.0,37111_0_no,40.564926893455855,-82.91140384553198,5.0

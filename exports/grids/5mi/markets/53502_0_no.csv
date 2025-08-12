@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59257,48.75364,-104.94239,Redstone,MT,Montana,True,,82.0,0.2,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver,"(48.75364, -104.94239)",5.749565707772848,82.0,53502_0_no,48.690688371190376,-105.02488331311196,5.0

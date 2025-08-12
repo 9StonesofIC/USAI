@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89045,38.85618,-117.06987,Round Mountain,NV,Nevada,True,,2073.0,0.5,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles,"(38.85618, -117.06987)",3.410274371782696,2073.0,33522_0_no,38.85393938711293,-117.13318618608466,5.0

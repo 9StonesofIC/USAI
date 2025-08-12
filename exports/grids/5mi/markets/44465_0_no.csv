@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57790,44.10378,-102.20683,Wall,SD,South Dakota,True,,1122.0,0.6,46103,Pennington,"{""46103"": 98.07, ""46071"": 1.93}",Pennington|Jackson,46103|46071,False,False,America/Denver,"(44.10378, -102.20683)",3.331778787251976,1122.0,44465_0_no,44.05669584591242,-102.22132215975518,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30818,33.26765,-82.32646,Matthews,GA,Georgia,True,,468.0,6.0,13163,Jefferson,"{""13163"": 100}",Jefferson,13163,False,False,America/New_York,"(33.26765, -82.32646)",1.6084332949945115,4356.0,20458_0_yes,33.24656874082503,-82.33826802073239,5.0
+30833,33.18934,-82.36014,Wrens,GA,Georgia,True,,3888.0,21.0,13163,Jefferson,"{""13163"": 100}",Jefferson,13163,False,False,America/New_York,"(33.18934, -82.36014)",4.1513262966394775,4356.0,20458_0_yes,33.24656874082503,-82.33826802073239,5.0

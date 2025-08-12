@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52254,41.95232,-90.80538,Lost Nation,IA,Iowa,True,,796.0,5.2,19045,Clinton,"{""19045"": 100}",Clinton,19045,False,False,America/Chicago,"(41.95232, -90.80538)",1.4707080399998496,796.0,39946_0_yes,41.94725404617575,-90.83317790506024,5.0

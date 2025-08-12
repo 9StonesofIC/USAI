@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79842,30.0151,-103.02301,Marathon,TX,Texas,True,,397.0,0.2,48043,Brewster,"{""48043"": 100}",Brewster,48043,False,False,America/Chicago,"(30.0151, -103.02301)",11.956971488031424,397.0,876_0_yes,30.172031659002496,-102.93870416826816,20.0

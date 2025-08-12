@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36271,33.78215,-86.01624,Ohatchee,AL,Alabama,True,,6237.0,29.6,1015,Calhoun,"{""01015"": 99.82, ""01055"": 0.18}",Calhoun|Etowah,01015|01055,False,False,America/Chicago,"(33.78215, -86.01624)",1.900369962959529,6237.0,21828_0_no,33.75663045978334,-86.0038990742286,5.0

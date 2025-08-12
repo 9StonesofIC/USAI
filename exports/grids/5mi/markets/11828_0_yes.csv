@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78108,29.57354,-98.22068,Cibolo,TX,Texas,True,,43579.0,595.9,48187,Guadalupe,"{""48187"": 87.08, ""48029"": 10.15, ""48091"": 2.77}",Guadalupe|Bexar|Comal,48187|48029|48091,False,False,America/Chicago,"(29.57354, -98.22068)",4.162149462935913,43579.0,11828_0_yes,29.630782010865406,-98.2422625144935,5.0

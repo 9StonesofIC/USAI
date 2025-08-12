@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73064,35.37377,-97.75275,Mustang,OK,Oklahoma,True,,26362.0,189.4,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago,"(35.37377, -97.75275)",4.181497502433771,26362.0,25597_0_no,35.35997611386766,-97.8250114751812,5.0

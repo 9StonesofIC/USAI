@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07860,41.0595,-74.81159,Newton,NJ,New Jersey,True,,25355.0,97.7,34037,Sussex,"{""34037"": 94.11, ""34041"": 5.89}",Sussex|Warren,34037|34041,False,False,America/New_York,"(41.0595, -74.81159)",0.5533735673056667,25355.0,38023_0_yes,41.06502381436287,-74.81928149681796,5.0

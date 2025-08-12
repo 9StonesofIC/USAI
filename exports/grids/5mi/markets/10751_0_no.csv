@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78050,29.08924,-98.50258,Leming,TX,Texas,True,,682.0,46.6,48013,Atascosa,"{""48013"": 100}",Atascosa,48013,False,False,America/Chicago,"(29.08924, -98.50258)",3.449933901848317,682.0,10751_0_no,29.123032258932756,-98.4605080520024,5.0

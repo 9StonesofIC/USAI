@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37865,35.84609,-83.73974,Seymour,TN,Tennessee,True,,24638.0,129.7,47155,Sevier,"{""47155"": 69.3, ""47009"": 30.7}",Sevier|Blount,47155|47009,False,False,America/New_York,"(35.84609, -83.73974)",4.7138388027524005,24638.0,26533_0_yes,35.85685625210615,-83.6566232446102,5.0

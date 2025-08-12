@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78151,28.86788,-97.70986,Runge,TX,Texas,True,,1705.0,6.1,48255,Karnes,"{""48255"": 95.18, ""48123"": 4.82}",Karnes|DeWitt,48255|48123,False,False,America/Chicago,"(28.86788, -97.70986)",2.4569923532431894,1705.0,10032_0_no,28.83231960112091,-97.70979855164154,5.0

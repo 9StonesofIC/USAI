@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84403,41.19379,-111.9038,Ogden,UT,Utah,True,,36762.0,417.3,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver,"(41.19379, -111.9038)",2.1856107647713356,70164.0,38499_0_no,41.16830566929183,-111.87890114768516,5.0
+84405,41.15747,-111.96499,Ogden,UT,Utah,True,,33402.0,697.0,49057,Weber,"{""49057"": 66.21, ""49011"": 33.79}",Weber|Davis,49057|49011,False,False,America/Denver,"(41.15747, -111.96499)",4.540184124344091,70164.0,38499_0_no,41.16830566929183,-111.87890114768516,5.0

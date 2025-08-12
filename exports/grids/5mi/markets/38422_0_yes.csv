@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52576,41.21337,-92.1125,Ollie,IA,Iowa,True,,483.0,4.0,19107,Keokuk,"{""19107"": 98.9, ""19101"": 1.1}",Keokuk|Jefferson,19107|19101,False,False,America/Chicago,"(41.21337, -92.1125)",3.2162190702270297,483.0,38422_0_yes,41.22427481520967,-92.17266166406668,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97327,44.37567,-122.94783,Brownsville,OR,Oregon,True,,3511.0,18.9,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles,"(44.37567, -122.94783)",2.421200386285692,3511.0,45153_0_no,44.36453331032476,-122.90134997947558,5.0

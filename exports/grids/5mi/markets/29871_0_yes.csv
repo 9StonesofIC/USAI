@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65757,37.2838,-93.09861,Strafford,MO,Missouri,True,,7077.0,32.8,29077,Greene,"{""29077"": 71.57, ""29225"": 28.43}",Greene|Webster,29077|29225,False,False,America/Chicago,"(37.2838, -93.09861)",3.7079530597503476,7077.0,29871_0_yes,37.31324578753406,-93.04220940788078,5.0

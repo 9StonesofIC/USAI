@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92231,32.68751,-115.56433,Calexico,CA,California,True,,39884.0,224.6,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.68751, -115.56433)",6.564510309829577,39884.0,19264_0_no,32.61673355892336,-115.48904950256828,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27299,35.75131,-80.38402,Linwood,NC,North Carolina,True,,5827.0,81.8,37057,Davidson,"{""37057"": 100}",Davidson,37057,False,False,America/New_York,"(35.75131, -80.38402)",2.5870313531804636,5827.0,26496_0_no,35.78202313000324,-80.41041377216446,5.0

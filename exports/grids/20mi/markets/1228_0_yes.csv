@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88240,32.67285,-103.43454,Hobbs,NM,New Mexico,True,,41574.0,26.7,35025,Lea,"{""35025"": 100}",Lea,35025,False,False,America/Denver,"(32.67285, -103.43454)",22.671019526233465,41574.0,1228_0_yes,32.49278667694195,-103.76007562361691,20.0

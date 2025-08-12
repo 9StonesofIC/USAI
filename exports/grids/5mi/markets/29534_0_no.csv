@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64801,37.11056,-94.4974,Joplin,MO,Missouri,True,,37360.0,250.8,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago,"(37.11056, -94.4974)",0.9750778431118713,39588.0,29534_0_no,37.09700683068675,-94.50233211085728,5.0
+64835,37.14749,-94.43824,Carterville,MO,Missouri,True,,2228.0,400.0,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago,"(37.14749, -94.43824)",4.9632695631178745,39588.0,29534_0_no,37.09700683068675,-94.50233211085728,5.0

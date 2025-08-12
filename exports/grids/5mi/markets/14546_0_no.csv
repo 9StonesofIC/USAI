@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32046,30.70253,-81.91718,Hilliard,FL,Florida,True,,10615.0,20.9,12089,Nassau,"{""12089"": 99.62, ""13049"": 0.22, ""13039"": 0.16}",Nassau|Charlton|Camden,12089|13049|13039,False,False,America/New_York,"(30.70253, -81.91718)",0.7925701303936724,10615.0,14546_0_no,30.708498538421463,-81.9057867764065,5.0

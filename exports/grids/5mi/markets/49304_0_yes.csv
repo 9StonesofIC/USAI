@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49839,46.59994,-86.11555,Grand Marais,MI,Michigan,True,,366.0,0.9,26003,Alger,"{""26003"": 100}",Alger,26003,False,False,America/Detroit,"(46.59994, -86.11555)",2.310601709241346,366.0,49304_0_yes,46.57510365137307,-86.14813553872028,5.0

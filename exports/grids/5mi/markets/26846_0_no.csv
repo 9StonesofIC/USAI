@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37914,35.97988,-83.79937,Knoxville,TN,Tennessee,True,,19912.0,193.6,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York,"(35.97988, -83.79937)",5.754166741290034,19912.0,26846_0_no,35.9294068165154,-83.717535787524,5.0

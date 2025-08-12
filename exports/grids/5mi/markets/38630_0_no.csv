@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15861,41.3221,-78.07246,Sinnamahoning,PA,Pennsylvania,True,,135.0,0.8,42023,Cameron,"{""42023"": 100}",Cameron,42023,False,False,America/New_York,"(41.3221, -78.07246)",3.338639907864953,300.0,38630_0_no,41.28493470666411,-78.03135258211834,5.0
+17778,41.28532,-77.96477,Westport,PA,Pennsylvania,True,,165.0,0.9,42035,Clinton,"{""42035"": 100}",Clinton,42035,False,False,America/New_York,"(41.28532, -77.96477)",3.457019674300309,300.0,38630_0_no,41.28493470666411,-78.03135258211834,5.0

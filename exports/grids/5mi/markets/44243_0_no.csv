@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83636,43.90832,-116.66097,Letha,ID,Idaho,True,,458.0,71.0,16045,Gem,"{""16045"": 100}",Gem,16045,False,False,America/Boise,"(43.90832, -116.66097)",2.3977496566331453,5833.0,44243_0_no,43.92460521898998,-116.7035111357109,5.0
+83655,43.95135,-116.79171,New Plymouth,ID,Idaho,True,,5375.0,35.5,16075,Payette,"{""16075"": 100}",Payette,16075,False,False,America/Boise,"(43.95135, -116.79171)",4.761413984955836,5833.0,44243_0_no,43.92460521898998,-116.7035111357109,5.0

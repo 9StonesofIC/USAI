@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82215,42.39738,-104.71507,Hartville,WY,Wyoming,True,,119.0,0.8,56031,Platte,"{""56031"": 100}",Platte,56031,False,False,America/Denver,"(42.39738, -104.71507)",5.321988542113221,119.0,41203_0_no,42.46600459445577,-104.76246439543516,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49670,45.12088,-85.62096,Northport,MI,Michigan,True,,2060.0,21.6,26089,Leelanau,"{""26089"": 100}",Leelanau,26089,False,False,America/Detroit,"(45.12088, -85.62096)",8.021259690441331,2060.0,11740_0_yes,45.23695346110348,-85.62397860886841,10.0

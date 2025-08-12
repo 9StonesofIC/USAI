@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62353,39.97277,-90.75735,Mount Sterling,IL,Illinois,True,,5103.0,10.4,17009,Brown,"{""17009"": 98.1, ""17149"": 1.21, ""17169"": 0.69}",Brown|Pike|Schuyler,17009|17149|17169,False,False,America/Chicago,"(39.97277, -90.75735)",3.895348995007932,5103.0,35615_0_yes,39.91948711786464,-90.73331918686756,5.0

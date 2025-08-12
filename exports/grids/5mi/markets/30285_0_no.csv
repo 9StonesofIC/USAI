@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84762,37.46882,-112.72644,Duck Creek Village,UT,Utah,True,,75.0,0.2,49025,Kane,"{""49025"": 90.73, ""49017"": 9.27}",Kane|Garfield,49025|49017,False,False,America/Denver,"(37.46882, -112.72644)",4.766940032050813,75.0,30285_0_no,37.400886641940936,-112.74160741664342,5.0

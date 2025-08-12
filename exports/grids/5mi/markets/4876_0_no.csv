@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33920,26.72903,-81.6529,Alva,FL,Florida,True,,6709.0,41.7,12071,Lee,"{""12071"": 100}",Lee,12071,False,False,America/New_York,"(26.72903, -81.6529)",5.290386319012468,6709.0,4876_0_no,26.79109182494772,-81.70312407817744,5.0

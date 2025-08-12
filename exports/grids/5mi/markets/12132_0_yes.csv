@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70085,29.81629,-89.76127,Saint Bernard,LA,Louisiana,True,,4822.0,28.2,22087,St. Bernard,"{""22087"": 100}",St. Bernard,22087,False,False,America/Chicago,"(29.81629, -89.76127)",4.150205544437231,4822.0,12132_0_yes,29.77052897030152,-89.71643461715573,5.0

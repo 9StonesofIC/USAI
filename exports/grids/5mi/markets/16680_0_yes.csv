@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36010,31.66751,-85.81439,Brundidge,AL,Alabama,True,,5047.0,15.0,1109,Pike,"{""01109"": 80.96, ""01031"": 16.98, ""01045"": 2.06}",Pike|Coffee|Dale,01109|01031|01045,False,False,America/Chicago,"(31.66751, -85.81439)",1.3222328505591803,5047.0,16680_0_yes,31.653778988041683,-85.79872964304876,5.0

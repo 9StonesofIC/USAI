@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70083,29.52342,-89.85211,Port Sulphur,LA,Louisiana,True,,2738.0,8.2,22075,Plaquemines,"{""22075"": 100}",Plaquemines,22075,False,False,America/Chicago,"(29.52342, -89.85211)",2.5959517970066837,2738.0,11767_0_no,29.55302687594336,-89.87869694172261,5.0

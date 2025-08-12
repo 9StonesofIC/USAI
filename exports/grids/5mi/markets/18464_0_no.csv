@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75119,32.32293,-96.59107,Ennis,TX,Texas,True,,28901.0,42.2,48139,Ellis,"{""48139"": 94.5, ""48349"": 5.5}",Ellis|Navarro,48139|48349,False,False,America/Chicago,"(32.32293, -96.59107)",2.57874489556228,28901.0,18464_0_no,32.313713278729146,-96.54827382343407,5.0

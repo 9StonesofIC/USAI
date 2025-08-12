@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67764,38.89135,-101.15041,Winona,KS,Kansas,True,,427.0,0.3,20109,Logan,"{""20109"": 94.07, ""20193"": 5.93}",Logan|Thomas,20109|20193,False,False,America/Chicago,"(38.89135, -101.15041)",9.789003387008703,427.0,8421_0_no,38.75001654403325,-101.13773941076964,10.0

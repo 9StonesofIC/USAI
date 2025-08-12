@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75092,33.64869,-96.70011,Sherman,TX,Texas,True,,26297.0,89.1,48181,Grayson,"{""48181"": 100}",Grayson,48181,False,False,America/Chicago,"(33.64869, -96.70011)",3.6289016275632946,26297.0,21549_0_no,33.619100815172345,-96.64799140341184,5.0

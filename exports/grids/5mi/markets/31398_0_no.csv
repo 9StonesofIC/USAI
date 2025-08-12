@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24445,37.96615,-79.88013,Hot Springs,VA,Virginia,True,,2773.0,11.1,51017,Bath,"{""51017"": 79.14, ""51005"": 20.86}",Bath|Alleghany,51017|51005,False,False,America/New_York,"(37.96615, -79.88013)",1.2153622902864445,2773.0,31398_0_no,37.95516192570844,-79.862708235989,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54835,45.67974,-91.2522,Exeland,WI,Wisconsin,True,,950.0,2.5,55113,Sawyer,"{""55113"": 82.34, ""55107"": 17.66}",Sawyer|Rusk,55113|55107,False,False,America/Chicago,"(45.67974, -91.2522)",2.866927782038611,950.0,47600_0_no,45.63922722890175,-91.265031275868,5.0

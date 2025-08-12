@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88021,31.97338,-106.81639,Anthony,NM,New Mexico,True,,18813.0,15.9,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(31.97338, -106.81639)",2.1998274891970775,18813.0,17499_0_yes,31.95790738779933,-106.78359048620662,5.0

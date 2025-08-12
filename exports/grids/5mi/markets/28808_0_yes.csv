@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23821,36.876,-77.91794,Alberta,VA,Virginia,True,,2071.0,11.9,51025,Brunswick,"{""51025"": 100}",Brunswick,51025,False,False,America/New_York,"(36.876, -77.91794)",2.093321457963779,2431.0,28808_0_yes,36.86693991717867,-77.88180103425266,5.0
+23843,36.84988,-77.8109,Dolphin,VA,Virginia,True,,360.0,5.1,51025,Brunswick,"{""51025"": 100}",Brunswick,51025,False,False,America/New_York,"(36.84988, -77.8109)",4.093025761609608,2431.0,28808_0_yes,36.86693991717867,-77.88180103425266,5.0

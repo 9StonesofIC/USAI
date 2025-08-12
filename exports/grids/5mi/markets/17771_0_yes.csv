@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71046,32.16647,-93.94589,Keatchie,LA,Louisiana,True,,1040.0,4.7,22031,De Soto,"{""22031"": 87.3, ""22017"": 12.7}",De Soto|Caddo,22031|22017,False,False,America/Chicago,"(32.16647, -93.94589)",5.141757677634674,1040.0,17771_0_yes,32.094365969977595,-93.96763097379647,5.0

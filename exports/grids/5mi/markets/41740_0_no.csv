@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50681,42.77754,-92.00931,Westgate,IA,Iowa,True,,371.0,5.9,19065,Fayette,"{""19065"": 100}",Fayette,19065,False,False,America/Chicago,"(42.77754, -92.00931)",4.598646799399043,371.0,41740_0_no,42.74478269002273,-92.08822384508724,5.0

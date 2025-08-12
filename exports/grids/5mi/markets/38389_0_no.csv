@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61231,41.2128,-90.72294,Aledo,IL,Illinois,True,,5319.0,13.4,17131,Mercer,"{""17131"": 100}",Mercer,17131,False,False,America/Chicago,"(41.2128, -90.72294)",5.432216201818896,5767.0,38389_0_no,41.15075091139602,-90.78709252391312,5.0
+61476,41.09191,-90.83259,Seaton,IL,Illinois,True,,448.0,3.9,17131,Mercer,"{""17131"": 71.89, ""17071"": 28.11}",Mercer|Henderson,17131|17071,False,False,America/Chicago,"(41.09191, -90.83259)",4.7049351752393775,5767.0,38389_0_no,41.15075091139602,-90.78709252391312,5.0

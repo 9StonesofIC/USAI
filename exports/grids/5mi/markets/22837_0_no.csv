@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30114,34.24433,-84.5393,Canton,GA,Georgia,True,,57013.0,231.3,13057,Cherokee,"{""13057"": 100}",Cherokee,13057,False,False,America/New_York,"(34.24433, -84.5393)",4.473875509866518,96535.0,22837_0_no,34.19057323187116,-84.58295161923243,5.0
+30189,34.12835,-84.57148,Woodstock,GA,Georgia,True,,39522.0,793.7,13057,Cherokee,"{""13057"": 100}",Cherokee,13057,False,False,America/New_York,"(34.12835, -84.57148)",4.348956468206829,96535.0,22837_0_no,34.19057323187116,-84.58295161923243,5.0

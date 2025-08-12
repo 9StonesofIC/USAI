@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29067,34.54976,-80.53268,Kershaw,SC,South Carolina,True,,11223.0,22.8,45057,Lancaster,"{""45057"": 54.14, ""45055"": 45.86}",Lancaster|Kershaw,45057|45055,False,False,America/New_York,"(34.54976, -80.53268)",4.388086313858449,11223.0,23505_0_yes,34.55000356090065,-80.45557160185123,5.0

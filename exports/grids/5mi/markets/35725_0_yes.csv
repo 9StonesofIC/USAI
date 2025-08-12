@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84660,40.00724,-111.4268,Spanish Fork,UT,Utah,True,,42535.0,45.3,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.00724, -111.4268)",4.969717963497099,42535.0,35725_0_yes,39.9362990520443,-111.44229167048746,5.0

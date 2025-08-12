@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56273,45.32163,-94.96777,New London,MN,Minnesota,True,,5066.0,20.2,27067,Kandiyohi,"{""27067"": 100}",Kandiyohi,27067,False,False,America/Chicago,"(45.32163, -94.96777)",2.894653339817641,5066.0,47044_0_no,45.35306834515846,-94.92837609520286,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62675,40.02109,-89.86146,Petersburg,IL,Illinois,True,,5770.0,19.4,17129,Menard,"{""17129"": 98.03, ""17017"": 1.97}",Menard|Cass,17129|17017,False,False,America/Chicago,"(40.02109, -89.86146)",2.0649132088019333,6523.0,35901_0_no,39.991252617355485,-89.86368038996177,5.0
+62688,39.945,-89.92415,Tallula,IL,Illinois,True,,753.0,6.5,17129,Menard,"{""17129"": 100}",Menard,17129,False,False,America/Chicago,"(39.945, -89.92415)",4.52394286697365,6523.0,35901_0_no,39.991252617355485,-89.86368038996177,5.0

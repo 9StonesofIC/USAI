@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57632,45.82924,-100.04927,Herreid,SD,South Dakota,True,,586.0,1.1,46021,Campbell,"{""46021"": 100}",Campbell,46021,False,False,America/Chicago,"(45.82924, -100.04927)",2.915778777110133,586.0,47928_0_no,45.79192945861595,-100.07755880194956,5.0

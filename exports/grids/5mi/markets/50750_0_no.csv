@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58580,47.2665,-101.93301,Zap,ND,North Dakota,True,,318.0,0.8,38057,Mercer,"{""38057"": 100}",Mercer,38057,False,False,America/North_Dakota/Beulah,"(47.2665, -101.93301)",2.1634058510432657,318.0,50750_0_no,47.24088397702582,-101.95953811840698,5.0

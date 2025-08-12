@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59072,46.51839,-108.54969,Roundup,MT,Montana,True,,4249.0,1.3,30065,Musselshell,"{""30065"": 93.07, ""30069"": 6.93}",Musselshell|Petroleum,30065|30069,False,False,America/Denver,"(46.51839, -108.54969)",6.650801645497282,4249.0,49129_0_yes,46.450831826575424,-108.45010727336724,5.0

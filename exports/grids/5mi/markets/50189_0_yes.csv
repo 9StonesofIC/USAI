@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56575,47.03827,-95.43146,Ponsford,MN,Minnesota,True,,794.0,2.2,27005,Becker,"{""27005"": 100}",Becker,27005,False,False,America/Chicago,"(47.03827, -95.43146)",3.711407512878059,794.0,50189_0_yes,47.017665979090346,-95.3586840936322,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76066,32.7058,-97.99913,Millsap,TX,Texas,True,,4106.0,18.0,48367,Parker,"{""48367"": 97.61, ""48363"": 2.39}",Parker|Palo Pinto,48367|48363,False,False,America/Chicago,"(32.7058, -97.99913)",3.954922466503328,4106.0,19176_0_yes,32.67732699338039,-98.05813272883158,5.0

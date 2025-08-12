@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76357,34.07875,-98.18512,Byers,TX,Texas,True,,517.0,2.8,48077,Clay,"{""48077"": 100}",Clay,48077,False,False,America/Chicago,"(34.07875, -98.18512)",3.9175228829015016,932.0,22577_0_no,34.05528276221548,-98.24742754658185,5.0
+76377,34.0101,-98.24191,Petrolia,TX,Texas,True,,415.0,6.0,48077,Clay,"{""48077"": 100}",Clay,48077,False,False,America/Chicago,"(34.0101, -98.24191)",3.13777679925904,932.0,22577_0_no,34.05528276221548,-98.24742754658185,5.0

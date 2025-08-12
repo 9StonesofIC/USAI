@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53804,42.87645,-90.90798,Bloomington,WI,Wisconsin,True,,1396.0,10.3,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago,"(42.87645, -90.90798)",4.063337534213006,1396.0,42034_0_no,42.88849223587581,-90.8294223596734,5.0

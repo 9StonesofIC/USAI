@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92328,36.39482,-117.02718,Death Valley,CA,California,True,,578.0,0.1,6027,Inyo,"{""06027"": 100}",Inyo,06027,False,False,America/Los_Angeles,"(36.39482, -117.02718)",13.794691108682688,578.0,1839_0_yes,36.588799910460985,-117.08595893536682,20.0

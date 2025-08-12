@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26421,39.18412,-80.91607,Pullman,WV,West Virginia,True,,158.0,3.6,54085,Ritchie,"{""54085"": 100}",Ritchie,54085,False,False,America/New_York,"(39.18412, -80.91607)",3.943146661720937,158.0,33983_0_yes,39.18724408697377,-80.84255169487955,5.0

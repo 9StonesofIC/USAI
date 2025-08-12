@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44032,41.6658,-80.66954,Dorset,OH,Ohio,True,,1385.0,12.9,39007,Ashtabula,"{""39007"": 100}",Ashtabula,39007,False,False,America/New_York,"(41.6658, -80.66954)",4.684454247868462,2938.0,39562_0_no,41.721483134639485,-80.6177407782533,5.0
+44082,41.76012,-80.56558,Pierpont,OH,Ohio,True,,1553.0,16.2,39007,Ashtabula,"{""39007"": 100}",Ashtabula,39007,False,False,America/New_York,"(41.76012, -80.56558)",3.789201236425314,2938.0,39562_0_no,41.721483134639485,-80.6177407782533,5.0

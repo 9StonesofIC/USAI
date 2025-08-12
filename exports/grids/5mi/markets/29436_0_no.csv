@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23846,37.05947,-76.83224,Elberon,VA,Virginia,True,,699.0,6.3,51181,Surry,"{""51181"": 100}",Surry,51181,False,False,America/New_York,"(37.05947, -76.83224)",4.171333421522793,2768.0,29436_0_no,37.0834684760204,-76.7628093471647,5.0
+23883,37.12546,-76.7502,Surry,VA,Virginia,True,,2069.0,15.3,51181,Surry,"{""51181"": 100}",Surry,51181,False,False,America/New_York,"(37.12546, -76.7502)",2.9833796304117164,2768.0,29436_0_no,37.0834684760204,-76.7628093471647,5.0

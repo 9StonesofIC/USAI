@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78373,27.78075,-97.11737,Port Aransas,TX,Texas,True,,4407.0,90.3,48355,Nueces,"{""48355"": 100}",Nueces,48355,False,False,America/Chicago,"(27.78075, -97.11737)",347.5467654089267,4407.0,0_0_yes,24.15988869913703,-93.23234103578106,250.0

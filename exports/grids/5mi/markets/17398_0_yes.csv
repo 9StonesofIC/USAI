@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39116,31.89165,-89.54925,Mize,MS,Mississippi,True,,3126.0,14.1,28129,Smith,"{""28129"": 100}",Smith,28129,False,False,America/Chicago,"(31.89165, -89.54925)",4.5011322712285455,3126.0,17398_0_yes,31.946383649248485,-89.59087312260289,5.0

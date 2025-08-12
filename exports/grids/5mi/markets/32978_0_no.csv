@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19947,38.67421,-75.39864,Georgetown,DE,Delaware,True,,20033.0,64.9,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.67421, -75.39864)",2.999772338237036,22079.0,32978_0_no,38.67593646157876,-75.34307229123189,5.0
+19951,38.68763,-75.25124,Harbeson,DE,Delaware,True,,2046.0,88.4,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.68763, -75.25124)",5.018560527563486,22079.0,32978_0_no,38.67593646157876,-75.34307229123189,5.0

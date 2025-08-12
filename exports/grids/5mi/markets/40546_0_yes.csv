@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61088,42.26995,-89.25509,Winnebago,IL,Illinois,True,,6348.0,43.3,17201,Winnebago,"{""17201"": 99.77, ""17141"": 0.23}",Winnebago|Ogle,17201|17141,False,False,America/Chicago,"(42.26995, -89.25509)",3.7774889525400366,6348.0,40546_0_yes,42.23557552701919,-89.31252701195905,5.0

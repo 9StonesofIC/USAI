@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29163,33.42019,-80.43918,Vance,SC,South Carolina,True,,1665.0,20.1,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York,"(33.42019, -80.43918)",3.1203622363057226,1665.0,21115_0_no,33.46274699655994,-80.42106626920341,5.0

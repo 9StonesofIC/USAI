@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83215,43.44314,-112.81239,Atomic City,ID,Idaho,True,,46.0,223.7,16011,Bingham,"{""16011"": 100}",Bingham,16011,False,False,America/Boise,"(43.44314, -112.81239)",10.876959719866553,46.0,10928_0_yes,43.5482031107905,-112.65078147748532,10.0

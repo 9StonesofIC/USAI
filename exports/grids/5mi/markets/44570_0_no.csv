@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97402,44.05193,-123.23022,Eugene,OR,Oregon,True,,52481.0,295.3,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.05193, -123.23022)",4.415623690805174,54970.0,44570_0_no,44.07523672162176,-123.31303267134749,5.0
+97437,44.09734,-123.38731,Elmira,OR,Oregon,True,,2489.0,42.7,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.09734, -123.38731)",3.990157514849376,54970.0,44570_0_no,44.07523672162176,-123.31303267134749,5.0

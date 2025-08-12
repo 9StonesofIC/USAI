@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84627,39.35515,-111.58457,Ephraim,UT,Utah,True,,7563.0,67.1,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.35515, -111.58457)",1.580574279027069,7563.0,34465_0_yes,39.356724789559344,-111.5550549985394,5.0

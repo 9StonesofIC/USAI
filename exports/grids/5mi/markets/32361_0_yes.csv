@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21830,38.40202,-75.72841,Hebron,MD,Maryland,True,,4790.0,56.2,24045,Wicomico,"{""24045"": 100}",Wicomico,24045,False,False,America/New_York,"(38.40202, -75.72841)",4.213599994646255,8112.0,32361_0_yes,38.45894149998113,-75.75634870803941,5.0
+21837,38.4594,-75.76731,Mardela Springs,MD,Maryland,True,,3322.0,29.2,24045,Wicomico,"{""24045"": 100}",Wicomico,24045,False,False,America/New_York,"(38.4594, -75.76731)",0.5938920795619281,8112.0,32361_0_yes,38.45894149998113,-75.75634870803941,5.0

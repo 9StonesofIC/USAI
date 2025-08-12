@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57451,45.43488,-98.93473,Ipswich,SD,South Dakota,True,,2243.0,2.0,46045,Edmunds,"{""46045"": 92.48, ""46013"": 7.52}",Edmunds|Brown,46045|46013,False,False,America/Chicago,"(45.43488, -98.93473)",9.020546007336819,2243.0,11917_0_yes,45.55037513185304,-99.021569269506,10.0

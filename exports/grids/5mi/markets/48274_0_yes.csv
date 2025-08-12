@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59010,45.97505,-107.3037,Bighorn,MT,Montana,True,,154.0,0.2,30103,Treasure,"{""30103"": 54.95, ""30003"": 45.05}",Treasure|Big Horn,30103|30003,False,False,America/Denver,"(45.97505, -107.3037)",3.1392399167520413,154.0,48274_0_yes,46.015578214057705,-107.33326198653722,5.0

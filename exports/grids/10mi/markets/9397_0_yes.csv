@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81640,40.69357,-108.51791,Maybell,CO,Colorado,True,,112.0,0.0,8081,Moffat,"{""08081"": 100}",Moffat,08081,False,False,America/Denver,"(40.69357, -108.51791)",6.950910389542364,112.0,9397_0_yes,40.64500163254836,-108.63406422802026,10.0

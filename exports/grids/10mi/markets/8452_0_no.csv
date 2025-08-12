@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84637,38.72183,-112.48706,Kanosh,UT,Utah,True,,796.0,2.4,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(38.72183, -112.48706)",7.712774392217359,796.0,8452_0_no,38.76820072614596,-112.61725121928772,10.0

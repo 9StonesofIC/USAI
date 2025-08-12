@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95920,39.46071,-121.93702,Butte City,CA,California,True,,304.0,1.7,6021,Glenn,"{""06021"": 100}",Glenn,06021,False,False,America/Los_Angeles,"(39.46071, -121.93702)",1.652029926620122,304.0,34815_0_no,39.43756438836869,-121.92925278349692,5.0

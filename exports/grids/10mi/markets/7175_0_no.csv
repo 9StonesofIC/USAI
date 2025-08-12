@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93262,36.50256,-118.68109,Sequoia National Park,CA,California,True,,45.0,0.1,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.50256, -118.68109)",4.314884740445973,2744.0,7175_0_no,36.45839275843096,-118.7359993842911,10.0
+93271,36.43661,-118.86903,Three Rivers,CA,California,True,,2699.0,6.8,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.43661, -118.86903)",7.545315642060238,2744.0,7175_0_no,36.45839275843096,-118.7359993842911,10.0

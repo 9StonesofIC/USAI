@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67122,37.62015,-96.42392,Piedmont,KS,Kansas,True,,125.0,0.4,20073,Greenwood,"{""20073"": 57.85, ""20049"": 42.15}",Greenwood|Elk,20073|20049,False,False,America/Chicago,"(37.62015, -96.42392)",2.53386448443557,125.0,30539_0_yes,37.6056694919255,-96.38138636883808,5.0

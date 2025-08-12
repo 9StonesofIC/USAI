@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62940,37.7292,-89.46279,Gorham,IL,Illinois,True,,714.0,9.8,17077,Jackson,"{""17077"": 100}",Jackson,17077,False,False,America/Chicago,"(37.7292, -89.46279)",4.305305340969644,15595.0,30825_0_yes,37.7451771739963,-89.38663143929162,5.0
+62966,37.7693,-89.35198,Murphysboro,IL,Illinois,True,,14881.0,51.8,17077,Jackson,"{""17077"": 100}",Jackson,17077,False,False,America/Chicago,"(37.7693, -89.35198)",2.5220928070194053,15595.0,30825_0_yes,37.7451771739963,-89.38663143929162,5.0

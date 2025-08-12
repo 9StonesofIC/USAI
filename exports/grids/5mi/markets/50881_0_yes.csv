@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98587,47.32039,-124.1562,Taholah,WA,Washington,True,,784.0,5.2,53027,Grays Harbor,"{""53027"": 100}",Grays Harbor,53027,False,False,America/Los_Angeles,"(47.32039, -124.1562)",0.997552340269165,784.0,50881_0_yes,47.33379145125388,-124.148275755391,5.0

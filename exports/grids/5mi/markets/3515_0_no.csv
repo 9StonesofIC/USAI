@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78537,26.17322,-98.05744,Donna,TX,Texas,True,,45120.0,302.5,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.17322, -98.05744)",3.827078632551253,45120.0,3515_0_no,26.219714717273416,-98.02388930787616,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72824,35.12768,-93.41146,Belleville,AR,Arkansas,True,,2234.0,11.9,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago,"(35.12768, -93.41146)",1.6686320631078677,2234.0,24922_0_yes,35.13922454593475,-93.38552211955192,5.0

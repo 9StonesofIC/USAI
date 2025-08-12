@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49970,46.53555,-88.59783,Watton,MI,Michigan,True,,263.0,1.1,26013,Baraga,"{""26013"": 100}",Baraga,26013,False,False,America/Detroit,"(46.53555, -88.59783)",2.780227585546374,263.0,49289_0_no,46.50509081737136,-88.63604302831843,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30452,32.31706,-81.89417,Register,GA,Georgia,True,,1477.0,9.9,13031,Bulloch,"{""13031"": 92.65, ""13109"": 6.68, ""13043"": 0.67}",Bulloch|Evans|Candler,13031|13109|13043,False,False,America/New_York,"(32.31706, -81.89417)",2.6352332124688878,1477.0,18378_0_no,32.30376520065563,-81.85187292398899,5.0

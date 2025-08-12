@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49858,45.21989,-87.58325,Menominee,MI,Michigan,True,,11520.0,51.2,26109,Menominee,"{""26109"": 100}",Menominee,26109,False,False,America/Menominee,"(45.21989, -87.58325)",5.3784409867947005,12793.0,46748_0_yes,45.27412495240728,-87.662562377641,5.0
+49893,45.29767,-87.59927,Wallace,MI,Michigan,True,,1273.0,6.6,26109,Menominee,"{""26109"": 100}",Menominee,26109,False,False,America/Menominee,"(45.29767, -87.59927)",3.4803768272832176,12793.0,46748_0_yes,45.27412495240728,-87.662562377641,5.0

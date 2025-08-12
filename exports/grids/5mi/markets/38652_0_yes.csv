@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17776,41.41704,-77.31257,Waterville,PA,Pennsylvania,True,,232.0,1.0,42081,Lycoming,"{""42081"": 100}",Lycoming,42081,False,False,America/New_York,"(41.41704, -77.31257)",4.33517290047647,232.0,38652_0_yes,41.35666723939281,-77.28979807499948,5.0

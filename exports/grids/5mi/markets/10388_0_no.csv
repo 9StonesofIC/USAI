@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78164,28.9792,-97.5188,Yorktown,TX,Texas,True,,3990.0,6.1,48123,DeWitt,"{""48123"": 87.29, ""48175"": 12.71}",DeWitt|Goliad,48123|48175,False,False,America/Chicago,"(28.9792, -97.5188)",0.7389520555624151,3990.0,10388_0_no,28.977321333594624,-97.50676452687826,5.0

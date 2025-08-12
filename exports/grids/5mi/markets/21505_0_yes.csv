@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35125,33.62567,-86.29594,Pell City,AL,Alabama,True,,10945.0,89.2,1115,St. Clair,"{""01115"": 100}",St. Clair,01115,False,False,America/Chicago,"(33.62567, -86.29594)",4.066009137356546,10945.0,21505_0_yes,33.68430150026386,-86.2898813276645,5.0

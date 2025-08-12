@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99170,47.25132,-117.40203,Rosalia,WA,Washington,True,,1022.0,2.3,53075,Whitman,"{""53075"": 57.09, ""53063"": 42.91}",Whitman|Spokane,53075|53063,False,False,America/Los_Angeles,"(47.25132, -117.40203)",5.211355492292915,1022.0,50571_0_yes,47.18274235336644,-117.35579969923502,5.0

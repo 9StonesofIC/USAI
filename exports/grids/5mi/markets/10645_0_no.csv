@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32127,29.10866,-80.97907,Port Orange,FL,Florida,True,,29082.0,754.9,12127,Volusia,"{""12127"": 100}",Volusia,12127,False,False,America/New_York,"(29.10866, -80.97907)",2.7797619189783322,29082.0,10645_0_no,29.11222538064741,-80.93320254667921,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75631,32.25343,-94.44957,Beckville,TX,Texas,True,,3029.0,9.9,48365,Panola,"{""48365"": 100}",Panola,48365,False,False,America/Chicago,"(32.25343, -94.44957)",1.454866492707751,3029.0,18120_0_yes,32.23972468613904,-94.4306690594443,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88048,32.14966,-106.6581,Mesquite,NM,New Mexico,True,,2471.0,43.7,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(32.14966, -106.6581)",5.393258124366056,5156.0,17845_0_yes,32.102856986721456,-106.5843354670412,5.0
+88072,32.14242,-106.61329,Vado,NM,New Mexico,True,,2685.0,39.8,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(32.14242, -106.61329)",3.216042545273299,5156.0,17845_0_yes,32.102856986721456,-106.5843354670412,5.0

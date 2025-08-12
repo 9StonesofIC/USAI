@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51579,41.75171,-95.7069,Woodbine,IA,Iowa,True,,2252.0,7.4,19085,Harrison,"{""19085"": 100}",Harrison,19085,False,False,America/Chicago,"(41.75171, -95.7069)",1.2159216389321374,2252.0,39640_0_no,41.73418073518964,-95.70481403190692,5.0

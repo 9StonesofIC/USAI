@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74061,36.53814,-95.89974,Ramona,OK,Oklahoma,True,,2314.0,9.9,40147,Washington,"{""40147"": 100}",Washington,40147,False,False,America/Chicago,"(36.53814, -95.89974)",4.207380820915252,2314.0,28252_0_yes,36.59069966656583,-95.86145485790333,5.0

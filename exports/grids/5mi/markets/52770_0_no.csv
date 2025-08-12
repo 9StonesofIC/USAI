@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98278,48.34388,-122.66491,Oak Harbor,WA,Washington,True,,2243.0,205.1,53029,Island,"{""53029"": 100}",Island,53029,False,False,America/Los_Angeles,"(48.34388, -122.66491)",6.312267273269145,2243.0,52770_0_no,48.27334526675274,-122.75220607510136,5.0

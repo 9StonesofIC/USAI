@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49747,44.85132,-83.64516,Hubbard Lake,MI,Michigan,True,,2305.0,8.7,26001,Alcona,"{""26001"": 54.76, ""26007"": 45.24}",Alcona|Alpena,26001|26007,False,False,America/Detroit,"(44.85132, -83.64516)",1.5923992081843041,2305.0,45860_0_yes,44.83638197061384,-83.66991285101118,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29525,34.5722,-79.53327,Clio,SC,South Carolina,True,,1827.0,16.3,45069,Marlboro,"{""45069"": 94.61, ""45033"": 5.39}",Marlboro|Dillon,45069|45033,False,False,America/New_York,"(34.5722, -79.53327)",3.0370383530983727,1827.0,23500_0_yes,34.549374114092736,-79.5788839126263,5.0

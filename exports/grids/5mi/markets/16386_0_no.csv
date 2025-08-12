@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76682,31.45235,-96.90825,Riesel,TX,Texas,True,,3034.0,9.4,48145,Falls,"{""48145"": 60.23, ""48309"": 39.77}",Falls|McLennan,48145|48309,False,False,America/Chicago,"(31.45235, -96.90825)",4.459651965583156,3034.0,16386_0_no,31.44364401286368,-96.98321701764628,5.0

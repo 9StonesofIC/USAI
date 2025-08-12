@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70541,30.42062,-92.0426,Grand Coteau,LA,Louisiana,True,,376.0,70.7,22097,St. Landry,"{""22097"": 100}",St. Landry,22097,False,False,America/Chicago,"(30.42062, -92.0426)",2.4930917614021886,7427.0,13903_0_no,30.424932513122176,-92.08414442726496,5.0
+70584,30.38856,-92.10193,Sunset,LA,Louisiana,True,,7051.0,78.6,22097,St. Landry,"{""22097"": 100}",St. Landry,22097,False,False,America/Chicago,"(30.38856, -92.10193)",2.7274420137698767,7427.0,13903_0_no,30.424932513122176,-92.08414442726496,5.0

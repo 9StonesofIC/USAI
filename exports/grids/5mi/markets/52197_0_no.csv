@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83801,47.95631,-116.6434,Athol,ID,Idaho,True,,6872.0,15.2,16055,Kootenai,"{""16055"": 60.01, ""16017"": 39.99}",Kootenai|Bonner,16055|16017,False,False,America/Los_Angeles,"(47.95631, -116.6434)",4.204710486201221,6872.0,52197_0_no,47.97823268191586,-116.72818697801527,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59828,46.33478,-113.96444,Corvallis,MT,Montana,True,,5709.0,13.4,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver,"(46.33478, -113.96444)",2.3826016033590474,19675.0,12366_0_no,46.30127335997062,-113.97624154946756,10.0
+59840,46.17558,-114.11674,Hamilton,MT,Montana,True,,13966.0,10.0,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver,"(46.17558, -114.11674)",10.97741438005925,19675.0,12366_0_no,46.30127335997062,-113.97624154946756,10.0

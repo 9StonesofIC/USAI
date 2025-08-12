@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48650,43.85181,-84.01746,Pinconning,MI,Michigan,True,,6970.0,28.3,26017,Bay,"{""26017"": 93.56, ""26011"": 6.44}",Bay|Arenac,26017|26011,False,False,America/Detroit,"(43.85181, -84.01746)",3.379376893076534,6970.0,44080_0_no,43.895977752682,-84.04660555520995,5.0

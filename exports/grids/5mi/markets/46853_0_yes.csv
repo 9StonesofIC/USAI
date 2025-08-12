@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59070,45.36289,-109.17961,Roberts,MT,Montana,True,,1163.0,2.5,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.36289, -109.17961)",4.905015280693796,1163.0,46853_0_yes,45.293465590789154,-109.20070652844518,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55366,44.67233,-94.2346,New Auburn,MN,Minnesota,True,,484.0,391.3,27143,Sibley,"{""27143"": 100}",Sibley,27143,False,False,America/Chicago,"(44.67233, -94.2346)",4.046332910580683,484.0,45595_0_no,44.62876856260552,-94.28961980437704,5.0

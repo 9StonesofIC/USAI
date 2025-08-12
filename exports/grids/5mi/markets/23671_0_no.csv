@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86303,34.4894,-112.42897,Prescott,AZ,Arizona,True,,17955.0,64.7,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.4894, -112.42897)",2.8944379155272815,18277.0,23671_0_no,34.50051697729983,-112.47797609810458,5.0
+86313,34.55416,-112.45288,Prescott,AZ,Arizona,True,,322.0,506.2,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.55416, -112.45288)",3.972152277649806,18277.0,23671_0_no,34.50051697729983,-112.47797609810458,5.0

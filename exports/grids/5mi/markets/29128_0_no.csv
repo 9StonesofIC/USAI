@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24088,36.89492,-80.0798,Ferrum,VA,Virginia,True,,4957.0,17.0,51067,Franklin,"{""51067"": 83.69, ""51141"": 16.31}",Franklin|Patrick,51067|51141,False,False,America/New_York,"(36.89492, -80.0798)",3.5066929158405564,4957.0,29128_0_no,36.94111937491931,-80.10608075452059,5.0

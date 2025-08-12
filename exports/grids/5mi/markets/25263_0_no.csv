@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73065,35.25008,-97.61209,Newcastle,OK,Oklahoma,True,,8982.0,67.0,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago,"(35.25008, -97.61209)",5.350364773732618,8982.0,25263_0_no,35.214896478664706,-97.69654249707688,5.0

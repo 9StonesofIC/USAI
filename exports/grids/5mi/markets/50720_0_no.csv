@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56566,47.24724,-95.61322,Naytahwaush,MN,Minnesota,True,,613.0,17.9,27087,Mahnomen,"{""27087"": 100}",Mahnomen,27087,False,False,America/Chicago,"(47.24724, -95.61322)",1.6443157883920323,613.0,50720_0_no,47.23497023191848,-95.58318436856275,5.0

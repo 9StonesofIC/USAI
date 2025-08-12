@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12078,43.12338,-74.36255,Gloversville,NY,New York,True,,22956.0,80.0,36035,Fulton,"{""36035"": 100}",Fulton,36035,False,False,America/New_York,"(43.12338, -74.36255)",4.78750527556967,22956.0,42549_0_no,43.16388556426161,-74.43959859301184,5.0

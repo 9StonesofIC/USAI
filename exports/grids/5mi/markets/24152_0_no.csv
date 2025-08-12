@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28392,34.73467,-78.79465,Tar Heel,NC,North Carolina,True,,1555.0,16.0,37017,Bladen,"{""37017"": 100}",Bladen,37017,False,False,America/New_York,"(34.73467, -78.79465)",3.9654454312046736,1555.0,24152_0_no,34.76631441309419,-78.85292403824279,5.0

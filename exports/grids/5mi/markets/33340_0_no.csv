@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45616,38.76018,-83.30864,Blue Creek,OH,Ohio,True,,1943.0,10.3,39001,Adams,"{""39001"": 74.44, ""39145"": 25.56}",Adams|Scioto,39001|39145,False,False,America/New_York,"(38.76018, -83.30864)",6.632560943972273,1943.0,33340_0_no,38.82717247958725,-83.39685101592636,5.0

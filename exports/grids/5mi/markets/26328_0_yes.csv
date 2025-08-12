@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87544,35.7869,-106.31914,Los Alamos,NM,New Mexico,True,,18976.0,55.1,35043,Sandoval,"{""35043"": 57.74, ""35028"": 42.26}",Sandoval|Los Alamos,35043|35028,False,False,America/Denver,"(35.7869, -106.31914)",4.024288270473255,18976.0,26328_0_yes,35.72866741111435,-106.3205707187026,5.0

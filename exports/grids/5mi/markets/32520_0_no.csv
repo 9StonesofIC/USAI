@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81429,38.34121,-108.90732,Paradox,CO,Colorado,True,,130.0,0.2,8085,Montrose,"{""08085"": 100}",Montrose,08085,False,False,America/Denver,"(38.34121, -108.90732)",5.044491867561216,130.0,32520_0_no,38.41259137552657,-108.8877604055678,5.0

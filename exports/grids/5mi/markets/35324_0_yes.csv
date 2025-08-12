@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66008,39.71283,-95.17564,Bendena,KS,Kansas,True,,185.0,2.5,20043,Doniphan,"{""20043"": 100}",Doniphan,20043,False,False,America/Chicago,"(39.71283, -95.17564)",5.232963503845686,2110.0,35324_0_yes,39.77818145941895,-95.12585408563754,5.0
+66087,39.80641,-95.1378,Troy,KS,Kansas,True,,1925.0,6.2,20043,Doniphan,"{""20043"": 100}",Doniphan,20043,False,False,America/Chicago,"(39.80641, -95.1378)",2.050925324831503,2110.0,35324_0_yes,39.77818145941895,-95.12585408563754,5.0

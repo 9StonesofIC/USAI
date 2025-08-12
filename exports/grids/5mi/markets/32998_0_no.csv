@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22820,38.74387,-79.00948,Criders,VA,Virginia,True,,296.0,5.9,51165,Rockingham,"{""51165"": 100}",Rockingham,51165,False,False,America/New_York,"(38.74387, -79.00948)",4.820401329079388,2476.0,32998_0_no,38.67886088149187,-79.0419304983768,5.0
+22830,38.65789,-78.97902,Fulks Run,VA,Virginia,True,,2180.0,7.2,51165,Rockingham,"{""51165"": 100}",Rockingham,51165,False,False,America/New_York,"(38.65789, -78.97902)",3.690164838375881,2476.0,32998_0_no,38.67886088149187,-79.0419304983768,5.0

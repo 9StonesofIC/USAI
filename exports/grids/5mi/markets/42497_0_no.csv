@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97457,43.05484,-123.2229,Myrtle Creek,OR,Oregon,True,,10365.0,24.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.05484, -123.2229)",4.0970394499585305,10365.0,42497_0_no,43.06116204515987,-123.14220735695862,5.0

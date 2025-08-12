@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58642,47.20145,-102.83667,Manning,ND,North Dakota,True,,332.0,0.7,38025,Dunn,"{""38025"": 94.65, ""38007"": 5.35}",Dunn|Billings,38025|38007,False,False,America/Denver,"(47.20145, -102.83667)",6.482667989871855,332.0,12774_0_yes,47.293471825075805,-102.863634649776,10.0

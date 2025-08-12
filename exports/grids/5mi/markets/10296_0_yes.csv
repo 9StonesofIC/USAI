@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32132,28.97731,-80.92345,Edgewater,FL,Florida,True,,7954.0,437.1,12127,Volusia,"{""12127"": 100}",Volusia,12127,False,False,America/New_York,"(28.97731, -80.92345)",5.090825087313615,18686.0,10296_0_yes,29.039626148078018,-80.87849799751932,5.0
+32169,28.97934,-80.87386,New Smyrna Beach,FL,Florida,True,,10732.0,255.8,12127,Volusia,"{""12127"": 100}",Volusia,12127,False,False,America/New_York,"(28.97934, -80.87386)",4.174793211582554,18686.0,10296_0_yes,29.039626148078018,-80.87849799751932,5.0

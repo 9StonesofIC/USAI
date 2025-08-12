@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68864,41.2608,-98.24046,Palmer,NE,Nebraska,True,,1061.0,2.3,31121,Merrick,"{""31121"": 38.05, ""31125"": 37.37, ""31093"": 24.57}",Merrick|Nance|Howard,31121|31125|31093,False,False,America/Chicago,"(41.2608, -98.24046)",4.427569126860218,1061.0,38454_0_yes,41.229393693113366,-98.3147482106784,5.0

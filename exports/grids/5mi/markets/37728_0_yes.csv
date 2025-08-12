@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16852,40.93639,-77.5386,Madisonburg,PA,Pennsylvania,True,,193.0,19.3,42027,Centre,"{""42027"": 100}",Centre,42027,False,False,America/New_York,"(40.93639, -77.5386)",3.535370194376648,193.0,37728_0_yes,40.92253573614853,-77.60379602486418,5.0

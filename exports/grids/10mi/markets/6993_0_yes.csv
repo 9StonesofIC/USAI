@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86507,36.41985,-109.28019,Lukachukai,AZ,Arizona,True,,2429.0,4.3,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(36.41985, -109.28019)",8.79326696455693,4787.0,6993_0_yes,36.298993955081535,-109.23066696749936,10.0
+86556,36.24093,-109.21631,Tsaile,AZ,Arizona,True,,2358.0,4.2,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(36.24093, -109.21631)",4.090777810718107,4787.0,6993_0_yes,36.298993955081535,-109.23066696749936,10.0

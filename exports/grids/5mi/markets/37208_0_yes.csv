@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68372,40.60498,-96.60539,Hickman,NE,Nebraska,True,,3993.0,42.9,31109,Lancaster,"{""31109"": 100}",Lancaster,31109,False,False,America/Chicago,"(40.60498, -96.60539)",3.639057512343296,5552.0,37208_0_yes,40.64860691229482,-96.6442682265515,5.0
+68430,40.66599,-96.66012,Roca,NE,Nebraska,True,,1559.0,13.2,31109,Lancaster,"{""31109"": 100}",Lancaster,31109,False,False,America/Chicago,"(40.66599, -96.66012)",1.4604455722731222,5552.0,37208_0_yes,40.64860691229482,-96.6442682265515,5.0

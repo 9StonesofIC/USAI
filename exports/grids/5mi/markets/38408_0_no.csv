@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50858,41.20961,-94.40902,Orient,IA,Iowa,True,,693.0,3.3,19001,Adair,"{""19001"": 100}",Adair,19001,False,False,America/Chicago,"(41.20961, -94.40902)",4.00612046150203,693.0,38408_0_no,41.15378232654442,-94.42982108953642,5.0

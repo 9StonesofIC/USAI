@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63627,38.03625,-90.25317,Bloomsdale,MO,Missouri,True,,3504.0,18.5,29186,Ste. Genevieve,"{""29186"": 94.4, ""29099"": 5.6}",Ste. Genevieve|Jefferson,29186|29099,False,False,America/Chicago,"(38.03625, -90.25317)",5.090559243210266,3504.0,31777_0_no,38.108134892424026,-90.23265663338051,5.0

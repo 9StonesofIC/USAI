@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66021,38.75939,-95.00692,Edgerton,KS,Kansas,True,,2954.0,22.3,20091,Johnson,"{""20091"": 60.08, ""20121"": 31.16, ""20045"": 8.76}",Johnson|Miami|Douglas,20091|20121|20045,False,False,America/Chicago,"(38.75939, -95.00692)",5.64613024488575,2954.0,33084_0_no,38.69143935216668,-94.94873654282831,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39348,32.00007,-89.03475,Paulding,MS,Mississippi,True,,489.0,4.8,28061,Jasper,"{""28061"": 100}",Jasper,28061,False,False,America/Chicago,"(32.00007, -89.03475)",4.587106266505449,489.0,17395_0_yes,31.94604143848318,-89.08023116635763,5.0

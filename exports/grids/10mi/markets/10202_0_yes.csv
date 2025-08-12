@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97520,42.15472,-122.53168,Ashland,OR,Oregon,True,,25345.0,29.8,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.15472, -122.53168)",7.294761045763465,33899.0,10202_0_yes,42.1170681711026,-122.66469257359611,10.0
+97540,42.18615,-122.80027,Talent,OR,Oregon,True,,8554.0,73.5,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.18615, -122.80027)",8.426907217738833,33899.0,10202_0_yes,42.1170681711026,-122.66469257359611,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59457,47.08027,-109.38656,Lewistown,MT,Montana,True,,9058.0,3.5,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver,"(47.08027, -109.38656)",3.033195881244731,9058.0,50507_0_no,47.10309884551116,-109.44163608804313,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78545,26.591,-99.13889,Falcon Heights,TX,Texas,True,,202.0,3.6,48505,Zapata,"{""48505"": 54.16, ""48427"": 45.84}",Zapata|Starr,48505|48427,False,False,America/Chicago,"(26.591, -99.13889)",0.8767826647083997,202.0,4258_0_yes,26.583274427193658,-99.15014755347444,5.0

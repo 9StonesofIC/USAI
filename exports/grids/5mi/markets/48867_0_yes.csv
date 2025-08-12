@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59722,46.35143,-112.75684,Deer Lodge,MT,Montana,True,,5655.0,5.6,30077,Powell,"{""30077"": 85.75, ""30023"": 14.25}",Powell|Deer Lodge,30077|30023,False,False,America/Denver,"(46.35143, -112.75684)",4.95386563742113,5655.0,48867_0_yes,46.30994640540753,-112.6721494116448,5.0

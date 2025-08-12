@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67869,37.24489,-100.57358,Plains,KS,Kansas,True,,1589.0,2.0,20119,Meade,"{""20119"": 83.52, ""20175"": 16.48}",Meade|Seward,20119|20175,False,False,America/Chicago,"(37.24489, -100.57358)",2.0717991830236313,1589.0,29893_0_no,37.24661879611377,-100.61118532443534,5.0

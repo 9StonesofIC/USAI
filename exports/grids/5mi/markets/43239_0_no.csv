@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50459,43.4458,-93.25445,Northwood,IA,Iowa,True,,2967.0,8.0,19195,Worth,"{""19195"": 99.83, ""19189"": 0.17}",Worth|Winnebago,19195|19189,False,False,America/Chicago,"(43.4458, -93.25445)",2.4296657426343593,2967.0,43239_0_no,43.469755874486296,-93.28991411871476,5.0

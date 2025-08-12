@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76009,32.41635,-97.20115,Alvarado,TX,Texas,True,,19618.0,77.3,48251,Johnson,"{""48251"": 100}",Johnson,48251,False,False,America/Chicago,"(32.41635, -97.20115)",5.2458469084371115,29192.0,18481_0_yes,32.38659180880292,-97.1184211678954,5.0
+76084,32.43258,-97.0888,Venus,TX,Texas,True,,9574.0,71.3,48251,Johnson,"{""48251"": 52.2, ""48139"": 47.8}",Johnson|Ellis,48251|48139,False,False,America/Chicago,"(32.43258, -97.0888)",3.6168803692977933,29192.0,18481_0_yes,32.38659180880292,-97.1184211678954,5.0

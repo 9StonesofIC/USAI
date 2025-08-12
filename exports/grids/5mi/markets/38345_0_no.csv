@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44851,41.10577,-82.40166,New London,OH,Ohio,True,,4747.0,24.1,39077,Huron,"{""39077"": 72.79, ""39093"": 18.72, ""39005"": 8.49}",Huron|Lorain|Ashland,39077|39093|39005,False,False,America/New_York,"(41.10577, -82.40166)",3.6844437791140683,4747.0,38345_0_no,41.14373202643055,-82.35194413060718,5.0

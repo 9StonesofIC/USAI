@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44849,40.80863,-83.13186,Nevada,OH,Ohio,True,,2414.0,18.5,39175,Wyandot,"{""39175"": 73.19, ""39033"": 23.53, ""39101"": 3.28}",Wyandot|Crawford|Marion,39175|39033|39101,False,False,America/New_York,"(40.80863, -83.13186)",3.3740666215596673,2414.0,37732_0_no,40.85473382944515,-83.11058449372173,5.0

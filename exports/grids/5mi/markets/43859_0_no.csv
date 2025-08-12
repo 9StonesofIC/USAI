@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57355,43.7747,-98.95045,Kimball,SD,South Dakota,True,,1289.0,1.3,46015,Brule,"{""46015"": 88.82, ""46073"": 7.15, ""46017"": 4.03}",Brule|Jerauld|Buffalo,46015|46073|46017,False,False,America/Chicago,"(43.7747, -98.95045)",1.114812316878132,1289.0,43859_0_no,43.76424214535171,-98.93343523188904,5.0

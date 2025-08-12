@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35634,34.92306,-87.60738,Florence,AL,Alabama,True,,9606.0,52.0,1077,Lauderdale,"{""01077"": 100}",Lauderdale,01077,False,False,America/Chicago,"(34.92306, -87.60738)",1.7340238529526533,22941.0,24537_0_no,34.91758226916117,-87.5775101976115,5.0
+35645,34.89605,-87.4936,Killen,AL,Alabama,True,,13335.0,67.4,1077,Lauderdale,"{""01077"": 100}",Lauderdale,01077,False,False,America/Chicago,"(34.89605, -87.4936)",4.981880548257296,22941.0,24537_0_no,34.91758226916117,-87.5775101976115,5.0

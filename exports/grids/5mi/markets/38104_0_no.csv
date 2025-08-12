@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51566,41.0151,-95.22994,Red Oak,IA,Iowa,True,,6526.0,14.3,19137,Montgomery,"{""19137"": 91.46, ""19145"": 6.58, ""19155"": 1.96}",Montgomery|Page|Pottawattamie,19137|19145|19155,False,False,America/Chicago,"(41.0151, -95.22994)",1.7111233899536198,6526.0,38104_0_no,41.0096328118998,-95.2619508422576,5.0

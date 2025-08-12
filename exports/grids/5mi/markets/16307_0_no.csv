@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31793,31.46104,-83.58386,Tifton,GA,Georgia,True,,9029.0,37.3,13277,Tift,"{""13277"": 100}",Tift,13277,False,False,America/New_York,"(31.46104, -83.58386)",2.3495125589263304,10837.0,16307_0_no,31.434808154730117,-83.60922402462994,5.0
+31795,31.47611,-83.67633,Ty Ty,GA,Georgia,True,,1808.0,14.7,13321,Worth,"{""13321"": 73.23, ""13277"": 26.77}",Worth|Tift,13321|13277,False,False,America/New_York,"(31.47611, -83.67633)",4.877219065308458,10837.0,16307_0_no,31.434808154730117,-83.60922402462994,5.0

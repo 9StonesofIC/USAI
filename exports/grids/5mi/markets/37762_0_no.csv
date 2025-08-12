@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61740,40.88779,-88.86397,Flanagan,IL,Illinois,True,,1412.0,7.8,17105,Livingston,"{""17105"": 100}",Livingston,17105,False,False,America/Chicago,"(40.88779, -88.86397)",2.4217757048279203,1569.0,37762_0_no,40.85947105776157,-88.83665534208596,5.0
+61743,40.87805,-88.78142,Graymont,IL,Illinois,True,,157.0,3.9,17105,Livingston,"{""17105"": 100}",Livingston,17105,False,False,America/Chicago,"(40.87805, -88.78142)",3.1586131895931584,1569.0,37762_0_no,40.85947105776157,-88.83665534208596,5.0

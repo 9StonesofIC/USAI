@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71474,31.27724,-93.01394,Simpson,LA,Louisiana,True,,447.0,8.1,22115,Vernon,"{""22115"": 100}",Vernon,22115,False,False,America/Chicago,"(31.27724, -93.01394)",5.113506475364526,447.0,15676_0_yes,31.223436794738017,-93.07338280161228,5.0

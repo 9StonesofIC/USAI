@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54446,44.7533,-90.47149,Loyal,WI,Wisconsin,True,,3080.0,15.5,55019,Clark,"{""55019"": 100}",Clark,55019,False,False,America/Chicago,"(44.7533, -90.47149)",3.842302442383725,3080.0,45603_0_yes,44.69770287225852,-90.47319039094586,5.0

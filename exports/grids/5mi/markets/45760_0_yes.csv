@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97346,44.76948,-122.37857,Gates,OR,Oregon,True,,1087.0,9.6,41047,Marion,"{""41047"": 73.18, ""41043"": 26.82}",Marion|Linn,41047|41043,False,False,America/Los_Angeles,"(44.76948, -122.37857)",3.1493473812193415,1087.0,45760_0_yes,44.726053921091896,-122.3590697637508,5.0

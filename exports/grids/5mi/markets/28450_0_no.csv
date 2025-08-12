@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23457,36.61686,-76.01576,Virginia Beach,VA,Virginia,True,,4695.0,26.7,51810,Virginia Beach,"{""51810"": 100}",Virginia Beach,51810,False,False,America/New_York,"(36.61686, -76.01576)",3.9937665872596053,4695.0,28450_0_no,36.64817308977658,-75.95521497559088,5.0

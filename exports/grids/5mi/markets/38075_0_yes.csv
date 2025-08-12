@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45880,41.0662,-84.73782,Payne,OH,Ohio,True,,2805.0,18.7,39125,Paulding,"{""39125"": 100}",Paulding,39125,False,False,America/New_York,"(41.0662, -84.73782)",2.0630625110447274,6840.0,38075_0_yes,41.07329622269505,-84.77629080649739,5.0
+46797,41.12749,-84.86046,Woodburn,IN,Indiana,True,,4035.0,31.3,18003,Allen,"{""18003"": 100}",Allen,18003,False,False,America/Indiana/Indianapolis,"(41.12749, -84.86046)",5.7641794731512155,6840.0,38075_0_yes,41.07329622269505,-84.77629080649739,5.0

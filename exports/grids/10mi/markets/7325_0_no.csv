@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86432,36.79085,-113.73783,Littlefield,AZ,Arizona,True,,3815.0,1.4,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix,"(36.79085, -113.73783)",5.211408118498896,3815.0,7325_0_no,36.7407047666425,-113.66749772403745,10.0

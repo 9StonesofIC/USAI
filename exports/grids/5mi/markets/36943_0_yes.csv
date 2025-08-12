@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80515,40.45659,-105.37726,Drake,CO,Colorado,True,,896.0,7.1,8069,Larimer,"{""08069"": 100}",Larimer,08069,False,False,America/Denver,"(40.45659, -105.37726)",4.985040061303267,921.0,36943_0_yes,40.51097493787213,-105.43959444087191,5.0
+80532,40.4775,-105.46048,Glen Haven,CO,Colorado,True,,25.0,0.3,8069,Larimer,"{""08069"": 100}",Larimer,08069,False,False,America/Denver,"(40.4775, -105.46048)",2.560036521058429,921.0,36943_0_yes,40.51097493787213,-105.43959444087191,5.0

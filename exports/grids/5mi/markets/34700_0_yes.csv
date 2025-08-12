@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66549,39.42978,-96.43045,Westmoreland,KS,Kansas,True,,1697.0,3.6,20149,Pottawatomie,"{""20149"": 100}",Pottawatomie,20149,False,False,America/Chicago,"(39.42978, -96.43045)",5.144524872534647,1697.0,34700_0_yes,39.4894318467374,-96.37273542654552,5.0

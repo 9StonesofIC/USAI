@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65401,37.90691,-91.76374,Rolla,MO,Missouri,True,,33502.0,50.0,29161,Phelps,"{""29161"": 83.01, ""29065"": 12.72, ""29125"": 4.27}",Phelps|Dent|Maries,29161|29065|29125,False,False,America/Chicago,"(37.90691, -91.76374)",3.9760431862041883,33502.0,31463_0_no,37.96442622079136,-91.76608315813874,5.0

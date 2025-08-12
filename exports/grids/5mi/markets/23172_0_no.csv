@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30028,34.28928,-84.17985,Cumming,GA,Georgia,True,,30609.0,236.5,13117,Forsyth,"{""13117"": 92.71, ""13057"": 7.29}",Forsyth|Cherokee,13117|13057,False,False,America/New_York,"(34.28928, -84.17985)",3.30473380611978,30609.0,23172_0_no,34.335248301865114,-84.16385161167742,5.0

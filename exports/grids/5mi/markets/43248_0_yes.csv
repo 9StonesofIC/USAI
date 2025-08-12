@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53913,43.49213,-89.72858,Baraboo,WI,Wisconsin,True,,20534.0,57.1,55111,Sauk,"{""55111"": 98.66, ""55021"": 1.34}",Sauk|Columbia,55111|55021,False,False,America/Chicago,"(43.49213, -89.72858)",3.376579756591307,20534.0,43248_0_yes,43.5390125736457,-89.74760152772264,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29102,33.6437,-80.19225,Manning,SC,South Carolina,True,,17245.0,27.4,45027,Clarendon,"{""45027"": 100}",Clarendon,45027,False,False,America/New_York,"(33.6437, -80.19225)",2.726118725070125,17245.0,21454_0_no,33.60755278696645,-80.17325677207792,5.0

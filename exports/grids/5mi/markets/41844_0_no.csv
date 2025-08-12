@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83204,42.79219,-112.51877,Pocatello,ID,Idaho,True,,20699.0,28.5,16077,Power,"{""16077"": 59.24, ""16005"": 40.76}",Power|Bannock,16077|16005,False,False,America/Boise,"(42.79219, -112.51877)",2.182340280500624,20699.0,41844_0_no,42.76232874287723,-112.53279278938255,5.0

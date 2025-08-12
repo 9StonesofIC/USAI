@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38723,33.22967,-91.03845,Avon,MS,Mississippi,True,,52.0,38.7,28151,Washington,"{""28151"": 100}",Washington,28151,False,False,America/Chicago,"(33.22967, -91.03845)",4.691784856745332,52.0,20494_0_no,33.18017422223668,-91.09401147511318,5.0

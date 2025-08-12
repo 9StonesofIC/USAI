@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31792,30.77079,-84.04238,Thomasville,GA,Georgia,True,,22458.0,41.0,13275,Thomas,"{""13275"": 70.8, ""13131"": 29.2}",Thomas|Grady,13275|13131,False,False,America/New_York,"(30.77079, -84.04238)",5.062569296809646,22458.0,14559_0_no,30.70991144425513,-84.0898192803104,5.0

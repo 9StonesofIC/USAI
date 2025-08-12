@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96093,40.77237,-122.94329,Weaverville,CA,California,True,,3469.0,13.4,6105,Trinity,"{""06105"": 100}",Trinity,06105,False,False,America/Los_Angeles,"(40.77237, -122.94329)",3.669587541888736,3469.0,37656_0_yes,40.815160873189,-122.90173616353457,5.0

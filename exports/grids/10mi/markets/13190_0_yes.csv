@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58801,48.23522,-103.76747,Williston,ND,North Dakota,True,,32297.0,17.4,38105,Williams,"{""38105"": 100}",Williams,38105,False,False,America/Chicago,"(48.23522, -103.76747)",5.094343386303187,32495.0,13190_0_yes,48.16311468686423,-103.79057230576204,10.0
+58853,48.06237,-103.78588,Trenton,ND,North Dakota,True,,198.0,5.2,38105,Williams,"{""38105"": 100}",Williams,38105,False,False,America/Chicago,"(48.06237, -103.78588)",6.96415975486685,32495.0,13190_0_yes,48.16311468686423,-103.79057230576204,10.0

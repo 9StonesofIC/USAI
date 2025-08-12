@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82609,42.77773,-106.18937,Casper,WY,Wyoming,True,,18664.0,110.5,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver,"(42.77773, -106.18937)",3.011394805054671,18664.0,41812_0_no,42.75692881683673,-106.24154186924012,5.0

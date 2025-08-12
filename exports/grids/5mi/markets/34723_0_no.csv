@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80134,39.48282,-104.77957,Parker,CO,Colorado,True,,71112.0,478.8,8035,Douglas,"{""08035"": 100}",Douglas,08035,False,False,America/Denver,"(39.48282, -104.77957)",4.784265383082641,71112.0,34723_0_no,39.42374806258736,-104.732782046257,5.0

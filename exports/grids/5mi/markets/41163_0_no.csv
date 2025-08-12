@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68710,42.439,-96.84784,Allen,NE,Nebraska,True,,760.0,3.6,31051,Dixon,"{""31051"": 100}",Dixon,31051,False,False,America/Chicago,"(42.439, -96.84784)",4.6928516112302905,947.0,41163_0_no,42.45932407353013,-96.9356707766756,5.0
+68732,42.48176,-96.97387,Dixon,NE,Nebraska,True,,187.0,1.8,31051,Dixon,"{""31051"": 100}",Dixon,31051,False,False,America/Chicago,"(42.48176, -96.97387)",2.4886068363286413,947.0,41163_0_no,42.45932407353013,-96.9356707766756,5.0

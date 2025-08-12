@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84723,38.17611,-112.2519,Circleville,UT,Utah,True,,880.0,24.1,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver,"(38.17611, -112.2519)",4.103235536990781,880.0,31918_0_yes,38.197823221888,-112.32222464738412,5.0

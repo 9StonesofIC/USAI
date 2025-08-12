@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23885,37.18521,-77.57834,Sutherland,VA,Virginia,True,,2541.0,28.7,51053,Dinwiddie,"{""51053"": 100}",Dinwiddie,51053,False,False,America/New_York,"(37.18521, -77.57834)",3.024637219375741,2541.0,29766_0_no,37.228980669582846,-77.57747798326167,5.0

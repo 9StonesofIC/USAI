@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44855,41.10414,-82.58664,North Fairfield,OH,Ohio,True,,1378.0,19.1,39077,Huron,"{""39077"": 100}",Huron,39077,False,False,America/New_York,"(41.10414, -82.58664)",3.542872020691176,1378.0,38346_0_no,41.14389152740032,-82.54364206039973,5.0

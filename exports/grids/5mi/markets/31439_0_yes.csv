@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40371,38.07716,-83.59561,Salt Lick,KY,Kentucky,True,,2980.0,14.8,21011,Bath,"{""21011"": 78.74, ""21165"": 21.26}",Bath|Menifee,21011|21165,False,False,America/New_York,"(38.07716, -83.59561)",3.6557144172052864,2980.0,31439_0_yes,38.03044481270111,-83.56406172769059,5.0

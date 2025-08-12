@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54970,44.07091,-89.09352,Redgranite,WI,Wisconsin,True,,3862.0,32.6,55137,Waushara,"{""55137"": 100}",Waushara,55137,False,False,America/Chicago,"(44.07091, -89.09352)",4.09506360586587,3862.0,44400_0_no,44.04522413438331,-89.16784615720707,5.0

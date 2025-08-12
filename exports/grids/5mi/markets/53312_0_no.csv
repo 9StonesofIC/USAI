@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98232,48.56531,-122.41498,Bow,WA,Washington,True,,4259.0,30.5,53057,Skagit,"{""53057"": 100}",Skagit,53057,False,False,America/Los_Angeles,"(48.56531, -122.41498)",4.8891487325202565,4259.0,53312_0_no,48.5625723566778,-122.5218252436125,5.0

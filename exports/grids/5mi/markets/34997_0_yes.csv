@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64658,39.66124,-92.92181,Marceline,MO,Missouri,True,,3262.0,13.4,29041,Chariton,"{""29041"": 75.06, ""29115"": 22.27, ""29121"": 2.67}",Chariton|Linn|Macon,29041|29115|29121,False,False,America/Chicago,"(39.66124, -92.92181)",2.2416752193806024,3262.0,34997_0_yes,39.63154223798959,-92.93877609421386,5.0

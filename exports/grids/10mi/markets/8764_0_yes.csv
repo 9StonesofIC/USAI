@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81620,39.61485,-106.50555,Avon,CO,Colorado,True,,11912.0,85.1,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.61485, -106.50555)",12.43821488053872,21206.0,8764_0_yes,39.48296143464867,-106.6644520571196,10.0
+81632,39.62015,-106.61132,Edwards,CO,Colorado,True,,9294.0,31.0,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.62015, -106.61132)",9.8924409753545,21206.0,8764_0_yes,39.48296143464867,-106.6644520571196,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97824,45.34992,-117.75506,Cove,OR,Oregon,True,,1853.0,3.0,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles,"(45.34992, -117.75506)",7.884876303975884,2494.0,11818_0_yes,45.2943868549353,-117.6132694888974,10.0
+97857,45.37273,-117.50418,Lostine,OR,Oregon,True,,641.0,1.0,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles,"(45.37273, -117.50418)",7.574675460111382,2494.0,11818_0_yes,45.2943868549353,-117.6132694888974,10.0

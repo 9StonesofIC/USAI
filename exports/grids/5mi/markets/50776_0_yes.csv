@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58523,47.26581,-101.78138,Beulah,ND,North Dakota,True,,3607.0,5.6,38057,Mercer,"{""38057"": 72.5, ""38065"": 27.5}",Mercer|Oliver,38057|38065,False,False,America/North_Dakota/Beulah,"(47.26581, -101.78138)",3.325113447442716,3607.0,50776_0_yes,47.31303170699701,-101.79506114987548,5.0

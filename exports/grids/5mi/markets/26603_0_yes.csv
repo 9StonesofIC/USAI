@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74041,35.93808,-96.05545,Kiefer,OK,Oklahoma,True,,2913.0,128.1,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago,"(35.93808, -96.05545)",6.464229074617338,2913.0,26603_0_yes,35.86610476236812,-96.129240116621,5.0

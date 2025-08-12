@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83272,42.09156,-111.36835,Saint Charles,ID,Idaho,True,,277.0,0.8,16007,Bear Lake,"{""16007"": 100}",Bear Lake,16007,False,False,America/Boise,"(42.09156, -111.36835)",4.687952656315417,277.0,40329_0_no,42.03704227624048,-111.31394457829744,5.0

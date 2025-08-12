@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84536,37.14017,-110.23104,Monument Valley,UT,Utah,True,,1239.0,0.8,49037,San Juan,"{""49037"": 97.26, ""04017"": 2.74}",San Juan|Navajo,49037|04017,False,False,America/Denver,"(37.14017, -110.23104)",2.4772388290311924,1239.0,29621_0_no,37.1090311137236,-110.2533294327077,5.0

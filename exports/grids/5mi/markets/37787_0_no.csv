@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50103,40.79292,-93.61079,Garden Grove,IA,Iowa,True,,336.0,2.2,19053,Decatur,"{""19053"": 100}",Decatur,19053,False,False,America/Chicago,"(40.79292, -93.61079)",4.872275017050045,821.0,37787_0_no,40.86341934883667,-93.6086927007589,5.0
+50264,40.89919,-93.70071,Weldon,IA,Iowa,True,,485.0,2.8,19039,Clarke,"{""19039"": 55.25, ""19053"": 44.75}",Clarke|Decatur,19039|19053,False,False,America/Chicago,"(40.89919, -93.70071)",5.405074124116173,821.0,37787_0_no,40.86341934883667,-93.6086927007589,5.0

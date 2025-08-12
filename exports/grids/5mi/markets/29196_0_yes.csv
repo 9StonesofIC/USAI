@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42086,37.0828,-88.76838,West Paducah,KY,Kentucky,True,,4385.0,54.2,21145,McCracken,"{""21145"": 100}",McCracken,21145,False,False,America/Chicago,"(37.0828, -88.76838)",5.291953565844586,4385.0,29196_0_yes,37.02017231812741,-88.82362509328954,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83535,46.54011,-116.72599,Juliaetta,ID,Idaho,True,,1056.0,7.7,16069,Nez Perce,"{""16069"": 70.27, ""16057"": 29.73}",Nez Perce|Latah,16069|16057,False,False,America/Los_Angeles,"(46.54011, -116.72599)",0.8788282912934116,1056.0,49423_0_no,46.53085291277695,-116.73867046564692,5.0

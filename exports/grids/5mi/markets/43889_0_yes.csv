@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57569,43.8605,-99.57582,Reliance,SD,South Dakota,True,,226.0,0.2,46085,Lyman,"{""46085"": 100}",Lyman,46085,False,False,America/Chicago,"(43.8605, -99.57582)",1.6425465569153594,226.0,43889_0_yes,43.83715379419698,-99.58203708192671,5.0

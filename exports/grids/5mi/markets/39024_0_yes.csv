@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61346,41.50659,-89.7199,New Bedford,IL,Illinois,True,,57.0,40.5,17011,Bureau,"{""17011"": 100}",Bureau,17011,False,False,America/Chicago,"(41.50659, -89.7199)",0.5007509006864276,57.0,39024_0_yes,41.51186857572752,-89.71326835858027,5.0

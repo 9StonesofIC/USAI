@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19901,39.17335,-75.47758,Dover,DE,Delaware,True,,38673.0,197.0,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York,"(39.17335, -75.47758)",2.0762330515221032,38673.0,33954_0_yes,39.18292661307436,-75.44083679743983,5.0

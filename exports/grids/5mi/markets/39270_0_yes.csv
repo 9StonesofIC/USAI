@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16720,41.5793,-78.02599,Austin,PA,Pennsylvania,True,,1238.0,1.8,42105,Potter,"{""42105"": 85.26, ""42023"": 10.55, ""42083"": 4.19}",Potter|Cameron|McKean,42105|42023|42083,False,False,America/New_York,"(41.5793, -78.02599)",4.746538303436276,1238.0,39270_0_yes,41.64687716876929,-78.0425159052359,5.0

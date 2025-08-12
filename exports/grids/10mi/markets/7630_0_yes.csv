@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81084,37.57031,-102.41929,Two Buttes,CO,Colorado,True,,106.0,0.2,8009,Baca,"{""08009"": 83.65, ""08099"": 16.35}",Baca|Prowers,08009|08099,False,False,America/Denver,"(37.57031, -102.41929)",8.542251985282595,236.0,7630_0_yes,37.44804538232609,-102.4424173733419,10.0
+81087,37.39168,-102.41277,Vilas,CO,Colorado,True,,130.0,1.7,8009,Baca,"{""08009"": 100}",Baca,08009,False,False,America/Denver,"(37.39168, -102.41277)",4.220625820130639,236.0,7630_0_yes,37.44804538232609,-102.4424173733419,10.0

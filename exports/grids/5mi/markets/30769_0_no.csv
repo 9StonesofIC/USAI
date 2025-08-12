@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41464,37.65974,-82.97201,Royalton,KY,Kentucky,True,,679.0,24.9,21153,Magoffin,"{""21153"": 100}",Magoffin,21153,False,False,America/New_York,"(37.65974, -82.97201)",0.9880006835817617,679.0,30769_0_no,37.66779190345434,-82.95708215446369,5.0

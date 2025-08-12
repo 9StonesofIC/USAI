@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97819,44.48603,-117.76317,Bridgeport,OR,Oregon,True,,19.0,0.1,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles,"(44.48603, -117.76317)",4.592762997673258,19.0,11383_0_yes,44.425877088246295,-117.72354135008229,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83464,44.48105,-113.20271,Leadore,ID,Idaho,True,,291.0,0.1,16059,Lemhi,"{""16059"": 89.5, ""16033"": 10.5}",Lemhi|Clark,16059|16033,False,False,America/Boise,"(44.48105, -113.20271)",7.942174464572122,291.0,11504_0_no,44.562648016808,-113.08915571492878,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86042,35.86498,-110.38447,Polacca,AZ,Arizona,True,,2419.0,15.2,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(35.86498, -110.38447)",0.8100780130666063,2419.0,26683_0_yes,35.87667831651802,-110.3854343380738,5.0

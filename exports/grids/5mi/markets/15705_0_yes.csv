@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76522,31.21577,-97.97215,Copperas Cove,TX,Texas,True,,37382.0,125.5,48099,Coryell,"{""48099"": 80.26, ""48281"": 19.74}",Coryell|Lampasas,48099|48281,False,False,America/Chicago,"(31.21577, -97.97215)",0.7523972337977645,37382.0,15705_0_yes,31.226653297186985,-97.97171804315045,5.0

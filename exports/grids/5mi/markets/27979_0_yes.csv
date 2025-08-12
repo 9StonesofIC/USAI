@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87539,36.41192,-106.02393,La Madera,NM,New Mexico,True,,21.0,0.1,35039,Rio Arriba,"{""35039"": 100}",Rio Arriba,35039,False,False,America/Denver,"(36.41192, -106.02393)",4.199133118691187,21.0,27979_0_yes,36.453347545140026,-105.9686608286769,5.0

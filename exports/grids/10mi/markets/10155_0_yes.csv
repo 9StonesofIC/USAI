@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82223,42.12035,-104.38503,Lingle,WY,Wyoming,True,,850.0,2.7,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver,"(42.12035, -104.38503)",2.4092974136371694,894.0,10155_0_yes,42.08606206669193,-104.37647749263684,10.0
+82243,41.99442,-104.41451,Veteran,WY,Wyoming,True,,44.0,0.3,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver,"(41.99442, -104.41451)",6.62580019089166,894.0,10155_0_yes,42.08606206669193,-104.37647749263684,10.0

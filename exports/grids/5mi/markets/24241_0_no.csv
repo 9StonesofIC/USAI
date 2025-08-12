@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74937,34.83303,-94.58321,Heavener,OK,Oklahoma,True,,5545.0,10.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago,"(34.83303, -94.58321)",6.092132756654122,5545.0,24241_0_no,34.777611319680815,-94.49968815592672,5.0

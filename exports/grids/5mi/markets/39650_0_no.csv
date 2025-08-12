@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68644,41.7079,-97.67579,Lindsay,NE,Nebraska,True,,643.0,2.7,31141,Platte,"{""31141"": 71.19, ""31119"": 28.81}",Platte|Madison,31141|31119,False,False,America/Chicago,"(41.7079, -97.67579)",2.695482831086583,643.0,39650_0_no,41.73580903974023,-97.63926908696835,5.0

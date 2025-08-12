@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13325,43.58398,-75.54091,Constableville,NY,New York,True,,955.0,3.6,36049,Lewis,"{""36049"": 100}",Lewis,36049,False,False,America/New_York,"(43.58398, -75.54091)",5.317200322336032,1493.0,43177_0_yes,43.52670522404381,-75.61183463006722,5.0
+13489,43.46698,-75.52928,West Leyden,NY,New York,True,,538.0,6.7,36049,Lewis,"{""36049"": 100}",Lewis,36049,False,False,America/New_York,"(43.46698, -75.52928)",5.84378853696363,1493.0,43177_0_yes,43.52670522404381,-75.61183463006722,5.0

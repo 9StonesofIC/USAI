@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04462,45.86541,-68.93072,Millinocket,ME,Maine,True,,4597.0,2.5,23021,Piscataquis,"{""23021"": 70.35, ""23019"": 29.65}",Piscataquis|Penobscot,23021|23019,False,False,America/New_York,"(45.86541, -68.93072)",4.89130824965141,4597.0,47804_0_yes,45.83592501883994,-68.83831887095003,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23027,37.64551,-78.13183,Cartersville,VA,Virginia,True,,1385.0,12.2,51049,Cumberland,"{""51049"": 100}",Cumberland,51049,False,False,America/New_York,"(37.64551, -78.13183)",3.978711365933247,1385.0,30439_0_yes,37.591599921564026,-78.157383300304,5.0

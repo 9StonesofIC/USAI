@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83876,47.44842,-116.93161,Worley,ID,Idaho,True,,1714.0,5.5,16055,Kootenai,"{""16055"": 100}",Kootenai,16055,False,False,America/Los_Angeles,"(47.44842, -116.93161)",5.762078571893432,1714.0,51098_0_no,47.39960248944784,-117.03154687825578,5.0

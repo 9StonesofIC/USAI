@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29059,33.32853,-80.41891,Holly Hill,SC,South Carolina,True,,5484.0,19.4,45075,Orangeburg,"{""45075"": 95.18, ""45015"": 4.82}",Orangeburg|Berkeley,45075|45015,False,False,America/New_York,"(33.32853, -80.41891)",4.4513658509336445,5484.0,20774_0_no,33.31781571564268,-80.49493833615811,5.0

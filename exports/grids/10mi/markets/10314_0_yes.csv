@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82620,42.52434,-107.08132,Alcova,WY,Wyoming,True,,218.0,0.2,56025,Natrona,"{""56025"": 92.34, ""56007"": 7.66}",Natrona|Carbon,56025|56007,False,False,America/Denver,"(42.52434, -107.08132)",10.479391517470274,218.0,10314_0_yes,42.38013722239331,-107.01761596358384,10.0

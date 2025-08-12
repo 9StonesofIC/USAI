@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49818,45.98223,-87.34745,Cornell,MI,Michigan,True,,1126.0,2.3,26103,Marquette,"{""26103"": 52.36, ""26041"": 47.64}",Marquette|Delta,26103|26041,False,False,America/Detroit,"(45.98223, -87.34745)",3.965763650673646,1126.0,48151_0_no,45.925116644698825,-87.3556492021061,5.0

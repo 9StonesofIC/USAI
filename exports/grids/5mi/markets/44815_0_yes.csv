@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82434,44.34726,-108.30767,Otto,WY,Wyoming,True,,101.0,0.8,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver,"(44.34726, -108.30767)",5.152022270073874,101.0,44815_0_yes,44.279154607554986,-108.2652395579168,5.0

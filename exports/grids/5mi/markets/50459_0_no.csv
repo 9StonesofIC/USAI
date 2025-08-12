@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58496,47.14063,-99.30794,Woodworth,ND,North Dakota,True,,132.0,0.2,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago,"(47.14063, -99.30794)",3.7923762584207137,132.0,50459_0_no,47.09368265264495,-99.26615326853371,5.0

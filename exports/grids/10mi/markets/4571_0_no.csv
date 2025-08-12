@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71070,32.08629,-92.99618,Saline,LA,Louisiana,True,,1539.0,3.0,22069,Natchitoches,"{""22069"": 70.4, ""22013"": 29.6}",Natchitoches|Bienville,22069|22013,False,False,America/Chicago,"(32.08629, -92.99618)",7.89183951258763,1539.0,4571_0_no,32.072492112141134,-93.12999523398948,10.0

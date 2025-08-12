@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79501,32.74332,-99.89332,Anson,TX,Texas,True,,2535.0,4.8,48253,Jones,"{""48253"": 100}",Jones,48253,False,False,America/Chicago,"(32.74332, -99.89332)",2.8246568953144378,2535.0,19517_0_no,32.751107269379446,-99.84560291723491,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40372,37.90899,-84.88537,Salvisa,KY,Kentucky,True,,2455.0,17.6,21167,Mercer,"{""21167"": 94.47, ""21005"": 5.53}",Mercer|Anderson,21167|21005,False,False,America/New_York,"(37.90899, -84.88537)",2.7041500389319864,2455.0,31124_0_yes,37.88661607367351,-84.92606363469142,5.0

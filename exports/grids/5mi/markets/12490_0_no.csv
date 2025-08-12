@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70533,29.90439,-92.03536,Erath,LA,Louisiana,True,,7098.0,36.9,22113,Vermilion,"{""22113"": 99.7, ""22045"": 0.3}",Vermilion|Iberia,22113|22045,False,False,America/Chicago,"(29.90439, -92.03536)",6.055389881768234,7098.0,12490_0_no,29.84460902247653,-92.1092677332072,5.0

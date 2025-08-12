@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97627,42.08036,-122.05796,Keno,OR,Oregon,True,,558.0,6.7,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.08036, -122.05796)",9.134418585986692,842.0,10200_0_yes,42.11574807961777,-121.88628907756232,10.0
+97634,42.12747,-121.80348,Midland,OR,Oregon,True,,284.0,33.6,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.12747, -121.80348)",4.320405745808696,842.0,10200_0_yes,42.11574807961777,-121.88628907756232,10.0

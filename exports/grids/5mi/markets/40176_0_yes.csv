@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13734,42.07752,-76.40864,Barton,NY,New York,True,,1828.0,17.7,36107,Tioga,"{""36107"": 100}",Tioga,36107,False,False,America/New_York,"(42.07752, -76.40864)",2.3997096656851227,4086.0,40176_0_yes,42.07979907545745,-76.36194728796514,5.0
+13812,42.02993,-76.35461,Nichols,NY,New York,True,,2258.0,27.8,36107,Tioga,"{""36107"": 100}",Tioga,36107,False,False,America/New_York,"(42.02993, -76.35461)",3.4661249169055828,4086.0,40176_0_yes,42.07979907545745,-76.36194728796514,5.0

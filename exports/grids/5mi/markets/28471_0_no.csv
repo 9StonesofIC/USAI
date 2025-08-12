@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24054,36.67806,-79.70396,Axton,VA,Virginia,True,,6406.0,22.6,51089,Henry,"{""51089"": 67.4, ""51143"": 32.6}",Henry|Pittsylvania,51089|51143,False,False,America/New_York,"(36.67806, -79.70396)",2.5307262589546125,6406.0,28471_0_no,36.65102833750277,-79.73477211596978,5.0

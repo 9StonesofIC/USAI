@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54210,45.2535,-87.0352,Ellison Bay,WI,Wisconsin,True,,661.0,9.6,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago,"(45.2535, -87.0352)",1.5064442010662367,661.0,46745_0_yes,45.27357255327512,-87.04729433297868,5.0

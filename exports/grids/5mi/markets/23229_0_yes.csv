@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72038,34.44606,-91.2349,Crocketts Bluff,AR,Arkansas,True,,35.0,0.4,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago,"(34.44606, -91.2349)",2.6971277404505782,434.0,23229_0_yes,34.41273939622662,-91.210245312938,5.0
+72140,34.36052,-91.1549,Saint Charles,AR,Arkansas,True,,399.0,10.8,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago,"(34.36052, -91.1549)",4.793375503035782,434.0,23229_0_yes,34.41273939622662,-91.210245312938,5.0

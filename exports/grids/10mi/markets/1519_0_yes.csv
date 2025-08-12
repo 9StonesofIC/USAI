@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33852,27.25904,-81.37844,Lake Placid,FL,Florida,True,,20839.0,27.4,12055,Highlands,"{""12055"": 100}",Highlands,12055,False,False,America/New_York,"(27.25904, -81.37844)",3.3243337131775412,31626.0,1519_0_yes,27.273506941503967,-81.43006310651177,10.0
+33875,27.41813,-81.49198,Sebring,FL,Florida,True,,10787.0,78.0,12055,Highlands,"{""12055"": 100}",Highlands,12055,False,False,America/New_York,"(27.41813, -81.49198)",10.690645934979406,31626.0,1519_0_yes,27.273506941503967,-81.43006310651177,10.0

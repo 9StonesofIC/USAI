@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64771,37.77091,-94.45967,Moundville,MO,Missouri,True,,428.0,4.4,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago,"(37.77091, -94.45967)",5.167494677928796,13926.0,31155_0_no,37.82155261221878,-94.39002249311694,5.0
+64772,37.82712,-94.33355,Nevada,MO,Missouri,True,,13498.0,40.4,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago,"(37.82712, -94.33355)",3.1059843938196874,13926.0,31155_0_no,37.82155261221878,-94.39002249311694,5.0

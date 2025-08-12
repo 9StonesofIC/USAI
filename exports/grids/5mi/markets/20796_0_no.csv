@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30223,33.28635,-84.28012,Griffin,GA,Georgia,True,,36797.0,131.6,13255,Spalding,"{""13255"": 100}",Spalding,13255,False,False,America/New_York,"(33.28635, -84.28012)",2.556497807674361,36878.0,20796_0_no,33.32046048014587,-84.29727288488469,5.0
+30284,33.34032,-84.28858,Sunny Side,GA,Georgia,True,,81.0,1328.8,13255,Spalding,"{""13255"": 100}",Spalding,13255,False,False,America/New_York,"(33.34032, -84.28858)",1.461047853640464,36878.0,20796_0_no,33.32046048014587,-84.29727288488469,5.0

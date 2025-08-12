@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49412,43.4699,-85.94747,Fremont,MI,Michigan,True,,11871.0,41.5,26123,Newaygo,"{""26123"": 97.26, ""26127"": 1.99, ""26121"": 0.75}",Newaygo|Oceana|Muskegon,26123|26127|26121,False,False,America/Detroit,"(43.4699, -85.94747)",0.9220722373674904,11871.0,43202_0_no,43.46335693287269,-85.93144407519691,5.0

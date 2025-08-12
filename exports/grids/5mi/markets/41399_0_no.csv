@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48892,42.63662,-84.17477,Webberville,MI,Michigan,True,,4586.0,32.1,26065,Ingham,"{""26065"": 79.41, ""26093"": 20.59}",Ingham|Livingston,26065|26093,False,False,America/Detroit,"(42.63662, -84.17477)",3.934003210089636,4586.0,41399_0_no,42.59317223014205,-84.12476602342453,5.0

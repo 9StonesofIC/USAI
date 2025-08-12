@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71655,33.62874,-91.7486,Monticello,AR,Arkansas,True,,15445.0,16.3,5043,Drew,"{""05043"": 99.32, ""05079"": 0.68}",Drew|Lincoln,05043|05079,False,False,America/Chicago,"(33.62874, -91.7486)",4.912121239695471,15445.0,5433_0_yes,33.6646853904104,-91.67491880081108,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73041,35.03594,-98.88064,Gotebo,OK,Oklahoma,True,,354.0,1.1,40075,Kiowa,"{""40075"": 79.72, ""40149"": 20.28}",Kiowa|Washita,40075|40149,False,False,America/Chicago,"(35.03594, -98.88064)",2.979432635232859,354.0,24618_0_yes,34.99825366022464,-98.90623010168808,5.0

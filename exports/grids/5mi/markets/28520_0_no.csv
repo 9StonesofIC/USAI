@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42040,36.62454,-88.50371,Farmington,KY,Kentucky,True,,830.0,10.1,21083,Graves,"{""21083"": 79.55, ""21035"": 20.45}",Graves|Calloway,21083|21035,False,False,America/Chicago,"(36.62454, -88.50371)",3.6203993732070043,830.0,28520_0_no,36.65769173068873,-88.55428150938867,5.0

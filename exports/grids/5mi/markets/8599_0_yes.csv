@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78377,28.3418,-97.18051,Refugio,TX,Texas,True,,3510.0,2.8,48391,Refugio,"{""48391"": 100}",Refugio,48391,False,False,America/Chicago,"(28.3418, -97.18051)",5.081672231138605,3510.0,8599_0_yes,28.323960052583608,-97.09944776003468,5.0

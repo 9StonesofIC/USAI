@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56649,48.53122,-93.13224,International Falls,MN,Minnesota,True,,9014.0,12.2,27071,Koochiching,"{""27071"": 54.86, ""27137"": 45.14}",Koochiching|St. Louis,27071|27137,False,False,America/Chicago,"(48.53122, -93.13224)",1.7273369512054337,9014.0,53177_0_no,48.53471653581515,-93.09485747094897,5.0

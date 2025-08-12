@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36529,31.29279,-88.27281,Deer Park,AL,Alabama,True,,259.0,1.1,1129,Washington,"{""01129"": 100}",Washington,01129,False,False,America/Chicago,"(31.29279, -88.27281)",6.542223761082628,909.0,15648_0_yes,31.220331590593588,-88.34411305191867,5.0
+36584,31.19579,-88.38385,Vinegar Bend,AL,Alabama,True,,650.0,3.9,1129,Washington,"{""01129"": 100}",Washington,01129,False,False,America/Chicago,"(31.19579, -88.38385)",2.8964759608664634,909.0,15648_0_yes,31.220331590593588,-88.34411305191867,5.0

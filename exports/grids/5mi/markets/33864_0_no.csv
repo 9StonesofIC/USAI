@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95961,39.03343,-121.55754,Olivehurst,CA,California,True,,28929.0,243.6,6115,Yuba,"{""06115"": 100}",Yuba,06115,False,False,America/Los_Angeles,"(39.03343, -121.55754)",2.3621037790047548,69678.0,33864_0_no,39.002424736740544,-121.57607723541446,5.0
+95991,39.02205,-121.61317,Yuba City,CA,California,True,,40749.0,382.6,6101,Sutter,"{""06101"": 100}",Sutter,06101,False,False,America/Los_Angeles,"(39.02205, -121.61317)",2.409201544118791,69678.0,33864_0_no,39.002424736740544,-121.57607723541446,5.0

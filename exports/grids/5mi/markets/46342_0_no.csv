@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04422,45.07097,-69.03408,Charleston,ME,Maine,True,,1348.0,12.8,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(45.07097, -69.03408)",5.342135833974733,2209.0,46342_0_no,45.0405158240265,-69.13468217394494,5.0
+04939,45.05436,-69.15859,Garland,ME,Maine,True,,861.0,8.8,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(45.05436, -69.15859)",1.5089914638812503,2209.0,46342_0_no,45.0405158240265,-69.13468217394494,5.0

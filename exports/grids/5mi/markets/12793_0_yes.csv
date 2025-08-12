@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32259,30.07109,-81.6029,Saint Johns,FL,Florida,True,,57223.0,390.7,12109,St. Johns,"{""12109"": 98.86, ""12031"": 1.14}",St. Johns|Duval,12109|12031,False,False,America/New_York,"(30.07109, -81.6029)",1.0740590886425339,57223.0,12793_0_yes,30.055545808585144,-81.60308626920059,5.0

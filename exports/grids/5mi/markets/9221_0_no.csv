@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33597,28.52675,-82.08613,Webster,FL,Florida,True,,9075.0,22.7,12119,Sumter,"{""12119"": 55.54, ""12053"": 23.19, ""12101"": 21.27}",Sumter|Hernando|Pasco,12119|12053|12101,False,False,America/New_York,"(28.52675, -82.08613)",4.69658533506472,9075.0,9221_0_no,28.532646175204885,-82.16320780512258,5.0

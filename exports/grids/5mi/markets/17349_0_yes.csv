@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31419,31.98479,-81.23867,Savannah,GA,Georgia,True,,58483.0,309.7,13051,Chatham,"{""13051"": 100}",Chatham,13051,False,False,America/New_York,"(31.98479, -81.23867)",3.119510343627657,58483.0,17349_0_yes,31.94079477365609,-81.25062479894326,5.0

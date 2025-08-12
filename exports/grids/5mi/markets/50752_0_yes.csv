@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56548,47.37025,-96.75392,Halstad,MN,Minnesota,True,,735.0,4.2,27107,Norman,"{""27107"": 100}",Norman,27107,False,False,America/Chicago,"(47.37025, -96.75392)",5.30567785964028,1051.0,50752_0_yes,47.30828872689005,-96.68698396169164,5.0
+56550,47.2697,-96.74867,Hendrum,MN,Minnesota,True,,316.0,2.5,27107,Norman,"{""27107"": 100}",Norman,27107,False,False,America/Chicago,"(47.2697, -96.74867)",3.9327549967361395,1051.0,50752_0_yes,47.30828872689005,-96.68698396169164,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82601,43.0655,-106.34618,Casper,WY,Wyoming,True,,26854.0,21.7,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver,"(43.0655, -106.34618)",9.23277960621864,28480.0,10614_0_yes,42.95832363916972,-106.45532673766378,10.0
+82644,42.84303,-106.37437,Mills,WY,Wyoming,True,,1626.0,772.6,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver,"(42.84303, -106.37437)",8.958072886201457,28480.0,10614_0_yes,42.95832363916972,-106.45532673766378,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64778,37.92283,-94.4841,Richards,MO,Missouri,True,,536.0,1.8,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago,"(37.92283, -94.4841)",3.129792691131992,536.0,31176_0_yes,37.89400911174511,-94.43980739938542,5.0

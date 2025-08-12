@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39367,31.68219,-88.6644,Waynesboro,MS,Mississippi,True,,14522.0,12.2,28153,Wayne,"{""28153"": 95.41, ""28023"": 4.59}",Wayne|Clarke,28153|28023,False,False,America/Chicago,"(31.68219, -88.6644)",5.715740545059527,14522.0,17033_0_no,31.7282903021506,-88.74513793639065,5.0

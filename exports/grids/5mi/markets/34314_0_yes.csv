@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45123,39.3487,-83.38866,Greenfield,OH,Ohio,True,,8717.0,31.5,39071,Highland,"{""39071"": 43.29, ""39141"": 32.87, ""39047"": 23.84}",Highland|Ross|Fayette,39071|39141|39047,False,False,America/New_York,"(39.3487, -83.38866)",1.6280802779831325,8717.0,34314_0_yes,39.33411623294473,-83.36472859788701,5.0

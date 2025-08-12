@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87051,35.06188,-107.85426,San Rafael,NM,New Mexico,True,,1429.0,10.6,35006,Cibola,"{""35006"": 100}",Cibola,35006,False,False,America/Denver,"(35.06188, -107.85426)",3.114140020445765,1429.0,24986_0_no,35.07725892233295,-107.80249595674094,5.0

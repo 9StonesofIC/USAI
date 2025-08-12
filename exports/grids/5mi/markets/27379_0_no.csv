@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93239,36.03293,-119.98645,Kettleman City,CA,California,True,,1785.0,11.8,6031,Kings,"{""06031"": 100}",Kings,06031,False,False,America/Los_Angeles,"(36.03293, -119.98645)",6.1491111181210325,2871.0,27379_0_no,36.1013263670088,-119.9160055515402,5.0
+93266,36.17176,-119.85628,Stratford,CA,California,True,,1086.0,7.1,6031,Kings,"{""06031"": 100}",Kings,06031,False,False,America/Los_Angeles,"(36.17176, -119.85628)",5.89829969561525,2871.0,27379_0_no,36.1013263670088,-119.9160055515402,5.0

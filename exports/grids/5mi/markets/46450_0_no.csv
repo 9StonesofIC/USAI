@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54748,45.07919,-91.26586,Jim Falls,WI,Wisconsin,True,,1234.0,11.9,55017,Chippewa,"{""55017"": 100}",Chippewa,55017,False,False,America/Chicago,"(45.07919, -91.26586)",3.5645951301382954,1234.0,46450_0_no,45.06024870419416,-91.19791190652424,5.0

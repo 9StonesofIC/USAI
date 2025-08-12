@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32110,29.44456,-81.36131,Bunnell,FL,Florida,True,,8537.0,11.1,12035,Flagler,"{""12035"": 100}",Flagler,12035,False,False,America/New_York,"(29.44456, -81.36131)",2.14799029224642,8537.0,11370_0_yes,29.47513816330748,-81.35486893460416,5.0

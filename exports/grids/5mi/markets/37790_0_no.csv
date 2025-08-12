@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50861,40.91163,-94.25685,Shannon City,IA,Iowa,True,,289.0,2.8,19175,Union,"{""19175"": 68.69, ""19159"": 31.31}",Union|Ringgold,19175|19159,False,False,America/Chicago,"(40.91163, -94.25685)",5.140896784783781,504.0,37790_0_no,40.86389318047708,-94.18135622785452,5.0
+50863,40.84701,-94.17318,Tingley,IA,Iowa,True,,215.0,3.0,19159,Ringgold,"{""19159"": 100}",Ringgold,19159,False,False,America/Chicago,"(40.84701, -94.17318)",1.242310424594145,504.0,37790_0_no,40.86389318047708,-94.18135622785452,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75119,32.32293,-96.59107,Ennis,TX,Texas,True,,28901.0,42.2,48139,Ellis,"{""48139"": 94.5, ""48349"": 5.5}",Ellis|Navarro,48139|48349,False,False,America/Chicago,"(32.32293, -96.59107)",4.452904018469721,34095.0,18478_0_yes,32.38624374615073,-96.60531774345428,5.0
+75152,32.43598,-96.67444,Palmer,TX,Texas,True,,5194.0,48.8,48139,Ellis,"{""48139"": 100}",Ellis,48139,False,False,America/Chicago,"(32.43598, -96.67444)",5.297695517929876,34095.0,18478_0_yes,32.38624374615073,-96.60531774345428,5.0

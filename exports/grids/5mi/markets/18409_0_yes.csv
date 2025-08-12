@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31905,32.37304,-84.84331,Fort Benning,GA,Georgia,True,,17867.0,75.7,13053,Chattahoochee,"{""13053"": 80.96, ""13215"": 19.04}",Chattahoochee|Muscogee,13053|13215,False,False,America/New_York,"(32.37304, -84.84331)",2.2940496320972885,17867.0,18409_0_yes,32.378239588075395,-84.8044819156795,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74036,36.15713,-95.50497,Inola,OK,Oklahoma,True,,7258.0,21.8,40131,Rogers,"{""40131"": 80.61, ""40097"": 10.55, ""40145"": 8.84}",Rogers|Mayes|Wagoner,40131|40097|40145,False,False,America/Chicago,"(36.15713, -95.50497)",1.022725906253177,7258.0,27261_0_yes,36.15555389635506,-95.48674143910516,5.0

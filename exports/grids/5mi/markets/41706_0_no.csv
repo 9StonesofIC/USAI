@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49333,42.69546,-85.46343,Middleville,MI,Michigan,True,,11041.0,53.8,26015,Barry,"{""26015"": 96.51, ""26081"": 2.26, ""26005"": 1.23}",Barry|Kent|Allegan,26015|26081|26005,False,False,America/Detroit,"(42.69546, -85.46343)",4.203182082705864,11041.0,41706_0_no,42.73904880218747,-85.40567285941171,5.0

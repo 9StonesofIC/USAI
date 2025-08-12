@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76265,33.74079,-97.53922,Saint Jo,TX,Texas,True,,1464.0,3.3,48337,Montague,"{""48337"": 83.76, ""48097"": 16.24}",Montague|Cooke,48337|48097,False,False,America/Chicago,"(33.74079, -97.53922)",4.356445017585226,1464.0,21894_0_no,33.7646978707083,-97.46904920068418,5.0

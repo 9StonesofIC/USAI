@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04285,44.70625,-70.4523,Weld,ME,Maine,True,,428.0,2.8,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(44.70625, -70.4523)",4.221230339757771,1208.0,45504_0_yes,44.679839776792285,-70.37480331056481,5.0
+04984,44.69648,-70.28054,Temple,ME,Maine,True,,780.0,8.5,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(44.69648, -70.28054)",4.770970497416014,1208.0,45504_0_yes,44.679839776792285,-70.37480331056481,5.0

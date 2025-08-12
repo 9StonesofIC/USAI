@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59007,45.15555,-109.15805,Bearcreek,MT,Montana,True,,157.0,1.9,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.15555, -109.15805)",6.488015995425551,3335.0,11784_0_no,45.13489654851799,-109.2879252570026,10.0
+59068,45.15929,-109.45626,Red Lodge,MT,Montana,True,,3178.0,2.4,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.15929, -109.45626)",8.374447391125749,3335.0,11784_0_no,45.13489654851799,-109.2879252570026,10.0

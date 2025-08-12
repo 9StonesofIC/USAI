@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71820,33.78886,-94.24421,Alleene,AR,Arkansas,True,,106.0,3.5,5081,Little River,"{""05081"": 100}",Little River,05081,False,False,America/Chicago,"(33.78886, -94.24421)",3.4235968561643038,2369.0,21891_0_yes,33.83488331497671,-94.22211288285597,5.0
+71842,33.90051,-94.29297,Horatio,AR,Arkansas,True,,2263.0,12.8,5133,Sevier,"{""05133"": 100}",Sevier,05133,False,False,America/Chicago,"(33.90051, -94.29297)",6.089778485424376,2369.0,21891_0_yes,33.83488331497671,-94.22211288285597,5.0

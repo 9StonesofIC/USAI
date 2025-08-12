@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56449,46.17436,-94.27214,Fort Ripley,MN,Minnesota,True,,1817.0,7.8,27035,Crow Wing,"{""27035"": 66.83, ""27097"": 33.17}",Crow Wing|Morrison,27035|27097,False,False,America/Chicago,"(46.17436, -94.27214)",5.019300313287978,1817.0,48496_0_yes,46.148512957261794,-94.37015993168636,5.0

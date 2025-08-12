@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31029,33.03894,-83.92977,Forsyth,GA,Georgia,True,,16467.0,26.1,13207,Monroe,"{""13207"": 100}",Monroe,13207,False,False,America/New_York,"(33.03894, -83.92977)",1.0882570456181397,16467.0,20110_0_no,33.03020047335969,-83.91413984333431,5.0

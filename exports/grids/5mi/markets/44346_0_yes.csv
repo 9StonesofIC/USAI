@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05674,44.11112,-72.86081,Warren,VT,Vermont,True,,1688.0,16.3,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York,"(44.11112, -72.86081)",3.0334680516029455,1688.0,44346_0_yes,44.10325966800423,-72.92096620126411,5.0

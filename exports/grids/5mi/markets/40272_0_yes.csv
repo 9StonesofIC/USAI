@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51430,42.0869,-95.02633,Arcadia,IA,Iowa,True,,1350.0,13.0,19027,Carroll,"{""19027"": 100}",Carroll,19027,False,False,America/Chicago,"(42.0869, -95.02633)",0.7561451404084572,1925.0,40272_0_yes,42.0956242870851,-95.03523350931152,5.0
+51467,42.07377,-95.10919,Westside,IA,Iowa,True,,575.0,3.9,19047,Crawford,"{""19047"": 70.01, ""19027"": 29.99}",Crawford|Carroll,19047|19027,False,False,America/Chicago,"(42.07377, -95.10919)",4.081901540471405,1925.0,40272_0_yes,42.0956242870851,-95.03523350931152,5.0

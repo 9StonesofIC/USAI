@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57317,43.13153,-98.97891,Bonesteel,SD,South Dakota,True,,688.0,1.7,46053,Gregory,"{""46053"": 100}",Gregory,46053,False,False,America/Chicago,"(43.13153, -98.97891)",8.407997444103344,902.0,10731_0_no,43.0906475304456,-99.13591371044438,10.0
+57538,43.12167,-99.15551,Herrick,SD,South Dakota,True,,214.0,0.7,46053,Gregory,"{""46053"": 100}",Gregory,46053,False,False,America/Chicago,"(43.12167, -99.15551)",2.3604123781257758,902.0,10731_0_no,43.0906475304456,-99.13591371044438,10.0

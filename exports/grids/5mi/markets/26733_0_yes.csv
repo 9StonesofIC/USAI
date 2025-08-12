@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93219,35.87908,-119.28818,Earlimart,CA,California,True,,10998.0,41.3,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(35.87908, -119.28818)",0.5499468741280069,10998.0,26733_0_yes,35.88328886255785,-119.29651788037184,5.0

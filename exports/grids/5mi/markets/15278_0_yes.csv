@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39861,31.13635,-84.9884,Jakin,GA,Georgia,True,,932.0,5.8,13099,Early,"{""13099"": 97.96, ""13253"": 2.04}",Early|Seminole,13099|13253,False,False,America/New_York,"(31.13635, -84.9884)",4.932988903879779,932.0,15278_0_yes,31.073110190809665,-85.02710209126106,5.0

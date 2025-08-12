@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61567,40.35077,-89.89899,Topeka,IL,Illinois,True,,396.0,3.0,17125,Mason,"{""17125"": 100}",Mason,17125,False,False,America/Chicago,"(40.35077, -89.89899)",4.827679631407884,1007.0,36526_0_no,40.28098849799096,-89.9036465492594,5.0
+62633,40.22577,-89.8763,Easton,IL,Illinois,True,,611.0,3.5,17125,Mason,"{""17125"": 100}",Mason,17125,False,False,America/Chicago,"(40.22577, -89.8763)",4.078660001811062,1007.0,36526_0_no,40.28098849799096,-89.9036465492594,5.0

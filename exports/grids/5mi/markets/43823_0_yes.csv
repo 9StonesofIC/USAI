@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49449,43.79927,-86.37496,Pentwater,MI,Michigan,True,,2790.0,25.8,26127,Oceana,"{""26127"": 68.65, ""26105"": 31.35}",Oceana|Mason,26127|26105,False,False,America/Detroit,"(43.79927, -86.37496)",1.820295004377262,2790.0,43823_0_yes,43.82559400306177,-86.3764317537843,5.0

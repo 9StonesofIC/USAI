@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73005,35.05439,-98.23762,Anadarko,OK,Oklahoma,True,,9368.0,21.6,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago,"(35.05439, -98.23762)",4.426588217934756,9368.0,24614_0_yes,34.99774167211519,-98.20107657015215,5.0

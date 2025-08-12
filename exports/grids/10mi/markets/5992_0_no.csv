@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86322,34.47486,-111.80587,Camp Verde,AZ,Arizona,True,,11868.0,14.3,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.47486, -111.80587)",5.945967221893287,11868.0,5992_0_no,34.41829093846569,-111.88451104779104,10.0

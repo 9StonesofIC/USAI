@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68901,40.59092,-98.36599,Hastings,NE,Nebraska,True,,25998.0,66.8,31001,Adams,"{""31001"": 83.28, ""31035"": 14.3, ""31079"": 2.42}",Adams|Clay|Hall,31001|31035|31079,False,False,America/Chicago,"(40.59092, -98.36599)",4.111921542737643,25998.0,37217_0_yes,40.650017764448855,-98.3567498578102,5.0

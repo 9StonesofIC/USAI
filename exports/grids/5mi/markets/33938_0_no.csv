@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21056,39.07805,-76.4338,Gibson Island,MD,Maryland,True,,333.0,93.4,24003,Anne Arundel,"{""24003"": 100}",Anne Arundel,24003,False,False,America/New_York,"(39.07805, -76.4338)",5.416979199761381,333.0,33938_0_no,39.11126874431341,-76.3422975858079,5.0

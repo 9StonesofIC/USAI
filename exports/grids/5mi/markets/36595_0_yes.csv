@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68925,40.42366,-98.43821,Ayr,NE,Nebraska,True,,550.0,3.5,31001,Adams,"{""31001"": 100}",Adams,31001,False,False,America/Chicago,"(40.42366, -98.43821)",4.703894535905337,550.0,36595_0_yes,40.36038500407129,-98.47119655178815,5.0

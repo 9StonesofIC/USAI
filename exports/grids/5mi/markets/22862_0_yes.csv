@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35950,34.25273,-86.26023,Albertville,AL,Alabama,True,,20728.0,185.0,1095,Marshall,"{""01095"": 100}",Marshall,01095,False,False,America/Chicago,"(34.25273, -86.26023)",3.4887309938139843,20728.0,22862_0_yes,34.26417845917142,-86.20072902088583,5.0

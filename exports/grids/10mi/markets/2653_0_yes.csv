@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78116,29.11275,-97.75677,Gillett,TX,Texas,True,,331.0,1.1,48255,Karnes,"{""48255"": 100}",Karnes,48255,False,False,America/Chicago,"(29.11275, -97.75677)",10.23832287035693,857.0,2653_0_yes,29.03342758047053,-97.89997587828744,10.0
+78117,28.95092,-97.95736,Hobson,TX,Texas,True,,512.0,2.8,48255,Karnes,"{""48255"": 100}",Karnes,48255,False,False,America/Chicago,"(28.95092, -97.95736)",6.672738054059823,857.0,2653_0_yes,29.03342758047053,-97.89997587828744,10.0
+78144,28.95506,-97.88795,Panna Maria,TX,Texas,True,,14.0,2.4,48255,Karnes,"{""48255"": 100}",Karnes,48255,False,False,America/Chicago,"(28.95506, -97.88795)",5.463240606438422,857.0,2653_0_yes,29.03342758047053,-97.89997587828744,10.0

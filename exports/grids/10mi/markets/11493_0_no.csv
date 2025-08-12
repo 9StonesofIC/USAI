@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82411,44.44995,-108.47663,Burlington,WY,Wyoming,True,,569.0,1.6,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver,"(44.44995, -108.47663)",10.56719393990304,569.0,11493_0_no,44.55474456594422,-108.6328164011356,10.0

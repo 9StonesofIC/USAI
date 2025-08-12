@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73757,36.27601,-97.44935,Lucien,OK,Oklahoma,True,,175.0,3.0,40103,Noble,"{""40103"": 73.16, ""40047"": 26.84}",Noble|Garfield,40103|40047,False,False,America/Chicago,"(36.27601, -97.44935)",3.136819736944659,175.0,27602_0_yes,36.301947585469456,-97.4031230319197,5.0

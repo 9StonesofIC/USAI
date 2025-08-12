@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49835,45.74396,-86.57555,Garden,MI,Michigan,True,,804.0,3.7,26041,Delta,"{""26041"": 100}",Delta,26041,False,False,America/Detroit,"(45.74396, -86.57555)",3.4429152415518804,850.0,47863_0_no,45.77974640903908,-86.62525296389708,5.0
+49864,45.84444,-86.65104,Nahma,MI,Michigan,True,,46.0,17.2,26041,Delta,"{""26041"": 100}",Delta,26041,False,False,America/Detroit,"(45.84444, -86.65104)",4.639211407789635,850.0,47863_0_no,45.77974640903908,-86.62525296389708,5.0

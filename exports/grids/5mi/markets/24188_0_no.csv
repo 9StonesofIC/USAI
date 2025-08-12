@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30739,34.80345,-85.21515,Rock Spring,GA,Georgia,True,,6773.0,102.3,13295,Walker,"{""13295"": 74.95, ""13047"": 25.05}",Walker|Catoosa,13295|13047,False,False,America/New_York,"(34.80345, -85.21515)",2.9439686617342815,6773.0,24188_0_no,34.77088337908624,-85.181695424995,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50535,42.45138,-95.16167,Early,IA,Iowa,True,,1021.0,6.3,19161,Sac,"{""19161"": 100}",Sac,19161,False,False,America/Chicago,"(42.45138, -95.16167)",5.746794667872368,1021.0,40878_0_yes,42.38530033351854,-95.093248081088,5.0

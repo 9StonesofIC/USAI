@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87931,32.93379,-107.33657,Caballo,NM,New Mexico,True,,914.0,2.1,35051,Sierra,"{""35051"": 100}",Sierra,35051,False,False,America/Denver,"(32.93379, -107.33657)",4.9096697423063365,914.0,19917_0_yes,32.97375776784168,-107.2665521156434,5.0

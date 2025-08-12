@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39532,30.50155,-88.97454,Biloxi,MS,Mississippi,True,,37837.0,177.7,28047,Harrison,"{""28047"": 89.89, ""28059"": 10.11}",Harrison|Jackson,28047|28059,False,False,America/Chicago,"(30.50155, -88.97454)",5.204809155848026,37837.0,14237_0_no,30.56803270499973,-89.01566431282127,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24245,36.84045,-82.51598,Dungannon,VA,Virginia,True,,912.0,6.1,51169,Scott,"{""51169"": 100}",Scott,51169,False,False,America/New_York,"(36.84045, -82.51598)",3.1105640433070993,2129.0,28814_0_no,36.79805691623248,-82.53490809961687,5.0
+24250,36.75752,-82.58705,Fort Blackmore,VA,Virginia,True,,1217.0,8.2,51169,Scott,"{""51169"": 100}",Scott,51169,False,False,America/New_York,"(36.75752, -82.58705)",4.021363442217582,2129.0,28814_0_no,36.79805691623248,-82.53490809961687,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93257,35.98708,-118.89493,Porterville,CA,California,True,,75483.0,76.9,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(35.98708, -118.89493)",3.410260987900888,75483.0,27062_0_yes,36.028041034329924,-118.92897188405252,5.0

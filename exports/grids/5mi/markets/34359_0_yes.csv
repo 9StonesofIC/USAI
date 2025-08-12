@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65282,39.38975,-91.83302,Santa Fe,MO,Missouri,True,,114.0,4.0,29137,Monroe,"{""29137"": 100}",Monroe,29137,False,False,America/Chicago,"(39.38975, -91.83302)",4.966607972692925,114.0,34359_0_yes,39.34085199145306,-91.76486930610108,5.0

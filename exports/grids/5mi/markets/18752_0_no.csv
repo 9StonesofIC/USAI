@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36003,32.44651,-86.72536,Autaugaville,AL,Alabama,True,,1830.0,8.6,1001,Autauga,"{""01001"": 100}",Autauga,01001,False,False,America/Chicago,"(32.44651, -86.72536)",1.2908410300989712,1830.0,18752_0_no,32.452099947945825,-86.74648498376524,5.0

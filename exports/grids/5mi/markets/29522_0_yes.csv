@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62960,37.22515,-88.71097,Metropolis,IL,Illinois,True,,10641.0,36.4,17127,Massac,"{""17127"": 98.34, ""17151"": 1.66}",Massac|Pope,17127|17151,False,False,America/Chicago,"(37.22515, -88.71097)",4.798181718505714,10641.0,29522_0_yes,37.16504007835957,-88.75462679051401,5.0

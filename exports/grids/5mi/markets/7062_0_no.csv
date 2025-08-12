@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33715,27.66323,-82.72214,Saint Petersburg,FL,Florida,True,,8010.0,814.2,12103,Pinellas,"{""12103"": 100}",Pinellas,12103,False,False,America/New_York,"(27.66323, -82.72214)",3.1746017977840326,8010.0,7062_0_no,27.662350527046407,-82.67027329584278,5.0

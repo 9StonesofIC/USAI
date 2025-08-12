@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17325,39.82762,-77.22641,Gettysburg,PA,Pennsylvania,True,,28563.0,87.6,42001,Adams,"{""42001"": 100}",Adams,42001,False,False,America/New_York,"(39.82762, -77.22641)",5.294842635090511,28563.0,35229_0_yes,39.76374215406256,-77.28150990515925,5.0

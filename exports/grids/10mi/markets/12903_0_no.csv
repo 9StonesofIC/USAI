@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59315,47.44241,-104.87483,Bloomfield,MT,Montana,True,,57.0,0.1,30021,Dawson,"{""30021"": 100}",Dawson,30021,False,False,America/Denver,"(47.44241, -104.87483)",4.563423902415062,57.0,12903_0_no,47.441902530185125,-104.77717825810682,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42261,37.22405,-86.67015,Morgantown,KY,Kentucky,True,,10928.0,14.7,21031,Butler,"{""21031"": 100}",Butler,21031,False,False,America/Chicago,"(37.22405, -86.67015)",6.481934229389843,10928.0,29510_0_yes,37.163377895018336,-86.58032531908648,5.0

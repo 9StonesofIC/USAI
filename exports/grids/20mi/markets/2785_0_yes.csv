@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97735,43.39014,-120.99224,Fort Rock,OR,Oregon,True,,48.0,0.1,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles,"(43.39014, -120.99224)",11.511057016884552,48.0,2785_0_yes,43.55583512348127,-121.0161525490062,20.0

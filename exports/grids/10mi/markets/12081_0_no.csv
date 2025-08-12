@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59762,45.82231,-113.15271,Wise River,MT,Montana,True,,199.0,0.1,30023,Deer Lodge,"{""30023"": 56.11, ""30001"": 43.89}",Deer Lodge|Beaverhead,30023|30001,False,False,America/Denver,"(45.82231, -113.15271)",8.763803219103766,199.0,12081_0_no,45.721020953737536,-113.2621653281292,10.0

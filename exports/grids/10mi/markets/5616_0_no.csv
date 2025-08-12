@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76366,33.71439,-98.77436,Holliday,TX,Texas,True,,2152.0,3.2,48009,Archer,"{""48009"": 100}",Archer,48009,False,False,America/Chicago,"(33.71439, -98.77436)",7.32484713796379,2152.0,5616_0_no,33.81972560419504,-98.75995950236164,10.0

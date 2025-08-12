@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48737,44.54588,-83.70871,Glennie,MI,Michigan,True,,1215.0,4.3,26001,Alcona,"{""26001"": 72.41, ""26069"": 27.59}",Alcona|Iosco,26001|26069,False,False,America/Detroit,"(44.54588, -83.70871)",1.7660245926517768,1215.0,45278_0_yes,44.54692843805283,-83.67287575336901,5.0

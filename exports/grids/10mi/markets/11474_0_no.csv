@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57537,44.58366,-101.07399,Hayes,SD,South Dakota,True,,96.0,0.2,46117,Stanley,"{""46117"": 83.6, ""46055"": 16.4}",Stanley|Haakon,46117|46055,False,False,America/Denver,"(44.58366, -101.07399)",7.360523111165027,96.0,11474_0_no,44.54109825058502,-100.93692318778258,10.0

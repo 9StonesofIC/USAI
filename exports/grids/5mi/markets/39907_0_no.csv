@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60119,41.86154,-88.47702,Elburn,IL,Illinois,True,,10397.0,81.0,17089,Kane,"{""17089"": 100}",Kane,17089,False,False,America/Chicago,"(41.86154, -88.47702)",0.9763931064558632,10464.0,39907_0_no,41.87289626210404,-88.46572626215452,5.0
+60144,41.83507,-88.51984,Kaneville,IL,Illinois,True,,67.0,529.1,17089,Kane,"{""17089"": 100}",Kane,17089,False,False,America/Chicago,"(41.83507, -88.51984)",3.8192096705348577,10464.0,39907_0_no,41.87289626210404,-88.46572626215452,5.0

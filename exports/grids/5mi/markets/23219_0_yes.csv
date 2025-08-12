@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38601,34.48146,-89.45166,Abbeville,MS,Mississippi,True,,1857.0,8.2,28071,Lafayette,"{""28071"": 100}",Lafayette,28071,False,False,America/Chicago,"(34.48146, -89.45166)",4.856581232323123,5656.0,23219_0_yes,34.41148692567546,-89.4597458557798,5.0
+38677,34.36402,-89.53859,University,MS,Mississippi,True,,3799.0,1238.9,28071,Lafayette,"{""28071"": 100}",Lafayette,28071,False,False,America/Chicago,"(34.36402, -89.53859)",5.5647222756203325,5656.0,23219_0_yes,34.41148692567546,-89.4597458557798,5.0

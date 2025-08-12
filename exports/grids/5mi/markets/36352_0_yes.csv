@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84606,40.2149,-111.62619,Provo,UT,Utah,True,,37351.0,1245.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.2149, -111.62619)",2.874423871503858,71993.0,36352_0_yes,40.22621744075737,-111.573760886815,5.0
+84663,40.19266,-111.48917,Springville,UT,Utah,True,,34642.0,122.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.19266, -111.48917)",5.029799037760399,71993.0,36352_0_yes,40.22621744075737,-111.573760886815,5.0

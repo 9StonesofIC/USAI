@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18629,41.52393,-76.13365,Mehoopany,PA,Pennsylvania,True,,1838.0,8.9,42131,Wyoming,"{""42131"": 100}",Wyoming,42131,False,False,America/New_York,"(41.52393, -76.13365)",4.743508893741785,1838.0,38954_0_yes,41.500561136249786,-76.21985819588753,5.0

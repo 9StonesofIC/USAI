@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37618,36.46555,-82.20833,Bluff City,TN,Tennessee,True,,13592.0,75.7,47163,Sullivan,"{""47163"": 100}",Sullivan,47163,False,False,America/New_York,"(36.46555, -82.20833)",4.1806411286099765,51352.0,28156_0_no,36.5079410430621,-82.15462900524214,5.0
+37620,36.55124,-82.09867,Bristol,TN,Tennessee,True,,37760.0,113.7,47163,Sullivan,"{""47163"": 100}",Sullivan,47163,False,False,America/New_York,"(36.55124, -82.09867)",4.313070870721954,51352.0,28156_0_no,36.5079410430621,-82.15462900524214,5.0

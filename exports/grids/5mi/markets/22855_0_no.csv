@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35543,34.21219,-87.75197,Bear Creek,AL,Alabama,True,,1308.0,13.7,1093,Marion,"{""01093"": 100}",Marion,01093,False,False,America/Chicago,"(34.21219, -87.75197)",2.0146332371692792,1308.0,22855_0_no,34.19280923292847,-87.72562972875464,5.0

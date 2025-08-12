@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84060,40.6418,-111.50332,Park City,UT,Utah,True,,8684.0,76.5,49043,Summit,"{""49043"": 75.59, ""49051"": 24.41}",Summit|Wasatch,49043|49051,False,False,America/Denver,"(40.6418, -111.50332)",1.5697827046272377,8684.0,37286_0_yes,40.66083661810211,-111.4869742672367,5.0

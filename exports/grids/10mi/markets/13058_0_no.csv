@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59436,47.6135,-112.0907,Fairfield,MT,Montana,True,,2045.0,3.2,30099,Teton,"{""30099"": 99.58, ""30013"": 0.42}",Teton|Cascade,30099|30013,False,False,America/Denver,"(47.6135, -112.0907)",10.869963610315706,2045.0,13058_0_no,47.74465883676172,-111.9616633327412,10.0

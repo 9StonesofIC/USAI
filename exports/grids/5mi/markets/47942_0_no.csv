@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57650,45.8346,-103.03033,Ralph,SD,South Dakota,True,,50.0,0.3,46063,Harding,"{""46063"": 100}",Harding,46063,False,False,America/Denver,"(45.8346, -103.03033)",3.8292023195718854,50.0,47942_0_no,45.79455417404015,-102.9753621678368,5.0

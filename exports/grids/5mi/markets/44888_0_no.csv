@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04574,44.2734,-69.39105,Washington,ME,Maine,True,,1561.0,15.8,23013,Knox,"{""23013"": 100}",Knox,23013,False,False,America/New_York,"(44.2734, -69.39105)",3.391076812852391,2347.0,44888_0_no,44.31729128267467,-69.42173494850704,5.0
+04949,44.36712,-69.34029,Liberty,ME,Maine,True,,786.0,11.7,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.36712, -69.34029)",5.2962202008341555,2347.0,44888_0_no,44.31729128267467,-69.42173494850704,5.0

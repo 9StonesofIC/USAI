@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26148,39.07122,-81.18088,Macfarlan,WV,West Virginia,True,,281.0,6.0,54085,Ritchie,"{""54085"": 100}",Ritchie,54085,False,False,America/New_York,"(39.07122, -81.18088)",3.0340388988069296,913.0,33964_0_no,39.11512974011357,-81.18029024959272,5.0
+26161,39.16789,-81.2526,Petroleum,WV,West Virginia,True,,632.0,4.9,54085,Ritchie,"{""54085"": 100}",Ritchie,54085,False,False,America/New_York,"(39.16789, -81.2526)",5.32015280720329,913.0,33964_0_no,39.11512974011357,-81.18029024959272,5.0

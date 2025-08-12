@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64024,39.32523,-94.22707,Excelsior Springs,MO,Missouri,True,,15989.0,87.7,29047,Clay,"{""29047"": 62.82, ""29177"": 37.18}",Clay|Ray,29047|29177,False,False,America/Chicago,"(39.32523, -94.22707)",2.2452055388787824,15989.0,34372_0_yes,39.34279817603942,-94.19172672072654,5.0

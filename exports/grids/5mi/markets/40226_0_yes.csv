@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49045,42.1038,-86.00219,Decatur,MI,Michigan,True,,5569.0,24.9,26159,Van Buren,"{""26159"": 80.0, ""26027"": 20.0}",Van Buren|Cass,26159|26027,False,False,America/Detroit,"(42.1038, -86.00219)",4.484284160817142,5569.0,40226_0_yes,42.08804028395621,-86.08703807098813,5.0

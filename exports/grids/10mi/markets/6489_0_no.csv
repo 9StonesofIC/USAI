@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86031,35.3534,-110.0647,Indian Wells,AZ,Arizona,True,,1749.0,1.4,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Denver,"(35.3534, -110.0647)",6.766152141367528,1749.0,6489_0_no,35.28549682509656,-109.97822094067205,10.0

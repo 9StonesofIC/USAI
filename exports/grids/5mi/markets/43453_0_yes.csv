@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03226,43.70259,-71.51086,Center Harbor,NH,New Hampshire,True,,881.0,24.8,33001,Belknap,"{""33001"": 100}",Belknap,33001,False,False,America/New_York,"(43.70259, -71.51086)",2.4380290107761833,7291.0,43453_0_yes,43.66785380961039,-71.50227993548067,5.0
+03253,43.63193,-71.49749,Meredith,NH,New Hampshire,True,,6410.0,66.1,33001,Belknap,"{""33001"": 100}",Belknap,33001,False,False,America/New_York,"(43.63193, -71.49749)",2.4936237745509975,7291.0,43453_0_yes,43.66785380961039,-71.50227993548067,5.0

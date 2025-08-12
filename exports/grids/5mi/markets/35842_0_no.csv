@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15926,40.04783,-78.81934,Central City,PA,Pennsylvania,True,,2478.0,30.2,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(40.04783, -78.81934)",5.946554820277478,2478.0,35842_0_no,39.98221659827261,-78.74661690098456,5.0

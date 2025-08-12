@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53573,43.18196,-90.46326,Muscoda,WI,Wisconsin,True,,3061.0,11.0,55043,Grant,"{""55043"": 41.94, ""55103"": 41.06, ""55049"": 17.0}",Grant|Richland|Iowa,55043|55103|55049,False,False,America/Chicago,"(43.18196, -90.46326)",0.47614101875011994,3061.0,42630_0_no,43.17775090125484,-90.47074271521932,5.0

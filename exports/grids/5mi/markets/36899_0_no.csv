@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69027,40.49841,-101.52638,Enders,NE,Nebraska,True,,13.0,0.1,31029,Chase,"{""31029"": 92.75, ""31057"": 7.25}",Chase|Dundy,31029|31057,False,False,America/Denver,"(40.49841, -101.52638)",5.406257618101657,13.0,36899_0_no,40.435418338255566,-101.58739076868136,5.0

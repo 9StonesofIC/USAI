@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97065,45.59803,-120.65696,Wasco,OR,Oregon,True,,626.0,1.0,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles,"(45.59803, -120.65696)",0.6490568286195084,626.0,47483_0_yes,45.593351842795165,-120.66860210532045,5.0

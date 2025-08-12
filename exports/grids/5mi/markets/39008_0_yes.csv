@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46345,41.53032,-86.69995,Kingsbury,IN,Indiana,True,,168.0,670.5,18091,LaPorte,"{""18091"": 100}",LaPorte,18091,False,False,America/Chicago,"(41.53032, -86.69995)",3.9547589600937205,1549.0,39008_0_yes,41.50928362430321,-86.62885332957204,5.0
+46346,41.47816,-86.69332,Kingsford Heights,IN,Indiana,True,,1381.0,622.1,18091,LaPorte,"{""18091"": 100}",LaPorte,18091,False,False,America/Chicago,"(41.47816, -86.69332)",3.969324628004832,1549.0,39008_0_yes,41.50928362430321,-86.62885332957204,5.0

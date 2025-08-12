@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72742,35.98159,-93.49528,Kingston,AR,Arkansas,True,,825.0,4.7,5087,Madison,"{""05087"": 84.81, ""05101"": 15.19}",Madison|Newton,05087|05101,False,False,America/Chicago,"(35.98159, -93.49528)",4.962610623208438,825.0,26920_0_yes,36.00917184803259,-93.57724824587513,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67573,38.26215,-98.41518,Raymond,KS,Kansas,True,,173.0,0.9,20159,Rice,"{""20159"": 100}",Rice,20159,False,False,America/Chicago,"(38.26215, -98.41518)",1.252735223987314,173.0,32143_0_no,38.25946182031083,-98.43801576715,5.0

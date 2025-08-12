@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59430,47.43089,-109.83434,Denton,MT,Montana,True,,448.0,0.3,30027,Fergus,"{""30027"": 94.67, ""30045"": 5.33}",Fergus|Judith Basin,30027|30045,False,False,America/Denver,"(47.43089, -109.83434)",3.5464027804373885,448.0,51064_0_no,47.39286323365576,-109.7833966953768,5.0

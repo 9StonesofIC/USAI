@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55308,45.42944,-93.83561,Becker,MN,Minnesota,True,,9946.0,63.5,27141,Sherburne,"{""27141"": 100}",Sherburne,27141,False,False,America/Chicago,"(45.42944, -93.83561)",4.845734826471603,29679.0,47065_0_yes,45.42431296006541,-93.73594692579762,5.0
+55309,45.37758,-93.74107,Big Lake,MN,Minnesota,True,,19733.0,122.3,27141,Sherburne,"{""27141"": 100}",Sherburne,27141,False,False,America/Chicago,"(45.37758, -93.74107)",3.2384910547971626,29679.0,47065_0_yes,45.42431296006541,-93.73594692579762,5.0

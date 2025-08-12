@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47640,38.47708,-87.49301,Hazleton,IN,Indiana,True,,937.0,9.4,18051,Gibson,"{""18051"": 69.04, ""18125"": 30.96}",Gibson|Pike,18051|18125,False,False,America/Indiana/Vincennes,"(38.47708, -87.49301)",5.23057108702494,937.0,32724_0_no,38.54061999178913,-87.44041868980601,5.0

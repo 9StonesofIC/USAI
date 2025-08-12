@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15459,39.76483,-79.4648,Markleysburg,PA,Pennsylvania,True,,1625.0,19.2,42051,Fayette,"{""42051"": 100}",Fayette,42051,False,False,America/New_York,"(39.76483, -79.4648)",5.355749046713251,3369.0,35218_0_no,39.693164975425695,-79.50321031192239,5.0
+21531,39.64862,-79.42221,Friendsville,MD,Maryland,True,,1744.0,11.0,24023,Garrett,"{""24023"": 100}",Garrett,24023,False,False,America/New_York,"(39.64862, -79.42221)",5.29433806798162,3369.0,35218_0_no,39.693164975425695,-79.50321031192239,5.0

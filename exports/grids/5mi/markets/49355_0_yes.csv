@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58015,46.59225,-96.81544,Christine,ND,North Dakota,True,,229.0,4.2,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago,"(46.59225, -96.81544)",1.996090948485171,229.0,49355_0_yes,46.584929775011055,-96.85610593514704,5.0

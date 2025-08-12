@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50542,42.7794,-93.94594,Goldfield,IA,Iowa,True,,873.0,5.1,19197,Wright,"{""19197"": 68.54, ""19091"": 31.46}",Wright|Humboldt,19197|19091,False,False,America/Chicago,"(42.7794, -93.94594)",5.0473849480472435,873.0,41749_0_no,42.74630067529316,-93.8572374867639,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67485,39.31474,-98.49492,Tipton,KS,Kansas,True,,358.0,1.2,20141,Osborne,"{""20141"": 51.54, ""20123"": 48.46}",Osborne|Mitchell,20141|20123,False,False,America/Chicago,"(39.31474, -98.49492)",2.2332793454261726,358.0,34395_0_yes,39.34624175389644,-98.48556241819,5.0

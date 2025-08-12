@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81027,37.24687,-103.72308,Branson,CO,Colorado,True,,163.0,0.1,8071,Las Animas,"{""08071"": 100}",Las Animas,08071,False,False,America/Denver,"(37.24687, -103.72308)",1.5597642514792989,163.0,29910_0_no,37.24898065536222,-103.69484488203916,5.0

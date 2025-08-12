@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83429,44.48674,-111.37366,Island Park,ID,Idaho,True,,721.0,0.6,16043,Fremont,"{""16043"": 100}",Fremont,16043,False,False,America/Boise,"(44.48674, -111.37366)",1.0559848254594493,725.0,45388_0_no,44.49913342999084,-111.36112243647894,5.0
+83433,44.49284,-111.31788,Macks Inn,ID,Idaho,True,,4.0,1.0,16043,Fremont,"{""16043"": 100}",Fremont,16043,False,False,America/Boise,"(44.49284, -111.31788)",2.1750818441040627,725.0,45388_0_no,44.49913342999084,-111.36112243647894,5.0

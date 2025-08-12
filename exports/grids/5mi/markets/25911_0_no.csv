@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72956,35.46895,-94.3489,Van Buren,AR,Arkansas,True,,36726.0,136.7,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago,"(35.46895, -94.3489)",3.96084107007123,36726.0,25911_0_no,35.50244522606274,-94.40603445092364,5.0

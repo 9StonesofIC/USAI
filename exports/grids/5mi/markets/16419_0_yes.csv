@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76901,31.52352,-100.63993,San Angelo,TX,Texas,True,,30972.0,34.6,48451,Tom Green,"{""48451"": 72.83, ""48235"": 27.17}",Tom Green|Irion,48451|48235,False,False,America/Chicago,"(31.52352, -100.63993)",2.410781209747241,30972.0,16419_0_yes,31.51854167843742,-100.59941770235004,5.0

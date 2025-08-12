@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71953,34.61291,-94.2118,Mena,AR,Arkansas,True,,13192.0,7.4,5113,Polk,"{""05113"": 75.39, ""05127"": 19.48, ""40079"": 5.13}",Polk|Scott|Le Flore,05113|05127|40079,False,False,America/Chicago,"(34.61291, -94.2118)",1.463913532318107,13192.0,23903_0_no,34.632406413299975,-94.2017205998296,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29639,34.31402,-82.4205,Due West,SC,South Carolina,True,,1914.0,45.9,45001,Abbeville,"{""45001"": 100}",Abbeville,45001,False,False,America/New_York,"(34.31402, -82.4205)",5.154504315993883,1914.0,22840_0_yes,34.26143830775481,-82.35644813183526,5.0

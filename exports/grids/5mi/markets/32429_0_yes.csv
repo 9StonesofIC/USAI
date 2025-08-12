@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62446,38.49115,-88.21478,Mount Erie,IL,Illinois,True,,375.0,2.3,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.49115, -88.21478)",4.620663921732308,1095.0,32429_0_yes,38.46880928313983,-88.29530065469666,5.0
+62842,38.47038,-88.38007,Geff,IL,Illinois,True,,720.0,6.1,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.47038, -88.38007)",4.586957116792958,1095.0,32429_0_yes,38.46880928313983,-88.29530065469666,5.0

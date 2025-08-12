@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45345,39.7392,-84.39926,New Lebanon,OH,Ohio,True,,6335.0,109.4,39113,Montgomery,"{""39113"": 100}",Montgomery,39113,False,False,America/New_York,"(39.7392, -84.39926)",2.3377607321467555,6335.0,35267_0_yes,39.76951699390879,-84.41880022833186,5.0

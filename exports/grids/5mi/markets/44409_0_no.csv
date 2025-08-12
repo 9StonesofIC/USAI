@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54644,44.03089,-91.04326,Mindoro,WI,Wisconsin,True,,1420.0,9.0,55063,La Crosse,"{""55063"": 93.01, ""55053"": 6.99}",La Crosse|Jackson,55063|55053,False,False,America/Chicago,"(44.03089, -91.04326)",3.559693762527668,1420.0,44409_0_no,44.04681225293298,-90.97510026326124,5.0

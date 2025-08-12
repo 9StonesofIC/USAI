@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68934,40.33831,-98.15962,Deweese,NE,Nebraska,True,,132.0,1.4,31129,Nuckolls,"{""31129"": 68.82, ""31035"": 31.18}",Nuckolls|Clay,31129|31035,False,False,America/Chicago,"(40.33831, -98.15962)",3.8518408989306336,677.0,36593_0_yes,40.36007464738527,-98.09227536769237,5.0
+68938,40.42093,-98.12344,Fairfield,NE,Nebraska,True,,545.0,3.0,31035,Clay,"{""31035"": 100}",Clay,31035,False,False,America/Chicago,"(40.42093, -98.12344)",4.513228929268369,677.0,36593_0_yes,40.36007464738527,-98.09227536769237,5.0

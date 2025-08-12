@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68976,40.6023,-99.70918,Smithfield,NE,Nebraska,True,,484.0,5.1,31073,Gosper,"{""31073"": 100}",Gosper,31073,False,False,America/Chicago,"(40.6023, -99.70918)",3.5395842320997173,484.0,37224_0_yes,40.651115142181126,-99.68870495091754,5.0

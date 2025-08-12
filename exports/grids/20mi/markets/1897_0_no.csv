@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73937,36.5642,-102.76703,Felt,OK,Oklahoma,True,,188.0,0.3,40025,Cimarron,"{""40025"": 100}",Cimarron,40025,False,False,America/Chicago,"(36.5642, -102.76703)",23.533462746831802,239.0,1897_0_no,36.83660368827434,-103.02205051875676,20.0
+73946,36.92316,-102.81258,Kenton,OK,Oklahoma,True,,51.0,0.1,40025,Cimarron,"{""40025"": 100}",Cimarron,40025,False,False,America/Chicago,"(36.92316, -102.81258)",13.030382050089608,239.0,1897_0_no,36.83660368827434,-103.02205051875676,20.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76689,31.66624,-97.50471,Valley Mills,TX,Texas,True,,3821.0,6.6,48035,Bosque,"{""48035"": 58.75, ""48309"": 27.89, ""48099"": 13.36}",Bosque|McLennan|Coryell,48035|48309|48099,False,False,America/Chicago,"(31.66624, -97.50471)",6.283212183351022,3821.0,17085_0_no,31.73417276591983,-97.57576626794426,5.0

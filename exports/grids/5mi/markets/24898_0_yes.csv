@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38042,35.15059,-89.13848,Hickory Valley,TN,Tennessee,True,,672.0,5.1,47069,Hardeman,"{""47069"": 85.22, ""47047"": 14.78}",Hardeman|Fayette,47069|47047,False,False,America/Chicago,"(35.15059, -89.13848)",1.118248087251615,672.0,24898_0_yes,35.13613674503709,-89.14738670323005,5.0

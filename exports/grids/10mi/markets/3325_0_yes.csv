@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32327,30.18705,-84.30472,Crawfordville,FL,Florida,True,,29688.0,48.7,12129,Wakulla,"{""12129"": 100}",Wakulla,12129,False,False,America/New_York,"(30.18705, -84.30472)",5.1697366261710815,30028.0,3325_0_yes,30.17628830345318,-84.21906360130801,10.0
+32355,30.1695,-84.21002,Saint Marks,FL,Florida,True,,340.0,47.3,12129,Wakulla,"{""12129"": 100}",Wakulla,12129,False,False,America/New_York,"(30.1695, -84.21002)",0.7153988896665815,30028.0,3325_0_yes,30.17628830345318,-84.21906360130801,10.0

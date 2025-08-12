@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38917,33.54902,-89.95501,Carrollton,MS,Mississippi,True,,2993.0,6.9,28015,Carroll,"{""28015"": 100}",Carroll,28015,False,False,America/Chicago,"(33.54902, -89.95501)",2.2656736002260485,3509.0,21186_0_yes,33.541899357804475,-89.99341552776158,5.0
+38947,33.51718,-89.92128,North Carrollton,MS,Mississippi,True,,516.0,2156.5,28015,Carroll,"{""28015"": 100}",Carroll,28015,False,False,America/Chicago,"(33.51718, -89.92128)",4.4921005200777655,3509.0,21186_0_yes,33.541899357804475,-89.99341552776158,5.0

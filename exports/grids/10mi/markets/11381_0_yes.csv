@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83672,44.38095,-116.97188,Weiser,ID,Idaho,True,,8381.0,5.9,16087,Washington,"{""16087"": 100}",Washington,16087,False,False,America/Boise,"(44.38095, -116.97188)",4.107995095080095,8381.0,11381_0_yes,44.42444673601613,-116.91514454451118,10.0

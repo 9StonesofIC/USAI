@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87732,35.942,-105.47009,Mora,NM,New Mexico,True,,1483.0,3.2,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(35.942, -105.47009)",0.42686087308616083,1483.0,26968_0_no,35.94557045673987,-105.4763175817028,5.0

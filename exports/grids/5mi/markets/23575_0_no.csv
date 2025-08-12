@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74540,34.55776,-95.70167,Daisy,OK,Oklahoma,True,,165.0,1.6,40005,Atoka,"{""40005"": 79.65, ""40127"": 20.35}",Atoka|Pushmataha,40005|40127,False,False,America/Chicago,"(34.55776, -95.70167)",5.430491989485965,165.0,23575_0_no,34.488456364389066,-95.65667309243528,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70129,30.08239,-89.81617,New Orleans,LA,Louisiana,True,,9892.0,42.0,22071,Orleans,"{""22071"": 100}",Orleans,22071,False,False,America/Chicago,"(30.08239, -89.81617)",3.853643197768385,9892.0,13184_0_no,30.13334320315013,-89.84239151298208,5.0

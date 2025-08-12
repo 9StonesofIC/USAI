@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27823,36.20616,-77.71685,Enfield,NC,North Carolina,True,,7573.0,15.9,37083,Halifax,"{""37083"": 100}",Halifax,37083,False,False,America/New_York,"(36.20616, -77.71685)",3.2068644026065787,11142.0,6905_0_yes,36.2517800147352,-77.70625650884118,10.0
+27839,36.28818,-77.55009,Halifax,NC,North Carolina,True,,3569.0,9.9,37083,Halifax,"{""37083"": 100}",Halifax,37083,False,False,America/New_York,"(36.28818, -77.55009)",9.055623688738928,11142.0,6905_0_yes,36.2517800147352,-77.70625650884118,10.0

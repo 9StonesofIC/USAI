@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56113,44.40218,-96.14904,Arco,MN,Minnesota,True,,240.0,2.3,27081,Lincoln,"{""27081"": 93.91, ""27083"": 6.09}",Lincoln|Lyon,27081|27083,False,False,America/Chicago,"(44.40218, -96.14904)",2.5667471885681623,240.0,45047_0_yes,44.413185272278206,-96.0993725573116,5.0

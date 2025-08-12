@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65473,37.71215,-92.14811,Fort Leonard Wood,MO,Missouri,True,,14759.0,54.0,29169,Pulaski,"{""29169"": 100}",Pulaski,29169,False,False,America/Chicago,"(37.71215, -92.14811)",2.7210337747285265,14759.0,30840_0_yes,37.74729880790792,-92.1256518278758,5.0

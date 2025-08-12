@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97870,44.79434,-117.19033,Richland,OR,Oregon,True,,644.0,2.6,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles,"(44.79434, -117.19033)",0.05629286856561856,644.0,45998_0_no,44.79390902917741,-117.19130431748071,5.0

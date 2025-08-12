@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96126,39.54764,-120.38999,Sierraville,CA,California,True,,166.0,2.2,6091,Sierra,"{""06091"": 100}",Sierra,06091,False,False,America/Los_Angeles,"(39.54764, -120.38999)",4.525996246871014,166.0,34828_0_yes,39.50870108805693,-120.32169637250456,5.0

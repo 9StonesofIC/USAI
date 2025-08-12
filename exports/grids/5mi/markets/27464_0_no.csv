@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27974,36.23941,-76.00264,Shiloh,NC,North Carolina,True,,1399.0,11.9,37029,Camden,"{""37029"": 100}",Camden,37029,False,False,America/New_York,"(36.23941, -76.00264)",3.129900215540103,1399.0,27464_0_no,36.21353423055615,-76.04873207315751,5.0

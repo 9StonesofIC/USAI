@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59057,45.85358,-108.95377,Molt,MT,Montana,True,,878.0,1.2,30095,Stillwater,"{""30095"": 68.46, ""30111"": 31.54}",Stillwater|Yellowstone,30095|30111,False,False,America/Denver,"(45.85358, -108.95377)",3.887670736449529,878.0,47971_0_no,45.79999184482229,-108.97838766682824,5.0

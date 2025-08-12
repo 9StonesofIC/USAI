@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58429,47.18768,-98.16282,Dazey,ND,North Dakota,True,,355.0,1.1,38003,Barnes,"{""38003"": 97.71, ""38039"": 2.29}",Barnes|Griggs,38003|38039,False,False,America/Chicago,"(47.18768, -98.16282)",4.371932103231071,355.0,50481_0_yes,47.16504058290101,-98.249745296444,5.0

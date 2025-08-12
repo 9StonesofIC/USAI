@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26416,39.16349,-80.02245,Philippi,WV,West Virginia,True,,7597.0,20.8,54001,Barbour,"{""54001"": 99.06, ""54091"": 0.94}",Barbour|Taylor,54001|54091,False,False,America/New_York,"(39.16349, -80.02245)",4.061047363336608,7597.0,33958_0_no,39.11423869420664,-80.06380697137287,5.0

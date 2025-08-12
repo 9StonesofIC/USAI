@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97843,45.50479,-119.88066,Ione,OR,Oregon,True,,747.0,0.8,41049,Morrow,"{""41049"": 94.71, ""41021"": 5.29}",Morrow|Gilliam,41049|41021,False,False,America/Los_Angeles,"(45.50479, -119.88066)",4.1015962474027186,747.0,47192_0_yes,45.44782976779079,-119.85681762143092,5.0

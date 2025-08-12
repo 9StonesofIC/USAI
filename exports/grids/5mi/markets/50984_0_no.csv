@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55751,47.39283,-92.66815,Iron,MN,Minnesota,True,,1604.0,10.3,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(47.39283, -92.66815)",3.205643297219279,1604.0,50984_0_no,47.377012392094606,-92.73256905975906,5.0

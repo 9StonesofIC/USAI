@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04572,44.10984,-69.36956,Waldoboro,ME,Maine,True,,5044.0,27.2,23015,Lincoln,"{""23015"": 100}",Lincoln,23015,False,False,America/New_York,"(44.10984, -69.36956)",3.3671085792706625,9819.0,44328_0_yes,44.100077293138014,-69.30306919064698,5.0
+04864,44.12946,-69.24481,Warren,ME,Maine,True,,4775.0,39.7,23013,Knox,"{""23013"": 100}",Knox,23013,False,False,America/New_York,"(44.12946, -69.24481)",3.5317765918840047,9819.0,44328_0_yes,44.100077293138014,-69.30306919064698,5.0

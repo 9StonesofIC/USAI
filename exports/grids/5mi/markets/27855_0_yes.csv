@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37825,36.41221,-83.68196,New Tazewell,TN,Tennessee,True,,8291.0,36.8,47025,Claiborne,"{""47025"": 94.81, ""47173"": 5.19}",Claiborne|Union,47025|47173,False,False,America/New_York,"(36.41221, -83.68196)",2.297081091021725,8291.0,27855_0_yes,36.436612611863126,-83.71002093941443,5.0

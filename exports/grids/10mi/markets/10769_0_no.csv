@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83349,43.10148,-114.17784,Richfield,ID,Idaho,True,,1203.0,5.4,16063,Lincoln,"{""16063"": 100}",Lincoln,16063,False,False,America/Boise,"(43.10148, -114.17784)",1.3467661401698765,1203.0,10769_0_no,43.116605841531054,-114.16099999366408,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57543,43.74785,-101.52268,Kadoka,SD,South Dakota,True,,726.0,0.6,46071,Jackson,"{""46071"": 100}",Jackson,46071,False,False,America/Denver,"(43.74785, -101.52268)",8.32283392983587,726.0,11048_0_yes,43.81806498641068,-101.38710983780707,10.0

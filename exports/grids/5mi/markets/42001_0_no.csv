@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48848,42.88584,-84.35673,Laingsburg,MI,Michigan,True,,7730.0,43.8,26155,Shiawassee,"{""26155"": 58.99, ""26037"": 41.01}",Shiawassee|Clinton,26155|26037,False,False,America/Detroit,"(42.88584, -84.35673)",1.449837079878817,7730.0,42001_0_no,42.882899096364696,-84.32837487061819,5.0

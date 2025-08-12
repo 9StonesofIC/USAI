@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81403,38.32308,-107.92816,Montrose,CO,Colorado,True,,11501.0,8.8,8085,Montrose,"{""08085"": 66.88, ""08091"": 33.12}",Montrose|Ouray,08085|08091,False,False,America/Denver,"(38.32308, -107.92816)",7.39933032541013,11501.0,8130_0_yes,38.326143941794,-108.06461185089822,10.0

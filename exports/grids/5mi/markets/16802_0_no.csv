@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88040,31.6197,-108.44025,Hachita,NM,New Mexico,True,,62.0,0.0,35023,Hidalgo,"{""35023"": 86.28, ""35017"": 13.72}",Hidalgo|Grant,35023|35017,False,False,America/Denver,"(31.6197, -108.44025)",2.4073193991957007,62.0,16802_0_no,31.596335027752687,-108.47059787285716,5.0

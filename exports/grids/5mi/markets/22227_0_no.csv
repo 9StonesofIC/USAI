@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74730,33.90466,-96.43361,Calera,OK,Oklahoma,True,,5518.0,33.4,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago,"(33.90466, -96.43361)",3.1722517493388835,5518.0,22227_0_no,33.90894572805349,-96.37853167545356,5.0

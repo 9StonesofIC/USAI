@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47036,39.38563,-85.23972,Oldenburg,IN,Indiana,True,,900.0,19.5,18047,Franklin,"{""18047"": 100}",Franklin,18047,False,False,America/Indiana/Indianapolis,"(39.38563, -85.23972)",3.4491547140512604,900.0,34619_0_no,39.40813772840415,-85.2973803872606,5.0

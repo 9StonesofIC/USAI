@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27242,35.33645,-79.63761,Eagle Springs,NC,North Carolina,True,,1627.0,12.4,37125,Moore,"{""37125"": 100}",Moore,37125,False,False,America/New_York,"(35.33645, -79.63761)",2.8756844036706823,1627.0,25494_0_no,35.346618699834984,-79.58813348184488,5.0

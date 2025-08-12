@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68439,40.99937,-97.21136,Staplehurst,NE,Nebraska,True,,766.0,8.3,31159,Seward,"{""31159"": 100}",Seward,31159,False,False,America/Chicago,"(40.99937, -97.21136)",5.682390074669326,2103.0,37831_0_yes,40.93884220698559,-97.28510090021018,5.0
+68456,40.91278,-97.31007,Utica,NE,Nebraska,True,,1337.0,9.8,31159,Seward,"{""31159"": 100}",Seward,31159,False,False,America/Chicago,"(40.91278, -97.31007)",2.2229941909691435,2103.0,37831_0_yes,40.93884220698559,-97.28510090021018,5.0

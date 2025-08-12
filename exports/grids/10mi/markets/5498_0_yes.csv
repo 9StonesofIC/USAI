@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85334,33.60535,-114.4075,Ehrenberg,AZ,Arizona,True,,1005.0,6.7,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix,"(33.60535, -114.4075)",11.659362842543146,5280.0,5498_0_yes,33.696370628341136,-114.23680050479406,10.0
+85346,33.60992,-114.15835,Quartzsite,AZ,Arizona,True,,4275.0,4.5,4012,La Paz,"{""04012"": 100}",La Paz,04012,False,False,America/Phoenix,"(33.60992, -114.15835)",7.485775027914421,5280.0,5498_0_yes,33.696370628341136,-114.23680050479406,10.0

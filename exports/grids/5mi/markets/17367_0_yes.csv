@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31787,31.89994,-84.24947,Smithville,GA,Georgia,True,,1418.0,6.5,13177,Lee,"{""13177"": 66.0, ""13261"": 34.0}",Lee|Sumter,13177|13261,False,False,America/New_York,"(31.89994, -84.24947)",4.822609337432979,1418.0,17367_0_yes,31.942847689661495,-84.31433083258396,5.0

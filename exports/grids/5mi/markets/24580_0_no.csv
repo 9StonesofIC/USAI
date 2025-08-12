@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74563,34.97903,-95.07556,Red Oak,OK,Oklahoma,True,,2065.0,3.9,40077,Latimer,"{""40077"": 93.69, ""40079"": 6.31}",Latimer|Le Flore,40077|40079,False,False,America/Chicago,"(34.97903, -95.07556)",5.752124743874443,2065.0,24580_0_no,34.92307036972074,-95.15076189140991,5.0

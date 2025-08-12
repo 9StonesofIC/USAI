@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83012,43.7073,-110.75036,Moose,WY,Wyoming,True,,31.0,0.1,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.7073, -110.75036)",5.83664718093857,977.0,11058_0_no,43.690069390545055,-110.86474548828328,10.0
+83025,43.59371,-110.82814,Teton Village,WY,Wyoming,True,,946.0,26.3,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.59371, -110.82814)",6.904801759609412,977.0,11058_0_no,43.690069390545055,-110.86474548828328,10.0

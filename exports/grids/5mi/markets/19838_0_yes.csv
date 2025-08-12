@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71064,32.91356,-93.68761,Plain Dealing,LA,Louisiana,True,,2679.0,4.9,22015,Bossier,"{""22015"": 100}",Bossier,22015,False,False,America/Chicago,"(32.91356, -93.68761)",3.7128059790563457,2679.0,19838_0_yes,32.964385866119514,-93.66682481161054,5.0

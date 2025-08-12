@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58316,48.83532,-99.78207,Belcourt,ND,North Dakota,True,,6922.0,26.6,38079,Rolette,"{""38079"": 100}",Rolette,38079,False,False,America/Chicago,"(48.83532, -99.78207)",4.873807733691504,8230.0,53774_0_yes,48.90262714595509,-99.74998016786452,5.0
+58369,48.95257,-99.83603,Saint John,ND,North Dakota,True,,1308.0,6.0,38079,Rolette,"{""38079"": 100}",Rolette,38079,False,False,America/Chicago,"(48.95257, -99.83603)",5.212127773527239,8230.0,53774_0_yes,48.90262714595509,-99.74998016786452,5.0

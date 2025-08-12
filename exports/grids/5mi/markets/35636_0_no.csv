@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66951,39.86239,-99.03072,Kensington,KS,Kansas,True,,737.0,1.5,20183,Smith,"{""20183"": 73.87, ""20147"": 26.13}",Smith|Phillips,20183|20147,False,False,America/Chicago,"(39.86239, -99.03072)",3.5913025429152654,737.0,35636_0_no,39.85377171844066,-98.96394598242706,5.0

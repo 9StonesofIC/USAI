@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67475,38.58761,-97.05853,Ramona,KS,Kansas,True,,123.0,1.7,20115,Marion,"{""20115"": 78.05, ""20041"": 21.95}",Marion|Dickinson,20115|20041,False,False,America/Chicago,"(38.58761, -97.05853)",2.8901435477051636,123.0,32797_0_yes,38.62063991763765,-97.0913727130427,5.0

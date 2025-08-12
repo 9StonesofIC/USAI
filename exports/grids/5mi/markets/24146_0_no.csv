@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28521,34.82136,-77.73684,Chinquapin,NC,North Carolina,True,,2258.0,21.1,37061,Duplin,"{""37061"": 96.4, ""37133"": 3.6}",Duplin|Onslow,37061|37133,False,False,America/New_York,"(34.82136, -77.73684)",5.193720451645041,2258.0,24146_0_no,34.76555299392861,-77.79816271174296,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77831,30.73144,-95.90933,Bedias,TX,Texas,True,,2847.0,4.8,48185,Grimes,"{""48185"": 76.53, ""48471"": 22.23, ""48313"": 1.24}",Grimes|Walker|Madison,48185|48471|48313,False,False,America/Chicago,"(30.73144, -95.90933)",3.6217634437117123,2847.0,14629_0_no,30.71752075596808,-95.85054160151977,5.0

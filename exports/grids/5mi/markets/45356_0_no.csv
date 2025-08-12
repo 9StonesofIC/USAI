@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82721,44.46199,-104.89808,Moorcroft,WY,Wyoming,True,,3433.0,1.9,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver,"(44.46199, -104.89808)",2.2492189938603753,3433.0,45356_0_no,44.49339791429575,-104.88608427055011,5.0

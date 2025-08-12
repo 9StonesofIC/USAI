@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94515,38.62449,-122.62503,Calistoga,CA,California,True,,7525.0,25.1,6097,Sonoma,"{""06097"": 50.63, ""06055"": 49.37}",Sonoma|Napa,06097|06055,False,False,America/Los_Angeles,"(38.62449, -122.62503)",1.8886859341890072,7525.0,32935_0_yes,38.64078494996271,-122.59693420612966,5.0

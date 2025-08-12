@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95968,39.43514,-121.55179,Palermo,CA,California,True,,1172.0,251.6,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.43514, -121.55179)",6.713958434771141,1172.0,34519_0_yes,39.36481435909321,-121.63856986068495,5.0

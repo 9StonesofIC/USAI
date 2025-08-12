@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79355,33.16605,-102.89485,Plains,TX,Texas,True,,1926.0,1.8,48501,Yoakum,"{""48501"": 100}",Yoakum,48501,False,False,America/Chicago,"(33.16605, -102.89485)",4.126306958900922,1926.0,20562_0_no,33.188307318466244,-102.82863812837633,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80833,38.73874,-103.93699,Rush,CO,Colorado,True,,1042.0,0.8,8073,Lincoln,"{""08073"": 77.49, ""08041"": 19.96, ""08039"": 2.55}",Lincoln|El Paso|Elbert,08073|08041|08039,False,False,America/Denver,"(38.73874, -103.93699)",4.9548552516812245,1042.0,33133_0_no,38.69860867082885,-104.01316256616845,5.0

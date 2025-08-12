@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37190,35.82599,-86.0424,Woodbury,TN,Tennessee,True,,8611.0,23.9,47015,Cannon,"{""47015"": 98.46, ""47177"": 1.54}",Cannon|Warren,47015|47177,False,False,America/Chicago,"(35.82599, -86.0424)",4.4988827416763515,8611.0,26546_0_yes,35.85857359628355,-85.97285683233906,5.0

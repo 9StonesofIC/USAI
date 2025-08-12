@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73832,36.05298,-99.65687,Arnett,OK,Oklahoma,True,,975.0,0.7,40045,Ellis,"{""40045"": 92.5, ""40153"": 7.5}",Ellis|Woodward,40045|40153,False,False,America/Chicago,"(36.05298, -99.65687)",4.329453313875527,975.0,27266_0_no,36.08626952891854,-99.7225467298522,5.0

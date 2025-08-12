@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49653,44.97184,-85.7302,Lake Leelanau,MI,Michigan,True,,1863.0,25.9,26089,Leelanau,"{""26089"": 100}",Leelanau,26089,False,False,America/Detroit,"(44.97184, -85.7302)",4.000526777641231,1863.0,46161_0_yes,44.98301713012422,-85.81051153096473,5.0

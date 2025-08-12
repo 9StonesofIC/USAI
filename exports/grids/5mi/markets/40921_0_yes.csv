@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69354,42.40812,-103.42469,Marsland,NE,Nebraska,True,,49.0,0.1,31165,Sioux,"{""31165"": 49.79, ""31045"": 34.71, ""31013"": 15.49}",Sioux|Dawes|Box Butte,31165|31045|31013,False,False,America/Denver,"(42.40812, -103.42469)",3.8540734050388585,49.0,40921_0_yes,42.392463469895695,-103.49719073626964,5.0

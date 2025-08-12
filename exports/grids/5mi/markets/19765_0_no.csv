@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31217,32.84506,-83.50568,Macon,GA,Georgia,True,,17044.0,61.1,13169,Jones,"{""13169"": 39.78, ""13021"": 30.48, ""13289"": 29.74}",Jones|Bibb|Twiggs,13169|13021|13289,False,False,America/New_York,"(32.84506, -83.50568)",3.620433186368306,17044.0,19765_0_no,32.884890214225855,-83.46514514500457,5.0

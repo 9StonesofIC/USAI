@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35959,34.23968,-85.60575,Cedar Bluff,AL,Alabama,True,,4348.0,27.1,1019,Cherokee,"{""01019"": 99.51, ""01049"": 0.49}",Cherokee|DeKalb,01019|01049,False,False,America/Chicago,"(34.23968, -85.60575)",4.370980814039574,4348.0,22859_0_yes,34.2638047856716,-85.67650155856585,5.0

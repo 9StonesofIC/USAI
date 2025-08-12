@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63943,36.84046,-90.79995,Grandin,MO,Missouri,True,,560.0,2.6,29035,Carter,"{""29035"": 71.82, ""29181"": 28.18}",Carter|Ripley,29035|29181,False,False,America/Chicago,"(36.84046, -90.79995)",3.0050854050645888,560.0,28860_0_no,36.80434567726672,-90.83022669827083,5.0

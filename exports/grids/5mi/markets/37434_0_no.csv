@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46766,40.70984,-85.29424,Liberty Center,IN,Indiana,True,,883.0,23.7,18179,Wells,"{""18179"": 100}",Wells,18179,False,False,America/Indiana/Indianapolis,"(40.70984, -85.29424)",0.16932653187550267,883.0,37434_0_no,40.71171696085055,-85.29631875624311,5.0

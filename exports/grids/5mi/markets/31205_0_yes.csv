@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67876,37.86154,-99.73654,Spearville,KS,Kansas,True,,1533.0,2.6,20057,Ford,"{""20057"": 68.63, ""20083"": 31.37}",Ford|Hodgeman,20057|20083,False,False,America/Chicago,"(37.86154, -99.73654)",2.5800249551465897,1533.0,31205_0_yes,37.898133001851775,-99.7459624188936,5.0

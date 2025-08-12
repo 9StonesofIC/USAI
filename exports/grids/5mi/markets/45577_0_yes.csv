@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49680,44.64174,-85.25089,South Boardman,MI,Michigan,True,,2033.0,14.2,26079,Kalkaska,"{""26079"": 100}",Kalkaska,26079,False,False,America/Detroit,"(44.64174, -85.25089)",4.5057157289910466,2033.0,45577_0_yes,44.69301048284133,-85.19422790438524,5.0

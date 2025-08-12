@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49746,45.06437,-83.95239,Hillman,MI,Michigan,True,,3387.0,6.2,26119,Montmorency,"{""26119"": 80.92, ""26007"": 19.08}",Montmorency|Alpena,26119|26007,False,False,America/Detroit,"(45.06437, -83.95239)",4.672448461548813,3387.0,46415_0_no,45.053852310522,-84.04696016463444,5.0

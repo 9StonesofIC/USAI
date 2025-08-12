@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92281,33.05033,-115.61264,Westmorland,CA,California,True,,2865.0,83.8,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(33.05033, -115.61264)",6.83341441918247,2865.0,19965_0_yes,32.979453718888365,-115.53037914396772,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69346,42.66459,-103.80651,Harrison,NE,Nebraska,True,,518.0,0.2,31165,Sioux,"{""31165"": 100}",Sioux,31165,False,False,America/Denver,"(42.66459, -103.80651)",0.6674751000973554,518.0,10457_0_yes,42.66419650854535,-103.79338340614557,10.0

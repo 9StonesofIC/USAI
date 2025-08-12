@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81155,38.26671,-106.09603,Villa Grove,CO,Colorado,True,,216.0,0.3,8109,Saguache,"{""08109"": 100}",Saguache,08109,False,False,America/Denver,"(38.26671, -106.09603)",7.972202427360744,216.0,8125_0_yes,38.32325599871366,-106.22418150643242,10.0

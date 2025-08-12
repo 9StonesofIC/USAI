@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59024,46.20549,-107.71464,Custer,MT,Montana,True,,334.0,0.3,30111,Yellowstone,"{""30111"": 92.12, ""30003"": 7.88}",Yellowstone|Big Horn,30111|30003,False,False,America/Denver,"(46.20549, -107.71464)",3.141179656315457,334.0,48560_0_yes,46.16066301937453,-107.70369657136588,5.0

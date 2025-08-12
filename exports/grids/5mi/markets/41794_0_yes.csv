@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68730,42.76688,-97.53488,Crofton,NE,Nebraska,True,,1937.0,5.0,31107,Knox,"{""31107"": 69.84, ""31027"": 30.16}",Knox|Cedar,31107|31027,False,False,America/Chicago,"(42.76688, -97.53488)",6.005944653417706,1937.0,41794_0_yes,42.821733479783866,-97.4429856599958,5.0

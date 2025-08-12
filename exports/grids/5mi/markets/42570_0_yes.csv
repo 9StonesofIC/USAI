@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05776,43.24494,-73.20392,West Rupert,VT,Vermont,True,,661.0,10.9,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York,"(43.24494, -73.20392)",3.432581026669001,4131.0,42570_0_yes,43.23519686103874,-73.27079194690099,5.0
+12865,43.21225,-73.34191,Salem,NY,New York,True,,3470.0,18.5,36115,Washington,"{""36115"": 100}",Washington,36115,False,False,America/New_York,"(43.21225, -73.34191)",3.915925225229758,4131.0,42570_0_yes,43.23519686103874,-73.27079194690099,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52776,41.5795,-91.275,West Liberty,IA,Iowa,True,,4993.0,22.1,19139,Muscatine,"{""19139"": 62.39, ""19031"": 34.31, ""19103"": 3.3}",Muscatine|Cedar|Johnson,19139|19031|19103,False,False,America/Chicago,"(41.5795, -91.275)",2.9319830674229865,4993.0,39312_0_no,41.58568069325887,-91.3311263957651,5.0

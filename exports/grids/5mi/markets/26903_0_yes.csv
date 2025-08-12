@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72450,36.0784,-90.51695,Paragould,AR,Arkansas,True,,39002.0,52.8,5055,Greene,"{""05055"": 98.29, ""05031"": 1.71}",Greene|Craighead,05055|05031,False,False,America/Chicago,"(36.0784, -90.51695)",5.142715071859648,39002.0,26903_0_yes,36.00691373111476,-90.5425876683302,5.0

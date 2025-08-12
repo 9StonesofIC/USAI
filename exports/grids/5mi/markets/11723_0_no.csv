@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32618,29.53789,-82.52295,Archer,FL,Florida,True,,8954.0,37.6,12001,Alachua,"{""12001"": 80.25, ""12075"": 19.75}",Alachua|Levy,12001|12075,False,False,America/New_York,"(29.53789, -82.52295)",3.06073294846195,8954.0,11723_0_no,29.548461290506573,-82.57239758935062,5.0

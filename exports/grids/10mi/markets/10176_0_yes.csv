@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83252,42.18979,-112.38411,Malad City,ID,Idaho,True,,4429.0,2.3,16071,Oneida,"{""16071"": 100}",Oneida,16071,False,False,America/Boise,"(42.18979, -112.38411)",10.389813897534532,4429.0,10176_0_yes,42.09991171723168,-112.54670656246267,10.0

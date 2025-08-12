@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57751,43.86767,-103.42346,Keystone,SD,South Dakota,True,,1169.0,10.2,46103,Pennington,"{""46103"": 66.7, ""46033"": 33.3}",Pennington|Custer,46103|46033,False,False,America/Denver,"(43.86767, -103.42346)",2.7147530734123984,1169.0,43908_0_yes,43.84048247264512,-103.38412335687204,5.0

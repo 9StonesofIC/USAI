@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59058,46.98517,-107.79652,Mosby,MT,Montana,True,,24.0,0.0,30033,Garfield,"{""30033"": 74.43, ""30069"": 25.57}",Garfield|Petroleum,30033|30069,False,False,America/Denver,"(46.98517, -107.79652)",10.774619563914069,24.0,12633_0_no,46.869061927199525,-107.94895378248832,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45657,38.85166,-83.21011,Otway,OH,Ohio,True,,1535.0,6.3,39145,Scioto,"{""39145"": 87.1, ""39001"": 11.65, ""39131"": 1.25}",Scioto|Adams|Pike,39145|39001|39131,False,False,America/New_York,"(38.85166, -83.21011)",3.9042776021523578,1535.0,33360_0_yes,38.89944572370381,-83.2488498972296,5.0

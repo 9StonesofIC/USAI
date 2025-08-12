@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68835,41.33326,-98.61769,Elba,NE,Nebraska,True,,548.0,2.2,31093,Howard,"{""31093"": 90.88, ""31077"": 9.12}",Howard|Greeley,31093|31077,False,False,America/Chicago,"(41.33326, -98.61769)",2.5931783891116607,548.0,38737_0_no,41.30209091608948,-98.58985343338428,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94534,38.24112,-122.12142,Fairfield,CA,California,True,,38471.0,191.5,6095,Solano,"{""06095"": 100}",Solano,06095,False,False,America/Los_Angeles,"(38.24112, -122.12142)",4.143069534941946,38471.0,31971_0_yes,38.205442728099904,-122.0600727872135,5.0

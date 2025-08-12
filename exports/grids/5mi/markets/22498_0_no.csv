@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30062,33.99977,-84.46899,Marietta,GA,Georgia,True,,63906.0,953.6,13067,Cobb,"{""13067"": 100}",Cobb,13067,False,False,America/New_York,"(33.99977, -84.46899)",3.1982898614322544,121859.0,22498_0_no,34.04552087644217,-84.47748405489904,5.0
+30066,34.034,-84.50798,Marietta,GA,Georgia,True,,57953.0,823.9,13067,Cobb,"{""13067"": 100}",Cobb,13067,False,False,America/New_York,"(34.034, -84.50798)",1.9189146145240954,121859.0,22498_0_no,34.04552087644217,-84.47748405489904,5.0

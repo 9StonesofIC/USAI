@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76861,31.59216,-100.19637,Miles,TX,Texas,True,,1984.0,4.4,48451,Tom Green,"{""48451"": 59.98, ""48399"": 40.02}",Tom Green|Runnels,48451|48399,False,False,America/Chicago,"(31.59216, -100.19637)",2.043220062735716,1984.0,16753_0_no,31.590821505242875,-100.16168888240723,5.0

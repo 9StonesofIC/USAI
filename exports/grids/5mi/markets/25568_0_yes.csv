@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38049,35.38689,-89.544,Mason,TN,Tennessee,True,,4271.0,14.8,47047,Fayette,"{""47047"": 62.51, ""47167"": 37.49}",Fayette|Tipton,47047|47167,False,False,America/Chicago,"(35.38689, -89.544)",2.754884736610412,4271.0,25568_0_yes,35.426359074179686,-89.5509359884071,5.0

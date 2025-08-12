@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59728,46.50487,-112.41135,Elliston,MT,Montana,True,,327.0,0.7,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver,"(46.50487, -112.41135)",4.381960795584134,327.0,12376_0_yes,46.44296874723819,-112.43138790797158,10.0

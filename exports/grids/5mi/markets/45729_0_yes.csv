@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83615,44.70288,-116.0484,Donnelly,ID,Idaho,True,,1552.0,8.2,16085,Valley,"{""16085"": 100}",Valley,16085,False,False,America/Boise,"(44.70288, -116.0484)",1.3833397790984614,1552.0,45729_0_yes,44.72045373463272,-116.06189809363582,5.0

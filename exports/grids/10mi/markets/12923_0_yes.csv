@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59318,47.48955,-107.4784,Brusett,MT,Montana,True,,121.0,0.1,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver,"(47.48955, -107.4784)",7.166547778371282,121.0,12923_0_yes,47.5913372771068,-107.4488578111517,10.0

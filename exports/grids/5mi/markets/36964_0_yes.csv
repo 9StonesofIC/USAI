@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84078,40.46403,-109.5084,Vernal,UT,Utah,True,,29654.0,8.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver,"(40.46403, -109.5084)",5.4972830665715815,29654.0,36964_0_yes,40.5142511710879,-109.4272592247668,5.0

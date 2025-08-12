@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69367,42.81651,-103.32332,Whitney,NE,Nebraska,True,,265.0,0.4,31045,Dawes,"{""31045"": 100}",Dawes,31045,False,False,America/Denver,"(42.81651, -103.32332)",1.4027246996055673,265.0,41824_0_yes,42.82680730374604,-103.34717445454169,5.0

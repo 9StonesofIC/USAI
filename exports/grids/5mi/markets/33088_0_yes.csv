@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65059,38.70365,-91.88447,Mokane,MO,Missouri,True,,1090.0,11.9,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago,"(38.70365, -91.88447)",4.392548876742955,1482.0,33088_0_yes,38.76139219148977,-91.85037217573796,5.0
+65077,38.7691,-91.80305,Steedman,MO,Missouri,True,,392.0,5.6,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago,"(38.7691, -91.80305)",2.6044359033345468,1482.0,33088_0_yes,38.76139219148977,-91.85037217573796,5.0

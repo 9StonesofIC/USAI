@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67623,39.45363,-98.95627,Alton,KS,Kansas,True,,161.0,0.4,20141,Osborne,"{""20141"": 95.5, ""20183"": 4.5}",Osborne|Smith,20141|20183,False,False,America/Chicago,"(39.45363, -98.95627)",2.556375296231673,161.0,34692_0_no,39.419094080973295,-98.93908382684305,5.0

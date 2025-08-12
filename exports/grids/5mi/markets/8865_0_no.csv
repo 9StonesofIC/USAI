@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34667,28.38926,-82.65654,Hudson,FL,Florida,True,,32360.0,409.2,12101,Pasco,"{""12101"": 100}",Pasco,12101,False,False,America/New_York,"(28.38926, -82.65654)",3.5074297103711722,32360.0,8865_0_no,28.38788643067883,-82.71422159124461,5.0

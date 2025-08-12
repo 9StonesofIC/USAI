@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05447,44.93615,-72.70447,East Berkshire,VT,Vermont,True,,86.0,33.6,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York,"(44.93615, -72.70447)",3.3861170629401496,86.0,46097_0_yes,44.971353210808935,-72.7526493682778,5.0

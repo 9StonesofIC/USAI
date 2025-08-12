@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31763,31.73889,-84.14711,Leesburg,GA,Georgia,True,,24307.0,37.9,13177,Lee,"{""13177"": 99.05, ""13095"": 0.79, ""13273"": 0.16}",Lee|Dougherty|Terrell,13177|13095|13273,False,False,America/New_York,"(31.73889, -84.14711)",5.420107855097588,24307.0,17019_0_yes,31.79775068213269,-84.20810571362387,5.0

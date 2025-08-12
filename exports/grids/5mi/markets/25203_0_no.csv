@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38478,35.21565,-87.01329,Pulaski,TN,Tennessee,True,,17618.0,26.5,47055,Giles,"{""47055"": 100}",Giles,47055,False,False,America/Chicago,"(35.21565, -87.01329)",4.46418209475355,17618.0,25203_0_no,35.207156086985655,-87.09168376061349,5.0

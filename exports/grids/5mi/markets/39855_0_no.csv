@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16730,41.81339,-78.42309,East Smethport,PA,Pennsylvania,True,,68.0,33.6,42083,McKean,"{""42083"": 100}",McKean,42083,False,False,America/New_York,"(41.81339, -78.42309)",4.016692570922592,439.0,39855_0_no,41.864389501303975,-78.38563599213272,5.0
+16750,41.88796,-78.29682,Turtlepoint,PA,Pennsylvania,True,,371.0,6.9,42083,McKean,"{""42083"": 100}",McKean,42083,False,False,America/New_York,"(41.88796, -78.29682)",4.850797692544781,439.0,39855_0_no,41.864389501303975,-78.38563599213272,5.0

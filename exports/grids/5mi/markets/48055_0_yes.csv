@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98620,45.87096,-120.77846,Goldendale,WA,Washington,True,,7670.0,6.3,53039,Klickitat,"{""53039"": 100}",Klickitat,53039,False,False,America/Los_Angeles,"(45.87096, -120.77846)",3.7044030416500315,7670.0,48055_0_yes,45.8830907000239,-120.85347292608633,5.0

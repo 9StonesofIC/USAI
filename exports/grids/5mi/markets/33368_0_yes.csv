@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41091,38.92056,-84.7379,Union,KY,Kentucky,True,,21569.0,148.3,21015,Boone,"{""21015"": 100}",Boone,21015,False,False,America/New_York,"(38.92056, -84.7379)",1.4023386146391108,21569.0,33368_0_yes,38.90062477754082,-84.733002052449,5.0

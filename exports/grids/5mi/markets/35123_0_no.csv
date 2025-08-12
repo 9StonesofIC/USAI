@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96125,39.61526,-120.60493,Sierra City,CA,California,True,,84.0,0.3,6091,Sierra,"{""06091"": 100}",Sierra,06091,False,False,America/Los_Angeles,"(39.61526, -120.60493)",2.3643343811805617,84.0,35123_0_no,39.581448107659625,-120.61176320402636,5.0

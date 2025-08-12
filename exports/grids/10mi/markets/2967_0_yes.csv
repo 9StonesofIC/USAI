@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32359,29.66181,-83.37047,Steinhatchee,FL,Florida,True,,986.0,2.1,12029,Dixie,"{""12029"": 61.1, ""12123"": 38.9}",Dixie|Taylor,12029|12123,False,False,America/New_York,"(29.66181, -83.37047)",6.971430476509448,986.0,2967_0_yes,29.595517176665,-83.45797602040297,10.0

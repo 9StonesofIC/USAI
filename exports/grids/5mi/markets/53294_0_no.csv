@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99166,48.61033,-118.6715,Republic,WA,Washington,True,,3022.0,2.4,53019,Ferry,"{""53019"": 98.47, ""53047"": 1.53}",Ferry|Okanogan,53019|53047,False,False,America/Los_Angeles,"(48.61033, -118.6715)",4.914394808953018,3022.0,53294_0_no,48.55885668023616,-118.59729610259004,5.0

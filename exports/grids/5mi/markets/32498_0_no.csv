@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81007,38.35858,-104.78472,Pueblo,CO,Colorado,True,,32842.0,92.9,8101,Pueblo,"{""08101"": 100}",Pueblo,08101,False,False,America/Denver,"(38.35858, -104.78472)",4.410781933157615,32842.0,32498_0_no,38.409404863958166,-104.83399867853286,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49009,42.30913,-85.69278,Kalamazoo,MI,Michigan,True,,46734.0,176.6,26077,Kalamazoo,"{""26077"": 95.9, ""26159"": 4.1}",Kalamazoo|Van Buren,26077|26159,False,False,America/Detroit,"(42.30913, -85.69278)",4.824931362548426,46734.0,40830_0_yes,42.377306384018006,-85.71323103327744,5.0

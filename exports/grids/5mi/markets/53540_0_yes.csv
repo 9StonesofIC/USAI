@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59544,48.81294,-107.59147,Whitewater,MT,Montana,True,,166.0,0.1,30071,Phillips,"{""30071"": 100}",Phillips,30071,False,False,America/Denver,"(48.81294, -107.59147)",5.895502832618017,166.0,53540_0_yes,48.7653081749201,-107.48401581208724,5.0

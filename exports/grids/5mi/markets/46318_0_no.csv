@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97338,44.93654,-123.33868,Dallas,OR,Oregon,True,,22449.0,69.4,41053,Polk,"{""41053"": 100}",Polk,41053,False,False,America/Los_Angeles,"(44.93654, -123.33868)",2.4872775261155247,23041.0,46318_0_no,44.94415232949629,-123.2889730414594,5.0
+97371,44.98985,-123.1994,Rickreall,OR,Oregon,True,,592.0,7.2,41053,Polk,"{""41053"": 100}",Polk,41053,False,False,America/Los_Angeles,"(44.98985, -123.1994)",5.398385888911728,23041.0,46318_0_no,44.94415232949629,-123.2889730414594,5.0

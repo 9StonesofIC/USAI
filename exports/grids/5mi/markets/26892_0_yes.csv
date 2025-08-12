@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38235,35.99116,-88.58109,McLemoresville,TN,Tennessee,True,,511.0,143.7,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago,"(35.99116, -88.58109)",0.994223035691554,1941.0,26892_0_yes,36.00545269574679,-88.5790298759445,5.0
+38258,36.02094,-88.61188,Trezevant,TN,Tennessee,True,,1430.0,17.1,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago,"(36.02094, -88.61188)",2.125024637958793,1941.0,26892_0_yes,36.00545269574679,-88.5790298759445,5.0

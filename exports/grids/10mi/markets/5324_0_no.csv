@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92233,33.14736,-115.50686,Calipatria,CA,California,True,,7520.0,19.1,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(33.14736, -115.50686)",8.008031875726859,8737.0,5324_0_no,33.26315297699329,-115.51285335629107,10.0
+92257,33.33976,-115.52814,Niland,CA,California,True,,1217.0,1.7,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(33.33976, -115.52814)",5.366150185536595,8737.0,5324_0_no,33.26315297699329,-115.51285335629107,10.0

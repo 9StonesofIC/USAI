@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33062,26.24101,-80.09399,Pompano Beach,FL,Florida,True,,23303.0,2308.8,12011,Broward,"{""12011"": 100}",Broward,12011,False,False,America/New_York,"(26.24101, -80.09399)",13.116160907812723,23303.0,783_0_yes,26.111847761789463,-79.9389750685113,10.0

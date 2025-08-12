@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99362,46.08727,-118.31269,Walla Walla,WA,Washington,True,,41779.0,53.2,53071,Walla Walla,"{""53071"": 91.58, ""41059"": 8.42}",Walla Walla|Umatilla,53071|41059,False,False,America/Los_Angeles,"(46.08727, -118.31269)",2.630984561832925,41779.0,48584_0_no,46.09795024281103,-118.25998564738047,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40813,36.71526,-83.59838,Calvin,KY,Kentucky,True,,328.0,9.8,21013,Bell,"{""21013"": 100}",Bell,21013,False,False,America/New_York,"(36.71526, -83.59838)",2.5070059429436244,1235.0,28512_0_yes,36.72633395514918,-83.55527259756417,5.0
+40856,36.70574,-83.52939,Miracle,KY,Kentucky,True,,907.0,11.4,21013,Bell,"{""21013"": 100}",Bell,21013,False,False,America/New_York,"(36.70574, -83.52939)",2.019819723560918,1235.0,28512_0_yes,36.72633395514918,-83.55527259756417,5.0

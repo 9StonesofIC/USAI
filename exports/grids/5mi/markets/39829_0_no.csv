@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+06796,41.87595,-73.33255,West Cornwall,CT,Connecticut,True,,997.0,11.9,9005,Litchfield,"{""09005"": 100}",Litchfield,09005,False,False,America/New_York,"(41.87595, -73.33255)",1.2958362648508057,997.0,39829_0_no,41.8601370673472,-73.34609186606458,5.0

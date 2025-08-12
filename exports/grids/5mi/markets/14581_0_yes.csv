@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32427,30.71587,-85.79311,Caryville,FL,Florida,True,,888.0,7.6,12133,Washington,"{""12133"": 100}",Washington,12133,False,False,America/Chicago,"(30.71587, -85.79311)",4.9437241327342765,888.0,14581_0_yes,30.78352781847416,-85.82019963531594,5.0

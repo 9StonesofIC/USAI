@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28624,36.11971,-81.41327,Ferguson,NC,North Carolina,True,,1497.0,9.8,37193,Wilkes,"{""37193"": 99.65, ""37027"": 0.35}",Wilkes|Caldwell,37193|37027,False,False,America/New_York,"(36.11971, -81.41327)",5.744689524431671,1497.0,27164_0_no,36.07268549199015,-81.49812850262211,5.0

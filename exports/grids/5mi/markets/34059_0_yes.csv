@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66007,39.1405,-94.94548,Basehor,KS,Kansas,True,,7175.0,88.3,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago,"(39.1405, -94.94548)",4.9728320309701415,7175.0,34059_0_yes,39.19856197851081,-95.00033846622266,5.0

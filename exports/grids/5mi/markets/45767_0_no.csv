@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04984,44.69648,-70.28054,Temple,ME,Maine,True,,780.0,8.5,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(44.69648, -70.28054)",4.657613700628828,780.0,45767_0_no,44.75210655801291,-70.2269484718612,5.0

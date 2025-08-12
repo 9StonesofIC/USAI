@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58571,47.29134,-101.41043,Stanton,ND,North Dakota,True,,569.0,1.9,38057,Mercer,"{""38057"": 70.39, ""38065"": 29.61}",Mercer|Oliver,38057|38065,False,False,America/North_Dakota/Beulah,"(47.29134, -101.41043)",2.4220315359129643,569.0,50774_0_yes,47.31263642876403,-101.3693705952798,5.0

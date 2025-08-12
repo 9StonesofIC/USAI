@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93554,35.36914,-117.75876,Randsburg,CA,California,True,,99.0,0.3,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(35.36914, -117.75876)",4.363530812439485,99.0,25710_0_no,35.37463791283065,-117.83591647340204,5.0

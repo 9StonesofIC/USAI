@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82932,42.1219,-109.38993,Farson,WY,Wyoming,True,,343.0,0.8,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver,"(42.1219, -109.38993)",14.403301359602736,343.0,2615_0_no,42.06792440306052,-109.11857855382834,20.0

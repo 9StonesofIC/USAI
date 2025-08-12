@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80478,40.02218,-105.85693,Tabernash,CO,Colorado,True,,1491.0,15.7,8049,Grand,"{""08049"": 100}",Grand,08049,False,False,America/Denver,"(40.02218, -105.85693)",1.8281206521753033,1491.0,35986_0_no,40.00427566826218,-105.8823651417637,5.0

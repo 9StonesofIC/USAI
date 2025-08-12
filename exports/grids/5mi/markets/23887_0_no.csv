@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72134,34.61189,-91.37247,Roe,AR,Arkansas,True,,423.0,3.8,5095,Monroe,"{""05095"": 91.71, ""05001"": 8.29}",Monroe|Arkansas,05095|05001,False,False,America/Chicago,"(34.61189, -91.37247)",1.7529448407598829,683.0,23887_0_no,34.630386064132146,-91.39357228839532,5.0
+72170,34.57819,-91.42655,Ulm,AR,Arkansas,True,,260.0,19.4,5117,Prairie,"{""05117"": 100}",Prairie,05117,False,False,America/Chicago,"(34.57819, -91.42655)",4.064908747732312,683.0,23887_0_no,34.630386064132146,-91.39357228839532,5.0

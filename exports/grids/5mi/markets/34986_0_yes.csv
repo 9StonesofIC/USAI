@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62357,39.68671,-90.86374,New Salem,IL,Illinois,True,,335.0,6.3,17149,Pike,"{""17149"": 100}",Pike,17149,False,False,America/Chicago,"(39.68671, -90.86374)",3.9873509810641647,335.0,34986_0_yes,39.629878571236034,-90.8767670675825,5.0

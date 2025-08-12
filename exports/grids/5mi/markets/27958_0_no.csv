@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87571,36.42507,-105.48523,Taos,NM,New Mexico,True,,12066.0,29.5,35055,Taos,"{""35055"": 100}",Taos,35055,False,False,America/Denver,"(36.42507, -105.48523)",4.6481317960344635,12066.0,27958_0_no,36.38058005584596,-105.54792513549616,5.0

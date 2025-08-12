@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56534,46.46325,-96.01431,Erhard,MN,Minnesota,True,,1339.0,8.0,27111,Otter Tail,"{""27111"": 100}",Otter Tail,27111,False,False,America/Chicago,"(46.46325, -96.01431)",3.8415739549599275,1339.0,49324_0_no,46.51181749977954,-95.97500030327669,5.0

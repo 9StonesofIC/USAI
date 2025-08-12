@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74054,36.27299,-96.32962,Osage,OK,Oklahoma,True,,749.0,10.0,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago,"(36.27299, -96.32962)",4.323303403927881,1157.0,27577_0_no,36.22866102835381,-96.274859506158,5.0
+74060,36.2472,-96.25434,Prue,OK,Oklahoma,True,,408.0,32.1,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago,"(36.2472, -96.25434)",1.7170920190570391,1157.0,27577_0_no,36.22866102835381,-96.274859506158,5.0

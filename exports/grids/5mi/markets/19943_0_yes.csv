@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85122,32.91672,-111.74798,Casa Grande,AZ,Arizona,True,,60061.0,411.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(32.91672, -111.74798)",4.16525364331936,60061.0,19943_0_yes,32.97684292157907,-111.7427259015711,5.0

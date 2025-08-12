@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29574,34.17134,-79.26695,Mullins,SC,South Carolina,True,,10471.0,41.1,45067,Marion,"{""45067"": 99.56, ""45033"": 0.44}",Marion|Dillon,45067|45033,False,False,America/New_York,"(34.17134, -79.26695)",4.148170953499291,10471.0,22484_0_yes,34.11429057426474,-79.28954855598002,5.0

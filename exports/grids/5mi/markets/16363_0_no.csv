@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71468,31.48086,-93.14518,Provencal,LA,Louisiana,True,,532.0,1.1,22069,Natchitoches,"{""22069"": 100}",Natchitoches,22069,False,False,America/Chicago,"(31.48086, -93.14518)",4.2857699390828,532.0,16363_0_no,31.441071233548698,-93.08939337552955,5.0

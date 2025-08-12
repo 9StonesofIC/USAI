@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04921,44.57256,-69.13326,Brooks,ME,Maine,True,,1509.0,11.7,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.57256, -69.13326)",2.4324654971339927,4711.0,45471_0_no,44.6064497250177,-69.14664855068361,5.0
+04951,44.60716,-69.04575,Monroe,ME,Maine,True,,1082.0,10.7,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.60716, -69.04575)",4.963497671745685,4711.0,45471_0_no,44.6064497250177,-69.14664855068361,5.0
+04986,44.55286,-69.22354,Thorndike,ME,Maine,True,,2120.0,15.1,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.55286, -69.22354)",5.294277755384744,4711.0,45471_0_no,44.6064497250177,-69.14664855068361,5.0

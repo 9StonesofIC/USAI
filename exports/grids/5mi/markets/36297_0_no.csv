@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80510,40.20964,-105.57878,Allenspark,CO,Colorado,True,,363.0,2.1,8013,Boulder,"{""08013"": 100}",Boulder,08013,False,False,America/Denver,"(40.20964, -105.57878)",5.7404924585351065,363.0,36297_0_no,40.14898088843092,-105.65308846857278,5.0

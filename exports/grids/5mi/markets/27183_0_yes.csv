@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28618,36.20888,-81.51291,Deep Gap,NC,North Carolina,True,,2448.0,25.2,37189,Watauga,"{""37189"": 88.43, ""37193"": 11.57}",Watauga|Wilkes,37189|37193,False,False,America/New_York,"(36.20888, -81.51291)",4.619243765366954,2448.0,27183_0_yes,36.14513924811362,-81.53789416688792,5.0

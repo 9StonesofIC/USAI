@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16411,41.97781,-80.45037,East Springfield,PA,Pennsylvania,True,,1390.0,35.0,42049,Erie,"{""42049"": 100}",Erie,42049,False,False,America/New_York,"(41.97781, -80.45037)",2.849659502839098,5408.0,40170_0_no,42.0108899473337,-80.41722693265946,5.0
+16423,42.01881,-80.34253,Lake City,PA,Pennsylvania,True,,4018.0,169.4,42049,Erie,"{""42049"": 100}",Erie,42049,False,False,America/New_York,"(42.01881, -80.34253)",3.8733747335365383,5408.0,40170_0_no,42.0108899473337,-80.41722693265946,5.0

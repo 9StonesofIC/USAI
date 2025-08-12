@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44404,41.3277,-80.54861,Burghill,OH,Ohio,True,,1720.0,42.5,39155,Trumbull,"{""39155"": 100}",Trumbull,39155,False,False,America/New_York,"(41.3277, -80.54861)",2.259635375019524,2890.0,38669_0_yes,41.35939914814311,-80.55932557538698,5.0
+44418,41.30692,-80.60465,Fowler,OH,Ohio,True,,1170.0,27.2,39155,Trumbull,"{""39155"": 100}",Trumbull,39155,False,False,America/New_York,"(41.30692, -80.60465)",4.321695845100367,2890.0,38669_0_yes,41.35939914814311,-80.55932557538698,5.0

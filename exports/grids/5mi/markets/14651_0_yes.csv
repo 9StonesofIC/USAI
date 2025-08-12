@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76537,30.81779,-97.60645,Jarrell,TX,Texas,True,,7065.0,50.8,48491,Williamson,"{""48491"": 100}",Williamson,48491,False,False,America/Chicago,"(30.81779, -97.60645)",2.0865077640766523,7065.0,14651_0_yes,30.791159300231325,-97.5898723046151,5.0

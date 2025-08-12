@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78543,26.30117,-98.00508,Elsa,TX,Texas,True,,10188.0,618.8,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.30117, -98.00508)",4.954745132282789,13386.0,3518_0_yes,26.292226548031728,-97.92571582380414,5.0
+78562,26.28809,-97.89293,La Villa,TX,Texas,True,,3198.0,57.5,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.28809, -97.89293)",2.0509809258320306,13386.0,3518_0_yes,26.292226548031728,-97.92571582380414,5.0

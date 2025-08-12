@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56021,44.28339,-94.31391,Courtland,MN,Minnesota,True,,1013.0,10.9,27103,Nicollet,"{""27103"": 100}",Nicollet,27103,False,False,America/Chicago,"(44.28339, -94.31391)",5.346738689080718,2904.0,45011_0_no,44.33920908919121,-94.23900852879942,5.0
+56074,44.32344,-94.20181,Nicollet,MN,Minnesota,True,,1891.0,9.4,27103,Nicollet,"{""27103"": 100}",Nicollet,27103,False,False,America/Chicago,"(44.32344, -94.20181)",2.137072852542314,2904.0,45011_0_no,44.33920908919121,-94.23900852879942,5.0

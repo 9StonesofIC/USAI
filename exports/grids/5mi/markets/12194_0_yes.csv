@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78828,29.84372,-99.99375,Barksdale,TX,Texas,True,,94.0,0.2,48385,Real,"{""48385"": 65.13, ""48137"": 34.87}",Real|Edwards,48385|48137,False,False,America/Chicago,"(29.84372, -99.99375)",5.213391736045578,94.0,12194_0_yes,29.777020501917992,-100.03440777973448,5.0

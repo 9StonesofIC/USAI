@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83466,45.44184,-114.05549,North Fork,ID,Idaho,True,,168.0,0.3,16059,Lemhi,"{""16059"": 100}",Lemhi,16059,False,False,America/Boise,"(45.44184, -114.05549)",17.97779468429778,195.0,2997_0_yes,45.26933723524552,-114.33269578618966,20.0
+83469,45.1127,-114.47772,Shoup,ID,Idaho,True,,27.0,0.0,16059,Lemhi,"{""16059"": 100}",Lemhi,16059,False,False,America/Boise,"(45.1127, -114.47772)",12.922702213708007,195.0,2997_0_yes,45.26933723524552,-114.33269578618966,20.0

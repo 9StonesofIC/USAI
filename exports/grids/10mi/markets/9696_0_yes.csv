@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82060,41.22526,-104.51505,Hillsdale,WY,Wyoming,True,,281.0,2.6,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver,"(41.22526, -104.51505)",7.132767597040564,281.0,9696_0_yes,41.217717484093626,-104.65193139525402,10.0

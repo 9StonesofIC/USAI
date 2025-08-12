@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80436,39.78203,-105.64349,Dumont,CO,Colorado,True,,547.0,12.0,8019,Clear Creek,"{""08019"": 100}",Clear Creek,08019,False,False,America/Denver,"(39.78203, -105.64349)",0.3569087275282756,547.0,35380_0_yes,39.78669649566624,-105.6463726831105,5.0

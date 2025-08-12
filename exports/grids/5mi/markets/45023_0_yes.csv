@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54760,44.42412,-91.20626,Pigeon Falls,WI,Wisconsin,True,,235.0,595.5,55121,Trempealeau,"{""55121"": 100}",Trempealeau,55121,False,False,America/Chicago,"(44.42412, -91.20626)",2.407994667263296,3718.0,45023_0_yes,44.40889633011184,-91.25015156397178,5.0
+54773,44.39301,-91.3002,Whitehall,WI,Wisconsin,True,,3483.0,19.2,55121,Trempealeau,"{""55121"": 100}",Trempealeau,55121,False,False,America/Chicago,"(44.39301, -91.3002)",2.7034741513700777,3718.0,45023_0_yes,44.40889633011184,-91.25015156397178,5.0

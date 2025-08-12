@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59721,45.85189,-111.88177,Cardwell,MT,Montana,True,,565.0,1.0,30043,Jefferson,"{""30043"": 61.65, ""30057"": 38.35}",Jefferson|Madison,30043|30057,False,False,America/Denver,"(45.85189, -111.88177)",3.199367735799191,565.0,48012_0_yes,45.87500504404075,-111.9393870914956,5.0

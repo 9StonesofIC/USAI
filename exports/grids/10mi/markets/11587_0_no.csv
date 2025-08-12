@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54153,44.89939,-87.92516,Oconto,WI,Wisconsin,True,,7069.0,26.9,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago,"(44.89939, -87.92516)",8.999580374491847,8682.0,11587_0_no,44.8071124323867,-87.79548758295766,10.0
+54204,44.76189,-87.61552,Brussels,WI,Wisconsin,True,,1613.0,12.9,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago,"(44.76189, -87.61552)",9.362359812798152,8682.0,11587_0_no,44.8071124323867,-87.79548758295766,10.0

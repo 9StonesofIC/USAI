@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75831,31.45745,-96.02275,Buffalo,TX,Texas,True,,6155.0,9.5,48289,Leon,"{""48289"": 70.19, ""48161"": 29.81}",Leon|Freestone,48289|48161,False,False,America/Chicago,"(31.45745, -96.02275)",4.013523155906969,6155.0,16392_0_yes,31.51551265522231,-96.0247760986392,5.0

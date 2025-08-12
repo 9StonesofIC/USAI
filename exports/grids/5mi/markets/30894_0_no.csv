@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81146,37.64616,-105.6776,Mosca,CO,Colorado,True,,1036.0,1.4,8003,Alamosa,"{""08003"": 100}",Alamosa,08003,False,False,America/Denver,"(37.64616, -105.6776)",5.302886039654592,1036.0,30894_0_no,37.68542811902661,-105.76090487470924,5.0

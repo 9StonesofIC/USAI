@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57016,43.88874,-96.96139,Chester,SD,South Dakota,True,,879.0,12.8,46079,Lake,"{""46079"": 100}",Lake,46079,False,False,America/Chicago,"(43.88874, -96.96139)",4.86570416521408,879.0,44144_0_no,43.90721459449984,-96.8670826181901,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14454,42.79731,-77.76879,Geneseo,NY,New York,True,,11237.0,91.1,36051,Livingston,"{""36051"": 100}",Livingston,36051,False,False,America/New_York,"(42.79731, -77.76879)",0.5404703854565012,12141.0,41694_0_yes,42.80482719581311,-77.76584143473379,5.0
+14480,42.83809,-77.70736,Lakeville,NY,New York,True,,904.0,273.1,36051,Livingston,"{""36051"": 100}",Livingston,36051,False,False,America/New_York,"(42.83809, -77.70736)",3.750422583453463,12141.0,41694_0_yes,42.80482719581311,-77.76584143473379,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48846,42.98611,-85.05754,Ionia,MI,Michigan,True,,20142.0,70.3,26067,Ionia,"{""26067"": 100}",Ionia,26067,False,False,America/Detroit,"(42.98611, -85.05754)",3.398991295819522,22232.0,42304_0_no,43.02826933579184,-85.02287334563135,5.0
+48865,43.08785,-85.10725,Orleans,MI,Michigan,True,,2090.0,37.8,26067,Ionia,"{""26067"": 100}",Ionia,26067,False,False,America/Detroit,"(43.08785, -85.10725)",5.923800515667931,22232.0,42304_0_no,43.02826933579184,-85.02287334563135,5.0

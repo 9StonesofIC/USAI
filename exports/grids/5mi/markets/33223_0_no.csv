@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95709,38.74886,-120.68134,Camino,CA,California,True,,5634.0,91.4,6017,El Dorado,"{""06017"": 100}",El Dorado,06017,False,False,America/Los_Angeles,"(38.74886, -120.68134)",2.718519025149034,5634.0,33223_0_no,38.7117815678457,-120.66446660030022,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37764,35.97074,-83.61585,Kodak,TN,Tennessee,True,,10448.0,118.4,47155,Sevier,"{""47155"": 87.4, ""47093"": 12.39, ""47089"": 0.21}",Sevier|Knox|Jefferson,47155|47093|47089,False,False,America/New_York,"(35.97074, -83.61585)",2.893452204118725,10448.0,26864_0_yes,36.001734047958536,-83.58104621673655,5.0

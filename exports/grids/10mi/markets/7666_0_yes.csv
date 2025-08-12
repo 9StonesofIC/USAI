@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89001,37.40035,-115.39564,Alamo,NV,Nevada,True,,1356.0,1.0,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles,"(37.40035, -115.39564)",9.161153491180205,1356.0,7666_0_yes,37.4682036803153,-115.53909824107778,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03585,44.22538,-71.89703,Lisbon,NH,New Hampshire,True,,2556.0,12.6,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(44.22538, -71.89703)",5.119779884042502,3318.0,44608_0_no,44.174831622439406,-71.97260581444442,5.0
+03740,44.18025,-71.98626,Bath,NH,New Hampshire,True,,762.0,7.9,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(44.18025, -71.98626)",0.7732694813524543,3318.0,44608_0_no,44.174831622439406,-71.97260581444442,5.0

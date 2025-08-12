@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53910,43.89073,-89.80708,Adams,WI,Wisconsin,True,,3468.0,23.5,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago,"(43.89073, -89.80708)",2.518462452859037,3468.0,44109_0_no,43.901068903800684,-89.85558546473055,5.0

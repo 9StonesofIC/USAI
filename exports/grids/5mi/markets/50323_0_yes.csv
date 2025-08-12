@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98520,46.99478,-123.81054,Aberdeen,WA,Washington,True,,24936.0,44.3,53027,Grays Harbor,"{""53027"": 100}",Grays Harbor,53027,False,False,America/Los_Angeles,"(46.99478, -123.81054)",5.112882564625395,24936.0,50323_0_yes,47.0438911369948,-123.72934663368495,5.0

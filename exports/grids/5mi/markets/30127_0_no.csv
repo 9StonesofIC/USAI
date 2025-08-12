@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40481,37.42658,-84.09116,Sandgap,KY,Kentucky,True,,103.0,2.4,21109,Jackson,"{""21109"": 100}",Jackson,21109,False,False,America/New_York,"(37.42658, -84.09116)",4.796980387990237,103.0,30127_0_no,37.37882277933875,-84.02772401155627,5.0

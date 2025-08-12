@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96009,41.06183,-121.04434,Bieber,CA,California,True,,291.0,0.6,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(41.06183, -121.04434)",4.544040446690874,291.0,38264_0_yes,41.10338343669521,-120.97671120693742,5.0

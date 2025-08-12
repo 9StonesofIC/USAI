@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49437,43.4588,-86.38121,Montague,MI,Michigan,True,,6667.0,39.3,26121,Muskegon,"{""26121"": 62.36, ""26127"": 37.64}",Muskegon|Oceana,26121|26127,False,False,America/Detroit,"(43.4588, -86.38121)",5.946232051496742,6667.0,42934_0_yes,43.3913817186621,-86.45486057279231,5.0

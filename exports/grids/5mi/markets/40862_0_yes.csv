@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52210,42.33905,-92.00537,Brandon,IA,Iowa,True,,903.0,10.1,19019,Buchanan,"{""19019"": 98.62, ""19011"": 1.38}",Buchanan|Benton,19019|19011,False,False,America/Chicago,"(42.33905, -92.00537)",3.6081210543150144,903.0,40862_0_yes,42.38263543644668,-91.96644352089896,5.0

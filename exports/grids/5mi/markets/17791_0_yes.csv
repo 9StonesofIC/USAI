@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76627,32.10511,-97.3881,Blum,TX,Texas,True,,1334.0,5.5,48217,Hill,"{""48217"": 100}",Hill,48217,False,False,America/Chicago,"(32.10511, -97.3881)",0.8546356308639615,1334.0,17791_0_yes,32.09666056521886,-97.37743601556454,5.0

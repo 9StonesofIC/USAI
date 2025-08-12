@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93660,36.60932,-120.16514,San Joaquin,CA,California,True,,4082.0,32.3,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.60932, -120.16514)",6.452774300686872,5282.0,28696_0_no,36.68163881981435,-120.23879127363963,5.0
+93668,36.65663,-120.28997,Tranquillity,CA,California,True,,1200.0,9.7,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.65663, -120.28997)",3.321209547300333,5282.0,28696_0_no,36.68163881981435,-120.23879127363963,5.0

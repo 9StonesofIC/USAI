@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49962,46.82142,-88.1409,Skanee,MI,Michigan,True,,207.0,0.8,26013,Baraga,"{""26013"": 100}",Baraga,26013,False,False,America/Detroit,"(46.82142, -88.1409)",5.278202052696999,207.0,49875_0_yes,46.86622798870376,-88.05044389558721,5.0

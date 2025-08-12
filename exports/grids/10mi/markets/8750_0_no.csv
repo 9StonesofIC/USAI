@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80470,39.40104,-105.34527,Pine,CO,Colorado,True,,4253.0,16.1,8059,Jefferson,"{""08059"": 81.35, ""08093"": 18.65}",Jefferson|Park,08059|08093,False,False,America/Denver,"(39.40104, -105.34527)",6.10308448236551,4263.0,8750_0_no,39.33627607545488,-105.42296758878012,10.0
+80475,39.43012,-105.59234,Shawnee,CO,Colorado,True,,10.0,0.1,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(39.43012, -105.59234)",11.129065957868324,4263.0,8750_0_no,39.33627607545488,-105.42296758878012,10.0

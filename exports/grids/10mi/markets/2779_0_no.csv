@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32179,29.09631,-81.89686,Ocklawaha,FL,Florida,True,,7843.0,40.3,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.09631, -81.89686)",6.293758024778184,19315.0,2779_0_no,29.158726316439413,-81.8209099870218,10.0
+34488,29.22584,-81.93226,Silver Springs,FL,Florida,True,,11472.0,51.7,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.22584, -81.93226)",8.161650721845318,19315.0,2779_0_no,29.158726316439413,-81.8209099870218,10.0

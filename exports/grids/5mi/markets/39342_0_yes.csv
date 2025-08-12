@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52220,41.72661,-91.99853,Conroy,IA,Iowa,True,,221.0,111.9,19095,Iowa,"{""19095"": 100}",Iowa,19095,False,False,America/Chicago,"(41.72661, -91.99853)",5.258850167073379,4751.0,39342_0_yes,41.65856733977953,-91.95285505073689,5.0
+52334,41.73084,-91.94355,South Amana,IA,Iowa,True,,236.0,6.8,19095,Iowa,"{""19095"": 100}",Iowa,19095,False,False,America/Chicago,"(41.73084, -91.94355)",5.016588190554908,4751.0,39342_0_yes,41.65856733977953,-91.95285505073689,5.0
+52361,41.6446,-92.0154,Williamsburg,IA,Iowa,True,,4294.0,12.8,19095,Iowa,"{""19095"": 100}",Iowa,19095,False,False,America/Chicago,"(41.6446, -92.0154)",3.3701123915743723,4751.0,39342_0_yes,41.65856733977953,-91.95285505073689,5.0

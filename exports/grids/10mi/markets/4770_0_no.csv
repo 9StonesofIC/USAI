@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79749,32.25551,-101.83419,Lenorah,TX,Texas,True,,492.0,3.4,48317,Martin,"{""48317"": 100}",Martin,48317,False,False,America/Chicago,"(32.25551, -101.83419)",9.651493203729558,771.0,4770_0_no,32.37432705858905,-101.92110232472278,10.0
+79783,32.3321,-102.05007,Tarzan,TX,Texas,True,,279.0,0.7,48317,Martin,"{""48317"": 100}",Martin,48317,False,False,America/Chicago,"(32.3321, -102.05007)",8.073192258921676,771.0,4770_0_no,32.37432705858905,-101.92110232472278,10.0

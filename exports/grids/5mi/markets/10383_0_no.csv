@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77957,29.03022,-96.70606,Edna,TX,Texas,True,,8454.0,9.1,48239,Jackson,"{""48239"": 100}",Jackson,48239,False,False,America/Chicago,"(29.03022, -96.70606)",3.9857626419893286,8454.0,10383_0_no,28.97681449877149,-96.68112476833018,5.0

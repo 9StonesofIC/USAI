@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57021,43.2723,-96.97797,Davis,SD,South Dakota,True,,408.0,5.2,46125,Turner,"{""46125"": 100}",Turner,46125,False,False,America/Chicago,"(43.2723, -96.97797)",3.7813902690642753,984.0,42690_0_yes,43.255791460484005,-97.04962508515636,5.0
+57036,43.27067,-97.14364,Hurley,SD,South Dakota,True,,576.0,2.4,46125,Turner,"{""46125"": 100}",Turner,46125,False,False,America/Chicago,"(43.27067, -97.14364)",4.840748850495354,984.0,42690_0_yes,43.255791460484005,-97.04962508515636,5.0

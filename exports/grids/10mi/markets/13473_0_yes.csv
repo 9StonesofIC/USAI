@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59529,48.79655,-108.69059,Hogeland,MT,Montana,True,,164.0,0.2,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver,"(48.79655, -108.69059)",5.887216318900592,229.0,13473_0_yes,48.75117380689482,-108.80002181952813,10.0
+59547,48.70576,-108.98747,Zurich,MT,Montana,True,,65.0,0.2,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver,"(48.70576, -108.98747)",9.101144936907815,229.0,13473_0_yes,48.75117380689482,-108.80002181952813,10.0

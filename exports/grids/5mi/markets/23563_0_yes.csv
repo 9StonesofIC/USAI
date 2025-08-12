@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72390,34.55426,-90.67756,West Helena,AR,Arkansas,True,,7744.0,89.6,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago,"(34.55426, -90.67756)",2.9624124065572475,7744.0,23563_0_yes,34.557306219595894,-90.62563133819906,5.0

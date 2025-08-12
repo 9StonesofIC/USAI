@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52302,42.0656,-91.57091,Marion,IA,Iowa,True,,41745.0,216.8,19113,Linn,"{""19113"": 100}",Linn,19113,False,False,America/Chicago,"(42.0656, -91.57091)",5.121202063466063,68315.0,40227_0_no,42.02026256897288,-91.49195295403622,5.0
+52336,42.0689,-91.44111,Springville,IA,Iowa,True,,2602.0,20.9,19113,Linn,"{""19113"": 100}",Linn,19113,False,False,America/Chicago,"(42.0689, -91.44111)",4.254272736486322,68315.0,40227_0_no,42.02026256897288,-91.49195295403622,5.0
+52403,41.96813,-91.57964,Cedar Rapids,IA,Iowa,True,,23968.0,352.0,19113,Linn,"{""19113"": 100}",Linn,19113,False,False,America/Chicago,"(41.96813, -91.57964)",5.766278441979415,68315.0,40227_0_no,42.02026256897288,-91.49195295403622,5.0

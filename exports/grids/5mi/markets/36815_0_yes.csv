@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44695,40.43868,-81.1754,Bowerston,OH,Ohio,True,,1738.0,22.9,39019,Carroll,"{""39019"": 58.87, ""39067"": 41.13}",Carroll|Harrison,39019|39067,False,False,America/New_York,"(40.43868, -81.1754)",4.115257486044445,1738.0,36815_0_yes,40.49101366112869,-81.13802219858799,5.0

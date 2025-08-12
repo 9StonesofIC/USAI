@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36049,31.76612,-86.28092,Luverne,AL,Alabama,True,,5965.0,14.3,1041,Crenshaw,"{""01041"": 95.82, ""01109"": 4.18}",Crenshaw|Pike,01041|01109,False,False,America/Chicago,"(31.76612, -86.28092)",3.0113635713176565,5965.0,17031_0_yes,31.799111716475394,-86.24741626478108,5.0

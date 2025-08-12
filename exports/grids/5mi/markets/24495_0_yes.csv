@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28573,34.97997,-77.19794,Pollocksville,NC,North Carolina,True,,1719.0,6.4,37103,Jones,"{""37103"": 98.39, ""37049"": 1.61}",Jones|Craven,37103|37049,False,False,America/New_York,"(34.97997, -77.19794)",1.5288450132133333,1719.0,24495_0_yes,34.9825144521228,-77.22476700641086,5.0

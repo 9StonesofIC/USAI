@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15535,39.826,-78.45001,Clearville,PA,Pennsylvania,True,,2018.0,5.0,42009,Bedford,"{""42009"": 100}",Bedford,42009,False,False,America/New_York,"(39.826, -78.45001)",1.218739019509687,2018.0,35527_0_no,39.83716093912889,-78.46779674393223,5.0

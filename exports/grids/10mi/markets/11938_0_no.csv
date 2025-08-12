@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59736,45.34242,-113.3458,Jackson,MT,Montana,True,,146.0,0.2,30001,Beaverhead,"{""30001"": 100}",Beaverhead,30001,False,False,America/Denver,"(45.34242, -113.3458)",6.275524914656817,146.0,11938_0_no,45.43163261915921,-113.32152772686322,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29710,35.10598,-81.22209,Clover,SC,South Carolina,True,,37269.0,126.1,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York,"(35.10598, -81.22209)",4.818467181851053,71321.0,24835_0_no,35.057881674614265,-81.16038203850667,5.0
+29745,34.99549,-81.21573,York,SC,South Carolina,True,,34052.0,96.8,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York,"(34.99549, -81.21573)",5.328240446867828,71321.0,24835_0_no,35.057881674614265,-81.16038203850667,5.0

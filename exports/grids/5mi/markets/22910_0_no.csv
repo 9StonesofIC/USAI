@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73443,34.16258,-97.29081,Lone Grove,OK,Oklahoma,True,,3815.0,36.2,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago,"(34.16258, -97.29081)",3.35644292996259,3815.0,22910_0_no,34.199642614966656,-97.32877130382109,5.0

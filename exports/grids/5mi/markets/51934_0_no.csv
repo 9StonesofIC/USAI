@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99123,47.89738,-119.04017,Electric City,WA,Washington,True,,992.0,19.1,53025,Grant,"{""53025"": 100}",Grant,53025,False,False,America/Los_Angeles,"(47.89738, -119.04017)",5.511921187163754,992.0,51934_0_no,47.83574528063531,-119.11566686665356,5.0

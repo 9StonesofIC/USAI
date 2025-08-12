@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62410,38.53254,-87.72783,Allendale,IL,Illinois,True,,1383.0,14.0,17185,Wabash,"{""17185"": 100}",Wabash,17185,False,False,America/Chicago,"(38.53254, -87.72783)",4.4571850797001735,1383.0,32726_0_no,38.54091101614248,-87.80960368963795,5.0

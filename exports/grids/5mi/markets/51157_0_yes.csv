@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98526,47.47749,-123.99227,Amanda Park,WA,Washington,True,,198.0,0.9,53027,Grays Harbor,"{""53027"": 100}",Grays Harbor,53027,False,False,America/Los_Angeles,"(47.47749, -123.99227)",2.7952426215014663,198.0,51157_0_yes,47.47834148311532,-123.93242599268602,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59713,46.67973,-112.61228,Avon,MT,Montana,True,,182.0,0.3,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver,"(46.67973, -112.61228)",6.686825324201212,324.0,12504_0_no,46.58831349553516,-112.65854677183198,10.0
+59731,46.58455,-112.76326,Garrison,MT,Montana,True,,142.0,0.4,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver,"(46.58455, -112.76326)",4.979113722688945,324.0,12504_0_no,46.58831349553516,-112.65854677183198,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51051,42.20443,-95.96988,Rodney,IA,Iowa,True,,89.0,10.3,19133,Monona,"{""19133"": 100}",Monona,19133,False,False,America/Chicago,"(42.20443, -95.96988)",4.548222091803577,550.0,40553_0_no,42.16880852671096,-95.89517121279758,5.0
+51056,42.23443,-95.95391,Smithland,IA,Iowa,True,,461.0,5.3,19193,Woodbury,"{""19193"": 85.24, ""19133"": 14.76}",Woodbury|Monona,19193|19133,False,False,America/Chicago,"(42.23443, -95.95391)",5.44022159444598,550.0,40553_0_no,42.16880852671096,-95.89517121279758,5.0

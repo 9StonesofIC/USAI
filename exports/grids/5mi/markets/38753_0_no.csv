@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69144,41.317,-101.60261,Keystone,NE,Nebraska,True,,121.0,0.3,31101,Keith,"{""31101"": 88.6, ""31005"": 11.4}",Keith|Arthur,31101|31005,False,False,America/Denver,"(41.317, -101.60261)",3.322540976052333,121.0,38753_0_no,41.30465721539559,-101.6644848681182,5.0

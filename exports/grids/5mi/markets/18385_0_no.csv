@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31009,32.27636,-83.00564,Cadwell,GA,Georgia,True,,1312.0,6.6,13175,Laurens,"{""13175"": 100}",Laurens,13175,False,False,America/New_York,"(32.27636, -83.00564)",3.1513528434478286,1312.0,18385_0_no,32.30457478578911,-83.0480315717147,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04736,46.90661,-68.01998,Caribou,ME,Maine,True,,9248.0,22.7,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.90661, -68.01998)",4.155687688798077,9248.0,49780_0_yes,46.84774748171858,-68.00190027479205,5.0

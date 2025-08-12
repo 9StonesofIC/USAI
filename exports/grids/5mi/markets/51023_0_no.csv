@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58577,47.31983,-101.05319,Washburn,ND,North Dakota,True,,1828.0,3.6,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago,"(47.31983, -101.05319)",4.504417042191462,1828.0,51023_0_no,47.3847385852927,-101.04420902278318,5.0

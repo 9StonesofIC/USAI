@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71201,32.53915,-92.1069,Monroe,LA,Louisiana,True,,20631.0,535.3,22073,Ouachita,"{""22073"": 100}",Ouachita,22073,False,False,America/Chicago,"(32.53915, -92.1069)",5.666816652060126,53301.0,19128_0_no,32.60081975083162,-92.1710604285182,5.0
+71291,32.56977,-92.18277,West Monroe,LA,Louisiana,True,,32670.0,192.7,22073,Ouachita,"{""22073"": 100}",Ouachita,22073,False,False,America/Chicago,"(32.56977, -92.18277)",2.2510381256156418,53301.0,19128_0_no,32.60081975083162,-92.1710604285182,5.0

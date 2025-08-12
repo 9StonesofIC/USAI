@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74549,34.57483,-94.90993,Honobia,OK,Oklahoma,True,,72.0,0.4,40079,Le Flore,"{""40079"": 65.41, ""40127"": 34.59}",Le Flore|Pushmataha,40079|40127,False,False,America/Chicago,"(34.57483, -94.90993)",4.028321304690647,72.0,23907_0_no,34.63291152425801,-94.90376831547096,5.0

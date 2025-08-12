@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79838,31.49362,-106.17024,Fabens,TX,Texas,True,,4872.0,61.0,48141,El Paso,"{""48141"": 100}",El Paso,48141,False,False,America/Denver,"(31.49362, -106.17024)",11.321728459855875,7154.0,4094_0_yes,31.36456336909588,-106.0519095965512,10.0
+79853,31.43559,-106.06493,Tornillo,TX,Texas,True,,2282.0,25.3,48141,El Paso,"{""48141"": 100}",El Paso,48141,False,False,America/Denver,"(31.43559, -106.06493)",4.967184290742282,7154.0,4094_0_yes,31.36456336909588,-106.0519095965512,10.0

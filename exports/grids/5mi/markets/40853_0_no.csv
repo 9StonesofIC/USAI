@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51431,42.34446,-95.35146,Arthur,IA,Iowa,True,,341.0,3.5,19093,Ida,"{""19093"": 89.04, ""19161"": 10.96}",Ida|Sac,19093|19161,False,False,America/Chicago,"(42.34446, -95.35146)",4.93168179783577,2924.0,40853_0_no,42.313235153845376,-95.43827925296708,5.0
+51445,42.32719,-95.46724,Ida Grove,IA,Iowa,True,,2583.0,8.0,19093,Ida,"{""19093"": 100}",Ida,19093,False,False,America/Chicago,"(42.32719, -95.46724)",1.765970299561831,2924.0,40853_0_no,42.313235153845376,-95.43827925296708,5.0

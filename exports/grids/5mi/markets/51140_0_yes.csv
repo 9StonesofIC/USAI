@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98801,47.43183,-120.34356,Wenatchee,WA,Washington,True,,43799.0,110.1,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.43183, -120.34356)",3.536011205126829,43799.0,51140_0_yes,47.47496241194413,-120.30282494809944,5.0

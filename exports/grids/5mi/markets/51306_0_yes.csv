@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56523,47.63838,-96.80871,Climax,MN,Minnesota,True,,499.0,2.4,27119,Polk,"{""27119"": 100}",Polk,27119,False,False,America/Chicago,"(47.63838, -96.80871)",4.080287812087457,660.0,51306_0_yes,47.597724139388376,-96.745168073722,5.0
+56568,47.5292,-96.77925,Nielsville,MN,Minnesota,True,,161.0,2.1,27119,Polk,"{""27119"": 93.33, ""27107"": 6.67}",Polk|Norman,27119|27107,False,False,America/Chicago,"(47.5292, -96.77925)",4.994094873750521,660.0,51306_0_yes,47.597724139388376,-96.745168073722,5.0

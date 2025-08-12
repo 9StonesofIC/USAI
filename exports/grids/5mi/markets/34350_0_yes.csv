@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62649,39.36451,-90.0664,Hettick,IL,Illinois,True,,479.0,4.8,17117,Macoupin,"{""17117"": 100}",Macoupin,17117,False,False,America/Chicago,"(39.36451, -90.0664)",1.9871891779555453,479.0,34350_0_yes,39.33950471136567,-90.08477667176028,5.0

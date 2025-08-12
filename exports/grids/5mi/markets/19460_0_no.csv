@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39179,32.80873,-90.0984,Vaughan,MS,Mississippi,True,,853.0,3.7,28163,Yazoo,"{""28163"": 100}",Yazoo,28163,False,False,America/Chicago,"(32.80873, -90.0984)",5.040499489819514,853.0,19460_0_no,32.74440201555176,-90.05747671588118,5.0

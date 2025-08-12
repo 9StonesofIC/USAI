@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19941,38.7949,-75.42476,Ellendale,DE,Delaware,True,,3477.0,44.3,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.7949, -75.42476)",1.8017089436440925,9686.0,33297_0_no,38.82085214302133,-75.42802314740575,5.0
+19960,38.85082,-75.41363,Lincoln,DE,Delaware,True,,6209.0,79.1,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.85082, -75.41363)",2.210740870323545,9686.0,33297_0_no,38.82085214302133,-75.42802314740575,5.0

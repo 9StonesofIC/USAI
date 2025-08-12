@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14755,42.23477,-78.81398,Little Valley,NY,New York,True,,3146.0,16.4,36009,Cattaraugus,"{""36009"": 100}",Cattaraugus,36009,False,False,America/New_York,"(42.23477, -78.81398)",1.5827170542922264,3146.0,40492_0_yes,42.226629256406966,-78.78506282784599,5.0

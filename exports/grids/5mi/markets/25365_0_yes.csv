@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86320,35.36745,-112.63995,Ash Fork,AZ,Arizona,True,,2437.0,1.2,4005,Coconino,"{""04005"": 70.43, ""04025"": 29.57}",Coconino|Yavapai,04005|04025,False,False,America/Phoenix,"(35.36745, -112.63995)",5.003962424401501,2437.0,25365_0_yes,35.29826245340804,-112.61371154972925,5.0

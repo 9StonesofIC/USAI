@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89822,40.49237,-116.189,Carlin,NV,Nevada,True,,2013.0,3.2,32011,Eureka,"{""32011"": 93.15, ""32007"": 6.85}",Eureka|Elko,32011|32007,False,False,America/Los_Angeles,"(40.49237, -116.189)",9.921700250724301,2013.0,9261_0_yes,40.367834534559805,-116.28292318412004,10.0

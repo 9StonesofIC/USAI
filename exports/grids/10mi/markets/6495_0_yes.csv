@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86508,35.35086,-109.08737,Lupton,AZ,Arizona,True,,599.0,2.8,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(35.35086, -109.08737)",5.841008897642645,2448.0,6495_0_yes,35.42895976902911,-109.0476774806262,10.0
+87319,35.4769,-108.94232,Mentmore,NM,New Mexico,True,,1849.0,4.0,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.4769, -108.94232)",6.792244638251522,2448.0,6495_0_yes,35.42895976902911,-109.0476774806262,10.0

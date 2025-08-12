@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30108,33.53172,-85.26242,Bowdon,GA,Georgia,True,,8494.0,36.7,13045,Carroll,"{""13045"": 96.4, ""13149"": 3.6}",Carroll|Heard,13045|13149,False,False,America/New_York,"(33.53172, -85.26242)",4.545069199818896,8494.0,21143_0_no,33.46613158290717,-85.26845970090737,5.0

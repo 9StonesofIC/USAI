@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80610,40.66996,-104.58269,Ault,CO,Colorado,True,,3719.0,8.0,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.66996, -104.58269)",7.370906157736797,3802.0,9386_0_yes,40.63810598831815,-104.44848762885832,10.0
+80622,40.54235,-104.44732,Galeton,CO,Colorado,True,,83.0,2.9,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.54235, -104.44732)",6.616392257453519,3802.0,9386_0_yes,40.63810598831815,-104.44848762885832,10.0

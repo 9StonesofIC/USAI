@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63341,38.66493,-90.81783,Defiance,MO,Missouri,True,,3038.0,30.2,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago,"(38.66493, -90.81783)",3.685040405440172,3038.0,33062_0_no,38.68822106852646,-90.879288504066,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32570,30.80022,-86.98158,Milton,FL,Florida,True,,32341.0,41.5,12113,Santa Rosa,"{""12113"": 100}",Santa Rosa,12113,False,False,America/Chicago,"(30.80022, -86.98158)",1.436176338115651,32341.0,14588_0_yes,30.78429086317203,-86.99712508230141,5.0

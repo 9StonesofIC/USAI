@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37705,36.22862,-84.00947,Andersonville,TN,Tennessee,True,,4388.0,38.0,47001,Anderson,"{""47001"": 67.49, ""47173"": 32.51}",Anderson|Union,47001|47173,False,False,America/New_York,"(36.22862, -84.00947)",5.004438589993518,4388.0,27527_0_yes,36.29187995004126,-83.96572352993873,5.0

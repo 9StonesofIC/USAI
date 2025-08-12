@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69360,42.74359,-102.48979,Rushville,NE,Nebraska,True,,1294.0,1.5,31161,Sheridan,"{""31161"": 100}",Sheridan,31161,False,False,America/Denver,"(42.74359, -102.48979)",5.719223783184688,1294.0,41519_0_yes,42.681188678831326,-102.41577234285366,5.0

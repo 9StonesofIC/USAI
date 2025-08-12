@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04006,43.44397,-70.34272,Biddeford Pool,ME,Maine,True,,141.0,861.8,23031,York,"{""23031"": 100}",York,23031,False,False,America/New_York,"(43.44397, -70.34272)",4.764513888223569,141.0,42853_0_yes,43.37741313420357,-70.36754893425434,5.0

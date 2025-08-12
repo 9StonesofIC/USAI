@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71701,33.57837,-92.81309,Camden,AR,Arkansas,True,,18626.0,25.0,5103,Ouachita,"{""05103"": 81.16, ""05013"": 18.84}",Ouachita|Calhoun,05103|05013,False,False,America/Chicago,"(33.57837, -92.81309)",3.6178264263361677,18626.0,21202_0_yes,33.54383913476367,-92.7658540423755,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95698,38.8187,-121.91012,Zamora,CA,California,True,,193.0,1.9,6113,Yolo,"{""06113"": 100}",Yolo,06113,False,False,America/Los_Angeles,"(38.8187, -121.91012)",3.575616925094756,1735.0,33548_0_no,38.85776530811212,-121.95369486250908,5.0
+95937,38.88403,-121.99847,Dunnigan,CA,California,True,,1542.0,11.2,6113,Yolo,"{""06113"": 100}",Yolo,06113,False,False,America/Los_Angeles,"(38.88403, -121.99847)",3.0157270727028633,1735.0,33548_0_no,38.85776530811212,-121.95369486250908,5.0

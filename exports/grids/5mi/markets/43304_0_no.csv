@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82635,43.4218,-106.21834,Edgerton,WY,Wyoming,True,,118.0,6.5,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver,"(43.4218, -106.21834)",4.090454716781134,368.0,43304_0_no,43.48100070229349,-106.2188364250721,5.0
+82643,43.43973,-106.27359,Midwest,WY,Wyoming,True,,250.0,6.7,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver,"(43.43973, -106.27359)",3.958738700187365,368.0,43304_0_no,43.48100070229349,-106.2188364250721,5.0

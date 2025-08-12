@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03748,43.60207,-72.11713,Enfield,NH,New Hampshire,True,,4769.0,39.3,33009,Grafton,"{""33009"": 95.14, ""33019"": 4.86}",Grafton|Sullivan,33009|33019,False,False,America/New_York,"(43.60207, -72.11713)",1.6751993524975388,4769.0,43429_0_no,43.59604707115261,-72.08469977892612,5.0

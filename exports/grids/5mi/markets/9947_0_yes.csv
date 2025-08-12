@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34442,28.93084,-82.39122,Hernando,FL,Florida,True,,15479.0,164.0,12017,Citrus,"{""12017"": 100}",Citrus,12017,False,False,America/New_York,"(28.93084, -82.39122)",3.1845787213431156,32131.0,9947_0_yes,28.895495456436187,-82.42501513698159,5.0
+34465,28.92869,-82.49092,Beverly Hills,FL,Florida,True,,16652.0,264.4,12017,Citrus,"{""12017"": 100}",Citrus,12017,False,False,America/New_York,"(28.92869, -82.49092)",4.5987824516597255,32131.0,9947_0_yes,28.895495456436187,-82.42501513698159,5.0

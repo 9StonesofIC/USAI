@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49749,45.41634,-84.57891,Indian River,MI,Michigan,True,,4326.0,25.8,26031,Cheboygan,"{""26031"": 100}",Cheboygan,26031,False,False,America/Detroit,"(45.41634, -84.57891)",5.090603279976676,4687.0,47281_0_no,45.488458238237925,-84.55741941768693,5.0
+49791,45.48093,-84.59945,Topinabee,MI,Michigan,True,,361.0,266.8,26031,Cheboygan,"{""26031"": 100}",Cheboygan,26031,False,False,America/Detroit,"(45.48093, -84.59945)",2.101412101585025,4687.0,47281_0_no,45.488458238237925,-84.55741941768693,5.0

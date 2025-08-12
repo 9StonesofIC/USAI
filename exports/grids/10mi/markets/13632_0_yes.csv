@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98844,48.91618,-119.24767,Oroville,WA,Washington,True,,4428.0,5.1,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.91618, -119.24767)",10.039275932702578,4428.0,13632_0_yes,49.06044877006933,-119.27400394871955,10.0

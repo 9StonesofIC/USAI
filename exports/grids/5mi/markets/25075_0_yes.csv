@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93420,35.16682,-120.46617,Arroyo Grande,CA,California,True,,29915.0,58.5,6079,San Luis Obispo,"{""06079"": 100}",San Luis Obispo,06079,False,False,America/Los_Angeles,"(35.16682, -120.46617)",3.364257919115106,29915.0,25075_0_yes,35.15891754229631,-120.40739958637776,5.0

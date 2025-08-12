@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22520,38.11651,-76.80634,Montross,VA,Virginia,True,,5410.0,21.6,51193,Westmoreland,"{""51193"": 97.56, ""51159"": 2.44}",Westmoreland|Richmond,51193|51159,False,False,America/New_York,"(38.11651, -76.80634)",5.0791072508295265,5410.0,31725_0_yes,38.17009421529536,-76.87032799118407,5.0

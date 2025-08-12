@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81020,37.43821,-104.6253,Aguilar,CO,Colorado,True,,929.0,0.9,8071,Las Animas,"{""08071"": 100}",Las Animas,08071,False,False,America/Denver,"(37.43821, -104.6253)",4.567588122308188,929.0,30240_0_no,37.394600847876994,-104.56274548754678,5.0

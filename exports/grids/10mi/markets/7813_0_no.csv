@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84722,37.48553,-113.57582,Central,UT,Utah,True,,940.0,3.6,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver,"(37.48553, -113.57582)",8.853398599033744,1266.0,7813_0_no,37.61022875481452,-113.538634214006,10.0
+84756,37.74249,-113.54772,Newcastle,UT,Utah,True,,326.0,1.8,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.74249, -113.54772)",9.15187912503942,1266.0,7813_0_no,37.61022875481452,-113.538634214006,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60152,42.23882,-88.62597,Marengo,IL,Illinois,True,,12323.0,49.9,17111,McHenry,"{""17111"": 97.99, ""17037"": 2.01}",McHenry|DeKalb,17111|17037,False,False,America/Chicago,"(42.23882, -88.62597)",4.84458863024853,12323.0,40818_0_no,42.30742062140676,-88.60637267945759,5.0

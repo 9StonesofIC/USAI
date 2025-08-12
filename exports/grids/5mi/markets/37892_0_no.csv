@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84083,40.84354,-113.6944,Wendover,UT,Utah,True,,1384.0,0.9,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver,"(40.84354, -113.6944)",3.2756195123642566,1384.0,37892_0_no,40.880008139035255,-113.65434568723266,5.0

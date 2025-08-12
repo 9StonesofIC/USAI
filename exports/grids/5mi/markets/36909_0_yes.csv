@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68959,40.49009,-98.91487,Minden,NE,Nebraska,True,,3692.0,5.7,31099,Kearney,"{""31099"": 100}",Kearney,31099,False,False,America/Chicago,"(40.49009, -98.91487)",3.7775834814029134,3692.0,36909_0_yes,40.50567135912674,-98.9837866640391,5.0

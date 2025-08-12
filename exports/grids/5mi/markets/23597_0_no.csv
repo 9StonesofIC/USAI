@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73560,34.54307,-99.45024,Olustee,OK,Oklahoma,True,,854.0,2.4,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago,"(34.54307, -99.45024)",4.993419416914475,854.0,23597_0_no,34.49121977728201,-99.51134113269786,5.0

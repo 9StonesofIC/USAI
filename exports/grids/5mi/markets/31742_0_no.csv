@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40360,38.15665,-83.76679,Owingsville,KY,Kentucky,True,,6880.0,17.9,21011,Bath,"{""21011"": 96.04, ""21173"": 3.96}",Bath|Montgomery,21011|21173,False,False,America/New_York,"(38.15665, -83.76679)",4.3936257128856795,6880.0,31742_0_no,38.1031203593194,-83.81042671892989,5.0

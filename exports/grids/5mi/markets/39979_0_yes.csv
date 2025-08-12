@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68779,41.9516,-97.21175,Stanton,NE,Nebraska,True,,2759.0,6.2,31167,Stanton,"{""31167"": 100}",Stanton,31167,False,False,America/Chicago,"(41.9516, -97.21175)",1.3653385112995533,2759.0,39979_0_yes,41.95266790042754,-97.23828192062972,5.0

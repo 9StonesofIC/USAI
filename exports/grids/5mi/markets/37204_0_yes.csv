@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68410,40.63729,-95.88584,Nebraska City,NE,Nebraska,True,,8761.0,23.6,31131,Otoe,"{""31131"": 100}",Otoe,31131,False,False,America/Chicago,"(40.63729, -95.88584)",0.7516817836006361,8761.0,37204_0_yes,40.64797988930684,-95.88317685547042,5.0

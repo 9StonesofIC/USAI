@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87540,35.39987,-105.8759,Lamy,NM,New Mexico,True,,904.0,2.1,35049,Santa Fe,"{""35049"": 100}",Santa Fe,35049,False,False,America/Denver,"(35.39987, -105.8759)",5.2029800526714975,904.0,25642_0_no,35.36581393663529,-105.79352238929071,5.0

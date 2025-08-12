@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42076,36.55906,-88.09473,New Concord,KY,Kentucky,True,,1124.0,10.6,21035,Calloway,"{""21035"": 100}",Calloway,21035,False,False,America/Chicago,"(36.55906, -88.09473)",2.588154064550155,1124.0,28209_0_yes,36.58486628685744,-88.12853776837154,5.0

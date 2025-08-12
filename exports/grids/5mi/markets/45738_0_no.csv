@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97330,44.63796,-123.27814,Corvallis,OR,Oregon,True,,43155.0,213.7,41003,Benton,"{""41003"": 100}",Benton,41003,False,False,America/Los_Angeles,"(44.63796, -123.27814)",1.4766440333903101,43155.0,45738_0_no,44.654528685802376,-123.29711396229762,5.0

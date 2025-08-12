@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65591,37.97941,-92.59076,Montreal,MO,Missouri,True,,1619.0,10.3,29029,Camden,"{""29029"": 100}",Camden,29029,False,False,America/Chicago,"(37.97941, -92.59076)",5.055185481800831,1619.0,31468_0_no,37.96513898601676,-92.68178932737004,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99150,48.80622,-118.61071,Malo,WA,Washington,True,,310.0,3.7,53019,Ferry,"{""53019"": 100}",Ferry,53019,False,False,America/Los_Angeles,"(48.80622, -118.61071)",2.747492959166868,310.0,53591_0_yes,48.77591346516164,-118.649786939902,5.0

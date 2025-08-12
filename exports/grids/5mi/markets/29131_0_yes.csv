@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23890,37.00755,-77.11837,Waverly,VA,Virginia,True,,4531.0,8.9,51183,Sussex,"{""51183"": 80.07, ""51181"": 19.93}",Sussex|Surry,51183|51181,False,False,America/New_York,"(37.00755, -77.11837)",2.7292242470354515,4531.0,29131_0_yes,37.01121690775224,-77.06911752072583,5.0

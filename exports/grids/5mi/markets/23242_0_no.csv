@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73461,34.35726,-96.43418,Wapanucka,OK,Oklahoma,True,,825.0,4.4,40069,Johnston,"{""40069"": 66.17, ""40005"": 33.83}",Johnston|Atoka,40069|40005,False,False,America/Chicago,"(34.35726, -96.43418)",1.8112699931320158,825.0,23242_0_no,34.34399196259028,-96.40679485711988,5.0

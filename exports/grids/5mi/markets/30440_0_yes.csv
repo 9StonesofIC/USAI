@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23123,37.65238,-78.3031,New Canton,VA,Virginia,True,,1807.0,16.1,51029,Buckingham,"{""51029"": 91.74, ""51049"": 8.26}",Buckingham|Cumberland,51029|51049,False,False,America/New_York,"(37.65238, -78.3031)",4.641729280670866,1807.0,30440_0_yes,37.59174058211667,-78.33960634794926,5.0

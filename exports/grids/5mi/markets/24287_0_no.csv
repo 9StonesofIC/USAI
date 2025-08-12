@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79085,34.73977,-102.50956,Summerfield,TX,Texas,True,,26.0,65.1,48069,Castro,"{""48069"": 100}",Castro,48069,False,False,America/Chicago,"(34.73977, -102.50956)",5.36094313438668,26.0,24287_0_no,34.78345202351759,-102.58761582244662,5.0

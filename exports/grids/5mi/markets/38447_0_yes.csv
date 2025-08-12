@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68014,41.28219,-96.96458,Bruno,NE,Nebraska,True,,372.0,3.7,31023,Butler,"{""31023"": 100}",Butler,31023,False,False,America/Chicago,"(41.28219, -96.96458)",3.7407349877082368,970.0,38447_0_yes,41.228273860250354,-96.97112584553189,5.0
+68626,41.16821,-96.9921,Brainard,NE,Nebraska,True,,598.0,3.8,31023,Butler,"{""31023"": 100}",Butler,31023,False,False,America/Chicago,"(41.16821, -96.9921)",4.290878768913803,970.0,38447_0_yes,41.228273860250354,-96.97112584553189,5.0

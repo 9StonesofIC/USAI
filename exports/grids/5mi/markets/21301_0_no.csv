@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85396,33.5376,-112.64635,Buckeye,AZ,Arizona,True,,25272.0,97.9,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(33.5376, -112.64635)",3.818580576469655,25272.0,21301_0_no,33.48523842331664,-112.62514133926123,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24069,36.58376,-79.63779,Cascade,VA,Virginia,True,,1433.0,17.8,51143,Pittsylvania,"{""51143"": 100}",Pittsylvania,51143,False,False,America/New_York,"(36.58376, -79.63779)",2.202720734230802,1433.0,28162_0_yes,36.57849167763004,-79.67694500395152,5.0

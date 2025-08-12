@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84026,40.29122,-109.83882,Fort Duchesne,UT,Utah,True,,1306.0,13.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver,"(40.29122, -109.83882)",4.909546658310009,1306.0,36343_0_yes,40.224827433289285,-109.8719978971828,5.0

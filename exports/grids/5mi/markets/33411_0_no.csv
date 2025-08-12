@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66849,38.87427,-96.59789,Dwight,KS,Kansas,True,,479.0,2.9,20127,Morris,"{""20127"": 51.05, ""20061"": 48.95}",Morris|Geary,20127|20061,False,False,America/Chicago,"(38.87427, -96.59789)",3.3824257003710283,479.0,33411_0_no,38.83761148934764,-96.55622563958508,5.0

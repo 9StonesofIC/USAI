@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57337,44.00108,-97.79048,Fedora,SD,South Dakota,True,,84.0,0.4,46097,Miner,"{""46097"": 94.49, ""46111"": 5.51}",Miner|Sanborn,46097|46111,False,False,America/Chicago,"(44.00108, -97.79048)",4.015606841702628,84.0,44175_0_yes,43.980298377761386,-97.71503929308014,5.0

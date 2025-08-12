@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67530,38.35149,-98.79678,Great Bend,KS,Kansas,True,,18493.0,30.0,20009,Barton,"{""20009"": 90.91, ""20185"": 9.09}",Barton|Stafford,20009|20185,False,False,America/Chicago,"(38.35149, -98.79678)",4.350406679620427,18493.0,32465_0_no,38.404625774714,-98.75368982118952,5.0

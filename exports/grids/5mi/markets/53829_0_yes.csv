@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59482,48.88446,-111.86622,Sunburst,MT,Montana,True,,923.0,1.7,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver,"(48.88446, -111.86622)",2.789114897870081,1024.0,53829_0_yes,48.91411948703332,-111.82456539284088,5.0
+59484,48.95074,-111.76795,Sweet Grass,MT,Montana,True,,101.0,0.2,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver,"(48.95074, -111.76795)",3.6063925319222996,1024.0,53829_0_yes,48.91411948703332,-111.82456539284088,5.0

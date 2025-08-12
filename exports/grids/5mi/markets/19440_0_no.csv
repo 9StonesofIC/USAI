@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35045,32.81127,-86.67249,Clanton,AL,Alabama,True,,14383.0,49.2,1021,Chilton,"{""01021"": 100}",Chilton,01021,False,False,America/Chicago,"(32.81127, -86.67249)",5.573708028434766,14383.0,19440_0_no,32.74204970135669,-86.62322021694371,5.0

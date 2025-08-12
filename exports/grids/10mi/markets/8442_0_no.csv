@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81522,38.66026,-108.93025,Gateway,CO,Colorado,True,,107.0,0.1,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(38.66026, -108.93025)",7.107724389256769,107.0,8442_0_no,38.76233357746425,-108.91386458156089,10.0

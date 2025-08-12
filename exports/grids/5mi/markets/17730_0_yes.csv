@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36761,32.07872,-86.97602,Minter,AL,Alabama,True,,715.0,1.1,1047,Dallas,"{""01047"": 59.92, ""01085"": 31.62, ""01131"": 8.46}",Dallas|Lowndes|Wilcox,01047|01085|01131,False,False,America/Chicago,"(32.07872, -86.97602)",0.7631908658728328,715.0,17730_0_yes,32.08966268442319,-86.97779705681617,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48837,42.7453,-84.76701,Grand Ledge,MI,Michigan,True,,20551.0,101.2,26045,Eaton,"{""26045"": 71.21, ""26037"": 24.26, ""26067"": 4.53}",Eaton|Clinton|Ionia,26045|26037|26067,False,False,America/Detroit,"(42.7453, -84.76701)",2.5326527723040644,20551.0,41703_0_no,42.73854292580516,-84.81606556864821,5.0

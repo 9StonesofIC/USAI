@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88318,34.22491,-105.44166,Corona,NM,New Mexico,True,,291.0,0.1,35027,Lincoln,"{""35027"": 69.82, ""35057"": 30.18}",Lincoln|Torrance,35027|35057,False,False,America/Denver,"(34.22491, -105.44166)",10.930107836196525,291.0,5804_0_no,34.11891250664805,-105.29972686151662,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68017,41.05938,-96.66179,Ceresco,NE,Nebraska,True,,1804.0,9.4,31155,Saunders,"{""31155"": 68.55, ""31109"": 31.45}",Saunders|Lancaster,31155|31109,False,False,America/Chicago,"(41.05938, -96.66179)",1.7589964697032272,1804.0,38137_0_yes,41.08316261058083,-96.6497412667967,5.0

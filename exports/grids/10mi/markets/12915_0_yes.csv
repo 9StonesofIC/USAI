@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59270,47.57233,-104.08264,Sidney,MT,Montana,True,,8664.0,3.8,30083,Richland,"{""30083"": 60.71, ""38053"": 39.29}",Richland|McKenzie,30083|38053,False,False,America/Denver,"(47.57233, -104.08264)",2.801444356363842,8664.0,12915_0_yes,47.584951918524574,-104.025521161192,10.0

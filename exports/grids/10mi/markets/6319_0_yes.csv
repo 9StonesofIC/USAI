@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87056,35.16197,-105.89566,Stanley,NM,New Mexico,True,,987.0,0.9,35049,Santa Fe,"{""35049"": 86.4, ""35047"": 13.6}",Santa Fe|San Miguel,35049|35047,False,False,America/Denver,"(35.16197, -105.89566)",2.555985375018045,987.0,6319_0_yes,35.13446424429822,-105.92591344186494,10.0

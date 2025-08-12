@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54566,45.42481,-88.63263,Wabeno,WI,Wisconsin,True,,1183.0,3.4,55041,Forest,"{""55041"": 92.17, ""55067"": 7.83}",Forest|Langlade,55041|55067,False,False,America/Chicago,"(45.42481, -88.63263)",1.8436283378415348,1183.0,47040_0_yes,45.4196859254373,-88.5953207239606,5.0

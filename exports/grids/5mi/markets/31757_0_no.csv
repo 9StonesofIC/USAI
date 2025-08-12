@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47514,38.14861,-86.59403,Branchville,IN,Indiana,True,,1488.0,81.6,18123,Perry,"{""18123"": 100}",Perry,18123,False,False,America/Indiana/Tell_City,"(38.14861, -86.59403)",3.443321931271307,2264.0,31757_0_no,38.105269334968725,-86.56275721598277,5.0
+47551,38.12153,-86.56353,Leopold,IN,Indiana,True,,776.0,10.2,18123,Perry,"{""18123"": 100}",Perry,18123,False,False,America/Indiana/Tell_City,"(38.12153, -86.56353)",1.1242900896576058,2264.0,31757_0_no,38.105269334968725,-86.56275721598277,5.0

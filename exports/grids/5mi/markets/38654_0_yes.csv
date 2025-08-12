@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17760,41.3966,-77.66602,North Bend,PA,Pennsylvania,True,,576.0,2.8,42035,Clinton,"{""42035"": 100}",Clinton,42035,False,False,America/New_York,"(41.3966, -77.66602)",2.771492386986548,576.0,38654_0_yes,41.35698862688085,-77.67444127335659,5.0

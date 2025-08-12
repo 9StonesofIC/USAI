@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36203,33.58205,-85.83312,Oxford,AL,Alabama,True,,17705.0,173.3,1015,Calhoun,"{""01015"": 60.36, ""01121"": 39.64}",Calhoun|Talladega,01015|01121,False,False,America/Chicago,"(33.58205, -85.83312)",2.9768787159812504,17705.0,21162_0_yes,33.53898995819209,-85.83487387473575,5.0

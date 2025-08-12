@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28328,35.00504,-78.33513,Clinton,NC,North Carolina,True,,27016.0,42.4,37163,Sampson,"{""37163"": 100}",Sampson,37163,False,False,America/New_York,"(35.00504, -78.33513)",3.512322506357399,27016.0,24819_0_no,35.05582926783089,-78.33774540079447,5.0

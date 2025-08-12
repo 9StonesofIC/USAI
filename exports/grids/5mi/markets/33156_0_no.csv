@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81416,38.66482,-108.20403,Delta,CO,Colorado,True,,13793.0,9.3,8029,Delta,"{""08029"": 56.93, ""08085"": 43.07}",Delta|Montrose,08029|08085,False,False,America/Denver,"(38.66482, -108.20403)",4.309379389993112,13793.0,33156_0_no,38.70197449128437,-108.26820523626505,5.0

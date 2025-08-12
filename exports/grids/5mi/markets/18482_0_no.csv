@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79602,32.33568,-99.6699,Abilene,TX,Texas,True,,26033.0,82.6,48441,Taylor,"{""48441"": 77.45, ""48059"": 22.55}",Taylor|Callahan,48441|48059,False,False,America/Chicago,"(32.33568, -99.6699)",2.9872405115929017,26033.0,18482_0_no,32.31579591592072,-99.62446798870072,5.0

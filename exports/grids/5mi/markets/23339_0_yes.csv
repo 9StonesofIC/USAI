@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85933,34.36089,-110.50955,Overgaard,AZ,Arizona,True,,2548.0,10.3,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(34.36089, -110.50955)",5.130396058848905,2548.0,23339_0_yes,34.426520426490114,-110.46746220032462,5.0

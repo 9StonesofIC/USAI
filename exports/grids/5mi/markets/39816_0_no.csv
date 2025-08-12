@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+02330,41.87388,-70.7563,Carver,MA,Massachusetts,True,,11745.0,121.6,25023,Plymouth,"{""25023"": 100}",Plymouth,25023,False,False,America/New_York,"(41.87388, -70.7563)",3.7721373312571704,36884.0,39816_0_no,41.85801108690229,-70.82644500201903,5.0
+02346,41.88034,-70.87446,Middleboro,MA,Massachusetts,True,,25139.0,140.6,25023,Plymouth,"{""25023"": 100}",Plymouth,25023,False,False,America/New_York,"(41.88034, -70.87446)",2.912618534138932,36884.0,39816_0_no,41.85801108690229,-70.82644500201903,5.0

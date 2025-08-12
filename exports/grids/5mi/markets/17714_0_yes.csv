@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31719,32.08261,-84.29768,Americus,GA,Georgia,True,,8830.0,36.0,13261,Sumter,"{""13261"": 99.24, ""13249"": 0.76}",Sumter|Schley,13261|13249,False,False,America/New_York,"(32.08261, -84.29768)",2.8054240736348217,8830.0,17714_0_yes,32.08782748731564,-84.2501541170482,5.0

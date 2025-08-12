@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97907,44.41893,-117.35568,Huntington,OR,Oregon,True,,546.0,0.6,41001,Baker,"{""41001"": 73.77, ""41045"": 26.23}",Baker|Malheur,41001|41045,False,False,America/Los_Angeles,"(44.41893, -117.35568)",2.0265214937091414,546.0,45152_0_yes,44.43195689852502,-117.3188837474232,5.0

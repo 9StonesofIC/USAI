@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14772,42.15383,-78.95086,Randolph,NY,New York,True,,3995.0,20.1,36009,Cattaraugus,"{""36009"": 100}",Cattaraugus,36009,False,False,America/New_York,"(42.15383, -78.95086)",5.855665329484501,4301.0,40189_0_yes,42.08194156194588,-78.89034982647652,5.0
+14783,42.06014,-78.91816,Steamburg,NY,New York,True,,306.0,8.2,36009,Cattaraugus,"{""36009"": 100}",Cattaraugus,36009,False,False,America/New_York,"(42.06014, -78.91816)",2.0745045657235193,4301.0,40189_0_yes,42.08194156194588,-78.89034982647652,5.0

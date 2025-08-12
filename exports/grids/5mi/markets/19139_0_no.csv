@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71060,32.63933,-93.987,Mooringsport,LA,Louisiana,True,,2237.0,13.3,22017,Caddo,"{""22017"": 100}",Caddo,22017,False,False,America/Chicago,"(32.63933, -93.987)",4.813681409066325,2237.0,19139_0_no,32.60210653720595,-94.05692100607492,5.0

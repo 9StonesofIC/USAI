@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46743,41.21511,-84.85321,Harlan,IN,Indiana,True,,2140.0,35.4,18003,Allen,"{""18003"": 100}",Allen,18003,False,False,America/Indiana/Indianapolis,"(41.21511, -84.85321)",4.812093776730697,6175.0,38358_0_no,41.14580560847951,-84.84405344919723,5.0
+46797,41.12749,-84.86046,Woodburn,IN,Indiana,True,,4035.0,31.3,18003,Allen,"{""18003"": 100}",Allen,18003,False,False,America/Indiana/Indianapolis,"(41.12749, -84.86046)",1.5265486674977802,6175.0,38358_0_no,41.14580560847951,-84.84405344919723,5.0

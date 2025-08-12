@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49768,46.63217,-85.13434,Paradise,MI,Michigan,True,,475.0,1.0,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.63217, -85.13434)",10.830983956759587,475.0,12438_0_no,46.53747893029194,-84.95256917221617,10.0

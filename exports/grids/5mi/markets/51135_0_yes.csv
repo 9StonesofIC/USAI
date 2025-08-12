@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98853,47.44655,-119.28061,Stratford,WA,Washington,True,,14.0,0.3,53025,Grant,"{""53025"": 100}",Grant,53025,False,False,America/Los_Angeles,"(47.44655, -119.28061)",2.839224568256126,14.0,51135_0_yes,47.4739686431057,-119.23533951037602,5.0

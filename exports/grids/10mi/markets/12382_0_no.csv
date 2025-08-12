@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98933,46.4029,-120.63756,Harrah,WA,Washington,True,,1018.0,14.1,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.4029, -120.63756)",6.282569463725881,3143.0,12382_0_no,46.3134880591108,-120.6615236044182,10.0
+98952,46.34991,-120.81561,White Swan,WA,Washington,True,,2125.0,2.1,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.34991, -120.81561)",7.76992941957083,3143.0,12382_0_no,46.3134880591108,-120.6615236044182,10.0

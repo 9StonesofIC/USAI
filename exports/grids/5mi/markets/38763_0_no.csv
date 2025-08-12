@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69145,41.24913,-103.67097,Kimball,NE,Nebraska,True,,2860.0,2.7,31105,Kimball,"{""31105"": 82.05, ""31007"": 17.95}",Kimball|Banner,31105|31007,False,False,America/Denver,"(41.24913, -103.67097)",5.912789363786077,2860.0,38763_0_no,41.306261269412175,-103.58619073173334,5.0

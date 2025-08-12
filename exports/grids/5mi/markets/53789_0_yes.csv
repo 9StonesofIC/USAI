@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58765,48.87261,-103.03805,Noonan,ND,North Dakota,True,,277.0,0.7,38023,Divide,"{""38023"": 100}",Divide,38023,False,False,America/Chicago,"(48.87261, -103.03805)",2.3005466528111884,277.0,53789_0_yes,48.9057609623654,-103.04277427177564,5.0

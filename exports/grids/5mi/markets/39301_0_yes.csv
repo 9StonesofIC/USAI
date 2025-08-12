@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43515,41.58656,-84.00746,Delta,OH,Ohio,True,,7374.0,34.8,39051,Fulton,"{""39051"": 100}",Fulton,39051,False,False,America/New_York,"(41.58656, -84.00746)",4.681254390433784,10355.0,39301_0_yes,41.65190985194897,-84.03138139591117,5.0
+43533,41.69335,-84.07997,Lyons,OH,Ohio,True,,1666.0,27.6,39051,Fulton,"{""39051"": 100}",Fulton,39051,False,False,America/New_York,"(41.69335, -84.07997)",3.806104871571775,10355.0,39301_0_yes,41.65190985194897,-84.03138139591117,5.0
+43540,41.69545,-83.943,Metamora,OH,Ohio,True,,1315.0,28.1,39051,Fulton,"{""39051"": 100}",Fulton,39051,False,False,America/New_York,"(41.69545, -83.943)",5.463994728260172,10355.0,39301_0_yes,41.65190985194897,-84.03138139591117,5.0

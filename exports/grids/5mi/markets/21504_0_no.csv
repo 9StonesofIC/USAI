@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39741,33.65254,-88.85536,Cedarbluff,MS,Mississippi,True,,1789.0,9.7,28025,Clay,"{""28025"": 100}",Clay,28025,False,False,America/Chicago,"(33.65254, -88.85536)",2.7681298314784772,1789.0,21504_0_no,33.61363007080579,-88.84389587215398,5.0

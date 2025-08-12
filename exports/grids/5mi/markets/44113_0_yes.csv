@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49631,43.91707,-85.25788,Evart,MI,Michigan,True,,5941.0,15.9,26133,Osceola,"{""26133"": 84.99, ""26107"": 15.01}",Osceola|Mecosta,26133|26107,False,False,America/Detroit,"(43.91707, -85.25788)",3.777651545186344,5941.0,44113_0_yes,43.969384987725824,-85.27994668686122,5.0

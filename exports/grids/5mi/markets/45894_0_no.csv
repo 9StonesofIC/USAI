@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56218,44.82642,-95.94363,Boyd,MN,Minnesota,True,,440.0,1.7,27073,Lac qui Parle,"{""27073"": 61.71, ""27173"": 38.29}",Lac qui Parle|Yellow Medicine,27073|27173,False,False,America/Chicago,"(44.82642, -95.94363)",6.025701417130357,440.0,45894_0_no,44.775081370020686,-96.04298557376498,5.0

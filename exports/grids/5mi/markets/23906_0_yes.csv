@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72024,34.75168,-91.74902,Carlisle,AR,Arkansas,True,,4153.0,8.4,5085,Lonoke,"{""05085"": 93.29, ""05117"": 6.71}",Lonoke|Prairie,05085|05117,False,False,America/Chicago,"(34.75168, -91.74902)",4.2634554110542755,4153.0,23906_0_yes,34.70313112528623,-91.79536141214398,5.0

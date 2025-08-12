@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97121,46.19347,-123.97141,Hammond,OR,Oregon,True,,1352.0,69.1,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles,"(46.19347, -123.97141)",1.4007795574302502,8332.0,48638_0_yes,46.17547783707296,-123.95791411554028,5.0
+97146,46.11849,-123.91399,Warrenton,OR,Oregon,True,,6980.0,105.1,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles,"(46.11849, -123.91399)",4.463704907919304,8332.0,48638_0_yes,46.17547783707296,-123.95791411554028,5.0

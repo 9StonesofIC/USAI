@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77664,30.58901,-94.39529,Warren,TX,Texas,True,,2872.0,6.0,48457,Tyler,"{""48457"": 90.44, ""48199"": 9.56}",Tyler|Hardin,48457|48199,False,False,America/Chicago,"(30.58901, -94.39529)",4.672400978323542,2872.0,14281_0_yes,30.64403864939456,-94.4409622410167,5.0

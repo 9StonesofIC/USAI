@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67731,39.76277,-101.53858,Bird City,KS,Kansas,True,,770.0,0.9,20023,Cheyenne,"{""20023"": 99.7, ""20153"": 0.3}",Cheyenne|Rawlins,20023|20153,False,False,America/Chicago,"(39.76277, -101.53858)",5.581172811102893,770.0,35335_0_no,39.710904935955575,-101.45804936317862,5.0

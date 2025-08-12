@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82729,44.36384,-104.38734,Sundance,WY,Wyoming,True,,2734.0,2.0,56011,Crook,"{""56011"": 93.81, ""56045"": 6.19}",Crook|Weston,56011|56045,False,False,America/Denver,"(44.36384, -104.38734)",2.6563340464652083,2734.0,11350_0_yes,44.40228534449074,-104.38751309448304,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77486,29.15495,-95.6805,West Columbia,TX,Texas,True,,7509.0,60.1,48039,Brazoria,"{""48039"": 100}",Brazoria,48039,False,False,America/Chicago,"(29.15495, -95.6805)",2.9880166229137224,7509.0,10734_0_no,29.12129875904988,-95.64940173712412,5.0

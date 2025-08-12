@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84050,41.02244,-111.67229,Morgan,UT,Utah,True,,11666.0,11.6,49029,Morgan,"{""49029"": 100}",Morgan,49029,False,False,America/Denver,"(41.02244, -111.67229)",2.288709146836776,11666.0,38190_0_no,41.02328888371692,-111.7161816720054,5.0

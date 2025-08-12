@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13301,43.42225,-75.21546,Alder Creek,NY,New York,True,,198.0,66.0,36065,Oneida,"{""36065"": 100}",Oneida,36065,False,False,America/New_York,"(43.42225, -75.21546)",2.4572701081051584,198.0,43148_0_no,43.45402048798522,-75.19344794432487,5.0

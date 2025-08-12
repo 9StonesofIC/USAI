@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24277,36.74948,-83.03037,Pennington Gap,VA,Virginia,True,,6731.0,48.9,51105,Lee,"{""51105"": 100}",Lee,51105,False,False,America/New_York,"(36.74948, -83.03037)",1.8417223193589929,6731.0,28509_0_yes,36.72592493089743,-83.01480060260072,5.0

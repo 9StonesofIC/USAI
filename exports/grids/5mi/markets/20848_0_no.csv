@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71770,33.38847,-93.31607,Waldo,AR,Arkansas,True,,2967.0,7.7,5027,Columbia,"{""05027"": 73.53, ""05099"": 26.47}",Columbia|Nevada,05027|05099,False,False,America/Chicago,"(33.38847, -93.31607)",4.626980353788987,2967.0,20848_0_no,33.326712793159764,-93.28506568563762,5.0

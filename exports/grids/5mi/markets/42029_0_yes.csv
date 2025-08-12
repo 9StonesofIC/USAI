@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48879,43.00629,-84.57981,Saint Johns,MI,Michigan,True,,18599.0,37.5,26037,Clinton,"{""26037"": 96.12, ""26057"": 3.88}",Clinton|Gratiot,26037|26057,False,False,America/Detroit,"(43.00629, -84.57981)",3.6868712274723223,18599.0,42029_0_yes,42.95543528739557,-84.55772027824075,5.0

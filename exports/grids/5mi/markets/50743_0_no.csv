@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58477,47.2208,-100.52294,Regan,ND,North Dakota,True,,143.0,0.5,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago,"(47.2208, -100.52294)",2.731126314411196,143.0,50743_0_no,47.23950399436988,-100.47165878363128,5.0

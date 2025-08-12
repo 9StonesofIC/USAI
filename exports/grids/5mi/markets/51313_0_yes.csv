@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58452,47.54019,-98.22911,Jessie,ND,North Dakota,True,,37.0,30.1,38039,Griggs,"{""38039"": 100}",Griggs,38039,False,False,America/Chicago,"(47.54019, -98.22911)",4.1242188900273495,37.0,51313_0_yes,47.59912143206965,-98.24317399828624,5.0

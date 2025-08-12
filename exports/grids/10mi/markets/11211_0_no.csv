@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83244,43.94076,-113.11287,Howe,ID,Idaho,True,,392.0,0.2,16023,Butte,"{""16023"": 100}",Butte,16023,False,False,America/Boise,"(43.94076, -113.11287)",5.419767038048315,392.0,11211_0_no,43.98373454539855,-113.20403686264557,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72019,34.63498,-92.69926,Benton,AR,Arkansas,True,,27498.0,61.3,5125,Saline,"{""05125"": 100}",Saline,05125,False,False,America/Chicago,"(34.63498, -92.69926)",4.970065339028947,27498.0,23911_0_yes,34.70376417379573,-92.6736678264254,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86325,34.73347,-111.89884,Cornville,AZ,Arizona,True,,5608.0,35.3,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.73347, -111.89884)",3.9459284331229303,5608.0,24340_0_no,34.79018309672571,-111.90702202050844,5.0

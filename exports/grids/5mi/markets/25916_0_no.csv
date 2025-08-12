@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74469,35.5083,-95.31545,Warner,OK,Oklahoma,True,,2251.0,16.3,40101,Muskogee,"{""40101"": 88.45, ""40091"": 11.55}",Muskogee|McIntosh,40101|40091,False,False,America/Chicago,"(35.5083, -95.31545)",1.3152225364124799,2251.0,25916_0_no,35.50309721382991,-95.29295699073327,5.0

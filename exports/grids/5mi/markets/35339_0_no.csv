@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80735,39.71549,-102.25029,Idalia,CO,Colorado,True,,395.0,0.5,8125,Yuma,"{""08125"": 100}",Yuma,08125,False,False,America/Denver,"(39.71549, -102.25029)",2.225343672918768,395.0,35339_0_no,39.71151162666302,-102.20874155748125,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95722,39.00467,-121.02891,Meadow Vista,CA,California,True,,4969.0,183.7,6061,Placer,"{""06061"": 100}",Placer,06061,False,False,America/Los_Angeles,"(39.00467, -121.02891)",5.96914929025111,25732.0,33882_0_yes,39.07447664960359,-121.09444117492944,5.0
+95949,39.102,-121.13343,Grass Valley,CA,California,True,,20763.0,58.5,6057,Nevada,"{""06057"": 100}",Nevada,06057,False,False,America/Los_Angeles,"(39.102, -121.13343)",2.826363887658761,25732.0,33882_0_yes,39.07447664960359,-121.09444117492944,5.0

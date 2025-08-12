@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22963,37.84793,-78.28524,Palmyra,VA,Virginia,True,,16170.0,50.1,51065,Fluvanna,"{""51065"": 100}",Fluvanna,51065,False,False,America/New_York,"(37.84793, -78.28524)",3.7896262063592263,16170.0,31088_0_yes,37.88149896202884,-78.34018278671957,5.0

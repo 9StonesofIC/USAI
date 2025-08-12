@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61024,42.43629,-89.29183,Durand,IL,Illinois,True,,2515.0,16.4,17201,Winnebago,"{""17201"": 100}",Winnebago,17201,False,False,America/Chicago,"(42.43629, -89.29183)",1.3334935811669373,2704.0,41124_0_no,42.45281206109687,-89.30534790933012,5.0
+61079,42.44681,-89.20955,Shirland,IL,Illinois,True,,189.0,18.9,17201,Winnebago,"{""17201"": 100}",Winnebago,17201,False,False,America/Chicago,"(42.44681, -89.20955)",4.901532226879655,2704.0,41124_0_no,42.45281206109687,-89.30534790933012,5.0

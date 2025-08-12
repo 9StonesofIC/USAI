@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61012,42.40749,-88.75446,Capron,IL,Illinois,True,,2594.0,27.7,17007,Boone,"{""17007"": 100}",Boone,17007,False,False,America/Chicago,"(42.40749, -88.75446)",3.6008648869883686,2594.0,41121_0_no,42.4523111982034,-88.71843273752445,5.0

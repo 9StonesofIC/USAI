@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65333,38.90687,-93.30724,Houstonia,MO,Missouri,True,,543.0,3.2,29159,Pettis,"{""29159"": 85.06, ""29195"": 14.94}",Pettis|Saline,29159|29195,False,False,America/Chicago,"(38.90687, -93.30724)",2.144867762421002,543.0,33414_0_yes,38.90740529454114,-93.26735334474458,5.0

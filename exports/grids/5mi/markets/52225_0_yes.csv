@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83804,48.03714,-116.97315,Blanchard,ID,Idaho,True,,1497.0,10.9,16017,Bonner,"{""16017"": 100}",Bonner,16017,False,False,America/Los_Angeles,"(48.03714, -116.97315)",2.0397274369355967,1497.0,52225_0_yes,48.05080592275946,-117.01229041941876,5.0

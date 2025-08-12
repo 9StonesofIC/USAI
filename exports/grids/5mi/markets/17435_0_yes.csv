@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75853,31.93488,-95.80963,Montalba,TX,Texas,True,,559.0,3.0,48001,Anderson,"{""48001"": 97.81, ""48213"": 2.19}",Anderson|Henderson,48001|48213,False,False,America/Chicago,"(31.93488, -95.80963)",4.775626367550884,559.0,17435_0_yes,31.95060462099797,-95.88894621949972,5.0

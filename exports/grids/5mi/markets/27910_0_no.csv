@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73061,36.34904,-97.01765,Morrison,OK,Oklahoma,True,,1686.0,5.7,40103,Noble,"{""40103"": 58.43, ""40117"": 41.57}",Noble|Pawnee,40103|40117,False,False,America/Chicago,"(36.34904, -97.01765)",4.699268545857794,1686.0,27910_0_no,36.374117906678215,-96.93914295618752,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16926,41.71506,-76.70485,Granville Summit,PA,Pennsylvania,True,,919.0,13.6,42015,Bradford,"{""42015"": 100}",Bradford,42015,False,False,America/New_York,"(41.71506, -76.70485)",4.848342967602301,919.0,39263_0_yes,41.64574087881306,-76.69025593993537,5.0

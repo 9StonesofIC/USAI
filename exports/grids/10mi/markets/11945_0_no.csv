@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83542,45.55291,-116.3115,Lucile,ID,Idaho,True,,123.0,0.6,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Boise,"(45.55291, -116.3115)",9.64555168719153,1098.0,11945_0_no,45.43681711182875,-116.2008951934453,10.0
+83547,45.31165,-116.33062,Pollock,ID,Idaho,True,,353.0,4.1,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Boise,"(45.31165, -116.33062)",10.69746858901495,1098.0,11945_0_no,45.43681711182875,-116.2008951934453,10.0
+83549,45.36641,-116.2549,Riggins,ID,Idaho,True,,622.0,0.4,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Boise,"(45.36641, -116.2549)",5.525304232971241,1098.0,11945_0_no,45.43681711182875,-116.2008951934453,10.0

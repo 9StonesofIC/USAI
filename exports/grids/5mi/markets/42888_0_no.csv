@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48401,43.3526,-82.66061,Applegate,MI,Michigan,True,,1346.0,15.0,26151,Sanilac,"{""26151"": 100}",Sanilac,26151,False,False,America/Detroit,"(43.3526, -82.66061)",2.586520319744266,7379.0,42888_0_no,43.31574803473453,-82.65156108645405,5.0
+48422,43.26265,-82.65069,Croswell,MI,Michigan,True,,6033.0,24.5,26151,Sanilac,"{""26151"": 100}",Sanilac,26151,False,False,America/Detroit,"(43.26265, -82.65069)",3.668986327062553,7379.0,42888_0_no,43.31574803473453,-82.65156108645405,5.0

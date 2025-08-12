@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04760,46.32354,-67.90928,Monticello,ME,Maine,True,,640.0,3.2,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.32354, -67.90928)",4.2567593278705695,640.0,48908_0_no,46.34136651109931,-67.82386992223236,5.0

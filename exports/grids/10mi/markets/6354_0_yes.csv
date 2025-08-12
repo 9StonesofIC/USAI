@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93501,35.0411,-118.22922,Mojave,CA,California,True,,4798.0,8.3,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(35.0411, -118.22922)",8.382566121933827,4798.0,6354_0_yes,35.152480318954105,-118.28800754027964,10.0

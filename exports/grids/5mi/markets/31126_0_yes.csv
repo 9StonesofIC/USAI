@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40008,37.91735,-85.28097,Bloomfield,KY,Kentucky,True,,3173.0,13.6,21179,Nelson,"{""21179"": 82.05, ""21215"": 17.95}",Nelson|Spencer,21179|21215,False,False,America/New_York,"(37.91735, -85.28097)",2.187512096249628,3173.0,31126_0_yes,37.886900385129685,-85.29195926712136,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98827,48.86359,-119.76726,Loomis,WA,Washington,True,,421.0,0.5,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.86359, -119.76726)",21.232797135044326,4849.0,3485_0_no,49.050866933331314,-119.39619690428434,20.0
+98844,48.91618,-119.24767,Oroville,WA,Washington,True,,4428.0,5.1,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.91618, -119.24767)",11.487360587206114,4849.0,3485_0_no,49.050866933331314,-119.39619690428434,20.0

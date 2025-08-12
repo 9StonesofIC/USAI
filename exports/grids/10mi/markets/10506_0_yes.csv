@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97410,42.80159,-123.11931,Azalea,OR,Oregon,True,,566.0,1.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(42.80159, -123.11931)",8.363595422940822,13574.0,10506_0_yes,42.69718046582983,-123.03590480970654,10.0
+97503,42.5836,-122.92721,White City,OR,Oregon,True,,13008.0,61.5,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.5836, -122.92721)",9.5972234844333,13574.0,10506_0_yes,42.69718046582983,-123.03590480970654,10.0

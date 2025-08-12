@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72650,35.87938,-92.69308,Marshall,AR,Arkansas,True,,4091.0,5.8,5129,Searcy,"{""05129"": 97.05, ""05137"": 2.95}",Searcy|Stone,05129|05137,False,False,America/Chicago,"(35.87938, -92.69308)",3.035328491796881,4091.0,26584_0_yes,35.86359414340062,-92.7436722644666,5.0

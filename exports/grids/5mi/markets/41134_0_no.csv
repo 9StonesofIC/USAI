@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52041,42.5051,-91.25515,Earlville,IA,Iowa,True,,1886.0,12.3,19055,Delaware,"{""19055"": 100}",Delaware,19055,False,False,America/Chicago,"(42.5051, -91.25515)",3.5136033137326663,2823.0,41134_0_no,42.45448166714909,-91.26176559113262,5.0
+52223,42.41315,-91.32408,Delhi,IA,Iowa,True,,937.0,7.6,19055,Delaware,"{""19055"": 100}",Delaware,19055,False,False,America/Chicago,"(42.41315, -91.32408)",4.272372789440717,2823.0,41134_0_no,42.45448166714909,-91.26176559113262,5.0

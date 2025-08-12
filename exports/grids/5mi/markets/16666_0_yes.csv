@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31733,31.59293,-83.48599,Chula,GA,Georgia,True,,1435.0,10.3,13155,Irwin,"{""13155"": 61.44, ""13277"": 38.56}",Irwin|Tift,13155|13277,False,False,America/New_York,"(31.59293, -83.48599)",5.513377641371613,1435.0,16666_0_yes,31.652200052698724,-83.42324675708929,5.0

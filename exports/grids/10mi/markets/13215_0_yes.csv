@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59901,48.22873,-114.40564,Kalispell,MT,Montana,True,,56951.0,46.9,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver,"(48.22873, -114.40564)",9.900782537175854,58581.0,13215_0_yes,48.183480040789256,-114.60965068369124,10.0
+59920,48.06412,-114.53464,Kila,MT,Montana,True,,1630.0,3.4,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver,"(48.06412, -114.53464)",8.943250485945892,58581.0,13215_0_yes,48.183480040789256,-114.60965068369124,10.0

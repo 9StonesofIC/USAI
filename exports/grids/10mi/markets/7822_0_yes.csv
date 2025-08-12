@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84721,37.77021,-113.13308,Cedar City,UT,Utah,True,,25286.0,52.2,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.77021, -113.13308)",9.765432119909553,25286.0,7822_0_yes,37.75465499660663,-113.31077515449869,10.0

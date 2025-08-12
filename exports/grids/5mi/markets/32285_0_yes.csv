@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95642,38.3434,-120.76398,Jackson,CA,California,True,,6547.0,38.0,6005,Amador,"{""06005"": 100}",Amador,06005,False,False,America/Los_Angeles,"(38.3434, -120.76398)",0.422552631875999,6547.0,32285_0_yes,38.34940272981416,-120.76547169927424,5.0

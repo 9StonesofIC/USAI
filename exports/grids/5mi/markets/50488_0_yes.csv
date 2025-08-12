@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58478,47.16008,-99.74543,Robinson,ND,North Dakota,True,,121.0,0.3,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago,"(47.16008, -99.74543)",0.6382699533672462,121.0,50488_0_yes,47.16641699655154,-99.7355441007834,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55046,44.44629,-93.4162,Lonsdale,MN,Minnesota,True,,5621.0,48.7,27131,Rice,"{""27131"": 100}",Rice,27131,False,False,America/Chicago,"(44.44629, -93.4162)",3.9883880034374855,7194.0,45299_0_no,44.48318435183303,-93.35399412398884,5.0
+55088,44.52945,-93.38479,Webster,MN,Minnesota,True,,1573.0,16.5,27131,Rice,"{""27131"": 75.49, ""27139"": 24.51}",Rice|Scott,27131|27139,False,False,America/Chicago,"(44.52945, -93.38479)",3.53855072809539,7194.0,45299_0_no,44.48318435183303,-93.35399412398884,5.0

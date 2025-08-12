@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56216,44.93886,-95.05532,Blomkest,MN,Minnesota,True,,728.0,7.4,27067,Kandiyohi,"{""27067"": 100}",Kandiyohi,27067,False,False,America/Chicago,"(44.93886, -95.05532)",4.716944106016276,728.0,46206_0_yes,44.99122114865988,-94.99340652752396,5.0

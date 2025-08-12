@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43727,39.8714,-81.79884,Chandlersville,OH,Ohio,True,,1054.0,5.7,39119,Muskingum,"{""39119"": 100}",Muskingum,39119,False,False,America/New_York,"(39.8714, -81.79884)",5.43836472229849,3016.0,35568_0_yes,39.91230687210675,-81.88648396564312,5.0
+43734,39.88144,-81.90489,Duncan Falls,OH,Ohio,True,,1962.0,214.4,39119,Muskingum,"{""39119"": 100}",Muskingum,39119,False,False,America/New_York,"(39.88144, -81.90489)",2.3452810175069883,3016.0,35568_0_yes,39.91230687210675,-81.88648396564312,5.0

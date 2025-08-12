@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76845,31.54305,-99.48192,Gouldbusk,TX,Texas,True,,256.0,0.9,48083,Coleman,"{""48083"": 100}",Coleman,48083,False,False,America/Chicago,"(31.54305, -99.48192)",8.042836763069658,491.0,4249_0_yes,31.64599792222998,-99.54570603469108,10.0
+76884,31.69654,-99.56407,Valera,TX,Texas,True,,98.0,2.4,48083,Coleman,"{""48083"": 100}",Coleman,48083,False,False,America/Chicago,"(31.69654, -99.56407)",3.655277244037549,491.0,4249_0_yes,31.64599792222998,-99.54570603469108,10.0
+76888,31.60919,-99.63742,Voss,TX,Texas,True,,137.0,0.5,48083,Coleman,"{""48083"": 100}",Coleman,48083,False,False,America/Chicago,"(31.60919, -99.63742)",5.964966784281546,491.0,4249_0_yes,31.64599792222998,-99.54570603469108,10.0

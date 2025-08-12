@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77414,28.90601,-95.8935,Bay City,TX,Texas,True,,24254.0,16.9,48321,Matagorda,"{""48321"": 100}",Matagorda,48321,False,False,America/Chicago,"(28.90601, -95.8935)",3.7499973314827333,24254.0,10029_0_yes,28.90378118982488,-95.9554454924074,5.0

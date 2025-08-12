@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67038,37.11702,-96.70905,Dexter,KS,Kansas,True,,1098.0,3.0,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago,"(37.11702, -96.70905)",2.276726170715889,1098.0,29546_0_no,37.09866504262369,-96.67473547149498,5.0

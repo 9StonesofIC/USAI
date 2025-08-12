@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72639,36.01948,-92.48937,Harriet,AR,Arkansas,True,,720.0,4.0,5129,Searcy,"{""05129"": 90.53, ""05089"": 9.47}",Searcy|Marion,05129|05089,False,False,America/Chicago,"(36.01948, -92.48937)",6.410817319982314,720.0,27226_0_no,36.08094165401853,-92.57534244255748,5.0

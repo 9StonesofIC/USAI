@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84035,40.39024,-109.28208,Jensen,UT,Utah,True,,343.0,0.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver,"(40.39024, -109.28208)",5.602854656060421,343.0,36940_0_no,40.44179819278925,-109.36428843392342,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87514,36.52957,-105.60055,Arroyo Seco,NM,New Mexico,True,,1282.0,57.9,35055,Taos,"{""35055"": 100}",Taos,35055,False,False,America/Denver,"(36.52957, -105.60055)",4.933961200979228,1745.0,28286_0_no,36.52553147135778,-105.51182636749104,5.0
+87580,36.55956,-105.57459,Valdez,NM,New Mexico,True,,463.0,12.1,35055,Taos,"{""35055"": 100}",Taos,35055,False,False,America/Denver,"(36.55956, -105.57459)",4.203155103533892,1745.0,28286_0_no,36.52553147135778,-105.51182636749104,5.0

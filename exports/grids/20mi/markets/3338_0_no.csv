@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59489,47.64007,-109.25586,Winifred,MT,Montana,True,,334.0,0.2,30027,Fergus,"{""30027"": 100}",Fergus,30027,False,False,America/Denver,"(47.64007, -109.25586)",15.185803403977788,414.0,3338_0_no,47.85516674328158,-109.18869572038778,20.0
+59535,47.94123,-109.26059,Lloyd,MT,Montana,True,,80.0,0.1,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver,"(47.94123, -109.26059)",6.815521420457251,414.0,3338_0_no,47.85516674328158,-109.18869572038778,20.0

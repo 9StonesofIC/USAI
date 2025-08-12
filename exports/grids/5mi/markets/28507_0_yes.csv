@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24250,36.75752,-82.58705,Fort Blackmore,VA,Virginia,True,,1217.0,8.2,51169,Scott,"{""51169"": 100}",Scott,51169,False,False,America/New_York,"(36.75752, -82.58705)",4.334712719264044,8864.0,28507_0_yes,36.72565225142659,-82.65448753162347,5.0
+24251,36.65807,-82.60582,Gate City,VA,Virginia,True,,7647.0,25.2,51169,Scott,"{""51169"": 100}",Scott,51169,False,False,America/New_York,"(36.65807, -82.60582)",5.392066298665664,8864.0,28507_0_yes,36.72565225142659,-82.65448753162347,5.0

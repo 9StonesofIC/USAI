@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68741,42.35711,-96.59375,Hubbard,NE,Nebraska,True,,699.0,3.9,31043,Dakota,"{""31043"": 100}",Dakota,31043,False,False,America/Chicago,"(42.35711, -96.59375)",3.8060755911234945,907.0,40886_0_yes,42.38663287478802,-96.65669995351246,5.0
+68785,42.42796,-96.7224,Waterbury,NE,Nebraska,True,,208.0,2.7,31051,Dixon,"{""31051"": 51.43, ""31043"": 48.57}",Dixon|Dakota,31051|31043,False,False,America/Chicago,"(42.42796, -96.7224)",4.403175120174777,907.0,40886_0_yes,42.38663287478802,-96.65669995351246,5.0

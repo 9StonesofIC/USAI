@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58831,47.84878,-103.65843,Alexander,ND,North Dakota,True,,668.0,0.6,38053,McKenzie,"{""38053"": 100}",McKenzie,38053,False,False,America/Chicago,"(47.84878, -103.65843)",8.501071766528511,1248.0,13052_0_yes,47.87323669223733,-103.47870639539532,10.0
+58835,47.7328,-103.45268,Arnegard,ND,North Dakota,True,,580.0,0.9,38053,McKenzie,"{""38053"": 100}",McKenzie,38053,False,False,America/Chicago,"(47.7328, -103.45268)",9.778138371020656,1248.0,13052_0_yes,47.87323669223733,-103.47870639539532,10.0

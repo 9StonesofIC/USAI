@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97414,42.96653,-124.15026,Broadbent,OR,Oregon,True,,154.0,1.3,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles,"(42.96653, -124.15026)",3.4445980094409934,154.0,42230_0_yes,42.98960557348706,-124.21066380736524,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54956,44.18444,-88.52778,Neenah,WI,Wisconsin,True,,44481.0,278.4,55139,Winnebago,"{""55139"": 96.53, ""55087"": 3.47}",Winnebago|Outagamie,55139|55087,False,False,America/Chicago,"(44.18444, -88.52778)",2.5620073564452706,44481.0,44690_0_no,44.18936961260341,-88.47652809938057,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83220,42.34465,-111.38008,Bern,ID,Idaho,True,,98.0,3.2,16007,Bear Lake,"{""16007"": 100}",Bear Lake,16007,False,False,America/Boise,"(42.34465, -111.38008)",3.6284978217507886,98.0,40935_0_no,42.32686238530433,-111.44692379589024,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39153,32.05133,-89.50159,Raleigh,MS,Mississippi,True,,2935.0,7.5,28129,Smith,"{""28129"": 100}",Smith,28129,False,False,America/Chicago,"(32.05133, -89.50159)",2.4861781679522177,2935.0,17731_0_no,32.01886262872242,-89.48329107515052,5.0

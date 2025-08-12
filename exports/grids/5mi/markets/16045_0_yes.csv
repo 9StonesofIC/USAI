@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76687,31.36914,-96.48691,Thornton,TX,Texas,True,,1950.0,5.7,48293,Limestone,"{""48293"": 81.94, ""48395"": 17.13, ""48145"": 0.93}",Limestone|Robertson|Falls,48293|48395|48145,False,False,America/Chicago,"(31.36914, -96.48691)",4.671819941773267,1950.0,16045_0_yes,31.37069782735193,-96.4077390860172,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52726,41.50092,-90.78419,Blue Grass,IA,Iowa,True,,5374.0,63.3,19163,Scott,"{""19163"": 54.71, ""19139"": 45.29}",Scott|Muscatine,19163|19139,False,False,America/Chicago,"(41.50092, -90.78419)",4.513473307274063,5374.0,39030_0_yes,41.51283799269614,-90.86995562928952,5.0

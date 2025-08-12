@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81212,38.54409,-105.42498,Canon City,CO,Colorado,True,,31129.0,17.9,8043,Fremont,"{""08043"": 100}",Fremont,08043,False,False,America/Denver,"(38.54409, -105.42498)",4.430422656496449,31129.0,32522_0_yes,38.48231054345475,-105.44692897494956,5.0

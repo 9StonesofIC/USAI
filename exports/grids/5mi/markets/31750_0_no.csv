@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40022,38.15242,-85.3341,Finchville,KY,Kentucky,True,,957.0,22.6,21211,Shelby,"{""21211"": 100}",Shelby,21211,False,False,America/New_York,"(38.15242, -85.3341)",4.500960883809684,957.0,31750_0_no,38.104266459140206,-85.2783262847568,5.0

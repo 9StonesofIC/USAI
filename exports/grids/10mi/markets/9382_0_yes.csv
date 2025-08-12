@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80728,40.64,-102.87285,Fleming,CO,Colorado,True,,1086.0,1.2,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.64, -102.87285)",2.832779413804528,1086.0,9382_0_yes,40.635598894872174,-102.92656654610111,10.0

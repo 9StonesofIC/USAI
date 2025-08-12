@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33957,26.4534,-82.10228,Sanibel,FL,Florida,True,,7378.0,175.6,12071,Lee,"{""12071"": 100}",Lee,12071,False,False,America/New_York,"(26.4534, -82.10228)",2.190002873812027,7378.0,3786_0_yes,26.428463683437688,-82.08042803371148,5.0

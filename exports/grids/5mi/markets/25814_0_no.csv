@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27837,35.51606,-77.20892,Grimesland,NC,North Carolina,True,,7595.0,49.8,37147,Pitt,"{""37147"": 96.92, ""37013"": 3.08}",Pitt|Beaufort,37147|37013,False,False,America/New_York,"(35.51606, -77.20892)",1.8662395362426176,7595.0,25814_0_no,35.4897997492348,-77.20115499163619,5.0

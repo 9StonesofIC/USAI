@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38863,34.2167,-89.02738,Pontotoc,MS,Mississippi,True,,20526.0,27.3,28115,Pontotoc,"{""28115"": 96.06, ""28071"": 3.94}",Pontotoc|Lafayette,28115|28071,False,False,America/Chicago,"(34.2167, -89.02738)",3.842525242098276,20526.0,22878_0_yes,34.266171472450615,-88.99664797774228,5.0

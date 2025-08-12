@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59750,45.91857,-112.68323,Butte,MT,Montana,True,,390.0,1.5,30093,Silver Bow,"{""30093"": 100}",Silver Bow,30093,False,False,America/Denver,"(45.91857, -112.68323)",2.099704994929604,390.0,48273_0_no,45.9481031966124,-112.67293134797526,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59223,47.90319,-106.19348,Fort Peck,MT,Montana,True,,362.0,0.5,30055,McCone,"{""30055"": 88.84, ""30033"": 8.68, ""30105"": 2.48}",McCone|Garfield|Valley,30055|30033|30105,False,False,America/Denver,"(47.90319, -106.19348)",4.670594349480786,362.0,52148_0_no,47.968323058694224,-106.16648016013964,5.0

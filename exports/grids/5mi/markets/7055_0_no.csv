@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33843,27.73131,-81.5108,Frostproof,FL,Florida,True,,11976.0,37.3,12105,Polk,"{""12105"": 100}",Polk,12105,False,False,America/New_York,"(27.73131, -81.5108)",4.931597187369153,11976.0,7055_0_no,27.661678737426257,-81.52851367632287,5.0

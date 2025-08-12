@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71234,32.64306,-92.33954,Downsville,LA,Louisiana,True,,4600.0,15.2,22111,Union,"{""22111"": 86.2, ""22073"": 7.48, ""22061"": 6.32}",Union|Ouachita|Lincoln,22111|22073|22061,False,False,America/Chicago,"(32.64306, -92.33954)",2.9155378067356716,4600.0,19129_0_no,32.60093672879471,-92.34250118521466,5.0

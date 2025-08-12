@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77969,28.77579,-96.64719,La Salle,TX,Texas,True,,177.0,1.9,48239,Jackson,"{""48239"": 100}",Jackson,48239,False,False,America/Chicago,"(28.77579, -96.64719)",5.880640742572313,177.0,10026_0_no,28.83171500993669,-96.72040764816724,5.0

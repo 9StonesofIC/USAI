@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56542,47.56679,-95.72331,Fosston,MN,Minnesota,True,,2656.0,5.7,27119,Polk,"{""27119"": 80.23, ""27087"": 19.77}",Polk|Mahnomen,27119|27087,False,False,America/Chicago,"(47.56679, -95.72331)",5.021652264285904,2656.0,51274_0_no,47.52439956406692,-95.63584887764598,5.0

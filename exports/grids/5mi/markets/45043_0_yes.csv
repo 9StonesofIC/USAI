@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56287,44.47537,-95.3262,Seaforth,MN,Minnesota,True,,63.0,54.8,27127,Redwood,"{""27127"": 100}",Redwood,27127,False,False,America/Chicago,"(44.47537, -95.3262)",4.677339176502119,1317.0,45043_0_yes,44.41247040428157,-95.2911444471523,5.0
+56293,44.41598,-95.26559,Wabasso,MN,Minnesota,True,,1254.0,5.7,27127,Redwood,"{""27127"": 100}",Redwood,27127,False,False,America/Chicago,"(44.41598, -95.26559)",1.2842979046122143,1317.0,45043_0_yes,44.41247040428157,-95.2911444471523,5.0

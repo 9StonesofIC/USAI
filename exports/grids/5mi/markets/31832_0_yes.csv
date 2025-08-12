@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66862,38.15532,-96.55403,Matfield Green,KS,Kansas,True,,75.0,0.3,20017,Chase,"{""20017"": 100}",Chase,20017,False,False,America/Chicago,"(38.15532, -96.55403)",2.6675384945518137,75.0,31832_0_yes,38.18546390167624,-96.52334654142172,5.0

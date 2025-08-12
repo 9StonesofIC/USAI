@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27827,35.69823,-77.51224,Falkland,NC,North Carolina,True,,182.0,367.1,37147,Pitt,"{""37147"": 100}",Pitt,37147,False,False,America/New_York,"(35.69823, -77.51224)",4.963498467187326,182.0,26148_0_no,35.6349241260732,-77.47044438656843,5.0

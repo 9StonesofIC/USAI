@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65717,37.06017,-92.41472,Norwood,MO,Missouri,True,,2708.0,8.1,29229,Wright,"{""29229"": 52.69, ""29067"": 47.31}",Wright|Douglas,29229|29067,False,False,America/Chicago,"(37.06017, -92.41472)",5.265935393437667,2708.0,29522_0_no,37.09534871787729,-92.32997608985,5.0

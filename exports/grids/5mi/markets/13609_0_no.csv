@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78851,30.22441,-101.91733,Dryden,TX,Texas,True,,11.0,0.0,48443,Terrell,"{""48443"": 100}",Terrell,48443,False,False,America/Chicago,"(30.22441, -101.91733)",6.53357073217556,11.0,13609_0_no,30.28608117699742,-101.8343427383902,5.0

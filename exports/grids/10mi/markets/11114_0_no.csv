@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12812,43.85731,-74.41213,Blue Mountain Lake,NY,New York,True,,214.0,0.9,36041,Hamilton,"{""36041"": 100}",Hamilton,36041,False,False,America/New_York,"(43.85731, -74.41213)",6.453618295443519,558.0,11114_0_no,43.91549739322039,-74.31075076630627,10.0
+12852,43.99293,-74.13598,Newcomb,NY,New York,True,,344.0,0.7,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(43.99293, -74.13598)",10.20750844574627,558.0,11114_0_no,43.91549739322039,-74.31075076630627,10.0

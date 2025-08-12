@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75946,31.81372,-94.52392,Garrison,TX,Texas,True,,3851.0,10.9,48347,Nacogdoches,"{""48347"": 68.34, ""48401"": 31.66}",Nacogdoches|Rusk,48347|48401,False,False,America/Chicago,"(31.81372, -94.52392)",3.058609797617136,3851.0,17080_0_yes,31.804670018678944,-94.57491126910112,5.0

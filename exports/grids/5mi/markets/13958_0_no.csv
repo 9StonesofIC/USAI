@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76943,30.48057,-101.32623,Ozona,TX,Texas,True,,3206.0,0.6,48105,Crockett,"{""48105"": 74.39, ""48465"": 25.61}",Crockett|Val Verde,48105|48465,False,False,America/Chicago,"(30.48057, -101.32623)",3.8341378899186163,3206.0,13958_0_no,30.43084388068725,-101.29765649429628,5.0

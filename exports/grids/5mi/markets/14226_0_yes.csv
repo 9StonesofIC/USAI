@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32448,30.66663,-85.21616,Marianna,FL,Florida,True,,7232.0,15.5,12063,Jackson,"{""12063"": 99.32, ""12013"": 0.68}",Jackson|Calhoun,12063|12013,False,False,America/Chicago,"(30.66663, -85.21616)",2.041761284358338,7232.0,14226_0_yes,30.638077068932912,-85.20730912498456,5.0

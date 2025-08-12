@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89020,36.56232,-116.42454,Amargosa Valley,NV,Nevada,True,,1375.0,2.5,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles,"(36.56232, -116.42454)",4.462181218555718,1375.0,28366_0_yes,36.60617087711685,-116.3654947916162,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77974,28.89295,-97.29275,Meyersville,TX,Texas,True,,448.0,6.1,48123,DeWitt,"{""48123"": 63.47, ""48469"": 36.53}",DeWitt|Victoria,48123|48469,False,False,America/Chicago,"(28.89295, -97.29275)",6.308764093076996,448.0,10029_0_no,28.832017303650183,-97.21510238521124,5.0

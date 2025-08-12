@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71842,33.90051,-94.29297,Horatio,AR,Arkansas,True,,2263.0,12.8,5133,Sevier,"{""05133"": 100}",Sevier,05133,False,False,America/Chicago,"(33.90051, -94.29297)",0.5034536272743368,2263.0,22215_0_no,33.907470783505154,-94.2903742346428,5.0

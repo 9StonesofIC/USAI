@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92304,34.53062,-115.65933,Amboy,CA,California,True,,7.0,0.1,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.53062, -115.65933)",3.9959467841450893,7.0,23706_0_yes,34.57531951679535,-115.7038875613216,5.0

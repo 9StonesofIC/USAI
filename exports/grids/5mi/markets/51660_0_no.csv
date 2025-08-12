@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99115,47.67326,-119.38965,Coulee City,WA,Washington,True,,1298.0,1.2,53017,Douglas,"{""53017"": 65.51, ""53025"": 34.49}",Douglas|Grant,53017|53025,False,False,America/Los_Angeles,"(47.67326, -119.38965)",2.3749294477536,1298.0,51660_0_no,47.691229239529456,-119.34612666320228,5.0

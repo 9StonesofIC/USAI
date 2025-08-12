@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70092,29.90026,-89.89598,Violet,LA,Louisiana,True,,8601.0,771.1,22087,St. Bernard,"{""22087"": 100}",St. Bernard,22087,False,False,America/Chicago,"(29.90026, -89.89598)",3.976295219675725,8601.0,12488_0_yes,29.91568619207024,-89.83201857230442,5.0

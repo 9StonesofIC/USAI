@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70661,30.36683,-93.64833,Starks,LA,Louisiana,True,,1450.0,3.0,22019,Calcasieu,"{""22019"": 68.55, ""22011"": 31.45}",Calcasieu|Beauregard,22019|22011,False,False,America/Chicago,"(30.36683, -93.64833)",5.293248641812308,1450.0,13912_0_no,30.425899732738344,-93.59177202490316,5.0

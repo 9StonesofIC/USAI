@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98051,47.3396,-121.89049,Ravensdale,WA,Washington,True,,4386.0,31.4,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.3396, -121.89049)",3.9898803647036445,4386.0,50870_0_yes,47.33161591771622,-121.80609966920632,5.0

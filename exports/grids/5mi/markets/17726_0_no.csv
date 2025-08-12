@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39355,32.05808,-88.61965,Quitman,MS,Mississippi,True,,5718.0,7.9,28023,Clarke,"{""28023"": 100}",Clarke,28023,False,False,America/Chicago,"(32.05808, -88.61965)",2.8361976037818484,5718.0,17726_0_no,32.018290680492456,-88.63155291613131,5.0

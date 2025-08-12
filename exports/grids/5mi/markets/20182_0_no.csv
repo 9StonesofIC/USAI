@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75164,33.06963,-96.3041,Josephine,TX,Texas,True,,788.0,305.2,48085,Collin,"{""48085"": 100}",Collin,48085,False,False,America/Chicago,"(33.06963, -96.3041)",2.2790945644466647,5741.0,20182_0_no,33.03876320760339,-96.31797778819924,5.0
+75173,33.05986,-96.38673,Nevada,TX,Texas,True,,4953.0,58.5,48085,Collin,"{""48085"": 100}",Collin,48085,False,False,America/Chicago,"(33.05986, -96.38673)",4.240154986531298,5741.0,20182_0_no,33.03876320760339,-96.31797778819924,5.0

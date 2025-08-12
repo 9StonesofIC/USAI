@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56050,44.26006,-93.94706,Kasota,MN,Minnesota,True,,1248.0,20.8,27079,Le Sueur,"{""27079"": 88.2, ""27013"": 11.8}",Le Sueur|Blue Earth,27079|27013,False,False,America/Chicago,"(44.26006, -93.94706)",0.5428013234724222,1248.0,44744_0_yes,44.2665271553864,-93.95328811659206,5.0

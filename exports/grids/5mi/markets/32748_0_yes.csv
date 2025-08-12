@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62419,38.62201,-87.98425,Calhoun,IL,Illinois,True,,214.0,3.9,17159,Richland,"{""17159"": 100}",Richland,17159,False,False,America/Chicago,"(38.62201, -87.98425)",2.8955385722523,476.0,32748_0_yes,38.61349044175461,-88.03676636821467,5.0
+62452,38.58715,-88.01774,Parkersburg,IL,Illinois,True,,262.0,4.8,17159,Richland,"{""17159"": 100}",Richland,17159,False,False,America/Chicago,"(38.58715, -88.01774)",2.089911813874959,476.0,32748_0_yes,38.61349044175461,-88.03676636821467,5.0

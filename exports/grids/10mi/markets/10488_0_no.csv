@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97621,42.51504,-121.2881,Beatty,OR,Oregon,True,,260.0,0.6,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.51504, -121.2881)",2.712435210060133,739.0,10488_0_no,42.54955743217295,-121.31347701362932,10.0
+97639,42.43435,-121.49845,Sprague River,OR,Oregon,True,,479.0,3.2,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.43435, -121.49845)",12.335841886574498,739.0,10488_0_no,42.54955743217295,-121.31347701362932,10.0

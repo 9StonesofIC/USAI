@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73659,35.87337,-98.94582,Putnam,OK,Oklahoma,True,,138.0,0.4,40043,Dewey,"{""40043"": 100}",Dewey,40043,False,False,America/Chicago,"(35.87337, -98.94582)",1.9645489327822176,138.0,26619_0_yes,35.868219146454514,-98.98032745010823,5.0

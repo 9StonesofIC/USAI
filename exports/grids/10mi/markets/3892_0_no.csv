@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76842,30.91888,-99.1023,Fredonia,TX,Texas,True,,277.0,1.3,48319,Mason,"{""48319"": 59.37, ""48411"": 40.63}",Mason|San Saba,48319|48411,False,False,America/Chicago,"(30.91888, -99.1023)",8.386731356741528,366.0,3892_0_no,30.92067349602868,-99.243774535526,10.0
+76887,31.02696,-99.15806,Voca,TX,Texas,True,,89.0,0.4,48307,McCulloch,"{""48307"": 100}",McCulloch,48307,False,False,America/Chicago,"(31.02696, -99.15806)",8.928268454342199,366.0,3892_0_no,30.92067349602868,-99.243774535526,10.0

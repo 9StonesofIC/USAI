@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61420,40.5491,-90.86679,Blandinsville,IL,Illinois,True,,1037.0,5.8,17109,McDonough,"{""17109"": 81.15, ""17067"": 18.85}",McDonough|Hancock,17109|17067,False,False,America/Chicago,"(40.5491, -90.86679)",4.2527011380716235,1037.0,36866_0_yes,40.49896530584457,-90.81981669123267,5.0

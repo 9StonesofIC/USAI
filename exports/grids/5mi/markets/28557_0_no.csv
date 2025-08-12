@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74301,36.68157,-95.23687,Vinita,OK,Oklahoma,True,,11653.0,11.5,40035,Craig,"{""40035"": 93.76, ""40097"": 3.74, ""40105"": 2.5}",Craig|Mayes|Nowata,40035|40097|40105,False,False,America/Chicago,"(36.68157, -95.23687)",1.8011269511144505,11653.0,28557_0_no,36.66272433825378,-95.21441475193208,5.0

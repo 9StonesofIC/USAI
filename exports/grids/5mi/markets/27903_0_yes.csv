@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72623,36.46386,-92.3172,Clarkridge,AR,Arkansas,True,,978.0,15.2,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago,"(36.46386, -92.3172)",1.5108832069150882,978.0,27903_0_yes,36.443089444656415,-92.3257016114441,5.0

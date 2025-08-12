@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97144,45.74349,-123.30305,Timber,OR,Oregon,True,,138.0,3.3,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles,"(45.74349, -123.30305)",2.0640089080412225,138.0,47782_0_yes,45.74056181667872,-123.34564820695786,5.0

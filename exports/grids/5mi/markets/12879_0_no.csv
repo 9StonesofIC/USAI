@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78640,29.99619,-97.82355,Kyle,TX,Texas,True,,61991.0,267.2,48209,Hays,"{""48209"": 83.6, ""48055"": 15.0, ""48453"": 1.4}",Hays|Caldwell|Travis,48209|48055|48453,False,False,America/Chicago,"(29.99619, -97.82355)",4.51706248123911,61991.0,12879_0_no,29.99336515717035,-97.89896541763272,5.0

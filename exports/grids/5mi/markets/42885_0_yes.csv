@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13156,43.33355,-76.66249,Sterling,NY,New York,True,,1757.0,23.1,36011,Cayuga,"{""36011"": 99.1, ""36117"": 0.9}",Cayuga|Wayne,36011|36117,False,False,America/New_York,"(43.33355, -76.66249)",4.555885309676981,1757.0,42885_0_yes,43.38293077763483,-76.7225887166192,5.0

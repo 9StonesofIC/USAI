@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72941,35.35018,-94.16214,Lavaca,AR,Arkansas,True,,5124.0,45.6,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago,"(35.35018, -94.16214)",3.169428896141257,5124.0,25576_0_no,35.35725222523758,-94.1065693251016,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43113,39.59114,-82.96192,Circleville,OH,Ohio,True,,25002.0,59.5,39129,Pickaway,"{""39129"": 99.59, ""39045"": 0.41}",Pickaway|Fairfield,39129|39045,False,False,America/New_York,"(39.59114, -82.96192)",3.1698543812192694,25002.0,34944_0_yes,39.62352728761715,-83.0040958899631,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48661,44.33005,-84.24087,West Branch,MI,Michigan,True,,10496.0,15.4,26129,Ogemaw,"{""26129"": 100}",Ogemaw,26129,False,False,America/Detroit,"(44.33005, -84.24087)",4.5124126927208295,10496.0,44961_0_no,44.330297401871455,-84.14957105988495,5.0

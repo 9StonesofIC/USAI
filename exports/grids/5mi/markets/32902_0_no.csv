@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95666,38.54113,-120.33076,Pioneer,CA,California,True,,4692.0,21.6,6005,Amador,"{""06005"": 100}",Amador,06005,False,False,America/Los_Angeles,"(38.54113, -120.33076)",2.2839229998481465,4692.0,32902_0_no,38.56653296787248,-120.3037136063065,5.0

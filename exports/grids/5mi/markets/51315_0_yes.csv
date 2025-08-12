@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58464,47.60786,-98.58849,Mchenry,ND,North Dakota,True,,199.0,0.5,38027,Eddy,"{""38027"": 54.97, ""38031"": 35.35, ""38039"": 9.68}",Eddy|Foster|Griggs,38027|38031|38039,False,False,America/Chicago,"(47.60786, -98.58849)",3.895235527420247,199.0,51315_0_yes,47.59952067103607,-98.67118301680968,5.0

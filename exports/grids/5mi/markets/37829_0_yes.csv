@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68360,40.94613,-96.95661,Garland,NE,Nebraska,True,,478.0,7.9,31159,Seward,"{""31159"": 100}",Seward,31159,False,False,America/Chicago,"(40.94613, -96.95661)",2.852329030141103,1499.0,37829_0_yes,40.93852548779332,-96.9028935651382,5.0
+68402,40.90829,-96.8571,Malcolm,NE,Nebraska,True,,1021.0,12.1,31109,Lancaster,"{""31109"": 100}",Lancaster,31109,False,False,America/Chicago,"(40.90829, -96.8571)",3.1748496921463536,1499.0,37829_0_yes,40.93852548779332,-96.9028935651382,5.0

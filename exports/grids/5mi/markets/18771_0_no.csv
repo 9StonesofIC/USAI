@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39047,32.43356,-89.95011,Brandon,MS,Mississippi,True,,40496.0,161.3,28121,Rankin,"{""28121"": 100}",Rankin,28121,False,False,America/Chicago,"(32.43356, -89.95011)",3.166753852868388,40496.0,18771_0_no,32.45430999862827,-89.99853514961671,5.0

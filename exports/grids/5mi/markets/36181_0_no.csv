@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43078,40.11302,-83.77538,Urbana,OH,Ohio,True,,20634.0,53.0,39021,Champaign,"{""39021"": 99.19, ""39023"": 0.81}",Champaign|Clark,39021|39023,False,False,America/New_York,"(40.11302, -83.77538)",1.96209322182217,20634.0,36181_0_no,40.13111901930892,-83.74676289411342,5.0

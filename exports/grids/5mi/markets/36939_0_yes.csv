@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80615,40.5444,-104.64236,Eaton,CO,Colorado,True,,9210.0,33.6,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.5444, -104.64236)",3.0748796078590734,64958.0,36939_0_yes,40.5103509361732,-104.68006124671555,5.0
+80631,40.44216,-104.67809,Greeley,CO,Colorado,True,,55748.0,207.8,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.44216, -104.67809)",4.712683881966744,64958.0,36939_0_yes,40.5103509361732,-104.68006124671555,5.0

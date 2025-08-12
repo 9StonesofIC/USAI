@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95640,38.33922,-120.94024,Ione,CA,California,True,,11872.0,34.9,6005,Amador,"{""06005"": 99.69, ""06067"": 0.31}",Amador|Sacramento,06005|06067,False,False,America/Los_Angeles,"(38.33922, -120.94024)",0.8747483090447166,11872.0,32286_0_yes,38.34954725407985,-120.9495776002308,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95912,39.0016,-122.07462,Arbuckle,CA,California,True,,5112.0,13.0,6011,Colusa,"{""06011"": 100}",Colusa,06011,False,False,America/Los_Angeles,"(39.0016, -122.07462)",5.471717683125602,6654.0,33569_0_yes,38.93026470503736,-122.03038698754136,5.0
+95937,38.88403,-121.99847,Dunnigan,CA,California,True,,1542.0,11.2,6113,Yolo,"{""06113"": 100}",Yolo,06113,False,False,America/Los_Angeles,"(38.88403, -121.99847)",3.626258248165281,6654.0,33569_0_yes,38.93026470503736,-122.03038698754136,5.0

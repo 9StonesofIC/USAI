@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45133,39.15695,-83.57282,Hillsboro,OH,Ohio,True,,23449.0,28.8,39071,Highland,"{""39071"": 96.66, ""39131"": 3.24, ""39015"": 0.1}",Highland|Pike|Brown,39071|39131|39015,False,False,America/New_York,"(39.15695, -83.57282)",4.09248815462361,23449.0,33998_0_yes,39.1894775221455,-83.63667184445946,5.0

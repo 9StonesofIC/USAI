@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03241,43.71149,-71.81915,Hebron,NH,New Hampshire,True,,908.0,9.5,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.71149, -71.81915)",5.080986737464199,908.0,43455_0_yes,43.66820212608806,-71.90136298244236,5.0

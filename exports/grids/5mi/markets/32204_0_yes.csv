@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81222,38.35492,-105.81612,Coaldale,CO,Colorado,True,,240.0,2.9,8043,Fremont,"{""08043"": 100}",Fremont,08043,False,False,America/Denver,"(38.35492, -105.81612)",2.3776749105276718,240.0,32204_0_yes,38.33769873596225,-105.85410843515233,5.0

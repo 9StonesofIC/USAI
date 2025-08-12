@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26704,39.28619,-78.59471,Augusta,WV,West Virginia,True,,5660.0,23.3,54027,Hampshire,"{""54027"": 100}",Hampshire,54027,False,False,America/New_York,"(39.28619, -78.59471)",5.381446630167393,8723.0,34288_0_yes,39.3302251926997,-78.5116813186373,5.0
+26711,39.30301,-78.47073,Capon Bridge,WV,West Virginia,True,,3063.0,23.3,54027,Hampshire,"{""54027"": 100}",Hampshire,54027,False,False,America/New_York,"(39.30301, -78.47073)",2.885783059463328,8723.0,34288_0_yes,39.3302251926997,-78.5116813186373,5.0

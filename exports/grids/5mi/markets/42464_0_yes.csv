@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83285,43.061,-111.37199,Wayan,ID,Idaho,True,,132.0,0.2,16019,Bonneville,"{""16019"": 68.45, ""16029"": 31.55}",Bonneville|Caribou,16019|16029,False,False,America/Boise,"(43.061, -111.37199)",4.412595996745367,132.0,42464_0_yes,43.12335514738587,-111.35309092673532,5.0

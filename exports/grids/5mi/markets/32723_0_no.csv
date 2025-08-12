@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47557,38.57005,-87.34132,Monroe City,IN,Indiana,True,,1770.0,14.5,18083,Knox,"{""18083"": 100}",Knox,18083,False,False,America/Indiana/Vincennes,"(38.57005, -87.34132)",5.051141363667037,8010.0,32723_0_no,38.540474480742645,-87.25582674775623,5.0
+47567,38.46954,-87.30554,Petersburg,IN,Indiana,True,,6240.0,20.9,18125,Pike,"{""18125"": 100}",Pike,18125,False,False,America/Indiana/Petersburg,"(38.46954, -87.30554)",5.589809654517532,8010.0,32723_0_no,38.540474480742645,-87.25582674775623,5.0

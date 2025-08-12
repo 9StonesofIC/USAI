@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77560,29.86399,-94.59643,Hankamer,TX,Texas,True,,510.0,7.3,48071,Chambers,"{""48071"": 100}",Chambers,48071,False,False,America/Chicago,"(29.86399, -94.59643)",5.58710787446591,510.0,12517_0_yes,29.91874012620204,-94.66506951412948,5.0

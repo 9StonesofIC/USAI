@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45640,39.02345,-82.65032,Jackson,OH,Ohio,True,,15871.0,35.1,39079,Jackson,"{""39079"": 100}",Jackson,39079,False,False,America/New_York,"(39.02345, -82.65032)",5.636622517232645,15871.0,33654_0_no,38.97137905948484,-82.56951413756222,5.0

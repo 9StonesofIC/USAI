@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97536,42.78455,-122.50802,Prospect,OR,Oregon,True,,1151.0,6.3,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.78455, -122.50802)",4.200775940893505,1151.0,10641_0_no,42.841272053125,-122.4781832108129,10.0

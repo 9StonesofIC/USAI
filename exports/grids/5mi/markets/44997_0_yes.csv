@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49645,44.37157,-86.02411,Kaleva,MI,Michigan,True,,1617.0,14.1,26101,Manistee,"{""26101"": 100}",Manistee,26101,False,False,America/Detroit,"(44.37157, -86.02411)",2.6192239653239895,1617.0,44997_0_yes,44.40425069587436,-85.99722865926617,5.0

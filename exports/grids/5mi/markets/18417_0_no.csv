@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39301,32.27289,-88.59226,Meridian,MS,Mississippi,True,,24911.0,36.9,28075,Lauderdale,"{""28075"": 68.9, ""28023"": 31.1}",Lauderdale|Clarke,28075|28023,False,False,America/Chicago,"(32.27289, -88.59226)",5.064688630571937,24911.0,18417_0_no,32.30827606716936,-88.51632084312946,5.0

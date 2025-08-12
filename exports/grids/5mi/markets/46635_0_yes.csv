@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97396,45.11528,-123.5275,Willamina,OR,Oregon,True,,3753.0,26.5,41071,Yamhill,"{""41071"": 75.5, ""41053"": 24.5}",Yamhill|Polk,41071|41053,False,False,America/Los_Angeles,"(45.11528, -123.5275)",3.7373036815339424,3753.0,46635_0_yes,45.16156498743377,-123.56718112791002,5.0

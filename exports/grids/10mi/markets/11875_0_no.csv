@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49887,45.43104,-87.56773,Stephenson,MI,Michigan,True,,2711.0,5.1,26109,Menominee,"{""26109"": 100}",Menominee,26109,False,False,America/Menominee,"(45.43104, -87.56773)",7.881270431540224,3984.0,11875_0_no,45.38501407973212,-87.41906760496565,10.0
+49893,45.29767,-87.59927,Wallace,MI,Michigan,True,,1273.0,6.6,26109,Menominee,"{""26109"": 100}",Menominee,26109,False,False,America/Menominee,"(45.29767, -87.59927)",10.630503905462719,3984.0,11875_0_no,45.38501407973212,-87.41906760496565,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56262,45.12276,-95.86843,Milan,MN,Minnesota,True,,716.0,4.0,27023,Chippewa,"{""27023"": 80.38, ""27151"": 19.62}",Chippewa|Swift,27023|27151,False,False,America/Chicago,"(45.12276, -95.86843)",3.6465436824118687,716.0,46500_0_yes,45.136814239410256,-95.940536426085,5.0

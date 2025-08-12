@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50129,42.01335,-94.3764,Jefferson,IA,Iowa,True,,5119.0,12.0,19073,Greene,"{""19073"": 99.84, ""19077"": 0.16}",Greene|Guthrie,19073|19077,False,False,America/Chicago,"(42.01335, -94.3764)",1.6814084417079098,5119.0,40242_0_no,42.02272955745816,-94.40662485082028,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14707,42.08256,-78.06196,Allentown,NY,New York,True,,90.0,39.7,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.08256, -78.06196)",6.485847496455788,1937.0,40461_0_no,42.15360380514819,-77.97924446950455,5.0
+14880,42.17363,-77.97334,Scio,NY,New York,True,,1847.0,13.7,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.17363, -77.97334)",1.4163357057637942,1937.0,40461_0_no,42.15360380514819,-77.97924446950455,5.0

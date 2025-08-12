@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77845,30.56212,-96.27607,College Station,TX,Texas,True,,68757.0,186.2,48041,Brazos,"{""48041"": 100}",Brazos,48041,False,False,America/Chicago,"(30.56212, -96.27607)",5.367488987820213,68757.0,13940_0_yes,30.50017169724625,-96.33049052354907,5.0

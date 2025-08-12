@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30735,34.60183,-84.89375,Resaca,GA,Georgia,True,,6631.0,46.6,13129,Gordon,"{""13129"": 71.94, ""13213"": 20.14, ""13313"": 7.92}",Gordon|Murray|Whitfield,13129|13213|13313,False,False,America/New_York,"(34.60183, -84.89375)",4.579837671551689,6631.0,23530_0_yes,34.55315101571871,-84.83910907988799,5.0

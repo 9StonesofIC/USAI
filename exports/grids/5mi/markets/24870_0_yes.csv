@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28906,35.11873,-84.13343,Murphy,NC,North Carolina,True,,19665.0,22.8,37039,Cherokee,"{""37039"": 100}",Cherokee,37039,False,False,America/New_York,"(35.11873, -84.13343)",4.0508788059390115,19665.0,24870_0_yes,35.132534754816994,-84.20309761086013,5.0

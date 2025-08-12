@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56716,47.74189,-96.55522,Crookston,MN,Minnesota,True,,9293.0,11.0,27119,Polk,"{""27119"": 98.5, ""27125"": 1.5}",Polk|Red Lake,27119|27125,False,False,America/Chicago,"(47.74189, -96.55522)",4.779892839908534,9293.0,51580_0_yes,47.74213583282706,-96.45234594475762,5.0

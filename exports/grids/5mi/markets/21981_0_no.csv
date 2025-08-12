@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85361,33.76617,-112.63093,Wittmann,AZ,Arizona,True,,7082.0,23.3,4013,Maricopa,"{""04013"": 100}",Maricopa,04013,False,False,America/Phoenix,"(33.76617, -112.63093)",2.7775871598815787,7082.0,21981_0_no,33.77533592122365,-112.5838434300502,5.0

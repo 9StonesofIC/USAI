@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28630,35.82771,-81.41998,Granite Falls,NC,North Carolina,True,,19987.0,126.5,37027,Caldwell,"{""37027"": 98.56, ""37003"": 1.44}",Caldwell|Alexander,37027|37003,False,False,America/New_York,"(35.82771, -81.41998)",4.841398220094954,19987.0,26520_0_yes,35.855139015690455,-81.34043960937021,5.0

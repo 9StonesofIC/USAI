@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76854,30.57125,-99.53945,London,TX,Texas,True,,306.0,0.6,48267,Kimble,"{""48267"": 85.78, ""48327"": 14.22}",Kimble|Menard,48267|48327,False,False,America/Chicago,"(30.57125, -99.53945)",4.974129851382173,306.0,13959_0_yes,30.5022197628932,-99.51572449093176,5.0

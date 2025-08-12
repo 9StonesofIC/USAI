@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49952,46.68309,-88.78408,Nisula,MI,Michigan,True,,111.0,0.5,26061,Houghton,"{""26061"": 97.64, ""26131"": 2.36}",Houghton|Ontonagon,26061|26131,False,False,America/Detroit,"(46.68309, -88.78408)",2.8175303912785323,111.0,49571_0_no,46.64988942536855,-88.74957729330906,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68339,40.73214,-96.86696,Denton,NE,Nebraska,True,,987.0,8.5,31109,Lancaster,"{""31109"": 86.75, ""31159"": 8.8, ""31151"": 4.45}",Lancaster|Seward|Saline,31109|31159|31151,False,False,America/Chicago,"(40.73214, -96.86696)",2.614537399602652,987.0,37495_0_no,40.72130196787635,-96.91480097566075,5.0

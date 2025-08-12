@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43567,41.57592,-84.15248,Wauseon,OH,Ohio,True,,13105.0,44.3,39051,Fulton,"{""39051"": 98.51, ""39069"": 1.49}",Fulton|Henry,39051|39069,False,False,America/New_York,"(41.57592, -84.15248)",4.990210672706217,13105.0,38995_0_yes,41.50718352314038,-84.12285645492065,5.0

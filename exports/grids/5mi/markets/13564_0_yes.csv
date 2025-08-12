@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70516,30.3674,-92.30289,Branch,LA,Louisiana,True,,772.0,7.7,22001,Acadia,"{""22001"": 100}",Acadia,22001,False,False,America/Chicago,"(30.3674, -92.30289)",3.3004164663539726,772.0,13564_0_yes,30.35253679990353,-92.35550088410967,5.0

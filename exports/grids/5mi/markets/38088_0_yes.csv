@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47943,41.0594,-87.28006,Fair Oaks,IN,Indiana,True,,1096.0,6.4,18111,Newton,"{""18111"": 54.88, ""18073"": 45.12}",Newton|Jasper,18111|18073,False,False,America/Chicago,"(41.0594, -87.28006)",1.3316642676267256,1096.0,38088_0_yes,41.07536469913021,-87.26573816122882,5.0

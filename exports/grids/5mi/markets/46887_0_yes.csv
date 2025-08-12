@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83549,45.36641,-116.2549,Riggins,ID,Idaho,True,,622.0,0.4,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Boise,"(45.36641, -116.2549)",5.976141708186823,622.0,46887_0_yes,45.29973105461999,-116.17653199995344,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82836,44.83701,-107.57589,Dayton,WY,Wyoming,True,,1073.0,1.1,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver,"(44.83701, -107.57589)",4.534716788239537,1073.0,45951_0_no,44.785398853323656,-107.6330397108113,5.0

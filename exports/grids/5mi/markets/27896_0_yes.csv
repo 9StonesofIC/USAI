@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72478,36.46249,-91.05373,Warm Springs,AR,Arkansas,True,,216.0,1.6,5121,Randolph,"{""05121"": 100}",Randolph,05121,False,False,America/Chicago,"(36.46249, -91.05373)",1.6478956283275052,216.0,27896_0_yes,36.44214481169096,-91.06920358453362,5.0

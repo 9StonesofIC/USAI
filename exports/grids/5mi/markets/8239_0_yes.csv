@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78340,28.12472,-97.20982,Bayside,TX,Texas,True,,437.0,8.2,48391,Refugio,"{""48391"": 100}",Refugio,48391,False,False,America/Chicago,"(28.12472, -97.20982)",5.791757522378706,19750.0,8239_0_yes,28.178844737543468,-97.1372228467428,5.0
+78382,28.11489,-97.06342,Rockport,TX,Texas,True,,19313.0,93.3,48007,Aransas,"{""48007"": 100}",Aransas,48007,False,False,America/Chicago,"(28.11489, -97.06342)",6.304169786810701,19750.0,8239_0_yes,28.178844737543468,-97.1372228467428,5.0

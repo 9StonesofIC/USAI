@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28526,35.24439,-77.40447,Dover,NC,North Carolina,True,,2588.0,10.4,37049,Craven,"{""37049"": 62.7, ""37103"": 31.5, ""37107"": 5.8}",Craven|Jones|Lenoir,37049|37103|37107,False,False,America/New_York,"(35.24439, -77.40447)",1.9588697286109247,2588.0,25166_0_yes,35.272519783373035,-77.40879916908236,5.0

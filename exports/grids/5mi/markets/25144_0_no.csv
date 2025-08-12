@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28515,35.19285,-76.70263,Bayboro,NC,North Carolina,True,,2787.0,14.0,37137,Pamlico,"{""37137"": 100}",Pamlico,37137,False,False,America/New_York,"(35.19285, -76.70263)",2.199085383231133,3043.0,25144_0_no,35.19954685296596,-76.6645538410766,5.0
+28587,35.18714,-76.66783,Vandemere,NC,North Carolina,True,,256.0,48.7,37137,Pamlico,"{""37137"": 100}",Pamlico,37137,False,False,America/New_York,"(35.18714, -76.66783)",0.8769640419597063,3043.0,25144_0_no,35.19954685296596,-76.6645538410766,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39088,32.73287,-90.7545,Holly Bluff,MS,Mississippi,True,,82.0,0.5,28125,Sharkey,"{""28125"": 100}",Sharkey,28125,False,False,America/Chicago,"(32.73287, -90.7545)",6.0190023562457755,136.0,19133_0_yes,32.67228270981634,-90.68011480585687,5.0
+39162,32.62627,-90.63395,Satartia,MS,Mississippi,True,,54.0,0.4,28163,Yazoo,"{""28163"": 100}",Yazoo,28163,False,False,America/Chicago,"(32.62627, -90.63395)",4.161733152654605,136.0,19133_0_yes,32.67228270981634,-90.68011480585687,5.0

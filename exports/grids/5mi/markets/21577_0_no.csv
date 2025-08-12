@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79343,33.65096,-101.54459,Lorenzo,TX,Texas,True,,1695.0,5.1,48107,Crosby,"{""48107"": 63.82, ""48303"": 36.18}",Crosby|Lubbock,48107|48303,False,False,America/Chicago,"(33.65096, -101.54459)",3.047040584694573,1695.0,21577_0_no,33.62250540251312,-101.50412196543547,5.0

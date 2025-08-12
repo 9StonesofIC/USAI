@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39040,32.63907,-90.41314,Bentonia,MS,Mississippi,True,,3209.0,7.1,28163,Yazoo,"{""28163"": 100}",Yazoo,28163,False,False,America/Chicago,"(32.63907, -90.41314)",4.982936841079626,3209.0,19131_0_yes,32.67204811562682,-90.33696127161448,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81655,39.7477,-106.67821,Wolcott,CO,Colorado,True,,112.0,0.7,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.7477, -106.67821)",2.9122385590895328,112.0,35363_0_no,39.715152043626304,-106.71303282821488,5.0

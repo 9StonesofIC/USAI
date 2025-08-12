@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97029,45.29901,-120.81003,Grass Valley,OR,Oregon,True,,313.0,0.4,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles,"(45.29901, -120.81003)",10.383321766562275,355.0,11812_0_no,45.15542770075353,-120.7470414603648,10.0
+97033,45.23361,-120.5876,Kent,OR,Oregon,True,,42.0,0.1,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles,"(45.23361, -120.5876)",9.45771154215483,355.0,11812_0_no,45.15542770075353,-120.7470414603648,10.0

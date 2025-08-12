@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57540,44.46477,-99.60377,Holabird,SD,South Dakota,True,,107.0,0.2,46069,Hyde,"{""46069"": 100}",Hyde,46069,False,False,America/Chicago,"(44.46477, -99.60377)",4.790006266199437,107.0,45064_0_yes,44.41622365899587,-99.5344518765514,5.0

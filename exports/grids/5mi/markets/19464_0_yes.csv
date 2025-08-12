@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39358,32.83317,-88.45605,Scooba,MS,Mississippi,True,,1335.0,2.9,28069,Kemper,"{""28069"": 96.25, ""28103"": 3.75}",Kemper|Noxubee,28069|28103,False,False,America/Chicago,"(32.83317, -88.45605)",4.001024630307858,1335.0,19464_0_yes,32.81573544688973,-88.39033746496447,5.0

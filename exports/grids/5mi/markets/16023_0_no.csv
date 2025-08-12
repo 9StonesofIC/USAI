@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75901,31.30264,-94.65481,Lufkin,TX,Texas,True,,29148.0,70.7,48005,Angelina,"{""48005"": 100}",Angelina,48005,False,False,America/Chicago,"(31.30264, -94.65481)",0.47891236721762864,29148.0,16023_0_no,31.29704326668387,-94.659595564156,5.0

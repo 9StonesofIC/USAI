@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68663,41.31193,-97.69927,Silver Creek,NE,Nebraska,True,,830.0,3.2,31121,Merrick,"{""31121"": 45.78, ""31143"": 30.07, ""31125"": 24.15}",Merrick|Polk|Nance,31121|31143|31125,False,False,America/Chicago,"(41.31193, -97.69927)",3.7176913405636927,830.0,38732_0_no,41.301288994781125,-97.62905582873664,5.0

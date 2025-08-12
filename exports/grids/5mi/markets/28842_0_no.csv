@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42232,36.86665,-87.66167,Gracey,KY,Kentucky,True,,786.0,13.8,21047,Christian,"{""21047"": 73.13, ""21221"": 26.87}",Christian|Trigg,21047|21221,False,False,America/Chicago,"(36.86665, -87.66167)",6.196854548539284,786.0,28842_0_no,36.80188468740906,-87.58415168999855,5.0

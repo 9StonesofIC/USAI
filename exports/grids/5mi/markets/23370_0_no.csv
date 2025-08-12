@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93015,34.40969,-118.87807,Fillmore,CA,California,True,,18182.0,75.7,6111,Ventura,"{""06111"": 100}",Ventura,06111,False,False,America/Los_Angeles,"(34.40969, -118.87807)",5.7504424759465795,56417.0,23370_0_no,34.35998773921562,-118.79717881190324,5.0
+93021,34.30417,-118.88274,Moorpark,CA,California,True,,38235.0,308.9,6111,Ventura,"{""06111"": 100}",Ventura,06111,False,False,America/Los_Angeles,"(34.30417, -118.88274)",6.221378037794419,56417.0,23370_0_no,34.35998773921562,-118.79717881190324,5.0

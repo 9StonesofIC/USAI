@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88430,35.65348,-103.21357,Nara Visa,NM,New Mexico,True,,86.0,0.1,35037,Quay,"{""35037"": 71.89, ""35059"": 25.48, ""48359"": 2.63}",Quay|Union|Oldham,35037|35059|48359,False,False,America/Denver,"(35.65348, -103.21357)",6.393365772975281,86.0,6636_0_no,35.56543469221273,-103.17855843607522,10.0

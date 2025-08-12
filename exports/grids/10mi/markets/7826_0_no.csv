@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93514,37.4947,-118.38514,Bishop,CA,California,True,,14423.0,5.5,6051,Mono,"{""06051"": 56.23, ""06027"": 43.77}",Mono|Inyo,06051|06027,False,False,America/Los_Angeles,"(37.4947, -118.38514)",10.32427057192245,14423.0,7826_0_no,37.61754895972789,-118.27783825260464,10.0

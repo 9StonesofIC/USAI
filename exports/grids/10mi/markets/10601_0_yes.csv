@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69211,42.83965,-101.31068,Cody,NE,Nebraska,True,,412.0,0.4,31031,Cherry,"{""31031"": 100}",Cherry,31031,False,False,America/Denver,"(42.83965, -101.31068)",7.637590282415728,412.0,10601_0_yes,42.94948925456696,-101.32764333680018,10.0

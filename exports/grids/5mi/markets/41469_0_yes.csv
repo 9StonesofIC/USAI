@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50670,42.68425,-92.61586,Shell Rock,IA,Iowa,True,,2278.0,16.0,19023,Butler,"{""19023"": 97.21, ""19017"": 1.92, ""19013"": 0.87}",Butler|Bremer|Black Hawk,19023|19017|19013,False,False,America/Chicago,"(42.68425, -92.61586)",1.1771626282052154,2278.0,41469_0_yes,42.67277551518781,-92.59872947771612,5.0

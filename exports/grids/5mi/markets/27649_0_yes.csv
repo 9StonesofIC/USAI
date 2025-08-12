@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87531,36.25326,-105.84584,Embudo,NM,New Mexico,True,,396.0,4.6,35055,Taos,"{""35055"": 58.77, ""35039"": 41.23}",Taos|Rio Arriba,35055|35039,False,False,America/Denver,"(36.25326, -105.84584)",3.9770618104884314,396.0,27649_0_yes,36.30825851573326,-105.82477373435708,5.0

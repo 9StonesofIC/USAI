@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65785,37.70296,-93.82338,Stockton,MO,Missouri,True,,5538.0,9.8,29039,Cedar,"{""29039"": 90.17, ""29185"": 6.08, ""29057"": 3.75}",Cedar|St. Clair|Dade,29039|29185|29057,False,False,America/Chicago,"(37.70296, -93.82338)",4.3278899883181525,5538.0,30849_0_yes,37.74857186567317,-93.76910159520268,5.0

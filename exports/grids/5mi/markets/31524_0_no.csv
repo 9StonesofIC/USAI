@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81044,37.90328,-102.93628,Hasty,CO,Colorado,True,,193.0,0.2,8011,Bent,"{""08011"": 100}",Bent,08011,False,False,America/Denver,"(37.90328, -102.93628)",4.826964685368068,193.0,31524_0_no,37.97312319791353,-102.93830330987235,5.0

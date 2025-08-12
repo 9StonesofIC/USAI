@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82922,43.13507,-110.43426,Bondurant,WY,Wyoming,True,,302.0,0.4,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver,"(43.13507, -110.43426)",8.621236929038016,1383.0,10760_0_no,43.11045570403106,-110.60185311569876,10.0
+83128,43.14762,-110.7918,Alpine,WY,Wyoming,True,,1081.0,1.1,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(43.14762, -110.7918)",9.916389198761498,1383.0,10760_0_no,43.11045570403106,-110.60185311569876,10.0

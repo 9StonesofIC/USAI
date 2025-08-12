@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59322,47.03521,-106.64069,Cohagen,MT,Montana,True,,59.0,0.0,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver,"(47.03521, -106.64069)",4.984686432839778,59.0,50494_0_no,47.10054832221757,-106.68559901694552,5.0

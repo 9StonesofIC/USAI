@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48720,43.8294,-83.34808,Bay Port,MI,Michigan,True,,1065.0,12.2,26063,Huron,"{""26063"": 100}",Huron,26063,False,False,America/Detroit,"(43.8294, -83.34808)",1.4378770163920134,1065.0,43808_0_yes,43.82296742438464,-83.37551319847215,5.0

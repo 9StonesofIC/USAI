@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80815,39.40174,-103.08191,Flagler,CO,Colorado,True,,775.0,0.6,8063,Kit Carson,"{""08063"": 73.08, ""08121"": 26.92}",Kit Carson|Washington,08063|08121,False,False,America/Denver,"(39.40174, -103.08191)",5.216232230925895,775.0,34420_0_yes,39.34998524905669,-103.15301416153862,5.0

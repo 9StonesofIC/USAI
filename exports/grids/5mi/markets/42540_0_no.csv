@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05146,43.17867,-72.62307,Grafton,VT,Vermont,True,,531.0,4.9,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York,"(43.17867, -72.62307)",2.115393926966382,1116.0,42540_0_no,43.16234538349487,-72.65858415094944,5.0
+05359,43.15184,-72.72121,West Townshend,VT,Vermont,True,,585.0,7.7,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York,"(43.15184, -72.72121)",3.2388712565163864,1116.0,42540_0_no,43.16234538349487,-72.65858415094944,5.0

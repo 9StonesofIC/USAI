@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41003,38.53181,-84.39164,Berry,KY,Kentucky,True,,2144.0,9.3,21097,Harrison,"{""21097"": 73.93, ""21191"": 20.74, ""21081"": 5.33}",Harrison|Pendleton|Grant,21097|21191|21081,False,False,America/New_York,"(38.53181, -84.39164)",4.842629577148299,2144.0,32707_0_no,38.538146406463184,-84.30240625085013,5.0

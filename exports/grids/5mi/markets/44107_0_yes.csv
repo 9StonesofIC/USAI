@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48613,43.94355,-84.15791,Bentley,MI,Michigan,True,,851.0,6.5,26017,Bay,"{""26017"": 58.17, ""26051"": 41.83}",Bay|Gladwin,26017|26051,False,False,America/Detroit,"(43.94355, -84.15791)",4.388431358578482,851.0,44107_0_yes,43.96832907246887,-84.07667146320057,5.0

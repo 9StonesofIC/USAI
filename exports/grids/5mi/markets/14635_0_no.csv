@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76556,30.69481,-96.84487,Milano,TX,Texas,True,,1707.0,7.8,48331,Milam,"{""48331"": 99.24, ""48051"": 0.76}",Milam|Burleson,48331|48051,False,False,America/Chicago,"(30.69481, -96.84487)",1.8098474761118126,1707.0,14635_0_no,30.71817308922911,-96.85864648225277,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08731,39.85946,-74.29363,Forked River,NJ,New Jersey,True,,20347.0,100.6,34029,Ocean,"{""34029"": 100}",Ocean,34029,False,False,America/New_York,"(39.85946, -74.29363)",2.6812439914296395,28601.0,35505_0_no,39.83380948408032,-74.33155813210577,5.0
+08758,39.79529,-74.25296,Waretown,NJ,New Jersey,True,,8254.0,176.4,34029,Ocean,"{""34029"": 100}",Ocean,34029,False,False,America/New_York,"(39.79529, -74.25296)",4.9480892240406575,28601.0,35505_0_no,39.83380948408032,-74.33155813210577,5.0

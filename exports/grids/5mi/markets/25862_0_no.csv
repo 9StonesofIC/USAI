@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37301,35.42765,-85.80295,Altamont,TN,Tennessee,True,,959.0,6.0,47061,Grundy,"{""47061"": 100}",Grundy,47061,False,False,America/Chicago,"(35.42765, -85.80295)",6.861177312933065,2116.0,25862_0_no,35.496056571314874,-85.71457280145609,5.0
+37305,35.45795,-85.70195,Beersheba Springs,TN,Tennessee,True,,1157.0,27.4,47061,Grundy,"{""47061"": 100}",Grundy,47061,False,False,America/Chicago,"(35.45795, -85.70195)",2.727025435015306,2116.0,25862_0_no,35.496056571314874,-85.71457280145609,5.0

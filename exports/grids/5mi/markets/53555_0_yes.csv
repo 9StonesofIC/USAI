@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59531,48.77294,-110.78334,Joplin,MT,Montana,True,,291.0,0.4,30051,Liberty,"{""30051"": 72.94, ""30041"": 27.06}",Liberty|Hill,30051|30041,False,False,America/Denver,"(48.77294, -110.78334)",0.7723912669130661,291.0,53555_0_yes,48.76842696956841,-110.76782205930628,5.0

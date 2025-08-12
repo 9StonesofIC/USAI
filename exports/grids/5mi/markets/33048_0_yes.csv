@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41033,38.77131,-84.46114,De Mossville,KY,Kentucky,True,,1869.0,17.7,21191,Pendleton,"{""21191"": 82.61, ""21117"": 17.39}",Pendleton|Kenton,21191|21117,False,False,America/New_York,"(38.77131, -84.46114)",1.4187537377514716,1869.0,33048_0_yes,38.75552648017516,-84.4442950260181,5.0

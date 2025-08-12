@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43022,40.33765,-82.34135,Gambier,OH,Ohio,True,,4137.0,38.0,39083,Knox,"{""39083"": 100}",Knox,39083,False,False,America/New_York,"(40.33765, -82.34135)",1.5783617187490269,12441.0,36510_0_yes,40.34719782883288,-82.36857798207039,5.0
+43028,40.40335,-82.29783,Howard,OH,Ohio,True,,8041.0,61.3,39083,Knox,"{""39083"": 100}",Knox,39083,False,False,America/New_York,"(40.40335, -82.29783)",5.377741396547293,12441.0,36510_0_yes,40.34719782883288,-82.36857798207039,5.0
+43037,40.28062,-82.31654,Martinsburg,OH,Ohio,True,,263.0,31.3,39083,Knox,"{""39083"": 100}",Knox,39083,False,False,America/New_York,"(40.28062, -82.31654)",5.355106957720133,12441.0,36510_0_yes,40.34719782883288,-82.36857798207039,5.0

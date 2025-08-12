@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04648,44.65899,-67.59585,Jonesboro,ME,Maine,True,,723.0,9.4,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.65899, -67.59585)",3.3330143896871323,723.0,45490_0_yes,44.677314575196526,-67.53310553853576,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43080,40.24284,-82.43126,Utica,OH,Ohio,True,,5455.0,28.7,39089,Licking,"{""39089"": 59.93, ""39083"": 40.07}",Licking|Knox,39089|39083,False,False,America/New_York,"(40.24284, -82.43126)",5.352789732666254,5455.0,36487_0_no,40.27495401421457,-82.523645372563,5.0

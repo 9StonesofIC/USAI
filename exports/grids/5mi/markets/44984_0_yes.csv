@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48750,44.44338,-83.45652,Oscoda,MI,Michigan,True,,8775.0,32.7,26069,Iosco,"{""26069"": 96.99, ""26001"": 3.01}",Iosco|Alcona,26069|26001,False,False,America/Detroit,"(44.44338, -83.45652)",5.103330762823751,8775.0,44984_0_yes,44.40192815939603,-83.37092309301357,5.0

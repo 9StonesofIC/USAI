@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79553,32.93785,-99.84022,Stamford,TX,Texas,True,,3127.0,6.5,48253,Jones,"{""48253"": 62.35, ""48207"": 37.65}",Jones|Haskell,48253|48207,False,False,America/Chicago,"(32.93785, -99.84022)",2.5357203348784414,3127.0,19874_0_yes,32.968656192060095,-99.86399079913424,5.0

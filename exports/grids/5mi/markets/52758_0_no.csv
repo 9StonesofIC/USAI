@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98814,48.21001,-120.22884,Carlton,WA,Washington,True,,739.0,1.9,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.21001, -120.22884)",5.536392799808138,739.0,52758_0_no,48.27089299004052,-120.15061933363222,5.0

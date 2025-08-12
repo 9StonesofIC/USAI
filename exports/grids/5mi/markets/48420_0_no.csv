@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49736,46.07877,-84.14573,Goetzville,MI,Michigan,True,,415.0,2.2,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.07877, -84.14573)",0.9131277685150359,415.0,48420_0_no,46.06689357581763,-84.13737340691445,5.0

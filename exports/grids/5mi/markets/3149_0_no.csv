@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78516,26.14256,-98.11977,Alamo,TX,Texas,True,,36248.0,370.0,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.14256, -98.11977)",6.096617212262867,105232.0,3149_0_no,26.07455039128412,-98.057163257441,5.0
+78596,26.10668,-97.99856,Weslaco,TX,Texas,True,,68984.0,664.1,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.10668, -97.99856)",4.260545305207554,105232.0,3149_0_no,26.07455039128412,-98.057163257441,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63882,36.91639,-89.21974,Wyatt,MO,Missouri,True,,304.0,172.5,29133,Mississippi,"{""29133"": 100}",Mississippi,29133,False,False,America/Chicago,"(36.91639, -89.21974)",4.935535232165364,304.0,29178_0_no,36.94799048572138,-89.13959600478839,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80102,39.73237,-104.43874,Bennett,CO,Colorado,True,,5960.0,7.8,8001,Adams,"{""08001"": 48.72, ""08005"": 36.4, ""08039"": 14.88}",Adams|Arapahoe|Elbert,08001|08005|08039,False,False,America/Denver,"(39.73237, -104.43874)",1.7640479524694397,5960.0,35351_0_no,39.71333177670192,-104.46085759689392,5.0

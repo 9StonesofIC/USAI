@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50536,43.11605,-94.69716,Emmetsburg,IA,Iowa,True,,4286.0,11.6,19147,Palo Alto,"{""19147"": 100}",Palo Alto,19147,False,False,America/Chicago,"(43.11605, -94.69716)",2.362804405627853,4286.0,42380_0_yes,43.10900355161365,-94.74299946267467,5.0

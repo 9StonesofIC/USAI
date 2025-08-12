@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79072,34.1719,-101.745,Plainview,TX,Texas,True,,26404.0,25.8,48189,Hale,"{""48189"": 100}",Hale,48189,False,False,America/Chicago,"(34.1719, -101.745)",4.001469451202655,26404.0,22613_0_yes,34.130273761637504,-101.7936551687297,5.0

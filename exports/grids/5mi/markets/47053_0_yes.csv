@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54819,45.47636,-91.30307,Bruce,WI,Wisconsin,True,,2321.0,5.9,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago,"(45.47636, -91.30307)",4.109063341026097,2321.0,47053_0_yes,45.42209189079313,-91.26839394435596,5.0

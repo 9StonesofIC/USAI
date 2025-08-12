@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55922,43.5621,-91.89562,Canton,MN,Minnesota,True,,1196.0,14.1,27045,Fillmore,"{""27045"": 100}",Fillmore,27045,False,False,America/Chicago,"(43.5621, -91.89562)",2.5740336985485732,1196.0,43259_0_yes,43.5409198166914,-91.93790715771507,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23061,37.4331,-76.55019,Gloucester,VA,Virginia,True,,21364.0,52.2,51073,Gloucester,"{""51073"": 100}",Gloucester,51073,False,False,America/New_York,"(37.4331, -76.55019)",4.4181913162861575,21364.0,30086_0_no,37.37310020552585,-76.57802749459879,5.0

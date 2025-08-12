@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50431,42.73648,-93.36989,Coulter,IA,Iowa,True,,203.0,104.9,19069,Franklin,"{""19069"": 100}",Franklin,19069,False,False,America/Chicago,"(42.73648, -93.36989)",4.413960703918245,203.0,41473_0_yes,42.6734484776722,-93.38404417806612,5.0

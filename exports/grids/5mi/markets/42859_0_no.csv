@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14555,43.25946,-76.98665,Sodus Point,NY,New York,True,,1048.0,140.0,36117,Wayne,"{""36117"": 100}",Wayne,36117,False,False,America/New_York,"(43.25946, -76.98665)",5.671212602440232,6468.0,42859_0_no,43.31075927834795,-76.89862933627742,5.0
+14590,43.24533,-76.83099,Wolcott,NY,New York,True,,5420.0,32.4,36117,Wayne,"{""36117"": 100}",Wayne,36117,False,False,America/New_York,"(43.24533, -76.83099)",5.65804864169414,6468.0,42859_0_no,43.31075927834795,-76.89862933627742,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71449,31.5153,-93.54383,Many,LA,Louisiana,True,,8851.0,14.5,22085,Sabine,"{""22085"": 100}",Sabine,22085,False,False,America/Chicago,"(31.5153, -93.54383)",7.371117000482062,14590.0,4225_0_no,31.49333748527015,-93.6662767630408,10.0
+71486,31.62679,-93.65876,Zwolle,LA,Louisiana,True,,5739.0,22.1,22085,Sabine,"{""22085"": 100}",Sabine,22085,False,False,America/Chicago,"(31.62679, -93.65876)",9.23130415306934,14590.0,4225_0_no,31.49333748527015,-93.6662767630408,10.0

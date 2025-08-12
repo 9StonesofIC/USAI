@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12885,43.52929,-73.83161,Warrensburg,NY,New York,True,,4437.0,21.3,36113,Warren,"{""36113"": 100}",Warren,36113,False,False,America/New_York,"(43.52929, -73.83161)",0.6401153314591949,4437.0,43168_0_yes,43.52514551296404,-73.82018209476396,5.0

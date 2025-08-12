@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77616,30.56804,-94.2117,Fred,TX,Texas,True,,157.0,2.3,48457,Tyler,"{""48457"": 100}",Tyler,48457,False,False,America/Chicago,"(30.56804, -94.2117)",5.990652060182429,16901.0,13927_0_yes,30.49877048512694,-94.15115836356875,5.0
+77656,30.42866,-94.16887,Silsbee,TX,Texas,True,,16744.0,36.9,48199,Hardin,"{""48199"": 86.35, ""48457"": 13.65}",Hardin|Tyler,48199|48457,False,False,America/Chicago,"(30.42866, -94.16887)",4.957686415348245,16901.0,13927_0_yes,30.49877048512694,-94.15115836356875,5.0

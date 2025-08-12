@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58566,46.57835,-100.90673,Saint Anthony,ND,North Dakota,True,,144.0,0.5,38059,Morton,"{""38059"": 100}",Morton,38059,False,False,America/North_Dakota/New_Salem,"(46.57835, -100.90673)",0.8423509507212301,144.0,12476_0_no,46.56673635617896,-100.90133483055902,10.0

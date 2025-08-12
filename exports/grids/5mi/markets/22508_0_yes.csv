@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30565,34.08802,-83.41203,Nicholson,GA,Georgia,True,,4731.0,54.3,13157,Jackson,"{""13157"": 86.98, ""13195"": 13.02}",Jackson|Madison,13157|13195,False,False,America/New_York,"(34.08802, -83.41203)",4.182472059706835,4731.0,22508_0_yes,34.11726346783279,-83.47603852535482,5.0

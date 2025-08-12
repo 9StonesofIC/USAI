@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40741,37.13349,-84.11636,London,KY,Kentucky,True,,24922.0,46.4,21125,Laurel,"{""21125"": 96.95, ""21051"": 3.05}",Laurel|Clay,21125|21051,False,False,America/New_York,"(37.13349, -84.11636)",4.827954664569409,24922.0,29477_0_no,37.089131677522055,-84.18406251500073,5.0

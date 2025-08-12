@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76460,33.30796,-98.49798,Loving,TX,Texas,True,,433.0,1.6,48503,Young,"{""48503"": 100}",Young,48503,False,False,America/Chicago,"(33.30796, -98.49798)",5.511311236373391,433.0,20552_0_yes,33.25784052215125,-98.5722095174878,5.0

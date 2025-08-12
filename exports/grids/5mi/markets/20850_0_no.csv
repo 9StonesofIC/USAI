@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71845,33.32005,-93.63365,Lewisville,AR,Arkansas,True,,1789.0,3.4,5073,Lafayette,"{""05073"": 100}",Lafayette,05073,False,False,America/Chicago,"(33.32005, -93.63365)",0.5052588161011582,1789.0,20850_0_no,33.32695329625351,-93.63076284256552,5.0

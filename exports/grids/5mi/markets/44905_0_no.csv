@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05676,44.34825,-72.80984,Waterbury,VT,Vermont,True,,4686.0,19.3,50023,Washington,"{""50023"": 79.15, ""50007"": 20.85}",Washington|Chittenden,50023|50007,False,False,America/New_York,"(44.34825, -72.80984)",2.8116146179292523,4686.0,44905_0_no,44.32031958096033,-72.85121437663084,5.0

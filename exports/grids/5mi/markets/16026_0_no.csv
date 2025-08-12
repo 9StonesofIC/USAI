@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75847,31.35204,-95.13564,Kennard,TX,Texas,True,,1745.0,2.7,48225,Houston,"{""48225"": 86.92, ""48455"": 13.08}",Houston|Trinity,48225|48455,False,False,America/Chicago,"(31.35204, -95.13564)",4.1984007294619765,1745.0,16026_0_no,31.297376949425622,-95.16670560318704,5.0

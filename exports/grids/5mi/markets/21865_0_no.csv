@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71766,33.7362,-92.50205,Thornton,AR,Arkansas,True,,786.0,6.0,5013,Calhoun,"{""05013"": 100}",Calhoun,05013,False,False,America/Chicago,"(33.7362, -92.50205)",4.420439250221888,786.0,21865_0_no,33.761152798159145,-92.431199430611,5.0

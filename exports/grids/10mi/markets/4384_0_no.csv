@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36908,31.89818,-88.30807,Gilbertown,AL,Alabama,True,,1820.0,5.4,1023,Choctaw,"{""01023"": 100}",Choctaw,01023,False,False,America/Chicago,"(31.89818, -88.30807)",12.786312117094615,1820.0,4384_0_no,31.776351853284226,-88.47203926426012,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58731,48.44752,-100.98029,Deering,ND,North Dakota,True,,305.0,1.2,38049,McHenry,"{""38049"": 89.97, ""38101"": 10.03}",McHenry|Ward,38049|38101,False,False,America/Chicago,"(48.44752, -100.98029)",3.6891649720785593,305.0,52942_0_no,48.397531221750526,-101.008562279081,5.0

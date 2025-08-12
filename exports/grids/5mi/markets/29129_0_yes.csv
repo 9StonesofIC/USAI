@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23430,36.98615,-76.66337,Smithfield,VA,Virginia,True,,17493.0,64.9,51093,Isle of Wight,"{""51093"": 97.05, ""51181"": 2.95}",Isle of Wight|Surry,51093|51181,False,False,America/New_York,"(36.98615, -76.66337)",2.9755611386675835,17493.0,29129_0_yes,37.01094140254888,-76.70746223498948,5.0

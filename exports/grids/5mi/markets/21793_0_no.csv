@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29518,33.7892,-79.84851,Cades,SC,South Carolina,True,,938.0,7.7,45089,Williamsburg,"{""45089"": 99.51, ""45027"": 0.49}",Williamsburg|Clarendon,45089|45027,False,False,America/New_York,"(33.7892, -79.84851)",5.044363562215317,938.0,21793_0_no,33.75235327906261,-79.92433093847823,5.0

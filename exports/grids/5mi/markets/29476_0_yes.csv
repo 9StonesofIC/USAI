@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24073,37.13053,-80.4225,Christiansburg,VA,Virginia,True,,29451.0,126.9,51121,Montgomery,"{""51121"": 100}",Montgomery,51121,False,False,America/New_York,"(37.13053, -80.4225)",1.9488412721347135,29451.0,29476_0_yes,37.15866891605892,-80.42006300574552,5.0

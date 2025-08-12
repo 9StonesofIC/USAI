@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54149,45.204,-88.47445,Mountain,WI,Wisconsin,True,,1211.0,3.6,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago,"(45.204, -88.47445)",1.2150308105195144,1211.0,46725_0_no,45.20251886673842,-88.44958056908308,5.0

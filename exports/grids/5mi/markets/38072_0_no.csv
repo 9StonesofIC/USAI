@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61369,40.9827,-89.15397,Toluca,IL,Illinois,True,,1576.0,14.0,17123,Marshall,"{""17123"": 100}",Marshall,17123,False,False,America/Chicago,"(40.9827, -89.15397)",1.6694444854986752,1683.0,38072_0_no,41.00455314931162,-89.14031348814693,5.0
+61541,40.98039,-89.23497,La Rose,IL,Illinois,True,,107.0,251.7,17123,Marshall,"{""17123"": 100}",Marshall,17123,False,False,America/Chicago,"(40.98039, -89.23497)",5.211144516901358,1683.0,38072_0_no,41.00455314931162,-89.14031348814693,5.0

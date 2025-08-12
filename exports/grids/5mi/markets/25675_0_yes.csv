@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87316,35.48684,-108.53328,Fort Wingate,NM,New Mexico,True,,1228.0,6.3,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.48684, -108.53328)",3.381750261877275,1357.0,25675_0_yes,35.44027608275552,-108.5147664543633,5.0
+87347,35.38502,-108.47052,Jamestown,NM,New Mexico,True,,129.0,0.5,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.38502, -108.47052)",4.558919567065887,1357.0,25675_0_yes,35.44027608275552,-108.5147664543633,5.0

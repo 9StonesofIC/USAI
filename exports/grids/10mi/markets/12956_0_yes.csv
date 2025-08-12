@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98045,47.48276,-121.65678,North Bend,WA,Washington,True,,15174.0,34.0,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.48276, -121.65678)",10.081176615788682,15417.0,12956_0_yes,47.61769189704799,-121.57452639740274,10.0
+98224,47.7357,-121.56859,Baring,WA,Washington,True,,243.0,1.5,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.7357, -121.56859)",8.158259036594451,15417.0,12956_0_yes,47.61769189704799,-121.57452639740274,10.0

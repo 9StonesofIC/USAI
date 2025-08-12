@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79025,34.94943,-102.20117,Dawn,TX,Texas,True,,26.0,0.6,48117,Deaf Smith,"{""48117"": 100}",Deaf Smith,48117,False,False,America/Chicago,"(34.94943, -102.20117)",1.4962874531760675,95.0,24620_0_no,34.92817657924976,-102.1960999060994,5.0
+79091,34.87053,-102.11431,Umbarger,TX,Texas,True,,69.0,0.5,48381,Randall,"{""48381"": 100}",Randall,48381,False,False,America/Chicago,"(34.87053, -102.11431)",6.111133677579991,95.0,24620_0_no,34.92817657924976,-102.1960999060994,5.0

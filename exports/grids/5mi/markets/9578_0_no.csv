@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33514,28.65771,-81.99886,Center Hill,FL,Florida,True,,2954.0,27.0,12119,Sumter,"{""12119"": 100}",Sumter,12119,False,False,America/New_York,"(28.65771, -81.99886)",3.839473041999489,2954.0,9578_0_no,28.677599065788577,-81.93972270413221,5.0

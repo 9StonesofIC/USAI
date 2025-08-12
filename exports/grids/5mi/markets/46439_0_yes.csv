@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49707,45.09375,-83.50186,Alpena,MI,Michigan,True,,21675.0,38.8,26007,Alpena,"{""26007"": 96.17, ""26141"": 3.83}",Alpena|Presque Isle,26007|26141,False,False,America/Detroit,"(45.09375, -83.50186)",2.9605698026297955,21675.0,46439_0_yes,45.12563753136888,-83.4613050111244,5.0

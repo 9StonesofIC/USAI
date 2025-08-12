@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64011,38.95963,-94.06688,Bates City,MO,Missouri,True,,4060.0,43.9,29107,Lafayette,"{""29107"": 79.38, ""29101"": 20.62}",Lafayette|Johnson,29107|29101,False,False,America/Chicago,"(38.95963, -94.06688)",4.715471357179533,4060.0,33418_0_yes,38.907994981817374,-94.00950921522232,5.0

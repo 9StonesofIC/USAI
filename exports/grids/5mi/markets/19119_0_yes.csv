@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35460,32.71882,-88.19452,Epes,AL,Alabama,True,,750.0,5.3,1119,Sumter,"{""01119"": 100}",Sumter,01119,False,False,America/Chicago,"(32.71882, -88.19452)",5.888677176653209,750.0,19119_0_yes,32.670640594631635,-88.27805889729225,5.0

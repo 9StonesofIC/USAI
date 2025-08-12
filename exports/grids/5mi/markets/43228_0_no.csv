@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54624,43.46575,-91.14066,De Soto,WI,Wisconsin,True,,1530.0,9.0,55123,Vernon,"{""55123"": 85.86, ""55023"": 14.14}",Vernon|Crawford,55123|55023,False,False,America/Chicago,"(43.46575, -91.14066)",1.9350993992194512,1530.0,43228_0_no,43.46785333792295,-91.10217978057808,5.0

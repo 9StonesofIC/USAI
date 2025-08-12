@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71269,32.44592,-91.78718,Rayville,LA,Louisiana,True,,12685.0,15.1,22083,Richland,"{""22083"": 100}",Richland,22083,False,False,America/Chicago,"(32.44592, -91.78718)",4.538166549434415,12685.0,18781_0_no,32.45547325840399,-91.710172389811,5.0

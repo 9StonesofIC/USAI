@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45171,39.01414,-83.7962,Sardinia,OH,Ohio,True,,5648.0,27.0,39015,Brown,"{""39015"": 58.21, ""39071"": 41.79}",Brown|Highland,39015|39071,False,False,America/New_York,"(39.01414, -83.7962)",4.877351497106588,5648.0,33661_0_no,38.97241336491204,-83.86945852060438,5.0

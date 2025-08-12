@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81435,37.90014,-107.92397,Telluride,CO,Colorado,True,,5243.0,10.6,8113,San Miguel,"{""08113"": 100}",San Miguel,08113,False,False,America/Denver,"(37.90014, -107.92397)",3.0826152069946704,5243.0,31250_0_yes,37.90453334659863,-107.98023745200472,5.0

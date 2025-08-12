@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27924,36.17835,-76.83822,Colerain,NC,North Carolina,True,,3465.0,13.7,37015,Bertie,"{""37015"": 91.63, ""37091"": 8.37}",Bertie|Hertford,37015|37091,False,False,America/New_York,"(36.17835, -76.83822)",4.788059098896756,3465.0,27468_0_no,36.21406955029037,-76.76463471534755,5.0

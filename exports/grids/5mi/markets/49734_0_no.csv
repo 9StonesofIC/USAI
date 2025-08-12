@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98532,46.63628,-123.03444,Chehalis,WA,Washington,True,,25534.0,31.6,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.63628, -123.03444)",3.1361136683528703,25614.0,49734_0_no,46.68138800866277,-123.02708660868883,5.0
+98544,46.73912,-123.02712,Galvin,WA,Washington,True,,80.0,307.4,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.73912, -123.02712)",3.988900980029051,25614.0,49734_0_no,46.68138800866277,-123.02708660868883,5.0

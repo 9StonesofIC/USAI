@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91905,32.67773,-116.30734,Boulevard,CA,California,True,,1665.0,7.7,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.67773, -116.30734)",3.573564266423291,2450.0,19282_0_yes,32.68976589081496,-116.24757643416416,5.0
+91934,32.66488,-116.16828,Jacumba,CA,California,True,,785.0,5.9,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.66488, -116.16828)",4.921810388501771,2450.0,19282_0_yes,32.68976589081496,-116.24757643416416,5.0

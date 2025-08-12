@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78935,29.68797,-96.43006,Alleyton,TX,Texas,True,,926.0,5.7,48089,Colorado,"{""48089"": 100}",Colorado,48089,False,False,America/Chicago,"(29.68797, -96.43006)",3.1740777023895532,926.0,12162_0_no,29.702260411356928,-96.48032018139776,5.0

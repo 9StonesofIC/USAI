@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62823,38.51864,-88.43816,Cisne,IL,Illinois,True,,1890.0,9.1,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.51864, -88.43816)",4.335527437867542,2610.0,32729_0_no,38.54134755832354,-88.36338397878617,5.0
+62842,38.47038,-88.38007,Geff,IL,Illinois,True,,720.0,6.1,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.47038, -88.38007)",4.985698943183512,2610.0,32729_0_no,38.54134755832354,-88.36338397878617,5.0

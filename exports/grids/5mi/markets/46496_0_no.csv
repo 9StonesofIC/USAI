@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57652,45.13787,-100.68883,Ridgeview,SD,South Dakota,True,,550.0,0.9,46041,Dewey,"{""46041"": 100}",Dewey,46041,False,False,America/Denver,"(45.13787, -100.68883)",6.5344372851353585,550.0,46496_0_no,45.06865755098862,-100.5975184697504,5.0

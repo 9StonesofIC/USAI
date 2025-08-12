@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76864,31.54561,-98.73637,Mullin,TX,Texas,True,,857.0,1.3,48333,Mills,"{""48333"": 100}",Mills,48333,False,False,America/Chicago,"(31.54561, -98.73637)",3.222030234105554,857.0,4240_0_no,31.50006334048755,-98.74810901355424,10.0

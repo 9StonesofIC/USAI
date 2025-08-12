@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30467,32.75114,-81.60468,Sylvania,GA,Georgia,True,,11764.0,8.6,13251,Screven,"{""13251"": 100}",Screven,13251,False,False,America/New_York,"(32.75114, -81.60468)",6.384784595745062,11764.0,19425_0_yes,32.81113613781222,-81.68827613195232,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38451,35.46706,-86.99573,Culleoka,TN,Tennessee,True,,4107.0,18.9,47119,Maury,"{""47119"": 81.08, ""47117"": 16.84, ""47055"": 2.08}",Maury|Marshall|Giles,47119|47117|47055,False,False,America/Chicago,"(35.46706, -86.99573)",3.0372640798412016,4107.0,25869_0_no,35.49696914458246,-86.95616804951156,5.0

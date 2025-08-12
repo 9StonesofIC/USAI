@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29069,34.18798,-80.09654,Lamar,SC,South Carolina,True,,4681.0,23.0,45031,Darlington,"{""45031"": 78.45, ""45061"": 21.55}",Darlington|Lee,45031|45061,False,False,America/New_York,"(34.18798, -80.09654)",3.0218277216943985,4681.0,22811_0_no,34.187343782031775,-80.0436740911336,5.0

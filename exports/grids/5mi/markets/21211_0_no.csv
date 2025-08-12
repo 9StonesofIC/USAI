@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76272,33.46421,-97.12721,Valley View,TX,Texas,True,,4404.0,17.6,48097,Cooke,"{""48097"": 85.43, ""48121"": 14.57}",Cooke|Denton,48097|48121,False,False,America/Chicago,"(33.46421, -97.12721)",4.99031586090605,4404.0,21211_0_no,33.47435309218101,-97.04148543165596,5.0

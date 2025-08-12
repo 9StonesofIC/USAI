@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35045,32.81127,-86.67249,Clanton,AL,Alabama,True,,14383.0,49.2,1021,Chilton,"{""01021"": 100}",Chilton,01021,False,False,America/Chicago,"(32.81127, -86.67249)",0.23028341176073933,17940.0,19454_0_yes,32.81455606001744,-86.67182728574952,5.0
+35171,32.87823,-86.74636,Thorsby,AL,Alabama,True,,3557.0,40.1,1021,Chilton,"{""01021"": 100}",Chilton,01021,False,False,America/Chicago,"(32.87823, -86.74636)",6.170339411155605,17940.0,19454_0_yes,32.81455606001744,-86.67182728574952,5.0

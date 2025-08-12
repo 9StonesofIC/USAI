@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56434,46.33797,-94.93437,Aldrich,MN,Minnesota,True,,291.0,7.6,27153,Todd,"{""27153"": 83.73, ""27159"": 16.27}",Todd|Wadena,27153|27159,False,False,America/Chicago,"(46.33797, -94.93437)",3.178409202793516,291.0,48782_0_yes,46.29372693117067,-94.9161306237868,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64640,39.90172,-93.94542,Gallatin,MO,Missouri,True,,3161.0,8.5,29061,Daviess,"{""29061"": 100}",Daviess,29061,False,False,America/Chicago,"(39.90172, -93.94542)",4.766029355584535,3161.0,35609_0_no,39.84965621545992,-93.88645793613678,5.0

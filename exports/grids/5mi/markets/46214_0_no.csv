@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57626,44.99662,-102.17571,Faith,SD,South Dakota,True,,792.0,0.2,46105,Perkins,"{""46105"": 39.21, ""46093"": 32.91, ""46137"": 27.88}",Perkins|Meade|Ziebach,46105|46093|46137,False,False,America/Denver,"(44.99662, -102.17571)",6.613612649446983,792.0,46214_0_no,44.92522636730887,-102.0856022151273,5.0

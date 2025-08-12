@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72930,35.43248,-94.00737,Cecil,AR,Arkansas,True,,184.0,1.9,5047,Franklin,"{""05047"": 73.78, ""05131"": 26.22}",Franklin|Sebastian,05047|05131,False,False,America/Chicago,"(35.43248, -94.00737)",1.4729184192867752,184.0,25593_0_yes,35.42961007491172,-93.98144540803428,5.0

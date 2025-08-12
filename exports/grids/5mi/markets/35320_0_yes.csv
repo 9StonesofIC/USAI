@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64474,39.75829,-94.38103,Osborn,MO,Missouri,True,,912.0,6.2,29063,DeKalb,"{""29063"": 57.94, ""29049"": 42.06}",DeKalb|Clinton,29063|29049,False,False,America/Chicago,"(39.75829, -94.38103)",1.3775777555852495,912.0,35320_0_yes,39.7775733403702,-94.37443808303964,5.0

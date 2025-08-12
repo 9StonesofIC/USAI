@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79543,32.71864,-100.38724,Roby,TX,Texas,True,,1319.0,4.0,48151,Fisher,"{""48151"": 100}",Fisher,48151,False,False,America/Chicago,"(32.71864, -100.38724)",6.408972293177888,1319.0,4938_0_no,32.662346244089875,-100.4748385259015,10.0

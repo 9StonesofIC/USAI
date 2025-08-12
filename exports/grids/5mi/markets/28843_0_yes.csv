@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40701,36.91759,-84.16651,Corbin,KY,Kentucky,True,,29128.0,74.7,21235,Whitley,"{""21235"": 60.96, ""21125"": 21.46, ""21121"": 17.58}",Whitley|Laurel|Knox,21235|21125|21121,False,False,America/New_York,"(36.91759, -84.16651)",3.6430341633459467,29128.0,28843_0_yes,36.87173664429128,-84.19905714812367,5.0

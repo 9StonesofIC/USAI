@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49745,46.05065,-84.519,Hessel,MI,Michigan,True,,956.0,4.6,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(46.05065, -84.519)",6.45779837268941,1948.0,12154_0_no,45.95830367198776,-84.53975394069514,10.0
+49757,45.85933,-84.62533,Mackinac Island,MI,Michigan,True,,992.0,88.0,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(45.85933, -84.62533)",7.980596081268679,1948.0,12154_0_no,45.95830367198776,-84.53975394069514,10.0

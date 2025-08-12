@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54648,43.83544,-90.63553,Norwalk,WI,Wisconsin,True,,1703.0,8.9,55081,Monroe,"{""55081"": 100}",Monroe,55081,False,False,America/Chicago,"(43.83544, -90.63553)",4.7046272736398755,1703.0,44113_0_no,43.90177120212712,-90.65686292031457,5.0

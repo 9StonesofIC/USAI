@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49701,45.75195,-84.7426,Mackinaw City,MI,Michigan,True,,805.0,17.9,26047,Emmet,"{""26047"": 64.1, ""26031"": 35.9}",Emmet|Cheboygan,26047|26031,False,False,America/Detroit,"(45.75195, -84.7426)",4.154206554731296,805.0,47595_0_yes,45.70558833823265,-84.68775837682821,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94020,37.28473,-122.21969,La Honda,CA,California,True,,1979.0,18.2,6081,San Mateo,"{""06081"": 100}",San Mateo,06081,False,False,America/Los_Angeles,"(37.28473, -122.21969)",1.880975183193542,2553.0,30012_0_no,37.2631560293425,-122.198824191663,5.0
+94021,37.25028,-122.24958,Loma Mar,CA,California,True,,574.0,20.2,6081,San Mateo,"{""06081"": 100}",San Mateo,06081,False,False,America/Los_Angeles,"(37.25028, -122.24958)",2.929593866867946,2553.0,30012_0_no,37.2631560293425,-122.198824191663,5.0

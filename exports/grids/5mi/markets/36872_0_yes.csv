@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63432,40.50058,-91.99551,Arbela,MO,Missouri,True,,616.0,2.8,29199,Scotland,"{""29199"": 87.63, ""29045"": 12.37}",Scotland|Clark,29199|29045,False,False,America/Chicago,"(40.50058, -91.99551)",1.922628503583303,1100.0,36872_0_yes,40.49990093942757,-91.9589264890763,5.0
+63453,40.49511,-91.86495,Luray,MO,Missouri,True,,484.0,3.5,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago,"(40.49511, -91.86495)",4.948702202448868,1100.0,36872_0_yes,40.49990093942757,-91.9589264890763,5.0

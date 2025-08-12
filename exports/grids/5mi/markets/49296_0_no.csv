@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49911,46.49247,-90.05235,Bessemer,MI,Michigan,True,,2515.0,21.4,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.49247, -90.05235)",2.628737101139208,10008.0,49296_0_no,46.506436028174384,-90.10376206139068,5.0
+49938,46.51493,-90.13264,Ironwood,MI,Michigan,True,,7493.0,12.8,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.51493, -90.13264)",1.493341275505973,10008.0,49296_0_no,46.506436028174384,-90.10376206139068,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28160,35.36064,-81.92234,Spindale,NC,North Carolina,True,,3902.0,273.6,37161,Rutherford,"{""37161"": 100}",Rutherford,37161,False,False,America/New_York,"(35.36064, -81.92234)",4.182197706796587,3902.0,25525_0_yes,35.420768260833064,-81.93087617498715,5.0

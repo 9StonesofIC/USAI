@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97543,42.37724,-123.56031,Wilderville,OR,Oregon,True,,482.0,3.9,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles,"(42.37724, -123.56031)",2.7914988338694355,482.0,40997_0_no,42.33717019700116,-123.55331526212454,5.0

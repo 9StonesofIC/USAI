@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98304,46.87036,-121.73985,Ashford,WA,Washington,True,,1029.0,1.2,53053,Pierce,"{""53053"": 98.34, ""53041"": 1.66}",Pierce|Lewis,53053|53041,False,False,America/Los_Angeles,"(46.87036, -121.73985)",3.232773590245584,1029.0,50008_0_no,46.82498267013112,-121.75652430681392,5.0

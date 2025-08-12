@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56721,47.97108,-96.94336,East Grand Forks,MN,Minnesota,True,,10296.0,20.7,27119,Polk,"{""27119"": 100}",Polk,27119,False,False,America/Chicago,"(47.97108, -96.94336)",7.567313694689012,10698.0,13160_0_no,48.00553545741074,-96.78802642059163,10.0
+56722,47.9825,-96.64644,Euclid,MN,Minnesota,True,,402.0,1.1,27119,Polk,"{""27119"": 100}",Polk,27119,False,False,America/Chicago,"(47.9825, -96.64644)",6.7373495466912425,10698.0,13160_0_no,48.00553545741074,-96.78802642059163,10.0

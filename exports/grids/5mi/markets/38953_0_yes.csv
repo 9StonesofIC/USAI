@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18657,41.52712,-75.95601,Tunkhannock,PA,Pennsylvania,True,,11575.0,37.8,42131,Wyoming,"{""42131"": 100}",Wyoming,42131,False,False,America/New_York,"(41.52712, -75.95601)",4.115898226532679,11575.0,38953_0_yes,41.50039963375711,-76.02711219899636,5.0

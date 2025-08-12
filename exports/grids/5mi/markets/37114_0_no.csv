@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43340,40.53748,-83.48,Mount Victory,OH,Ohio,True,,2153.0,17.1,39065,Hardin,"{""39065"": 79.95, ""39159"": 20.05}",Hardin|Union,39065|39159,False,False,America/New_York,"(40.53748, -83.48)",1.9304377327739295,2153.0,37114_0_no,40.5653957908959,-83.48151552416003,5.0

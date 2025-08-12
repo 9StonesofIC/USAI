@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71316,31.27665,-91.76231,Acme,LA,Louisiana,True,,6.0,0.0,22029,Concordia,"{""22029"": 100}",Concordia,22029,False,False,America/Chicago,"(31.27665, -91.76231)",5.472251888364158,6.0,4045_0_no,31.20084728261587,-91.73546813593327,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59020,45.08831,-110.01499,Cooke City,MT,Montana,True,,69.0,0.1,30067,Park,"{""30067"": 100}",Park,30067,False,False,America/Denver,"(45.08831, -110.01499)",4.746068275233694,69.0,46569_0_yes,45.14946196797586,-110.0593276694902,5.0

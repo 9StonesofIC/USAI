@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48640,43.58394,-84.33648,Midland,MI,Michigan,True,,32374.0,118.9,26111,Midland,"{""26111"": 100}",Midland,26111,False,False,America/Detroit,"(43.58394, -84.33648)",4.920420270022769,32374.0,43490_0_no,43.60664616205135,-84.2432812814871,5.0

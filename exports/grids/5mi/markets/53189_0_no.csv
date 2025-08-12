@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56761,48.60862,-95.69725,Wannaska,MN,Minnesota,True,,440.0,1.7,27135,Roseau,"{""27135"": 100}",Roseau,27135,False,False,America/Chicago,"(48.60862, -95.69725)",4.969188951481976,440.0,53189_0_no,48.53719151113516,-95.70993415999432,5.0

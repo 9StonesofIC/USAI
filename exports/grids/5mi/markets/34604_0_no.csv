@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45622,39.35905,-82.49522,Creola,OH,Ohio,True,,48.0,0.8,39163,Vinton,"{""39163"": 82.44, ""39073"": 17.56}",Vinton|Hocking,39163|39073,False,False,America/New_York,"(39.35905, -82.49522)",3.2363197573347002,48.0,34604_0_no,39.405886948568096,-82.49455502659347,5.0

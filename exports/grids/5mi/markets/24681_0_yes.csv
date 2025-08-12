@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86029,34.96834,-110.01175,Sun Valley,AZ,Arizona,True,,93.0,1.3,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(34.96834, -110.01175)",2.6250017698314263,93.0,24681_0_yes,35.00631875000692,-110.01297768468692,5.0

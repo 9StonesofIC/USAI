@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17729,41.49798,-77.74106,Cross Fork,PA,Pennsylvania,True,,72.0,0.3,42105,Potter,"{""42105"": 71.38, ""42035"": 28.62}",Potter|Clinton,42105|42035,False,False,America/New_York,"(41.49798, -77.74106)",1.1082938585755497,72.0,38962_0_yes,41.50185318899667,-77.76184341103534,5.0

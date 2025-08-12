@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31805,32.26621,-84.74612,Cusseta,GA,Georgia,True,,2790.0,15.9,13053,Chattahoochee,"{""13053"": 83.37, ""13259"": 16.63}",Chattahoochee|Stewart,13053|13259,False,False,America/New_York,"(32.26621, -84.74612)",2.801645985577383,2790.0,18395_0_no,32.30573137967219,-84.75684808967718,5.0

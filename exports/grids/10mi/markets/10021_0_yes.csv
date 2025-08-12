@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84028,41.93107,-111.38267,Garden City,UT,Utah,True,,573.0,4.5,49033,Rich,"{""49033"": 100}",Rich,49033,False,False,America/Denver,"(41.93107, -111.38267)",8.992063629956919,980.0,10021_0_yes,41.80838311713785,-111.4409778669866,10.0
+84038,41.87926,-111.29692,Laketown,UT,Utah,True,,407.0,2.4,49033,Rich,"{""49033"": 100}",Rich,49033,False,False,America/Denver,"(41.87926, -111.29692)",8.886156047037835,980.0,10021_0_yes,41.80838311713785,-111.4409778669866,10.0

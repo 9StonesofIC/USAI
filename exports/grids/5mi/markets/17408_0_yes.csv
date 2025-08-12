@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71366,31.95051,-91.35591,Saint Joseph,LA,Louisiana,True,,1460.0,3.8,22107,Tensas,"{""22107"": 100}",Tensas,22107,False,False,America/Chicago,"(31.95051, -91.35591)",3.6924353827113,1460.0,17408_0_yes,31.947524384500475,-91.29302664628906,5.0

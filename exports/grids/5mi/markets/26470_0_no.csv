@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27953,35.79298,-75.8685,Manns Harbor,NC,North Carolina,True,,801.0,1.2,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.79298, -75.8685)",4.924814783888487,801.0,26470_0_no,35.77859814691836,-75.78244125118255,5.0

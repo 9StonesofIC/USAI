@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28338,35.09644,-79.75506,Ellerbe,NC,North Carolina,True,,3895.0,10.2,37153,Richmond,"{""37153"": 100}",Richmond,37153,False,False,America/New_York,"(35.09644, -79.75506)",2.756029540089885,3895.0,24827_0_no,35.05685545179308,-79.74905489104859,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04925,45.21477,-69.90509,Caratunk,ME,Maine,True,,54.0,0.4,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(45.21477, -69.90509)",7.119110994463853,845.0,11702_0_yes,45.209014468683954,-70.05111848847747,10.0
+04961,45.16024,-70.1665,New Portland,ME,Maine,True,,791.0,0.8,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(45.16024, -70.1665)",6.552043388268862,845.0,11702_0_yes,45.209014468683954,-70.05111848847747,10.0

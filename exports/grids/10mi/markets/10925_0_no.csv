@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83639,43.36878,-116.92472,Marsing,ID,Idaho,True,,3519.0,5.5,16073,Owyhee,"{""16073"": 100}",Owyhee,16073,False,False,America/Boise,"(43.36878, -116.92472)",3.349308249375795,3519.0,10925_0_no,43.410967524818,-116.89186497463736,10.0

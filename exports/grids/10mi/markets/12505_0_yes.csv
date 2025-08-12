@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59039,46.68533,-107.28458,Ingomar,MT,Montana,True,,47.0,0.0,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver,"(46.68533, -107.28458)",2.8980712447359864,47.0,12505_0_yes,46.72298658692916,-107.31151972889288,10.0

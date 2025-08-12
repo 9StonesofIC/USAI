@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65534,37.70236,-92.27656,Laquey,MO,Missouri,True,,680.0,6.9,29169,Pulaski,"{""29169"": 78.94, ""29105"": 21.06}",Pulaski|Laclede,29169|29105,False,False,America/Chicago,"(37.70236, -92.27656)",3.5640035538019768,680.0,30841_0_yes,37.74744025590326,-92.3082559673345,5.0

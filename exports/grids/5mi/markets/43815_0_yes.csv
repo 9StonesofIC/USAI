@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48617,43.84695,-84.71717,Clare,MI,Michigan,True,,9382.0,26.3,26035,Clare,"{""26035"": 64.86, ""26073"": 35.14}",Clare|Isabella,26035|26073,False,False,America/Detroit,"(43.84695, -84.71717)",3.323758736788531,9382.0,43815_0_yes,43.82419313130812,-84.775925483946,5.0

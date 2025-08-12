@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67018,37.07108,-97.85872,Bluff City,KS,Kansas,True,,117.0,0.7,20077,Harper,"{""20077"": 91.98, ""20191"": 8.02}",Harper|Sumner,20077|20191,False,False,America/Chicago,"(37.07108, -97.85872)",3.0713376726048973,117.0,29246_0_yes,37.02706306494615,-97.86649289327195,5.0

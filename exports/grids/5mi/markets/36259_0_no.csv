@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68970,40.10157,-98.52292,Red Cloud,NE,Nebraska,True,,1411.0,3.6,31181,Webster,"{""31181"": 100}",Webster,31181,False,False,America/Chicago,"(40.10157, -98.52292)",3.7849438844401204,1411.0,36259_0_no,40.143128350074456,-98.47624653025844,5.0

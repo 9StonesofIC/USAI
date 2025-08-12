@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75413,33.43596,-96.16477,Bailey,TX,Texas,True,,287.0,438.7,48147,Fannin,"{""48147"": 100}",Fannin,48147,False,False,America/Chicago,"(33.43596, -96.16477)",4.136867420346912,3737.0,20880_0_yes,33.40115400230558,-96.10640273032394,5.0
+75496,33.36276,-96.06616,Wolfe City,TX,Texas,True,,3450.0,11.4,48231,Hunt,"{""48231"": 59.08, ""48147"": 40.92}",Hunt|Fannin,48231|48147,False,False,America/Chicago,"(33.36276, -96.06616)",3.5253197501221494,3737.0,20880_0_yes,33.40115400230558,-96.10640273032394,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70041,29.33194,-89.46978,Buras,LA,Louisiana,True,,2554.0,32.3,22075,Plaquemines,"{""22075"": 100}",Plaquemines,22075,False,False,America/Chicago,"(29.33194, -89.46978)",3.9960365167620444,2667.0,11063_0_yes,29.335146199940706,-89.53601936980404,5.0
+70050,29.38351,-89.59601,Empire,LA,Louisiana,True,,113.0,119.1,22075,Plaquemines,"{""22075"": 100}",Plaquemines,22075,False,False,America/Chicago,"(29.38351, -89.59601)",4.921099062533943,2667.0,11063_0_yes,29.335146199940706,-89.53601936980404,5.0

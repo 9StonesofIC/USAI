@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34773,28.14695,-80.99968,Saint Cloud,FL,Florida,True,,3883.0,4.9,12097,Osceola,"{""12097"": 100}",Osceola,12097,False,False,America/New_York,"(28.14695, -80.99968)",4.96199102267858,3883.0,8141_0_yes,28.169235265787805,-81.07711500954063,5.0

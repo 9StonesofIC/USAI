@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75148,32.12491,-96.01173,Malakoff,TX,Texas,True,,6396.0,27.8,48213,Henderson,"{""48213"": 100}",Henderson,48213,False,False,America/Chicago,"(32.12491, -96.01173)",2.0179401338762384,6396.0,17783_0_yes,32.09574270275704,-96.0135037706409,5.0

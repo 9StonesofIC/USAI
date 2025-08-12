@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67543,37.88346,-97.79511,Haven,KS,Kansas,True,,2126.0,9.6,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago,"(37.88346, -97.79511)",5.51988501368224,2126.0,31174_0_no,37.82424740438054,-97.8630338649722,5.0

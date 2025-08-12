@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31642,31.25989,-82.88273,Pearson,GA,Georgia,True,,4676.0,9.3,13003,Atkinson,"{""13003"": 82.95, ""13065"": 17.05}",Atkinson|Clinch,13003|13065,False,False,America/New_York,"(31.25989, -82.88273)",3.839472759701393,4676.0,15953_0_no,31.289258572137584,-82.8275350818908,5.0

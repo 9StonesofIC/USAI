@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56023,43.77224,-94.01402,Delavan,MN,Minnesota,True,,551.0,3.7,27043,Faribault,"{""27043"": 100}",Faribault,27043,False,False,America/Chicago,"(43.77224, -94.01402)",4.492291482140129,551.0,43861_0_yes,43.83224907403908,-93.97934776470156,5.0

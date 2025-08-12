@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62565,39.41334,-88.8026,Shelbyville,IL,Illinois,True,,7162.0,21.8,17173,Shelby,"{""17173"": 100}",Shelby,17173,False,False,America/Chicago,"(39.41334, -88.8026)",6.723522314633115,7162.0,34660_0_yes,39.48341289818787,-88.89004064689938,5.0

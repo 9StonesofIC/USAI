@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42206,36.88221,-86.72302,Auburn,KY,Kentucky,True,,6094.0,20.7,21141,Logan,"{""21141"": 86.31, ""21213"": 12.58, ""21227"": 1.11}",Logan|Simpson|Warren,21141|21213|21227,False,False,America/Chicago,"(36.88221, -86.72302)",5.7941276503003305,6094.0,29165_0_no,36.94620383290936,-86.79080399741282,5.0

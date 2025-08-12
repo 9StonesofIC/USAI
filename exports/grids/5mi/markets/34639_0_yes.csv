@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47012,39.41892,-84.97944,Brookville,IN,Indiana,True,,9554.0,22.3,18047,Franklin,"{""18047"": 95.38, ""18029"": 4.62}",Franklin|Dearborn,18047|18029,False,False,America/Indiana/Indianapolis,"(39.41892, -84.97944)",4.340018115744944,9554.0,34639_0_yes,39.480253462549214,-84.96188407381655,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66064,38.47829,-94.98688,Osawatomie,KS,Kansas,True,,6026.0,31.5,20121,Miami,"{""20121"": 96.52, ""20059"": 3.48}",Miami|Franklin,20121|20059,False,False,America/Chicago,"(38.47829, -94.98688)",2.861346272001816,6026.0,32465_0_yes,38.47403480759809,-94.9342612004526,5.0

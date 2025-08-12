@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59464,46.87409,-109.60589,Moore,MT,Montana,True,,418.0,0.7,30027,Fergus,"{""30027"": 94.58, ""30045"": 5.42}",Fergus|Judith Basin,30027|30045,False,False,America/Denver,"(46.87409, -109.60589)",5.661258120526009,418.0,49950_0_no,46.8137145796974,-109.52490495715035,5.0

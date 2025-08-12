@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74931,35.69226,-94.76459,Bunch,OK,Oklahoma,True,,1296.0,5.5,40001,Adair,"{""40001"": 67.68, ""40021"": 25.2, ""40135"": 7.12}",Adair|Cherokee|Sequoyah,40001|40021|40135,False,False,America/Chicago,"(35.69226, -94.76459)",4.492237446263286,1296.0,26245_0_no,35.64763708618532,-94.70638363246329,5.0

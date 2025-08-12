@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93312,35.39186,-119.11954,Bakersfield,CA,California,True,,59200.0,1612.9,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(35.39186, -119.11954)",4.249109161579146,90005.0,25735_0_yes,35.44808312645528,-119.15011852200658,5.0
+93314,35.385,-119.23741,Bakersfield,CA,California,True,,30805.0,133.7,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(35.385, -119.23741)",6.569418832462349,90005.0,25735_0_yes,35.44808312645528,-119.15011852200658,5.0

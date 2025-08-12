@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77511,29.38638,-95.23769,Alvin,TX,Texas,True,,50140.0,129.0,48039,Brazoria,"{""48039"": 86.65, ""48167"": 13.35}",Brazoria|Galveston,48039|48167,False,False,America/Chicago,"(29.38638, -95.23769)",1.7275835166121623,50140.0,11444_0_no,29.41126696169249,-95.23492126571688,5.0

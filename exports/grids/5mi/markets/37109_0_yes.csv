@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17004,40.59966,-77.73278,Belleville,PA,Pennsylvania,True,,5016.0,38.0,42087,Mifflin,"{""42087"": 100}",Mifflin,42087,False,False,America/New_York,"(40.59966, -77.73278)",4.6328495215323615,5016.0,37109_0_yes,40.63309214574262,-77.8093495072064,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49247,41.84712,-84.34189,Hudson,MI,Michigan,True,,5647.0,25.9,26091,Lenawee,"{""26091"": 63.95, ""26059"": 36.05}",Lenawee|Hillsdale,26091|26059,False,False,America/Detroit,"(41.84712, -84.34189)",3.555328704267141,5647.0,39608_0_yes,41.79695810767285,-84.32649683029622,5.0

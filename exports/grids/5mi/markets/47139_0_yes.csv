@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59041,45.50239,-108.9663,Joliet,MT,Montana,True,,1971.0,4.0,30009,Carbon,"{""30009"": 97.36, ""30111"": 2.64}",Carbon|Yellowstone,30009|30111,False,False,America/Denver,"(45.50239, -108.9663)",4.4836027945216355,1971.0,47139_0_yes,45.438013335201376,-108.9546626232248,5.0

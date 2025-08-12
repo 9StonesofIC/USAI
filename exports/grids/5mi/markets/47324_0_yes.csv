@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54156,45.60099,-87.93963,Pembine,WI,Wisconsin,True,,1414.0,5.5,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago,"(45.60099, -87.93963)",3.7399435695861563,1414.0,47324_0_yes,45.56376370347196,-87.88348431324344,5.0

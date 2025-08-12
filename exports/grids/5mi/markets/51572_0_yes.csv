@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56683,47.72124,-94.7512,Tenstrike,MN,Minnesota,True,,658.0,4.4,27007,Beltrami,"{""27007"": 100}",Beltrami,27007,False,False,America/Chicago,"(47.72124, -94.7512)",1.5159764621750533,658.0,51572_0_yes,47.740530959458994,-94.73565915225868,5.0

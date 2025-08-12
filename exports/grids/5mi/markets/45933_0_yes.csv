@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57469,44.85858,-98.57535,Redfield,SD,South Dakota,True,,3281.0,4.2,46115,Spink,"{""46115"": 77.12, ""46059"": 16.92, ""46049"": 5.96}",Spink|Hand|Faulk,46115|46059|46049,False,False,America/Chicago,"(44.85858, -98.57535)",2.3330945492347444,3281.0,45933_0_yes,44.84962437601931,-98.52942282495276,5.0

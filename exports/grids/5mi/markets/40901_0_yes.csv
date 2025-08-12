@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68714,42.36957,-99.50258,Bassett,NE,Nebraska,True,,1276.0,0.6,31149,Rock,"{""31149"": 86.25, ""31115"": 11.65, ""31017"": 2.1}",Rock|Loup|Brown,31149|31115|31017,False,False,America/Chicago,"(42.36957, -99.50258)",4.577205722071831,1276.0,40901_0_yes,42.38913155632281,-99.588261342095,5.0

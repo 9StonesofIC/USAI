@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54161,45.12449,-88.15696,Pound,WI,Wisconsin,True,,2564.0,7.9,55083,Oconto,"{""55083"": 52.34, ""55075"": 47.66}",Oconto|Marinette,55083|55075,False,False,America/Chicago,"(45.12449, -88.15696)",0.5870590008837846,2564.0,46462_0_yes,45.129851191322665,-88.1663027556132,5.0

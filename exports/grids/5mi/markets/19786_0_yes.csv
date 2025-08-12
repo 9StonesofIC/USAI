@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31830,32.8951,-84.72689,Warm Springs,GA,Georgia,True,,2354.0,16.6,13199,Meriwether,"{""13199"": 90.2, ""13145"": 9.8}",Meriwether|Harris,13199|13145,False,False,America/New_York,"(32.8951, -84.72689)",4.407516539634563,2354.0,19786_0_yes,32.95821884122099,-84.71588906838889,5.0

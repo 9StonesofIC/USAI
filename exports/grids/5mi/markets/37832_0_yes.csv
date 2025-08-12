@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68460,40.89596,-97.43169,Waco,NE,Nebraska,True,,638.0,2.3,31185,York,"{""31185"": 96.79, ""31159"": 3.21}",York|Seward,31185|31159,False,False,America/Chicago,"(40.89596, -97.43169)",3.7743054172116515,638.0,37832_0_yes,40.93900056789938,-97.47620525235476,5.0

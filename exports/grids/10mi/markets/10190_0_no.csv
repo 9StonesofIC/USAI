@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96050,41.85389,-122.95689,Klamath River,CA,California,True,,414.0,0.6,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.85389, -122.95689)",8.738293106663969,414.0,10190_0_no,41.972770632164426,-122.8988999802918,10.0

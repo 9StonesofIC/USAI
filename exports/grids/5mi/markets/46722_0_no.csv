@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54159,45.20027,-87.82682,Porterfield,WI,Wisconsin,True,,1142.0,6.1,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago,"(45.20027, -87.82682)",0.4191207365590673,1142.0,46722_0_no,45.20196783740072,-87.83508480277808,5.0

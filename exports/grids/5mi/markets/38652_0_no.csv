@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44049,41.26626,-82.30553,Kipton,OH,Ohio,True,,196.0,217.2,39093,Lorain,"{""39093"": 100}",Lorain,39093,False,False,America/New_York,"(41.26626, -82.30553)",2.9105466551397807,11858.0,38652_0_no,41.28846131113736,-82.25789424564208,5.0
+44074,41.28858,-82.23643,Oberlin,OH,Ohio,True,,11662.0,88.4,39093,Lorain,"{""39093"": 100}",Lorain,39093,False,False,America/New_York,"(41.28858, -82.23643)",1.1143796016213985,11858.0,38652_0_no,41.28846131113736,-82.25789424564208,5.0

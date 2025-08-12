@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30525,34.91289,-83.35853,Clayton,GA,Georgia,True,,7515.0,14.7,13241,Rabun,"{""13241"": 98.06, ""13281"": 1.94}",Rabun|Towns,13241|13281,False,False,America/New_York,"(34.91289, -83.35853)",6.216942831939482,7515.0,24194_0_yes,34.84196142667051,-83.29104231911067,5.0

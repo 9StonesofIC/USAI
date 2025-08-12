@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31744,31.33709,-83.90646,Doerun,GA,Georgia,True,,2763.0,8.8,13321,Worth,"{""13321"": 54.05, ""13071"": 42.8, ""13205"": 3.15}",Worth|Colquitt|Mitchell,13321|13071|13205,False,False,America/New_York,"(31.33709, -83.90646)",2.0074239571421333,2763.0,15971_0_yes,31.36244464149608,-83.88984804035331,5.0

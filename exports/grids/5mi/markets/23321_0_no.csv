@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85934,34.30251,-110.24432,Pinedale,AZ,Arizona,True,,405.0,2.6,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(34.30251, -110.24432)",3.7094722489057332,405.0,23321_0_no,34.35386323010861,-110.2253575209378,5.0

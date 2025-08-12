@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30560,34.87785,-84.19528,Morganton,GA,Georgia,True,,4544.0,24.6,13111,Fannin,"{""13111"": 89.19, ""13291"": 10.81}",Fannin|Union,13111|13291,False,False,America/New_York,"(34.87785, -84.19528)",2.8027765701606273,4544.0,24199_0_yes,34.84259773856868,-84.1708209200358,5.0

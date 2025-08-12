@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81044,37.90328,-102.93628,Hasty,CO,Colorado,True,,193.0,0.2,8011,Bent,"{""08011"": 100}",Bent,08011,False,False,America/Denver,"(37.90328, -102.93628)",9.297175151625416,516.0,7955_0_yes,38.02844434205831,-102.99893759988296,10.0
+81057,38.12525,-102.89675,McClave,CO,Colorado,True,,323.0,2.6,8011,Bent,"{""08011"": 100}",Bent,08011,False,False,America/Denver,"(38.12525, -102.89675)",8.696443735728907,516.0,7955_0_yes,38.02844434205831,-102.99893759988296,10.0

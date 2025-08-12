@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53959,43.53407,-89.99702,Reedsburg,WI,Wisconsin,True,,13717.0,47.5,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago,"(43.53407, -89.99702)",2.5442418014665327,13717.0,43249_0_yes,43.53918595415868,-89.9467173684782,5.0

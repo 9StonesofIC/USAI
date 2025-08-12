@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78389,28.244,-97.66619,Skidmore,TX,Texas,True,,1984.0,6.2,48025,Bee,"{""48025"": 100}",Bee,48025,False,False,America/Chicago,"(28.244, -97.66619)",5.024295683026231,1984.0,8242_0_yes,28.17913896585223,-97.628881444038,5.0

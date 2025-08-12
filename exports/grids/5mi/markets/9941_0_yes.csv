@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32736,28.89831,-81.49317,Eustis,FL,Florida,True,,11229.0,39.7,12069,Lake,"{""12069"": 100}",Lake,12069,False,False,America/New_York,"(28.89831, -81.49317)",3.525120443820503,11229.0,9941_0_yes,28.894889293910584,-81.43502583184502,5.0

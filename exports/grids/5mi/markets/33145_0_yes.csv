@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80810,38.82589,-102.4454,Cheyenne Wells,CO,Colorado,True,,1171.0,0.8,8017,Cheyenne,"{""08017"": 100}",Cheyenne,08017,False,False,America/Denver,"(38.82589, -102.4454)",4.4450400843273865,1171.0,33145_0_yes,38.76975294239094,-102.40507988857608,5.0

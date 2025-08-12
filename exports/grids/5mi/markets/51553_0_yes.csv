@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55612,47.77937,-90.70401,Lutsen,MN,Minnesota,True,,483.0,1.1,27031,Cook,"{""27031"": 100}",Cook,27031,False,False,America/Chicago,"(47.77937, -90.70401)",3.6201621648589364,483.0,51553_0_yes,47.736719744742025,-90.65873944484328,5.0

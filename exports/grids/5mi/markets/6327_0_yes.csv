@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34949,27.4668,-80.30417,Fort Pierce,FL,Florida,True,,7740.0,318.4,12111,St. Lucie,"{""12111"": 100}",St. Lucie,12111,False,False,America/New_York,"(27.4668, -80.30417)",4.906565191191538,7740.0,6327_0_yes,27.44323219552366,-80.22867906812567,5.0

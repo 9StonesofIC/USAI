@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24527,36.7324,-79.34577,Blairs,VA,Virginia,True,,3141.0,39.2,51143,Pittsylvania,"{""51143"": 100}",Pittsylvania,51143,False,False,America/New_York,"(36.7324, -79.34577)",5.376407291071434,4401.0,28796_0_no,36.795596485955365,-79.28909845853647,5.0
+24566,36.72747,-79.25069,Keeling,VA,Virginia,True,,1260.0,13.1,51143,Pittsylvania,"{""51143"": 100}",Pittsylvania,51143,False,False,America/New_York,"(36.72747, -79.25069)",5.164948653284305,4401.0,28796_0_no,36.795596485955365,-79.28909845853647,5.0

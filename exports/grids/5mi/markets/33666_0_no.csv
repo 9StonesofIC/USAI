@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41005,39.00709,-84.76541,Burlington,KY,Kentucky,True,,24926.0,183.8,21015,Boone,"{""21015"": 100}",Boone,21015,False,False,America/New_York,"(39.00709, -84.76541)",2.9260814672957522,46495.0,33666_0_no,38.97315217773195,-84.79800179878822,5.0
+41091,38.92056,-84.7379,Union,KY,Kentucky,True,,21569.0,148.3,21015,Boone,"{""21015"": 100}",Boone,21015,False,False,America/New_York,"(38.92056, -84.7379)",4.861564563926777,46495.0,33666_0_no,38.97315217773195,-84.79800179878822,5.0

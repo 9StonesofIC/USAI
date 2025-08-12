@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59834,47.06979,-114.2221,Frenchtown,MT,Montana,True,,2161.0,12.5,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver,"(47.06979, -114.2221)",5.214642879878362,2161.0,50530_0_no,47.10761186391248,-114.31802416536944,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74761,34.00938,-95.20134,Swink,OK,Oklahoma,True,,70.0,18.6,40023,Choctaw,"{""40023"": 100}",Choctaw,40023,False,False,America/Chicago,"(34.00938, -95.20134)",2.134881245998102,70.0,22236_0_yes,33.98059356291705,-95.21488201381388,5.0

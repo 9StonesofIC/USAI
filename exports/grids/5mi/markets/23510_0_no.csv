@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30148,34.46009,-84.2648,Marble Hill,GA,Georgia,True,,637.0,24.9,13085,Dawson,"{""13085"": 54.36, ""13227"": 45.64}",Dawson|Pickens,13085|13227,False,False,America/New_York,"(34.46009, -84.2648)",1.412811634145396,637.0,23510_0_no,34.48029339357396,-84.26862371681193,5.0

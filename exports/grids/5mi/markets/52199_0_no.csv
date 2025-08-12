@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99009,48.0253,-117.24993,Elk,WA,Washington,True,,4423.0,21.1,53063,Spokane,"{""53063"": 65.59, ""53051"": 34.41}",Spokane|Pend Oreille,53063|53051,False,False,America/Los_Angeles,"(48.0253, -117.24993)",5.286040067291139,4423.0,52199_0_no,47.97863722906138,-117.15931998215984,5.0

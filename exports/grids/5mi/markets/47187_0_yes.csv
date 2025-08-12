@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97868,45.40815,-118.86964,Pilot Rock,OR,Oregon,True,,1718.0,1.6,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles,"(45.40815, -118.86964)",3.3468391124156907,1718.0,47187_0_yes,45.446903546483455,-118.82823165387173,5.0

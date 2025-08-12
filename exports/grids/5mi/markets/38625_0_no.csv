@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17728,41.32546,-77.08215,Cogan Station,PA,Pennsylvania,True,,4636.0,39.4,42081,Lycoming,"{""42081"": 100}",Lycoming,42081,False,False,America/New_York,"(41.32546, -77.08215)",2.9154720941789467,7517.0,38625_0_no,41.28413326629832,-77.07080666676607,5.0
+17744,41.24397,-77.16139,Linden,PA,Pennsylvania,True,,2881.0,49.4,42081,Lycoming,"{""42081"": 100}",Lycoming,42081,False,False,America/New_York,"(41.24397, -77.16139)",5.461994398099411,7517.0,38625_0_no,41.28413326629832,-77.07080666676607,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04011,43.90068,-69.97607,Brunswick,ME,Maine,True,,20565.0,169.8,23005,Cumberland,"{""23005"": 100}",Cumberland,23005,False,False,America/New_York,"(43.90068, -69.97607)",2.7929247914391477,29082.0,44010_0_no,43.88369247146547,-70.026968336039,5.0
+04032,43.85561,-70.10085,Freeport,ME,Maine,True,,8517.0,94.7,23005,Cumberland,"{""23005"": 100}",Cumberland,23005,False,False,America/New_York,"(43.85561, -70.10085)",4.160281071722234,29082.0,44010_0_no,43.88369247146547,-70.026968336039,5.0

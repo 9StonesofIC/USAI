@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84735,37.64627,-112.44997,Hatch,UT,Utah,True,,171.0,0.5,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver,"(37.64627, -112.44997)",10.279818963542555,171.0,7820_0_yes,37.75352313657628,-112.58029323940166,10.0

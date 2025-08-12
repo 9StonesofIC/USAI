@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52155,43.41412,-92.29683,Lime Springs,IA,Iowa,True,,1608.0,6.0,19089,Howard,"{""19089"": 100}",Howard,19089,False,False,America/Chicago,"(43.41412, -92.29683)",4.266632149481282,1608.0,42963_0_yes,43.39638446456095,-92.21541362174098,5.0

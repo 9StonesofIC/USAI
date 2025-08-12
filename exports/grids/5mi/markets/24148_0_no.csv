@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28458,34.81886,-78.07895,Rose Hill,NC,North Carolina,True,,6357.0,21.5,37061,Duplin,"{""37061"": 69.65, ""37163"": 30.35}",Duplin|Sampson,37061|37163,False,False,America/New_York,"(34.81886, -78.07895)",5.438272447437396,6357.0,24148_0_no,34.765806797931155,-78.1497487443964,5.0

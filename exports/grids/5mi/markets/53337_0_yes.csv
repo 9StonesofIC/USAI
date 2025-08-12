@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98220,48.68526,-122.19678,Acme,WA,Washington,True,,839.0,16.0,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.68526, -122.19678)",3.8586271089216218,839.0,53337_0_yes,48.63453524187474,-122.16140966877862,5.0

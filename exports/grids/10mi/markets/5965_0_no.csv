@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79027,34.49238,-102.3378,Dimmitt,TX,Texas,True,,4873.0,5.4,48069,Castro,"{""48069"": 99.26, ""48279"": 0.74}",Castro|Lamb,48069|48279,False,False,America/Chicago,"(34.49238, -102.3378)",8.086072805937208,4946.0,5965_0_no,34.40476450825419,-102.43188690576282,10.0
+79053,34.40284,-102.59106,Lazbuddie,TX,Texas,True,,73.0,1.9,48369,Parmer,"{""48369"": 100}",Parmer,48369,False,False,America/Chicago,"(34.40284, -102.59106)",9.075005138019936,4946.0,5965_0_no,34.40476450825419,-102.43188690576282,10.0

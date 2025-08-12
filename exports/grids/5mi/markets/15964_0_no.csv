@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39841,31.29031,-84.69124,Damascus,GA,Georgia,True,,671.0,3.6,13099,Early,"{""13099"": 70.88, ""13007"": 17.44, ""13201"": 11.68}",Early|Baker|Miller,13099|13007|13201,False,False,America/New_York,"(31.29031, -84.69124)",0.26274702153591867,671.0,15964_0_no,31.290481724310848,-84.68679448109025,5.0

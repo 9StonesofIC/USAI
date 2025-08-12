@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76955,31.29919,-100.1389,Vancourt,TX,Texas,True,,141.0,0.8,48451,Tom Green,"{""48451"": 74.13, ""48095"": 25.87}",Tom Green|Concho,48451|48095,False,False,America/Chicago,"(31.29919, -100.1389)",4.136056979143739,141.0,16055_0_no,31.300602773794346,-100.06886143570864,5.0

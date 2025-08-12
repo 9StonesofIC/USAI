@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60945,40.8315,-87.59236,Iroquois,IL,Illinois,True,,285.0,47.0,17075,Iroquois,"{""17075"": 100}",Iroquois,17075,False,False,America/Chicago,"(40.8315, -87.59236)",3.480482989552786,1760.0,37471_0_yes,40.78600577674205,-87.62093472295935,5.0
+60966,40.75144,-87.58321,Sheldon,IL,Illinois,True,,1475.0,9.5,17075,Iroquois,"{""17075"": 100}",Iroquois,17075,False,False,America/Chicago,"(40.75144, -87.58321)",3.098505181772027,1760.0,37471_0_yes,40.78600577674205,-87.62093472295935,5.0

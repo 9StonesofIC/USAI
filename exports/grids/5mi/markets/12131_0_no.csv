@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70392,29.69847,-91.32164,Patterson,LA,Louisiana,True,,8447.0,88.7,22101,St. Mary,"{""22101"": 100}",St. Mary,22101,False,False,America/Chicago,"(29.69847, -91.32164)",0.20967838442568007,8447.0,12131_0_no,29.69902420255252,-91.32507487140208,5.0

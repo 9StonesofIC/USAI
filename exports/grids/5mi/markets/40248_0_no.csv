@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51439,42.08298,-95.58347,Charter Oak,IA,Iowa,True,,943.0,4.2,19047,Crawford,"{""19047"": 100}",Crawford,19047,False,False,America/Chicago,"(42.08298, -95.58347)",4.133044141641389,943.0,40248_0_no,42.0237164122648,-95.57252515752192,5.0

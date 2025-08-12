@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43357,40.25316,-83.74711,West Liberty,OH,Ohio,True,,4123.0,23.4,39091,Logan,"{""39091"": 56.26, ""39021"": 43.74}",Logan|Champaign,39091|39021,False,False,America/New_York,"(40.25316, -83.74711)",3.908637831133828,4123.0,36205_0_yes,40.20352248963646,-83.78265165720431,5.0

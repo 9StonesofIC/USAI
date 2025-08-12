@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23310,37.26407,-75.95676,Cape Charles,VA,Virginia,True,,4176.0,24.8,51131,Northampton,"{""51131"": 100}",Northampton,51131,False,False,America/New_York,"(37.26407, -75.95676)",2.755553928305921,4954.0,29777_0_yes,37.30015838180527,-75.97809507164614,5.0
+23347,37.36026,-75.96798,Eastville,VA,Virginia,True,,778.0,28.2,51131,Northampton,"{""51131"": 100}",Northampton,51131,False,False,America/New_York,"(37.36026, -75.96798)",4.189645671534093,4954.0,29777_0_yes,37.30015838180527,-75.97809507164614,5.0

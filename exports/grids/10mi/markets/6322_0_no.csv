@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86025,34.90484,-110.08557,Holbrook,AZ,Arizona,True,,5607.0,2.9,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(34.90484, -110.08557)",6.995105496773934,5700.0,6322_0_no,34.99560852625685,-110.03086039321836,10.0
+86029,34.96834,-110.01175,Sun Valley,AZ,Arizona,True,,93.0,1.3,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(34.96834, -110.01175)",2.172587742214838,5700.0,6322_0_no,34.99560852625685,-110.03086039321836,10.0

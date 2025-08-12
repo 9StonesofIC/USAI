@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14012,43.33431,-78.52572,Barker,NY,New York,True,,2374.0,27.3,36063,Niagara,"{""36063"": 95.57, ""36073"": 4.43}",Niagara|Orleans,36063|36073,False,False,America/New_York,"(43.33431, -78.52572)",2.5327089878497655,2374.0,42867_0_no,43.31213540066844,-78.48559799179588,5.0

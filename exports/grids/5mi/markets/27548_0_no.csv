@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72434,36.21847,-91.16025,Imboden,AR,Arkansas,True,,2080.0,9.3,5121,Randolph,"{""05121"": 68.13, ""05075"": 31.87}",Randolph|Lawrence,05121|05075,False,False,America/Chicago,"(36.21847, -91.16025)",4.288455617198422,2080.0,27548_0_no,36.22477813550059,-91.08371194451526,5.0

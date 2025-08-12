@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28338,35.09644,-79.75506,Ellerbe,NC,North Carolina,True,,3895.0,10.2,37153,Richmond,"{""37153"": 100}",Richmond,37153,False,False,America/New_York,"(35.09644, -79.75506)",2.9637674271802763,4067.0,24845_0_yes,35.129319096237246,-79.78873775779203,5.0
+28367,35.16982,-79.72325,Norman,NC,North Carolina,True,,172.0,119.1,37153,Richmond,"{""37153"": 100}",Richmond,37153,False,False,America/New_York,"(35.16982, -79.72325)",4.638797304439831,4067.0,24845_0_yes,35.129319096237246,-79.78873775779203,5.0

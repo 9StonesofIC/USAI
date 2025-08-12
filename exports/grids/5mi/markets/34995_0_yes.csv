@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65247,39.63502,-92.47296,Excello,MO,Missouri,True,,897.0,8.1,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago,"(39.63502, -92.47296)",4.844099849259993,897.0,34995_0_yes,39.63123974585836,-92.56386168854289,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77580,29.85706,-94.88081,Mont Belvieu,TX,Texas,True,,999.0,258.8,48071,Chambers,"{""48071"": 100}",Chambers,48071,False,False,America/Chicago,"(29.85706, -94.88081)",5.183488710919558,999.0,12518_0_yes,29.91884544095821,-94.8317290738508,5.0

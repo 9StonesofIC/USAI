@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63965,36.97391,-91.02294,Van Buren,MO,Missouri,True,,2877.0,4.9,29035,Carter,"{""29035"": 97.18, ""29179"": 2.82}",Carter|Reynolds,29035|29179,False,False,America/Chicago,"(36.97391, -91.02294)",3.6795864096908755,2877.0,29208_0_yes,37.02182594113121,-90.9938388840462,5.0

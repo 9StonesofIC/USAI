@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48427,43.53789,-82.72378,Deckerville,MI,Michigan,True,,2762.0,11.0,26151,Sanilac,"{""26151"": 100}",Sanilac,26151,False,False,America/Detroit,"(43.53789, -82.72378)",2.782299363234628,2762.0,43213_0_yes,43.53294491309872,-82.77890648170222,5.0

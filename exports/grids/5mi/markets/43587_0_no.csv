@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57773,43.59443,-103.59246,Pringle,SD,South Dakota,True,,254.0,16.4,46033,Custer,"{""46033"": 100}",Custer,46033,False,False,America/Denver,"(43.59443, -103.59246)",2.078481459613987,254.0,43587_0_no,43.62350848938436,-103.5818175377065,5.0

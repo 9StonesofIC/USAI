@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97539,42.59999,-122.79024,Shady Cove,OR,Oregon,True,,3296.0,58.3,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.59999, -122.79024)",2.3051812740836617,3296.0,41596_0_no,42.62624259846103,-122.7622635856552,5.0

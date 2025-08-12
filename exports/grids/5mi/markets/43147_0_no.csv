@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13338,43.49706,-74.97833,Forestport,NY,New York,True,,1263.0,2.1,36043,Herkimer,"{""36043"": 76.74, ""36065"": 23.26}",Herkimer|Oneida,36043|36065,False,False,America/New_York,"(43.49706, -74.97833)",3.0952832359596165,1263.0,43147_0_no,43.45384761939933,-74.99461174347591,5.0

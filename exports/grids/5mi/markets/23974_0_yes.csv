@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88427,34.78172,-103.76417,Mcalister,NM,New Mexico,True,,132.0,0.2,35037,Quay,"{""35037"": 100}",Quay,35037,False,False,America/Denver,"(34.78172, -103.76417)",5.012236348564275,132.0,23974_0_yes,34.71174185807872,-103.7409019739291,5.0

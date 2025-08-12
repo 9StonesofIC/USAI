@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45631,38.81672,-82.25486,Gallipolis,OH,Ohio,True,,14166.0,47.7,39053,Gallia,"{""39053"": 100}",Gallia,39053,False,False,America/New_York,"(38.81672, -82.25486)",1.7460229493747887,14166.0,33334_0_no,38.826290487011285,-82.28487925056666,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72074,35.06919,-91.10538,Hunter,AR,Arkansas,True,,119.0,4.1,5147,Woodruff,"{""05147"": 100}",Woodruff,05147,False,False,America/Chicago,"(35.06919, -91.10538)",4.804290051177929,119.0,24909_0_yes,35.13755194348783,-91.0898455712965,5.0

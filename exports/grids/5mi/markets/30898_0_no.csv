@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81132,37.71656,-106.41009,Del Norte,CO,Colorado,True,,3231.0,1.8,8105,Rio Grande,"{""08105"": 51.25, ""08109"": 48.75}",Rio Grande|Saguache,08105|08109,False,False,America/Denver,"(37.71656, -106.41009)",4.887512377419471,3231.0,30898_0_no,37.68599266209263,-106.490716352674,5.0

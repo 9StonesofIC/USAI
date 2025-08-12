@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98552,47.3136,-123.9444,Humptulips,WA,Washington,True,,526.0,2.7,53027,Grays Harbor,"{""53027"": 100}",Grays Harbor,53027,False,False,America/Los_Angeles,"(47.3136, -123.9444)",5.463908200772588,526.0,50853_0_no,47.26119709732324,-123.8570890605546,5.0

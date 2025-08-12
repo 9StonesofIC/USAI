@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59053,46.45713,-110.43492,Martinsdale,MT,Montana,True,,370.0,0.3,30059,Meagher,"{""30059"": 96.81, ""30107"": 3.19}",Meagher|Wheatland,30059|30107,False,False,America/Denver,"(46.45713, -110.43492)",10.584444117729971,370.0,12499_0_no,46.58445924900664,-110.55870253539052,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13326,42.71865,-74.90374,Cooperstown,NY,New York,True,,5165.0,21.7,36077,Otsego,"{""36077"": 100}",Otsego,36077,False,False,America/New_York,"(42.71865, -74.90374)",4.443232077006297,6379.0,41379_0_yes,42.65763802306572,-74.9313876767654,5.0
+13807,42.61718,-74.98612,Milford,NY,New York,True,,1214.0,21.8,36077,Otsego,"{""36077"": 100}",Otsego,36077,False,False,America/New_York,"(42.61718, -74.98612)",3.943805890163905,6379.0,41379_0_yes,42.65763802306572,-74.9313876767654,5.0

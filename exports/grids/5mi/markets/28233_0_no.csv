@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74001,36.48857,-96.0625,Avant,OK,Oklahoma,True,,373.0,228.4,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago,"(36.48857, -96.0625)",4.5895614884842155,2687.0,28233_0_no,36.51835863393651,-95.98863836375315,5.0
+74061,36.53814,-95.89974,Ramona,OK,Oklahoma,True,,2314.0,9.9,40147,Washington,"{""40147"": 100}",Washington,40147,False,False,America/Chicago,"(36.53814, -95.89974)",5.121463010774539,2687.0,28233_0_no,36.51835863393651,-95.98863836375315,5.0

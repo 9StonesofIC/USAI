@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29666,34.12345,-81.99121,Ninety Six,SC,South Carolina,True,,6436.0,20.3,45047,Greenwood,"{""45047"": 94.64, ""45081"": 5.36}",Greenwood|Saluda,45047|45081,False,False,America/New_York,"(34.12345, -81.99121)",4.895075854658652,6436.0,22499_0_yes,34.116148594040425,-81.90608762082847,5.0

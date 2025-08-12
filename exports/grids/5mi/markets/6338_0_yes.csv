@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33865,27.42944,-81.96262,Ona,FL,Florida,True,,1130.0,2.6,12049,Hardee,"{""12049"": 97.04, ""12027"": 2.96}",Hardee|DeSoto,12049|12027,False,False,America/New_York,"(27.42944, -81.96262)",3.6254769406194445,1130.0,6338_0_yes,27.44427814828559,-82.01932910604889,5.0

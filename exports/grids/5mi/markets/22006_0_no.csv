@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92583,33.79662,-116.93188,San Jacinto,CA,California,True,,32077.0,425.0,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.79662, -116.93188)",1.2839623359108496,32077.0,22006_0_no,33.77839361853674,-116.92752067767992,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88260,32.98698,-103.39801,Lovington,NM,New Mexico,True,,14836.0,7.0,35025,Lea,"{""35025"": 100}",Lea,35025,False,False,America/Denver,"(32.98698, -103.39801)",4.0257932619676335,14836.0,20223_0_no,33.04364045349462,-103.3818106438862,5.0

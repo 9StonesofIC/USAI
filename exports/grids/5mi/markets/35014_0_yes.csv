@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66415,39.69193,-96.14381,Centralia,KS,Kansas,True,,829.0,3.5,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago,"(39.69193, -96.14381)",4.110298549813572,1204.0,35014_0_yes,39.63411355151804,-96.12561447028432,5.0
+66417,39.65524,-96.03824,Corning,KS,Kansas,True,,375.0,3.5,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago,"(39.65524, -96.03824)",4.872379247493677,1204.0,35014_0_yes,39.63411355151804,-96.12561447028432,5.0

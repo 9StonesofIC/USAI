@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80480,40.67188,-106.34175,Walden,CO,Colorado,True,,1237.0,0.4,8057,Jackson,"{""08057"": 100}",Jackson,08057,False,False,America/Denver,"(40.67188, -106.34175)",6.264124394636218,1237.0,37544_0_no,40.729003733858605,-106.2488874319422,5.0

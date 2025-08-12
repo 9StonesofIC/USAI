@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76031,32.34873,-97.33267,Cleburne,TX,Texas,True,,18432.0,97.9,48251,Johnson,"{""48251"": 100}",Johnson,48251,False,False,America/Chicago,"(32.34873, -97.33267)",3.6394252247279457,24148.0,18482_0_yes,32.386707830720106,-97.28945607996305,5.0
+76059,32.3921,-97.32897,Keene,TX,Texas,True,,5716.0,891.6,48251,Johnson,"{""48251"": 100}",Johnson,48251,False,False,America/Chicago,"(32.3921, -97.32897)",2.335323712117178,24148.0,18482_0_yes,32.386707830720106,-97.28945607996305,5.0

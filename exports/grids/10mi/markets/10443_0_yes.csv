@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68783,42.62523,-98.14612,Verdigre,NE,Nebraska,True,,852.0,1.5,31107,Knox,"{""31107"": 100}",Knox,31107,False,False,America/Chicago,"(42.62523, -98.14612)",7.954941663021997,852.0,10443_0_yes,42.65477946822551,-98.29738818363477,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74330,36.4404,-95.26851,Adair,OK,Oklahoma,True,,2741.0,11.0,40097,Mayes,"{""40097"": 94.89, ""40035"": 5.11}",Mayes|Craig,40097|40035,False,False,America/Chicago,"(36.4404, -95.26851)",3.9470012343574106,2741.0,27919_0_yes,36.445248727361175,-95.197754297425,5.0

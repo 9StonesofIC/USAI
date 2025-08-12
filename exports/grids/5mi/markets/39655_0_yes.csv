@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50161,41.84764,-93.39914,Maxwell,IA,Iowa,True,,2033.0,9.9,19153,Polk,"{""19153"": 55.74, ""19169"": 40.94, ""19099"": 3.32}",Polk|Story|Jasper,19153|19169|19099,False,False,America/Chicago,"(41.84764, -93.39914)",3.316386288314267,2033.0,39655_0_yes,41.804628731924495,-93.42773046522817,5.0

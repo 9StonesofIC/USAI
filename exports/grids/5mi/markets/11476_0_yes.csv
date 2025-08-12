@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78056,29.53896,-98.94184,Mico,TX,Texas,True,,2024.0,7.6,48325,Medina,"{""48325"": 100}",Medina,48325,False,False,America/Chicago,"(29.53896, -98.94184)",3.6548152762419326,2961.0,11476_0_yes,29.486105874572,-98.94427881522417,5.0
+78066,29.49065,-98.89042,Rio Medina,TX,Texas,True,,937.0,16.3,48325,Medina,"{""48325"": 100}",Medina,48325,False,False,America/Chicago,"(29.49065, -98.89042)",3.254397825680366,2961.0,11476_0_yes,29.486105874572,-98.94427881522417,5.0

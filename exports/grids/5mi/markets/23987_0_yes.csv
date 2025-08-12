@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87016,34.75117,-106.01074,Estancia,NM,New Mexico,True,,3502.0,2.3,35057,Torrance,"{""35057"": 100}",Torrance,35057,False,False,America/Denver,"(34.75117, -106.01074)",2.7289760184564416,3502.0,23987_0_yes,34.71338834056113,-106.02474921986015,5.0

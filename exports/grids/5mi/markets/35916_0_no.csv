@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63538,39.9526,-92.67327,Elmer,MO,Missouri,True,,298.0,2.0,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago,"(39.9526, -92.67327)",2.9693927369051587,531.0,35916_0_no,39.99355036886629,-92.6902860304101,5.0
+63539,39.9279,-92.76781,Ethel,MO,Missouri,True,,233.0,1.5,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago,"(39.9279, -92.76781)",6.118111588310089,531.0,35916_0_no,39.99355036886629,-92.6902860304101,5.0

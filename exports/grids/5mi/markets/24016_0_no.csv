@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86438,34.68595,-113.98175,Yucca,AZ,Arizona,True,,794.0,0.3,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix,"(34.68595, -113.98175)",4.115733596573956,794.0,24016_0_no,34.64667944276013,-114.0362071562633,5.0

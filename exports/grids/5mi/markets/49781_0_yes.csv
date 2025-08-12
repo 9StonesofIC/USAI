@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04766,46.88162,-68.23911,Perham,ME,Maine,True,,387.0,4.1,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.88162, -68.23911)",2.635809480730138,2141.0,49781_0_yes,46.84794195158513,-68.21290176537703,5.0
+04786,46.79207,-68.17878,Washburn,ME,Maine,True,,1754.0,9.6,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.79207, -68.17878)",4.183926382707366,2141.0,49781_0_yes,46.84794195158513,-68.21290176537703,5.0

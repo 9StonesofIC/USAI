@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31815,32.04117,-84.85407,Lumpkin,GA,Georgia,True,,3949.0,6.0,13259,Stewart,"{""13259"": 100}",Stewart,13259,False,False,America/New_York,"(32.04117, -84.85407)",2.479107864366701,3949.0,17704_0_no,32.01577425833701,-84.88396786909183,5.0

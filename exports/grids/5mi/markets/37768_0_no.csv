@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61572,40.79768,-90.0343,Yates City,IL,Illinois,True,,1217.0,12.2,17095,Knox,"{""17095"": 100}",Knox,17095,False,False,America/Chicago,"(40.79768, -90.0343)",5.127402336742533,1217.0,37768_0_no,40.860418597800745,-89.98191846522282,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51578,41.72002,-95.39508,Westphalia,IA,Iowa,True,,86.0,483.1,19165,Shelby,"{""19165"": 100}",Shelby,19165,False,False,America/Chicago,"(41.72002, -95.39508)",4.091617831907584,86.0,39638_0_no,41.73385508538373,-95.31792888372011,5.0

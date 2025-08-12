@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75437,33.25605,-95.46567,Dike,TX,Texas,True,,1144.0,7.3,48223,Hopkins,"{""48223"": 100}",Hopkins,48223,False,False,America/Chicago,"(33.25605, -95.46567)",6.295183165469899,1144.0,20861_0_no,33.328276102356966,-95.53211418209278,5.0

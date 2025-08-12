@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97028,45.28225,-121.75274,Government Camp,OR,Oregon,True,,162.0,1.6,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles,"(45.28225, -121.75274)",2.3399456092664397,162.0,46914_0_yes,45.30470753985033,-121.71670548350892,5.0

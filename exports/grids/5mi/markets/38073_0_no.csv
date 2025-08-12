@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61375,41.03254,-89.24688,Varna,IL,Illinois,True,,1049.0,8.3,17123,Marshall,"{""17123"": 100}",Marshall,17123,False,False,America/Chicago,"(41.03254, -89.24688)",4.8172612381076085,3725.0,38073_0_no,41.0047118750918,-89.33160754022637,5.0
+61540,41.01856,-89.36867,Lacon,IL,Illinois,True,,2676.0,19.6,17123,Marshall,"{""17123"": 100}",Marshall,17123,False,False,America/Chicago,"(41.01856, -89.36867)",2.1562163549110402,3725.0,38073_0_no,41.0047118750918,-89.33160754022637,5.0

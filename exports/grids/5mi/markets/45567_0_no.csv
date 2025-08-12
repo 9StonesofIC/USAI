@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54933,44.66535,-88.70966,Embarrass,WI,Wisconsin,True,,353.0,191.7,55135,Waupaca,"{""55135"": 100}",Waupaca,55135,False,False,America/Chicago,"(44.66535, -88.70966)",5.624458398160381,353.0,45567_0_no,44.62372731507566,-88.61133266746164,5.0

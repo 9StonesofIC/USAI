@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95970,39.41159,-122.05176,Princeton,CA,California,True,,533.0,6.4,6021,Glenn,"{""06021"": 50.06, ""06011"": 49.94}",Glenn|Colusa,06021|06011,False,False,America/Los_Angeles,"(39.41159, -122.05176)",3.8479791898632074,533.0,34521_0_yes,39.36511401722792,-122.01205571368796,5.0

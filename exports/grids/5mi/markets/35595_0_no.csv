@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62360,39.81731,-91.26143,Payson,IL,Illinois,True,,1949.0,20.2,17001,Adams,"{""17001"": 100}",Adams,17001,False,False,America/Chicago,"(39.81731, -91.26143)",2.126319591579295,2498.0,35595_0_no,39.84752248596244,-91.25380571668232,5.0
+62365,39.79559,-91.16018,Plainville,IL,Illinois,True,,549.0,7.7,17001,Adams,"{""17001"": 100}",Adams,17001,False,False,America/Chicago,"(39.79559, -91.16018)",6.128636922094275,2498.0,35595_0_no,39.84752248596244,-91.25380571668232,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36278,33.31885,-85.5253,Wedowee,AL,Alabama,True,,4271.0,11.9,1111,Randolph,"{""01111"": 100}",Randolph,01111,False,False,America/Chicago,"(33.31885, -85.5253)",1.0626071836030182,4271.0,20803_0_no,33.32130205158759,-85.50713068864408,5.0

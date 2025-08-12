@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70722,30.84337,-90.93244,Clinton,LA,Louisiana,True,,5154.0,11.8,22037,East Feliciana,"{""22037"": 96.25, ""22033"": 3.75}",East Feliciana|East Baton Rouge,22037|22033,False,False,America/Chicago,"(30.84337, -90.93244)",5.62673074197625,5154.0,14611_0_yes,30.78679817192649,-90.8642312607236,5.0

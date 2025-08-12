@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78614,29.41314,-97.59429,Cost,TX,Texas,True,,547.0,3.8,48177,Gonzales,"{""48177"": 100}",Gonzales,48177,False,False,America/Chicago,"(29.41314, -97.59429)",2.27537603846595,566.0,11458_0_no,29.41271149964629,-97.55648839839404,5.0
+78677,29.34174,-97.59335,Wrightsboro,TX,Texas,True,,19.0,0.4,48177,Gonzales,"{""48177"": 100}",Gonzales,48177,False,False,America/Chicago,"(29.34174, -97.59335)",5.38252632952822,566.0,11458_0_no,29.41271149964629,-97.55648839839404,5.0

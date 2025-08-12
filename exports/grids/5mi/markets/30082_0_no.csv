@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23307,37.43282,-75.87095,Birdsnest,VA,Virginia,True,,599.0,27.6,51131,Northampton,"{""51131"": 100}",Northampton,51131,False,False,America/New_York,"(37.43282, -75.87095)",4.30277445322848,1561.0,30082_0_no,37.37254196867599,-75.85125813333589,5.0
+23405,37.41466,-75.91969,Machipongo,VA,Virginia,True,,962.0,14.5,51131,Northampton,"{""51131"": 100}",Northampton,51131,False,False,America/New_York,"(37.41466, -75.91969)",4.751798345384035,1561.0,30082_0_no,37.37254196867599,-75.85125813333589,5.0

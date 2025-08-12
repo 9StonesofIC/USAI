@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51360,43.43626,-95.08556,Spirit Lake,IA,Iowa,True,,8282.0,30.4,19059,Dickinson,"{""19059"": 97.06, ""27063"": 2.94}",Dickinson|Jackson,19059|27063,False,False,America/Chicago,"(43.43626, -95.08556)",2.4383122002784274,8282.0,43248_0_no,43.47131258879923,-95.07992961946935,5.0

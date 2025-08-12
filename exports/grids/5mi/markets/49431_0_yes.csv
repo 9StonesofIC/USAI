@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59731,46.58455,-112.76326,Garrison,MT,Montana,True,,142.0,0.4,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver,"(46.58455, -112.76326)",2.7403980383200492,142.0,49431_0_yes,46.59957884983247,-112.81667268653642,5.0

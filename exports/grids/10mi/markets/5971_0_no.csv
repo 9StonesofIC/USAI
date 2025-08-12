@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88119,34.34782,-104.40041,Fort Sumner,NM,New Mexico,True,,1910.0,0.5,35011,De Baca,"{""35011"": 100}",De Baca,35011,False,False,America/Denver,"(34.34782, -104.40041)",8.588147446553197,1910.0,5971_0_no,34.40776979322668,-104.53233856066646,10.0

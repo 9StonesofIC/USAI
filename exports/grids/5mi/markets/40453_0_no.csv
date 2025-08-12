@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13743,42.21706,-76.33898,Candor,NY,New York,True,,3630.0,23.2,36107,Tioga,"{""36107"": 100}",Tioga,36107,False,False,America/New_York,"(42.21706, -76.33898)",6.15617534971998,3630.0,40453_0_no,42.15228203607591,-76.421540450812,5.0

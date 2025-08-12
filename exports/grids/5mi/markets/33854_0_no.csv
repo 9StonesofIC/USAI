@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89423,39.01561,-119.74636,Minden,NV,Nevada,True,,10636.0,54.9,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles,"(39.01561, -119.74636)",1.818430163595494,10636.0,33854_0_no,39.00094559590956,-119.71823534780656,5.0

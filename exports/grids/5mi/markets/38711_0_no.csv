@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50125,41.33286,-93.57957,Indianola,IA,Iowa,True,,20476.0,48.7,19181,Warren,"{""19181"": 100}",Warren,19181,False,False,America/Chicago,"(41.33286, -93.57957)",2.5249909654636555,20476.0,38711_0_no,41.29792117081902,-93.59383440180034,5.0

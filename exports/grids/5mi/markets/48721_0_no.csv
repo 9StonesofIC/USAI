@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49877,46.15651,-87.7425,Ralph,MI,Michigan,True,,16.0,0.1,26043,Dickinson,"{""26043"": 100}",Dickinson,26043,False,False,America/Menominee,"(46.15651, -87.7425)",4.50540412807898,16.0,48721_0_no,46.21491496983073,-87.7843846788022,5.0

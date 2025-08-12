@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35672,34.65106,-87.40705,Town Creek,AL,Alabama,True,,5191.0,14.8,1079,Lawrence,"{""01079"": 94.46, ""01033"": 5.54}",Lawrence|Colbert,01079|01033,False,False,America/Chicago,"(34.65106, -87.40705)",3.383738364372094,5191.0,23881_0_yes,34.69996610556081,-87.40392967913473,5.0

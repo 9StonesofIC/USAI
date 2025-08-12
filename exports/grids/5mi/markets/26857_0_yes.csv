@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28740,36.04118,-82.30287,Green Mountain,NC,North Carolina,True,,851.0,3.7,37199,Yancey,"{""37199"": 54.55, ""37121"": 45.45}",Yancey|Mitchell,37199|37121,False,False,America/New_York,"(36.04118, -82.30287)",3.2183341504782734,851.0,26857_0_yes,36.000804464825706,-82.3315869666978,5.0

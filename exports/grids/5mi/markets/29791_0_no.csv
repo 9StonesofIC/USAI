@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24656,37.1743,-82.12364,Vansant,VA,Virginia,True,,2495.0,13.8,51027,Buchanan,"{""51027"": 100}",Buchanan,51027,False,False,America/New_York,"(37.1743, -82.12364)",4.075373080165619,2495.0,29791_0_no,37.23245185642832,-82.11124817317508,5.0

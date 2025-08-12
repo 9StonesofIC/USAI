@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59317,45.33477,-105.52106,Broadus,MT,Montana,True,,1144.0,0.3,30075,Powder River,"{""30075"": 100}",Powder River,30075,False,False,America/Denver,"(45.33477, -105.52106)",4.676066634240438,1144.0,47096_0_no,45.36267119932903,-105.60879377937376,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62870,38.63463,-89.05063,Odin,IL,Illinois,True,,2103.0,20.7,17121,Marion,"{""17121"": 100}",Marion,17121,False,False,America/Chicago,"(38.63463, -89.05063)",5.056898790922786,12791.0,32753_0_yes,38.614219896834186,-88.96066461666064,5.0
+62881,38.63544,-88.9288,Salem,IL,Illinois,True,,10688.0,41.6,17121,Marion,"{""17121"": 100}",Marion,17121,False,False,America/Chicago,"(38.63544, -88.9288)",2.2601212245678166,12791.0,32753_0_yes,38.614219896834186,-88.96066461666064,5.0

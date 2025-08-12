@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66801,38.41105,-96.2221,Emporia,KS,Kansas,True,,28450.0,36.5,20111,Lyon,"{""20111"": 84.61, ""20017"": 15.39}",Lyon|Chase,20111|20017,False,False,America/Chicago,"(38.41105, -96.2221)",2.6538424330700616,28450.0,32451_0_no,38.40259852809346,-96.17428580678823,5.0

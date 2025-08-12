@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54846,46.37737,-90.72481,High Bridge,WI,Wisconsin,True,,675.0,8.0,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago,"(46.37737, -90.72481)",4.803980574380447,1608.0,49018_0_no,46.36239290958863,-90.82321073805774,5.0
+54855,46.37492,-90.84397,Marengo,WI,Wisconsin,True,,933.0,5.1,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago,"(46.37492, -90.84397)",1.314793684454125,1608.0,49018_0_no,46.36239290958863,-90.82321073805774,5.0

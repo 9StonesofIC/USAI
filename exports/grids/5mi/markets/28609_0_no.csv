@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87728,36.60334,-104.59473,Maxwell,NM,New Mexico,True,,560.0,1.8,35007,Colfax,"{""35007"": 100}",Colfax,35007,False,False,America/Denver,"(36.60334, -104.59473)",4.716089968035267,560.0,28609_0_no,36.6697987428203,-104.57533500247804,5.0

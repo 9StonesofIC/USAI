@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40391,37.96969,-84.14507,Winchester,KY,Kentucky,True,,35800.0,58.2,21049,Clark,"{""21049"": 99.35, ""21067"": 0.65}",Clark|Fayette,21049|21067,False,False,America/New_York,"(37.96969, -84.14507)",3.921925038425943,35800.0,31421_0_no,37.958439710028514,-84.07450073590608,5.0

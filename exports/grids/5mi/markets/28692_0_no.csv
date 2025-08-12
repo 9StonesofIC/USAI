@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93616,36.65468,-119.59437,Del Rey,CA,California,True,,2370.0,66.4,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.65468, -119.59437)",4.579703316398106,18913.0,28692_0_no,36.68109433711888,-119.51857971827609,5.0
+93648,36.6206,-119.52062,Parlier,CA,California,True,,16543.0,288.8,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.6206, -119.52062)",4.181290446478343,18913.0,28692_0_no,36.68109433711888,-119.51857971827609,5.0

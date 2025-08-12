@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35966,34.79696,-85.68833,Flat Rock,AL,Alabama,True,,3951.0,18.1,1071,Jackson,"{""01071"": 75.52, ""01049"": 24.48}",Jackson|DeKalb,01071|01049,False,False,America/Chicago,"(34.79696, -85.68833)",4.950748247867475,3951.0,24208_0_yes,34.84374313774108,-85.75443946455371,5.0

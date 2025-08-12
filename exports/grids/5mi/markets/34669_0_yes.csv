@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62050,39.43734,-90.55544,Hillview,IL,Illinois,True,,352.0,2.3,17061,Greene,"{""17061"": 100}",Greene,17061,False,False,America/Chicago,"(39.43734, -90.55544)",3.4169474722628075,688.0,34669_0_yes,39.48476705001172,-90.57359073250122,5.0
+62078,39.47984,-90.48686,Patterson,IL,Illinois,True,,89.0,65.0,17061,Greene,"{""17061"": 100}",Greene,17061,False,False,America/Chicago,"(39.47984, -90.48686)",4.63766617464724,688.0,34669_0_yes,39.48476705001172,-90.57359073250122,5.0
+62361,39.48734,-90.64191,Pearl,IL,Illinois,True,,247.0,1.6,17149,Pike,"{""17149"": 100}",Pike,17149,False,False,America/Chicago,"(39.48734, -90.64191)",3.647451285509012,688.0,34669_0_yes,39.48476705001172,-90.57359073250122,5.0

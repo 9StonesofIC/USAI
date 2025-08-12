@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97504,42.32757,-122.80068,Medford,OR,Oregon,True,,48053.0,428.4,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.32757, -122.80068)",1.5803594969709527,53507.0,40993_0_no,42.33650506521989,-122.77219808766392,5.0
+97535,42.26799,-122.81238,Phoenix,OR,Oregon,True,,5454.0,641.4,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.26799, -122.81238)",5.160088203388725,53507.0,40993_0_no,42.33650506521989,-122.77219808766392,5.0

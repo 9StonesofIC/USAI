@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55811,46.83767,-92.21993,Duluth,MN,Minnesota,True,,28146.0,168.5,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(46.83767, -92.21993)",3.3310180073755213,28672.0,49895_0_yes,46.87012013433914,-92.27206671280544,5.0
+55814,46.83519,-92.19716,Duluth,MN,Minnesota,True,,526.0,2602.0,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(46.83519, -92.19716)",4.28396814726536,28672.0,49895_0_yes,46.87012013433914,-92.27206671280544,5.0

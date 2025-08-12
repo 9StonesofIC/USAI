@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95928,39.68317,-121.83528,Chico,CA,California,True,,38655.0,102.7,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.68317, -121.83528)",2.3132975123021584,42857.0,35151_0_yes,39.65484383619975,-121.81209178696068,5.0
+95938,39.60504,-121.79708,Durham,CA,California,True,,4202.0,23.8,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.60504, -121.79708)",3.532624821319658,42857.0,35151_0_yes,39.65484383619975,-121.81209178696068,5.0

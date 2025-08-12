@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45750,39.4301,-81.42947,Marietta,OH,Ohio,True,,26710.0,96.6,39167,Washington,"{""39167"": 100}",Washington,39167,False,False,America/New_York,"(39.4301, -81.42947)",3.462882112123551,27886.0,34620_0_yes,39.4773952294353,-81.40799077651965,5.0
+45788,39.51349,-81.37016,Whipple,OH,Ohio,True,,1176.0,14.0,39167,Washington,"{""39167"": 100}",Washington,39167,False,False,America/New_York,"(39.51349, -81.37016)",3.2075035746391536,27886.0,34620_0_yes,39.4773952294353,-81.40799077651965,5.0

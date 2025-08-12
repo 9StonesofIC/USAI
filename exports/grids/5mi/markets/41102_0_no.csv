@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49021,42.4588,-85.06435,Bellevue,MI,Michigan,True,,6277.0,25.8,26045,Eaton,"{""26045"": 45.63, ""26015"": 39.02, ""26025"": 15.35}",Eaton|Barry|Calhoun,26045|26015|26025,False,False,America/Detroit,"(42.4588, -85.06435)",3.277186581172289,6277.0,41102_0_no,42.44913926932823,-85.00141190161528,5.0

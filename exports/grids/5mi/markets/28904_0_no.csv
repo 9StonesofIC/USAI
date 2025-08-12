@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73717,36.84161,-98.77807,Alva,OK,Oklahoma,True,,6896.0,3.9,40151,Woods,"{""40151"": 94.51, ""40003"": 5.49}",Woods|Alfalfa,40151|40003,False,False,America/Chicago,"(36.84161, -98.77807)",2.2679363029878497,6896.0,28904_0_no,36.81036235239067,-98.76551407752775,5.0

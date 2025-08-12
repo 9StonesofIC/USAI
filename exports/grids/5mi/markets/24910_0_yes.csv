@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72059,35.15455,-91.34209,Gregory,AR,Arkansas,True,,42.0,667.3,5147,Woodruff,"{""05147"": 100}",Woodruff,05147,False,False,America/Chicago,"(35.15455, -91.34209)",4.430366592076657,42.0,24910_0_yes,35.13768060155336,-91.26643440799056,5.0

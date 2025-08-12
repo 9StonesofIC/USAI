@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67511,38.43365,-99.05058,Albert,KS,Kansas,True,,216.0,1.2,20165,Rush,"{""20165"": 64.07, ""20009"": 35.93}",Rush|Barton,20165|20009,False,False,America/Chicago,"(38.43365, -99.05058)",4.385907496483975,433.0,32487_0_yes,38.47722866232694,-98.99163967585544,5.0
+67564,38.52855,-98.92845,Olmitz,KS,Kansas,True,,217.0,1.0,20009,Barton,"{""20009"": 100}",Barton,20009,False,False,America/Chicago,"(38.52855, -98.92845)",4.924212877876987,433.0,32487_0_yes,38.47722866232694,-98.99163967585544,5.0

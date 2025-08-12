@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79854,30.6109,-104.62469,Valentine,TX,Texas,True,,175.0,0.1,48243,Jeff Davis,"{""48243"": 68.65, ""48377"": 31.35}",Jeff Davis|Presidio,48243|48377,False,False,America/Chicago,"(30.6109, -104.62469)",9.42091701817476,175.0,3563_0_yes,30.49230427839276,-104.54656476338911,10.0

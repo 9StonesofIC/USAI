@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95301,37.30634,-120.65119,Atwater,CA,California,True,,39922.0,202.6,6047,Merced,"{""06047"": 100}",Merced,06047,False,False,America/Los_Angeles,"(37.30634, -120.65119)",5.600736802829528,73969.0,30003_0_no,37.26190497006354,-120.56598064557927,5.0
+95341,37.23037,-120.50715,Merced,CA,California,True,,34047.0,89.5,6047,Merced,"{""06047"": 100}",Merced,06047,False,False,America/Los_Angeles,"(37.23037, -120.50715)",3.900972693257198,73969.0,30003_0_no,37.26190497006354,-120.56598064557927,5.0

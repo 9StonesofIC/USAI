@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04988,44.59588,-69.35959,Unity,ME,Maine,True,,2079.0,16.1,23027,Waldo,"{""23027"": 79.89, ""23011"": 20.11}",Waldo|Kennebec,23027|23011,False,False,America/New_York,"(44.59588, -69.35959)",0.8967369492687177,2079.0,45472_0_no,44.60662964657409,-69.34937593725134,5.0

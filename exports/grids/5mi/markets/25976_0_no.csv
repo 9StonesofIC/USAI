@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87508,35.52064,-105.94593,Santa Fe,NM,New Mexico,True,,18444.0,42.1,35049,Santa Fe,"{""35049"": 100}",Santa Fe,35049,False,False,America/Denver,"(35.52064, -105.94593)",0.8525992531934079,18444.0,25976_0_no,35.51092228393777,-105.9365866785358,5.0

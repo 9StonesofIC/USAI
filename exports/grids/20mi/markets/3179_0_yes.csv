@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49808,46.8109,-87.8764,Big Bay,MI,Michigan,True,,587.0,1.3,26103,Marquette,"{""26103"": 100}",Marquette,26103,False,False,America/Detroit,"(46.8109, -87.8764)",8.21151622785361,794.0,3179_0_yes,46.90754457721721,-87.77524527021555,20.0
+49962,46.82142,-88.1409,Skanee,MI,Michigan,True,,207.0,0.8,26013,Baraga,"{""26013"": 100}",Baraga,26013,False,False,America/Detroit,"(46.82142, -88.1409)",18.270101740182746,794.0,3179_0_yes,46.90754457721721,-87.77524527021555,20.0

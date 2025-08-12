@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27809,36.01932,-77.74085,Battleboro,NC,North Carolina,True,,3988.0,20.1,37065,Edgecombe,"{""37065"": 62.78, ""37127"": 37.22}",Edgecombe|Nash,37065|37127,False,False,America/New_York,"(36.01932, -77.74085)",3.1793678697934586,3988.0,26831_0_yes,35.997352003439914,-77.69086669540826,5.0

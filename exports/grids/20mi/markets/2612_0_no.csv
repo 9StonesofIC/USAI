@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82327,42.17354,-106.69289,Hanna,WY,Wyoming,True,,989.0,1.2,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(42.17354, -106.69289)",9.162699437989195,1480.0,2612_0_no,42.06001821617428,-106.78530260405658,20.0
+82334,41.92837,-106.9679,Sinclair,WY,Wyoming,True,,491.0,1.2,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.92837, -106.9679)",13.063602672988296,1480.0,2612_0_no,42.06001821617428,-106.78530260405658,20.0

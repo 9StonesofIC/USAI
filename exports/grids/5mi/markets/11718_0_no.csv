@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32193,29.47605,-81.6647,Welaka,FL,Florida,True,,969.0,104.9,12107,Putnam,"{""12107"": 100}",Putnam,12107,False,False,America/New_York,"(29.47605, -81.6647)",6.809214299435058,969.0,11718_0_no,29.547942527366036,-81.74215707684962,5.0

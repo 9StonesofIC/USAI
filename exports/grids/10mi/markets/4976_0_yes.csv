@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85132,32.92358,-111.19119,Florence,AZ,Arizona,True,,40171.0,25.8,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(32.92358, -111.19119)",7.790381295037488,40171.0,4976_0_yes,32.82198702211533,-111.2494193505455,10.0

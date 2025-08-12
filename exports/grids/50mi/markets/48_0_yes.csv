@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34224,26.91902,-82.30581,Englewood,FL,Florida,True,,16369.0,492.1,12015,Charlotte,"{""12015"": 95.16, ""12115"": 4.84}",Charlotte|Sarasota,12015|12115,False,False,America/New_York,"(26.91902, -82.30581)",68.44807398678856,16369.0,48_0_yes,26.21697418437376,-83.08729567295713,50.0

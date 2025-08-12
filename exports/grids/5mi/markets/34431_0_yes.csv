@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80425,39.34714,-105.23162,Buffalo Creek,CO,Colorado,True,,130.0,0.9,8059,Jefferson,"{""08059"": 100}",Jefferson,08059,False,False,America/Denver,"(39.34714, -105.23162)",1.36343032651047,130.0,34431_0_yes,39.35163254395429,-105.20677182791144,5.0

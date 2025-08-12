@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89414,41.04934,-117.22765,Golconda,NV,Nevada,True,,90.0,0.1,32013,Humboldt,"{""32013"": 73.77, ""32007"": 26.23}",Humboldt|Elko,32013|32007,False,False,America/Los_Angeles,"(41.04934, -117.22765)",4.02979542744664,90.0,9717_0_no,41.09390252608033,-117.17773833544784,10.0

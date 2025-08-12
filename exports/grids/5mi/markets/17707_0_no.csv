@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36053,32.03514,-85.43945,Midway,AL,Alabama,True,,1896.0,2.3,1005,Barbour,"{""01005"": 58.93, ""01011"": 41.07}",Barbour|Bullock,01005|01011,False,False,America/Chicago,"(32.03514, -85.43945)",2.916919981895664,1896.0,17707_0_no,32.0161173924142,-85.3949961628616,5.0

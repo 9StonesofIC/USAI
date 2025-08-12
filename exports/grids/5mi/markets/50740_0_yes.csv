@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56626,47.36404,-94.18421,Bena,MN,Minnesota,True,,227.0,1.0,27021,Cass,"{""27021"": 100}",Cass,27021,False,False,America/Chicago,"(47.36404, -94.18421)",4.674522775462768,227.0,50740_0_yes,47.30591753026154,-94.13311671558576,5.0

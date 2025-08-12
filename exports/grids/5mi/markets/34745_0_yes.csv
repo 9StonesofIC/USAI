@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80108,39.44441,-104.85321,Castle Rock,CO,Colorado,True,,28952.0,316.8,8035,Douglas,"{""08035"": 100}",Douglas,08035,False,False,America/Denver,"(39.44441, -104.85321)",4.860751507782303,100064.0,34745_0_yes,39.49620469422474,-104.79153833430289,5.0
+80134,39.48282,-104.77957,Parker,CO,Colorado,True,,71112.0,478.8,8035,Douglas,"{""08035"": 100}",Douglas,08035,False,False,America/Denver,"(39.48282, -104.77957)",1.1236173229510589,100064.0,34745_0_yes,39.49620469422474,-104.79153833430289,5.0

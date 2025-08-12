@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49656,44.05248,-85.69789,Luther,MI,Michigan,True,,1588.0,5.2,26085,Lake,"{""26085"": 100}",Lake,26085,False,False,America/Detroit,"(44.05248, -85.69789)",6.1324606990824995,1588.0,44410_0_yes,44.11457762471392,-85.78617232329542,5.0

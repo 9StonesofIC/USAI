@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59011,45.92453,-109.97244,Big Timber,MT,Montana,True,,3083.0,1.3,30097,Sweet Grass,"{""30097"": 100}",Sweet Grass,30097,False,False,America/Denver,"(45.92453, -109.97244)",6.0234651691480146,3083.0,48003_0_yes,45.87331298441085,-110.0738117971379,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59077,47.22224,-107.58999,Sand Springs,MT,Montana,True,,103.0,0.1,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver,"(47.22224, -107.58999)",5.135001716867381,103.0,50776_0_no,47.24601020684814,-107.48628537614334,5.0

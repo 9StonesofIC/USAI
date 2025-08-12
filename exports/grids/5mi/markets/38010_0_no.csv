@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16872,40.96715,-77.35939,Rebersburg,PA,Pennsylvania,True,,1556.0,10.3,42027,Centre,"{""42027"": 100}",Centre,42027,False,False,America/New_York,"(40.96715, -77.35939)",4.5116611305240095,5050.0,38010_0_no,40.99471387352134,-77.28097839792102,5.0
+17747,41.03847,-77.31497,Loganton,PA,Pennsylvania,True,,3494.0,15.9,42035,Clinton,"{""42035"": 100}",Clinton,42035,False,False,America/New_York,"(41.03847, -77.31497)",3.5043266431896374,5050.0,38010_0_no,40.99471387352134,-77.28097839792102,5.0

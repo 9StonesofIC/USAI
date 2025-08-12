@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78606,30.09213,-98.45789,Blanco,TX,Texas,True,,6315.0,10.1,48031,Blanco,"{""48031"": 75.22, ""48259"": 21.28, ""48091"": 3.5}",Blanco|Kendall|Comal,48031|48259|48091,False,False,America/Chicago,"(30.09213, -98.45789)",1.791830564528263,6315.0,12894_0_yes,30.06624340200657,-98.45969060557748,5.0

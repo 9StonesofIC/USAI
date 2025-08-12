@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37873,36.52446,-82.84754,Surgoinsville,TN,Tennessee,True,,4362.0,26.9,47073,Hawkins,"{""47073"": 100}",Hawkins,47073,False,False,America/New_York,"(36.52446, -82.84754)",1.8039660198987957,4362.0,28160_0_no,36.508482119688,-82.87323319252876,5.0

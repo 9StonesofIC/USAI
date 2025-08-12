@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89422,38.42008,-118.17911,Mina,NV,Nevada,True,,177.0,0.3,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles,"(38.42008, -118.17911)",4.2003585089570805,177.0,32570_0_no,38.41983479271081,-118.1015174764526,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80422,39.8635,-105.53846,Black Hawk,CO,Colorado,True,,4992.0,18.0,8047,Gilpin,"{""08047"": 100}",Gilpin,08047,False,False,America/Denver,"(39.8635, -105.53846)",5.897882610644171,8715.0,35694_0_yes,39.93156013555716,-105.60561400524855,5.0
+80466,39.99008,-105.546,Nederland,CO,Colorado,True,,3723.0,12.4,8013,Boulder,"{""08013"": 100}",Boulder,08013,False,False,America/Denver,"(39.99008, -105.546)",5.129896572755428,8715.0,35694_0_yes,39.93156013555716,-105.60561400524855,5.0

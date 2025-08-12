@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56150,43.63469,-95.21266,Lakefield,MN,Minnesota,True,,2700.0,6.0,27063,Jackson,"{""27063"": 100}",Jackson,27063,False,False,America/Chicago,"(43.63469, -95.21266)",1.3003500566334325,2700.0,43545_0_no,43.6162060638296,-95.20776736615277,5.0

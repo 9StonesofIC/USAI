@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78342,27.66012,-98.07572,Ben Bolt,TX,Texas,True,,342.0,75.1,48249,Jim Wells,"{""48249"": 100}",Jim Wells,48249,False,False,America/Chicago,"(27.66012, -98.07572)",4.508390122171657,342.0,7156_0_no,27.671373549643693,-98.0031503173169,5.0

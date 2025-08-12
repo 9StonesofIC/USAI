@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73098,34.62753,-97.16537,Wynnewood,OK,Oklahoma,True,,4184.0,11.7,40049,Garvin,"{""40049"": 80.99, ""40099"": 19.01}",Garvin|Murray,40049|40099,False,False,America/Chicago,"(34.62753, -97.16537)",5.393873929886243,4184.0,23600_0_yes,34.561965847278266,-97.11389242049717,5.0

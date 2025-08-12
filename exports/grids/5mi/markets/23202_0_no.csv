@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38655,34.33114,-89.4825,Oxford,MS,Mississippi,True,,44339.0,47.3,28071,Lafayette,"{""28071"": 100}",Lafayette,28071,False,False,America/Chicago,"(34.33114, -89.4825)",4.133883061478409,44339.0,23202_0_no,34.33899523629666,-89.41067171345487,5.0

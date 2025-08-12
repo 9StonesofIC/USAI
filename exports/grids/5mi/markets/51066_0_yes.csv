@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59262,47.49341,-104.50518,Savage,MT,Montana,True,,503.0,0.6,30083,Richland,"{""30083"": 57.49, ""30021"": 42.51}",Richland|Dawson,30083|30021,False,False,America/Denver,"(47.49341, -104.50518)",2.290973590809742,503.0,51066_0_yes,47.46025814191095,-104.50609482445148,5.0

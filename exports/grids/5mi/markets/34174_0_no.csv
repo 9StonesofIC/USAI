@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96141,39.10297,-120.19872,Homewood,CA,California,True,,463.0,6.2,6061,Placer,"{""06061"": 100}",Placer,06061,False,False,America/Los_Angeles,"(39.10297, -120.19872)",4.691466651503305,463.0,34174_0_no,39.146334079186936,-120.2660713981119,5.0

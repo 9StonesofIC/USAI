@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98203,47.94236,-122.23651,Everett,WA,Washington,True,,35901.0,1172.2,53061,Snohomish,"{""53061"": 100}",Snohomish,53061,False,False,America/Los_Angeles,"(47.94236, -122.23651)",5.299018753335995,42041.0,52223_0_no,47.98349223989886,-122.3331787808776,5.0
+98236,47.95804,-122.40468,Clinton,WA,Washington,True,,6140.0,102.9,53029,Island,"{""53029"": 100}",Island,53029,False,False,America/Los_Angeles,"(47.95804, -122.40468)",3.746001368286362,42041.0,52223_0_no,47.98349223989886,-122.3331787808776,5.0

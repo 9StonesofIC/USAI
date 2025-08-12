@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35953,33.81058,-86.20986,Ashville,AL,Alabama,True,,6944.0,20.8,1115,St. Clair,"{""01115"": 100}",St. Clair,01115,False,False,America/Chicago,"(33.81058, -86.20986)",1.5428653897477145,6944.0,21845_0_yes,33.82924548244548,-86.22461344059674,5.0

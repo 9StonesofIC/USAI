@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67561,38.10427,-98.09921,Nickerson,KS,Kansas,True,,1327.0,7.5,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago,"(38.10427, -98.09921)",1.4876595865326694,4579.0,31820_0_no,38.11429683418651,-98.12342591577546,5.0
+67579,38.18615,-98.20861,Sterling,KS,Kansas,True,,3252.0,6.1,20159,Rice,"{""20159"": 59.61, ""20155"": 40.39}",Rice|Reno,20159|20155,False,False,America/Chicago,"(38.18615, -98.20861)",6.787456894948135,4579.0,31820_0_no,38.11429683418651,-98.12342591577546,5.0

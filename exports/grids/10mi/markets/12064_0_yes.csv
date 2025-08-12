@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57642,45.78609,-100.72458,McLaughlin,SD,South Dakota,True,,1994.0,1.1,46031,Corson,"{""46031"": 97.17, ""38085"": 2.83}",Corson|Sioux,46031|38085,False,False,America/Denver,"(45.78609, -100.72458)",9.510437996222947,1994.0,12064_0_yes,45.84249713750634,-100.54443653822456,10.0

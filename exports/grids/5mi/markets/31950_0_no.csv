@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94585,38.19061,-121.94216,Suisun City,CA,California,True,,29351.0,106.7,6095,Solano,"{""06095"": 100}",Solano,06095,False,False,America/Los_Angeles,"(38.19061, -121.94216)",4.568279553909311,29351.0,31950_0_no,38.132934211000894,-121.98327409130223,5.0

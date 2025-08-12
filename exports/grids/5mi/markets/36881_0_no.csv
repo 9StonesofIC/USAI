@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68938,40.42093,-98.12344,Fairfield,NE,Nebraska,True,,545.0,3.0,31035,Clay,"{""31035"": 100}",Clay,31035,False,False,America/Chicago,"(40.42093, -98.12344)",2.7477569369281407,1367.0,36881_0_no,40.43261787802872,-98.17337518568714,5.0
+68941,40.46882,-98.26792,Glenvil,NE,Nebraska,True,,822.0,3.4,31035,Clay,"{""31035"": 58.74, ""31001"": 41.26}",Clay|Adams,31035|31001,False,False,America/Chicago,"(40.46882, -98.26792)",5.564791124202931,1367.0,36881_0_no,40.43261787802872,-98.17337518568714,5.0

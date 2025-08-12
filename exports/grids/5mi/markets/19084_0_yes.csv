@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30401,32.604,-82.34825,Swainsboro,GA,Georgia,True,,13708.0,20.3,13107,Emanuel,"{""13107"": 100}",Emanuel,13107,False,False,America/New_York,"(32.604, -82.34825)",6.146809960115975,13708.0,19084_0_yes,32.66653575723618,-82.27311132932743,5.0

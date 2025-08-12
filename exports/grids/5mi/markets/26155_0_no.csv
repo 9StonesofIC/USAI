@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27603,35.66408,-78.66186,Raleigh,NC,North Carolina,True,,56826.0,426.8,37183,Wake,"{""37183"": 95.38, ""37101"": 4.62}",Wake|Johnston,37183|37101,False,False,America/New_York,"(35.66408, -78.66186)",3.526599880289751,56826.0,26155_0_no,35.63584135798781,-78.7141836719137,5.0

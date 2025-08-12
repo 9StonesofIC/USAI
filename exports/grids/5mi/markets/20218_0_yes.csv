@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79540,33.15173,-100.06289,Old Glory,TX,Texas,True,,51.0,0.2,48433,Stonewall,"{""48433"": 100}",Stonewall,48433,False,False,America/Chicago,"(33.15173, -100.06289)",4.714026114711868,248.0,20218_0_yes,33.11378927924528,-99.99517551520556,5.0
+79548,33.06989,-99.93005,Rule,TX,Texas,True,,197.0,0.9,48207,Haskell,"{""48207"": 100}",Haskell,48207,False,False,America/Chicago,"(33.06989, -99.93005)",4.8385871506304055,248.0,20218_0_yes,33.11378927924528,-99.99517551520556,5.0

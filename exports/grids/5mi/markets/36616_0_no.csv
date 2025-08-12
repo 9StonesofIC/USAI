@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80467,40.25692,-106.87326,Oak Creek,CO,Colorado,True,,2193.0,3.1,8107,Routt,"{""08107"": 93.58, ""08103"": 6.42}",Routt|Rio Blanco,08107|08103,False,False,America/Denver,"(40.25692, -106.87326)",4.260959456584689,2193.0,36616_0_no,40.29491911741972,-106.9369237063793,5.0

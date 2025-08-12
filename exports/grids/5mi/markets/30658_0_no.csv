@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94550,37.51746,-121.59406,Livermore,CA,California,True,,52617.0,74.7,6001,Alameda,"{""06001"": 61.55, ""06085"": 38.45}",Alameda|Santa Clara,06001|06085,False,False,America/Los_Angeles,"(37.51746, -121.59406)",3.579736894174991,52617.0,30658_0_no,37.55272295936104,-121.64192752447218,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04611,44.48771,-67.59633,Beals,ME,Maine,True,,414.0,28.5,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.48771, -67.59633)",20.64594418789794,414.0,2861_0_no,44.23591956892065,-67.3712689511807,20.0

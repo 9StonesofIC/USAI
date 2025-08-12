@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65024,38.62444,-91.75712,Chamois,MO,Missouri,True,,1061.0,4.2,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago,"(38.62444, -91.75712)",1.4444619970886934,1061.0,32768_0_yes,38.616408375620765,-91.73241550227904,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76044,32.42961,-97.54286,Godley,TX,Texas,True,,5407.0,19.3,48251,Johnson,"{""48251"": 100}",Johnson,48251,False,False,America/Chicago,"(32.42961, -97.54286)",2.19442165344884,5407.0,18815_0_no,32.45942872965766,-97.52990354895556,5.0

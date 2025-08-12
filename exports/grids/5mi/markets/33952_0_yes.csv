@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08321,39.21961,-75.14107,Fortescue,NJ,New Jersey,True,,112.0,4.9,34011,Cumberland,"{""34011"": 100}",Cumberland,34011,False,False,America/New_York,"(39.21961, -75.14107)",4.658639274596774,453.0,33952_0_yes,39.18262888058207,-75.06831691574115,5.0
+08324,39.21859,-74.99999,Heislerville,NJ,New Jersey,True,,341.0,14.3,34011,Cumberland,"{""34011"": 100}",Cumberland,34011,False,False,America/New_York,"(39.21859, -74.99999)",4.4224158524086405,453.0,33952_0_yes,39.18262888058207,-75.06831691574115,5.0

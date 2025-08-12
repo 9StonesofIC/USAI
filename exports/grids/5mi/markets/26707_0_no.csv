@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93527,35.80294,-117.98504,Inyokern,CA,California,True,,1690.0,1.9,6107,Tulare,"{""06107"": 50.78, ""06029"": 34.7, ""06027"": 14.52}",Tulare|Kern|Inyo,06107|06029|06027,False,False,America/Los_Angeles,"(35.80294, -117.98504)",0.7143746948927564,1690.0,26707_0_no,35.80983406319592,-117.97553895692602,5.0

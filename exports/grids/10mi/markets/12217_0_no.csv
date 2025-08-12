@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59086,46.05608,-110.65293,Wilsall,MT,Montana,True,,832.0,0.5,30067,Park,"{""30067"": 66.28, ""30031"": 31.45, ""30059"": 2.27}",Park|Gallatin|Meagher,30067|30031|30059,False,False,America/Denver,"(46.05608, -110.65293)",4.374550552543851,832.0,12217_0_no,46.00585919701612,-110.70846301970948,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95039,36.81515,-121.7779,Moss Landing,CA,California,True,,1209.0,26.9,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.81515, -121.7779)",4.273833366463075,1209.0,29032_0_no,36.82787285329921,-121.85351872774852,5.0

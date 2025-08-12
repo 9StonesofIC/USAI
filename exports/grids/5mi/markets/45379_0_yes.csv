@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82712,44.52594,-104.12372,Beulah,WY,Wyoming,True,,337.0,1.7,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver,"(44.52594, -104.12372)",2.7247446913079822,337.0,45379_0_yes,44.565068695208375,-104.13061057408306,5.0

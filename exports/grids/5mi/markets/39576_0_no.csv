@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43616,41.65727,-83.40931,Oregon,OH,Ohio,True,,20455.0,205.4,39095,Lucas,"{""39095"": 100}",Lucas,39095,False,False,America/New_York,"(41.65727, -83.40931)",6.310591503654561,20455.0,39576_0_no,41.72376177681289,-83.32545827701556,5.0

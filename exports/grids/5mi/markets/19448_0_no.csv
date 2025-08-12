@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35443,32.76538,-88.01908,Boligee,AL,Alabama,True,,1702.0,3.0,1063,Greene,"{""01063"": 100}",Greene,01063,False,False,America/Chicago,"(32.76538, -88.01908)",2.013047507757928,1702.0,19448_0_no,32.742990601701926,-87.99691198809971,5.0

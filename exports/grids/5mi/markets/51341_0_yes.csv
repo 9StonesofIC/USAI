@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59217,47.58449,-104.24455,Crane,MT,Montana,True,,237.0,24.9,30083,Richland,"{""30083"": 100}",Richland,30083,False,False,America/Denver,"(47.58449, -104.24455)",1.458111343279735,237.0,51341_0_yes,47.6047112826769,-104.23559660660231,5.0

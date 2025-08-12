@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29577,33.69711,-78.90495,Myrtle Beach,SC,South Carolina,True,,32858.0,555.5,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York,"(33.69711, -78.90495)",4.651661527518179,32858.0,21462_0_yes,33.67906103841969,-78.82700007376265,5.0

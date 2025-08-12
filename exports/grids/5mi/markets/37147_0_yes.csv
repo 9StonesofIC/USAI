@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46740,40.60298,-84.9638,Geneva,IN,Indiana,True,,4374.0,27.1,18001,Adams,"{""18001"": 91.82, ""18179"": 8.18}",Adams|Wells,18001|18179,False,False,America/Indiana/Indianapolis,"(40.60298, -84.9638)",4.638488651157524,4374.0,37147_0_yes,40.63904631008078,-85.03839861913225,5.0

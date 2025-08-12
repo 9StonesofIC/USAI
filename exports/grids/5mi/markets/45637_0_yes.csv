@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57242,44.77352,-97.35902,Hazel,SD,South Dakota,True,,482.0,2.1,46057,Hamlin,"{""46057"": 79.66, ""46029"": 20.34}",Hamlin|Codington,46057|46029,False,False,America/Chicago,"(44.77352, -97.35902)",4.895436637943875,482.0,45637_0_yes,44.703840226014215,-97.37709243214002,5.0

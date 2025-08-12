@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37178,36.3195,-87.78694,Tennessee Ridge,TN,Tennessee,True,,1842.0,16.8,47083,Houston,"{""47083"": 60.92, ""47161"": 39.08}",Houston|Stewart,47083|47161,False,False,America/Chicago,"(36.3195, -87.78694)",3.3171712990632565,1842.0,27859_0_no,36.36725353497067,-87.79309195956819,5.0

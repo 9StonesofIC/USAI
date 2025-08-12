@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32780,28.54672,-80.7841,Titusville,FL,Florida,True,,35908.0,203.5,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.54672, -80.7841)",3.9989320887516557,63252.0,9213_0_no,28.53184996135371,-80.84777101595431,5.0
+32927,28.46372,-80.80709,Cocoa,FL,Florida,True,,27344.0,411.6,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.46372, -80.80709)",5.316105023399384,63252.0,9213_0_no,28.53184996135371,-80.84777101595431,5.0

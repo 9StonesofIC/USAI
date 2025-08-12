@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99371,46.79144,-118.30614,Washtucna,WA,Washington,True,,327.0,0.6,53001,Adams,"{""53001"": 78.86, ""53021"": 21.14}",Adams|Franklin,53001|53021,False,False,America/Los_Angeles,"(46.79144, -118.30614)",3.641091221373899,327.0,49738_0_yes,46.74933217097493,-118.2598775254706,5.0

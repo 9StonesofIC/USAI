@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22580,38.10941,-77.44419,Woodford,VA,Virginia,True,,5467.0,22.3,51033,Caroline,"{""51033"": 89.9, ""51177"": 10.1}",Caroline|Spotsylvania,51033|51177,False,False,America/New_York,"(38.10941, -77.44419)",3.1197792349908373,5467.0,31707_0_no,38.098106724143626,-77.38863568962472,5.0

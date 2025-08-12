@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31060,31.98333,-83.05673,Milan,GA,Georgia,True,,2056.0,8.9,13271,Telfair,"{""13271"": 70.04, ""13091"": 29.96}",Telfair|Dodge,13271|13091,False,False,America/New_York,"(31.98333, -83.05673)",3.474483836367993,2056.0,17693_0_no,32.01451613895244,-83.01021375060232,5.0

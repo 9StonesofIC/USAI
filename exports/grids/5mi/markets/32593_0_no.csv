@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94573,38.45726,-122.42348,Rutherford,CA,California,True,,70.0,17.6,6055,Napa,"{""06055"": 100}",Napa,06055,False,False,America/Los_Angeles,"(38.45726, -122.42348)",5.0875676076698015,3140.0,32593_0_no,38.42316739229405,-122.34015470988706,5.0
+94599,38.41012,-122.37365,Yountville,CA,California,True,,3070.0,149.2,6055,Napa,"{""06055"": 100}",Napa,06055,False,False,America/Los_Angeles,"(38.41012, -122.37365)",2.0250168365465906,3140.0,32593_0_no,38.42316739229405,-122.34015470988706,5.0

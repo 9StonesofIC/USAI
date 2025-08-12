@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32139,29.37693,-81.61431,Georgetown,FL,Florida,True,,1028.0,31.5,12107,Putnam,"{""12107"": 99.85, ""12127"": 0.15}",Putnam|Volusia,12107|12127,False,False,America/New_York,"(29.37693, -81.61431)",3.752851069242508,1028.0,11015_0_yes,29.330209433530577,-81.5825280395514,5.0

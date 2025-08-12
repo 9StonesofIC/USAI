@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26426,39.28758,-80.56313,Salem,WV,West Virginia,True,,7678.0,21.7,54017,Doddridge,"{""54017"": 54.46, ""54033"": 45.54}",Doddridge|Harrison,54017|54033,False,False,America/New_York,"(39.28758, -80.56313)",2.595313053824587,7678.0,34277_0_no,39.25946253194226,-80.53095641371398,5.0

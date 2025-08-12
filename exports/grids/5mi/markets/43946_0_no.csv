@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83616,43.77667,-116.38977,Eagle,ID,Idaho,True,,29630.0,102.7,16001,Ada,"{""16001"": 64.65, ""16045"": 35.35}",Ada|Gem,16001|16045,False,False,America/Boise,"(43.77667, -116.38977)",3.309164728438063,53981.0,43946_0_no,43.77944860557901,-116.32354877122113,5.0
+83714,43.72444,-116.27017,Garden City,ID,Idaho,True,,24351.0,173.5,16001,Ada,"{""16001"": 100}",Ada,16001,False,False,America/Boise,"(43.72444, -116.27017)",4.641431576269447,53981.0,43946_0_no,43.77944860557901,-116.32354877122113,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49349,43.58291,-85.74167,White Cloud,MI,Michigan,True,,7429.0,14.5,26123,Newaygo,"{""26123"": 100}",Newaygo,26123,False,False,America/Detroit,"(43.58291, -85.74167)",3.4816838507385772,7429.0,43228_0_yes,43.5355451825348,-85.7654045150485,5.0

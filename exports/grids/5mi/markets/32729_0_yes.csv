@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41097,38.62088,-84.58033,Williamstown,KY,Kentucky,True,,7169.0,28.9,21081,Grant,"{""21081"": 87.51, ""21191"": 12.49}",Grant|Pendleton,21081|21191,False,False,America/New_York,"(38.62088, -84.58033)",3.0139052961385677,7169.0,32729_0_yes,38.610718685024274,-84.52603834353395,5.0

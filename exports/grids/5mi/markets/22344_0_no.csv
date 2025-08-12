@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92230,33.9088,-116.76879,Cabazon,CA,California,True,,2363.0,78.1,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.9088, -116.76879)",1.9344151819466497,3803.0,22344_0_no,33.92333071173018,-116.73995238322202,5.0
+92282,33.96253,-116.65829,Whitewater,CA,California,True,,1440.0,7.4,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.96253, -116.65829)",5.407940673239763,3803.0,22344_0_no,33.92333071173018,-116.73995238322202,5.0

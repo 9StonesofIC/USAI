@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74570,34.86574,-96.10432,Stuart,OK,Oklahoma,True,,1047.0,2.6,40063,Hughes,"{""40063"": 59.57, ""40121"": 40.43}",Hughes|Pittsburg,40063|40121,False,False,America/Chicago,"(34.86574, -96.10432)",5.754695251779415,1047.0,24585_0_no,34.923708593209945,-96.03140527588128,5.0

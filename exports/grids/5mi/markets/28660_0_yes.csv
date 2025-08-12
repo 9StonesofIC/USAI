@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86033,36.67692,-110.25536,Kayenta,AZ,Arizona,True,,8080.0,2.6,4017,Navajo,"{""04017"": 95.09, ""04001"": 4.91}",Navajo|Apache,04017|04001,False,False,America/Denver,"(36.67692, -110.25536)",5.1493334817333825,8080.0,28660_0_yes,36.74652000525999,-110.22211834681026,5.0

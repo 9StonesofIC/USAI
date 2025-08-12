@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87035,34.95116,-105.90273,Moriarty,NM,New Mexico,True,,6903.0,7.8,35057,Torrance,"{""35057"": 96.93, ""35049"": 3.07}",Torrance|Santa Fe,35057|35049,False,False,America/Denver,"(34.95116, -105.90273)",4.775825662565377,6903.0,24658_0_yes,35.00337407377316,-105.95800701038284,5.0

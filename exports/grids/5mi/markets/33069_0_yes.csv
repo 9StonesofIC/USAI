@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62879,38.7651,-88.35907,Sailor Springs,IL,Illinois,True,,108.0,336.1,17025,Clay,"{""17025"": 100}",Clay,17025,False,False,America/Chicago,"(38.7651, -88.35907)",1.5047910243891824,108.0,33069_0_yes,38.7586058262187,-88.33240994100257,5.0

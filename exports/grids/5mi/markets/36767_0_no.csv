@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17003,40.35735,-76.55528,Annville,PA,Pennsylvania,True,,12565.0,113.7,42075,Lebanon,"{""42075"": 100}",Lebanon,42075,False,False,America/New_York,"(40.35735, -76.55528)",3.975677510322288,21118.0,36767_0_no,40.41488802402481,-76.55456373995116,5.0
+17038,40.46787,-76.54895,Jonestown,PA,Pennsylvania,True,,8553.0,49.9,42075,Lebanon,"{""42075"": 100}",Lebanon,42075,False,False,America/New_York,"(40.46787, -76.54895)",3.672588915582807,21118.0,36767_0_no,40.41488802402481,-76.55456373995116,5.0

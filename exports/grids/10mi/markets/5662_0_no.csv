@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92225,33.71642,-114.65606,Blythe,CA,California,True,,22520.0,15.0,6065,Riverside,"{""06065"": 99.52, ""06025"": 0.48}",Riverside|Imperial,06065|06025,False,False,America/Los_Angeles,"(33.71642, -114.65606)",10.379766042993278,22520.0,5662_0_no,33.842276105500844,-114.75474880573256,10.0

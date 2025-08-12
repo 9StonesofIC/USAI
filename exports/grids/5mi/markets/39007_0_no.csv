@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52327,41.477,-91.58046,Riverside,IA,Iowa,True,,3455.0,16.6,19183,Washington,"{""19183"": 72.67, ""19103"": 27.2, ""19115"": 0.13}",Washington|Johnson|Louisa,19183|19103|19115,False,False,America/Chicago,"(41.477, -91.58046)",2.652035388076155,3455.0,39007_0_no,41.441082272729446,-91.59852043904776,5.0

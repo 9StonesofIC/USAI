@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71023,32.4662,-93.40797,Doyline,LA,Louisiana,True,,3048.0,24.1,22119,Webster,"{""22119"": 73.75, ""22015"": 26.25}",Webster|Bossier,22119|22015,False,False,America/Chicago,"(32.4662, -93.40797)",1.0438611181920558,3048.0,18791_0_no,32.45663657005061,-93.42183162586144,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14772,42.15383,-78.95086,Randolph,NY,New York,True,,3995.0,20.1,36009,Cattaraugus,"{""36009"": 100}",Cattaraugus,36009,False,False,America/New_York,"(42.15383, -78.95086)",0.10889711588169937,3995.0,40466_0_no,42.15442994173465,-78.95282594010827,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98592,47.32895,-123.07907,Union,WA,Washington,True,,1740.0,38.0,53045,Mason,"{""53045"": 100}",Mason,53045,False,False,America/Los_Angeles,"(47.32895, -123.07907)",0.3414986279916982,1740.0,50876_0_yes,47.33280255196142,-123.08363833748264,5.0

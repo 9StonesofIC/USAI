@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56568,47.5292,-96.77925,Nielsville,MN,Minnesota,True,,161.0,2.1,27119,Polk,"{""27119"": 93.33, ""27107"": 6.67}",Polk|Norman,27119|27107,False,False,America/Chicago,"(47.5292, -96.77925)",3.503974135970416,395.0,51279_0_no,47.52539507884128,-96.70435704200855,5.0
+56581,47.45725,-96.76141,Shelly,MN,Minnesota,True,,234.0,2.3,27107,Norman,"{""27107"": 100}",Norman,27107,False,False,America/Chicago,"(47.45725, -96.76141)",5.409584202453755,395.0,51279_0_no,47.52539507884128,-96.70435704200855,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47446,38.73818,-86.52031,Mitchell,IN,Indiana,True,,9982.0,30.7,18093,Lawrence,"{""18093"": 91.02, ""18101"": 8.98}",Lawrence|Martin,18093|18101,False,False,America/Indiana/Indianapolis,"(38.73818, -86.52031)",2.4949313753242772,9982.0,33059_0_yes,38.75713942894952,-86.48090581170631,5.0

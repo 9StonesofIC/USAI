@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87752,36.01339,-104.62763,Wagon Mound,NM,New Mexico,True,,594.0,0.3,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(36.01339, -104.62763)",1.3520980908075868,594.0,6815_0_yes,36.00226515588452,-104.64753185203844,10.0

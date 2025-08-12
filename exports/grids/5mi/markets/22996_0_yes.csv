@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85940,34.25265,-109.69729,Vernon,AZ,Arizona,True,,1341.0,5.3,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix,"(34.25265, -109.69729)",4.898812725254656,1341.0,22996_0_yes,34.28087452135821,-109.6185880117176,5.0

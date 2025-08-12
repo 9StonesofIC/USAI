@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23915,36.70668,-78.28627,Baskerville,VA,Virginia,True,,1366.0,14.8,51117,Mecklenburg,"{""51117"": 100}",Mecklenburg,51117,False,False,America/New_York,"(36.70668, -78.28627)",2.695923963147957,1366.0,28483_0_yes,36.72238030765221,-78.3308300301777,5.0

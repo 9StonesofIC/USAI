@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54489,44.45445,-90.0075,Vesper,WI,Wisconsin,True,,1642.0,13.3,55141,Wood,"{""55141"": 100}",Wood,55141,False,False,America/Chicago,"(44.45445, -90.0075)",4.894765718736878,1642.0,45282_0_no,44.48013890182976,-89.91498832424867,5.0

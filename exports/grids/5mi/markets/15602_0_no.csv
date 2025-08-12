@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31550,31.13924,-82.59575,Manor,GA,Georgia,True,,762.0,5.1,13299,Ware,"{""13299"": 91.98, ""13065"": 8.02}",Ware|Clinch,13299|13065,False,False,America/New_York,"(31.13924, -82.59575)",2.4756778071384478,762.0,15602_0_no,31.14404323687692,-82.55426404559019,5.0

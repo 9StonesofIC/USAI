@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78028,30.04115,-99.16276,Kerrville,TX,Texas,True,,40058.0,58.7,48265,Kerr,"{""48265"": 83.83, ""48171"": 16.17}",Kerr|Gillespie,48265|48171,False,False,America/Chicago,"(30.04115, -99.16276)",5.319701374609085,40058.0,12887_0_no,29.99421021525179,-99.23324298764813,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35746,34.8287,-85.99868,Fackler,AL,Alabama,True,,558.0,4.0,1071,Jackson,"{""01071"": 100}",Jackson,01071,False,False,America/Chicago,"(34.8287, -85.99868)",5.291397561000112,12782.0,24193_0_no,34.77151801885095,-86.06071903681888,5.0
+35768,34.77852,-86.10383,Scottsboro,AL,Alabama,True,,12224.0,27.4,1071,Jackson,"{""01071"": 100}",Jackson,01071,False,False,America/Chicago,"(34.77852, -86.10383)",2.494056965003498,12782.0,24193_0_no,34.77151801885095,-86.06071903681888,5.0

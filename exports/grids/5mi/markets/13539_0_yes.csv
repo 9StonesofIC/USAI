@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36509,30.4077,-88.24726,Bayou La Batre,AL,Alabama,True,,1634.0,63.7,1097,Mobile,"{""01097"": 100}",Mobile,01097,False,False,America/Chicago,"(30.4077, -88.24726)",6.061148047644122,4688.0,13539_0_yes,30.349858001979207,-88.17081058638823,5.0
+36523,30.37852,-88.16536,Coden,AL,Alabama,True,,3054.0,32.0,1097,Mobile,"{""01097"": 100}",Mobile,01097,False,False,America/Chicago,"(30.37852, -88.16536)",2.0068369555280547,4688.0,13539_0_yes,30.349858001979207,-88.17081058638823,5.0

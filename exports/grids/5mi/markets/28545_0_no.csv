@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65680,36.64518,-92.98551,Kissee Mills,MO,Missouri,True,,992.0,9.6,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago,"(36.64518, -92.98551)",3.9697219294837924,1242.0,28545_0_no,36.66109204070353,-93.05432403542446,5.0
+65731,36.65458,-93.12222,Powersite,MO,Missouri,True,,250.0,68.5,29213,Taney,"{""29213"": 100}",Taney,29213,False,False,America/Chicago,"(36.65458, -93.12222)",3.7901250359626677,1242.0,28545_0_no,36.66109204070353,-93.05432403542446,5.0

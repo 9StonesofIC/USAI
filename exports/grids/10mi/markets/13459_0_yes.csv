@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58727,48.85542,-102.80479,Columbus,ND,North Dakota,True,,173.0,0.3,38013,Burke,"{""38013"": 100}",Burke,38013,False,False,America/Chicago,"(48.85542, -102.80479)",10.007507962100528,465.0,13459_0_yes,48.73953902696542,-102.67287933284724,10.0
+58752,48.82146,-102.59927,Lignite,ND,North Dakota,True,,292.0,1.4,38013,Burke,"{""38013"": 100}",Burke,38013,False,False,America/Chicago,"(48.82146, -102.59927)",6.577945315734378,465.0,13459_0_yes,48.73953902696542,-102.67287933284724,10.0

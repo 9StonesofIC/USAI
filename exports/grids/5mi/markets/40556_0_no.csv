@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68067,42.1519,-96.48603,Walthill,NE,Nebraska,True,,1339.0,8.5,31173,Thurston,"{""31173"": 100}",Thurston,31173,False,False,America/Chicago,"(42.1519, -96.48603)",1.2487473048284825,3478.0,40556_0_no,42.16930446849883,-96.4794584461617,5.0
+68071,42.23605,-96.47446,Winnebago,NE,Nebraska,True,,2139.0,10.6,31173,Thurston,"{""31173"": 100}",Thurston,31173,False,False,America/Chicago,"(42.23605, -96.47446)",4.618767706609293,3478.0,40556_0_no,42.16930446849883,-96.4794584461617,5.0

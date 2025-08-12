@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14521,42.67639,-76.80876,Ovid,NY,New York,True,,3077.0,30.9,36099,Seneca,"{""36099"": 100}",Seneca,36099,False,False,America/New_York,"(42.67639, -76.80876)",4.589028184903194,7661.0,41662_0_no,42.73163017385722,-76.75857951190238,5.0
+14541,42.75704,-76.84403,Romulus,NY,New York,True,,4584.0,36.9,36099,Seneca,"{""36099"": 100}",Seneca,36099,False,False,America/New_York,"(42.75704, -76.84403)",4.677842417395043,7661.0,41662_0_no,42.73163017385722,-76.75857951190238,5.0

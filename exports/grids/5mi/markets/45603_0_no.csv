@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56264,44.57529,-95.98001,Minneota,MN,Minnesota,True,,2117.0,6.3,27083,Lyon,"{""27083"": 69.9, ""27173"": 25.8, ""27081"": 4.3}",Lyon|Yellow Medicine|Lincoln,27083|27173|27081,False,False,America/Chicago,"(44.57529, -95.98001)",5.056339690870182,2117.0,45603_0_no,44.630209080917695,-95.9120778357756,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19933,38.73699,-75.60586,Bridgeville,DE,Delaware,True,,11457.0,65.8,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.73699, -75.60586)",5.943731033171038,11457.0,32979_0_no,38.676082675354735,-75.52801162709572,5.0

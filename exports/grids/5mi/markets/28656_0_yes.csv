@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86545,36.71125,-109.58943,Rock Point,AZ,Arizona,True,,1264.0,1.2,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(36.71125, -109.58943)",5.4381614719695435,1264.0,28656_0_yes,36.74597424242732,-109.50130096046908,5.0

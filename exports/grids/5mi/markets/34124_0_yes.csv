@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81654,39.21462,-107.02597,Snowmass,CO,Colorado,True,,1729.0,6.5,8097,Pitkin,"{""08097"": 100}",Pitkin,08097,False,False,America/Denver,"(39.21462, -107.02597)",4.561311367972147,1729.0,34124_0_yes,39.20824535359244,-107.1107745105989,5.0

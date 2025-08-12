@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82941,42.99919,-109.90869,Pinedale,WY,Wyoming,True,,4981.0,2.9,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver,"(42.99919, -109.90869)",3.493964850008464,4981.0,42430_0_no,43.04973907114558,-109.9067625523247,5.0

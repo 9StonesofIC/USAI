@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75956,30.6721,-93.96706,Kirbyville,TX,Texas,True,,9595.0,15.2,48241,Jasper,"{""48241"": 88.21, ""48351"": 11.79}",Jasper|Newton,48241|48351,False,False,America/Chicago,"(30.6721, -93.96706)",2.641363853207128,9595.0,14278_0_yes,30.643713435989135,-93.93729383161326,5.0

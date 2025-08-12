@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70453,30.69385,-90.76918,Pine Grove,LA,Louisiana,True,,587.0,6.1,22091,St. Helena,"{""22091"": 94.45, ""22063"": 5.55}",St. Helena|Livingston,22091|22063,False,False,America/Chicago,"(30.69385, -90.76918)",3.8309985924726675,587.0,14259_0_yes,30.64165384833192,-90.74743303833124,5.0

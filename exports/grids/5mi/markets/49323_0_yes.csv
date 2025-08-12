@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49938,46.51493,-90.13264,Ironwood,MI,Michigan,True,,7493.0,12.8,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.51493, -90.13264)",4.415718947140493,7493.0,49323_0_yes,46.57876397223781,-90.1371533292574,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27356,35.43991,-79.7982,Star,NC,North Carolina,True,,2974.0,20.3,37123,Montgomery,"{""37123"": 78.79, ""37125"": 21.21}",Montgomery|Moore,37123|37125,False,False,America/New_York,"(35.43991, -79.7982)",1.4728902153880647,2974.0,25513_0_yes,35.41920823874152,-79.80444181331622,5.0

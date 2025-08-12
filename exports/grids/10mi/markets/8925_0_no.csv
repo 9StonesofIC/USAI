@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84638,39.50192,-112.25773,Leamington,UT,Utah,True,,362.0,3.1,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(39.50192, -112.25773)",12.883864234583726,362.0,8925_0_no,39.636751147124514,-112.09063112394452,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62378,39.89602,-90.63652,Versailles,IL,Illinois,True,,928.0,5.4,17009,Brown,"{""17009"": 100}",Brown,17009,False,False,America/Chicago,"(39.89602, -90.63652)",5.107084697660618,928.0,35614_0_yes,39.91933432776393,-90.54507903016862,5.0

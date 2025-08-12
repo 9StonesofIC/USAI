@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98604,45.80013,-122.5054,Battle Ground,WA,Washington,True,,37333.0,200.1,53011,Clark,"{""53011"": 100}",Clark,53011,False,False,America/Los_Angeles,"(45.80013, -122.5054)",3.4650336270405018,37333.0,48036_0_no,45.8121834544737,-122.43556675164652,5.0

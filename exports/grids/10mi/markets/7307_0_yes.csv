@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88418,36.74995,-103.63874,Des Moines,NM,New Mexico,True,,328.0,0.2,35059,Union,"{""35059"": 100}",Union,35059,False,False,America/Denver,"(36.74995, -103.63874)",8.923586047095933,496.0,7307_0_yes,36.8703659628281,-103.69706232841637,10.0
+88419,36.91839,-103.54734,Folsom,NM,New Mexico,True,,168.0,0.1,35059,Union,"{""35059"": 100}",Union,35059,False,False,America/Denver,"(36.91839, -103.54734)",8.913812509323876,496.0,7307_0_yes,36.8703659628281,-103.69706232841637,10.0

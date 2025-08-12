@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73080,35.00725,-97.452,Purcell,OK,Oklahoma,True,,9569.0,36.9,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago,"(35.00725, -97.452)",2.580738170940616,9569.0,24610_0_yes,34.997229693685505,-97.49592743044556,5.0

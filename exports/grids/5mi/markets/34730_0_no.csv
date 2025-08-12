@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80424,39.47089,-106.01685,Breckenridge,CO,Colorado,True,,10769.0,33.0,8117,Summit,"{""08117"": 100}",Summit,08117,False,False,America/Denver,"(39.47089, -106.01685)",3.437173556131041,10769.0,34730_0_no,39.42479906763263,-106.04108981326708,5.0

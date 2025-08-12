@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78385,27.1276,-97.8369,Sarita,TX,Texas,True,,391.0,0.5,48261,Kenedy,"{""48261"": 100}",Kenedy,48261,False,False,America/Chicago,"(27.1276, -97.8369)",9.994110829866598,391.0,1387_0_yes,27.00230795812455,-97.7557307304144,10.0

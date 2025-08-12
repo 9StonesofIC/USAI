@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74046,35.75455,-96.56969,Milfay,OK,Oklahoma,True,,130.0,24.8,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago,"(35.75455, -96.56969)",2.9180569462532415,130.0,26273_0_yes,35.721436887038855,-96.53739428417386,5.0

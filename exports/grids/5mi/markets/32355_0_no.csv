@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22973,38.33588,-78.46915,Stanardsville,VA,Virginia,True,,5750.0,21.5,51079,Greene,"{""51079"": 89.63, ""51113"": 10.37}",Greene|Madison,51079|51113,False,False,America/New_York,"(38.33588, -78.46915)",3.802978513009054,5750.0,32355_0_no,38.3887013512268,-78.48888401884645,5.0

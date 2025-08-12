@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93532,34.68571,-118.55914,Lake Hughes,CA,California,True,,2637.0,8.3,6037,Los Angeles,"{""06037"": 100}",Los Angeles,06037,False,False,America/Los_Angeles,"(34.68571, -118.55914)",3.4045137326288253,2637.0,24042_0_no,34.649964572475106,-118.6003753528398,5.0

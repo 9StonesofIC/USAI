@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05734,43.98243,-73.33286,Bridport,VT,Vermont,True,,1228.0,11.0,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York,"(43.98243, -73.33286)",3.6256637234430116,1228.0,44321_0_no,44.03128773620031,-73.30624239003599,5.0

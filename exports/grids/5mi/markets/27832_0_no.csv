@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37857,36.42145,-82.94269,Rogersville,TN,Tennessee,True,,20429.0,33.5,47073,Hawkins,"{""47073"": 99.4, ""47163"": 0.6}",Hawkins|Sullivan,47073|47163,False,False,America/New_York,"(36.42145, -82.94269)",4.024855760162892,20429.0,27832_0_no,36.36362014873989,-82.95139017992062,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82229,42.85613,-104.9863,Shawnee,WY,Wyoming,True,,1.0,0.0,56009,Converse,"{""56009"": 100}",Converse,56009,False,False,America/Denver,"(42.85613, -104.9863)",3.800422256675906,1.0,41832_0_yes,42.82816047467259,-104.9217063517815,5.0

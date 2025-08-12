@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35775,34.5477,-86.69623,Valhermoso Springs,AL,Alabama,True,,726.0,16.8,1103,Morgan,"{""01103"": 100}",Morgan,01103,False,False,America/Chicago,"(34.5477, -86.69623)",4.106775568238316,726.0,23541_0_yes,34.554536012421934,-86.7679178668642,5.0

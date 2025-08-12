@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59751,45.69001,-112.29755,Silver Star,MT,Montana,True,,277.0,4.0,30057,Madison,"{""30057"": 100}",Madison,30057,False,False,America/Denver,"(45.69001, -112.29755)",2.5204733759275633,277.0,47702_0_no,45.65825455538431,-112.32324402479809,5.0

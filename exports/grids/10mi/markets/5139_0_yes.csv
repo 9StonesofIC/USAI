@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88049,33.04814,-108.06782,Mimbres,NM,New Mexico,True,,304.0,0.2,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(33.04814, -108.06782)",4.53654216626258,304.0,5139_0_yes,33.10770635305229,-108.10078158168342,10.0

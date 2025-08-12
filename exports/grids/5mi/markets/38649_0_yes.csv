@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17737,41.28673,-76.68149,Hughesville,PA,Pennsylvania,True,,6596.0,42.2,42081,Lycoming,"{""42081"": 98.35, ""42113"": 1.65}",Lycoming|Sullivan,42081|42113,False,False,America/New_York,"(41.28673, -76.68149)",5.067070947687641,6596.0,38649_0_yes,41.35618516493098,-76.71283682504165,5.0

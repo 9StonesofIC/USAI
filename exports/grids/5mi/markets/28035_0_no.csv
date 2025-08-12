@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93291,36.38931,-119.36838,Visalia,CA,California,True,,58394.0,267.8,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.38931, -119.36838)",0.5157002121377551,58394.0,28035_0_no,36.39094958956679,-119.35933461556805,5.0

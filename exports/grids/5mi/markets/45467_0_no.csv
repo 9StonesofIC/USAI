@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04605,44.66038,-68.41623,Ellsworth,ME,Maine,True,,14311.0,20.8,23009,Hancock,"{""23009"": 100}",Hancock,23009,False,False,America/New_York,"(44.66038, -68.41623)",5.469737010759538,16349.0,45467_0_no,44.60573005001702,-68.33574526212978,5.0
+04640,44.53803,-68.30573,Hancock,ME,Maine,True,,2038.0,26.8,23009,Hancock,"{""23009"": 100}",Hancock,23009,False,False,America/New_York,"(44.53803, -68.30573)",4.9053826554763775,16349.0,45467_0_no,44.60573005001702,-68.33574526212978,5.0

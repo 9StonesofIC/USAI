@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77550,29.31021,-94.77706,Galveston,TX,Texas,True,,21710.0,1108.6,48167,Galveston,"{""48167"": 100}",Galveston,48167,False,False,America/Chicago,"(29.31021, -94.77706)",3.0690538908583855,43908.0,11085_0_no,29.26587491019265,-94.78018715128135,5.0
+77551,29.27903,-94.83502,Galveston,TX,Texas,True,,22198.0,2167.8,48167,Galveston,"{""48167"": 100}",Galveston,48167,False,False,America/Chicago,"(29.27903, -94.83502)",3.4275176380412655,43908.0,11085_0_no,29.26587491019265,-94.78018715128135,5.0

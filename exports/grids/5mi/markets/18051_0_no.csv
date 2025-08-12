@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31821,32.14048,-84.97083,Omaha,GA,Georgia,True,,227.0,1.3,13259,Stewart,"{""13259"": 100}",Stewart,13259,False,False,America/Chicago,"(32.14048, -84.97083)",1.8469899727085473,227.0,18051_0_no,32.160869739637874,-84.99124828962823,5.0

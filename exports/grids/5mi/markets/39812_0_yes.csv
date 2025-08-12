@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95543,41.88847,-123.80238,Gasquet,CA,California,True,,629.0,1.7,6015,Del Norte,"{""06015"": 100}",Del Norte,06015,False,False,America/Los_Angeles,"(41.88847, -123.80238)",4.410979227700264,629.0,39812_0_yes,41.83026677387735,-123.8375987231486,5.0

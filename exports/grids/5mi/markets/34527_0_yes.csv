@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95469,39.38853,-123.05972,Potter Valley,CA,California,True,,1499.0,3.1,6045,Mendocino,"{""06045"": 62.1, ""06033"": 37.9}",Mendocino|Lake,06045|06033,False,False,America/Los_Angeles,"(39.38853, -123.05972)",4.187967555797045,1499.0,34527_0_yes,39.36601301068512,-123.13252284933678,5.0

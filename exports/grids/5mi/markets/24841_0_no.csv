@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29322,35.12254,-82.13157,Campobello,SC,South Carolina,True,,9177.0,61.2,45083,Spartanburg,"{""45083"": 97.74, ""45045"": 2.26}",Spartanburg|Greenville,45083|45045,False,False,America/New_York,"(35.12254, -82.13157)",6.622382542464702,9177.0,24841_0_no,35.05865136723285,-82.21888898758127,5.0

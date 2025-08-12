@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95536,40.51069,-124.26547,Ferndale,CA,California,True,,3081.0,7.3,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.51069, -124.26547)",1.712175496037262,3081.0,37042_0_yes,40.52642333754071,-124.24028539700409,5.0

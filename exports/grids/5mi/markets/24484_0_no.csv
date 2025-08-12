@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28393,34.98205,-78.18895,Turkey,NC,North Carolina,True,,2012.0,16.6,37163,Sampson,"{""37163"": 99.37, ""37061"": 0.63}",Sampson|Duplin,37163|37061,False,False,America/New_York,"(34.98205, -78.18895)",5.817846320740648,2012.0,24484_0_no,34.910819397685394,-78.24373063715363,5.0

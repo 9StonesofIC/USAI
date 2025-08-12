@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76240,33.65654,-97.17766,Gainesville,TX,Texas,True,,28546.0,29.8,48097,Cooke,"{""48097"": 100}",Cooke,48097,False,False,America/Chicago,"(33.65654, -97.17766)",2.6177869362055275,29440.0,21552_0_no,33.6194655715206,-97.16828197217826,5.0
+76250,33.63006,-97.24237,Lindsay,TX,Texas,True,,894.0,83.2,48097,Cooke,"{""48097"": 100}",Cooke,48097,False,False,America/Chicago,"(33.63006, -97.24237)",4.324892495624047,29440.0,21552_0_no,33.6194655715206,-97.16828197217826,5.0

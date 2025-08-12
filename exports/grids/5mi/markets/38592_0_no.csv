@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+02535,41.34896,-70.74629,Chilmark,MA,Massachusetts,True,,2005.0,31.8,25007,Dukes,"{""25007"": 100}",Dukes,25007,False,False,America/New_York,"(41.34896, -70.74629)",4.904971929500828,2005.0,38592_0_no,41.27884432314517,-70.7314983316595,5.0

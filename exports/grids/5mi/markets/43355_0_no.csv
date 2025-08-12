@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83634,43.44824,-116.33287,Kuna,ID,Idaho,True,,28443.0,70.3,16001,Ada,"{""16001"": 95.17, ""16027"": 4.83}",Ada|Canyon,16001|16027,False,False,America/Boise,"(43.44824, -116.33287)",3.2880449929014772,88892.0,43355_0_no,43.48982664203154,-116.36474689105626,5.0
+83709,43.55212,-116.28847,Boise,ID,Idaho,True,,60449.0,692.6,16001,Ada,"{""16001"": 100}",Ada,16001,False,False,America/Boise,"(43.55212, -116.28847)",5.755803570660583,88892.0,43355_0_no,43.48982664203154,-116.36474689105626,5.0

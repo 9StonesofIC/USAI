@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24161,36.98132,-79.54391,Sandy Level,VA,Virginia,True,,402.0,5.5,51143,Pittsylvania,"{""51143"": 100}",Pittsylvania,51143,False,False,America/New_York,"(36.98132, -79.54391)",3.830182755413972,402.0,29145_0_yes,37.01314552086807,-79.60074107292915,5.0

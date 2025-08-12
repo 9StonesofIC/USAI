@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72704,36.10475,-94.29539,Fayetteville,AR,Arkansas,True,,26480.0,132.7,5143,Washington,"{""05143"": 98.61, ""05007"": 1.39}",Washington|Benton,05143|05007,False,False,America/Chicago,"(36.10475, -94.29539)",4.035222707223056,26480.0,27236_0_no,36.082273525757365,-94.362098307221,5.0

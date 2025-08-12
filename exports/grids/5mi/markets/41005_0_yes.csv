@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97637,42.46142,-119.92486,Plush,OR,Oregon,True,,126.0,0.4,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles,"(42.46142, -119.92486)",3.818603813479364,126.0,41005_0_yes,42.40646172940573,-119.91695280649222,5.0

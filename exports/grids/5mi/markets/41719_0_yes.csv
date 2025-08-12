@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48063,42.85581,-82.67676,Columbus,MI,Michigan,True,,4028.0,42.3,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(42.85581, -82.67676)",3.2550996266810133,8073.0,41719_0_yes,42.80905283507301,-82.68462508965351,5.0
+48064,42.76719,-82.67233,Casco,MI,Michigan,True,,4045.0,42.2,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(42.76719, -82.67233)",2.9588699756142587,8073.0,41719_0_yes,42.80905283507301,-82.68462508965351,5.0

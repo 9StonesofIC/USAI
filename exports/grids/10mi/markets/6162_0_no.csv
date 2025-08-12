@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86301,34.59452,-112.42454,Prescott,AZ,Arizona,True,,23882.0,276.1,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.59452, -112.42454)",10.368603532991289,40914.0,6162_0_no,34.70925034741325,-112.54212870599292,10.0
+86323,34.76606,-112.40424,Chino Valley,AZ,Arizona,True,,17032.0,57.3,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.76606, -112.40424)",8.758013900112132,40914.0,6162_0_no,34.70925034741325,-112.54212870599292,10.0

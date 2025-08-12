@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82443,43.71794,-108.48023,Thermopolis,WY,Wyoming,True,,4473.0,1.6,56017,Hot Springs,"{""56017"": 100}",Hot Springs,56017,False,False,America/Denver,"(43.71794, -108.48023)",17.606341412788858,5547.0,2769_0_yes,43.51145741231852,-108.27397856553604,20.0
+82649,43.27229,-108.04155,Shoshoni,WY,Wyoming,True,,1074.0,0.7,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver,"(43.27229, -108.04155)",20.230085012927777,5547.0,2769_0_yes,43.51145741231852,-108.27397856553604,20.0

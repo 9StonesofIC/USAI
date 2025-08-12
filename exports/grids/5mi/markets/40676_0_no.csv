@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97620,42.223,-119.89677,Adel,OR,Oregon,True,,106.0,0.1,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles,"(42.223, -119.89677)",3.17930432062405,106.0,40676_0_no,42.18914917076324,-119.85469238354848,5.0

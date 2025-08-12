@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54724,45.10793,-91.48458,Bloomer,WI,Wisconsin,True,,7188.0,17.1,55017,Chippewa,"{""55017"": 99.43, ""55033"": 0.57}",Chippewa|Dunn,55017|55033,False,False,America/Chicago,"(45.10793, -91.48458)",5.187241059730148,7188.0,46451_0_no,45.060431479145045,-91.4022365289484,5.0

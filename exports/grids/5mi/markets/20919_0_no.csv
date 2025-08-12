@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88324,33.38666,-105.47268,Glencoe,NM,New Mexico,True,,225.0,2.2,35027,Lincoln,"{""35027"": 100}",Lincoln,35027,False,False,America/Denver,"(33.38666, -105.47268)",6.066317593865522,2845.0,20919_0_no,33.33525199227762,-105.55789646562766,5.0
+88346,33.34814,-105.54073,Ruidoso Downs,NM,New Mexico,True,,2620.0,19.4,35027,Lincoln,"{""35027"": 100}",Lincoln,35027,False,False,America/Denver,"(33.34814, -105.54073)",1.3322044392695231,2845.0,20919_0_no,33.33525199227762,-105.55789646562766,5.0

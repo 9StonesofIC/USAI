@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46310,41.18205,-87.23088,Demotte,IN,Indiana,True,,13615.0,82.9,18073,Jasper,"{""18073"": 77.98, ""18111"": 22.02}",Jasper|Newton,18073|18111,False,False,America/Chicago,"(41.18205, -87.23088)",3.636653885526774,13615.0,38396_0_yes,41.22011640170137,-87.18256898906512,5.0

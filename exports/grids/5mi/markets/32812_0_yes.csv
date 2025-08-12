@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67572,38.68663,-99.90825,Ransom,KS,Kansas,True,,392.0,0.7,20135,Ness,"{""20135"": 51.86, ""20195"": 48.14}",Ness|Trego,20135|20195,False,False,America/Chicago,"(38.68663, -99.90825)",5.029552929975169,392.0,32812_0_yes,38.62282889615514,-99.86337069640656,5.0

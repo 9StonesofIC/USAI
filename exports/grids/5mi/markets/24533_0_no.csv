@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35739,34.96914,-86.79501,Ardmore,AL,Alabama,True,,4380.0,63.4,1083,Limestone,"{""01083"": 55.35, ""01089"": 44.65}",Limestone|Madison,01083|01089,False,False,America/Chicago,"(34.96914, -86.79501)",5.698890645736451,4380.0,24533_0_no,34.917071804775986,-86.87304729560562,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26296,38.75425,-79.56369,Whitmer,WV,West Virginia,True,,82.0,1.4,54083,Randolph,"{""54083"": 100}",Randolph,54083,False,False,America/New_York,"(38.75425, -79.56369)",5.767970068533374,634.0,33319_0_no,38.82408562639792,-79.50500985633691,5.0
+26814,38.75176,-79.46648,Riverton,WV,West Virginia,True,,552.0,3.4,54071,Pendleton,"{""54071"": 100}",Pendleton,54071,False,False,America/New_York,"(38.75176, -79.46648)",5.410931920874644,634.0,33319_0_no,38.82408562639792,-79.50500985633691,5.0

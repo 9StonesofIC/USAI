@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47102,38.75745,-85.7951,Austin,IN,Indiana,True,,6804.0,62.4,18143,Scott,"{""18143"": 80.72, ""18071"": 19.28}",Scott|Jackson,18143|18071,False,False,America/Indiana/Indianapolis,"(38.75745, -85.7951)",2.9524570820397313,6804.0,33055_0_yes,38.75655289142939,-85.74031476794305,5.0

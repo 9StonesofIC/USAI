@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81126,37.16146,-105.34724,Chama,CO,Colorado,True,,346.0,13.4,8023,Costilla,"{""08023"": 100}",Costilla,08023,False,False,America/Denver,"(37.16146, -105.34724)",4.472839868641342,1472.0,29614_0_yes,37.17778679191917,-105.4258538160552,5.0
+81152,37.12609,-105.39411,San Luis,CO,Colorado,True,,1126.0,0.9,8023,Costilla,"{""08023"": 100}",Costilla,08023,False,False,America/Denver,"(37.12609, -105.39411)",3.976743884616236,1472.0,29614_0_yes,37.17778679191917,-105.4258538160552,5.0

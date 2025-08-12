@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97751,44.14856,-119.81945,Paulina,OR,Oregon,True,,62.0,0.1,41013,Crook,"{""41013"": 100}",Crook,41013,False,False,America/Los_Angeles,"(44.14856, -119.81945)",13.054244517556954,62.0,11375_0_no,44.285296288217154,-120.0013721037162,10.0

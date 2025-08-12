@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99157,48.93007,-117.81753,Northport,WA,Washington,True,,589.0,3.5,53065,Stevens,"{""53065"": 100}",Stevens,53065,False,False,America/Los_Angeles,"(48.93007, -117.81753)",1.1781659107285105,589.0,13615_0_no,48.91319843758537,-117.81376708069016,10.0

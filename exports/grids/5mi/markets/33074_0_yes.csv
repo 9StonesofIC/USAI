@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62253,38.77554,-89.29738,Keyesport,IL,Illinois,True,,665.0,8.2,17005,Bond,"{""17005"": 80.1, ""17051"": 12.94, ""17027"": 6.96}",Bond|Fayette|Clinton,17005|17051|17027,False,False,America/Chicago,"(38.77554, -89.29738)",2.3902821288508465,665.0,33074_0_yes,38.75933905349901,-89.25817621385971,5.0

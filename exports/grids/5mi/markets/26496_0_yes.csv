@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27892,35.81844,-77.06434,Williamston,NC,North Carolina,True,,14068.0,29.4,37117,Martin,"{""37117"": 99.57, ""37013"": 0.43}",Martin|Beaufort,37117|37013,False,False,America/New_York,"(35.81844, -77.06434)",2.3166613117583217,14068.0,26496_0_yes,35.85196901615219,-77.06453949406053,5.0

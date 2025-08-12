@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87730,36.10704,-104.23485,Mills,NM,New Mexico,True,,9.0,0.0,35021,Harding,"{""35021"": 100}",Harding,35021,False,False,America/Denver,"(36.10704, -104.23485)",7.91307462565794,9.0,6814_0_yes,36.00173394967678,-104.29054050256664,10.0

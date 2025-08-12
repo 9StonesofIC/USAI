@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18417,41.80705,-75.20122,Equinunk,PA,Pennsylvania,True,,1014.0,7.1,42127,Wayne,"{""42127"": 100}",Wayne,42127,False,False,America/New_York,"(41.80705, -75.20122)",1.783574323803363,1014.0,39561_0_yes,41.789289535922656,-75.22634822363524,5.0

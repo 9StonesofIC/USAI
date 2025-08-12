@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91916,32.91103,-116.63201,Descanso,CA,California,True,,1775.0,11.1,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.91103, -116.63201)",1.7892956673117695,2305.0,19958_0_no,32.90772284298003,-116.66260413157184,5.0
+91931,32.83758,-116.58029,Guatay,CA,California,True,,530.0,24.9,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.83758, -116.58029)",6.804742410037443,2305.0,19958_0_no,32.90772284298003,-116.66260413157184,5.0

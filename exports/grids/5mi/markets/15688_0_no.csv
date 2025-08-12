@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76656,31.18555,-97.06161,Lott,TX,Texas,True,,2656.0,8.5,48145,Falls,"{""48145"": 100}",Falls,48145,False,False,America/Chicago,"(31.18555, -97.06161)",2.250391372649188,2656.0,15688_0_no,31.15355336978625,-97.06872269457789,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87722,36.12837,-105.24424,Guadalupita,NM,New Mexico,True,,586.0,1.9,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(36.12837, -105.24424)",2.803828053307255,586.0,27297_0_no,36.0903993436399,-105.26196179953784,5.0

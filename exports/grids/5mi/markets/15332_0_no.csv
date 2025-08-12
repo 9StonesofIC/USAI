@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77871,31.05129,-96.10903,Normangee,TX,Texas,True,,3009.0,5.7,48289,Leon,"{""48289"": 61.07, ""48313"": 38.93}",Leon|Madison,48289|48313,False,False,America/Chicago,"(31.05129, -96.10903)",3.0505429910308894,3009.0,15332_0_no,31.007842819634973,-96.09986684744192,5.0

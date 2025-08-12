@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49679,43.8747,-85.14895,Sears,MI,Michigan,True,,1109.0,7.7,26133,Osceola,"{""26133"": 86.61, ""26107"": 13.39}",Osceola|Mecosta,26133|26107,False,False,America/Detroit,"(43.8747, -85.14895)",3.71925165050999,1109.0,43817_0_yes,43.82454334286219,-85.17604854260227,5.0

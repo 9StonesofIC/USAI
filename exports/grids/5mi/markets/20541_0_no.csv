@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76483,33.16667,-99.25111,Throckmorton,TX,Texas,True,,895.0,0.8,48447,Throckmorton,"{""48447"": 100}",Throckmorton,48447,False,False,America/Chicago,"(33.16667, -99.25111)",2.997112093233813,895.0,20541_0_no,33.18579535950617,-99.20459358696333,5.0

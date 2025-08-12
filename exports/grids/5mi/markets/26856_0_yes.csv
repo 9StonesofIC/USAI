@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28705,36.04349,-82.1573,Bakersville,NC,North Carolina,True,,6800.0,21.1,37121,Mitchell,"{""37121"": 99.53, ""37199"": 0.47}",Mitchell|Yancey,37121|37199,False,False,America/New_York,"(36.04349, -82.1573)",2.96778677916775,6800.0,26856_0_yes,36.00067166980857,-82.15309398517367,5.0

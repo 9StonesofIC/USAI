@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32137,29.58057,-81.22455,Palm Coast,FL,Florida,True,,44396.0,274.7,12035,Flagler,"{""12035"": 100}",Flagler,12035,False,False,America/New_York,"(29.58057, -81.22455)",4.911551075617074,44396.0,11726_0_yes,29.620166114392266,-81.29244781212023,5.0

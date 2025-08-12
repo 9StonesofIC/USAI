@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29501,34.20414,-79.82654,Florence,SC,South Carolina,True,,46306.0,341.3,45041,Florence,"{""45041"": 85.45, ""45031"": 14.55}",Florence|Darlington,45041|45031,False,False,America/New_York,"(34.20414, -79.82654)",2.6981143519826363,46306.0,22810_0_no,34.187219580197535,-79.86908994877098,5.0

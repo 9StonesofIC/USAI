@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69357,42.0776,-103.79553,Mitchell,NE,Nebraska,True,,3369.0,3.5,31165,Sioux,"{""31165"": 68.56, ""31157"": 31.44}",Sioux|Scotts Bluff,31165|31157,False,False,America/Denver,"(42.0776, -103.79553)",4.51567748140365,3369.0,40290_0_no,42.030625346728826,-103.73433222176784,5.0

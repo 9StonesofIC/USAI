@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24539,36.85376,-78.90728,Crystal Hill,VA,Virginia,True,,135.0,5.2,51083,Halifax,"{""51083"": 100}",Halifax,51083,False,False,America/New_York,"(36.85376, -78.90728)",4.204089794392464,6269.0,28794_0_no,36.795323118326856,-78.92845935069508,5.0
+24558,36.77914,-78.95741,Halifax,VA,Virginia,True,,6134.0,24.9,51083,Halifax,"{""51083"": 100}",Halifax,51083,False,False,America/New_York,"(36.77914, -78.95741)",1.9536014484286321,6269.0,28794_0_no,36.795323118326856,-78.92845935069508,5.0

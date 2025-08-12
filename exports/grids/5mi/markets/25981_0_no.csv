@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87053,35.57537,-106.87832,San Ysidro,NM,New Mexico,True,,1268.0,2.8,35043,Sandoval,"{""35043"": 100}",Sandoval,35043,False,False,America/Denver,"(35.57537, -106.87832)",5.375141024166083,1268.0,25981_0_no,35.511574474540794,-106.82360243224028,5.0

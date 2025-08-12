@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65084,38.43574,-92.85119,Versailles,MO,Missouri,True,,6534.0,15.0,29141,Morgan,"{""29141"": 98.75, ""29135"": 1.25}",Morgan|Moniteau,29141|29135,False,False,America/Chicago,"(38.43574, -92.85119)",2.4974135017812475,6534.0,32433_0_no,38.399992283266464,-92.85801507040104,5.0

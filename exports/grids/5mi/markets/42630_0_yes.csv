@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48885,43.24908,-85.14356,Sidney,MI,Michigan,True,,964.0,21.2,26117,Montcalm,"{""26117"": 100}",Montcalm,26117,False,False,America/Detroit,"(43.24908, -85.14356)",0.8255841940960125,6947.0,42630_0_yes,43.24549231904084,-85.15920721276537,5.0
+48888,43.3089,-85.09566,Stanton,MI,Michigan,True,,5983.0,27.1,26117,Montcalm,"{""26117"": 100}",Montcalm,26117,False,False,America/Detroit,"(43.3089, -85.09566)",5.423287005943757,6947.0,42630_0_yes,43.24549231904084,-85.15920721276537,5.0

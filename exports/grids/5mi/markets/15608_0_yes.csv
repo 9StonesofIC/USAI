@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31523,31.21113,-81.61519,Brunswick,GA,Georgia,True,,13450.0,27.1,13127,Glynn,"{""13127"": 100}",Glynn,13127,False,False,America/New_York,"(31.21113, -81.61519)",1.6238078742504722,13450.0,15608_0_yes,31.215896239695848,-81.58828154041035,5.0

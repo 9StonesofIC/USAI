@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88312,33.43186,-105.64397,Alto,NM,New Mexico,True,,2806.0,15.2,35027,Lincoln,"{""35027"": 100}",Lincoln,35027,False,False,America/Denver,"(33.43186, -105.64397)",10.72272724984411,3487.0,5466_0_no,33.5396319692345,-105.7778604732715,10.0
+88341,33.50811,-105.79161,Nogal,NM,New Mexico,True,,681.0,1.7,35027,Lincoln,"{""35027"": 100}",Lincoln,35027,False,False,America/Denver,"(33.50811, -105.79161)",2.3174848638719245,3487.0,5466_0_no,33.5396319692345,-105.7778604732715,10.0

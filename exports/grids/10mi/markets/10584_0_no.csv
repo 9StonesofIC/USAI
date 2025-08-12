@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69220,42.92256,-100.17198,Sparks,NE,Nebraska,True,,16.0,0.1,31103,Keya Paha,"{""31103"": 66.08, ""31031"": 33.92}",Keya Paha|Cherry,31103|31031,False,False,America/Chicago,"(42.92256, -100.17198)",10.543107925232466,16.0,10584_0_no,42.80271392495221,-100.04312023751486,10.0

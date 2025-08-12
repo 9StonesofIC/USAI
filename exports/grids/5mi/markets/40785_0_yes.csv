@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14865,42.35091,-76.83178,Montour Falls,NY,New York,True,,2784.0,48.5,36097,Schuyler,"{""36097"": 100}",Schuyler,36097,False,False,America/New_York,"(42.35091, -76.83178)",4.7163498877641965,7320.0,40785_0_yes,42.36981407667164,-76.92054532381617,5.0
+14891,42.37823,-76.95035,Watkins Glen,NY,New York,True,,4536.0,32.2,36097,Schuyler,"{""36097"": 100}",Schuyler,36097,False,False,America/New_York,"(42.37823, -76.95035)",1.6286764240509077,7320.0,40785_0_yes,42.36981407667164,-76.92054532381617,5.0

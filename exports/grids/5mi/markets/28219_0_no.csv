@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65681,36.55211,-93.46658,Lampe,MO,Missouri,True,,1968.0,21.6,29209,Stone,"{""29209"": 100}",Stone,29209,False,False,America/Chicago,"(36.55211, -93.46658)",2.4903717257770337,1968.0,28219_0_no,36.516464233687024,-93.47322601691002,5.0

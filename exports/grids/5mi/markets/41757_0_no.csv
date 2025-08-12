@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51005,42.72044,-95.42405,Aurelia,IA,Iowa,True,,1318.0,5.4,19035,Cherokee,"{""19035"": 86.14, ""19021"": 13.86}",Cherokee|Buena Vista,19035|19021,False,False,America/Chicago,"(42.72044, -95.42405)",1.902009064507234,1318.0,41757_0_no,42.74765006281959,-95.42973029290654,5.0

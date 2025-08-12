@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84738,37.20987,-113.70888,Ivins,UT,Utah,True,,9493.0,77.2,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver,"(37.20987, -113.70888)",3.8131347028740863,10231.0,29965_0_no,37.25662334078349,-113.67205004871693,5.0
+84783,37.28556,-113.65639,Dammeron Valley,UT,Utah,True,,738.0,8.3,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver,"(37.28556, -113.65639)",2.1768596135701173,10231.0,29965_0_no,37.25662334078349,-113.67205004871693,5.0

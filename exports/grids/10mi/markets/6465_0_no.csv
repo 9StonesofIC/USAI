@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79068,35.33633,-101.45226,Panhandle,TX,Texas,True,,3506.0,3.4,48065,Carson,"{""48065"": 99.11, ""48375"": 0.89}",Carson|Potter,48065|48375,False,False,America/Chicago,"(35.33633, -101.45226)",4.794294814394082,3506.0,6465_0_no,35.27308099855425,-101.4872275191992,10.0

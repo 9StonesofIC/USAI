@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39520,30.26885,-89.47132,Bay Saint Louis,MS,Mississippi,True,,19072.0,76.0,28045,Hancock,"{""28045"": 100}",Hancock,28045,False,False,America/Chicago,"(30.26885, -89.47132)",1.101617554891502,24777.0,13535_0_no,30.27817372965049,-89.45634422995612,5.0
+39576,30.28699,-89.38511,Waveland,MS,Mississippi,True,,5705.0,337.8,28045,Hancock,"{""28045"": 100}",Hancock,28045,False,False,America/Chicago,"(30.28699, -89.38511)",4.293658868623787,24777.0,13535_0_no,30.27817372965049,-89.45634422995612,5.0

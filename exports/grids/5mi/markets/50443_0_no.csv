@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56569,47.07482,-95.81956,Ogema,MN,Minnesota,True,,1287.0,3.1,27005,Becker,"{""27005"": 100}",Becker,27005,False,False,America/Chicago,"(47.07482, -95.81956)",2.813629786403378,1442.0,50443_0_no,47.09054460657475,-95.87472420841904,5.0
+56591,47.09968,-95.84357,White Earth,MN,Minnesota,True,,155.0,22.3,27005,Becker,"{""27005"": 100}",Becker,27005,False,False,America/Chicago,"(47.09968, -95.84357)",1.5955769325899212,1442.0,50443_0_no,47.09054460657475,-95.87472420841904,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54665,43.5319,-90.92134,Viroqua,WI,Wisconsin,True,,8476.0,18.1,55123,Vernon,"{""55123"": 99.02, ""55023"": 0.98}",Vernon|Crawford,55123|55023,False,False,America/Chicago,"(43.5319, -90.92134)",1.1916638848696268,8476.0,43254_0_yes,43.54005287237858,-90.9423051306829,5.0

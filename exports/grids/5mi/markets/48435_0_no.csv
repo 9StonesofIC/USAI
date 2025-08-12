@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49880,46.11693,-87.22515,Rock,MI,Michigan,True,,1133.0,2.0,26103,Marquette,"{""26103"": 57.27, ""26041"": 42.73}",Marquette|Delta,26103|26041,False,False,America/Detroit,"(46.11693, -87.22515)",3.611675314873369,1133.0,48435_0_no,46.06973273456673,-87.25754883328138,5.0

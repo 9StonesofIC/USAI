@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93243,34.84057,-118.81769,Lebec,CA,California,True,,1513.0,3.6,6029,Kern,"{""06029"": 63.73, ""06037"": 36.27}",Kern|Los Angeles,06029|06037,False,False,America/Los_Angeles,"(34.84057, -118.81769)",2.2442174730195394,1513.0,24396_0_yes,34.86768035736881,-118.8394903959253,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76859,30.87106,-99.83123,Menard,TX,Texas,True,,1787.0,0.8,48327,Menard,"{""48327"": 85.69, ""48267"": 14.31}",Menard|Kimble,48327|48267,False,False,America/Chicago,"(30.87106, -99.83123)",7.2759600894253795,1787.0,3725_0_yes,30.776225449264285,-99.77792011717412,10.0

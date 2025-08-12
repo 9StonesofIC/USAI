@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29546,33.89001,-79.35151,Gresham,SC,South Carolina,True,,2914.0,7.9,45067,Marion,"{""45067"": 100}",Marion,45067,False,False,America/New_York,"(33.89001, -79.35151)",1.5223830360786714,2914.0,22129_0_no,33.89690273310794,-79.32629806355875,5.0

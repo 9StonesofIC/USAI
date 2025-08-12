@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87461,36.43717,-108.91099,Sanostee,NM,New Mexico,True,,1395.0,2.2,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.43717, -108.91099)",4.487287781183561,1395.0,27977_0_no,36.383138409012304,-108.95576484893,5.0

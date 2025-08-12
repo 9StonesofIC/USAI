@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68722,42.92074,-98.87123,Butte,NE,Nebraska,True,,496.0,2.0,31015,Boyd,"{""31015"": 100}",Boyd,31015,False,False,America/Chicago,"(42.92074, -98.87123)",5.4028225899388564,496.0,42102_0_yes,42.96784069833856,-98.95649986997222,5.0

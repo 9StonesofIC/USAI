@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67552,37.8606,-99.23651,Lewis,KS,Kansas,True,,665.0,1.4,20047,Edwards,"{""20047"": 100}",Edwards,20047,False,False,America/Chicago,"(37.8606, -99.23651)",3.3477480697257485,665.0,31202_0_yes,37.89770636431092,-99.1970361022989,5.0

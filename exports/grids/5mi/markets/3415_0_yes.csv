@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34142,26.31392,-81.28601,Immokalee,FL,Florida,True,,33029.0,20.4,12021,Collier,"{""12021"": 82.25, ""12051"": 17.75}",Collier|Hendry,12021|12051,False,False,America/New_York,"(26.31392, -81.28601)",3.386466433265765,33029.0,3415_0_yes,26.28290884676967,-81.32834674198101,5.0

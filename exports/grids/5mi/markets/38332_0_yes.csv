@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07851,41.19883,-74.85923,Layton,NJ,New Jersey,True,,185.0,6.2,34037,Sussex,"{""34037"": 100}",Sussex,34037,False,False,America/New_York,"(41.19883, -74.85923)",2.2826238392359057,185.0,38332_0_yes,41.209882883258906,-74.90061016334056,5.0

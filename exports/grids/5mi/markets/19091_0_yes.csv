@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31020,32.65376,-83.501,Dry Branch,GA,Georgia,True,,1382.0,4.2,13289,Twiggs,"{""13289"": 96.06, ""13021"": 3.94}",Twiggs|Bibb,13289|13021,False,False,America/New_York,"(32.65376, -83.501)",1.8261397336639478,1382.0,19091_0_yes,32.66735667322708,-83.47407887998065,5.0

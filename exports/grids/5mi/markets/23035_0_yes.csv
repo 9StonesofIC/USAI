@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92285,34.33762,-116.51364,Landers,CA,California,True,,2440.0,3.5,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.33762, -116.51364)",5.739357635565438,2440.0,23035_0_yes,34.285735776386,-116.4351035315869,5.0

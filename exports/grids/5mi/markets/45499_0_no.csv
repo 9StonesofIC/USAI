@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13676,44.65178,-74.91377,Potsdam,NY,New York,True,,16754.0,40.5,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/New_York,"(44.65178, -74.91377)",5.2496825236305344,16754.0,45499_0_no,44.6114879529518,-74.82325195572228,5.0

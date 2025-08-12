@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82831,44.66424,-106.0669,Arvada,WY,Wyoming,True,,427.0,0.3,56005,Campbell,"{""56005"": 34.46, ""56033"": 33.59, ""56019"": 31.96}",Campbell|Sheridan|Johnson,56005|56033|56019,False,False,America/Denver,"(44.66424, -106.0669)",1.8529671540694683,427.0,45653_0_no,44.63921395094069,-106.05334998902022,5.0

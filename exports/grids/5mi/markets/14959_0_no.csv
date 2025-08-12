@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71367,30.88784,-92.29426,Saint Landry,LA,Louisiana,True,,1644.0,10.2,22039,Evangeline,"{""22039"": 93.54, ""22079"": 6.46}",Evangeline|Rapides,22039|22079,False,False,America/Chicago,"(30.88784, -92.29426)",2.2765437379035607,1644.0,14959_0_no,30.860277458109955,-92.27322593246114,5.0

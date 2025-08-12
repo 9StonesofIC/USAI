@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88103,34.38418,-103.31551,Cannon Afb,NM,New Mexico,True,,259.0,22.3,35009,Curry,"{""35009"": 100}",Curry,35009,False,False,America/Denver,"(34.38418, -103.31551)",2.9702637387645603,259.0,23298_0_yes,34.42138303447384,-103.2894029240725,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38748,33.15787,-90.87964,Hollandale,MS,Mississippi,True,,3071.0,4.5,28151,Washington,"{""28151"": 94.84, ""28125"": 5.16}",Washington|Sharkey,28151|28125,False,False,America/Chicago,"(33.15787, -90.87964)",2.863064268504103,3071.0,20493_0_no,33.18005463657723,-90.92145152473024,5.0

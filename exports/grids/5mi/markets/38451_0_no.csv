@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69149,41.22416,-102.66362,Lodgepole,NE,Nebraska,True,,789.0,0.9,31033,Cheyenne,"{""31033"": 77.15, ""31069"": 18.57, ""31049"": 4.28}",Cheyenne|Garden|Deuel,31033|31069|31049,False,False,America/Denver,"(41.22416, -102.66362)",4.424911353667031,789.0,38451_0_no,41.16064408523176,-102.6745107452886,5.0

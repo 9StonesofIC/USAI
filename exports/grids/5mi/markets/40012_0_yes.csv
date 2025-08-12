@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69361,42.01254,-103.56802,Scottsbluff,NE,Nebraska,True,,17312.0,28.1,31165,Sioux,"{""31165"": 56.6, ""31157"": 43.4}",Sioux|Scotts Bluff,31165|31157,False,False,America/Denver,"(42.01254, -103.56802)",5.418095640389551,17312.0,40012_0_yes,41.95808277696281,-103.64392802284952,5.0

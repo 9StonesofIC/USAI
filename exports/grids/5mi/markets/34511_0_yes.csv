@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96161,39.34848,-120.22603,Truckee,CA,California,True,,18782.0,27.6,6057,Nevada,"{""06057"": 70.01, ""06061"": 29.99}",Nevada|Placer,06057|06061,False,False,America/Los_Angeles,"(39.34848, -120.22603)",4.472080794110546,18782.0,34511_0_yes,39.36361575830775,-120.14464240865117,5.0

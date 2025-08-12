@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84007,40.34115,-110.21717,Bluebell,UT,Utah,True,,722.0,13.5,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.34115, -110.21717)",4.460958093270866,722.0,36633_0_no,40.297551222788805,-110.154713259881,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75449,33.423,-95.9493,Ladonia,TX,Texas,True,,1247.0,6.2,48147,Fannin,"{""48147"": 69.38, ""48231"": 30.62}",Fannin|Hunt,48147|48231,False,False,America/Chicago,"(33.423, -95.9493)",1.773054179490367,1247.0,20879_0_yes,33.4010334128837,-95.93340726286252,5.0

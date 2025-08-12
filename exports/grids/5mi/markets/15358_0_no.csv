@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76935,31.07744,-100.42261,Christoval,TX,Texas,True,,1852.0,1.9,48413,Schleicher,"{""48413"": 51.07, ""48451"": 48.93}",Schleicher|Tom Green,48413|48451,False,False,America/Chicago,"(31.07744, -100.42261)",5.782577940240363,1852.0,15358_0_no,31.010702265923257,-100.48155460620627,5.0

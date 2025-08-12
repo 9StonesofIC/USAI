@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88041,32.78367,-107.89654,Hanover,NM,New Mexico,True,,1201.0,1.1,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(32.78367, -107.89654)",5.418998787414123,1201.0,4966_0_yes,32.817268653768096,-107.81222869221328,10.0

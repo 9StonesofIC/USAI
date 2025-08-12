@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40913,36.94986,-83.54367,Beverly,KY,Kentucky,True,,353.0,8.0,21013,Bell,"{""21013"": 67.47, ""21051"": 32.53}",Bell|Clay,21013|21051,False,False,America/New_York,"(36.94986, -83.54367)",4.9826369729804885,353.0,29167_0_yes,37.016176469813,-83.57913591187167,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62850,38.49552,-88.58841,Johnsonville,IL,Illinois,True,,645.0,8.7,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.49552, -88.58841)",3.8557864483660653,1039.0,32730_0_no,38.54149307389086,-88.5479781523608,5.0
+62878,38.57718,-88.49378,Rinard,IL,Illinois,True,,394.0,4.5,17191,Wayne,"{""17191"": 100}",Wayne,17191,False,False,America/Chicago,"(38.57718, -88.49378)",3.8281131384134293,1039.0,32730_0_no,38.54149307389086,-88.5479781523608,5.0

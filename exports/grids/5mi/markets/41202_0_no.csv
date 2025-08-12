@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82219,42.4973,-104.50627,Jay Em,WY,Wyoming,True,,28.0,0.1,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver,"(42.4973, -104.50627)",3.7728026091868836,28.0,41202_0_no,42.46583756249718,-104.56678441307174,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52030,42.15322,-90.59219,Andrew,IA,Iowa,True,,451.0,702.2,19097,Jackson,"{""19097"": 100}",Jackson,19097,False,False,America/Chicago,"(42.15322, -90.59219)",2.4102663082154465,8558.0,40526_0_no,42.16434543624301,-90.6367914633122,5.0
+52060,42.10217,-90.67961,Maquoketa,IA,Iowa,True,,8107.0,19.7,19097,Jackson,"{""19097"": 88.17, ""19045"": 11.83}",Jackson|Clinton,19097|19045,False,False,America/Chicago,"(42.10217, -90.67961)",4.823729663912982,8558.0,40526_0_no,42.16434543624301,-90.6367914633122,5.0

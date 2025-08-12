@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31568,31.00975,-81.82218,White Oak,GA,Georgia,True,,529.0,1.8,13039,Camden,"{""13039"": 100}",Camden,13039,False,False,America/New_York,"(31.00975, -81.82218)",2.8414920272533055,529.0,15247_0_no,30.998496872984543,-81.77603086568963,5.0

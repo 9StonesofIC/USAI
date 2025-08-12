@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27801,35.91209,-77.73656,Rocky Mount,NC,North Carolina,True,,19893.0,115.0,37065,Edgecombe,"{""37065"": 100}",Edgecombe,37065,False,False,America/New_York,"(35.91209, -77.73656)",4.6816647767841655,19893.0,26812_0_no,35.92490389445728,-77.65440202957996,5.0

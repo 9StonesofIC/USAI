@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81611,39.14561,-106.74885,Aspen,CO,Colorado,True,,10814.0,13.7,8097,Pitkin,"{""08097"": 100}",Pitkin,08097,False,False,America/Denver,"(39.14561, -106.74885)",3.3321189850998336,10823.0,8606_0_yes,39.19334913517641,-106.74003078400456,10.0
+81642,39.31202,-106.58448,Meredith,CO,Colorado,True,,9.0,0.0,8097,Pitkin,"{""08097"": 100}",Pitkin,08097,False,False,America/Denver,"(39.31202, -106.58448)",11.68304647882627,10823.0,8606_0_yes,39.19334913517641,-106.74003078400456,10.0

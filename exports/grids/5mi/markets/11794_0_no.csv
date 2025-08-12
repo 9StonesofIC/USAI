@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77623,29.55957,-94.41621,High Island,TX,Texas,True,,634.0,16.7,48167,Galveston,"{""48167"": 100}",Galveston,48167,False,False,America/Chicago,"(29.55957, -94.41621)",3.252135380392773,634.0,11794_0_no,29.555828902975545,-94.36227052055018,5.0

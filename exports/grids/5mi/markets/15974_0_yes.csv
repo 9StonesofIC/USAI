@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39870,31.31944,-84.41071,Newton,GA,Georgia,True,,1994.0,4.2,13007,Baker,"{""13007"": 100}",Baker,13007,False,False,America/New_York,"(31.31944, -84.41071)",3.0971192543659334,1994.0,15974_0_yes,31.362779178368783,-84.39730883893647,5.0

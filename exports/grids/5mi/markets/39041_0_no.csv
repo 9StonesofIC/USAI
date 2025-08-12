@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68623,41.44327,-98.11602,Belgrade,NE,Nebraska,True,,322.0,1.9,31125,Nance,"{""31125"": 93.04, ""31011"": 6.96}",Nance|Boone,31125|31011,False,False,America/Chicago,"(41.44327, -98.11602)",1.5785550165175681,322.0,39041_0_no,41.44656249779354,-98.1461806397673,5.0

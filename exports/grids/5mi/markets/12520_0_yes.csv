@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77044,29.89808,-95.17685,Houston,TX,Texas,True,,51978.0,513.3,48201,Harris,"{""48201"": 100}",Harris,48201,False,False,America/Chicago,"(29.89808, -95.17685)",1.6124700918480164,115750.0,12520_0_yes,29.91905607180721,-95.16504871948555,5.0
+77346,29.99027,-95.17777,Humble,TX,Texas,True,,63772.0,1373.6,48201,Harris,"{""48201"": 100}",Harris,48201,False,False,America/Chicago,"(29.99027, -95.17777)",4.978998344733996,115750.0,12520_0_yes,29.91905607180721,-95.16504871948555,5.0

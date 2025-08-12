@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58778,47.78307,-100.91268,Ruso,ND,North Dakota,True,,111.0,0.3,38055,McLean,"{""38055"": 92.19, ""38049"": 7.81}",McLean|McHenry,38055|38049,False,False,America/Chicago,"(47.78307, -100.91268)",3.9588941302604113,111.0,51849_0_no,47.81864241857865,-100.84580877591029,5.0

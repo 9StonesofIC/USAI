@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57651,45.48394,-103.07746,Reva,SD,South Dakota,True,,122.0,0.1,46063,Harding,"{""46063"": 84.92, ""46105"": 15.08}",Harding|Perkins,46063|46105,False,False,America/Denver,"(45.48394, -103.07746)",1.5550156693899109,122.0,47371_0_no,45.50515883001287,-103.08816227564802,5.0

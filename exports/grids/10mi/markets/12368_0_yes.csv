@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59046,46.39147,-108.98604,Lavina,MT,Montana,True,,379.0,0.2,30037,Golden Valley,"{""30037"": 91.74, ""30065"": 8.26}",Golden Valley|Musselshell,30037|30065,False,False,America/Denver,"(46.39147, -108.98604)",5.489639667947976,379.0,12368_0_yes,46.4368332383945,-109.08065196123071,10.0

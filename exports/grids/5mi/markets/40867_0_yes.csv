@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50680,42.44956,-92.92505,Wellsburg,IA,Iowa,True,,1048.0,7.0,19075,Grundy,"{""19075"": 99.15, ""19083"": 0.85}",Grundy|Hardin,19075|19083,False,False,America/Chicago,"(42.44956, -92.92505)",4.663053011457528,1048.0,40867_0_yes,42.3834681902192,-92.94355574110844,5.0

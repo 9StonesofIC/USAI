@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+11954,41.04458,-71.9518,Montauk,NY,New York,True,,3563.0,74.2,36103,Suffolk,"{""36103"": 100}",Suffolk,36103,False,False,America/New_York,"(41.04458, -71.9518)",1.2695352487166771,3563.0,38008_0_yes,41.06263798784098,-71.94729914430413,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54449,44.63914,-90.19755,Marshfield,WI,Wisconsin,True,,26324.0,58.9,55141,Wood,"{""55141"": 71.19, ""55073"": 28.6, ""55019"": 0.21}",Wood|Marathon|Clark,55141|55073|55019,False,False,America/Chicago,"(44.63914, -90.19755)",2.020566137551626,26324.0,45575_0_no,44.62516758159257,-90.23365027374612,5.0

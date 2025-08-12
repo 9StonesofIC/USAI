@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67025,37.64146,-97.78789,Cheney,KS,Kansas,True,,3621.0,12.4,20173,Sedgwick,"{""20173"": 61.44, ""20095"": 36.77, ""20155"": 1.79}",Sedgwick|Kingman|Reno,20173|20095|20155,False,False,America/Chicago,"(37.64146, -97.78789)",3.701260663022509,3621.0,30547_0_yes,37.60679536442262,-97.83945489353546,5.0

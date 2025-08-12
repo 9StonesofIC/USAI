@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53565,42.84025,-90.16982,Mineral Point,WI,Wisconsin,True,,4685.0,9.7,55049,Iowa,"{""55049"": 70.82, ""55065"": 29.18}",Iowa|Lafayette,55049|55065,False,False,America/Chicago,"(42.84025, -90.16982)",1.759029948547405,4685.0,41757_0_yes,42.81547699621869,-90.16181759618487,5.0

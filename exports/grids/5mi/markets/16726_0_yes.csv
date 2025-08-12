@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71486,31.62679,-93.65876,Zwolle,LA,Louisiana,True,,5739.0,22.1,22085,Sabine,"{""22085"": 100}",Sabine,22085,False,False,America/Chicago,"(31.62679, -93.65876)",3.90559568965075,5739.0,16726_0_yes,31.65896760067513,-93.60417050762554,5.0

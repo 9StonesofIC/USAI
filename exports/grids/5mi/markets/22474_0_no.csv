@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29104,33.99524,-80.21373,Mayesville,SC,South Carolina,True,,1452.0,8.5,45061,Lee,"{""45061"": 51.67, ""45085"": 48.33}",Lee|Sumter,45061|45085,False,False,America/New_York,"(33.99524, -80.21373)",5.665294089221626,1452.0,22474_0_no,34.04255594605687,-80.29452255736736,5.0

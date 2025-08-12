@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97842,45.57223,-116.82384,Imnaha,OR,Oregon,True,,91.0,0.0,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles,"(45.57223, -116.82384)",4.8517173464093775,91.0,47438_0_no,45.5175977759687,-116.88682978041362,5.0

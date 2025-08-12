@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83001,43.4094,-110.60884,Jackson,WY,Wyoming,True,,17867.0,14.3,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.4094, -110.60884)",9.688030454191331,18813.0,10923_0_yes,43.54473460216866,-110.65938336625815,10.0
+83025,43.59371,-110.82814,Teton Village,WY,Wyoming,True,,946.0,26.3,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.59371, -110.82814)",9.100642663014552,18813.0,10923_0_yes,43.54473460216866,-110.65938336625815,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17739,41.41289,-77.40156,Jersey Mills,PA,Pennsylvania,True,,31.0,0.7,42081,Lycoming,"{""42081"": 100}",Lycoming,42081,False,False,America/New_York,"(41.41289, -77.40156)",2.9157053100827586,263.0,38933_0_no,41.42915835072013,-77.3496341030392,5.0
+17776,41.41704,-77.31257,Waterville,PA,Pennsylvania,True,,232.0,1.0,42081,Lycoming,"{""42081"": 100}",Lycoming,42081,False,False,America/New_York,"(41.41704, -77.31257)",2.0948720102371436,263.0,38933_0_no,41.42915835072013,-77.3496341030392,5.0

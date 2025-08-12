@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85616,31.70768,-110.32184,Huachuca City,AZ,Arizona,True,,5483.0,14.1,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix,"(31.70768, -110.32184)",2.469223187110845,5483.0,17160_0_no,31.74265945440186,-110.31323239861202,5.0

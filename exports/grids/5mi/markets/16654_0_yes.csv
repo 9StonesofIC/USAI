@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31323,31.67359,-81.45304,Riceboro,GA,Georgia,True,,1295.0,3.2,13179,Liberty,"{""13179"": 56.16, ""13191"": 30.54, ""13183"": 13.3}",Liberty|McIntosh|Long,13179|13191|13183,False,False,America/New_York,"(31.67359, -81.45304)",4.181425315248494,1295.0,16654_0_yes,31.65084675665572,-81.3871505313514,5.0

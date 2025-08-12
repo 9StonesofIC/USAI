@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12986,44.22279,-74.44056,Tupper Lake,NY,New York,True,,5928.0,8.0,36033,Franklin,"{""36033"": 75.43, ""36089"": 24.57}",Franklin|St. Lawrence,36033|36089,False,False,America/New_York,"(44.22279, -74.44056)",4.113348924803676,5928.0,44620_0_no,44.1769586753279,-74.38756066159539,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64841,37.07873,-94.41101,Duenweg,MO,Missouri,True,,350.0,322.4,29097,Jasper,"{""29097"": 100}",Jasper,29097,False,False,America/Chicago,"(37.07873, -94.41101)",5.100839424218279,350.0,29533_0_no,37.09686865083332,-94.3213006344218,5.0

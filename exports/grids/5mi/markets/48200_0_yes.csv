@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54888,45.98046,-91.88803,Trego,WI,Wisconsin,True,,1152.0,4.5,55129,Washburn,"{""55129"": 100}",Washburn,55129,False,False,America/Chicago,"(45.98046, -91.88803)",3.6174798387782316,1152.0,48200_0_yes,46.0016006909038,-91.95697132511148,5.0

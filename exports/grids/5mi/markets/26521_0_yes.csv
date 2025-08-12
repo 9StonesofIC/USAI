@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28638,35.84411,-81.47701,Hudson,NC,North Carolina,True,,12454.0,240.8,37027,Caldwell,"{""37027"": 100}",Caldwell,37027,False,False,America/New_York,"(35.84411, -81.47701)",2.4538587974032224,12454.0,26521_0_yes,35.85527110697375,-81.51860580801844,5.0

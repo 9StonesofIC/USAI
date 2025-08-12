@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22831,38.56395,-79.10005,Hinton,VA,Virginia,True,,1056.0,5.8,51165,Rockingham,"{""51165"": 100}",Rockingham,51165,False,False,America/New_York,"(38.56395, -79.10005)",4.6941667761004995,1976.0,32700_0_yes,38.60648863567539,-79.1678191183705,5.0
+26802,38.64454,-79.18706,Brandywine,WV,West Virginia,True,,920.0,2.8,54071,Pendleton,"{""54071"": 100}",Pendleton,54071,False,False,America/New_York,"(38.64454, -79.18706)",2.8268085987443667,1976.0,32700_0_yes,38.60648863567539,-79.1678191183705,5.0

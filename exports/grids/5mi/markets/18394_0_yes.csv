@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30464,32.43509,-82.22186,Stillmore,GA,Georgia,True,,187.0,88.1,13107,Emanuel,"{""13107"": 100}",Emanuel,13107,False,False,America/New_York,"(32.43509, -82.22186)",4.17293927675708,187.0,18394_0_yes,32.37649987902482,-82.23922048263243,5.0

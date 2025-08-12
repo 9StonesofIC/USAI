@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28108,34.93411,-80.67975,Mineral Springs,NC,North Carolina,True,,128.0,240.9,37179,Union,"{""37179"": 100}",Union,37179,False,False,America/New_York,"(34.93411, -80.67975)",2.233352414186444,58693.0,24498_0_no,34.91260565224923,-80.70918292008471,5.0
+28173,34.91532,-80.73021,Waxhaw,NC,North Carolina,True,,58565.0,212.7,37179,Union,"{""37179"": 100}",Union,37179,False,False,America/New_York,"(34.91532, -80.73021)",1.2060123989282772,58693.0,24498_0_no,34.91260565224923,-80.70918292008471,5.0

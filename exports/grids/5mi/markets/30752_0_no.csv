@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24085,37.67539,-79.83639,Eagle Rock,VA,Virginia,True,,2375.0,5.5,51023,Botetourt,"{""51023"": 98.4, ""51005"": 1.6}",Botetourt|Alleghany,51023|51005,False,False,America/New_York,"(37.67539, -79.83639)",1.2838579375057446,2375.0,30752_0_no,37.66539423935784,-79.8561790940833,5.0

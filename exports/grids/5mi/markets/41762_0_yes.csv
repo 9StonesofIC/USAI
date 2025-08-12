@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52049,42.8823,-91.20521,Garnavillo,IA,Iowa,True,,1237.0,7.1,19043,Clayton,"{""19043"": 100}",Clayton,19043,False,False,America/Chicago,"(42.8823, -91.20521)",5.464729785235126,1237.0,41762_0_yes,42.816322387431136,-91.14571633281226,5.0

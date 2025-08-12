@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45373,40.03353,-84.19588,Troy,OH,Ohio,True,,35913.0,158.1,39109,Miami,"{""39109"": 100}",Miami,39109,False,False,America/New_York,"(40.03353, -84.19588)",3.2443598607259374,35913.0,35894_0_yes,40.0590641020738,-84.2473567175424,5.0

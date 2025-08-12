@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32043,29.92991,-81.74304,Green Cove Springs,FL,Florida,True,,28501.0,48.0,12019,Clay,"{""12019"": 93.13, ""12107"": 6.87}",Clay|Putnam,12019|12107,False,False,America/New_York,"(29.92991, -81.74304)",4.794530509821455,28501.0,12439_0_yes,29.91052694769933,-81.66616411595624,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61728,40.57546,-88.62539,Colfax,IL,Illinois,True,,1252.0,7.0,17113,McLean,"{""17113"": 100}",McLean,17113,False,False,America/Chicago,"(40.57546, -88.62539)",4.824351758549962,1252.0,37166_0_yes,40.64202385873362,-88.65316404792586,5.0

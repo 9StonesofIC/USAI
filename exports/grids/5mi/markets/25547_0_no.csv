@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38381,35.35144,-88.96205,Toone,TN,Tennessee,True,,1416.0,9.6,47069,Hardeman,"{""47069"": 100}",Hardeman,47069,False,False,America/Chicago,"(35.35144, -88.96205)",0.5665009725587753,1416.0,25547_0_no,35.35349111309112,-88.97178305161675,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39462,31.22105,-89.05738,New Augusta,MS,Mississippi,True,,982.0,6.7,28111,Perry,"{""28111"": 100}",Perry,28111,False,False,America/Chicago,"(31.22105, -89.05738)",5.196205837655981,982.0,15990_0_no,31.29337304392193,-89.0815030413955,5.0

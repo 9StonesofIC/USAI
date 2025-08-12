@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97103,46.13327,-123.69648,Astoria,OR,Oregon,True,,17892.0,42.3,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles,"(46.13327, -123.69648)",2.4185753843527364,17892.0,48610_0_no,46.102876935590615,-123.67142741693635,5.0

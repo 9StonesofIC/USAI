@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55012,45.44166,-92.78952,Center City,MN,Minnesota,True,,2023.0,32.9,27025,Chisago,"{""27025"": 100}",Chisago,27025,False,False,America/Chicago,"(45.44166, -92.78952)",3.7492402194167616,3878.0,47321_0_no,45.49587952943988,-92.79262889287844,5.0
+55084,45.46029,-92.70747,Taylors Falls,MN,Minnesota,True,,1855.0,28.9,27025,Chisago,"{""27025"": 100}",Chisago,27025,False,False,America/Chicago,"(45.46029, -92.70747)",4.802923560752915,3878.0,47321_0_no,45.49587952943988,-92.79262889287844,5.0

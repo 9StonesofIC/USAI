@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49305,43.74926,-85.15023,Barryton,MI,Michigan,True,,2210.0,16.7,26107,Mecosta,"{""26107"": 84.36, ""26073"": 15.64}",Mecosta|Isabella,26107|26073,False,False,America/Detroit,"(43.74926, -85.15023)",0.35406876293855727,2210.0,43790_0_no,43.75218755297045,-85.14440747391463,5.0

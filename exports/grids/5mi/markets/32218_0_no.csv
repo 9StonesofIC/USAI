@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84740,38.27504,-112.26689,Junction,UT,Utah,True,,271.0,1.9,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver,"(38.27504, -112.26689)",2.031937611444935,288.0,32218_0_no,38.27026849118735,-112.22992665881156,5.0
+84743,38.20827,-112.18572,Kingston,UT,Utah,True,,17.0,1.0,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver,"(38.20827, -112.18572)",4.909711251248352,288.0,32218_0_no,38.27026849118735,-112.22992665881156,5.0

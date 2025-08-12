@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86024,34.68509,-111.20244,Happy Jack,AZ,Arizona,True,,908.0,0.5,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix,"(34.68509, -111.20244)",10.798413352348877,908.0,5998_0_yes,34.562343627576965,-111.32000207443949,10.0

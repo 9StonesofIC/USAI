@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36782,32.11684,-87.90996,Sweet Water,AL,Alabama,True,,2578.0,4.8,1091,Marengo,"{""01091"": 100}",Marengo,01091,False,False,America/Chicago,"(32.11684, -87.90996)",3.3524257518624863,2578.0,18068_0_no,32.16282513844965,-87.89168046633158,5.0

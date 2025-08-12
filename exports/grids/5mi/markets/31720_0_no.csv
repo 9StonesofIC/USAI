@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24412,38.05774,-79.83096,Bacova,VA,Virginia,True,,174.0,20.0,51017,Bath,"{""51017"": 100}",Bath,51017,False,False,America/New_York,"(38.05774, -79.83096)",4.26270913590073,730.0,31720_0_no,38.09996882669307,-79.77382113643773,5.0
+24484,38.1448,-79.82013,Warm Springs,VA,Virginia,True,,556.0,1.2,51017,Bath,"{""51017"": 88.7, ""51091"": 11.3}",Bath|Highland,51017|51091,False,False,America/New_York,"(38.1448, -79.82013)",3.9913303537956786,730.0,31720_0_no,38.09996882669307,-79.77382113643773,5.0

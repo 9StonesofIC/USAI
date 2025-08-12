@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75551,33.11648,-94.20325,Atlanta,TX,Texas,True,,11268.0,26.9,48067,Cass,"{""48067"": 100}",Cass,48067,False,False,America/Chicago,"(33.11648, -94.20325)",4.553161572647896,14862.0,20512_0_no,33.18232685676703,-94.20013066651536,5.0
+75572,33.23114,-94.12934,Queen City,TX,Texas,True,,3594.0,18.8,48067,Cass,"{""48067"": 100}",Cass,48067,False,False,America/Chicago,"(33.23114, -94.12934)",5.30310787954821,14862.0,20512_0_no,33.18232685676703,-94.20013066651536,5.0

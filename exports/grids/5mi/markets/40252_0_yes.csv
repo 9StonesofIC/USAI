@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52212,42.10954,-91.08929,Center Junction,IA,Iowa,True,,258.0,4.5,19105,Jones,"{""19105"": 100}",Jones,19105,False,False,America/Chicago,"(42.10954, -91.08929)",3.0739774114708354,258.0,40252_0_yes,42.09232664809303,-91.14458277425103,5.0

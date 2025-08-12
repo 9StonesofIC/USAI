@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35582,34.48577,-88.09536,Red Bay,AL,Alabama,True,,4871.0,20.7,1059,Franklin,"{""01059"": 100}",Franklin,01059,False,False,America/Chicago,"(34.48577, -88.09536)",6.452876745665893,8422.0,23549_0_yes,34.55554332750567,-88.1707079704234,5.0
+38827,34.53,-88.20244,Belmont,MS,Mississippi,True,,3551.0,39.8,28141,Tishomingo,"{""28141"": 100}",Tishomingo,28141,False,False,America/Chicago,"(34.53, -88.20244)",2.525120764870367,8422.0,23549_0_yes,34.55554332750567,-88.1707079704234,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49331,42.95161,-85.35139,Lowell,MI,Michigan,True,,18118.0,76.5,26081,Kent,"{""26081"": 78.74, ""26067"": 21.26}",Kent|Ionia,26081|26067,False,False,America/Detroit,"(42.95161, -85.35139)",0.3937988096642658,18118.0,42033_0_yes,42.9561148974249,-85.34661960171027,5.0

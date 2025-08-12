@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52352,42.28706,-91.77897,Walker,IA,Iowa,True,,1832.0,8.8,19113,Linn,"{""19113"": 47.12, ""19019"": 36.49, ""19011"": 16.38}",Linn|Buchanan|Benton,19113|19019|19011,False,False,America/Chicago,"(42.28706, -91.77897)",2.9888886211081154,1832.0,40834_0_no,42.31007854727584,-91.72945195034492,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59530,48.60212,-110.68802,Inverness,MT,Montana,True,,125.0,0.2,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver,"(48.60212, -110.68802)",9.777859422084369,468.0,13342_0_yes,48.46533173900882,-110.63323830260046,10.0
+59540,48.60665,-110.56418,Rudyard,MT,Montana,True,,343.0,0.3,30041,Hill,"{""30041"": 96.17, ""30015"": 3.83}",Hill|Chouteau,30041|30015,False,False,America/Denver,"(48.60665, -110.56418)",10.262593375658502,468.0,13342_0_yes,48.46533173900882,-110.63323830260046,10.0

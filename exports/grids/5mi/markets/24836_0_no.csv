@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29743,35.02865,-81.40772,Smyrna,SC,South Carolina,True,,1438.0,14.9,45091,York,"{""45091"": 84.54, ""45021"": 15.46}",York|Cherokee,45091|45021,False,False,America/New_York,"(35.02865, -81.40772)",4.4955628393952995,1438.0,24836_0_no,35.05800995519931,-81.33679917353898,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88136,34.25356,-104.83347,Yeso,NM,New Mexico,True,,28.0,0.0,35011,De Baca,"{""35011"": 67.0, ""35027"": 33.0}",De Baca|Lincoln,35011|35027,False,False,America/Denver,"(34.25356, -104.83347)",11.497440384732297,28.0,5803_0_no,34.118416969334525,-104.9508410938202,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24150,37.40229,-80.59694,Ripplemead,VA,Virginia,True,,788.0,4.6,51071,Giles,"{""51071"": 100}",Giles,51071,False,False,America/New_York,"(37.40229, -80.59694)",3.309088523637048,2520.0,30128_0_yes,37.44860524684593,-80.61229179236926,5.0
+24951,37.48358,-80.63103,Lindside,WV,West Virginia,True,,1732.0,12.8,54063,Monroe,"{""54063"": 100}",Monroe,54063,False,False,America/New_York,"(37.48358, -80.63103)",2.6259431398557203,2520.0,30128_0_yes,37.44860524684593,-80.61229179236926,5.0

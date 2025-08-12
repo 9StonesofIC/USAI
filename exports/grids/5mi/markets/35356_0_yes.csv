@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67730,39.80366,-101.11624,Atwood,KS,Kansas,True,,1712.0,1.7,20153,Rawlins,"{""20153"": 100}",Rawlins,20153,False,False,America/Chicago,"(39.80366, -101.11624)",1.8145978951994344,1712.0,35356_0_yes,39.78304688133741,-101.13742021693268,5.0

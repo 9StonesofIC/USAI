@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49911,46.49247,-90.05235,Bessemer,MI,Michigan,True,,2515.0,21.4,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.49247, -90.05235)",4.322907859988463,2849.0,49041_0_yes,46.433957770315246,-90.02018644405102,5.0
+49959,46.46987,-89.99803,Ramsay,MI,Michigan,True,,334.0,128.7,26053,Gogebic,"{""26053"": 100}",Gogebic,26053,False,False,America/Menominee,"(46.46987, -89.99803)",2.6961555270032327,2849.0,49041_0_yes,46.433957770315246,-90.02018644405102,5.0

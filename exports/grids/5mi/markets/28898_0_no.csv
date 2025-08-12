@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73759,36.85815,-97.71362,Medford,OK,Oklahoma,True,,1326.0,1.4,40053,Grant,"{""40053"": 100}",Grant,40053,False,False,America/Chicago,"(36.85815, -97.71362)",3.751500075674576,1326.0,28898_0_no,36.80954181960954,-97.68339287344112,5.0

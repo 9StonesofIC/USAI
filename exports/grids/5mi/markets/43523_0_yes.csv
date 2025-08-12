@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49307,43.69797,-85.48272,Big Rapids,MI,Michigan,True,,21602.0,62.0,26107,Mecosta,"{""26107"": 80.59, ""26123"": 19.41}",Mecosta|Newaygo,26107|26123,False,False,America/Detroit,"(43.69797, -85.48272)",1.3580672976369113,21602.0,43523_0_yes,43.680047392667255,-85.471560154932,5.0

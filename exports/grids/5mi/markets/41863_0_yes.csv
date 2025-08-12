@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83111,42.819,-111.01143,Auburn,WY,Wyoming,True,,807.0,20.7,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(42.819, -111.01143)",1.164009287906998,1682.0,41863_0_yes,42.83340461350095,-111.02334189240446,5.0
+83122,42.82175,-110.95843,Grover,WY,Wyoming,True,,875.0,45.5,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(42.82175, -110.95843)",3.3864336838972453,1682.0,41863_0_yes,42.83340461350095,-111.02334189240446,5.0

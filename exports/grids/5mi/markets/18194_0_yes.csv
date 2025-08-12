@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88005,32.22757,-106.99027,Las Cruces,NM,New Mexico,True,,27257.0,69.7,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(32.22757, -106.99027)",4.73064663706299,27257.0,18194_0_yes,32.248263379567526,-107.06743039344354,5.0

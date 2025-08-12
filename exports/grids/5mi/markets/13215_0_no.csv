@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77336,30.06842,-95.10306,Huffman,TX,Texas,True,,12398.0,134.2,48201,Harris,"{""48201"": 100}",Harris,48201,False,False,America/Chicago,"(30.06842, -95.10306)",6.8431856703066005,12398.0,13215_0_no,30.13663637475815,-95.0200609375557,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76233,33.54025,-96.89696,Collinsville,TX,Texas,True,,3317.0,21.2,48181,Grayson,"{""48181"": 76.53, ""48097"": 23.47}",Grayson|Cooke,48181|48097,False,False,America/Chicago,"(33.54025, -96.89696)",1.6553839416296583,3317.0,21226_0_yes,33.54674906607049,-96.9246279593838,5.0

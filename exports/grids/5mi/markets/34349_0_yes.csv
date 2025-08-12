@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62626,39.28459,-89.88362,Carlinville,IL,Illinois,True,,7605.0,17.2,17117,Macoupin,"{""17117"": 100}",Macoupin,17117,False,False,America/Chicago,"(39.28459, -89.88362)",3.862285252310462,7605.0,34349_0_yes,39.33935501754115,-89.89810170320108,5.0

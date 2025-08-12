@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78632,29.68866,-97.46858,Harwood,TX,Texas,True,,1268.0,5.3,48177,Gonzales,"{""48177"": 59.02, ""48055"": 40.98}",Gonzales|Caldwell,48177|48055,False,False,America/Chicago,"(29.68866, -97.46858)",5.299886573046078,1268.0,11823_0_yes,29.63026151761028,-97.41134782334522,5.0

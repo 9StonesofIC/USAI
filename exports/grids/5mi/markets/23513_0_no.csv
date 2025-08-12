@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30734,34.53361,-84.71346,Ranger,GA,Georgia,True,,3418.0,17.2,13129,Gordon,"{""13129"": 88.37, ""13227"": 11.63}",Gordon|Pickens,13129|13227,False,False,America/New_York,"(34.53361, -84.71346)",5.874814935877985,3418.0,23513_0_no,34.480670091544944,-84.79420157935122,5.0

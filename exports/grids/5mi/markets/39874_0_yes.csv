@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16925,41.95319,-76.78997,Gillett,PA,Pennsylvania,True,,3407.0,17.1,42015,Bradford,"{""42015"": 100}",Bradford,42015,False,False,America/New_York,"(41.95319, -76.78997)",3.8159457787330915,3407.0,39874_0_yes,41.93544554719176,-76.86028591380557,5.0

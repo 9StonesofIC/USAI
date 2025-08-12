@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36026,32.77587,-86.13269,Equality,AL,Alabama,True,,976.0,5.2,1037,Coosa,"{""01037"": 75.92, ""01051"": 24.08}",Coosa|Elmore,01037|01051,False,False,America/Chicago,"(32.77587, -86.13269)",2.9818823948494577,976.0,19451_0_yes,32.81420225429171,-86.15627865879321,5.0

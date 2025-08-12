@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59054,46.66809,-107.7691,Melstone,MT,Montana,True,,253.0,0.2,30087,Rosebud,"{""30087"": 57.73, ""30065"": 42.27}",Rosebud|Musselshell,30087|30065,False,False,America/Denver,"(46.66809, -107.7691)",4.540337718614071,253.0,49661_0_no,46.66727702045076,-107.67334766655794,5.0

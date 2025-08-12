@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40033,37.55935,-85.23928,Lebanon,KY,Kentucky,True,,12032.0,33.1,21155,Marion,"{""21155"": 97.83, ""21229"": 2.17}",Marion|Washington,21155|21229,False,False,America/New_York,"(37.55935, -85.23928)",2.5560984745758577,12032.0,30458_0_no,37.52464429748591,-85.22312254923484,5.0

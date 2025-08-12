@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41512,37.25251,-82.47772,Ashcamp,KY,Kentucky,True,,796.0,24.7,21195,Pike,"{""21195"": 100}",Pike,21195,False,False,America/New_York,"(37.25251, -82.47772)",4.121558816332951,1033.0,29813_0_yes,37.30516985166294,-82.51293838567265,5.0
+41534,37.27748,-82.49644,Hellier,KY,Kentucky,True,,237.0,18.7,21195,Pike,"{""21195"": 100}",Pike,21195,False,False,America/New_York,"(37.27748, -82.49644)",2.1172457329262073,1033.0,29813_0_yes,37.30516985166294,-82.51293838567265,5.0

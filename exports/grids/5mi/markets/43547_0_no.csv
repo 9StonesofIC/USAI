@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56187,43.62357,-95.58507,Worthington,MN,Minnesota,True,,14713.0,33.7,27105,Nobles,"{""27105"": 92.55, ""27063"": 7.45}",Nobles|Jackson,27105|27063,False,False,America/Chicago,"(43.62357, -95.58507)",1.1768244912252737,14713.0,43547_0_no,43.61655375640824,-95.60650868070609,5.0

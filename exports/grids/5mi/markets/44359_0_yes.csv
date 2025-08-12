@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13665,44.05227,-75.44933,Natural Bridge,NY,New York,True,,626.0,6.7,36049,Lewis,"{""36049"": 80.89, ""36045"": 19.11}",Lewis|Jefferson,36049|36045,False,False,America/New_York,"(44.05227, -75.44933)",5.587802510170376,626.0,44359_0_yes,44.1055582683605,-75.53401252785477,5.0

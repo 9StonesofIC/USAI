@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24534,36.87835,-78.76691,Clover,VA,Virginia,True,,1281.0,8.6,51083,Halifax,"{""51083"": 100}",Halifax,51083,False,False,America/New_York,"(36.87835, -78.76691)",5.93270816464599,1281.0,29121_0_no,36.940157555434496,-78.8414533461087,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49632,44.23993,-84.97268,Falmouth,MI,Michigan,True,,1042.0,4.8,26113,Missaukee,"{""26113"": 100}",Missaukee,26113,False,False,America/Detroit,"(44.23993, -84.97268)",5.493719603416598,1042.0,44673_0_no,44.18635503659041,-85.05464994527426,5.0

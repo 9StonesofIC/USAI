@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68001,41.33369,-96.95489,Abie,NE,Nebraska,True,,44.0,11.1,31023,Butler,"{""31023"": 100}",Butler,31023,False,False,America/Chicago,"(41.33369, -96.95489)",5.407638924740242,675.0,38728_0_no,41.30064747392439,-96.86042621903454,5.0
+68050,41.30593,-96.84303,Prague,NE,Nebraska,True,,631.0,4.3,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.30593, -96.84303)",0.9739248105249158,675.0,38728_0_no,41.30064747392439,-96.86042621903454,5.0

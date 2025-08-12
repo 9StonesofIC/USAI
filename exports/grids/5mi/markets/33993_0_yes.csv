@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45672,39.20549,-82.67579,Ray,OH,Ohio,True,,1203.0,8.1,39163,Vinton,"{""39163"": 57.85, ""39079"": 41.6, ""39141"": 0.55}",Vinton|Jackson|Ross,39163|39079|39141,False,False,America/New_York,"(39.20549, -82.67579)",1.9584174188332302,1203.0,33993_0_yes,39.18873302413003,-82.70528863499287,5.0

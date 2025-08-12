@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59854,47.26481,-113.18997,Ovando,MT,Montana,True,,155.0,0.1,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver,"(47.26481, -113.18997)",6.182798247138401,155.0,12798_0_yes,47.31243872125915,-113.07828550237886,10.0

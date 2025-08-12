@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97057,45.00422,-120.7516,Shaniko,OR,Oregon,True,,12.0,10.7,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles,"(45.00422, -120.7516)",2.0313757382024864,12.0,46332_0_yes,45.01420482329463,-120.7124864684223,5.0

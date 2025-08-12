@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63826,36.18361,-89.84486,Braggadocio,MO,Missouri,True,,38.0,2.6,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago,"(36.18361, -89.84486)",5.037390709217242,6701.0,27229_0_yes,36.15128074229379,-89.76391432405704,5.0
+63830,36.14065,-89.6871,Caruthersville,MO,Missouri,True,,6663.0,41.4,29155,Pemiscot,"{""29155"": 100}",Pemiscot,29155,False,False,America/Chicago,"(36.14065, -89.6871)",4.3482728497596606,6701.0,27229_0_yes,36.15128074229379,-89.76391432405704,5.0

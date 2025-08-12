@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83123,42.23985,-110.25947,La Barge,WY,Wyoming,True,,699.0,5.9,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(42.23985, -110.25947)",21.969344641271494,699.0,2616_0_no,42.070560282952606,-109.8964015419252,20.0

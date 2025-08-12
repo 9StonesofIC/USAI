@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67502,38.12146,-97.92673,Hutchinson,KS,Kansas,True,,24051.0,126.6,20155,Reno,"{""20155"": 98.65, ""20159"": 1.35}",Reno|Rice,20155|20159,False,False,America/Chicago,"(38.12146, -97.92673)",0.876537131877288,24051.0,31819_0_no,38.11415351781346,-97.93991212381586,5.0

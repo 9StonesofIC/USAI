@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66521,39.47668,-96.22128,Onaga,KS,Kansas,True,,1609.0,3.5,20149,Pottawatomie,"{""20149"": 91.59, ""20131"": 8.41}",Pottawatomie|Nemaha,20149|20131,False,False,America/Chicago,"(39.47668, -96.22128)",2.0895428769183133,1609.0,34699_0_yes,39.48928135742219,-96.18566019456482,5.0

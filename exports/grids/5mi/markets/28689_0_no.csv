@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93641,36.70481,-119.02167,Miramonte,CA,California,True,,261.0,1.6,6019,Fresno,"{""06019"": 71.55, ""06107"": 28.45}",Fresno|Tulare,06019|06107,False,False,America/Los_Angeles,"(36.70481, -119.02167)",2.9186809803639213,261.0,28689_0_no,36.68068598214141,-118.9784243828291,5.0

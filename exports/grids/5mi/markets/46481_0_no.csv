@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57272,45.09564,-97.48002,Wallace,SD,South Dakota,True,,207.0,1.8,46029,Codington,"{""46029"": 60.59, ""46025"": 39.41}",Codington|Clark,46029|46025,False,False,America/Chicago,"(45.09564, -97.48002)",3.273859258630754,207.0,46481_0_no,45.06591526634272,-97.53227795847508,5.0

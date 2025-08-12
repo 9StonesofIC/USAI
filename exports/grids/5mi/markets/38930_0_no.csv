@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18619,41.43574,-76.7195,Hillsgrove,PA,Pennsylvania,True,,239.0,3.7,42113,Sullivan,"{""42113"": 81.58, ""42081"": 18.42}",Sullivan|Lycoming,42113|42081,False,False,America/New_York,"(41.43574, -76.7195)",2.764676361826625,239.0,38930_0_no,41.42867505326021,-76.77203153975233,5.0

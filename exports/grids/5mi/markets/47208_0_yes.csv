@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97119,45.4717,-123.20781,Gaston,OR,Oregon,True,,5309.0,21.7,41067,Washington,"{""41067"": 79.2, ""41071"": 20.8}",Washington|Yamhill,41067|41071,False,False,America/Los_Angeles,"(45.4717, -123.20781)",3.220883932669398,5309.0,47208_0_yes,45.45079387589941,-123.1484058503924,5.0

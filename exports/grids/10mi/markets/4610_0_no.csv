@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79934,31.95206,-106.434,El Paso,TX,Texas,True,,26360.0,172.2,48141,El Paso,"{""48141"": 100}",El Paso,48141,False,False,America/Denver,"(31.95206, -106.434)",9.567972970915125,26360.0,4610_0_no,32.09038029705534,-106.42618793479892,10.0

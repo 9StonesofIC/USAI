@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93230,36.28967,-119.62514,Hanford,CA,California,True,,68896.0,103.1,6031,Kings,"{""06031"": 99.6, ""06107"": 0.4}",Kings|Tulare,06031|06107,False,False,America/Los_Angeles,"(36.28967, -119.62514)",5.217041370947603,68896.0,27707_0_no,36.246073844110086,-119.54867614102312,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37321,35.50239,-85.00801,Dayton,TN,Tennessee,True,,20191.0,68.4,47143,Rhea,"{""47143"": 95.36, ""47007"": 4.64}",Rhea|Bledsoe,47143|47007,False,False,America/New_York,"(35.50239, -85.00801)",0.5011876293514038,20191.0,25858_0_no,35.49553511459756,-85.00509610655254,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97378,45.08058,-123.43127,Sheridan,OR,Oregon,True,,10637.0,35.2,41071,Yamhill,"{""41071"": 51.47, ""41053"": 48.53}",Yamhill|Polk,41071|41053,False,False,America/Los_Angeles,"(45.08058, -123.43127)",5.432571960257139,10637.0,46345_0_yes,45.01657719747155,-123.3666277902874,5.0

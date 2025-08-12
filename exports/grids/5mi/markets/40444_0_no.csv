@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12455,42.14871,-74.66334,Margaretville,NY,New York,True,,1553.0,8.4,36025,Delaware,"{""36025"": 94.64, ""36111"": 5.36}",Delaware|Ulster,36025|36111,False,False,America/New_York,"(42.14871, -74.66334)",0.3312165480941531,1553.0,40444_0_no,42.15079511863592,-74.66916216752401,5.0

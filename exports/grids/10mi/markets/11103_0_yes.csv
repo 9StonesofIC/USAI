@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97451,43.83998,-123.31383,Lorane,OR,Oregon,True,,464.0,2.4,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(43.83998, -123.31383)",4.377890143735054,9511.0,11103_0_yes,43.85660571559701,-123.39861058162018,10.0
+97487,43.99441,-123.39303,Veneta,OR,Oregon,True,,9047.0,48.0,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(43.99441, -123.39303)",9.525418340080952,9511.0,11103_0_yes,43.85660571559701,-123.39861058162018,10.0

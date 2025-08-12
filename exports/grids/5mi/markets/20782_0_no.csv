@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29831,33.33657,-81.84293,Jackson,SC,South Carolina,True,,4270.0,25.7,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York,"(33.33657, -81.84293)",2.3485213618219207,4270.0,20782_0_no,33.31877741759032,-81.87759215819862,5.0

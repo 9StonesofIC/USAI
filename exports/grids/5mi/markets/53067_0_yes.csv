@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98233,48.50309,-122.35102,Burlington,WA,Washington,True,,16324.0,190.1,53057,Skagit,"{""53057"": 100}",Skagit,53057,False,False,America/Los_Angeles,"(48.50309, -122.35102)",1.8871990300948165,16324.0,53067_0_yes,48.49003124206225,-122.3872219467688,5.0

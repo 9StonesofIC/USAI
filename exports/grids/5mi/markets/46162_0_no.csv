@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54729,44.94533,-91.39342,Chippewa Falls,WI,Wisconsin,True,,32927.0,77.0,55017,Chippewa,"{""55017"": 97.14, ""55035"": 2.86}",Chippewa|Eau Claire,55017|55035,False,False,America/Chicago,"(44.94533, -91.39342)",4.991431993797826,32927.0,46162_0_no,44.91576804142316,-91.48652702570884,5.0

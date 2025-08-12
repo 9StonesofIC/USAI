@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77480,29.09388,-95.76692,Sweeny,TX,Texas,True,,8344.0,25.8,48039,Brazoria,"{""48039"": 81.91, ""48321"": 18.09}",Brazoria|Matagorda,48039|48321,False,False,America/Chicago,"(29.09388, -95.76692)",3.286885664207154,8344.0,10386_0_yes,29.04877429100188,-95.74962358600196,5.0

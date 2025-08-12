@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61726,40.74013,-88.70014,Chenoa,IL,Illinois,True,,2442.0,10.0,17113,McLean,"{""17113"": 64.51, ""17105"": 35.49}",McLean|Livingston,17113|17105,False,False,America/Chicago,"(40.74013, -88.70014)",4.686488026707127,2442.0,37477_0_yes,40.78695088006949,-88.7649348142201,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82642,43.2799,-107.65797,Lysite,WY,Wyoming,True,,48.0,0.1,56013,Fremont,"{""56013"": 86.66, ""56025"": 13.34}",Fremont|Natrona,56013|56025,False,False,America/Denver,"(43.2799, -107.65797)",18.210186877946846,48.0,2768_0_yes,43.50868607430669,-107.47790269324686,20.0

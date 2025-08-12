@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31712,31.8215,-83.72806,Arabi,GA,Georgia,True,,1109.0,6.4,13081,Crisp,"{""13081"": 78.02, ""13287"": 20.51, ""13321"": 1.47}",Crisp|Turner|Worth,13081|13287|13321,False,False,America/New_York,"(31.8215, -83.72806)",2.413966380203707,1109.0,17016_0_yes,31.7974104347661,-83.69828274576635,5.0

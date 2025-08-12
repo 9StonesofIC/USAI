@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43446,41.68483,-82.80863,Middle Bass,OH,Ohio,True,,74.0,22.7,39123,Ottawa,"{""39123"": 100}",Ottawa,39123,False,False,America/New_York,"(41.68483, -82.80863)",5.296630868581894,519.0,9947_0_yes,41.76010224811489,-82.78918261942216,10.0
+43456,41.64934,-82.82497,Put In Bay,OH,Ohio,True,,445.0,67.9,39123,Ottawa,"{""39123"": 100}",Ottawa,39123,False,False,America/New_York,"(41.64934, -82.82497)",7.872448620039288,519.0,9947_0_yes,41.76010224811489,-82.78918261942216,10.0

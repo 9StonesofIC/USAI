@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37333,35.14844,-84.35981,Farner,TN,Tennessee,True,,474.0,9.1,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York,"(35.14844, -84.35981)",1.5646267215380991,1948.0,24871_0_yes,35.13266338908946,-84.37967561478413,5.0
+37391,35.09049,-84.35327,Turtletown,TN,Tennessee,True,,1474.0,22.2,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York,"(35.09049, -84.35327)",3.2738792042430718,1948.0,24871_0_yes,35.13266338908946,-84.37967561478413,5.0

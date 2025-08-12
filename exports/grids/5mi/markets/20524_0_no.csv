@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75442,33.17717,-96.35035,Farmersville,TX,Texas,True,,9558.0,34.3,48085,Collin,"{""48085"": 84.75, ""48231"": 15.25}",Collin|Hunt,48085|48231,False,False,America/Chicago,"(33.17717, -96.35035)",4.615846942782848,9558.0,20524_0_no,33.18376204399834,-96.27091899289783,5.0

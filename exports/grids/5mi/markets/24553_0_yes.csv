@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35648,34.95857,-87.38022,Lexington,AL,Alabama,True,,3226.0,20.1,1077,Lauderdale,"{""01077"": 100}",Lauderdale,01077,False,False,America/Chicago,"(34.95857, -87.38022)",4.408505313926521,4288.0,24553_0_yes,34.989935052652484,-87.44802927508185,5.0
+38481,35.02813,-87.48863,Saint Joseph,TN,Tennessee,True,,1062.0,39.1,47099,Lawrence,"{""47099"": 100}",Lawrence,47099,False,False,America/Chicago,"(35.02813, -87.48863)",3.49909930463525,4288.0,24553_0_yes,34.989935052652484,-87.44802927508185,5.0

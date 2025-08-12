@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65355,38.22137,-93.37144,Warsaw,MO,Missouri,True,,10707.0,19.1,29015,Benton,"{""29015"": 98.48, ""29185"": 0.91, ""29085"": 0.61}",Benton|St. Clair|Hickory,29015|29185|29085,False,False,America/Chicago,"(38.22137, -93.37144)",5.028212428094808,10707.0,32115_0_no,38.255428397422,-93.28955937586984,5.0

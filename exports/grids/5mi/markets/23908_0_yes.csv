@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72142,34.67681,-92.07488,Scott,AR,Arkansas,True,,2235.0,8.2,5085,Lonoke,"{""05085"": 58.32, ""05119"": 41.68}",Lonoke|Pulaski,05085|05119,False,False,America/Chicago,"(34.67681, -92.07488)",4.473430305679955,2235.0,23908_0_yes,34.70338434290733,-92.14668317507024,5.0

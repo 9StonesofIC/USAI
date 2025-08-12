@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14737,42.33524,-78.42926,Franklinville,NY,New York,True,,4272.0,15.5,36009,Cattaraugus,"{""36009"": 98.97, ""36003"": 1.03}",Cattaraugus|Allegany,36009|36003,False,False,America/New_York,"(42.33524, -78.42926)",2.897039165631203,4272.0,40766_0_no,42.29878406119678,-78.45727216809517,5.0

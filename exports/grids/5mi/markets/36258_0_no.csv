@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68942,40.09552,-98.31143,Guide Rock,NE,Nebraska,True,,404.0,1.1,31181,Webster,"{""31181"": 72.92, ""31129"": 27.08}",Webster|Nuckolls,31181|31129,False,False,America/Chicago,"(40.09552, -98.31143)",3.5162050141655907,404.0,36258_0_no,40.14297435217977,-98.28739058516528,5.0

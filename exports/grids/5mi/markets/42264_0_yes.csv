@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03281,43.08126,-71.72189,Weare,NH,New Hampshire,True,,9058.0,59.2,33011,Hillsborough,"{""33011"": 100}",Hillsborough,33011,False,False,America/New_York,"(43.08126, -71.72189)",4.561527482308133,9058.0,42264_0_yes,43.08919644027389,-71.81163051460497,5.0

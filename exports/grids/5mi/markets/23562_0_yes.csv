@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38626,34.5182,-90.43966,Dundee,MS,Mississippi,True,,906.0,2.1,28143,Tunica,"{""28143"": 81.72, ""28027"": 18.28}",Tunica|Coahoma,28143|28027,False,False,America/Chicago,"(34.5182, -90.43966)",2.760250472939978,906.0,23562_0_yes,34.557180294904114,-90.45027795165184,5.0

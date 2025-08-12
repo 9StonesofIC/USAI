@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98577,46.6418,-123.60031,Raymond,WA,Washington,True,,7235.0,7.7,53049,Pacific,"{""53049"": 100}",Pacific,53049,False,False,America/Los_Angeles,"(46.6418, -123.60031)",4.038304805096538,7235.0,49482_0_yes,46.609413330025646,-123.52946536217011,5.0

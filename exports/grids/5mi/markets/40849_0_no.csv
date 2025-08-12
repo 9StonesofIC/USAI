@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51449,42.26614,-94.73475,Lake City,IA,Iowa,True,,2050.0,8.8,19025,Calhoun,"{""19025"": 87.72, ""19027"": 12.28}",Calhoun|Carroll,19025|19027,False,False,America/Chicago,"(42.26614, -94.73475)",5.089059521892673,2050.0,40849_0_no,42.31257057625453,-94.65745810412096,5.0

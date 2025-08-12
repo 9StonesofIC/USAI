@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87412,36.6569,-107.51956,Blanco,NM,New Mexico,True,,1683.0,1.4,35039,Rio Arriba,"{""35039"": 72.13, ""35045"": 27.87}",Rio Arriba|San Juan,35039|35045,False,False,America/Denver,"(36.6569, -107.51956)",9.461768438676575,1683.0,7153_0_yes,36.5860870399444,-107.3735190208849,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74836,34.44436,-96.62581,Connerville,OK,Oklahoma,True,,175.0,4.1,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago,"(34.44436, -96.62581)",5.611380887458038,175.0,23581_0_no,34.48920999429611,-96.70793358526042,5.0

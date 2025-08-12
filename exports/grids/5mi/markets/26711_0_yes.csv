@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89179,35.8916,-115.32794,Las Vegas,NV,Nevada,True,,7807.0,25.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(35.8916, -115.32794)",2.775587522434566,7807.0,26711_0_yes,35.880380025625506,-115.37554990186877,5.0

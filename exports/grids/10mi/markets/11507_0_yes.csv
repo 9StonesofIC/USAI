@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82412,44.79014,-108.55286,Byron,WY,Wyoming,True,,515.0,14.9,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver,"(44.79014, -108.55286)",11.60101219818192,735.0,11507_0_yes,44.69950774878652,-108.75186233206364,10.0
+82440,44.71743,-108.86781,Ralston,WY,Wyoming,True,,220.0,133.6,56029,Park,"{""56029"": 100}",Park,56029,False,False,America/Denver,"(44.71743, -108.86781)",5.826644440312486,735.0,11507_0_yes,44.69950774878652,-108.75186233206364,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77359,30.76262,-95.30441,Oakhurst,TX,Texas,True,,292.0,2.7,48407,San Jacinto,"{""48407"": 100}",San Jacinto,48407,False,False,America/Chicago,"(30.76262, -95.30441)",4.476764923925987,2422.0,14637_0_yes,30.789632819899683,-95.2358634123209,5.0
+77364,30.76592,-95.22168,Pointblank,TX,Texas,True,,2130.0,26.7,48407,San Jacinto,"{""48407"": 100}",San Jacinto,48407,False,False,America/Chicago,"(30.76592, -95.22168)",1.8420770775357989,2422.0,14637_0_yes,30.789632819899683,-95.2358634123209,5.0

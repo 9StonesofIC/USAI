@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52172,43.27117,-91.48382,Waukon,IA,Iowa,True,,6051.0,14.6,19005,Allamakee,"{""19005"": 95.48, ""19191"": 4.52}",Allamakee|Winneshiek,19005|19191,False,False,America/Chicago,"(43.27117, -91.48382)",6.016384660772647,6051.0,42933_0_no,43.32349092021452,-91.57945605238348,5.0

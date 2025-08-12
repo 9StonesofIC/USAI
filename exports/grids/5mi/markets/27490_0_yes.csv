@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27869,36.26631,-77.31665,Rich Square,NC,North Carolina,True,,1550.0,7.3,37131,Northampton,"{""37131"": 99.71, ""37015"": 0.29}",Northampton|Bertie,37131|37015,False,False,America/New_York,"(36.26631, -77.31665)",1.8282216470630037,1550.0,27490_0_yes,36.286914607071246,-77.3372422872324,5.0

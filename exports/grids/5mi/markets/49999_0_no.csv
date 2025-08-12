@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99321,46.86576,-119.88925,Beverly,WA,Washington,True,,488.0,5.4,53025,Grant,"{""53025"": 100}",Grant,53025,False,False,America/Los_Angeles,"(46.86576, -119.88925)",3.2812090281344624,488.0,49999_0_no,46.82323388416409,-119.85834689648482,5.0

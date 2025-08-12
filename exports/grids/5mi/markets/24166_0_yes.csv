@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28441,34.79047,-78.4355,Garland,NC,North Carolina,True,,3352.0,9.0,37163,Sampson,"{""37163"": 52.91, ""37017"": 47.09}",Sampson|Bladen,37163|37017,False,False,America/New_York,"(34.79047, -78.4355)",5.2182204419871,3352.0,24166_0_yes,34.838398356886024,-78.3644072622507,5.0

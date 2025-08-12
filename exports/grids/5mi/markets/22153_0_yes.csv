@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29044,33.93437,-80.69446,Eastover,SC,South Carolina,True,,5772.0,16.3,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York,"(33.93437, -80.69446)",4.525528838665253,5772.0,22153_0_yes,33.97036612118098,-80.76042816352202,5.0

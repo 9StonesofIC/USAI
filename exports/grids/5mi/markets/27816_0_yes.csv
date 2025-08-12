@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27938,36.38422,-76.71628,Gatesville,NC,North Carolina,True,,1469.0,11.1,37073,Gates,"{""37073"": 100}",Gates,37073,False,False,America/New_York,"(36.38422, -76.71628)",3.2733551110895696,1469.0,27816_0_yes,36.43135130631205,-76.71030745294651,5.0

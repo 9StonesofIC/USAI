@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13486,43.35707,-75.34088,Westernville,NY,New York,True,,701.0,10.2,36065,Oneida,"{""36065"": 100}",Oneida,36065,False,False,America/New_York,"(43.35707, -75.34088)",1.75616170832705,701.0,42878_0_yes,43.38172370278689,-75.33237451910828,5.0

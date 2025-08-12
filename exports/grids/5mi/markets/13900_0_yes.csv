@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39466,30.53328,-89.63424,Picayune,MS,Mississippi,True,,28348.0,71.6,28109,Pearl River,"{""28109"": 63.33, ""28045"": 36.67}",Pearl River|Hancock,28109|28045,False,False,America/Chicago,"(30.53328, -89.63424)",2.643877905073763,28348.0,13900_0_yes,30.495860524422827,-89.62495290944422,5.0

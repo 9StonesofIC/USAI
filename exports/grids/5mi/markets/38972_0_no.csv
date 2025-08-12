@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46721,41.4237,-84.87425,Butler,IN,Indiana,True,,5550.0,27.3,18033,DeKalb,"{""18033"": 100}",DeKalb,18033,False,False,America/Indiana/Indianapolis,"(41.4237, -84.87425)",1.1375636532191942,5550.0,38972_0_no,41.4354419606193,-84.85885729832877,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99152,48.85066,-117.39748,Metaline,WA,Washington,True,,122.0,10.7,53051,Pend Oreille,"{""53051"": 100}",Pend Oreille,53051,False,False,America/Los_Angeles,"(48.85066, -117.39748)",3.0598486783941072,122.0,53828_0_no,48.84719291432997,-117.4645721216739,5.0

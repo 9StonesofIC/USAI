@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61938,39.48004,-88.37571,Mattoon,IL,Illinois,True,,21227.0,64.8,17029,Coles,"{""17029"": 98.73, ""17035"": 1.27}",Coles|Cumberland,17029|17035,False,False,America/Chicago,"(39.48004, -88.37571)",2.5063338577500223,21227.0,34657_0_yes,39.48296152864459,-88.32886454044744,5.0

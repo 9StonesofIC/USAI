@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73945,36.8321,-101.22474,Hooker,OK,Oklahoma,True,,2369.0,2.3,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago,"(36.8321, -101.22474)",3.886909346118219,2369.0,28918_0_no,36.812277023558046,-101.29050846393886,5.0

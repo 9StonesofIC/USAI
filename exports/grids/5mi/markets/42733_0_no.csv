@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83128,43.14762,-110.7918,Alpine,WY,Wyoming,True,,1081.0,1.1,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(43.14762, -110.7918)",4.811201771681489,1081.0,42733_0_no,43.195391784615474,-110.86126593966458,5.0

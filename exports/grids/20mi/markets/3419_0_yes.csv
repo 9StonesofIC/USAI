@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59930,48.86277,-115.14514,Rexford,MT,Montana,True,,399.0,1.6,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver,"(48.86277, -115.14514)",12.99497400743583,1193.0,3419_0_yes,48.74535535990652,-115.36821644417137,20.0
+59934,48.63437,-114.94446,Trego,MT,Montana,True,,794.0,2.5,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver,"(48.63437, -114.94446)",20.79353979316859,1193.0,3419_0_yes,48.74535535990652,-115.36821644417137,20.0

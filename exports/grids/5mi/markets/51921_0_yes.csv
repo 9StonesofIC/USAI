@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59442,47.93005,-110.64697,Fort Benton,MT,Montana,True,,1742.0,0.9,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver,"(47.93005, -110.64697)",3.847097168489334,1742.0,51921_0_yes,47.900053267638135,-110.57698132167774,5.0

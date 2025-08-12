@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23936,37.52494,-78.4819,Dillwyn,VA,Virginia,True,,7976.0,14.9,51029,Buckingham,"{""51029"": 97.98, ""51049"": 2.02}",Buckingham|Cumberland,51029|51049,False,False,America/New_York,"(37.52494, -78.4819)",0.4755849645733056,7976.0,30421_0_no,37.51945284614265,-78.48713969863412,5.0

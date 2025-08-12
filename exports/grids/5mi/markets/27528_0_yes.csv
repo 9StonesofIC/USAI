@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37757,36.30182,-84.14371,Jacksboro,TN,Tennessee,True,,10096.0,137.8,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York,"(36.30182, -84.14371)",0.6806311425490861,10096.0,27528_0_yes,36.29201416094251,-84.14487750060144,5.0

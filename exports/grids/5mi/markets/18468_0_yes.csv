@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75662,32.38076,-94.87503,Kilgore,TX,Texas,True,,26318.0,80.1,48183,Gregg,"{""48183"": 52.8, ""48401"": 39.5, ""48423"": 7.7}",Gregg|Rusk|Smith,48183|48401|48423,False,False,America/Chicago,"(32.38076, -94.87503)",1.202180855800942,26318.0,18468_0_yes,32.38508357088566,-94.89498720539244,5.0

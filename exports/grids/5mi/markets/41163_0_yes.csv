@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50654,42.45812,-91.60933,Masonville,IA,Iowa,True,,405.0,2.9,19019,Buchanan,"{""19019"": 52.07, ""19055"": 47.93}",Buchanan|Delaware,19019|19055,False,False,America/Chicago,"(42.45812, -91.60933)",6.4453966879833295,405.0,41163_0_yes,42.5272037775237,-91.69434405440744,5.0

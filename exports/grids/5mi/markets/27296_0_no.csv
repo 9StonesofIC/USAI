@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87735,36.04867,-105.11978,Ojo Feliz,NM,New Mexico,True,,77.0,1.7,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(36.04867, -105.11978)",3.523977231071723,77.0,27296_0_no,36.09026611410809,-105.08326646786324,5.0

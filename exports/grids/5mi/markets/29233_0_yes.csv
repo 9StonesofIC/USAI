@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67337,37.05486,-95.5993,Coffeyville,KS,Kansas,True,,11569.0,30.3,20125,Montgomery,"{""20125"": 71.82, ""20099"": 28.18}",Montgomery|Labette,20125|20099,False,False,America/Chicago,"(37.05486, -95.5993)",5.065328355667394,11569.0,29233_0_yes,37.02527130596346,-95.51526869291196,5.0

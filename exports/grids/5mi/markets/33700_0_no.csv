@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63349,38.97979,-91.15083,Hawk Point,MO,Missouri,True,,1916.0,22.2,29113,Lincoln,"{""29113"": 90.83, ""29219"": 9.17}",Lincoln|Warren,29113|29219,False,False,America/Chicago,"(38.97979, -91.15083)",2.069721374405244,1916.0,33700_0_no,38.97817661834274,-91.11235196974935,5.0

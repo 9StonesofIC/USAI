@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51461,42.172,-95.47579,Schleswig,IA,Iowa,True,,1207.0,8.6,19047,Crawford,"{""19047"": 92.71, ""19093"": 7.29}",Crawford|Ida,19047|19093,False,False,America/Chicago,"(42.172, -95.47579)",1.5482847614297128,1207.0,40551_0_no,42.1684779036136,-95.5056489260494,5.0

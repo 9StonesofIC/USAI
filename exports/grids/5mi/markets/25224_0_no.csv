@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72396,35.22966,-90.83559,Wynne,AR,Arkansas,True,,12430.0,19.7,5037,Cross,"{""05037"": 94.76, ""05123"": 5.24}",Cross|St. Francis,05037|05123,False,False,America/Chicago,"(35.22966, -90.83559)",2.2800885938549738,12430.0,25224_0_no,35.20986497309106,-90.80326983073437,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74723,33.98958,-96.0233,Bennington,OK,Oklahoma,True,,1166.0,2.4,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago,"(33.98958, -96.0233)",5.037448369942111,1166.0,22564_0_no,34.05367613091999,-95.98137898740056,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98811,47.73425,-120.37379,Ardenvoir,WA,Washington,True,,187.0,142.7,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.73425, -120.37379)",4.963461306046587,187.0,51691_0_yes,47.76441271448434,-120.27682355222883,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26818,39.07662,-79.02238,Fisher,WV,West Virginia,True,,914.0,13.3,54031,Hardy,"{""54031"": 100}",Hardy,54031,False,False,America/New_York,"(39.07662, -79.02238)",3.707601092463259,914.0,33656_0_yes,39.04098158989109,-79.07404390823947,5.0

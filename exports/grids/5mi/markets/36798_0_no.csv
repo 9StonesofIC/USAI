@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43050,40.37188,-82.49536,Mount Vernon,OH,Ohio,True,,29609.0,74.2,39083,Knox,"{""39083"": 99.39, ""39117"": 0.61}",Knox|Morrow,39083|39117,False,False,America/New_York,"(40.37188, -82.49536)",4.664422298496915,29609.0,36798_0_no,40.41970820718042,-82.43280152121956,5.0

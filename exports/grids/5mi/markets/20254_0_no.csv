@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88025,33.10087,-108.71984,Buckhorn,NM,New Mexico,True,,169.0,0.5,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(33.10087, -108.71984)",3.703916691404536,169.0,20254_0_no,33.04732872695002,-108.72301591001528,5.0

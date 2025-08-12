@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59258,48.57025,-104.735,Reserve,MT,Montana,True,,143.0,0.2,30091,Sheridan,"{""30091"": 64.42, ""30085"": 35.58}",Sheridan|Roosevelt,30091|30085,False,False,America/Denver,"(48.57025, -104.735)",2.2782928025253293,143.0,13450_0_no,48.59908189854412,-104.7591875801396,10.0

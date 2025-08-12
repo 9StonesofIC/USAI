@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54670,43.83802,-90.48273,Wilton,WI,Wisconsin,True,,1788.0,13.1,55081,Monroe,"{""55081"": 100}",Monroe,55081,False,False,America/Chicago,"(43.83802, -90.48273)",4.582238838077881,1788.0,44112_0_no,43.90159562594109,-90.45654267338068,5.0

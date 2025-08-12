@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68739,42.6284,-97.26265,Hartington,NE,Nebraska,True,,2776.0,4.6,31027,Cedar,"{""31027"": 98.74, ""31051"": 1.26}",Cedar|Dixon,31027|31051,False,False,America/Chicago,"(42.6284, -97.26265)",1.6573796076700142,2776.0,41466_0_no,42.60441524306329,-97.26314452176062,5.0

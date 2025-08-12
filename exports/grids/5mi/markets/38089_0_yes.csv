@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46349,41.10899,-87.42359,Lake Village,IN,Indiana,True,,3100.0,15.1,18111,Newton,"{""18111"": 100}",Newton,18111,False,False,America/Chicago,"(41.10899, -87.42359)",2.901128446275318,3100.0,38089_0_yes,41.07552381890585,-87.45723734378174,5.0

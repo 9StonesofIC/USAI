@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78264,29.19868,-98.50534,San Antonio,TX,Texas,True,,10603.0,57.9,48029,Bexar,"{""48029"": 93.59, ""48013"": 6.41}",Bexar|Atascosa,48029|48013,False,False,America/Chicago,"(29.19868, -98.50534)",1.0032121296854777,10603.0,10760_0_yes,29.195603662222013,-98.5215953025006,5.0

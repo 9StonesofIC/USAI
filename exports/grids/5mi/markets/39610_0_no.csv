@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61261,41.72928,-89.91166,Lyndon,IL,Illinois,True,,750.0,17.5,17195,Whiteside,"{""17195"": 100}",Whiteside,17195,False,False,America/Chicago,"(41.72928, -89.91166)",0.5114173639229082,750.0,39610_0_no,41.72929637669311,-89.90174196984054,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98597,46.85241,-122.49212,Yelm,WA,Washington,True,,24968.0,86.8,53067,Thurston,"{""53067"": 100}",Thurston,53067,False,False,America/Los_Angeles,"(46.85241, -122.49212)",5.203148311536226,24968.0,50011_0_no,46.82556562239968,-122.38926378941918,5.0

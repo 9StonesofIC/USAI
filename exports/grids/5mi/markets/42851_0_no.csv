@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13354,43.26612,-75.27199,Holland Patent,NY,New York,True,,3777.0,27.3,36065,Oneida,"{""36065"": 100}",Oneida,36065,False,False,America/New_York,"(43.26612, -75.27199)",3.5949143316140275,4478.0,42851_0_no,43.309383221799294,-75.31169648350699,5.0
+13486,43.35707,-75.34088,Westernville,NY,New York,True,,701.0,10.2,36065,Oneida,"{""36065"": 100}",Oneida,36065,False,False,America/New_York,"(43.35707, -75.34088)",3.6065371176740975,4478.0,42851_0_no,43.309383221799294,-75.31169648350699,5.0

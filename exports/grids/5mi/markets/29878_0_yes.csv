@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64755,37.33685,-94.31112,Jasper,MO,Missouri,True,,2844.0,7.5,29097,Jasper,"{""29097"": 65.24, ""29011"": 34.76}",Jasper|Barton,29097|29011,False,False,America/Chicago,"(37.33685, -94.31112)",1.5671684576402174,2844.0,29878_0_yes,37.31422062815335,-94.31305966799862,5.0

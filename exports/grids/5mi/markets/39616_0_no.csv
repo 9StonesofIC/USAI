@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52772,41.75006,-91.14083,Tipton,IA,Iowa,True,,5368.0,15.9,19031,Cedar,"{""19031"": 100}",Cedar,19031,False,False,America/Chicago,"(41.75006, -91.14083)",4.272217000543237,5368.0,39616_0_no,41.730273181781854,-91.062321215439,5.0

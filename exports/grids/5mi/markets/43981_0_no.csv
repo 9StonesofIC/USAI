@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97451,43.83998,-123.31383,Lorane,OR,Oregon,True,,464.0,2.4,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(43.83998, -123.31383)",3.7755778293019184,464.0,43981_0_no,43.78556841136025,-123.3208148008254,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33440,26.54065,-81.04325,Clewiston,FL,Florida,True,,21254.0,11.3,12051,Hendry,"{""12051"": 95.37, ""12099"": 4.63}",Hendry|Palm Beach,12051|12099,False,False,America/New_York,"(26.54065, -81.04325)",2.3967697263797367,21254.0,4146_0_yes,26.573013382125456,-81.05720993951276,5.0

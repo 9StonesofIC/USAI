@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04468,45.0263,-68.72323,Old Town,ME,Maine,True,,9199.0,28.9,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(45.0263, -68.72323)",0.967726501303425,9199.0,46340_0_no,45.040150527612646,-68.72617537050256,5.0

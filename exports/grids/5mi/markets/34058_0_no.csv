@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67649,39.13404,-98.69232,Luray,KS,Kansas,True,,256.0,1.2,20167,Russell,"{""20167"": 50.62, ""20141"": 49.38}",Russell|Osborne,20167|20141,False,False,America/Chicago,"(39.13404, -98.69232)",1.0549572827818243,256.0,34058_0_no,39.129093132671166,-98.67369810314553,5.0

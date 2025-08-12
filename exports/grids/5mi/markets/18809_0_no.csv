@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75157,32.46168,-96.44914,Rosser,TX,Texas,True,,233.0,66.9,48257,Kaufman,"{""48257"": 100}",Kaufman,48257,False,False,America/Chicago,"(32.46168, -96.44914)",3.139218129793265,233.0,18809_0_no,32.45873066174089,-96.5028736875001,5.0

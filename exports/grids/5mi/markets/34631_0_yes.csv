@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43160,39.52871,-83.43917,Washington Court House,OH,Ohio,True,,21529.0,39.0,39047,Fayette,"{""39047"": 94.09, ""39141"": 5.91}",Fayette|Ross,39047|39141,False,False,America/New_York,"(39.52871, -83.43917)",3.7070034047823186,21529.0,34631_0_yes,39.47904996079066,-83.46549022046383,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40445,37.3125,-84.21159,Livingston,KY,Kentucky,True,,728.0,5.8,21203,Rockcastle,"{""21203"": 100}",Rockcastle,21203,False,False,America/New_York,"(37.3125, -84.21159)",3.5897431796241124,6469.0,29822_0_yes,37.30642286032997,-84.14671697458245,5.0
+40729,37.2435,-84.14788,East Bernstadt,KY,Kentucky,True,,5741.0,29.5,21125,Laurel,"{""21125"": 100}",Laurel,21125,False,False,America/New_York,"(37.2435, -84.14788)",4.348025764300794,6469.0,29822_0_yes,37.30642286032997,-84.14671697458245,5.0

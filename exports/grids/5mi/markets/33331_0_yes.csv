@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+20144,38.92117,-77.93759,Delaplane,VA,Virginia,True,,1089.0,9.4,51061,Fauquier,"{""51061"": 100}",Fauquier,51061,False,False,America/New_York,"(38.92117, -77.93759)",4.1017825284467415,1089.0,33331_0_yes,38.89517206701706,-77.8690040507907,5.0

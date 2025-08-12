@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59644,46.419,-111.43885,Townsend,MT,Montana,True,,4334.0,2.3,30007,Broadwater,"{""30007"": 100}",Broadwater,30007,False,False,America/Denver,"(46.419, -111.43885)",3.5840261990582736,4334.0,49143_0_yes,46.453517247168485,-111.38266491833176,5.0

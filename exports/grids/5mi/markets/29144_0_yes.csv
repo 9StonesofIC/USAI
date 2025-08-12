@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24139,37.01092,-79.4752,Pittsville,VA,Virginia,True,,662.0,10.5,51143,Pittsylvania,"{""51143"": 75.38, ""51019"": 24.62}",Pittsylvania|Bedford,51143|51019,False,False,America/New_York,"(37.01092, -79.4752)",3.0539278851759626,662.0,29144_0_yes,37.01300775833728,-79.419908697751,5.0

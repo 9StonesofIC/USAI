@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66868,38.54284,-95.98387,Reading,KS,Kansas,True,,860.0,2.6,20111,Lyon,"{""20111"": 77.85, ""20139"": 20.56, ""20031"": 1.59}",Lyon|Osage|Coffey,20111|20139|20031,False,False,America/Chicago,"(38.54284, -95.98387)",5.613046487910568,860.0,32471_0_yes,38.47490582287031,-96.04080121395045,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57054,44.12162,-97.25799,Ramona,SD,South Dakota,True,,651.0,2.2,46079,Lake,"{""46079"": 99.14, ""46097"": 0.86}",Lake|Miner,46079|46097,False,False,America/Chicago,"(44.12162, -97.25799)",0.6160432792401158,651.0,44467_0_yes,44.1246614223553,-97.2463143411823,5.0

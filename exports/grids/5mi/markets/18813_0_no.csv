@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76009,32.41635,-97.20115,Alvarado,TX,Texas,True,,19618.0,77.3,48251,Johnson,"{""48251"": 100}",Johnson,48251,False,False,America/Chicago,"(32.41635, -97.20115)",3.06462376797422,19677.0,18813_0_no,32.45919603827678,-97.18755938168712,5.0
+76061,32.5026,-97.19813,Lillian,TX,Texas,True,,59.0,10.2,48251,Johnson,"{""48251"": 100}",Johnson,48251,False,False,America/Chicago,"(32.5026, -97.19813)",3.061561970223381,19677.0,18813_0_no,32.45919603827678,-97.18755938168712,5.0

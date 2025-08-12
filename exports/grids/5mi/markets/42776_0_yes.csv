@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83348,43.28489,-114.10592,Picabo,ID,Idaho,True,,357.0,5.1,16013,Blaine,"{""16013"": 100}",Blaine,16013,False,False,America/Boise,"(43.28489, -114.10592)",1.107544434690248,357.0,42776_0_yes,43.27055999182973,-114.09605324199192,5.0

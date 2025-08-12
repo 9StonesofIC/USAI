@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26719,39.49778,-78.7678,Fort Ashby,WV,West Virginia,True,,2929.0,64.5,54057,Mineral,"{""54057"": 100}",Mineral,54057,False,False,America/New_York,"(39.49778, -78.7678)",1.9350951611059788,2929.0,34606_0_yes,39.47528934763305,-78.78942562042249,5.0

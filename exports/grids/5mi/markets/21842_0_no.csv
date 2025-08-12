@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39746,33.74697,-88.41544,Hamilton,MS,Mississippi,True,,2353.0,10.3,28095,Monroe,"{""28095"": 100}",Monroe,28095,False,False,America/Chicago,"(33.74697, -88.41544)",1.4095420574691955,2353.0,21842_0_no,33.75834152450332,-88.43581086834034,5.0

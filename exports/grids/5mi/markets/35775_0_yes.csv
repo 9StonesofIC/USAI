@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95971,39.92895,-120.91608,Quincy,CA,California,True,,5948.0,15.2,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.92895, -120.91608)",3.290075049258864,5948.0,35775_0_yes,39.94394413318032,-120.85713635323476,5.0

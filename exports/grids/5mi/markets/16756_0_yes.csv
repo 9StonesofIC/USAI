@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76890,31.69229,-98.7649,Zephyr,TX,Texas,True,,865.0,4.0,48049,Brown,"{""48049"": 78.21, ""48333"": 19.72, ""48093"": 2.07}",Brown|Mills|Comanche,48049|48333|48093,False,False,America/Chicago,"(31.69229, -98.7649)",4.606049686477521,865.0,16756_0_yes,31.662352042167694,-98.6949091157124,5.0

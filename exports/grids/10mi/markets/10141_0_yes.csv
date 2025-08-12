@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68711,42.2034,-99.02407,Amelia,NE,Nebraska,True,,126.0,0.2,31089,Holt,"{""31089"": 100}",Holt,31089,False,False,America/Chicago,"(42.2034, -99.02407)",9.969182833438932,708.0,10141_0_yes,42.076832679134895,-98.93064511897674,10.0
+68725,42.20118,-98.77703,Chambers,NE,Nebraska,True,,582.0,1.3,31089,Holt,"{""31089"": 97.4, ""31183"": 2.6}",Holt|Wheeler,31089|31183,False,False,America/Chicago,"(42.20118, -98.77703)",11.65149367014457,708.0,10141_0_yes,42.076832679134895,-98.93064511897674,10.0

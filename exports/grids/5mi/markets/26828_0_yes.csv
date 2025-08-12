@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27840,35.9343,-77.23186,Hamilton,NC,North Carolina,True,,275.0,19.1,37117,Martin,"{""37117"": 100}",Martin,37117,False,False,America/New_York,"(35.9343, -77.23186)",6.084129012125433,1808.0,26828_0_yes,35.99695367049048,-77.15541198672796,5.0
+27849,36.06796,-77.20675,Lewiston Woodville,NC,North Carolina,True,,1533.0,8.0,37015,Bertie,"{""37015"": 100}",Bertie,37015,False,False,America/New_York,"(36.06796, -77.20675)",5.683115420982437,1808.0,26828_0_yes,35.99695367049048,-77.15541198672796,5.0

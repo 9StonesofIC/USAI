@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68665,41.70543,-98.41445,Spalding,NE,Nebraska,True,,762.0,1.7,31077,Greeley,"{""31077"": 67.01, ""31183"": 32.99}",Greeley|Wheeler,31077|31183,False,False,America/Chicago,"(41.70543, -98.41445)",2.1451853455075223,762.0,39654_0_no,41.73646038747178,-98.41306478993684,5.0

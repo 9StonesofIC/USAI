@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77577,29.25966,-95.26731,Liverpool,TX,Texas,True,,1497.0,20.8,48039,Brazoria,"{""48039"": 100}",Brazoria,48039,False,False,America/Chicago,"(29.25966, -95.26731)",5.652039747576882,1497.0,10740_0_yes,29.19355821305156,-95.21209042782006,5.0

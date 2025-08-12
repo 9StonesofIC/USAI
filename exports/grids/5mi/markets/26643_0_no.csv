@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87025,35.84308,-106.61862,Jemez Springs,NM,New Mexico,True,,1512.0,1.9,35043,Sandoval,"{""35043"": 100}",Sandoval,35043,False,False,America/Denver,"(35.84308, -106.61862)",3.6024629625761095,1512.0,26643_0_no,35.8013955308692,-106.57999441825484,5.0

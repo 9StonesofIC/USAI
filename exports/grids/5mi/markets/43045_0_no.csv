@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83320,43.40515,-113.88309,Carey,ID,Idaho,True,,1449.0,1.3,16013,Blaine,"{""16013"": 100}",Blaine,16013,False,False,America/Boise,"(43.40515, -113.88309)",5.829990803787033,1449.0,43045_0_no,43.342771147358434,-113.80492007126524,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53526,42.97433,-90.34438,Cobb,WI,Wisconsin,True,,555.0,27.4,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago,"(42.97433, -90.34438)",3.519432132619582,1272.0,42058_0_yes,42.96036282390155,-90.27743708130966,5.0
+53553,42.91235,-90.29693,Linden,WI,Wisconsin,True,,717.0,40.5,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago,"(42.91235, -90.29693)",3.4608092715325656,1272.0,42058_0_yes,42.96036282390155,-90.27743708130966,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59339,47.22587,-105.19934,Lindsay,MT,Montana,True,,114.0,0.1,30021,Dawson,"{""30021"": 98.9, ""30079"": 1.1}",Dawson|Prairie,30021|30079,False,False,America/Denver,"(47.22587, -105.19934)",2.7105891417571373,114.0,50765_0_no,47.243841305766,-105.14798108567828,5.0

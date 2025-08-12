@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82942,41.70234,-108.77539,Point Of Rocks,WY,Wyoming,True,,58.0,2.3,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver,"(41.70234, -108.77539)",2.1231289018681845,58.0,39429_0_yes,41.672699331710206,-108.76453899856746,5.0

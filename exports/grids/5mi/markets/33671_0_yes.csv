@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45743,39.076,-81.85017,Long Bottom,OH,Ohio,True,,1543.0,16.7,39105,Meigs,"{""39105"": 100}",Meigs,39105,False,False,America/New_York,"(39.076, -81.85017)",2.3590103053805818,5606.0,33671_0_yes,39.04320348171563,-81.86239348113214,5.0
+45770,38.98586,-81.80238,Portland,OH,Ohio,True,,656.0,11.6,39105,Meigs,"{""39105"": 100}",Meigs,39105,False,False,America/New_York,"(38.98586, -81.80238)",5.106652912242385,5606.0,33671_0_yes,39.04320348171563,-81.86239348113214,5.0
+45771,38.98204,-81.89902,Racine,OH,Ohio,True,,3407.0,21.4,39105,Meigs,"{""39105"": 100}",Meigs,39105,False,False,America/New_York,"(38.98204, -81.89902)",4.6610617529366,5606.0,33671_0_yes,39.04320348171563,-81.86239348113214,5.0

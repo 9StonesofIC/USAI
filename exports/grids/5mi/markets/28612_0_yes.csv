@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73942,36.74452,-101.49555,Guymon,OK,Oklahoma,True,,12980.0,8.3,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago,"(36.74452, -101.49555)",4.280153669093597,12980.0,28612_0_yes,36.73997156247401,-101.57264653557128,5.0

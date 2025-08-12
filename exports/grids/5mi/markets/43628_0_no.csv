@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83442,43.62931,-111.82507,Rigby,ID,Idaho,True,,22415.0,66.9,16051,Jefferson,"{""16051"": 71.59, ""16019"": 28.41}",Jefferson|Bonneville,16051|16019,False,False,America/Boise,"(43.62931, -111.82507)",3.3822891884463164,22415.0,43628_0_no,43.63063883359728,-111.7574634419464,5.0

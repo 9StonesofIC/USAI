@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49033,42.22654,-85.09193,Ceresco,MI,Michigan,True,,1565.0,18.4,26025,Calhoun,"{""26025"": 100}",Calhoun,26025,False,False,America/Detroit,"(42.22654, -85.09193)",3.5267757095182666,16787.0,40524_0_yes,42.23193041352367,-85.02338066333456,5.0
+49068,42.2765,-84.94063,Marshall,MI,Michigan,True,,15222.0,45.2,26025,Calhoun,"{""26025"": 100}",Calhoun,26025,False,False,America/Detroit,"(42.2765, -84.94063)",5.233771494337299,16787.0,40524_0_yes,42.23193041352367,-85.02338066333456,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49657,44.21523,-85.17653,McBain,MI,Michigan,True,,3562.0,14.9,26113,Missaukee,"{""26113"": 99.67, ""26165"": 0.33}",Missaukee|Wexford,26113|26165,False,False,America/Detroit,"(44.21523, -85.17653)",4.404574130087981,3562.0,44674_0_no,44.1865323558657,-85.25593206796414,5.0

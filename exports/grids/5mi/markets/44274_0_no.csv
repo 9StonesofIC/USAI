@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97455,43.96212,-122.91493,Pleasant Hill,OR,Oregon,True,,3184.0,47.9,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(43.96212, -122.91493)",2.21639628733241,3184.0,44274_0_no,43.93005292616693,-122.91610622531783,5.0

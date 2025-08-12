@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45333,40.2481,-84.33209,Houston,OH,Ohio,True,,1355.0,23.1,39149,Shelby,"{""39149"": 100}",Shelby,39149,False,False,America/New_York,"(40.2481, -84.33209)",3.186825442385095,2985.0,36208_0_yes,40.20398547088442,-84.34972450885205,5.0
+45363,40.23925,-84.39841,Russia,OH,Ohio,True,,1630.0,27.6,39149,Shelby,"{""39149"": 100}",Shelby,39149,False,False,America/New_York,"(40.23925, -84.39841)",3.5403130732012347,2985.0,36208_0_yes,40.20398547088442,-84.34972450885205,5.0

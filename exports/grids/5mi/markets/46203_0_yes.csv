@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55324,45.05676,-94.42554,Darwin,MN,Minnesota,True,,1085.0,11.9,27093,Meeker,"{""27093"": 100}",Meeker,27093,False,False,America/Chicago,"(45.05676, -94.42554)",5.0541025377335425,1085.0,46203_0_yes,44.990674141482735,-94.38117277226426,5.0

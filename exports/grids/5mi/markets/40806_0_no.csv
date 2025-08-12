@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49043,42.28658,-86.2656,Covert,MI,Michigan,True,,2269.0,28.5,26159,Van Buren,"{""26159"": 100}",Van Buren,26159,False,False,America/Detroit,"(42.28658, -86.2656)",1.3043354982189856,2269.0,40806_0_no,42.305427338459246,-86.26414943950743,5.0

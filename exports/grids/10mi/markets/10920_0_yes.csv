@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82513,43.59737,-109.61913,Dubois,WY,Wyoming,True,,1549.0,0.4,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver,"(43.59737, -109.61913)",8.610237190301627,1549.0,10920_0_yes,43.54265369745991,-109.46459930055155,10.0

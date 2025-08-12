@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72441,36.4355,-90.38944,McDougal,AR,Arkansas,True,,38.0,107.2,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago,"(36.4355, -90.38944)",2.166401084373877,511.0,27892_0_yes,36.4416050359679,-90.3512115499412,5.0
+72456,36.45362,-90.32217,Pollard,AR,Arkansas,True,,473.0,3.5,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago,"(36.45362, -90.32217)",1.8150635584701384,511.0,27892_0_yes,36.4416050359679,-90.3512115499412,5.0

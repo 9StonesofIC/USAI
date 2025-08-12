@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73021,35.33802,-98.67007,Colony,OK,Oklahoma,True,,177.0,1.0,40149,Washita,"{""40149"": 78.28, ""40015"": 21.72}",Washita|Caddo,40149|40015,False,False,America/Chicago,"(35.33802, -98.67007)",3.936377251800073,700.0,25286_0_yes,35.28804008288284,-98.63655818570334,5.0
+73033,35.30709,-98.55502,Eakly,OK,Oklahoma,True,,523.0,21.1,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago,"(35.30709, -98.55502)",4.782735082420406,700.0,25286_0_yes,35.28804008288284,-98.63655818570334,5.0

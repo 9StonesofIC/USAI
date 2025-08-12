@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29803,33.45889,-81.70076,Aiken,SC,South Carolina,True,,38735.0,117.3,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York,"(33.45889, -81.70076)",5.432867669714289,41464.0,20797_0_yes,33.391146948586744,-81.74859190108589,5.0
+29809,33.41653,-81.6889,New Ellenton,SC,South Carolina,True,,2729.0,195.3,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York,"(33.41653, -81.6889)",3.863967531585043,41464.0,20797_0_yes,33.391146948586744,-81.74859190108589,5.0

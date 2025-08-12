@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35906,33.93159,-86.09033,Rainbow City,AL,Alabama,True,,9926.0,109.6,1055,Etowah,"{""01055"": 100}",Etowah,01055,False,False,America/Chicago,"(33.93159, -86.09033)",2.4135449617189444,9926.0,22168_0_no,33.90169470232685,-86.11210382193651,5.0

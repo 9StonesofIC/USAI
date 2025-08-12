@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94954,38.24624,-122.56627,Petaluma,CA,California,True,,39018.0,242.3,6097,Sonoma,"{""06097"": 100}",Sonoma,06097,False,False,America/Los_Angeles,"(38.24624, -122.56627)",3.708506038256482,39018.0,31974_0_yes,38.205874082864135,-122.61130209141452,5.0

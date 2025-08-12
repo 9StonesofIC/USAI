@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24314,37.17166,-81.20728,Bastian,VA,Virginia,True,,1199.0,4.8,51021,Bland,"{""51021"": 90.58, ""51185"": 9.42}",Bland|Tazewell,51021|51185,False,False,America/New_York,"(37.17166, -81.20728)",3.5469338123828345,1199.0,29480_0_yes,37.15922287211739,-81.14477991630648,5.0

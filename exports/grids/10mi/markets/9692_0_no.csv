@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82321,41.15921,-107.69697,Baggs,WY,Wyoming,True,,684.0,1.6,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.15921, -107.69697)",7.5040870424584565,951.0,9692_0_no,41.07798464906892,-107.60126692266596,10.0
+82323,41.0308,-107.52201,Dixon,WY,Wyoming,True,,267.0,6.7,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.0308, -107.52201)",5.2612871700424035,951.0,9692_0_no,41.07798464906892,-107.60126692266596,10.0

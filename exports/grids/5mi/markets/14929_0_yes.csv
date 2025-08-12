@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32445,30.96924,-85.19504,Malone,FL,Florida,True,,2427.0,36.7,12063,Jackson,"{""12063"": 100}",Jackson,12063,False,False,America/Chicago,"(30.96924, -85.19504)",4.59133185433079,2427.0,14929_0_yes,30.928212476311558,-85.25599091515191,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32226,30.46444,-81.50999,Jacksonville,FL,Florida,True,,16407.0,73.9,12031,Duval,"{""12031"": 100}",Duval,12031,False,False,America/New_York,"(30.46444, -81.50999)",4.475267920935853,16407.0,13852_0_yes,30.490688091065497,-81.57869801159049,5.0

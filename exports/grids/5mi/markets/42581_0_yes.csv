@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13440,43.21807,-75.45941,Rome,NY,New York,True,,41342.0,137.0,36065,Oneida,"{""36065"": 100}",Oneida,36065,False,False,America/New_York,"(43.21807, -75.45941)",1.3934235266248292,41539.0,42581_0_yes,43.23708408604167,-75.45018490883905,5.0
+13441,43.22711,-75.40758,Rome,NY,New York,True,,197.0,22.4,36065,Oneida,"{""36065"": 100}",Oneida,36065,False,False,America/New_York,"(43.22711, -75.40758)",2.252747027214377,41539.0,42581_0_yes,43.23708408604167,-75.45018490883905,5.0

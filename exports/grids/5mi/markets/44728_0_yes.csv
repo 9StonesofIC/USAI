@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54615,44.26158,-90.78049,Black River Falls,WI,Wisconsin,True,,10525.0,12.9,55053,Jackson,"{""55053"": 97.14, ""55081"": 2.86}",Jackson|Monroe,55053|55081,False,False,America/Chicago,"(44.26158, -90.78049)",2.577479178884239,10525.0,44728_0_yes,44.26368229576874,-90.72848262819946,5.0

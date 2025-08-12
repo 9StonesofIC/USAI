@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45653,38.88976,-82.82306,Minford,OH,Ohio,True,,3928.0,35.5,39145,Scioto,"{""39145"": 98.73, ""39079"": 1.27}",Scioto|Jackson,39145|39079,False,False,America/New_York,"(38.88976, -82.82306)",3.0151676778623906,3928.0,33358_0_yes,38.89915096795205,-82.8778156932713,5.0

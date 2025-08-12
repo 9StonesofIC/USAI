@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58565,47.49639,-101.37148,Riverdale,ND,North Dakota,True,,192.0,46.2,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago,"(47.49639, -101.37148)",7.064027084404402,192.0,12909_0_yes,47.58016383098296,-101.45829184458032,10.0

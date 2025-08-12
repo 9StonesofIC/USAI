@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04915,44.46643,-69.04156,Belfast,ME,Maine,True,,8943.0,47.3,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.46643, -69.04156)",2.0443012597526526,10896.0,45179_0_no,44.46169393229526,-69.08248251257135,5.0
+04952,44.40934,-69.14261,Morrill,ME,Maine,True,,1953.0,25.0,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.40934, -69.14261)",4.678092435225978,10896.0,45179_0_no,44.46169393229526,-69.08248251257135,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71341,31.05969,-92.16267,Hessmer,LA,Louisiana,True,,3283.0,48.1,22009,Avoyelles,"{""22009"": 100}",Avoyelles,22009,False,False,America/Chicago,"(31.05969, -92.16267)",3.351373223698149,7139.0,15320_0_yes,31.07774131968701,-92.1101092104476,5.0
+71350,31.06871,-92.06053,Mansura,LA,Louisiana,True,,3856.0,42.5,22009,Avoyelles,"{""22009"": 100}",Avoyelles,22009,False,False,America/Chicago,"(31.06871, -92.06053)",2.999674414922118,7139.0,15320_0_yes,31.07774131968701,-92.1101092104476,5.0

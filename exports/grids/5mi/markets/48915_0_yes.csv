@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98645,46.32509,-122.77993,Silverlake,WA,Washington,True,,1962.0,49.9,53015,Cowlitz,"{""53015"": 100}",Cowlitz,53015,False,False,America/Los_Angeles,"(46.32509, -122.77993)",3.770083986347909,1962.0,48915_0_yes,46.31910967354266,-122.70139533699448,5.0

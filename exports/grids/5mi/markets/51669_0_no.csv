@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98288,47.65204,-121.3574,Skykomish,WA,Washington,True,,225.0,0.3,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.65204, -121.3574)",4.744666689343394,225.0,51669_0_no,47.69303163053408,-121.2755819874316,5.0

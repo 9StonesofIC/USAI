@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03266,43.79407,-71.89035,Rumney,NH,New Hampshire,True,,2023.0,7.1,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.79407, -71.89035)",4.334307429402694,3112.0,43751_0_yes,43.81298860822283,-71.97322225715621,5.0
+03282,43.86006,-71.9295,Wentworth,NH,New Hampshire,True,,1089.0,10.1,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.86006, -71.9295)",3.914824523709464,3112.0,43751_0_yes,43.81298860822283,-71.97322225715621,5.0

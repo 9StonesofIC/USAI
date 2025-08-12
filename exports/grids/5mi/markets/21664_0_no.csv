@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92561,33.63704,-116.57441,Mountain Center,CA,California,True,,1471.0,3.5,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.63704, -116.57441)",1.1613725062068256,1471.0,21664_0_no,33.63308672615008,-116.59403235344554,5.0

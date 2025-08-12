@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30439,32.4169,-82.07112,Metter,GA,Georgia,True,,10795.0,20.1,13043,Candler,"{""13043"": 97.29, ""13107"": 2.58, ""13031"": 0.13}",Candler|Emanuel|Bulloch,13043|13107|13031,False,False,America/New_York,"(32.4169, -82.07112)",2.80455712362061,10795.0,18393_0_yes,32.3763839025516,-82.06820480131944,5.0

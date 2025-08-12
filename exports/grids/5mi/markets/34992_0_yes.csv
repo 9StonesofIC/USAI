@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63468,39.67857,-92.01267,Shelbina,MO,Missouri,True,,2456.0,6.5,29205,Shelby,"{""29205"": 62.08, ""29137"": 37.92}",Shelby|Monroe,29205|29137,False,False,America/Chicago,"(39.67857, -92.01267)",3.3546668172432716,2456.0,34992_0_yes,39.63078601371742,-92.00149314141224,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58357,47.94429,-99.21831,Oberon,ND,North Dakota,True,,365.0,1.1,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago,"(47.94429, -99.21831)",2.6874923014269365,365.0,52116_0_no,47.96185331541451,-99.27012935324724,5.0

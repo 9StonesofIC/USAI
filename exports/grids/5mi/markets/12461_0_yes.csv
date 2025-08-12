@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32456,29.84586,-85.3188,Port Saint Joe,FL,Florida,True,,8113.0,29.5,12045,Gulf,"{""12045"": 72.67, ""12005"": 19.81, ""12037"": 7.52}",Gulf|Bay|Franklin,12045|12005|12037,False,False,America/New_York,"(29.84586, -85.3188)",4.699416652837025,8113.0,12461_0_yes,29.912843210851783,-85.33241405141409,5.0

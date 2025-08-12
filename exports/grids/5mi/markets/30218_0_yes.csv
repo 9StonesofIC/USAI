@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67039,37.52163,-96.97322,Douglass,KS,Kansas,True,,3147.0,11.2,20015,Butler,"{""20015"": 95.69, ""20035"": 4.31}",Butler|Cowley,20015|20035,False,False,America/Chicago,"(37.52163, -96.97322)",4.205721546382002,3387.0,30218_0_yes,37.46120268546979,-96.9824561989752,5.0
+67131,37.43261,-96.94958,Rock,KS,Kansas,True,,240.0,2.1,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago,"(37.43261, -96.94958)",2.6749083412599504,3387.0,30218_0_yes,37.46120268546979,-96.9824561989752,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24487,38.20099,-79.58105,Williamsville,VA,Virginia,True,,379.0,1.6,51091,Highland,"{""51091"": 59.22, ""51017"": 40.78}",Highland|Bath,51091|51017,False,False,America/New_York,"(38.20099, -79.58105)",3.1122439130458783,379.0,31740_0_yes,38.17224833613796,-79.62517529886463,5.0

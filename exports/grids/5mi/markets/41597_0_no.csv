@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97503,42.5836,-122.92721,White City,OR,Oregon,True,,13008.0,61.5,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.5836, -122.92721)",3.357469042715138,13008.0,41597_0_no,42.62641056545944,-122.95844517930672,5.0

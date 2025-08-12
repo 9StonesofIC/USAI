@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83425,43.93106,-112.21677,Hamer,ID,Idaho,True,,697.0,2.2,16051,Jefferson,"{""16051"": 93.42, ""16043"": 6.58}",Jefferson|Fremont,16051|16043,False,False,America/Boise,"(43.93106, -112.21677)",5.162993864718552,697.0,44247_0_yes,43.99297717981495,-112.15865142150729,5.0

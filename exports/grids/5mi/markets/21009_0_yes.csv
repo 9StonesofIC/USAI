@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+90704,33.3765,-118.43678,Avalon,CA,California,True,,4201.0,21.3,6037,Los Angeles,"{""06037"": 100}",Los Angeles,06037,False,False,America/Los_Angeles,"(33.3765, -118.43678)",2.862900161454038,4201.0,21009_0_yes,33.416714643587106,-118.42482268391257,5.0

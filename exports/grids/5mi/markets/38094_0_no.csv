@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50049,41.03741,-93.29566,Chariton,IA,Iowa,True,,6336.0,11.7,19117,Lucas,"{""19117"": 97.46, ""19185"": 1.63, ""19125"": 0.91}",Lucas|Wayne|Marion,19117|19185|19125,False,False,America/Chicago,"(41.03741, -93.29566)",3.4373373918680405,6336.0,38094_0_no,41.00804532028061,-93.34888866907372,5.0

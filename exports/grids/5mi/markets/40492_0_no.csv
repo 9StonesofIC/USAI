@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48158,42.15564,-84.03031,Manchester,MI,Michigan,True,,7840.0,31.8,26161,Washtenaw,"{""26161"": 98.54, ""26075"": 1.46}",Washtenaw|Jackson,26161|26075,False,False,America/Detroit,"(42.15564, -84.03031)",0.7803845878403346,7840.0,40492_0_no,42.1587262354007,-84.01565371547764,5.0

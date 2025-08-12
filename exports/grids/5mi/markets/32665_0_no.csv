@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+20676,38.4869,-76.54788,Port Republic,MD,Maryland,True,,3631.0,97.2,24009,Calvert,"{""24009"": 100}",Calvert,24009,False,False,America/New_York,"(38.4869, -76.54788)",3.1209817603960817,16049.0,32665_0_no,38.53203612897276,-76.55013028758108,5.0
+20678,38.52164,-76.60072,Prince Frederick,MD,Maryland,True,,12418.0,106.8,24009,Calvert,"{""24009"": 100}",Calvert,24009,False,False,America/New_York,"(38.52164, -76.60072)",2.8272901113672333,16049.0,32665_0_no,38.53203612897276,-76.55013028758108,5.0

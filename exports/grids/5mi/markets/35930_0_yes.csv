@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62320,40.02343,-91.08295,Camp Point,IL,Illinois,True,,2461.0,11.7,17001,Adams,"{""17001"": 100}",Adams,17001,False,False,America/Chicago,"(40.02343, -91.08295)",3.7038860413147314,3378.0,35930_0_yes,40.06459220207823,-91.03809071441036,5.0
+62339,40.12898,-91.04196,Golden,IL,Illinois,True,,917.0,12.7,17001,Adams,"{""17001"": 100}",Adams,17001,False,False,America/Chicago,"(40.12898, -91.04196)",4.453471066163115,3378.0,35930_0_yes,40.06459220207823,-91.03809071441036,5.0

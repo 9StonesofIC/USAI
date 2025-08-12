@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49615,44.97219,-85.20683,Bellaire,MI,Michigan,True,,3681.0,20.8,26009,Antrim,"{""26009"": 100}",Antrim,26009,False,False,America/Detroit,"(44.97219, -85.20683)",0.8220077529718263,3681.0,46158_0_yes,44.98247027852012,-85.19836509780532,5.0

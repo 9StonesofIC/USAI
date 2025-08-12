@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98930,46.26903,-119.8953,Grandview,WA,Washington,True,,15263.0,131.4,53077,Yakima,"{""53077"": 62.38, ""53005"": 37.62}",Yakima|Benton,53077|53005,False,False,America/Los_Angeles,"(46.26903, -119.8953)",5.398592711112134,15263.0,48902_0_yes,46.316627667306605,-119.98497593651382,5.0

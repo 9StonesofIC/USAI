@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42629,36.92551,-85.11732,Jamestown,KY,Kentucky,True,,5457.0,20.9,21207,Russell,"{""21207"": 100}",Russell,21207,False,False,America/Chicago,"(36.92551, -85.11732)",3.770051636170268,5457.0,28848_0_yes,36.87242195889919,-85.10155455025122,5.0

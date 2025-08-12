@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65483,37.30463,-91.94911,Houston,MO,Missouri,True,,4534.0,16.4,29215,Texas,"{""29215"": 100}",Texas,29215,False,False,America/Chicago,"(37.30463, -91.94911)",0.576945792768051,4534.0,29865_0_yes,37.31241023707084,-91.95292224554387,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68870,40.8453,-99.15835,Riverdale,NE,Nebraska,True,,545.0,4.8,31019,Buffalo,"{""31019"": 100}",Buffalo,31019,False,False,America/Chicago,"(40.8453, -99.15835)",1.7249476763712244,545.0,37816_0_no,40.868000050949945,-99.14461111395777,5.0

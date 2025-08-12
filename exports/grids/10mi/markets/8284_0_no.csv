@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84532,38.53898,-109.45916,Moab,UT,Utah,True,,10103.0,2.5,49019,Grand,"{""49019"": 55.97, ""49037"": 44.03}",Grand|San Juan,49019|49037,False,False,America/Denver,"(38.53898, -109.45916)",7.5908106635849695,10103.0,8284_0_no,38.47322373906327,-109.3466914486857,10.0

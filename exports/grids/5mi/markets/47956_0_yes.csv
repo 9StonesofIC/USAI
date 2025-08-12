@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57648,45.92722,-100.31755,Pollock,SD,South Dakota,True,,312.0,0.5,46021,Campbell,"{""46021"": 52.61, ""38029"": 47.39}",Campbell|Emmons,46021|38029,False,False,America/Chicago,"(45.92722, -100.31755)",4.392545580052639,312.0,47956_0_yes,45.86447828621146,-100.33228261970504,5.0

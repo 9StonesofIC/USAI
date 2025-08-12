@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91906,32.66241,-116.47255,Campo,CA,California,True,,4327.0,15.9,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.66241, -116.47255)",4.075738748972589,4806.0,19270_0_no,32.61743586174822,-116.51787931325003,5.0
+91963,32.64798,-116.5964,Potrero,CA,California,True,,479.0,4.5,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.64798, -116.5964)",5.032715844692879,4806.0,19270_0_no,32.61743586174822,-116.51787931325003,5.0

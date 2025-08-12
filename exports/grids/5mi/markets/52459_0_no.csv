@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59932,48.0502,-114.24624,Somers,MT,Montana,True,,1355.0,19.2,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver,"(48.0502, -114.24624)",6.143948434685323,1355.0,52459_0_no,48.12069392652915,-114.32737718413416,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45617,39.27967,-83.15559,Bourneville,OH,Ohio,True,,200.0,461.3,39141,Ross,"{""39141"": 100}",Ross,39141,False,False,America/New_York,"(39.27967, -83.15559)",1.461923174560208,200.0,34291_0_no,39.26155240193138,-83.14147297882582,5.0

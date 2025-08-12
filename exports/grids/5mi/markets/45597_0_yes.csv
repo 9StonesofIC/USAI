@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54473,44.64984,-89.35634,Rosholt,WI,Wisconsin,True,,2640.0,12.1,55097,Portage,"{""55097"": 76.17, ""55073"": 23.83}",Portage|Marathon,55097|55073,False,False,America/Chicago,"(44.64984, -89.35634)",5.939205745781659,2640.0,45597_0_yes,44.69661994539642,-89.25493043923002,5.0

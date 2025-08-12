@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50022,41.41737,-95.00352,Atlantic,IA,Iowa,True,,8361.0,18.7,19029,Cass,"{""19029"": 89.3, ""19009"": 6.58, ""19165"": 4.12}",Cass|Audubon|Shelby,19029|19009|19165,False,False,America/Chicago,"(41.41737, -95.00352)",3.3093636807084157,8361.0,38744_0_yes,41.371454802252806,-94.98534431547556,5.0

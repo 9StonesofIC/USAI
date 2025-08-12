@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43555,41.43772,-84.25596,Ridgeville Corners,OH,Ohio,True,,194.0,112.7,39069,Henry,"{""39069"": 100}",Henry,39069,False,False,America/New_York,"(41.43772, -84.25596)",1.321199724070768,194.0,38969_0_no,41.4349585570212,-84.28119903435328,5.0

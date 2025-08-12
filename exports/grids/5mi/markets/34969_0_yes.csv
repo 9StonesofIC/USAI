@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61944,39.59969,-87.70146,Paris,IL,Illinois,True,,11901.0,17.5,17045,Edgar,"{""17045"": 99.21, ""17023"": 0.79}",Edgar|Clark,17045|17023,False,False,America/Chicago,"(39.59969, -87.70146)",2.0013374882464596,11901.0,34969_0_yes,39.6273076420438,-87.69012297889412,5.0

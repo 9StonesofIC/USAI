@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84542,39.64433,-110.59916,Wellington,UT,Utah,True,,1596.0,37.5,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver,"(39.64433, -110.59916)",6.67044805501938,1596.0,35070_0_no,39.5734473178959,-110.68423705375992,5.0

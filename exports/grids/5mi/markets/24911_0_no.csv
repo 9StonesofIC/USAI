@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74953,35.03931,-94.57156,Poteau,OK,Oklahoma,True,,11995.0,38.9,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago,"(35.03931, -94.57156)",1.9628161870389202,11995.0,24911_0_no,35.06763272997264,-94.5688708915433,5.0

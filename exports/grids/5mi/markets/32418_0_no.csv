@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62260,38.46097,-90.09891,Millstadt,IL,Illinois,True,,6845.0,60.2,17163,St. Clair,"{""17163"": 100}",St. Clair,17163,False,False,America/Chicago,"(38.46097, -90.09891)",4.369593918655834,11589.0,32418_0_no,38.397820597414274,-90.09454707369812,5.0
+62285,38.38845,-90.00773,Smithton,IL,Illinois,True,,4744.0,112.8,17163,St. Clair,"{""17163"": 100}",St. Clair,17163,False,False,America/Chicago,"(38.38845, -90.00773)",4.74579383646362,11589.0,32418_0_no,38.397820597414274,-90.09454707369812,5.0

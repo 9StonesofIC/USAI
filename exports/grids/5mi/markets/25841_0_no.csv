@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28167,35.5062,-81.95986,Union Mills,NC,North Carolina,True,,2284.0,12.0,37161,Rutherford,"{""37161"": 93.31, ""37111"": 6.69}",Rutherford|McDowell,37161|37111,False,False,America/New_York,"(35.5062, -81.95986)",1.908376983551661,2284.0,25841_0_no,35.49331903487064,-81.98987129609752,5.0

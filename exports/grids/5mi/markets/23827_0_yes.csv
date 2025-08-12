@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28466,34.73219,-77.8954,Wallace,NC,North Carolina,True,,9172.0,19.8,37061,Duplin,"{""37061"": 63.07, ""37141"": 36.93}",Duplin|Pender,37061|37141,False,False,America/New_York,"(34.73219, -77.8954)",3.013456792382498,9172.0,23827_0_yes,34.693130930091954,-77.91900768568064,5.0

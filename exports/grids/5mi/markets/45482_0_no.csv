@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03582,44.59777,-71.43703,Groveton,NH,New Hampshire,True,,2077.0,9.7,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.59777, -71.43703)",3.058618556894166,2077.0,45482_0_no,44.60842892387843,-71.37668422306201,5.0

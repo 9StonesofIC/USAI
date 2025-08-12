@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49332,43.62323,-85.24468,Mecosta,MI,Michigan,True,,3327.0,28.9,26107,Mecosta,"{""26107"": 100}",Mecosta,26107,False,False,America/Detroit,"(43.62323, -85.24468)",1.1109470636589942,3327.0,43495_0_no,43.60751511294669,-85.23998098683735,5.0

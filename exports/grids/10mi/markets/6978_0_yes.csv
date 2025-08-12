@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88422,36.33791,-103.98655,Gladstone,NM,New Mexico,True,,78.0,0.1,35059,Union,"{""35059"": 64.48, ""35007"": 35.52}",Union|Colfax,35059|35007,False,False,America/Denver,"(36.33791, -103.98655)",7.967720360196869,78.0,6978_0_yes,36.29094039104227,-103.8558453030498,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93675,36.73251,-119.19285,Squaw Valley,CA,California,True,,3775.0,14.7,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.73251, -119.19285)",2.6374555940128377,3775.0,28710_0_yes,36.75334295013187,-119.23276644049857,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70447,30.42144,-90.20257,Madisonville,LA,Louisiana,True,,16496.0,205.7,22103,St. Tammany,"{""22103"": 100}",St. Tammany,22103,False,False,America/Chicago,"(30.42144, -90.20257)",5.048740741481589,16496.0,13551_0_yes,30.351143789319732,-90.17944770321196,5.0

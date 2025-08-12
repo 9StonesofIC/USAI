@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05465,44.45882,-72.93058,Jericho,VT,Vermont,True,,5306.0,35.0,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York,"(44.45882, -72.93058)",0.5167752151309833,9787.0,45198_0_no,44.46509551507979,-72.9248784853672,5.0
+05477,44.3936,-72.99152,Richmond,VT,Vermont,True,,4481.0,51.8,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York,"(44.3936, -72.99152)",5.934148305675604,9787.0,45198_0_no,44.46509551507979,-72.9248784853672,5.0

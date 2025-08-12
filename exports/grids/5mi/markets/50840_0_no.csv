@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98941,47.22464,-121.00021,Roslyn,WA,Washington,True,,608.0,148.1,53037,Kittitas,"{""53037"": 100}",Kittitas,53037,False,False,America/Los_Angeles,"(47.22464, -121.00021)",4.9400068830892465,608.0,50840_0_no,47.25863251393531,-121.09285870840428,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98933,46.4029,-120.63756,Harrah,WA,Washington,True,,1018.0,14.1,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.4029, -120.63756)",4.451284735135996,14491.0,49187_0_yes,46.46195877075445,-120.6002132834652,5.0
+98951,46.46046,-120.51551,Wapato,WA,Washington,True,,13473.0,34.9,53077,Yakima,"{""53077"": 100}",Yakima,53077,False,False,America/Los_Angeles,"(46.46046, -120.51551)",4.032756259824955,14491.0,49187_0_yes,46.46195877075445,-120.6002132834652,5.0

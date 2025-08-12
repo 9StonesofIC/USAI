@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74059,35.95736,-97.06255,Perkins,OK,Oklahoma,True,,5266.0,18.1,40119,Payne,"{""40119"": 63.48, ""40081"": 28.46, ""40083"": 8.06}",Payne|Lincoln|Logan,40119|40081|40083,False,False,America/Chicago,"(35.95736, -97.06255)",2.123751159595538,5266.0,26921_0_no,35.93934235111868,-97.09331146549704,5.0

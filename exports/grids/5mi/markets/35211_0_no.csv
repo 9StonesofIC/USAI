@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21750,39.68698,-78.2129,Hancock,MD,Maryland,True,,3787.0,23.7,24043,Washington,"{""24043"": 100}",Washington,24043,False,False,America/New_York,"(39.68698, -78.2129)",1.275589156712332,3787.0,35211_0_no,39.69210396221671,-78.1898511083642,5.0

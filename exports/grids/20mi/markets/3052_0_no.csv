@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59324,45.76652,-104.58732,Ekalaka,MT,Montana,True,,926.0,0.3,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver,"(45.76652, -104.58732)",22.24375171098393,1129.0,3052_0_no,45.525505145216655,-104.89262876959756,20.0
+59332,45.37589,-104.72542,Hammond,MT,Montana,True,,203.0,0.2,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver,"(45.37589, -104.72542)",13.13576963048375,1129.0,3052_0_no,45.525505145216655,-104.89262876959756,20.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03907,43.25474,-70.611,Ogunquit,ME,Maine,True,,1137.0,107.5,23031,York,"{""23031"": 100}",York,23031,False,False,America/New_York,"(43.25474, -70.611)",4.610480621561442,11667.0,42827_0_no,43.305255446723336,-70.55111269921619,5.0
+04090,43.32669,-70.63356,Wells,ME,Maine,True,,10530.0,70.5,23031,York,"{""23031"": 100}",York,23031,False,False,America/New_York,"(43.32669, -70.63356)",4.401362441112336,11667.0,42827_0_no,43.305255446723336,-70.55111269921619,5.0

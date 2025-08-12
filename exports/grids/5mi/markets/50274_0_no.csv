@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98857,46.98656,-119.03698,Warden,WA,Washington,True,,3534.0,8.1,53025,Grant,"{""53025"": 68.99, ""53001"": 31.01}",Grant|Adams,53025|53001,False,False,America/Los_Angeles,"(46.98656, -119.03698)",2.2420213112104377,3534.0,50274_0_no,46.967194915768665,-118.99881860096669,5.0

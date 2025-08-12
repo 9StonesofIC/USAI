@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78956,29.68322,-96.93454,Schulenburg,TX,Texas,True,,5977.0,13.6,48149,Fayette,"{""48149"": 75.02, ""48285"": 24.98}",Fayette|Lavaca,48149|48285,False,False,America/Chicago,"(29.68322, -96.93454)",3.9052489574780482,5977.0,11820_0_yes,29.62994922691216,-96.9128010589846,5.0

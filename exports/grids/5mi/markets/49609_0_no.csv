@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56525,46.6716,-96.75195,Comstock,MN,Minnesota,True,,78.0,25.7,27027,Clay,"{""27027"": 100}",Clay,27027,False,False,America/Chicago,"(46.6716, -96.75195)",1.1705950553406665,307.0,49609_0_no,46.65722957368117,-96.73887379640468,5.0
+58015,46.59225,-96.81544,Christine,ND,North Dakota,True,,229.0,4.2,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago,"(46.59225, -96.81544)",5.775558693321943,307.0,49609_0_no,46.65722957368117,-96.73887379640468,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40003,38.26863,-85.04367,Bagdad,KY,Kentucky,True,,2012.0,17.9,21211,Shelby,"{""21211"": 92.61, ""21073"": 7.39}",Shelby|Franklin,21211|21073,False,False,America/New_York,"(38.26863, -85.04367)",2.031612099703034,2012.0,32070_0_no,38.24894732610343,-85.01585058773095,5.0

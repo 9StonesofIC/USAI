@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55940,43.89417,-92.80775,Hayfield,MN,Minnesota,True,,2744.0,11.4,27039,Dodge,"{""27039"": 90.08, ""27109"": 8.63, ""27099"": 1.29}",Dodge|Olmsted|Mower,27039|27109|27099,False,False,America/Chicago,"(43.89417, -92.80775)",2.7039095306049776,2744.0,44124_0_no,43.90370261077271,-92.86042449320344,5.0

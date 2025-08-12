@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03576,44.89839,-71.37178,Colebrook,NH,New Hampshire,True,,2718.0,6.2,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.89839, -71.37178)",2.910373650329412,2718.0,46063_0_no,44.89776941362005,-71.31232220973796,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93222,34.89835,-119.25983,Pine Mountain Club,CA,California,True,,1812.0,6.4,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(34.89835, -119.25983)",4.405741117216644,1812.0,24398_0_yes,34.867935122626015,-119.1915105579934,5.0

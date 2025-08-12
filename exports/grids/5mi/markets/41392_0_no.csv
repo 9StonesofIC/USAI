@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48045,42.59121,-82.83017,Harrison Township,MI,Michigan,True,,24949.0,675.9,26099,Macomb,"{""26099"": 100}",Macomb,26099,False,False,America/Detroit,"(42.59121, -82.83017)",3.9645960598588026,24949.0,41392_0_no,42.59199784073532,-82.75223586398411,5.0

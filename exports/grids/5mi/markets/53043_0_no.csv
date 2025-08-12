@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98261,48.48381,-122.88302,Lopez Island,WA,Washington,True,,2808.0,36.4,53055,San Juan,"{""53055"": 100}",San Juan,53055,False,False,America/Los_Angeles,"(48.48381, -122.88302)",5.839669754966147,2808.0,53043_0_no,48.41826929163189,-122.96347817459078,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03583,44.40148,-71.4583,Jefferson,NH,New Hampshire,True,,942.0,6.5,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.40148, -71.4583)",0.7474325250427657,942.0,44925_0_yes,44.39138976737747,-71.45284175391951,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80426,39.87393,-106.98452,Burns,CO,Colorado,True,,48.0,0.2,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.87393, -106.98452)",8.925462351768942,48.0,9069_0_no,39.918485166191225,-107.14256419989836,10.0

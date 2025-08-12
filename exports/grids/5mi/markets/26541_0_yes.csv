@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38572,35.84764,-85.12778,Crossville,TN,Tennessee,True,,11123.0,27.1,47035,Cumberland,"{""47035"": 91.41, ""47007"": 8.59}",Cumberland|Bledsoe,47035|47007,False,False,America/Chicago,"(35.84764, -85.12778)",2.6606511414415572,11123.0,26541_0_yes,35.85791306653865,-85.08199184812854,5.0

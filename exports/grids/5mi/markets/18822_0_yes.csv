@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75157,32.46168,-96.44914,Rosser,TX,Texas,True,,233.0,66.9,48257,Kaufman,"{""48257"": 100}",Kaufman,48257,False,False,America/Chicago,"(32.46168, -96.44914)",5.961912882625707,4570.0,18822_0_yes,32.531142619525745,-96.38844586416516,5.0
+75158,32.46694,-96.39315,Scurry,TX,Texas,True,,4337.0,19.4,48257,Kaufman,"{""48257"": 100}",Kaufman,48257,False,False,America/Chicago,"(32.46694, -96.39315)",4.444440376769253,4570.0,18822_0_yes,32.531142619525745,-96.38844586416516,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59923,48.26996,-115.31073,Libby,MT,Montana,True,,9154.0,2.5,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver,"(48.26996, -115.31073)",9.580801801017891,9154.0,13217_0_yes,48.18510989438935,-115.4753620928261,10.0

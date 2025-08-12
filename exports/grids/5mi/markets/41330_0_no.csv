@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+01930,42.62605,-70.68966,Gloucester,MA,Massachusetts,True,,30291.0,446.4,25009,Essex,"{""25009"": 100}",Essex,25009,False,False,America/New_York,"(42.62605, -70.68966)",5.639173915857207,30291.0,41330_0_no,42.581598200441256,-70.59666468392977,5.0

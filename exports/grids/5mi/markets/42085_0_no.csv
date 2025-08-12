@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69216,42.94069,-100.96897,Kilgore,NE,Nebraska,True,,152.0,0.3,31031,Cherry,"{""31031"": 70.8, ""46121"": 29.2}",Cherry|Todd,31031|46121,False,False,America/Denver,"(42.94069, -100.96897)",5.514036729039301,152.0,42085_0_no,42.89713831866272,-100.87765133084028,5.0

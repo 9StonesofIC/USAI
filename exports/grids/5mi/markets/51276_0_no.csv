@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56592,47.53542,-96.00769,Winger,MN,Minnesota,True,,502.0,3.3,27119,Polk,"{""27119"": 89.96, ""27087"": 10.04}",Polk|Mahnomen,27119|27087,False,False,America/Chicago,"(47.53542, -96.00769)",2.6938789709651636,502.0,51276_0_no,47.52479776583698,-96.06324971747529,5.0

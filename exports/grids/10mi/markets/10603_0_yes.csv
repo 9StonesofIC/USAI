@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57716,43.07753,-102.2179,Batesland,SD,South Dakota,True,,502.0,1.1,46102,Oglala Lakota,"{""46102"": 92.26, ""46007"": 7.74}",Oglala Lakota|Bennett,46102|46007,False,False,America/Denver,"(43.07753, -102.2179)",10.14252297629895,502.0,10603_0_yes,42.95084821408289,-102.1164699719698,10.0

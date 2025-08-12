@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96015,41.49672,-120.87162,Canby,CA,California,True,,334.0,0.6,6049,Modoc,"{""06049"": 100}",Modoc,06049,False,False,America/Los_Angeles,"(41.49672, -120.87162)",4.954894562076342,334.0,39186_0_yes,41.53805436372522,-120.9498862743567,5.0

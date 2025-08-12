@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84533,37.40827,-110.56844,Lake Powell,UT,Utah,True,,105.0,0.0,49037,San Juan,"{""49037"": 68.55, ""49025"": 31.45}",San Juan|Kane,49037|49025,False,False,America/Denver,"(37.40827, -110.56844)",8.740062836169784,105.0,7643_0_no,37.315945878292034,-110.67723622906291,10.0

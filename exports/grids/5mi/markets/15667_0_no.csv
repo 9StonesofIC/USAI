@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71403,31.21047,-93.44061,Anacoco,LA,Louisiana,True,,4426.0,13.0,22115,Vernon,"{""22115"": 93.11, ""22085"": 6.89}",Vernon|Sabine,22115|22085,False,False,America/Chicago,"(31.21047, -93.44061)",6.423558980920178,4426.0,15667_0_no,31.15123080069509,-93.52436070245008,5.0

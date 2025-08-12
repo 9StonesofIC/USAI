@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93204,35.90819,-120.06776,Avenal,CA,California,True,,13033.0,71.3,6031,Kings,"{""06031"": 100}",Kings,06031,False,False,America/Los_Angeles,"(35.90819, -120.06776)",3.8892243982090315,13033.0,27050_0_no,35.956439904601424,-120.10356330907231,5.0

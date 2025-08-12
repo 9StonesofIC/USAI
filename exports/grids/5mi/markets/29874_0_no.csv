@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67119,37.24202,-97.18152,Oxford,KS,Kansas,True,,1331.0,6.7,20191,Sumner,"{""20191"": 73.01, ""20035"": 26.99}",Sumner|Cowley,20191|20035,False,False,America/Chicago,"(37.24202, -97.18152)",0.9265142310000709,1331.0,29874_0_no,37.24397930869702,-97.16485616879424,5.0

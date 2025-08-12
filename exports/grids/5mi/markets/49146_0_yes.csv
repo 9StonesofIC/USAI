@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59634,46.43583,-112.00986,Clancy,MT,Montana,True,,5320.0,8.2,30043,Jefferson,"{""30043"": 100}",Jefferson,30043,False,False,America/Denver,"(46.43583, -112.00986)",1.2631898462189952,5320.0,49146_0_yes,46.45409272701266,-112.01108888139936,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49623,43.90367,-85.68285,Chase,MI,Michigan,True,,1165.0,6.5,26085,Lake,"{""26085"": 100}",Lake,26085,False,False,America/Detroit,"(43.90367, -85.68285)",4.565677843655236,1165.0,44115_0_yes,43.96973696807461,-85.68104316526602,5.0

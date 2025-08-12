@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95984,39.99654,-121.11951,Twain,CA,California,True,,303.0,1.5,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(39.99654, -121.11951)",2.1337946379652544,303.0,36067_0_no,40.01669142942082,-121.15006239255602,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42204,36.69509,-87.08096,Allensville,KY,Kentucky,True,,626.0,5.7,21219,Todd,"{""21219"": 71.17, ""21141"": 28.83}",Todd|Logan,21219|21141,False,False,America/Chicago,"(36.69509, -87.08096)",3.238274961925008,3187.0,28512_0_no,36.65660371991472,-87.1143096961333,5.0
+42234,36.70656,-87.17598,Guthrie,KY,Kentucky,True,,2561.0,20.0,21219,Todd,"{""21219"": 100}",Todd,21219,False,False,America/Chicago,"(36.70656, -87.17598)",4.857067288346696,3187.0,28512_0_no,36.65660371991472,-87.1143096961333,5.0

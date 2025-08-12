@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95674,38.95396,-121.48187,Rio Oso,CA,California,True,,910.0,11.0,6101,Sutter,"{""06101"": 100}",Sutter,06101,False,False,America/Los_Angeles,"(38.95396, -121.48187)",1.7260330631652716,910.0,33566_0_yes,38.929822088849896,-121.47359550612212,5.0

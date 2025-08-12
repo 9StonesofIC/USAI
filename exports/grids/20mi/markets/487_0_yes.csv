@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33785,27.88559,-82.84425,Indian Rocks Beach,FL,Florida,True,,5501.0,1802.2,12103,Pinellas,"{""12103"": 100}",Pinellas,12103,False,False,America/New_York,"(27.88559, -82.84425)",20.67098970218852,5501.0,487_0_yes,27.80600150240648,-83.1704109070117,20.0

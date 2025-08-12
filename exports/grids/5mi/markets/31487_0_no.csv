@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66853,38.00653,-96.24232,Hamilton,KS,Kansas,True,,491.0,1.2,20073,Greenwood,"{""20073"": 100}",Greenwood,20073,False,False,America/Chicago,"(38.00653, -96.24232)",5.146605040234294,491.0,31487_0_no,37.96784765956514,-96.16155350437576,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68746,42.80726,-98.4354,Lynch,NE,Nebraska,True,,353.0,0.6,31015,Boyd,"{""31015"": 62.22, ""31089"": 37.78}",Boyd|Holt,31015|31089,False,False,America/Chicago,"(42.80726, -98.4354)",4.894368602074378,353.0,41772_0_no,42.750180335140975,-98.3782462402516,5.0

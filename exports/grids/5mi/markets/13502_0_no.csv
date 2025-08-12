@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32336,30.26371,-83.86319,Lamont,FL,Florida,True,,1144.0,2.0,12123,Taylor,"{""12123"": 47.44, ""12065"": 40.29, ""12079"": 12.27}",Taylor|Jefferson|Madison,12123|12065|12079,False,False,America/New_York,"(30.26371, -83.86319)",4.453940964529578,1144.0,13502_0_no,30.27464823933548,-83.93674590768047,5.0

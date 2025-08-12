@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79064,34.17738,-102.12699,Olton,TX,Texas,True,,2436.0,6.5,48279,Lamb,"{""48279"": 73.57, ""48189"": 26.43}",Lamb|Hale,48279|48189,False,False,America/Chicago,"(34.17738, -102.12699)",5.098786316989945,2436.0,22937_0_no,34.20299782226943,-102.04332435235108,5.0

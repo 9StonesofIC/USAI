@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48746,43.26397,-83.54155,Millington,MI,Michigan,True,,8292.0,38.9,26157,Tuscola,"{""26157"": 89.48, ""26049"": 10.52}",Tuscola|Genesee,26157|26049,False,False,America/Detroit,"(43.26397, -83.54155)",2.1313580142448414,8292.0,42622_0_yes,43.24411937854192,-83.57396950995255,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57201,44.93412,-97.09424,Watertown,SD,South Dakota,True,,25582.0,31.0,46029,Codington,"{""46029"": 99.1, ""46057"": 0.9}",Codington|Hamlin,46029|46057,False,False,America/Chicago,"(44.93412, -97.09424)",4.941545778396696,25582.0,46190_0_no,44.92086060069959,-97.19350527299828,5.0

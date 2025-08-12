@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24530,36.80785,-79.61044,Callands,VA,Virginia,True,,876.0,9.4,51143,Pittsylvania,"{""51143"": 90.29, ""51089"": 9.71}",Pittsylvania|Henry,51143|51089,False,False,America/New_York,"(36.80785, -79.61044)",2.3264067534347976,876.0,28798_0_no,36.79586985628644,-79.64973884786468,5.0

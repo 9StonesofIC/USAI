@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66547,39.23469,-96.30384,Wamego,KS,Kansas,True,,8794.0,25.5,20149,Pottawatomie,"{""20149"": 77.06, ""20197"": 22.94}",Pottawatomie|Wabaunsee,20149|20197,False,False,America/Chicago,"(39.23469, -96.30384)",2.4243939341873064,8794.0,34066_0_yes,39.19960464402705,-96.30445938865584,5.0

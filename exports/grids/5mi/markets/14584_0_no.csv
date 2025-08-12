@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36575,30.76825,-88.27276,Semmes,AL,Alabama,True,,22268.0,214.5,1097,Mobile,"{""01097"": 100}",Mobile,01097,False,False,America/Chicago,"(30.76825, -88.27276)",3.976654733565161,58585.0,14584_0_no,30.71262879275797,-88.28997126443177,5.0
+36608,30.68115,-88.29593,Mobile,AL,Alabama,True,,36317.0,215.3,1097,Mobile,"{""01097"": 100}",Mobile,01097,False,False,America/Chicago,"(30.68115, -88.29593)",2.2036010084261566,58585.0,14584_0_no,30.71262879275797,-88.28997126443177,5.0

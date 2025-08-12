@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56013,43.62142,-94.10734,Blue Earth,MN,Minnesota,True,,4301.0,9.8,27043,Faribault,"{""27043"": 90.04, ""27091"": 9.96}",Faribault|Martin,27043|27091,False,False,America/Chicago,"(43.62142, -94.10734)",5.2873884538075275,4301.0,43566_0_yes,43.68754029612939,-94.05409235736248,5.0

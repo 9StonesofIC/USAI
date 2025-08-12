@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49799,45.26597,-84.58177,Wolverine,MI,Michigan,True,,2123.0,6.9,26031,Cheboygan,"{""26031"": 100}",Cheboygan,26031,False,False,America/Detroit,"(45.26597, -84.58177)",0.43241672428247074,2123.0,46733_0_yes,45.27136306254545,-84.58628183955827,5.0

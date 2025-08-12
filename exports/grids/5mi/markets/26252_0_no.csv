@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74447,35.64975,-96.00628,Okmulgee,OK,Oklahoma,True,,16101.0,26.8,40111,Okmulgee,"{""40111"": 100}",Okmulgee,40111,False,False,America/Chicago,"(35.64975, -96.00628)",3.142984605199169,16327.0,26252_0_no,35.64855474538314,-95.95031993505508,5.0
+74456,35.71083,-95.99262,Preston,OK,Oklahoma,True,,226.0,352.1,40111,Okmulgee,"{""40111"": 100}",Okmulgee,40111,False,False,America/Chicago,"(35.71083, -95.99262)",4.914291945847062,16327.0,26252_0_no,35.64855474538314,-95.95031993505508,5.0

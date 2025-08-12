@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67515,38.59935,-100.06518,Arnold,KS,Kansas,True,,45.0,0.8,20135,Ness,"{""20135"": 100}",Ness,20135,False,False,America/Chicago,"(38.59935, -100.06518)",1.8728336670413277,45.0,32813_0_yes,38.62297483411504,-100.0481735580148,5.0

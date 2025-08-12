@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58009,47.32658,-97.24435,Blanchard,ND,North Dakota,True,,35.0,0.4,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago,"(47.32658, -97.24435)",4.139585714849726,35.0,51005_0_no,47.381172391882245,-97.2079166114699,5.0

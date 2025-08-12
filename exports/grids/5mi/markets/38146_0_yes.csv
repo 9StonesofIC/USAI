@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68872,41.09286,-98.33216,Saint Libory,NE,Nebraska,True,,826.0,5.1,31093,Howard,"{""31093"": 73.57, ""31121"": 26.43}",Howard|Merrick,31093|31121,False,False,America/Chicago,"(41.09286, -98.33216)",2.2249374320276374,826.0,38146_0_yes,41.08459511143538,-98.3734542534866,5.0

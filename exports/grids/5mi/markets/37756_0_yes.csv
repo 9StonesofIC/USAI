@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44825,40.95443,-82.94194,Chatfield,OH,Ohio,True,,93.0,366.0,39033,Crawford,"{""39033"": 100}",Crawford,39033,False,False,America/New_York,"(40.95443, -82.94194)",1.9922691782390838,159.0,37756_0_yes,40.92696764137236,-82.9535748173759,5.0
+44881,40.8703,-82.87687,Sulphur Springs,OH,Ohio,True,,66.0,427.8,39033,Crawford,"{""39033"": 100}",Crawford,39033,False,False,America/New_York,"(40.8703, -82.87687)",5.601581086845035,159.0,37756_0_yes,40.92696764137236,-82.9535748173759,5.0

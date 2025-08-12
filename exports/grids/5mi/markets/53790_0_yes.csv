@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58730,48.86171,-103.30652,Crosby,ND,North Dakota,True,,1535.0,2.3,38023,Divide,"{""38023"": 100}",Divide,38023,False,False,America/Chicago,"(48.86171, -103.30652)",3.6589862985549377,1535.0,53790_0_yes,48.905969895681714,-103.26230119940854,5.0

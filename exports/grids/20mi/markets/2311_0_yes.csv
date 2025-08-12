@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81610,40.29418,-108.82468,Dinosaur,CO,Colorado,True,,294.0,0.5,8081,Moffat,"{""08081"": 100}",Moffat,08081,False,False,America/Denver,"(40.29418, -108.82468)",24.680932457626273,2770.0,2311_0_yes,40.04064404612871,-109.1539735535586,20.0
+81648,39.95096,-108.78498,Rangely,CO,Colorado,True,,2476.0,0.9,8103,Rio Blanco,"{""08103"": 100}",Rio Blanco,08103,False,False,America/Denver,"(39.95096, -108.78498)",20.490905458119204,2770.0,2311_0_yes,40.04064404612871,-109.1539735535586,20.0

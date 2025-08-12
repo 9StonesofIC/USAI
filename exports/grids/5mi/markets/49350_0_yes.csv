@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56528,46.53066,-95.80983,Dent,MN,Minnesota,True,,1626.0,10.2,27111,Otter Tail,"{""27111"": 100}",Otter Tail,27111,False,False,America/Chicago,"(46.53066, -95.80983)",3.6871059107781092,2998.0,49350_0_yes,46.58396628130031,-95.8062193781261,5.0
+56587,46.63721,-95.8628,Vergas,MN,Minnesota,True,,1372.0,10.0,27111,Otter Tail,"{""27111"": 100}",Otter Tail,27111,False,False,America/Chicago,"(46.63721, -95.8628)",4.554736072327827,2998.0,49350_0_yes,46.58396628130031,-95.8062193781261,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05901,44.94197,-71.68079,Averill,VT,Vermont,True,,17.0,0.2,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York,"(44.94197, -71.68079)",3.5805267531319274,17.0,46065_0_no,44.898132911121,-71.71981961193246,5.0

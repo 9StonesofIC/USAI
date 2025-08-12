@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98281,48.98817,-123.05767,Point Roberts,WA,Washington,True,,1100.0,86.9,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.98817, -123.05767)",4.719501199118363,1100.0,54123_0_no,48.99732043635532,-123.16083229517372,5.0

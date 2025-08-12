@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68367,41.03807,-97.40128,Gresham,NE,Nebraska,True,,292.0,1.8,31143,Polk,"{""31143"": 36.37, ""31185"": 32.92, ""31159"": 30.71}",Polk|York|Seward,31143|31185|31159,False,False,America/Chicago,"(41.03807, -97.40128)",2.5907268003429658,292.0,38115_0_no,41.011379154609415,-97.36637226810176,5.0

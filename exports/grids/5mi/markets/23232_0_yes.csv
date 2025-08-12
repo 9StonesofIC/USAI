@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72073,34.36529,-91.65251,Humphrey,AR,Arkansas,True,,833.0,2.8,5001,Arkansas,"{""05001"": 90.89, ""05069"": 9.11}",Arkansas|Jefferson,05001|05069,False,False,America/Chicago,"(34.36529, -91.65251)",5.766784594023153,833.0,23232_0_yes,34.41311514877629,-91.73540023837896,5.0

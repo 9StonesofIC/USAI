@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40422,37.64235,-84.80488,Danville,KY,Kentucky,True,,25662.0,91.5,21021,Boyle,"{""21021"": 94.3, ""21137"": 5.7}",Boyle|Lincoln,21021|21137,False,False,America/New_York,"(37.64235, -84.80488)",5.724074829001919,25662.0,30475_0_yes,37.596664148751344,-84.71762910786315,5.0

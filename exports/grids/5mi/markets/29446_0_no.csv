@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23923,37.09316,-78.64627,Charlotte Court House,VA,Virginia,True,,2729.0,11.5,51037,Charlotte,"{""51037"": 94.2, ""51147"": 5.8}",Charlotte|Prince Edward,51037|51147,False,False,America/New_York,"(37.09316, -78.64627)",4.088762890362996,2729.0,29446_0_no,37.0848496380537,-78.57282018834458,5.0

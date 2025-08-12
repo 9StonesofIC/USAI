@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29659,34.21167,-82.64535,Lowndesville,SC,South Carolina,True,,167.0,149.0,45001,Abbeville,"{""45001"": 100}",Abbeville,45001,False,False,America/New_York,"(34.21167, -82.64535)",1.8345737599204506,167.0,22826_0_no,34.18920687865425,-82.6624669353319,5.0

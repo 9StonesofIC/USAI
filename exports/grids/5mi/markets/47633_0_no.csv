@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57432,45.6839,-98.02453,Claremont,SD,South Dakota,True,,395.0,1.4,46013,Brown,"{""46013"": 75.93, ""46091"": 24.07}",Brown|Marshall,46013|46091,False,False,America/Chicago,"(45.6839, -98.02453)",3.6812343159770675,395.0,47633_0_no,45.64538175477119,-98.07720231770872,5.0

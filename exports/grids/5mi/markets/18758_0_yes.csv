@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36830,32.5339,-85.49449,Auburn,AL,Alabama,True,,40141.0,141.5,1081,Lee,"{""01081"": 56.01, ""01087"": 43.99}",Lee|Macon,01081|01087,False,False,America/Chicago,"(32.5339, -85.49449)",4.09912668563332,40141.0,18758_0_yes,32.52367704590901,-85.42517626329081,5.0

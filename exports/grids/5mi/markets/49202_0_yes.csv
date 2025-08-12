@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98638,46.4047,-123.73588,Naselle,WA,Washington,True,,1489.0,3.4,53049,Pacific,"{""53049"": 91.18, ""53069"": 8.82}",Pacific|Wahkiakum,53049|53069,False,False,America/Los_Angeles,"(46.4047, -123.73588)",4.168447047099561,1489.0,49202_0_yes,46.464837128438425,-123.74288495330684,5.0

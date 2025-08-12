@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14571,43.34397,-78.24894,Waterport,NY,New York,True,,1314.0,29.8,36073,Orleans,"{""36073"": 100}",Orleans,36073,False,False,America/New_York,"(43.34397, -78.24894)",13.000049622815732,1314.0,10842_0_yes,43.48860287641535,-78.4146152458087,10.0

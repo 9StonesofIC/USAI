@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95415,39.0205,-123.36751,Boonville,CA,California,True,,1273.0,8.9,6045,Mendocino,"{""06045"": 100}",Mendocino,06045,False,False,America/Los_Angeles,"(39.0205, -123.36751)",3.7471074163440554,1273.0,33874_0_no,39.0039039551496,-123.43395780899804,5.0

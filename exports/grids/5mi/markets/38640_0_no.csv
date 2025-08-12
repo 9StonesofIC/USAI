@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16342,41.31995,-79.9294,Polk,PA,Pennsylvania,True,,2202.0,12.8,42121,Venango,"{""42121"": 96.68, ""42085"": 3.32}",Venango|Mercer,42121|42085,False,False,America/New_York,"(41.31995, -79.9294)",2.600881667964618,2202.0,38640_0_no,41.28653765478272,-79.95247967249804,5.0

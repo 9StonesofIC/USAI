@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73047,35.45658,-98.31553,Hinton,OK,Oklahoma,True,,5018.0,13.6,40015,Caddo,"{""40015"": 55.93, ""40017"": 44.07}",Caddo|Canadian,40015|40017,False,False,America/Chicago,"(35.45658, -98.31553)",3.3900468667931323,5018.0,25933_0_no,35.50531408892273,-98.30854724426726,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79512,32.32614,-100.92807,Colorado City,TX,Texas,True,,7451.0,4.8,48335,Mitchell,"{""48335"": 96.57, ""48415"": 3.43}",Mitchell|Scurry,48335|48415,False,False,America/Chicago,"(32.32614, -100.92807)",3.7711126356895943,7451.0,18490_0_no,32.31672158594372,-100.9916879906792,5.0

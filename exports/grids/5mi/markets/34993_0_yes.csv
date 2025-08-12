@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63450,39.66808,-92.14857,Lentner,MO,Missouri,True,,160.0,2.4,29205,Shelby,"{""29205"": 56.4, ""29137"": 43.6}",Shelby|Monroe,29205|29137,False,False,America/Chicago,"(39.66808, -92.14857)",3.3467086931891368,160.0,34993_0_yes,39.63093725695696,-92.1889489156127,5.0

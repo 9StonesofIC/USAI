@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04924,44.77922,-69.54967,Canaan,ME,Maine,True,,2423.0,22.7,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(44.77922, -69.54967)",4.916359583363447,12265.0,45791_0_yes,44.823870763622615,-69.62775026178247,5.0
+04976,44.79873,-69.66951,Skowhegan,ME,Maine,True,,9842.0,38.2,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(44.79873, -69.66951)",2.6846497378604184,12265.0,45791_0_yes,44.823870763622615,-69.62775026178247,5.0

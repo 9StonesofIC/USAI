@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36742,32.45836,-87.74215,Gallion,AL,Alabama,True,,2663.0,8.7,1091,Marengo,"{""01091"": 71.57, ""01065"": 28.43}",Marengo|Hale,01091|01065,False,False,America/Chicago,"(32.45836, -87.74215)",6.616020405295683,2663.0,18772_0_yes,32.52530995780992,-87.8233140188754,5.0

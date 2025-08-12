@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51014,42.78428,-95.71155,Cleghorn,IA,Iowa,True,,415.0,2.9,19035,Cherokee,"{""19035"": 100}",Cherokee,19035,False,False,America/Chicago,"(42.78428, -95.71155)",3.1967652492473118,747.0,41785_0_yes,42.82021150714443,-95.67182316057458,5.0
+51037,42.82567,-95.64269,Meriden,IA,Iowa,True,,332.0,5.4,19035,Cherokee,"{""19035"": 100}",Cherokee,19035,False,False,America/Chicago,"(42.82567, -95.64269)",1.5237944100112042,747.0,41785_0_yes,42.82021150714443,-95.67182316057458,5.0

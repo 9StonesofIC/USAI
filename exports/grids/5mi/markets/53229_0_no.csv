@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59247,48.51848,-104.52209,Medicine Lake,MT,Montana,True,,252.0,0.7,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver,"(48.51848, -104.52209)",4.700136625128178,252.0,53229_0_no,48.54544297503021,-104.42777729932594,5.0

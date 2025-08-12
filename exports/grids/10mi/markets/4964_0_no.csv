@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85551,32.73048,-109.56252,Solomon,AZ,Arizona,True,,555.0,8.5,4009,Graham,"{""04009"": 100}",Graham,04009,False,False,America/Phoenix,"(32.73048, -109.56252)",10.400024660374921,555.0,4964_0_no,32.67454344722729,-109.39645482823214,10.0

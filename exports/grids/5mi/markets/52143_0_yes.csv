@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58351,48.10218,-99.31394,Minnewaukan,ND,North Dakota,True,,359.0,0.8,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago,"(48.10218, -99.31394)",4.6981865431126035,359.0,52143_0_yes,48.03418240196687,-99.31393266677104,5.0

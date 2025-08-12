@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75451,32.96247,-95.11835,Leesburg,TX,Texas,True,,1375.0,13.5,48063,Camp,"{""48063"": 88.35, ""48499"": 8.51, ""48459"": 3.14}",Camp|Wood|Upshur,48063|48499|48459,False,False,America/Chicago,"(32.96247, -95.11835)",5.395607297399635,1375.0,19833_0_no,32.89293260735006,-95.16068755171032,5.0

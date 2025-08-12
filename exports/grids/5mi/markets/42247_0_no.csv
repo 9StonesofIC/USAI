@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12866,43.07537,-73.7401,Saratoga Springs,NY,New York,True,,38732.0,232.5,36091,Saratoga,"{""36091"": 100}",Saratoga,36091,False,False,America/New_York,"(43.07537, -73.7401)",4.1827038334637745,38732.0,42247_0_no,43.0185620969144,-73.76872430228879,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38482,35.76792,-87.14574,Santa Fe,TN,Tennessee,True,,1701.0,14.8,47119,Maury,"{""47119"": 100}",Maury,47119,False,False,America/Chicago,"(35.76792, -87.14574)",4.180452963704055,1701.0,26220_0_yes,35.71447110095223,-87.11080587256286,5.0

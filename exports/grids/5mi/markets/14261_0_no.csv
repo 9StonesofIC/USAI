@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70658,30.52324,-93.03297,Reeves,LA,Louisiana,True,,858.0,5.1,22003,Allen,"{""22003"": 100}",Allen,22003,False,False,America/Chicago,"(30.52324, -93.03297)",3.3172084189608486,858.0,14261_0_no,30.5706267386794,-93.0419269584072,5.0

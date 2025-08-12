@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62624,40.14993,-90.34478,Browning,IL,Illinois,True,,417.0,3.6,17169,Schuyler,"{""17169"": 100}",Schuyler,17169,False,False,America/Chicago,"(40.14993, -90.34478)",1.095670824732262,417.0,36216_0_no,40.136507193947736,-90.3558258697796,5.0

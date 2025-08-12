@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27229,35.24853,-79.79873,Candor,NC,North Carolina,True,,3310.0,14.1,37123,Montgomery,"{""37123"": 97.25, ""37153"": 2.75}",Montgomery|Richmond,37123|37153,False,False,America/New_York,"(35.24853, -79.79873)",5.1918438707352,3310.0,25180_0_yes,35.274330028327086,-79.8851623928158,5.0

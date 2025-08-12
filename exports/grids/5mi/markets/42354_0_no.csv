@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50515,43.01993,-94.87812,Ayrshire,IA,Iowa,True,,209.0,2.1,19147,Palo Alto,"{""19147"": 76.73, ""19041"": 23.27}",Palo Alto|Clay,19147|19041,False,False,America/Chicago,"(43.01993, -94.87812)",1.4861058633354016,209.0,42354_0_no,43.03678715488721,-94.89639432322592,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03278,43.29313,-71.82934,Warner,NH,New Hampshire,True,,2978.0,18.1,33013,Merrimack,"{""33013"": 100}",Merrimack,33013,False,False,America/New_York,"(43.29313, -71.82934)",4.522951566978288,18962.0,42833_0_no,43.30628733501149,-71.74122844657337,5.0
+03303,43.29819,-71.67186,Concord,NH,New Hampshire,True,,15984.0,91.0,33013,Merrimack,"{""33013"": 100}",Merrimack,33013,False,False,America/New_York,"(43.29819, -71.67186)",3.5326001346138436,18962.0,42833_0_no,43.30628733501149,-71.74122844657337,5.0

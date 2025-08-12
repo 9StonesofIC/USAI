@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52325,41.58028,-91.92305,Parnell,IA,Iowa,True,,604.0,5.8,19095,Iowa,"{""19095"": 86.17, ""19103"": 13.83}",Iowa|Johnson,19095|19103,False,False,America/Chicago,"(41.58028, -91.92305)",0.7820186534354581,604.0,39315_0_no,41.586166648909554,-91.91012607742944,5.0

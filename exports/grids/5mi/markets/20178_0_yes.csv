@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71740,33.08121,-93.16268,Emerson,AR,Arkansas,True,,1701.0,3.6,5027,Columbia,"{""05027"": 100}",Columbia,05027,False,False,America/Chicago,"(33.08121, -93.16268)",4.200173585027436,1701.0,20178_0_yes,33.10901829655486,-93.09815546593742,5.0

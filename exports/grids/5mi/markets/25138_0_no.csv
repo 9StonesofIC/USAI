@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27920,35.25109,-75.54755,Buxton,NC,North Carolina,True,,1558.0,76.7,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.25109, -75.54755)",4.82680594090193,2353.0,25138_0_no,35.19877315200822,-75.60422222406012,5.0
+27936,35.24224,-75.60547,Frisco,NC,North Carolina,True,,795.0,58.9,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.24224, -75.60547)",3.004098875419883,2353.0,25138_0_no,35.19877315200822,-75.60422222406012,5.0

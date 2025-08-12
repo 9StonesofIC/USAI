@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51038,42.7056,-96.31569,Merrill,IA,Iowa,True,,1831.0,7.9,19149,Plymouth,"{""19149"": 100}",Plymouth,19149,False,False,America/Chicago,"(42.7056, -96.31569)",5.740643500728788,1831.0,41762_0_no,42.74849346218502,-96.41255561715111,5.0

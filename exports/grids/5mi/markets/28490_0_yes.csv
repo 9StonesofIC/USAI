@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24549,36.71584,-79.50632,Dry Fork,VA,Virginia,True,,3885.0,29.1,51143,Pittsylvania,"{""51143"": 100}",Pittsylvania,51143,False,False,America/New_York,"(36.71584, -79.50632)",4.766686725552647,3885.0,28490_0_yes,36.72333458456417,-79.5918778562263,5.0

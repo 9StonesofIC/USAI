@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50071,42.64931,-93.50597,Dows,IA,Iowa,True,,919.0,3.2,19197,Wright,"{""19197"": 55.85, ""19069"": 44.15}",Wright|Franklin,19197|19069,False,False,America/Chicago,"(42.64931, -93.50597)",3.679858109361836,954.0,41447_0_no,42.60122647914551,-93.53709574481556,5.0
+50101,42.66713,-93.63423,Galt,IA,Iowa,True,,35.0,1.3,19197,Wright,"{""19197"": 100}",Wright,19197,False,False,America/Chicago,"(42.66713, -93.63423)",6.716629287237784,954.0,41447_0_no,42.60122647914551,-93.53709574481556,5.0

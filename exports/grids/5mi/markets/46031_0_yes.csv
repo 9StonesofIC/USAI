@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97877,44.80662,-118.38766,Sumpter,OR,Oregon,True,,334.0,0.6,41023,Grant,"{""41023"": 65.85, ""41001"": 34.15}",Grant|Baker,41023|41001,False,False,America/Los_Angeles,"(44.80662, -118.38766)",6.287833863854721,334.0,46031_0_yes,44.86741141735708,-118.4831622266898,5.0

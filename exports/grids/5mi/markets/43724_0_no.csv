@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03266,43.79407,-71.89035,Rumney,NH,New Hampshire,True,,2023.0,7.1,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.79407, -71.89035)",4.9840224397437565,6138.0,43724_0_no,43.74066179041804,-71.95749169362767,5.0
+03741,43.67134,-72.01559,Canaan,NH,New Hampshire,True,,4115.0,20.8,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.67134, -72.01559)",5.600158047632601,6138.0,43724_0_no,43.74066179041804,-71.95749169362767,5.0

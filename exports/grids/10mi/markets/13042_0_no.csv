@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59259,47.69109,-105.08416,Richey,MT,Montana,True,,239.0,0.1,30021,Dawson,"{""30021"": 54.37, ""30083"": 45.63}",Dawson|Richland,30021|30083,False,False,America/Denver,"(47.69109, -105.08416)",2.861819520753188,239.0,13042_0_no,47.73182119243474,-105.09533610975706,10.0

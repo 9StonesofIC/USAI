@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58554,46.75148,-100.95036,Mandan,ND,North Dakota,True,,26551.0,17.9,38059,Morton,"{""38059"": 94.46, ""38065"": 5.54}",Morton|Oliver,38059|38065,False,False,America/North_Dakota/New_Salem,"(46.75148, -100.95036)",2.326022971603347,26551.0,49656_0_yes,46.733444510105066,-100.99184116030534,5.0

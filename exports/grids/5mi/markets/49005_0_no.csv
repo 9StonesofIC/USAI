@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49879,46.3437,-88.08432,Republic,MI,Michigan,True,,915.0,2.0,26103,Marquette,"{""26103"": 64.65, ""26071"": 35.35}",Marquette|Iron,26103|26071,False,False,America/Detroit,"(46.3437, -88.08432)",1.481121052423284,915.0,49005_0_no,46.35990717178357,-88.10464713008258,5.0

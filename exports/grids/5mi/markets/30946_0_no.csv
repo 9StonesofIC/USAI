@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89017,37.70485,-115.30344,Hiko,NV,Nevada,True,,20.0,0.0,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles,"(37.70485, -115.30344)",3.0970687087816566,20.0,30946_0_no,37.69276807020608,-115.24888563685175,5.0

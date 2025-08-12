@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32926,28.39051,-80.81773,Cocoa,FL,Florida,True,,22862.0,179.2,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.39051, -80.81773)",4.9757260412230035,50206.0,8860_0_yes,28.45924661353575,-80.79330616866777,5.0
+32927,28.46372,-80.80709,Cocoa,FL,Florida,True,,27344.0,411.6,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.46372, -80.80709)",0.8924942593280267,50206.0,8860_0_yes,28.45924661353575,-80.79330616866777,5.0

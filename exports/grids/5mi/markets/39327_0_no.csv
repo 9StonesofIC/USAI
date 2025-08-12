@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50233,41.61221,-94.21095,Redfield,IA,Iowa,True,,1510.0,11.6,19049,Dallas,"{""19049"": 82.09, ""19077"": 17.91}",Dallas|Guthrie,19049|19077,False,False,America/Chicago,"(41.61221, -94.21095)",1.8414279215853095,1510.0,39327_0_no,41.58811055398843,-94.22616822158426,5.0

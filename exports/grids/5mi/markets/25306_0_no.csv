@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87583,35.28221,-105.35226,Villanueva,NM,New Mexico,True,,312.0,10.0,35047,San Miguel,"{""35047"": 100}",San Miguel,35047,False,False,America/Denver,"(35.28221, -105.35226)",5.274914328127334,312.0,25306_0_no,35.22044511692631,-105.297310574471,5.0

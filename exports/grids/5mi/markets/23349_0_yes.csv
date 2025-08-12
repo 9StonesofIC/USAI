@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86329,34.48589,-112.27666,Humboldt,AZ,Arizona,True,,1416.0,32.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.48589, -112.27666)",5.214206314926506,1416.0,23349_0_yes,34.427773597920584,-112.21827497821003,5.0

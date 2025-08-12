@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59225,48.27723,-105.97413,Frazer,MT,Montana,True,,617.0,0.7,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver,"(48.27723, -105.97413)",5.0779110758606185,617.0,52719_0_yes,48.32974996351121,-105.89684397616092,5.0

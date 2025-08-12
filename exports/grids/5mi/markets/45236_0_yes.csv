@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13617,44.5789,-75.14668,Canton,NY,New York,True,,11556.0,33.7,36089,St. Lawrence,"{""36089"": 100}",St. Lawrence,36089,False,False,America/New_York,"(44.5789, -75.14668)",2.917268790423982,11556.0,45236_0_yes,44.53938832267804,-75.16756900409742,5.0

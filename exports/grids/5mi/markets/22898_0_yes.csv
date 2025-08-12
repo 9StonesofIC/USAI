@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72129,34.31215,-92.55406,Prattsville,AR,Arkansas,True,,1146.0,7.5,5053,Grant,"{""05053"": 100}",Grant,05053,False,False,America/Chicago,"(34.31215, -92.55406)",4.660981990289948,1146.0,22898_0_yes,34.26866294736525,-92.4916394290386,5.0

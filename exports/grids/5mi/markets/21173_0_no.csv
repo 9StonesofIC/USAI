@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38761,33.42507,-90.47658,Moorhead,MS,Mississippi,True,,2286.0,16.0,28133,Sunflower,"{""28133"": 69.38, ""28083"": 30.62}",Sunflower|Leflore,28133|28083,False,False,America/Chicago,"(33.42507, -90.47658)",3.19547313518356,2286.0,21173_0_no,33.46975840504338,-90.46230460702796,5.0

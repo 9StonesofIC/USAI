@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95659,38.84594,-121.57679,Nicolaus,CA,California,True,,748.0,6.3,6101,Sutter,"{""06101"": 100}",Sutter,06101,False,False,America/Los_Angeles,"(38.84594, -121.57679)",6.38510235228186,748.0,33249_0_yes,38.7850140465795,-121.66596794534846,5.0

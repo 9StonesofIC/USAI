@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59404,47.63197,-111.34807,Great Falls,MT,Montana,True,,27914.0,32.5,30013,Cascade,"{""30013"": 71.69, ""30015"": 28.31}",Cascade|Chouteau,30013|30015,False,False,America/Denver,"(47.63197, -111.34807)",2.6981402786718145,27914.0,51374_0_yes,47.61130071788645,-111.29891440476705,5.0

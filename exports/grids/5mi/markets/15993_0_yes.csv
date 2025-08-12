@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36480,31.32976,-87.61125,Uriah,AL,Alabama,True,,1853.0,4.6,1099,Monroe,"{""01099"": 100}",Monroe,01099,False,False,America/Chicago,"(31.32976, -87.61125)",2.4278057419575823,1853.0,15993_0_yes,31.36489801342692,-87.61126896554623,5.0

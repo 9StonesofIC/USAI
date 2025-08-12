@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59542,48.81907,-108.33693,Turner,MT,Montana,True,,204.0,0.1,30005,Blaine,"{""30005"": 65.31, ""30071"": 34.69}",Blaine|Phillips,30005|30071,False,False,America/Denver,"(48.81907, -108.33693)",4.88728594820995,204.0,13472_0_yes,48.75034259415699,-108.36232187298786,10.0

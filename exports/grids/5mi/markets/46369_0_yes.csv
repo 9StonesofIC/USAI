@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04426,45.1849,-69.15827,Dover Foxcroft,ME,Maine,True,,4501.0,14.5,23021,Piscataquis,"{""23021"": 100}",Piscataquis,23021,False,False,America/New_York,"(45.1849, -69.15827)",5.029591757419753,5362.0,46369_0_yes,45.11281713549584,-69.14387717227707,5.0
+04939,45.05436,-69.15859,Garland,ME,Maine,True,,861.0,8.8,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(45.05436, -69.15859)",4.102284362867702,5362.0,46369_0_yes,45.11281713549584,-69.14387717227707,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81123,37.40469,-105.5659,Blanca,CO,Colorado,True,,880.0,2.3,8023,Costilla,"{""08023"": 100}",Costilla,08023,False,False,America/Denver,"(37.40469, -105.5659)",4.835373553908383,880.0,30246_0_no,37.39543887169441,-105.65322094812252,5.0

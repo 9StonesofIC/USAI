@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68973,40.45014,-98.55962,Roseland,NE,Nebraska,True,,387.0,3.2,31001,Adams,"{""31001"": 100}",Adams,31001,False,False,America/Chicago,"(40.45014, -98.55962)",1.2435443056781508,387.0,36883_0_no,40.43292902667363,-98.5527032564496,5.0

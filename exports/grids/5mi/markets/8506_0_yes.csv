@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33868,28.25882,-81.84769,Polk City,FL,Florida,True,,13051.0,27.6,12105,Polk,"{""12105"": 100}",Polk,12105,False,False,America/New_York,"(28.25882, -81.84769)",3.911000952432593,13051.0,8506_0_yes,28.314785468742265,-81.83805808216133,5.0

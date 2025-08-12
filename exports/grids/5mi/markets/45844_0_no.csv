@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49650,44.73359,-85.88033,Lake Ann,MI,Michigan,True,,3465.0,55.7,26019,Benzie,"{""26019"": 100}",Benzie,26019,False,False,America/Detroit,"(44.73359, -85.88033)",2.2446545621231864,3465.0,45844_0_no,44.766033983967546,-85.87797015962053,5.0

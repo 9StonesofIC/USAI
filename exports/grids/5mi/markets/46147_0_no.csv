@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54124,44.90701,-88.36616,Gillett,WI,Wisconsin,True,,3570.0,14.8,55083,Oconto,"{""55083"": 91.57, ""55078"": 8.25, ""55115"": 0.18}",Oconto|Menominee|Shawano,55083|55078|55115,False,False,America/Chicago,"(44.90701, -88.36616)",3.1236435802522196,3570.0,46147_0_no,44.91304025450907,-88.42942458052634,5.0

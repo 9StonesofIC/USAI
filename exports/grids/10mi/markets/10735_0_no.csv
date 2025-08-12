@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69212,42.98729,-100.80438,Crookston,NE,Nebraska,True,,248.0,0.4,31031,Cherry,"{""31031"": 57.03, ""46121"": 42.97}",Cherry|Todd,31031|46121,False,False,America/Chicago,"(42.98729, -100.80438)",8.550433464147462,248.0,10735_0_no,43.09337888183923,-100.71720288956026,10.0

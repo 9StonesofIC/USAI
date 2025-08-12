@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13470,43.21075,-74.66825,Stratford,NY,New York,True,,665.0,2.9,36035,Fulton,"{""36035"": 70.43, ""36043"": 29.57}",Fulton|Herkimer,36035|36043,False,False,America/New_York,"(43.21075, -74.66825)",1.8504139581010257,665.0,42577_0_yes,43.23639780808867,-74.65767059552843,5.0

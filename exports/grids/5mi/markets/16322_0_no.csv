@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36323,31.42702,-86.07221,Elba,AL,Alabama,True,,7863.0,13.0,1031,Coffee,"{""01031"": 100}",Coffee,01031,False,False,America/Chicago,"(31.42702, -86.07221)",4.544570543253767,7863.0,16322_0_no,31.43648561508139,-86.14849328938948,5.0

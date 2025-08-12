@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93615,36.50374,-119.28385,Cutler,CA,California,True,,6335.0,152.0,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.50374, -119.28385)",3.237734724053383,6335.0,28053_0_yes,36.463339366880525,-119.2543214511198,5.0

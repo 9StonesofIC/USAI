@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59087,47.16806,-108.22779,Winnett,MT,Montana,True,,396.0,0.1,30069,Petroleum,"{""30069"": 100}",Petroleum,30069,False,False,America/Denver,"(47.16806, -108.22779)",5.325628051441748,396.0,50501_0_no,47.1019216528108,-108.16960262286644,5.0

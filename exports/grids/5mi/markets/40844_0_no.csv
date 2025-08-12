@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50130,42.30074,-93.67331,Jewell,IA,Iowa,True,,1596.0,9.6,19079,Hamilton,"{""19079"": 100}",Hamilton,19079,False,False,America/Chicago,"(42.30074, -93.67331)",0.8662268217673786,1596.0,40844_0_no,42.311739875896286,-93.6814432193066,5.0

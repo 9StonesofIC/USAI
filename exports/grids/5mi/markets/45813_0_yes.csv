@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12920,44.89332,-74.06016,Chateaugay,NY,New York,True,,2387.0,11.6,36033,Franklin,"{""36033"": 92.69, ""36019"": 7.31}",Franklin|Clinton,36033|36019,False,False,America/New_York,"(44.89332, -74.06016)",5.019999578034211,2387.0,45813_0_yes,44.8278592547856,-74.10463166294133,5.0

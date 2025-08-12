@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22572,37.97552,-76.77495,Warsaw,VA,Virginia,True,,7378.0,20.2,51159,Richmond,"{""51159"": 91.58, ""51193"": 8.42}",Richmond|Westmoreland,51159|51193,False,False,America/New_York,"(37.97552, -76.77495)",3.4513197063241465,7378.0,31402_0_yes,38.025158453961446,-76.78203564906461,5.0

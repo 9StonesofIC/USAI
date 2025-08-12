@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44266,41.1662,-81.19829,Ravenna,OH,Ohio,True,,33386.0,140.3,39133,Portage,"{""39133"": 100}",Portage,39133,False,False,America/New_York,"(41.1662, -81.19829)",1.6285830186996306,38744.0,38339_0_no,41.14277503930649,-81.20176630558636,5.0
+44272,41.08691,-81.18244,Rootstown,OH,Ohio,True,,5358.0,85.2,39133,Portage,"{""39133"": 100}",Portage,39133,False,False,America/New_York,"(41.08691, -81.18244)",3.988854117699912,38744.0,38339_0_no,41.14277503930649,-81.20176630558636,5.0

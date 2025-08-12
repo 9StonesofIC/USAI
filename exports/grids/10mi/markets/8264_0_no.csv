@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67879,38.47091,-101.79459,Tribune,KS,Kansas,True,,1156.0,0.6,20071,Greeley,"{""20071"": 100}",Greeley,20071,False,False,America/Denver,"(38.47091, -101.79459)",9.537231488290649,1156.0,8264_0_no,38.46161308077742,-101.9704838859346,10.0

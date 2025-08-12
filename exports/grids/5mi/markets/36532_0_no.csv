@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62316,40.23341,-91.05495,Bowen,IL,Illinois,True,,785.0,6.8,17067,Hancock,"{""17067"": 89.08, ""17001"": 10.92}",Hancock|Adams,17067|17001,False,False,America/Chicago,"(40.23341, -91.05495)",3.4542775812253916,785.0,36532_0_no,40.281916993744645,-91.03908958483632,5.0

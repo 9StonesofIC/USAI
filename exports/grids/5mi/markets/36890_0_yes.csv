@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64491,40.44868,-95.34499,Tarkio,MO,Missouri,True,,1732.0,5.8,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago,"(40.44868, -95.34499)",4.080677110174307,1933.0,36890_0_yes,40.50270802460535,-95.3763508426204,5.0
+64498,40.54023,-95.31255,Westboro,MO,Missouri,True,,201.0,1.1,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago,"(40.54023, -95.31255)",4.236757760149561,1933.0,36890_0_yes,40.50270802460535,-95.3763508426204,5.0

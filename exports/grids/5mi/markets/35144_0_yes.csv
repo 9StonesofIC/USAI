@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96124,39.63918,-120.46194,Calpine,CA,California,True,,367.0,2.7,6091,Sierra,"{""06091"": 100}",Sierra,06091,False,False,America/Los_Angeles,"(39.63918, -120.46194)",2.2365830244992515,367.0,35144_0_yes,39.65378425679725,-120.49945805741262,5.0

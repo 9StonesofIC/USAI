@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87749,36.57827,-105.13028,Ute Park,NM,New Mexico,True,,225.0,5.4,35007,Colfax,"{""35007"": 100}",Colfax,35007,False,False,America/Denver,"(36.57827, -105.13028)",3.863682822882363,225.0,28284_0_no,36.525260764365854,-105.15244482070756,5.0

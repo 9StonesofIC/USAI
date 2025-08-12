@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74435,35.57862,-95.09405,Gore,OK,Oklahoma,True,,3622.0,22.3,40135,Sequoyah,"{""40135"": 74.4, ""40101"": 25.6}",Sequoyah|Muskogee,40135|40101,False,False,America/Chicago,"(35.57862, -95.09405)",5.118197939634089,3622.0,26247_0_no,35.64789927137992,-95.06179255305696,5.0

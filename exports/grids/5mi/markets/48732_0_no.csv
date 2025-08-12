@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54547,46.18951,-90.0994,Mercer,WI,Wisconsin,True,,1363.0,2.4,55051,Iron,"{""55051"": 100}",Iron,55051,False,False,America/Chicago,"(46.18951, -90.0994)",2.1436836837288213,1363.0,48732_0_no,46.21700771413379,-90.07863798918076,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28525,35.1241,-77.68987,Deep Run,NC,North Carolina,True,,2504.0,20.4,37107,Lenoir,"{""37107"": 92.43, ""37061"": 7.57}",Lenoir|Duplin,37107|37061,False,False,America/New_York,"(35.1241, -77.68987)",1.1563768214893617,2504.0,24833_0_yes,35.127775715513174,-77.66990666395276,5.0

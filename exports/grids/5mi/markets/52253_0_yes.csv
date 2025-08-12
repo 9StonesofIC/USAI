@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98382,48.0131,-123.07437,Sequim,WA,Washington,True,,29214.0,54.6,53009,Clallam,"{""53009"": 93.34, ""53031"": 6.66}",Clallam|Jefferson,53009|53031,False,False,America/Los_Angeles,"(48.0131, -123.07437)",3.1039035328920277,29214.0,52253_0_yes,48.05648445470428,-123.05693679056552,5.0

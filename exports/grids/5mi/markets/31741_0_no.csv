@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40358,38.05769,-83.6831,Olympia,KY,Kentucky,True,,1133.0,25.5,21011,Bath,"{""21011"": 100}",Bath,21011,False,False,America/New_York,"(38.05769, -83.6831)",4.372605981448402,4113.0,31741_0_no,38.10297710014037,-83.62694088547866,5.0
+40371,38.07716,-83.59561,Salt Lick,KY,Kentucky,True,,2980.0,14.8,21011,Bath,"{""21011"": 78.74, ""21165"": 21.26}",Bath|Menifee,21011|21165,False,False,America/New_York,"(38.07716, -83.59561)",2.466717483811174,4113.0,31741_0_no,38.10297710014037,-83.62694088547866,5.0

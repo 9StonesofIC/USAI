@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77464,29.61807,-95.94148,Orchard,TX,Texas,True,,70.0,1.8,48157,Fort Bend,"{""48157"": 100}",Fort Bend,48157,False,False,America/Chicago,"(29.61807, -95.94148)",6.4656925022175,70.0,11804_0_no,29.556866771415763,-96.022884721379,5.0

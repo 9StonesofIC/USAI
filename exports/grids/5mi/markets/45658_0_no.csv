@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82833,44.61601,-107.12966,Big Horn,WY,Wyoming,True,,112.0,0.4,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver,"(44.61601, -107.12966)",3.4781183480602125,112.0,45658_0_no,44.640114592606494,-107.06756347429749,5.0

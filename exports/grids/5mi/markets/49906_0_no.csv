@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58572,46.86455,-100.34313,Sterling,ND,North Dakota,True,,280.0,0.5,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago,"(46.86455, -100.34313)",6.106266401367101,280.0,49906_0_no,46.80516931479305,-100.24744928383066,5.0

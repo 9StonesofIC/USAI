@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97603,42.13704,-121.67766,Klamath Falls,OR,Oregon,True,,29797.0,33.8,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.13704, -121.67766)",5.137551921691822,29797.0,40685_0_no,42.19063807672802,-121.6081296577627,5.0

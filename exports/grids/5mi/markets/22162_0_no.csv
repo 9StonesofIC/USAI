@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30153,33.96678,-85.05425,Rockmart,GA,Georgia,True,,17906.0,56.1,13233,Polk,"{""13233"": 70.92, ""13223"": 19.95, ""13143"": 9.13}",Polk|Paulding|Haralson,13233|13223|13143,False,False,America/New_York,"(33.96678, -85.05425)",4.616779135260889,17906.0,22162_0_no,33.90095742026515,-85.06810899672853,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+06069,41.85392,-73.4448,Sharon,CT,Connecticut,True,,2394.0,17.7,9005,Litchfield,"{""09005"": 100}",Litchfield,09005,False,False,America/New_York,"(41.85392, -73.4448)",4.914543753217367,4552.0,39830_0_no,41.86030061083542,-73.53991431237405,5.0
+12501,41.85664,-73.55953,Amenia,NY,New York,True,,2158.0,25.7,36027,Dutchess,"{""36027"": 100}",Dutchess,36027,False,False,America/New_York,"(41.85664, -73.55953)",1.0406364673395154,4552.0,39830_0_no,41.86030061083542,-73.53991431237405,5.0

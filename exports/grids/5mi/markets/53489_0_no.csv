@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58746,48.71921,-102.10115,Kenmare,ND,North Dakota,True,,1335.0,1.2,38101,Ward,"{""38101"": 46.76, ""38013"": 33.79, ""38075"": 19.45}",Ward|Burke|Renville,38101|38013|38075,False,False,America/Chicago,"(48.71921, -102.10115)",4.32209739753314,1335.0,53489_0_no,48.68799273429275,-102.18328940398403,5.0

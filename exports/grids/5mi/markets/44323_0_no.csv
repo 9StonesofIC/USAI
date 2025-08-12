@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12855,44.00121,-73.79762,North Hudson,NY,New York,True,,244.0,0.5,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.00121, -73.79762)",4.935405143998831,244.0,44323_0_no,44.03164047328831,-73.70775611894717,5.0

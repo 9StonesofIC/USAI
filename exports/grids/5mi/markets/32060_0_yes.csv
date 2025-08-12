@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24442,38.35971,-79.39028,Head Waters,VA,Virginia,True,,116.0,1.1,51091,Highland,"{""51091"": 100}",Highland,51091,False,False,America/New_York,"(38.35971, -79.39028)",3.6460207835819785,521.0,32060_0_yes,38.31690368445214,-79.3509381165273,5.0
+24485,38.27521,-79.33165,West Augusta,VA,Virginia,True,,405.0,1.8,51015,Augusta,"{""51015"": 100}",Augusta,51015,False,False,America/New_York,"(38.27521, -79.33165)",3.064752815784947,521.0,32060_0_yes,38.31690368445214,-79.3509381165273,5.0

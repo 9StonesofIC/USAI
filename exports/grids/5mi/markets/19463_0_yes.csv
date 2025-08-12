@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35459,32.79337,-88.3003,Emelle,AL,Alabama,True,,913.0,2.6,1119,Sumter,"{""01119"": 100}",Sumter,01119,False,False,America/Chicago,"(32.79337, -88.3003)",4.993818966331698,1829.0,19463_0_yes,32.815617505817215,-88.21848542542958,5.0
+35464,32.78369,-88.14383,Gainesville,AL,Alabama,True,,916.0,8.8,1119,Sumter,"{""01119"": 89.81, ""01063"": 10.19}",Sumter|Greene,01119|01063,False,False,America/Chicago,"(32.78369, -88.14383)",4.864744435769,1829.0,19463_0_yes,32.815617505817215,-88.21848542542958,5.0

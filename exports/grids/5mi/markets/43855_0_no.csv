@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57301,43.71136,-98.04155,Mitchell,SD,South Dakota,True,,18719.0,30.3,46035,Davison,"{""46035"": 77.51, ""46061"": 22.49}",Davison|Hanson,46035|46061,False,False,America/Chicago,"(43.71136, -98.04155)",5.856435794217919,18719.0,43855_0_no,43.76354319068206,-98.13399570433263,5.0

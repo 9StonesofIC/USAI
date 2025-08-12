@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68720,42.34659,-98.01418,Brunswick,NE,Nebraska,True,,260.0,1.5,31003,Antelope,"{""31003"": 100}",Antelope,31003,False,False,America/Chicago,"(42.34659, -98.01418)",2.8979177222434465,424.0,40893_0_yes,42.387798899118266,-98.02474746669742,5.0
+68773,42.36245,-98.1199,Royal,NE,Nebraska,True,,164.0,1.2,31003,Antelope,"{""31003"": 100}",Antelope,31003,False,False,America/Chicago,"(42.36245, -98.1199)",5.162983087135652,424.0,40893_0_yes,42.387798899118266,-98.02474746669742,5.0

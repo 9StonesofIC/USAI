@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34607,28.57528,-82.62715,Spring Hill,FL,Florida,True,,8666.0,52.5,12053,Hernando,"{""12053"": 100}",Hernando,12053,False,False,America/New_York,"(28.57528, -82.62715)",5.284988300308011,8666.0,9231_0_yes,28.605493930222732,-82.70717871194195,5.0

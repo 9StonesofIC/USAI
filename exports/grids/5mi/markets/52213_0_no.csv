@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98831,47.93451,-120.12998,Manson,WA,Washington,True,,3529.0,29.0,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.93451, -120.12998)",3.9154013372517094,3529.0,52213_0_no,47.981469218848446,-120.17734532563436,5.0

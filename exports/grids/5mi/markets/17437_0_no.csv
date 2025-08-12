@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76455,31.82142,-98.36676,Gustine,TX,Texas,True,,926.0,5.2,48093,Comanche,"{""48093"": 100}",Comanche,48093,False,False,America/Chicago,"(31.82142, -98.36676)",4.149184483935114,926.0,17437_0_no,31.879776860968697,-98.38343797539294,5.0

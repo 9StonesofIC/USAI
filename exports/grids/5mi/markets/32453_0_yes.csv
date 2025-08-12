@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65050,38.5305,-92.68867,Latham,MO,Missouri,True,,774.0,16.8,29135,Moniteau,"{""29135"": 100}",Moniteau,29135,False,False,America/Chicago,"(38.5305, -92.68867)",4.390020816681481,774.0,32453_0_yes,38.472292858084586,-92.72122111101996,5.0

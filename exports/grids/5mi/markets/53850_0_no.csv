@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98247,48.90459,-122.31732,Everson,WA,Washington,True,,9105.0,52.7,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.90459, -122.31732)",3.8730194048941224,9105.0,53850_0_no,48.851780387018096,-122.28874003402188,5.0

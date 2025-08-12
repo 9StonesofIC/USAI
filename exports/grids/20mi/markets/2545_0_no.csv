@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84313,41.34615,-113.71268,Grouse Creek,UT,Utah,True,,62.0,0.0,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.34615, -113.71268)",14.100581625912692,161.0,2545_0_no,41.50490418225153,-113.88370999567262,20.0
+89830,41.32794,-114.22677,Montello,NV,Nevada,True,,99.0,0.2,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles,"(41.32794, -114.22677)",21.57473624052504,161.0,2545_0_no,41.50490418225153,-113.88370999567262,20.0

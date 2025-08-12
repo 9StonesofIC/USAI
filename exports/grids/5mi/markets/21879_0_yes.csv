@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71660,33.7627,-92.19728,New Edinburg,AR,Arkansas,True,,901.0,3.1,5025,Cleveland,"{""05025"": 99.58, ""05011"": 0.42}",Cleveland|Bradley,05025|05011,False,False,America/Chicago,"(33.7627, -92.19728)",6.028974023507309,901.0,21879_0_yes,33.833412461073586,-92.13575806334217,5.0

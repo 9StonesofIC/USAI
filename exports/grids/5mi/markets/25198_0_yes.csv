@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28723,35.27776,-83.12195,Cullowhee,NC,North Carolina,True,,11164.0,38.5,37099,Jackson,"{""37099"": 100}",Jackson,37099,False,False,America/New_York,"(35.27776, -83.12195)",2.979814347777369,12557.0,25198_0_yes,35.276657663330305,-83.0691389296226,5.0
+28783,35.24906,-83.02,Tuckasegee,NC,North Carolina,True,,1393.0,7.9,37099,Jackson,"{""37099"": 100}",Jackson,37099,False,False,America/New_York,"(35.24906, -83.02)",3.3646778343723467,12557.0,25198_0_yes,35.276657663330305,-83.0691389296226,5.0

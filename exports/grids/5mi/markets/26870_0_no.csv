@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37134,36.0014,-87.95063,New Johnsonville,TN,Tennessee,True,,3109.0,30.7,47085,Humphreys,"{""47085"": 100}",Humphreys,47085,False,False,America/Chicago,"(36.0014, -87.95063)",5.431940106648678,3109.0,26870_0_no,35.93258579550259,-87.99760191139097,5.0

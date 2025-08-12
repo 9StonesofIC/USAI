@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79031,34.24501,-102.45225,Earth,TX,Texas,True,,1360.0,5.1,48279,Lamb,"{""48279"": 93.16, ""48069"": 6.84}",Lamb|Castro,48279|48069,False,False,America/Chicago,"(34.24501, -102.45225)",2.1253181187109607,1360.0,22955_0_yes,34.2757649210272,-102.45293067508447,5.0

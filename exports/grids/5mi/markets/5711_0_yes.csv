@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78355,27.18855,-98.20304,Falfurrias,TX,Texas,True,,7222.0,7.9,48047,Brooks,"{""48047"": 84.64, ""48249"": 11.29, ""48273"": 4.07}",Brooks|Jim Wells|Kleberg,48047|48249|48273,False,False,America/Chicago,"(27.18855, -98.20304)",1.7449607893903418,7222.0,5711_0_yes,27.16341426267742,-98.20579676943336,5.0

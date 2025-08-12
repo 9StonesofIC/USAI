@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70740,30.33777,-91.43311,Grosse Tete,LA,Louisiana,True,,1556.0,7.1,22047,Iberville,"{""22047"": 100}",Iberville,22047,False,False,America/Chicago,"(30.33777, -91.43311)",4.41862028804702,1556.0,13547_0_no,30.27945584903425,-91.4635198103562,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59524,48.12273,-108.40374,Dodson,MT,Montana,True,,808.0,0.3,30071,Phillips,"{""30071"": 88.09, ""30005"": 11.91}",Phillips|Blaine,30071|30005,False,False,America/Denver,"(48.12273, -108.40374)",5.570163884292524,808.0,52458_0_yes,48.18735114434178,-108.33148713432168,5.0

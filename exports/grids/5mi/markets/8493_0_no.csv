@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32925,28.24272,-80.62287,Patrick Afb,FL,Florida,True,,1642.0,204.8,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.24272, -80.62287)",1.0302302710831215,28696.0,8493_0_no,28.24154624001561,-80.63974305618741,5.0
+32937,28.17464,-80.61146,Satellite Beach,FL,Florida,True,,27054.0,1537.0,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.17464, -80.61146)",4.933122023157827,28696.0,8493_0_no,28.24154624001561,-80.63974305618741,5.0

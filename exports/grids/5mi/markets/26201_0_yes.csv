@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37886,35.74142,-83.80747,Walland,TN,Tennessee,True,,4594.0,41.9,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York,"(35.74142, -83.80747)",4.713761300131128,4594.0,26201_0_yes,35.71197436474808,-83.7316625966504,5.0

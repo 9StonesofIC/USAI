@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64632,40.46915,-93.76862,Cainsville,MO,Missouri,True,,377.0,1.5,29129,Mercer,"{""29129"": 58.5, ""29081"": 41.5}",Mercer|Harrison,29129|29081,False,False,America/Chicago,"(40.46915, -93.76862)",3.563594859112231,377.0,36858_0_no,40.4290399129988,-93.81122802280171,5.0

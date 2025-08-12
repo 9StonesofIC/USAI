@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23336,37.95461,-75.33759,Chincoteague Island,VA,Virginia,True,,2912.0,58.2,51001,Accomack,"{""51001"": 100}",Accomack,51001,False,False,America/New_York,"(37.95461, -75.33759)",2.8789436859429562,2912.0,31373_0_no,37.95159955240287,-75.2848851729196,5.0

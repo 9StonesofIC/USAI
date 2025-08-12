@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83281,42.31044,-111.95953,Swanlake,ID,Idaho,True,,150.0,1.4,16005,Bannock,"{""16005"": 100}",Bannock,16005,False,False,America/Boise,"(42.31044, -111.95953)",3.9153012937982767,150.0,40938_0_no,42.32736106520578,-112.03267142640618,5.0

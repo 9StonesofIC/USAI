@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13626,43.85143,-75.7202,Copenhagen,NY,New York,True,,2271.0,10.0,36049,Lewis,"{""36049"": 86.4, ""36045"": 13.6}",Lewis|Jefferson,36049|36045,False,False,America/New_York,"(43.85143, -75.7202)",3.607865257414711,2271.0,43770_0_yes,43.81631449634435,-75.77377492541791,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64788,38.42868,-94.02045,Urich,MO,Missouri,True,,1629.0,6.1,29083,Henry,"{""29083"": 74.69, ""29013"": 25.31}",Henry|Bates,29083|29013,False,False,America/Chicago,"(38.42868, -94.02045)",3.6366102447644293,1629.0,32439_0_no,38.40086100465504,-93.96342541891956,5.0

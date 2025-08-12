@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29685,34.98297,-82.84727,Sunset,SC,South Carolina,True,,1945.0,8.5,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York,"(34.98297, -82.84727)",4.9589705376319815,1945.0,24510_0_no,34.91413682147825,-82.82247024033161,5.0

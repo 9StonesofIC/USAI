@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57058,43.74602,-97.40468,Salem,SD,South Dakota,True,,1841.0,4.5,46087,McCook,"{""46087"": 95.58, ""46079"": 2.54, ""46097"": 1.88}",McCook|Lake|Miner,46087|46079|46097,False,False,America/Chicago,"(43.74602, -97.40468)",3.6872300075342785,1841.0,43851_0_no,43.76284425296665,-97.33456548419394,5.0

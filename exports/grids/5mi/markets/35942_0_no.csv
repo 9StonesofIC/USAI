@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68327,40.01079,-97.62113,Chester,NE,Nebraska,True,,357.0,2.9,31169,Thayer,"{""31169"": 66.07, ""20157"": 33.93}",Thayer|Republic,31169|20157,False,False,America/Chicago,"(40.01079, -97.62113)",1.8868898126008893,357.0,35942_0_no,39.99753357864395,-97.58996021343746,5.0

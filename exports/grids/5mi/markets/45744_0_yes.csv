@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97856,44.78426,-119.12976,Long Creek,OR,Oregon,True,,357.0,0.3,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles,"(44.78426, -119.12976)",4.3443700317105645,357.0,45744_0_yes,44.72316336648575,-119.10884078407544,5.0

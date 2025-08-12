@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59484,48.95074,-111.76795,Sweet Grass,MT,Montana,True,,101.0,0.2,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver,"(48.95074, -111.76795)",6.65612298496008,101.0,13615_0_yes,49.04616772301808,-111.7880559852354,10.0

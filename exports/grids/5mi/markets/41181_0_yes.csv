@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51053,42.4938,-95.28842,Schaller,IA,Iowa,True,,1078.0,5.6,19161,Sac,"{""19161"": 89.26, ""19093"": 10.74}",Sac|Ida,19161|19093,False,False,America/Chicago,"(42.4938, -95.28842)",4.293669764115905,1078.0,41181_0_yes,42.53021693079815,-95.22010924379045,5.0

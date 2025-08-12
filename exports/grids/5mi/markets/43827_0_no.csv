@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55936,43.70943,-92.58524,Grand Meadow,MN,Minnesota,True,,1914.0,8.5,27099,Mower,"{""27099"": 100}",Mower,27099,False,False,America/Chicago,"(43.70943, -92.58524)",4.133475249905761,3106.0,43827_0_no,43.758650982668215,-92.53817958765632,5.0
+55967,43.79343,-92.51354,Racine,MN,Minnesota,True,,1192.0,12.6,27099,Mower,"{""27099"": 100}",Mower,27099,False,False,America/Chicago,"(43.79343, -92.51354)",2.6991570700460747,3106.0,43827_0_no,43.758650982668215,-92.53817958765632,5.0

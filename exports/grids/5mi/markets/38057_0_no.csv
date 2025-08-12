@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46931,40.94693,-86.26456,Fulton,IN,Indiana,True,,150.0,320.9,18049,Fulton,"{""18049"": 100}",Fulton,18049,False,False,America/Indiana/Indianapolis,"(40.94693, -86.26456)",3.8314474248306793,14565.0,38057_0_no,41.00217236846819,-86.27095778094662,5.0
+46975,41.0718,-86.25177,Rochester,IN,Indiana,True,,14415.0,26.8,18049,Fulton,"{""18049"": 100}",Fulton,18049,False,False,America/Indiana/Indianapolis,"(41.0718, -86.25177)",4.91364339321761,14565.0,38057_0_no,41.00217236846819,-86.27095778094662,5.0

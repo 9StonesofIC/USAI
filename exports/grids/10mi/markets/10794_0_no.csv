@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97423,43.19137,-124.17177,Coquille,OR,Oregon,True,,6521.0,19.9,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles,"(43.19137, -124.17177)",7.342983792845693,11009.0,10794_0_no,43.13369645611949,-124.04939014293792,10.0
+97458,43.06372,-124.01287,Myrtle Point,OR,Oregon,True,,4488.0,4.8,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles,"(43.06372, -124.01287)",5.174073006940235,11009.0,10794_0_no,43.13369645611949,-124.04939014293792,10.0

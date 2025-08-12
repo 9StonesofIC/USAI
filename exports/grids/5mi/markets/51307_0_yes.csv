@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58218,47.59689,-97.05412,Buxton,ND,North Dakota,True,,810.0,2.6,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago,"(47.59689, -97.05412)",4.424666550330581,810.0,51307_0_yes,47.5979237484667,-96.9591664782738,5.0

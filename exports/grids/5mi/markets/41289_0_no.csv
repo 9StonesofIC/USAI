@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97639,42.43435,-121.49845,Sprague River,OR,Oregon,True,,479.0,3.2,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.43435, -121.49845)",5.7695369076671605,479.0,41289_0_no,42.48037297728432,-121.59288973494648,5.0

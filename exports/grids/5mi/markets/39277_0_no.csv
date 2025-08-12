@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43531,41.63511,-84.4957,Kunkle,OH,Ohio,True,,352.0,788.3,39171,Williams,"{""39171"": 100}",Williams,39171,False,False,America/New_York,"(41.63511, -84.4957)",5.647659621567921,7765.0,39277_0_no,41.5800118199669,-84.57645084259894,5.0
+43543,41.60575,-84.6338,Montpelier,OH,Ohio,True,,7413.0,33.8,39171,Williams,"{""39171"": 100}",Williams,39171,False,False,America/New_York,"(41.60575, -84.6338)",3.456075593264672,7765.0,39277_0_no,41.5800118199669,-84.57645084259894,5.0

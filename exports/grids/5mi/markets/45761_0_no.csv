@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04419,44.7969,-69.03154,Carmel,ME,Maine,True,,2828.0,29.8,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.7969, -69.03154)",3.3813101531196006,11822.0,45761_0_no,44.75102158644926,-69.00754620353082,5.0
+04444,44.72591,-68.94585,Hampden,ME,Maine,True,,8994.0,50.3,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.72591, -68.94585)",3.4898517568656846,11822.0,45761_0_no,44.75102158644926,-69.00754620353082,5.0

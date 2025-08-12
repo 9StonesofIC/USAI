@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59802,46.90569,-113.92077,Missoula,MT,Montana,True,,20778.0,176.8,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver,"(46.90569, -113.92077)",3.928312797965443,20778.0,50250_0_no,46.96250862319621,-113.92375182073812,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66409,38.92508,-95.55589,Berryton,KS,Kansas,True,,3339.0,18.6,20177,Shawnee,"{""20177"": 73.56, ""20045"": 24.19, ""20139"": 2.25}",Shawnee|Douglas|Osage,20177|20045|20139,False,False,America/Chicago,"(38.92508, -95.55589)",3.5121163466225402,3339.0,33426_0_yes,38.90917439338558,-95.49383937672108,5.0

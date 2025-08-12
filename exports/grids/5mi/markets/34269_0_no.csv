@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26743,39.28873,-79.07998,New Creek,WV,West Virginia,True,,1735.0,9.3,54057,Mineral,"{""54057"": 50.66, ""54023"": 49.34}",Mineral|Grant,54057|54023,False,False,America/New_York,"(39.28873, -79.07998)",3.0284883944962644,1735.0,34269_0_no,39.2582683899133,-79.03926746171436,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97862,45.92712,-118.31797,Milton Freewater,OR,Oregon,True,,12014.0,15.8,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles,"(45.92712, -118.31797)",2.655997817398188,12014.0,48300_0_no,45.95319286251058,-118.2773507934729,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08087,39.60751,-74.37994,Tuckerton,NJ,New Jersey,True,,25387.0,139.9,34029,Ocean,"{""34029"": 59.33, ""34005"": 40.67}",Ocean|Burlington,34029|34005,False,False,America/New_York,"(39.60751, -74.37994)",4.565563372595557,25387.0,34876_0_no,39.54418067404591,-74.35547081745172,5.0

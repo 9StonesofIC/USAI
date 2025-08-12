@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78850,29.27937,-99.33581,D Hanis,TX,Texas,True,,1056.0,1.7,48325,Medina,"{""48325"": 100}",Medina,48325,False,False,America/Chicago,"(29.27937, -99.33581)",4.934288070720688,1056.0,11113_0_no,29.26874704008568,-99.41676950859208,5.0

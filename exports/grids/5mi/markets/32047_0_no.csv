@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26662,38.25813,-80.7695,Canvas,WV,West Virginia,True,,1108.0,42.5,54067,Nicholas,"{""54067"": 100}",Nicholas,54067,False,False,America/New_York,"(38.25813, -80.7695)",1.297417830500507,2123.0,32047_0_no,38.24563535706105,-80.78734980222345,5.0
+26681,38.22983,-80.71905,Nettie,WV,West Virginia,True,,1015.0,10.4,54067,Nicholas,"{""54067"": 100}",Nicholas,54067,False,False,America/New_York,"(38.22983, -80.71905)",3.8641121186571787,2123.0,32047_0_no,38.24563535706105,-80.78734980222345,5.0

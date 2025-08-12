@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70543,30.33532,-92.5014,Iota,LA,Louisiana,True,,4738.0,25.6,22001,Acadia,"{""22001"": 100}",Acadia,22001,False,False,America/Chicago,"(30.33532, -92.5014)",1.7535345384232996,4738.0,13565_0_yes,30.352643957764545,-92.52289086713914,5.0

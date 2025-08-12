@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70372,29.78249,-90.9889,Labadieville,LA,Louisiana,True,,2176.0,29.2,22007,Assumption,"{""22007"": 100}",Assumption,22007,False,False,America/Chicago,"(29.78249, -90.9889)",5.038813110539834,2176.0,12483_0_no,29.843874025314783,-90.9435183092996,5.0

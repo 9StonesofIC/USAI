@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51018,42.44884,-95.67814,Cushing,IA,Iowa,True,,570.0,6.7,19093,Ida,"{""19093"": 56.28, ""19193"": 43.72}",Ida|Woodbury,19093|19193,False,False,America/Chicago,"(42.44884, -95.67814)",4.356231354786794,570.0,40881_0_yes,42.38580002924929,-95.67953865849547,5.0

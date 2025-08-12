@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32113,29.39836,-82.08127,Citra,FL,Florida,True,,5341.0,24.1,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.39836, -82.08127)",4.688504670615018,10109.0,11018_0_yes,29.330517952395383,-82.07961002418409,5.0
+32617,29.30659,-82.07553,Anthony,FL,Florida,True,,4768.0,61.6,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.30659, -82.07553)",1.67143552816929,10109.0,11018_0_yes,29.330517952395383,-82.07961002418409,5.0

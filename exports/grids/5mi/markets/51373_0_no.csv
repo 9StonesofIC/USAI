@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83833,47.51484,-116.73284,Harrison,ID,Idaho,True,,1608.0,5.9,16055,Kootenai,"{""16055"": 99.9, ""16009"": 0.1}",Kootenai|Benewah,16055|16009,False,False,America/Los_Angeles,"(47.51484, -116.73284)",3.577010593105387,1608.0,51373_0_no,47.54411718025305,-116.79607528383242,5.0

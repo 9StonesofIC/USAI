@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27376,35.25607,-79.53184,West End,NC,North Carolina,True,,9737.0,54.8,37125,Moore,"{""37125"": 100}",Moore,37125,False,False,America/New_York,"(35.25607, -79.53184)",1.2440350599453707,9737.0,25178_0_yes,35.27407141452192,-79.531392844771,5.0

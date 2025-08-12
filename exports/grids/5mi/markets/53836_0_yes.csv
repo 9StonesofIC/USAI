@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59411,48.88965,-113.41403,Babb,MT,Montana,True,,1188.0,2.1,30035,Glacier,"{""30035"": 100}",Glacier,30035,False,False,America/Denver,"(48.88965, -113.41403)",2.9826316292695507,1188.0,53836_0_yes,48.9155824803035,-113.36152946669807,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44045,41.7461,-81.28512,Grand River,OH,Ohio,True,,604.0,248.8,39085,Lake,"{""39085"": 100}",Lake,39085,False,False,America/New_York,"(41.7461, -81.28512)",4.431717431038973,7786.0,39592_0_yes,41.79434729967752,-81.22845212218435,5.0
+44081,41.76589,-81.14551,Perry,OH,Ohio,True,,7182.0,134.4,39085,Lake,"{""39085"": 100}",Lake,39085,False,False,America/New_York,"(41.76589, -81.14551)",4.7040932618346565,7786.0,39592_0_yes,41.79434729967752,-81.22845212218435,5.0

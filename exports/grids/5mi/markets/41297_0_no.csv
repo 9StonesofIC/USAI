@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97525,42.43557,-123.07606,Gold Hill,OR,Oregon,True,,4293.0,15.3,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.43557, -123.07606)",5.28313011556819,11397.0,41297_0_no,42.481709936449086,-123.1587064601055,5.0
+97537,42.55041,-123.13357,Rogue River,OR,Oregon,True,,7104.0,22.1,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles,"(42.55041, -123.13357)",4.916314675353439,11397.0,41297_0_no,42.481709936449086,-123.1587064601055,5.0

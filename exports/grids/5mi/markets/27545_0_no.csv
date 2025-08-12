@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72436,36.23574,-90.48281,Lafe,AR,Arkansas,True,,881.0,11.1,5055,Greene,"{""05055"": 70.6, ""05021"": 29.4}",Greene|Clay,05055|05021,False,False,America/Chicago,"(36.23574, -90.48281)",3.6470083384824497,881.0,27545_0_no,36.22437648823914,-90.5467113242483,5.0

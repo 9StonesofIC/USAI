@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23883,37.12546,-76.7502,Surry,VA,Virginia,True,,2069.0,15.3,51181,Surry,"{""51181"": 100}",Surry,51181,False,False,America/New_York,"(37.12546, -76.7502)",3.307962136154442,2069.0,29456_0_yes,37.15589930160545,-76.79655776476046,5.0

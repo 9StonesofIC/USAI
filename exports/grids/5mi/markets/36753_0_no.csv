@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07732,40.43115,-73.99192,Highlands,NJ,New Jersey,True,,4814.0,492.7,34025,Monmouth,"{""34025"": 100}",Monmouth,34025,False,False,America/New_York,"(40.43115, -73.99192)",4.9993593216384555,4814.0,36753_0_no,40.41271143460631,-73.90001319418784,5.0

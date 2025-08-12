@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49833,46.27504,-87.29142,Little Lake,MI,Michigan,True,,346.0,9.4,26103,Marquette,"{""26103"": 100}",Marquette,26103,False,False,America/Detroit,"(46.27504, -87.29142)",5.532496199326501,346.0,48719_0_no,46.21453448719527,-87.36725707625351,5.0

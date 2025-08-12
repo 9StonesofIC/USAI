@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74048,36.69265,-95.65192,Nowata,OK,Oklahoma,True,,5956.0,10.9,40105,Nowata,"{""40105"": 99.58, ""40147"": 0.42}",Nowata|Washington,40105|40147,False,False,America/Chicago,"(36.69265, -95.65192)",4.757532264136157,5956.0,28559_0_no,36.66299639722672,-95.57443430560818,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80749,40.87574,-102.55354,Sedgwick,CO,Colorado,True,,245.0,0.5,8115,Sedgwick,"{""08115"": 100}",Sedgwick,08115,False,False,America/Denver,"(40.87574, -102.55354)",6.356308177779773,245.0,37859_0_yes,40.9432766446554,-102.63619530498464,5.0

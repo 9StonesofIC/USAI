@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61416,40.49592,-90.56308,Bardolph,IL,Illinois,True,,269.0,168.3,17109,McDonough,"{""17109"": 100}",McDonough,17109,False,False,America/Chicago,"(40.49592, -90.56308)",3.5199618786617926,20289.0,36865_0_yes,40.498809369902254,-90.62996659679186,5.0
+61455,40.44047,-90.65115,Macomb,IL,Illinois,True,,20020.0,47.6,17109,McDonough,"{""17109"": 100}",McDonough,17109,False,False,America/Chicago,"(40.44047, -90.65115)",4.181826919390869,20289.0,36865_0_yes,40.498809369902254,-90.62996659679186,5.0

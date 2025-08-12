@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74963,34.41424,-94.56322,Watson,OK,Oklahoma,True,,572.0,3.8,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago,"(34.41424, -94.56322)",6.746055568533628,572.0,23231_0_no,34.342617770139945,-94.48281962682418,5.0

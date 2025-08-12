@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86028,35.02873,-109.81056,Petrified Forest Natl Pk,AZ,Arizona,True,,67.0,1.8,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Phoenix,"(35.02873, -109.81056)",2.146714815515375,67.0,24680_0_yes,35.00619071394754,-109.83667159053864,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45651,39.27665,-82.47706,McArthur,OH,Ohio,True,,5530.0,15.0,39163,Vinton,"{""39163"": 100}",Vinton,39163,False,False,America/New_York,"(39.27665, -82.47706)",4.490125999149516,6091.0,34287_0_no,39.26095528044808,-82.39560319349945,5.0
+45698,39.28811,-82.39604,Zaleski,OH,Ohio,True,,561.0,92.9,39163,Vinton,"{""39163"": 100}",Vinton,39163,False,False,America/New_York,"(39.28811, -82.39604)",1.8763578746162777,6091.0,34287_0_no,39.26095528044808,-82.39560319349945,5.0

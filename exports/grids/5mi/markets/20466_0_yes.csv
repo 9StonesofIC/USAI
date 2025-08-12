@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31064,33.29031,-83.69986,Monticello,GA,Georgia,True,,9469.0,14.9,13159,Jasper,"{""13159"": 100}",Jasper,13159,False,False,America/New_York,"(33.29031, -83.69986)",3.17246073181752,9469.0,20466_0_yes,33.247527854172446,-83.7197989315831,5.0

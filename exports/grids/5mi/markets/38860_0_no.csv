@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96067,41.31664,-122.31736,Mount Shasta,CA,California,True,,7050.0,35.6,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.31664, -122.31736)",4.589708338732433,7050.0,38860_0_no,41.32182526394581,-122.22918271636662,5.0

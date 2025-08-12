@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68924,40.49557,-99.12469,Axtell,NE,Nebraska,True,,1461.0,5.3,31099,Kearney,"{""31099"": 89.0, ""31137"": 11.0}",Kearney|Phelps,31099|31137,False,False,America/Chicago,"(40.49557, -99.12469)",4.298708079677183,1461.0,36886_0_no,40.43339575601691,-99.12169864084886,5.0

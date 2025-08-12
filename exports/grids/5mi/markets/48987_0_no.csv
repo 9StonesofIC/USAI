@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49724,46.32744,-84.3884,Dafter,MI,Michigan,True,,1166.0,7.4,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.32744, -84.3884)",3.033444936927963,20416.0,48987_0_no,46.35646573502029,-84.34068564161171,5.0
+49783,46.41495,-84.28006,Sault Sainte Marie,MI,Michigan,True,,19250.0,50.0,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.41495, -84.28006)",4.967660940188469,20416.0,48987_0_no,46.35646573502029,-84.34068564161171,5.0

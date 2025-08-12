@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08088,39.84196,-74.69075,Vincentown,NJ,New Jersey,True,,24018.0,61.6,34005,Burlington,"{""34005"": 100}",Burlington,34005,False,False,America/New_York,"(39.84196, -74.69075)",1.044189992212147,24018.0,35507_0_no,39.83411414545096,-74.70757151715947,5.0

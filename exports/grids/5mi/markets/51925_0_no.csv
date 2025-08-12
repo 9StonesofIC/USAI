@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99021,47.84951,-117.18721,Mead,WA,Washington,True,,9441.0,45.4,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.84951, -117.18721)",1.1149486264555477,14951.0,51925_0_no,47.8339339068296,-117.18092714103211,5.0
+99025,47.78963,-117.08751,Newman Lake,WA,Washington,True,,5510.0,46.5,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.78963, -117.08751)",5.306553871126051,14951.0,51925_0_no,47.8339339068296,-117.18092714103211,5.0

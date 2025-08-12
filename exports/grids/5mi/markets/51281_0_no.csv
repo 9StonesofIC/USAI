@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58218,47.59689,-97.05412,Buxton,ND,North Dakota,True,,810.0,2.6,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago,"(47.59689, -97.05412)",6.10217804934427,928.0,51281_0_no,47.525793294410505,-97.13176596839072,5.0
+58223,47.51384,-97.02573,Cummings,ND,North Dakota,True,,118.0,0.6,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago,"(47.51384, -97.02573)",5.016223369299745,928.0,51281_0_no,47.525793294410505,-97.13176596839072,5.0

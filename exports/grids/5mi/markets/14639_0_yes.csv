@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77320,30.80672,-95.55687,Huntsville,TX,Texas,True,,36091.0,40.6,48471,Walker,"{""48471"": 91.4, ""48407"": 8.6}",Walker|San Jacinto,48471|48407,False,False,America/Chicago,"(30.80672, -95.55687)",1.4767157549342398,36091.0,14639_0_yes,30.78985088288573,-95.57214812022568,5.0

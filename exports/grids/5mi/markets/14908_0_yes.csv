@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31569,30.90167,-81.68249,Woodbine,GA,Georgia,True,,5814.0,29.1,13039,Camden,"{""13039"": 100}",Camden,13039,False,False,America/New_York,"(30.90167, -81.68249)",2.782144834199285,5814.0,14908_0_yes,30.925910383077056,-81.71996643954463,5.0

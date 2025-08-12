@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59446,47.64083,-110.17894,Geraldine,MT,Montana,True,,580.0,0.3,30015,Chouteau,"{""30015"": 100}",Chouteau,30015,False,False,America/Denver,"(47.64083, -110.17894)",3.720032946803024,580.0,51617_0_no,47.68261937711825,-110.12853525703792,5.0

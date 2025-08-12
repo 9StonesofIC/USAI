@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+01930,42.62605,-70.68966,Gloucester,MA,Massachusetts,True,,30291.0,446.4,25009,Essex,"{""25009"": 100}",Essex,25009,False,False,America/New_York,"(42.62605, -70.68966)",11.408381150569689,37560.0,10509_0_no,42.75205818968404,-70.54449781963801,10.0
+01966,42.65432,-70.62227,Rockport,MA,Massachusetts,True,,7269.0,401.6,25009,Essex,"{""25009"": 100}",Essex,25009,False,False,America/New_York,"(42.65432, -70.62227)",7.82289261663023,37560.0,10509_0_no,42.75205818968404,-70.54449781963801,10.0

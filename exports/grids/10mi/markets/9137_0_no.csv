@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07740,40.29581,-73.9919,Long Branch,NJ,New Jersey,True,,30557.0,2235.9,34025,Monmouth,"{""34025"": 100}",Monmouth,34025,False,False,America/New_York,"(40.29581, -73.9919)",13.713252855322311,30557.0,9137_0_no,40.15378772262223,-73.81031620172897,10.0

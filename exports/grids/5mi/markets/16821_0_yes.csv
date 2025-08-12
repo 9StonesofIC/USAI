@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85610,31.73144,-109.65957,Elfrida,AZ,Arizona,True,,854.0,0.7,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix,"(31.73144, -109.65957)",5.763275738648827,854.0,16821_0_yes,31.66968652587604,-109.72547599221224,5.0

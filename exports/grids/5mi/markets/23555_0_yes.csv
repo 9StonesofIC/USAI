@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38650,34.52776,-89.14165,Myrtle,MS,Mississippi,True,,4332.0,21.2,28145,Union,"{""28145"": 91.8, ""28009"": 8.2}",Union|Benton,28145|28009,False,False,America/Chicago,"(34.52776, -89.14165)",5.022422253087195,4332.0,23555_0_yes,34.5562988385526,-89.22281164410121,5.0

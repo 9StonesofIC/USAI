@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89040,36.35322,-114.53541,Overton,NV,Nevada,True,,3868.0,3.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(36.35322, -114.53541)",9.090260984662565,3868.0,7163_0_no,36.45191230662652,-114.4273167251186,10.0

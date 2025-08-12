@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38061,35.06704,-88.7647,Pocahontas,TN,Tennessee,True,,1185.0,6.7,47109,McNairy,"{""47109"": 71.68, ""47069"": 28.32}",McNairy|Hardeman,47109|47069,False,False,America/Chicago,"(35.06704, -88.7647)",1.0558344553611219,1185.0,24878_0_no,35.06339828814433,-88.74656803954943,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96101,41.45803,-120.5043,Alturas,CA,California,True,,5152.0,3.3,6049,Modoc,"{""06049"": 100}",Modoc,06049,False,False,America/Los_Angeles,"(41.45803, -120.5043)",7.134556725321698,5301.0,9879_0_no,41.38938217772935,-120.6071707866724,10.0
+96116,41.2603,-120.44841,Likely,CA,California,True,,149.0,0.3,6049,Modoc,"{""06049"": 100}",Modoc,06049,False,False,America/Los_Angeles,"(41.2603, -120.44841)",12.140991037868995,5301.0,9879_0_no,41.38938217772935,-120.6071707866724,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93924,36.39489,-121.63406,Carmel Valley,CA,California,True,,6421.0,13.3,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.39489, -121.63406)",5.47302864994043,6421.0,28066_0_yes,36.46509506115799,-121.5884648998867,5.0

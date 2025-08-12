@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57563,43.36039,-100.40149,Okreek,SD,South Dakota,True,,178.0,2.3,46121,Todd,"{""46121"": 100}",Todd,46121,False,False,America/Chicago,"(43.36039, -100.40149)",3.6196584373532468,178.0,43004_0_yes,43.40345879554666,-100.36045255648342,5.0

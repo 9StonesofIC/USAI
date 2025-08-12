@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38077,36.32852,-89.4744,Wynnburg,TN,Tennessee,True,,38.0,615.4,47095,Lake,"{""47095"": 100}",Lake,47095,False,False,America/Chicago,"(36.32852, -89.4744)",3.3734190392496983,38.0,27558_0_yes,36.29604079255303,-89.51963931405007,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30635,34.10346,-82.80145,Elberton,GA,Georgia,True,,15200.0,20.9,13105,Elbert,"{""13105"": 98.66, ""13147"": 1.34}",Elbert|Hart,13105|13147,False,False,America/New_York,"(34.10346, -82.80145)",1.613182262246,15200.0,22504_0_yes,34.11676796263525,-82.77828002449247,5.0

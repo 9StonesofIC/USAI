@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57787,44.6643,-102.66097,Union Center,SD,South Dakota,True,,305.0,0.2,46093,Meade,"{""46093"": 100}",Meade,46093,False,False,America/Denver,"(44.6643, -102.66097)",3.062398096216756,305.0,45663_0_yes,44.70853437794969,-102.65703917108884,5.0

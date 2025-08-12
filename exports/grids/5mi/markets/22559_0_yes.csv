@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72057,34.14417,-92.31507,Grapevine,AR,Arkansas,True,,1415.0,6.1,5053,Grant,"{""05053"": 100}",Grant,05053,False,False,America/Chicago,"(34.14417, -92.31507)",3.595867884551772,1415.0,22559_0_yes,34.12358196345268,-92.3728161852366,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76255,33.8179,-97.71625,Nocona,TX,Texas,True,,5477.0,7.7,48337,Montague,"{""48337"": 100}",Montague,48337,False,False,America/Chicago,"(33.8179, -97.71625)",5.590358102481541,5477.0,21895_0_no,33.76482012300865,-97.64277185785475,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80733,40.35695,-103.47989,Hillrose,CO,Colorado,True,,529.0,8.7,8087,Morgan,"{""08087"": 60.28, ""08121"": 39.72}",Morgan|Washington,08087|08121,False,False,America/Denver,"(40.35695, -103.47989)",5.19817006997928,529.0,36598_0_no,40.29213244773592,-103.52998848673413,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55968,44.39793,-92.0898,Reads Landing,MN,Minnesota,True,,122.0,29.4,27157,Wabasha,"{""27157"": 100}",Wabasha,27157,False,False,America/Chicago,"(44.39793, -92.0898)",1.7505595962247398,3937.0,45027_0_yes,44.40961110950688,-92.05833045362722,5.0
+55981,44.35375,-92.06518,Wabasha,MN,Minnesota,True,,3815.0,28.9,27157,Wabasha,"{""27157"": 100}",Wabasha,27157,False,False,America/Chicago,"(44.35375, -92.06518)",3.874427228744493,3937.0,45027_0_yes,44.40961110950688,-92.05833045362722,5.0

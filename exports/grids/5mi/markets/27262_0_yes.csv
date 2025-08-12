@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74015,36.18012,-95.70952,Catoosa,OK,Oklahoma,True,,8771.0,56.1,40131,Rogers,"{""40131"": 69.39, ""40145"": 30.37, ""40143"": 0.24}",Rogers|Wagoner|Tulsa,40131|40145|40143,False,False,America/Chicago,"(36.18012, -95.70952)",2.975804992392693,8771.0,27262_0_yes,36.15568744313467,-95.66558478965624,5.0

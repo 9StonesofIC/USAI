@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13353,43.47123,-74.72732,Hoffmeister,NY,New York,True,,17.0,0.0,36041,Hamilton,"{""36041"": 100}",Hamilton,36041,False,False,America/New_York,"(43.47123, -74.72732)",3.641034426493726,17.0,43146_0_no,43.453674751851096,-74.79577610899113,5.0

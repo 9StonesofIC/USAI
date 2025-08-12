@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59037,45.852,-108.20927,Huntley,MT,Montana,True,,2642.0,8.2,30111,Yellowstone,"{""30111"": 92.76, ""30003"": 7.24}",Yellowstone|Big Horn,30111|30003,False,False,America/Denver,"(45.852, -108.20927)",4.619053556920519,2642.0,47967_0_no,45.799241760288496,-108.15034943401268,5.0

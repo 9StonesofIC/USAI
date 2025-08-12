@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88231,32.42376,-103.26873,Eunice,NM,New Mexico,True,,3498.0,3.8,35025,Lea,"{""35025"": 100}",Lea,35025,False,False,America/Denver,"(32.42376, -103.26873)",10.82107854496035,3640.0,4781_0_yes,32.52122777564314,-103.41403944181542,10.0
+88265,32.58421,-103.34642,Monument,NM,New Mexico,True,,142.0,0.7,35025,Lea,"{""35025"": 100}",Lea,35025,False,False,America/Denver,"(32.58421, -103.34642)",5.869007936575124,3640.0,4781_0_yes,32.52122777564314,-103.41403944181542,10.0

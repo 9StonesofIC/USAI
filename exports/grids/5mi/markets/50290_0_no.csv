@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98338,47.01927,-122.28347,Graham,WA,Washington,True,,28999.0,207.5,53053,Pierce,"{""53053"": 100}",Pierce,53053,False,False,America/Los_Angeles,"(47.01927, -122.28347)",5.761405137741883,28999.0,50290_0_no,46.970319534907965,-122.38244271456146,5.0

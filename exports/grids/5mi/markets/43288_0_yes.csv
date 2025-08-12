@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57332,43.5465,-97.64762,Emery,SD,South Dakota,True,,876.0,3.4,46061,Hanson,"{""46061"": 51.21, ""46067"": 32.58, ""46087"": 16.21}",Hanson|Hutchinson|McCook,46061|46067|46087,False,False,America/Chicago,"(43.5465, -97.64762)",3.2584546162929193,876.0,43288_0_yes,43.54594860833573,-97.71268027163804,5.0

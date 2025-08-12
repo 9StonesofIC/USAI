@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83212,42.50847,-112.54828,Arbon,ID,Idaho,True,,423.0,0.7,16077,Power,"{""16077"": 86.02, ""16071"": 13.98}",Power|Oneida,16077|16071,False,False,America/Boise,"(42.50847, -112.54828)",8.750006390226403,423.0,10328_0_yes,42.38946466236494,-112.4895890485594,10.0

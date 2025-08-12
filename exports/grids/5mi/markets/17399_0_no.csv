@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71425,31.89017,-91.89786,Enterprise,LA,Louisiana,True,,24.0,0.4,22025,Catahoula,"{""22025"": 100}",Catahoula,22025,False,False,America/Chicago,"(31.89017, -91.89786)",1.654385929520408,24.0,17399_0_no,31.875453679048505,-91.92010386370488,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39648,31.18611,-90.38804,Mccomb,MS,Mississippi,True,,20349.0,72.8,28113,Pike,"{""28113"": 100}",Pike,28113,False,False,America/Chicago,"(31.18611, -90.38804)",4.884213535474865,20349.0,15648_0_no,31.149129610930785,-90.31763145725272,5.0

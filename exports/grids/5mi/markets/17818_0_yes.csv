@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79705,32.09619,-102.0508,Midland,TX,Texas,True,,43119.0,209.6,48317,Martin,"{""48317"": 51.5, ""48329"": 48.5}",Martin|Midland,48317|48329,False,False,America/Chicago,"(32.09619, -102.0508)",4.104171724213853,43119.0,17818_0_yes,32.09975859089967,-101.98080804217588,5.0

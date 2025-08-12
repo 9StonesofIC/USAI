@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80734,40.52472,-102.29259,Holyoke,CO,Colorado,True,,3100.0,2.5,8095,Phillips,"{""08095"": 77.09, ""08125"": 22.91}",Phillips|Yuma,08095|08125,False,False,America/Denver,"(40.52472, -102.29259)",4.400992201204377,3100.0,36926_0_yes,40.50832302505781,-102.2116269836354,5.0

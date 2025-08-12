@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66861,38.36415,-97.00617,Marion,KS,Kansas,True,,2759.0,5.2,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago,"(38.36415, -97.00617)",2.4072355654607347,2759.0,32156_0_yes,38.33076533920632,-97.0188768299551,5.0

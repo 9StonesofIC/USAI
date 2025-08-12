@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93635,37.016,-120.88294,Los Banos,CA,California,True,,41563.0,41.1,6047,Merced,"{""06047"": 100}",Merced,06047,False,False,America/Los_Angeles,"(37.016, -120.88294)",4.530674031956017,41563.0,29354_0_no,36.97219036519861,-120.94402813436548,5.0

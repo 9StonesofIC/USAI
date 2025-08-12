@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97450,42.91026,-124.37398,Langlois,OR,Oregon,True,,508.0,2.5,41015,Curry,"{""41015"": 91.88, ""41011"": 8.12}",Curry|Coos,41015|41011,False,False,America/Los_Angeles,"(42.91026, -124.37398)",4.857961234881827,865.0,41931_0_yes,42.8449112363499,-124.40938218181437,5.0
+97476,42.84075,-124.43806,Sixes,OR,Oregon,True,,357.0,2.6,41015,Curry,"{""41015"": 100}",Curry,41015,False,False,America/Los_Angeles,"(42.84075, -124.43806)",1.4810171187614751,865.0,41931_0_yes,42.8449112363499,-124.40938218181437,5.0

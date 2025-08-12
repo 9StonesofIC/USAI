@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51245,43.07788,-95.60149,Primghar,IA,Iowa,True,,1389.0,6.9,19141,O'Brien,"{""19141"": 100}",O'Brien,19141,False,False,America/Chicago,"(43.07788, -95.60149)",4.058347029075328,1389.0,42384_0_yes,43.10968679866844,-95.53386819686084,5.0

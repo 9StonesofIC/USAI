@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57758,44.98737,-102.75985,Mud Butte,SD,South Dakota,True,,67.0,0.0,46093,Meade,"{""46093"": 63.27, ""46019"": 18.88, ""46105"": 17.85}",Meade|Butte|Perkins,46093|46019|46105,False,False,America/Denver,"(44.98737, -102.75985)",0.9179384391565986,67.0,46244_0_yes,44.99815080435541,-102.7488715937718,5.0

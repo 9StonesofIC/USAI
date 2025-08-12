@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56207,45.50266,-96.0708,Alberta,MN,Minnesota,True,,252.0,2.0,27149,Stevens,"{""27149"": 94.16, ""27151"": 5.84}",Stevens|Swift,27149|27151,False,False,America/Chicago,"(45.50266, -96.0708)",0.8282612350677959,252.0,47337_0_no,45.49884858076799,-96.08701558253978,5.0

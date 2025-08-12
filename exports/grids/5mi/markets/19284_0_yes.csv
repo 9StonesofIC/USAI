@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91963,32.64798,-116.5964,Potrero,CA,California,True,,479.0,4.5,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.64798, -116.5964)",2.921577669321295,479.0,19284_0_yes,32.690000643794924,-116.5907977265444,5.0

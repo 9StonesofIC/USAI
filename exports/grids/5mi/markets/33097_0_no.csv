@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67448,38.65826,-97.40756,Gypsum,KS,Kansas,True,,1192.0,2.2,20169,Saline,"{""20169"": 45.29, ""20041"": 29.56, ""20113"": 25.15}",Saline|Dickinson|McPherson,20169|20041|20113,False,False,America/Chicago,"(38.65826, -97.40756)",3.7920626802953,1192.0,33097_0_no,38.693341238272616,-97.35349608626444,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77447,30.05178,-95.82868,Hockley,TX,Texas,True,,16309.0,60.9,48201,Harris,"{""48201"": 66.99, ""48473"": 28.17, ""48339"": 4.84}",Harris|Waller|Montgomery,48201|48473|48339,False,False,America/Chicago,"(30.05178, -95.82868)",5.830031844732085,16309.0,12867_0_no,29.992097623751608,-95.89757025252857,5.0

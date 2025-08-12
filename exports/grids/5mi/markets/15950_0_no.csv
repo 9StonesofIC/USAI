@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31501,31.22693,-82.34852,Waycross,GA,Georgia,True,,16265.0,523.6,13299,Ware,"{""13299"": 100}",Ware,13299,False,False,America/New_York,"(31.22693, -82.34852)",4.5927107482054055,31317.0,15950_0_no,31.288924995337883,-82.32046850270174,5.0
+31516,31.30946,-82.2565,Blackshear,GA,Georgia,True,,15052.0,36.4,13229,Pierce,"{""13229"": 100}",Pierce,13229,False,False,America/New_York,"(31.30946, -82.2565)",4.034300680887726,31317.0,15950_0_no,31.288924995337883,-82.32046850270174,5.0

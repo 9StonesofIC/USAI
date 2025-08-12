@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31082,32.992,-82.89815,Sandersville,GA,Georgia,True,,10061.0,17.1,13303,Washington,"{""13303"": 97.13, ""13009"": 2.87}",Washington|Baldwin,13303|13009,False,False,America/New_York,"(32.992, -82.89815)",2.783810969835672,10061.0,20104_0_no,33.029487037844085,-82.88054082771119,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71749,33.07049,-92.81964,Junction City,AR,Arkansas,True,,2904.0,7.0,5139,Union,"{""05139"": 98.24, ""22027"": 1.63, ""22111"": 0.13}",Union|Claiborne|Union,05139|22027|22111,False,False,America/Chicago,"(33.07049, -92.81964)",3.8561270016811804,2904.0,20162_0_no,33.03638439100499,-92.87234689828914,5.0

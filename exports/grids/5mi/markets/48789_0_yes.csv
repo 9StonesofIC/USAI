@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56543,46.28541,-96.33654,Foxhome,MN,Minnesota,True,,243.0,1.4,27167,Wilkin,"{""27167"": 100}",Wilkin,27167,False,False,America/Chicago,"(46.28541, -96.33654)",2.097521137535801,243.0,48789_0_yes,46.29506230762273,-96.37819291262326,5.0

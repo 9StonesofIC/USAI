@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36445,31.44397,-87.44982,Frisco City,AL,Alabama,True,,5647.0,14.7,1099,Monroe,"{""01099"": 100}",Monroe,01099,False,False,America/Chicago,"(31.44397, -87.44982)",3.1554829762327112,5647.0,16330_0_no,31.437380305490755,-87.50278872172996,5.0

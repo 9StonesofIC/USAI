@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35653,34.53131,-87.86974,Russellville,AL,Alabama,True,,10621.0,27.4,1059,Franklin,"{""01059"": 79.12, ""01033"": 20.88}",Franklin|Colbert,01059|01033,False,False,America/Chicago,"(34.53131, -87.86974)",5.557509690171373,10621.0,23531_0_no,34.482930390173735,-87.94771836696565,5.0

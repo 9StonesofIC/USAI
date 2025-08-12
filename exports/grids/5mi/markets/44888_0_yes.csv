@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97446,44.26804,-123.05548,Harrisburg,OR,Oregon,True,,5826.0,18.3,41043,Linn,"{""41043"": 99.07, ""41039"": 0.93}",Linn|Lane,41043|41039,False,False,America/Los_Angeles,"(44.26804, -123.05548)",3.92895791332211,5826.0,44888_0_yes,44.29214353138101,-122.983541609111,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45874,40.78765,-84.67777,Ohio City,OH,Ohio,True,,2150.0,14.3,39161,Van Wert,"{""39161"": 100}",Van Wert,39161,False,False,America/New_York,"(40.78765, -84.67777)",5.170540153947358,16974.0,37740_0_no,40.855997013438,-84.63749683696898,5.0
+45891,40.8748,-84.57785,Van Wert,OH,Ohio,True,,14824.0,42.6,39161,Van Wert,"{""39161"": 100}",Van Wert,39161,False,False,America/New_York,"(40.8748, -84.57785)",3.376590402886762,16974.0,37740_0_no,40.855997013438,-84.63749683696898,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80446,40.16335,-105.937,Granby,CO,Colorado,True,,4041.0,4.2,8049,Grand,"{""08049"": 100}",Grand,08049,False,False,America/Denver,"(40.16335, -105.937)",5.049462353009985,4041.0,36299_0_no,40.14928895014965,-106.03083405407487,5.0

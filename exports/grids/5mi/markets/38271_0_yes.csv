@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96017,41.10776,-122.30751,Castella,CA,California,True,,202.0,0.8,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(41.10776, -122.30751)",0.5804521396765153,202.0,38271_0_yes,41.10449838666967,-122.3177847875756,5.0

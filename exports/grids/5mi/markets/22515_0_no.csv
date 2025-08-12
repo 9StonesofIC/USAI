@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35578,33.982,-87.46638,Nauvoo,AL,Alabama,True,,5691.0,18.1,1127,Walker,"{""01127"": 64.53, ""01133"": 35.47}",Walker|Winston,01127|01133,False,False,America/Chicago,"(33.982, -87.46638)",4.770053762333101,5691.0,22515_0_no,34.04762123443991,-87.44050320080393,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30527,34.47948,-83.7863,Clermont,GA,Georgia,True,,3701.0,56.2,13139,Hall,"{""13139"": 100}",Hall,13139,False,False,America/New_York,"(34.47948, -83.7863)",2.463614272646498,3701.0,23507_0_no,34.479916700878974,-83.7430482165613,5.0

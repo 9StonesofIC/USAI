@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24089,36.70392,-79.96078,Fieldale,VA,Virginia,True,,3078.0,96.4,51089,Henry,"{""51089"": 100}",Henry,51089,False,False,America/New_York,"(36.70392, -79.96078)",4.448738813406897,11946.0,28472_0_no,36.65116430904564,-79.91475450785065,5.0
+24148,36.58156,-79.87231,Ridgeway,VA,Virginia,True,,8868.0,48.3,51089,Henry,"{""51089"": 100}",Henry,51089,False,False,America/New_York,"(36.58156, -79.87231)",5.354354655516136,11946.0,28472_0_no,36.65116430904564,-79.91475450785065,5.0

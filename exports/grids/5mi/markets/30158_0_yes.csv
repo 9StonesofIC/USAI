@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42726,37.42423,-86.15035,Clarkson,KY,Kentucky,True,,5260.0,19.7,21085,Grayson,"{""21085"": 100}",Grayson,21085,False,False,America/Chicago,"(37.42423, -86.15035)",4.894731633612057,5260.0,30158_0_yes,37.452803759585606,-86.06870820814478,5.0

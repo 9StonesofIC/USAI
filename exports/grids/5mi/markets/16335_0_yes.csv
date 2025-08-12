@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36028,31.49031,-86.38271,Dozier,AL,Alabama,True,,1474.0,5.0,1039,Covington,"{""01039"": 60.06, ""01041"": 39.94}",Covington|Crenshaw,01039|01041,False,False,America/Chicago,"(31.49031, -86.38271)",1.5724354050904394,1474.0,16335_0_yes,31.509119224225227,-86.36768390711437,5.0

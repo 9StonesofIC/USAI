@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28423,34.27782,-78.40483,Bolton,NC,North Carolina,True,,2791.0,8.8,37047,Columbus,"{""37047"": 96.11, ""37017"": 3.89}",Columbus|Bladen,37047|37017,False,False,America/New_York,"(34.27782, -78.40483)",3.748541510536916,2791.0,23139_0_no,34.33112727801889,-78.39261893293892,5.0

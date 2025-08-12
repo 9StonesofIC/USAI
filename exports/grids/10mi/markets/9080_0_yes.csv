@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80463,39.95523,-106.73888,McCoy,CO,Colorado,True,,185.0,0.6,8107,Routt,"{""08107"": 75.62, ""08037"": 24.38}",Routt|Eagle,08107|08037,False,False,America/Denver,"(39.95523, -106.73888)",10.809194400208053,846.0,9080_0_yes,40.06274928858152,-106.88724623349718,10.0
+80483,40.12482,-106.92124,Yampa,CO,Colorado,True,,661.0,2.6,8107,Routt,"{""08107"": 100}",Routt,08107,False,False,America/Denver,"(40.12482, -106.92124)",4.649853438998451,846.0,9080_0_yes,40.06274928858152,-106.88724623349718,10.0

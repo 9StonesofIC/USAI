@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64434,40.2584,-94.73615,Conception Junction,MO,Missouri,True,,498.0,5.2,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago,"(40.2584, -94.73615)",4.98347064426328,15995.0,36552_0_no,40.28501219848872,-94.82401189985406,5.0
+64468,40.34241,-94.8811,Maryville,MO,Missouri,True,,15497.0,41.3,29147,Nodaway,"{""29147"": 100}",Nodaway,29147,False,False,America/Chicago,"(40.34241, -94.8811)",4.97731985970034,15995.0,36552_0_no,40.28501219848872,-94.82401189985406,5.0

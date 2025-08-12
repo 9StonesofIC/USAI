@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14883,42.24056,-76.482,Spencer,NY,New York,True,,4808.0,25.6,36107,Tioga,"{""36107"": 69.85, ""36109"": 30.15}",Tioga|Tompkins,36107|36109,False,False,America/New_York,"(42.24056, -76.482)",4.091424459740286,4808.0,40756_0_no,42.29712348202583,-76.50568106448834,5.0

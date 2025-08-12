@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39209,32.39498,-90.30168,Jackson,MS,Mississippi,True,,26835.0,166.3,28049,Hinds,"{""28049"": 96.78, ""28089"": 3.22}",Hinds|Madison,28049|28089,False,False,America/Chicago,"(32.39498, -90.30168)",4.70723085810014,26835.0,18773_0_no,32.45454264643391,-90.34086083809518,5.0

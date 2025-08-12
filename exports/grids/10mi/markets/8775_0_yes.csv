@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84501,39.53214,-110.80393,Price,UT,Utah,True,,12983.0,23.3,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver,"(39.53214, -110.80393)",3.206907848258088,14575.0,8775_0_yes,39.48958226394103,-110.77992087802588,10.0
+84518,39.3917,-110.88478,Cleveland,UT,Utah,True,,831.0,4.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(39.3917, -110.88478)",8.777541459701768,14575.0,8775_0_yes,39.48958226394103,-110.77992087802588,10.0
+84521,39.4213,-110.78709,Elmo,UT,Utah,True,,761.0,5.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(39.4213, -110.78709)",4.733332090067431,14575.0,8775_0_yes,39.48958226394103,-110.77992087802588,10.0

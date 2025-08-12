@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59230,48.09992,-106.80196,Glasgow,MT,Montana,True,,4483.0,1.2,30105,Valley,"{""30105"": 100}",Valley,30105,False,False,America/Denver,"(48.09992, -106.80196)",4.828314735643395,4483.0,13197_0_yes,48.16881552754637,-106.81948247092794,10.0

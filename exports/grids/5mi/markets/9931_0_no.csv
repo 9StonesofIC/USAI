@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32764,28.83883,-81.07239,Osteen,FL,Florida,True,,3043.0,12.4,12127,Volusia,"{""12127"": 100}",Volusia,12127,False,False,America/New_York,"(28.83883, -81.07239)",1.5283533536882628,3043.0,9931_0_no,28.82214431860707,-81.0558133879113,5.0

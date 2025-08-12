@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82190,44.57439,-110.51807,Yellowstone National Park,WY,Wyoming,True,,1183.0,0.2,56029,Park,"{""56029"": 55.76, ""56039"": 44.24}",Park|Teton,56029|56039,False,False,America/Denver,"(44.57439, -110.51807)",9.798201430739402,1183.0,2919_0_yes,44.676411944218245,-110.37967453532588,20.0

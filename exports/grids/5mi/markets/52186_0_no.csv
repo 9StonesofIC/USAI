@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59929,47.92365,-114.40272,Proctor,MT,Montana,True,,234.0,2.2,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.92365, -114.40272)",4.190517285547285,559.0,52186_0_no,47.97600777459696,-114.35701565510236,5.0
+59931,47.9208,-114.25486,Rollins,MT,Montana,True,,325.0,4.4,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.9208, -114.25486)",6.074609962511621,559.0,52186_0_no,47.97600777459696,-114.35701565510236,5.0

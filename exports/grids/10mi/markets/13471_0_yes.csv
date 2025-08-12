@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59537,48.84762,-107.93725,Loring,MT,Montana,True,,70.0,0.1,30071,Phillips,"{""30071"": 100}",Phillips,30071,False,False,America/Denver,"(48.84762, -107.93725)",6.80295145581183,70.0,13471_0_yes,48.7495114055834,-107.924629145807,10.0

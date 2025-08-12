@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29653,34.30028,-82.23173,Hodges,SC,South Carolina,True,,4310.0,23.5,45047,Greenwood,"{""45047"": 92.73, ""45001"": 7.27}",Greenwood|Abbeville,45047|45001,False,False,America/New_York,"(34.30028, -82.23173)",2.369522482936721,4310.0,23161_0_no,34.33387455694681,-82.24007602747572,5.0

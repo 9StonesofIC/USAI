@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97908,44.25679,-117.94828,Ironside,OR,Oregon,True,,31.0,0.0,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise,"(44.25679, -117.94828)",2.5130706506870504,31.0,11370_0_no,44.28173793071623,-117.98524230049664,10.0

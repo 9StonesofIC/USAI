@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04623,44.70786,-67.70824,Columbia Falls,ME,Maine,True,,1011.0,3.3,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.70786, -67.70824)",4.883107730738123,1011.0,45755_0_no,44.74993665570043,-67.78816674814814,5.0

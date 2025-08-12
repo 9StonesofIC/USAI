@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73660,35.62561,-99.91688,Reydon,OK,Oklahoma,True,,295.0,0.9,40129,Roger Mills,"{""40129"": 100}",Roger Mills,40129,False,False,America/Chicago,"(35.62561, -99.91688)",4.107543378826555,295.0,25960_0_yes,35.57898519644772,-99.96224173750166,5.0

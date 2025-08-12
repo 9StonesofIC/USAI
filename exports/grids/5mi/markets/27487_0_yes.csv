@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27922,36.32118,-76.84837,Cofield,NC,North Carolina,True,,530.0,4.8,37091,Hertford,"{""37091"": 100}",Hertford,37091,False,False,America/New_York,"(36.32118, -76.84837)",3.612031305584605,1035.0,27487_0_yes,36.28651205098324,-76.79981626651835,5.0
+27942,36.28785,-76.7597,Harrellsville,NC,North Carolina,True,,505.0,7.0,37091,Hertford,"{""37091"": 100}",Hertford,37091,False,False,America/New_York,"(36.28785, -76.7597)",2.2361265659600624,1035.0,27487_0_yes,36.28651205098324,-76.79981626651835,5.0

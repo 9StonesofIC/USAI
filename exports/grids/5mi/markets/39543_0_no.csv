@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16932,41.77574,-76.94017,Mainesburg,PA,Pennsylvania,True,,810.0,15.8,42117,Tioga,"{""42117"": 100}",Tioga,42117,False,False,America/New_York,"(41.77574, -76.94017)",3.965385196664865,1120.0,39543_0_no,41.718390981531925,-76.94313430620994,5.0
+16939,41.68097,-77.0141,Morris Run,PA,Pennsylvania,True,,310.0,289.4,42117,Tioga,"{""42117"": 100}",Tioga,42117,False,False,America/New_York,"(41.68097, -77.0141)",4.481943318892189,1120.0,39543_0_no,41.718390981531925,-76.94313430620994,5.0

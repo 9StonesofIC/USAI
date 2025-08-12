@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57344,43.45575,-98.61796,Harrison,SD,South Dakota,True,,66.0,0.7,46043,Douglas,"{""46043"": 100}",Douglas,46043,False,False,America/Chicago,"(43.45575, -98.61796)",4.365601377491523,66.0,42995_0_yes,43.40190574473735,-98.57243599799686,5.0

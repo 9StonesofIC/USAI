@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35673,34.58601,-87.13166,Trinity,AL,Alabama,True,,7971.0,66.6,1079,Lawrence,"{""01079"": 71.66, ""01103"": 28.34}",Lawrence|Morgan,01079|01103,False,False,America/Chicago,"(34.58601, -87.13166)",2.28136731559862,7971.0,23543_0_yes,34.554787837659525,-87.11861380767905,5.0

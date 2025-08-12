@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22835,38.67199,-78.4548,Luray,VA,Virginia,True,,12077.0,31.2,51139,Page,"{""51139"": 100}",Page,51139,False,False,America/New_York,"(38.67199, -78.4548)",1.7976826121182823,12077.0,32995_0_no,38.67842219912481,-78.48709217197357,5.0

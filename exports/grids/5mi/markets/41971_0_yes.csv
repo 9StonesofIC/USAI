@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05201,42.87652,-73.1426,Bennington,VT,Vermont,True,,14147.0,55.1,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York,"(42.87652, -73.1426)",4.911015397509728,16388.0,41971_0_yes,42.94558274578972,-73.11965534557157,5.0
+05262,42.97935,-73.12066,Shaftsbury,VT,Vermont,True,,2241.0,12.0,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York,"(42.97935, -73.12066)",2.3336479831578156,16388.0,41971_0_yes,42.94558274578972,-73.11965534557157,5.0

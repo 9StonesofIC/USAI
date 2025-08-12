@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59831,47.27732,-114.36296,Dixon,MT,Montana,True,,498.0,1.9,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver,"(47.27732, -114.36296)",3.8671221756600835,498.0,50808_0_no,47.25232066771771,-114.28916792512302,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82639,43.73555,-106.6978,Kaycee,WY,Wyoming,True,,762.0,0.3,56019,Johnson,"{""56019"": 94.35, ""56025"": 5.65}",Johnson|Natrona,56019|56025,False,False,America/Denver,"(43.73555, -106.6978)",2.8913961972737487,762.0,43898_0_no,43.77105784205438,-106.72845850784354,5.0

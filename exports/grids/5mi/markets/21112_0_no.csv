@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29564,33.47686,-79.85522,Lane,SC,South Carolina,True,,1106.0,8.3,45089,Williamsburg,"{""45089"": 100}",Williamsburg,45089,False,False,America/New_York,"(33.47686, -79.85522)",2.8602966593091113,1106.0,21112_0_no,33.46238438793959,-79.90171386014815,5.0

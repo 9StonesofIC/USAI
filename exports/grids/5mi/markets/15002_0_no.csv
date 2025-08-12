@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76848,30.83928,-99.5637,Hext,TX,Texas,True,,79.0,0.4,48327,Menard,"{""48327"": 100}",Menard,48327,False,False,America/Chicago,"(30.83928, -99.5637)",3.70855876946273,79.0,15002_0_no,30.864979314812715,-99.50881057978395,5.0

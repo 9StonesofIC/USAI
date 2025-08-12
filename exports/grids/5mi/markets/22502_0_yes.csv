@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29620,34.1813,-82.42804,Abbeville,SC,South Carolina,True,,12413.0,19.4,45001,Abbeville,"{""45001"": 96.08, ""45065"": 3.92}",Abbeville|McCormick,45001|45065,False,False,America/New_York,"(34.1813, -82.42804)",4.476534731490787,12413.0,22502_0_yes,34.11652021347706,-82.42940230005476,5.0

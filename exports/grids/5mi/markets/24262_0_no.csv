@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73541,34.78716,-98.1788,Fletcher,OK,Oklahoma,True,,3329.0,14.9,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago,"(34.78716, -98.1788)",0.8840134051333579,4048.0,24262_0_no,34.780277571234706,-98.19193224696627,5.0
+73567,34.7474,-98.17093,Sterling,OK,Oklahoma,True,,719.0,225.2,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago,"(34.7474, -98.17093)",2.565422281404022,4048.0,24262_0_no,34.780277571234706,-98.19193224696627,5.0

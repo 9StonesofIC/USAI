@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93920,36.03164,-121.52592,Big Sur,CA,California,True,,1430.0,3.5,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.03164, -121.52592)",11.087516994092084,1430.0,7019_0_no,36.17270152151241,-121.62060583994244,10.0

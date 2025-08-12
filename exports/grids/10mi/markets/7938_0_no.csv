@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67835,37.98071,-100.31746,Cimarron,KS,Kansas,True,,2929.0,2.3,20069,Gray,"{""20069"": 49.28, ""20055"": 43.04, ""20083"": 7.68}",Gray|Finney|Hodgeman,20069|20055|20083,False,False,America/Chicago,"(37.98071, -100.31746)",6.992129697328362,2929.0,7938_0_no,37.87956609333568,-100.32166218259214,10.0

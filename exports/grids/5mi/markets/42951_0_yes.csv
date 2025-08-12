@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53951,43.39087,-89.86633,North Freedom,WI,Wisconsin,True,,2671.0,14.1,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago,"(43.39087, -89.86633)",1.755945114411297,2671.0,42951_0_yes,43.39431425739569,-89.8316790262273,5.0

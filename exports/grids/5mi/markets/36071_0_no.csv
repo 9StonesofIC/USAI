@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96092,39.97344,-121.97342,Vina,CA,California,True,,320.0,1.9,6103,Tehama,"{""06103"": 100}",Tehama,06103,False,False,America/Los_Angeles,"(39.97344, -121.97342)",4.759322652754913,320.0,36071_0_no,40.01730469409164,-121.90409443885288,5.0

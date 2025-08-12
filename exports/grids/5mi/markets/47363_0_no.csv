@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57633,45.44584,-101.50046,Isabel,SD,South Dakota,True,,417.0,0.2,46031,Corson,"{""46031"": 44.39, ""46137"": 34.43, ""46041"": 21.18}",Corson|Ziebach|Dewey,46031|46137|46041,False,False,America/Denver,"(45.44584, -101.50046)",4.932847115703113,417.0,47363_0_no,45.50367394125272,-101.44076327579924,5.0

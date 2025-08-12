@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86327,34.55682,-112.11089,Dewey,AZ,Arizona,True,,10593.0,15.9,4025,Yavapai,"{""04025"": 100}",Yavapai,04025,False,False,America/Phoenix,"(34.55682, -112.11089)",4.97311837918387,10593.0,23686_0_yes,34.57279944959943,-112.19611381759756,5.0

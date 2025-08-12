@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64001,39.10464,-93.53683,Alma,MO,Missouri,True,,877.0,9.5,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago,"(39.10464, -93.53683)",4.125976948063152,1591.0,33734_0_yes,39.0525373386942,-93.57441570803464,5.0
+64021,39.11498,-93.624,Corder,MO,Missouri,True,,714.0,6.5,29107,Lafayette,"{""29107"": 100}",Lafayette,29107,False,False,America/Chicago,"(39.11498, -93.624)",5.068112182240495,1591.0,33734_0_yes,39.0525373386942,-93.57441570803464,5.0

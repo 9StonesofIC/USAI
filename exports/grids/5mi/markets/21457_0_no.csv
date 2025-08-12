@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29030,33.57917,-80.65441,Cameron,SC,South Carolina,True,,1772.0,7.2,45017,Calhoun,"{""45017"": 79.52, ""45075"": 20.48}",Calhoun|Orangeburg,45017|45075,False,False,America/New_York,"(33.57917, -80.65441)",3.000164052689387,1772.0,21457_0_no,33.60791738479243,-80.69347796152707,5.0

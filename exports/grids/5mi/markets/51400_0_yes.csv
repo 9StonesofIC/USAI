@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83814,47.63717,-116.75811,Coeur D Alene,ID,Idaho,True,,26174.0,52.1,16055,Kootenai,"{""16055"": 100}",Kootenai,16055,False,False,America/Los_Angeles,"(47.63717, -116.75811)",5.159496057233311,26174.0,51400_0_yes,47.61649345913603,-116.86457766020268,5.0

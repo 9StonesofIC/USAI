@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64457,40.15886,-94.68368,Guilford,MO,Missouri,True,,198.0,2.0,29147,Nodaway,"{""29147"": 85.47, ""29003"": 14.53}",Nodaway|Andrew,29147|29003,False,False,America/Chicago,"(40.15886, -94.68368)",1.5368539472798768,198.0,36239_0_no,40.140048550703874,-94.6992086397932,5.0

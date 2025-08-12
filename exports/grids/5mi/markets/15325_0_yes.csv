@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71438,31.10092,-92.87511,Hineston,LA,Louisiana,True,,1285.0,3.6,22115,Vernon,"{""22115"": 70.28, ""22079"": 29.72}",Vernon|Rapides,22115|22079,False,False,America/Chicago,"(31.10092, -92.87511)",4.886081261413542,1285.0,15325_0_yes,31.078292700660917,-92.95334721460613,5.0

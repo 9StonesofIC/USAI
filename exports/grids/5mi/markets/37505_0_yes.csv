@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50074,40.85685,-94.07524,Ellston,IA,Iowa,True,,303.0,2.4,19159,Ringgold,"{""19159"": 85.09, ""19175"": 14.91}",Ringgold|Union,19159|19175,False,False,America/Chicago,"(40.85685, -94.07524)",4.765101349231934,518.0,37505_0_yes,40.79136177632896,-94.1038163758306,5.0
+50863,40.84701,-94.17318,Tingley,IA,Iowa,True,,215.0,3.0,19159,Ringgold,"{""19159"": 100}",Ringgold,19159,False,False,America/Chicago,"(40.84701, -94.17318)",5.285629290392928,518.0,37505_0_yes,40.79136177632896,-94.1038163758306,5.0

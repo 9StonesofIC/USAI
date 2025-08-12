@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21550,39.39107,-79.39085,Oakland,MD,Maryland,True,,14327.0,26.9,24023,Garrett,"{""24023"": 100}",Garrett,24023,False,False,America/New_York,"(39.39107, -79.39085)",3.974233135002605,14327.0,34587_0_no,39.40333628124554,-79.31812852858157,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84307,41.5535,-112.49192,Corinne,UT,Utah,True,,969.0,0.6,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.5535, -112.49192)",5.07923585534902,969.0,39422_0_no,41.60350446195798,-112.56395499300938,5.0

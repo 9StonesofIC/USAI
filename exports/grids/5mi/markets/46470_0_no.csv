@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56282,45.03089,-95.21862,Raymond,MN,Minnesota,True,,1615.0,5.8,27067,Kandiyohi,"{""27067"": 67.29, ""27023"": 32.71}",Kandiyohi|Chippewa,27067|27023,False,False,America/Chicago,"(45.03089, -95.21862)",3.943953925961667,1615.0,46470_0_no,45.0639044233038,-95.28452805486351,5.0

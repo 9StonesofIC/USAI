@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59748,46.04611,-112.69601,Ramsay,MT,Montana,True,,245.0,4.4,30093,Silver Bow,"{""30093"": 100}",Silver Bow,30093,False,False,America/Denver,"(46.04611, -112.69601)",5.011373771958583,635.0,12222_0_no,46.009636807750745,-112.78630509831596,10.0
+59750,45.91857,-112.68323,Butte,MT,Montana,True,,390.0,1.5,30093,Silver Bow,"{""30093"": 100}",Silver Bow,30093,False,False,America/Denver,"(45.91857, -112.68323)",8.006092168334426,635.0,12222_0_no,46.009636807750745,-112.78630509831596,10.0

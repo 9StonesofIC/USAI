@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82520,42.65919,-108.63282,Lander,WY,Wyoming,True,,13250.0,3.4,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver,"(42.65919, -108.63282)",3.8744090871299655,13250.0,41551_0_yes,42.68657439607638,-108.69937495388083,5.0

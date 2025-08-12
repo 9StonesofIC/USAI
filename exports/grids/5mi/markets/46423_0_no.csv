@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49670,45.12088,-85.62096,Northport,MI,Michigan,True,,2060.0,21.6,26089,Leelanau,"{""26089"": 100}",Leelanau,26089,False,False,America/Detroit,"(45.12088, -85.62096)",5.404915179210214,2104.0,46423_0_no,45.05531421830034,-85.68139313729117,5.0
+49674,45.0544,-85.58882,Omena,MI,Michigan,True,,44.0,7.4,26089,Leelanau,"{""26089"": 100}",Leelanau,26089,False,False,America/Detroit,"(45.0544, -85.58882)",4.5189014407452195,2104.0,46423_0_no,45.05531421830034,-85.68139313729117,5.0

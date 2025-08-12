@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84654,38.89144,-111.64442,Salina,UT,Utah,True,,2886.0,4.3,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.89144, -111.64442)",4.880987394090657,2886.0,33492_0_no,38.84952550843016,-111.57138165534565,5.0

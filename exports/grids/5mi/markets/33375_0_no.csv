@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62025,38.83004,-89.93298,Edwardsville,IL,Illinois,True,,35691.0,122.8,17119,Madison,"{""17119"": 100}",Madison,17119,False,False,America/Chicago,"(38.83004, -89.93298)",2.6610415587579084,36439.0,33375_0_no,38.83231798680835,-89.88362646522401,5.0
+62046,38.88935,-89.84397,Hamel,IL,Illinois,True,,748.0,271.7,17119,Madison,"{""17119"": 100}",Madison,17119,False,False,America/Chicago,"(38.88935, -89.84397)",4.481062139462714,36439.0,33375_0_no,38.83231798680835,-89.88362646522401,5.0

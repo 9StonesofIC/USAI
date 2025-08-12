@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37692,36.18456,-82.30413,Unicoi,TN,Tennessee,True,,4780.0,34.8,47171,Unicoi,"{""47171"": 100}",Unicoi,47171,False,False,America/New_York,"(36.18456, -82.30413)",3.911226791057695,4780.0,27187_0_yes,36.14567323655854,-82.25317481153411,5.0

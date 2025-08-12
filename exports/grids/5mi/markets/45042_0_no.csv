@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57532,44.36129,-100.56405,Fort Pierre,SD,South Dakota,True,,3020.0,0.9,46117,Stanley,"{""46117"": 85.29, ""46085"": 14.71}",Stanley|Lyman,46117|46085,False,False,America/Denver,"(44.36129, -100.56405)",3.587408647386738,3020.0,45042_0_no,44.34473571887981,-100.49522734126602,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98537,46.81719,-123.59768,Cosmopolis,WA,Washington,True,,2487.0,5.9,53027,Grays Harbor,"{""53027"": 66.86, ""53049"": 33.14}",Grays Harbor|Pacific,53027|53049,False,False,America/Los_Angeles,"(46.81719, -123.59768)",2.778160018714764,2487.0,50017_0_no,46.826731562359,-123.65476327548744,5.0

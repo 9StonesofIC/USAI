@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24413,38.50753,-79.55925,Blue Grass,VA,Virginia,True,,266.0,4.3,51091,Highland,"{""51091"": 100}",Highland,51091,False,False,America/New_York,"(38.50753, -79.55925)",4.891289187550347,1616.0,32382_0_yes,38.46198853358218,-79.62848977432392,5.0
+24465,38.39611,-79.64636,Monterey,VA,Virginia,True,,1350.0,2.7,51091,Highland,"{""51091"": 100}",Highland,51091,False,False,America/New_York,"(38.39611, -79.64636)",4.653408328117244,1616.0,32382_0_yes,38.46198853358218,-79.62848977432392,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80746,40.60706,-102.45695,Paoli,CO,Colorado,True,,73.0,18.0,8095,Phillips,"{""08095"": 100}",Phillips,08095,False,False,America/Denver,"(40.60706, -102.45695)",2.409616986127115,73.0,37214_0_no,40.581030122748345,-102.48751580226973,5.0

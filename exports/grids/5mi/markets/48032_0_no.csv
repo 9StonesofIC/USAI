@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98605,45.77846,-121.6393,Bingen,WA,Washington,True,,1089.0,10.6,53059,Skamania,"{""53059"": 92.31, ""53039"": 7.69}",Skamania|Klickitat,53059|53039,False,False,America/Los_Angeles,"(45.77846, -121.6393)",2.74947378799505,1089.0,48032_0_no,45.81143305268257,-121.607347873976,5.0

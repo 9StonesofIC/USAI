@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67049,37.17059,-97.84646,Freeport,KS,Kansas,True,,129.0,1.3,20077,Harper,"{""20077"": 88.86, ""20191"": 11.14}",Harper|Sumner,20077|20191,False,False,America/Chicago,"(37.17059, -97.84646)",6.80533596211595,129.0,29552_0_no,37.099494185768165,-97.76095490627485,5.0

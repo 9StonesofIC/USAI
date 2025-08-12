@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28580,35.45116,-77.68053,Snow Hill,NC,North Carolina,True,,13084.0,46.7,37079,Greene,"{""37079"": 99.63, ""37107"": 0.37}",Greene|Lenoir,37079|37107,False,False,America/New_York,"(35.45116, -77.68053)",4.008065515532759,13084.0,25817_0_no,35.490190758526026,-77.73322426992391,5.0

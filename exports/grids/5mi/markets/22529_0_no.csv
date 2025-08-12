@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38948,34.07635,-89.89364,Oakland,MS,Mississippi,True,,2361.0,8.8,28161,Yalobusha,"{""28161"": 69.26, ""28135"": 30.74}",Yalobusha|Tallahatchie,28161|28135,False,False,America/Chicago,"(34.07635, -89.89364)",2.0072894408823068,2361.0,22529_0_no,34.04935106493867,-89.88069147372991,5.0

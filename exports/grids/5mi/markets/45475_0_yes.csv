@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97326,44.62794,-123.61573,Blodgett,OR,Oregon,True,,1397.0,4.6,41041,Lincoln,"{""41041"": 61.03, ""41003"": 38.97}",Lincoln|Benton,41041|41003,False,False,America/Los_Angeles,"(44.62794, -123.61573)",3.5739296284715056,1397.0,45475_0_yes,44.58232150376848,-123.58148225547372,5.0

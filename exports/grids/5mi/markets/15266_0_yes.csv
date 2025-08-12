@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31635,31.103,-83.04317,Lakeland,GA,Georgia,True,,6961.0,18.8,13173,Lanier,"{""13173"": 78.54, ""13003"": 11.73, ""13065"": 9.72}",Lanier|Atkinson|Clinch,13173|13003|13065,False,False,America/New_York,"(31.103, -83.04317)",3.1898117973388835,6961.0,15266_0_yes,31.07178716582393,-83.0034488246303,5.0

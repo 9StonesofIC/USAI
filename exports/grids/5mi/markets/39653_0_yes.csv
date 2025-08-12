@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50141,41.86889,-92.95634,Laurel,IA,Iowa,True,,419.0,4.3,19127,Marshall,"{""19127"": 57.13, ""19099"": 42.87}",Marshall|Jasper,19127|19099,False,False,America/Chicago,"(41.86889, -92.95634)",6.216867731970163,419.0,39653_0_yes,41.80430228055616,-93.04042181475477,5.0

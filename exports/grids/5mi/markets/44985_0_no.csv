@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54983,44.31651,-88.93614,Weyauwega,WI,Wisconsin,True,,4299.0,20.2,55135,Waupaca,"{""55135"": 93.11, ""55137"": 6.89}",Waupaca|Waushara,55135|55137,False,False,America/Chicago,"(44.31651, -88.93614)",3.04405192200981,4299.0,44985_0_no,44.33457466804339,-88.99231035186955,5.0

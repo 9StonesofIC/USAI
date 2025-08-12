@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89415,38.50993,-118.77958,Hawthorne,NV,Nevada,True,,3101.0,3.2,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles,"(38.50993, -118.77958)",9.166908402933288,3101.0,8319_0_yes,38.63275437144229,-118.71541572912616,10.0

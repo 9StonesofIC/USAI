@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65203,38.89497,-92.39928,Columbia,MO,Missouri,True,,58271.0,301.3,29019,Boone,"{""29019"": 100}",Boone,29019,False,False,America/Chicago,"(38.89497, -92.39928)",3.3057691383978938,58548.0,33409_0_yes,38.90666820279608,-92.33966714066156,5.0
+65215,38.95171,-92.32043,Columbia,MO,Missouri,True,,277.0,3000.0,29019,Boone,"{""29019"": 100}",Boone,29019,False,False,America/Chicago,"(38.95171, -92.32043)",3.279365527625836,58548.0,33409_0_yes,38.90666820279608,-92.33966714066156,5.0

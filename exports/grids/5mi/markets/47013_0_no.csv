@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54175,45.30552,-88.62394,Townsend,WI,Wisconsin,True,,1055.0,7.5,55083,Oconto,"{""55083"": 98.96, ""55067"": 1.04}",Oconto|Langlade,55083|55067,False,False,America/Chicago,"(45.30552, -88.62394)",4.169654697791365,1055.0,47013_0_no,45.34734508765065,-88.56206326051091,5.0

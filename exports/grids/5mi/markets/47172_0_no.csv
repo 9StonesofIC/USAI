@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97021,45.39048,-121.13425,Dufur,OR,Oregon,True,,1283.0,1.9,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles,"(45.39048, -121.13425)",4.3579355066479915,1283.0,47172_0_no,45.37671189434064,-121.22188642675282,5.0

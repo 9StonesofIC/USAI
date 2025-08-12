@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45650,38.74415,-83.42099,Lynx,OH,Ohio,True,,331.0,8.6,39001,Adams,"{""39001"": 100}",Adams,39001,False,False,America/New_York,"(38.74415, -83.42099)",5.348249618456447,331.0,33022_0_no,38.68237058670316,-83.4807590490742,5.0

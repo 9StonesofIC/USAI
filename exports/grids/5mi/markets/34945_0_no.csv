@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47805,39.54768,-87.32739,Terre Haute,IN,Indiana,True,,12543.0,92.8,18167,Vigo,"{""18167"": 100}",Vigo,18167,False,False,America/Indiana/Indianapolis,"(39.54768, -87.32739)",2.843252249366116,12889.0,34945_0_no,39.55458647850586,-87.27477760792702,5.0
+47881,39.48722,-87.19029,Staunton,IN,Indiana,True,,346.0,902.0,18021,Clay,"{""18021"": 100}",Clay,18021,False,False,America/Indiana/Indianapolis,"(39.48722, -87.19029)",6.476296183827382,12889.0,34945_0_no,39.55458647850586,-87.27477760792702,5.0

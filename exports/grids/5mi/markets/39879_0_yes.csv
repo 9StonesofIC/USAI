@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16923,41.94103,-77.8761,Genesee,PA,Pennsylvania,True,,1481.0,7.4,42105,Potter,"{""42105"": 100}",Potter,42105,False,False,America/New_York,"(41.94103, -77.8761)",2.364504915617569,1569.0,39879_0_yes,41.93626542474004,-77.83054234957905,5.0
+16941,41.98841,-77.75796,Genesee,PA,Pennsylvania,True,,88.0,14.0,42105,Potter,"{""42105"": 100}",Potter,42105,False,False,America/New_York,"(41.98841, -77.75796)",5.1852006111903455,1569.0,39879_0_yes,41.93626542474004,-77.83054234957905,5.0

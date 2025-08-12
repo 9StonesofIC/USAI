@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46793,41.46106,-85.01928,Waterloo,IN,Indiana,True,,4908.0,35.7,18033,DeKalb,"{""18033"": 99.14, ""18151"": 0.86}",DeKalb|Steuben,18033|18151,False,False,America/Indiana/Indianapolis,"(41.46106, -85.01928)",2.421315394019862,4908.0,38973_0_no,41.43560309696672,-85.0514110054028,5.0

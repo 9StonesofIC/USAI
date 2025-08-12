@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88220,32.31421,-104.41732,Carlsbad,NM,New Mexico,True,,37269.0,7.5,35015,Eddy,"{""35015"": 100}",Eddy,35015,False,False,America/Denver,"(32.31421, -104.41732)",0.5514089562200315,37269.0,18510_0_no,32.31903590503723,-104.40979883835234,5.0

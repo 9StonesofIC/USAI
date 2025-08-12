@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64769,37.48028,-94.56688,Mindenmines,MO,Missouri,True,,709.0,6.7,29011,Barton,"{""29011"": 100}",Barton,29011,False,False,America/Chicago,"(37.48028, -94.56688)",3.1390252915957744,4107.0,30205_0_yes,37.459382703119466,-94.61770722057057,5.0
+66763,37.46063,-94.6965,Frontenac,KS,Kansas,True,,3398.0,209.4,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago,"(37.46063, -94.6965)",4.32223658994719,4107.0,30205_0_yes,37.459382703119466,-94.61770722057057,5.0

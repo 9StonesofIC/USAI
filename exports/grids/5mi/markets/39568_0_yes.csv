@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18814,41.78151,-76.60121,Burlington,PA,Pennsylvania,True,,205.0,102.0,42015,Bradford,"{""42015"": 100}",Bradford,42015,False,False,America/New_York,"(41.78151, -76.60121)",1.1825749574225204,2170.0,39568_0_yes,41.79043153358905,-76.5816207674166,5.0
+18850,41.85916,-76.49126,Ulster,PA,Pennsylvania,True,,1965.0,12.2,42015,Bradford,"{""42015"": 100}",Bradford,42015,False,False,America/New_York,"(41.85916, -76.49126)",6.647956782854527,2170.0,39568_0_yes,41.79043153358905,-76.5816207674166,5.0

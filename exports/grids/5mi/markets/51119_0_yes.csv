@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83846,47.47308,-115.75009,Mullan,ID,Idaho,True,,838.0,9.1,16079,Shoshone,"{""16079"": 100}",Shoshone,16079,False,False,America/Los_Angeles,"(47.47308, -115.75009)",3.2465680352284947,838.0,51119_0_yes,47.470788813776345,-115.81952133854227,5.0

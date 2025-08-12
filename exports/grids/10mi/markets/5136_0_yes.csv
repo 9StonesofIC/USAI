@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87901,33.1753,-107.01908,Truth Or Consequences,NM,New Mexico,True,,6263.0,2.2,35051,Sierra,"{""35051"": 100}",Sierra,35051,False,False,America/Denver,"(33.1753, -107.01908)",5.495625045454467,6263.0,5136_0_yes,33.10627529323833,-107.0662809891268,10.0

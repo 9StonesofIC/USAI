@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74022,36.93055,-95.98054,Copan,OK,Oklahoma,True,,1908.0,6.2,40147,Washington,"{""40147"": 57.49, ""40113"": 42.51}",Washington|Osage,40147|40113,False,False,America/Chicago,"(36.93055, -95.98054)",2.090159098610483,1908.0,29216_0_no,36.95321367027844,-96.00561026793936,5.0

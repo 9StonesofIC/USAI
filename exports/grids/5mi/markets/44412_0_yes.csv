@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49411,44.11006,-86.25385,Free Soil,MI,Michigan,True,,1504.0,5.3,26105,Mason,"{""26105"": 95.07, ""26101"": 4.93}",Mason|Manistee,26105|26101,False,False,America/Detroit,"(44.11006, -86.25385)",3.2716201260608107,1504.0,44412_0_yes,44.11493138247102,-86.18824957891142,5.0

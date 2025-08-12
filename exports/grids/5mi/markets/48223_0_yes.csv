@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58030,46.03035,-96.66818,Fairmount,ND,North Dakota,True,,613.0,1.8,38077,Richland,"{""38077"": 98.67, ""27167"": 1.33}",Richland|Wilkin,38077|27167,False,False,America/Chicago,"(46.03035, -96.66818)",3.651126576649666,613.0,48223_0_yes,46.00594433028479,-96.73567391778606,5.0

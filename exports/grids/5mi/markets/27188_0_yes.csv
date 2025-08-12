@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37650,36.10416,-82.45938,Erwin,TN,Tennessee,True,,12960.0,51.6,47171,Unicoi,"{""47171"": 96.06, ""47179"": 3.94}",Unicoi|Washington,47171|47179,False,False,America/New_York,"(36.10416, -82.45938)",3.2581839826049035,12960.0,27188_0_yes,36.14580673529242,-82.43199573019534,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59323,45.91234,-106.7032,Colstrip,MT,Montana,True,,2375.0,17.2,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver,"(45.91234, -106.7032)",3.9015795906591095,2375.0,47987_0_yes,45.87030512360306,-106.75737327395696,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27943,35.21432,-75.69363,Hatteras,NC,North Carolina,True,,373.0,53.8,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.21432, -75.69363)",20.61608936906175,1346.0,1611_0_no,35.02012758941836,-75.9705807272526,20.0
+27960,35.12593,-75.92165,Ocracoke,NC,North Carolina,True,,973.0,43.2,37095,Hyde,"{""37095"": 100}",Hyde,37095,False,False,America/New_York,"(35.12593, -75.92165)",7.816363258954597,1346.0,1611_0_no,35.02012758941836,-75.9705807272526,20.0

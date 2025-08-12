@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49274,41.83689,-84.76419,Reading,MI,Michigan,True,,3310.0,20.7,26059,Hillsdale,"{""26059"": 84.12, ""26023"": 15.88}",Hillsdale|Branch,26059|26023,False,False,America/Detroit,"(41.83689, -84.76419)",2.459842834141249,3310.0,39888_0_no,41.86978772990557,-84.78246141535558,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56136,44.50187,-96.41645,Hendricks,MN,Minnesota,True,,1106.0,3.8,27081,Lincoln,"{""27081"": 77.68, ""46011"": 22.32}",Lincoln|Brookings,27081|46011,False,False,America/Chicago,"(44.50187, -96.41645)",1.7639151900339471,1106.0,45314_0_no,44.48587178072334,-96.38855959332952,5.0

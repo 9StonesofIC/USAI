@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29691,34.78547,-83.07669,Walhalla,SC,South Carolina,True,,12141.0,75.4,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York,"(34.78547, -83.07669)",1.1435869613870264,17576.0,24176_0_no,34.76936030451111,-83.07206621034851,5.0
+29696,34.77458,-83.00771,West Union,SC,South Carolina,True,,5435.0,95.8,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York,"(34.77458, -83.00771)",3.670316953901324,17576.0,24176_0_no,34.76936030451111,-83.07206621034851,5.0

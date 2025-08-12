@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41314,37.44008,-83.63743,Booneville,KY,Kentucky,True,,4777.0,10.4,21189,Owsley,"{""21189"": 74.78, ""21025"": 25.22}",Owsley|Breathitt,21189|21025,False,False,America/New_York,"(37.44008, -83.63743)",3.7406556678159135,4777.0,30145_0_yes,37.450984326305765,-83.70422365180777,5.0

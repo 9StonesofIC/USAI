@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27563,36.4312,-78.23343,Norlina,NC,North Carolina,True,,4914.0,26.6,37185,Warren,"{""37185"": 97.02, ""37181"": 2.98}",Warren|Vance,37185|37181,False,False,America/New_York,"(36.4312, -78.23343)",4.855003944798727,4914.0,27824_0_yes,36.43243046655176,-78.14610760491757,5.0

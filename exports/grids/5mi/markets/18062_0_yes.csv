@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31803,32.30501,-84.51682,Buena Vista,GA,Georgia,True,,5367.0,7.3,13197,Marion,"{""13197"": 93.63, ""13249"": 5.63, ""13307"": 0.74}",Marion|Schley|Webster,13197|13249|13307,False,False,America/New_York,"(32.30501, -84.51682)",5.008539576472148,5367.0,18062_0_yes,32.233034156800834,-84.52700663615218,5.0

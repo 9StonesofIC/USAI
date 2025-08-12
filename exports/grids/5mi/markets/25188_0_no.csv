@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37333,35.14844,-84.35981,Farner,TN,Tennessee,True,,474.0,9.1,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York,"(35.14844, -84.35981)",6.018551911337871,1167.0,25188_0_no,35.2052213337892,-84.44062631874714,5.0
+37369,35.19908,-84.47707,Reliance,TN,Tennessee,True,,693.0,2.5,47139,Polk,"{""47139"": 90.45, ""47123"": 9.55}",Polk|Monroe,47139|47123,False,False,America/New_York,"(35.19908, -84.47707)",2.100830367354007,1167.0,25188_0_no,35.2052213337892,-84.44062631874714,5.0

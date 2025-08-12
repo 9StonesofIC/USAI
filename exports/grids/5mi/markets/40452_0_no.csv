@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13827,42.11178,-76.25216,Owego,NY,New York,True,,11538.0,49.1,36107,Tioga,"{""36107"": 100}",Tioga,36107,False,False,America/New_York,"(42.11178, -76.25216)",3.0744120772237395,11538.0,40452_0_no,42.15211681922237,-76.22682972725221,5.0

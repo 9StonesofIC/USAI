@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49725,46.00337,-84.01308,De Tour Village,MI,Michigan,True,,610.0,5.2,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.00337, -84.01308)",2.453191666269577,610.0,48162_0_yes,45.99442567703567,-84.06254270557385,5.0

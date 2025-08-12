@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76435,32.21754,-98.85349,Carbon,TX,Texas,True,,443.0,1.7,48133,Eastland,"{""48133"": 100}",Eastland,48133,False,False,America/Chicago,"(32.21754, -98.85349)",4.090113242965578,443.0,18132_0_no,32.17018796105375,-98.8115102445349,5.0

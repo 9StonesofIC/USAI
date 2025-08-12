@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59633,46.82338,-112.36362,Canyon Creek,MT,Montana,True,,317.0,0.6,30049,Lewis and Clark,"{""30049"": 100}",Lewis and Clark,30049,False,False,America/Denver,"(46.82338, -112.36362)",4.795833972327207,317.0,49990_0_yes,46.888615017921175,-112.32894487487108,5.0

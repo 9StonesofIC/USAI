@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66072,38.31772,-94.9741,Parker,KS,Kansas,True,,1357.0,6.9,20107,Linn,"{""20107"": 96.6, ""20121"": 3.4}",Linn|Miami,20107|20121,False,False,America/Chicago,"(38.31772, -94.9741)",1.3491308448292623,1357.0,32145_0_yes,38.32917667709616,-94.99425481358092,5.0

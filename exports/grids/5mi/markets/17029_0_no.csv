@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36538,31.65948,-88.13836,Frankville,AL,Alabama,True,,356.0,3.7,1129,Washington,"{""01129"": 100}",Washington,01129,False,False,America/Chicago,"(31.65948, -88.13836)",6.361063434122862,356.0,17029_0_no,31.727837860556303,-88.06588194017267,5.0

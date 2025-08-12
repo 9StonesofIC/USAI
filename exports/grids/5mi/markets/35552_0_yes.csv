@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15530,39.94531,-78.91253,Berlin,PA,Pennsylvania,True,,5167.0,23.0,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(39.94531, -78.91253)",3.1545651450657433,5832.0,35552_0_yes,39.90986294751251,-78.875006128063,5.0
+15538,39.86644,-78.83233,Fairhope,PA,Pennsylvania,True,,665.0,3.8,42111,Somerset,"{""42111"": 100}",Somerset,42111,False,False,America/New_York,"(39.86644, -78.83233)",3.7576954825031375,5832.0,35552_0_yes,39.90986294751251,-78.875006128063,5.0

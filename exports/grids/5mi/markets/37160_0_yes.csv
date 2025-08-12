@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47942,40.68791,-87.4472,Earl Park,IN,Indiana,True,,660.0,4.3,18007,Benton,"{""18007"": 95.73, ""18111"": 4.27}",Benton|Newton,18007|18111,False,False,America/Indiana/Indianapolis,"(40.68791, -87.4472)",4.677030413489036,660.0,37160_0_yes,40.64108354660872,-87.51164182354486,5.0

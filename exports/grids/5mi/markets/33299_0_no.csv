@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21629,38.86111,-75.82753,Denton,MD,Maryland,True,,9464.0,43.7,24011,Caroline,"{""24011"": 100}",Caroline,24011,False,False,America/New_York,"(38.86111, -75.82753)",3.1685820588997355,9464.0,33299_0_no,38.82114608071622,-75.79865068376652,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37861,36.24516,-83.51421,Rutledge,TN,Tennessee,True,,8980.0,35.2,47057,Grainger,"{""47057"": 100}",Grainger,47057,False,False,America/New_York,"(36.24516, -83.51421)",5.75887432828919,8980.0,27524_0_yes,36.291477321267145,-83.4282634589176,5.0

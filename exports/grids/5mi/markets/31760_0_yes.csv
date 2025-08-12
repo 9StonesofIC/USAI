@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40313,38.13215,-83.38973,Clearfield,KY,Kentucky,True,,2664.0,37.1,21205,Rowan,"{""21205"": 100}",Rowan,21205,False,False,America/New_York,"(38.13215, -83.38973)",5.781095089239251,2664.0,31760_0_yes,38.17512075493205,-83.29843118322084,5.0

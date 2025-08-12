@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31622,31.37446,-83.2023,Alapaha,GA,Georgia,True,,2021.0,6.5,13019,Berrien,"{""13019"": 100}",Berrien,13019,False,False,America/New_York,"(31.37446, -83.2023)",1.0759158074637687,2021.0,15967_0_yes,31.3619985991332,-83.21323643768689,5.0

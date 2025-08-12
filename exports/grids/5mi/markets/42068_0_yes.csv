@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50630,42.95651,-92.21346,Fredericksburg,IA,Iowa,True,,1576.0,7.2,19037,Chickasaw,"{""19037"": 89.69, ""19017"": 10.31}",Chickasaw|Bremer,19037|19017,False,False,America/Chicago,"(42.95651, -92.21346)",1.8800789264372042,1576.0,42068_0_yes,42.962062170142566,-92.2498590536469,5.0

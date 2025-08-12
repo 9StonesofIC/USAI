@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35648,34.95857,-87.38022,Lexington,AL,Alabama,True,,3226.0,20.1,1077,Lauderdale,"{""01077"": 100}",Lauderdale,01077,False,False,America/Chicago,"(34.95857, -87.38022)",3.0835865074620177,3226.0,24536_0_no,34.91745465216184,-87.4013940632243,5.0

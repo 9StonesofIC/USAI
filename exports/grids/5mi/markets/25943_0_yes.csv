@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74855,35.51911,-96.90376,Meeker,OK,Oklahoma,True,,4556.0,16.7,40081,Lincoln,"{""40081"": 90.42, ""40125"": 9.58}",Lincoln|Pottawatomie,40081|40125,False,False,America/Chicago,"(35.51911, -96.90376)",4.577936914748866,4556.0,25943_0_yes,35.57676232322537,-96.94389268911404,5.0

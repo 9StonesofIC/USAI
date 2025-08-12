@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14136,42.52387,-79.16935,Silver Creek,NY,New York,True,,4574.0,72.7,36013,Chautauqua,"{""36013"": 100}",Chautauqua,36013,False,False,America/New_York,"(42.52387, -79.16935)",5.262141636128046,4574.0,41374_0_no,42.58897820261095,-79.22299090914997,5.0

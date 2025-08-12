@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65301,38.69922,-93.22104,Sedalia,MO,Missouri,True,,34335.0,59.3,29159,Pettis,"{""29159"": 99.34, ""29053"": 0.66}",Pettis|Cooper,29159|29053,False,False,America/Chicago,"(38.69922, -93.22104)",3.449747942825829,34335.0,33075_0_no,38.69012273709213,-93.28394030942364,5.0

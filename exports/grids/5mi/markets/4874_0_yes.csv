@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33476,26.80109,-80.65305,Pahokee,FL,Florida,True,,8123.0,141.3,12099,Palm Beach,"{""12099"": 100}",Palm Beach,12099,False,False,America/New_York,"(26.80109, -80.65305)",4.696341511819099,8123.0,4874_0_yes,26.86300945483176,-80.6216311226935,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54827,46.80215,-91.10069,Cornucopia,WI,Wisconsin,True,,315.0,3.4,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago,"(46.80215, -91.10069)",12.287424462658647,3465.0,12466_0_yes,46.692796333736304,-90.89601990584691,10.0
+54891,46.69727,-90.9688,Washburn,WI,Wisconsin,True,,3150.0,17.7,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago,"(46.69727, -90.9688)",3.462863810984555,3465.0,12466_0_yes,46.692796333736304,-90.89601990584691,10.0

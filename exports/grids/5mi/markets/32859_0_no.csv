@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84766,38.59762,-112.33567,Sevier,UT,Utah,True,,287.0,0.9,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.59762, -112.33567)",2.993203113515647,287.0,32859_0_no,38.56027090262633,-112.36374688876036,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50501,42.49244,-94.18967,Fort Dodge,IA,Iowa,True,,27881.0,70.7,19187,Webster,"{""19187"": 100}",Webster,19187,False,False,America/Chicago,"(42.49244, -94.18967)",3.643192735235574,27881.0,41176_0_yes,42.52937991208119,-94.2407130264125,5.0

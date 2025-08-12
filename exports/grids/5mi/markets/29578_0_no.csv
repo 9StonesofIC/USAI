@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81029,37.08921,-102.48274,Campo,CO,Colorado,True,,253.0,0.2,8009,Baca,"{""08009"": 100}",Baca,08009,False,False,America/Denver,"(37.08921, -102.48274)",1.2551671383021192,253.0,29578_0_no,37.10308742582326,-102.4680425891561,5.0

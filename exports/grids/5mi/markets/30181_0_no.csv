@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65752,37.32742,-93.83842,South Greenfield,MO,Missouri,True,,285.0,2.4,29057,Dade,"{""29057"": 92.16, ""29109"": 7.84}",Dade|Lawrence,29057|29109,False,False,America/Chicago,"(37.32742, -93.83842)",4.073905521518128,285.0,30181_0_no,37.38636162476914,-93.84038328384516,5.0

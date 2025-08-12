@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16323,41.41286,-79.83047,Franklin,PA,Pennsylvania,True,,15141.0,58.5,42121,Venango,"{""42121"": 100}",Venango,42121,False,False,America/New_York,"(41.41286, -79.83047)",1.712572929025594,15141.0,38946_0_no,41.43125273404357,-79.8526280456591,5.0

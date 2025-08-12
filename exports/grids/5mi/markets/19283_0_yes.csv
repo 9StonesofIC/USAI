@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91906,32.66241,-116.47255,Campo,CA,California,True,,4327.0,15.9,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.66241, -116.47255)",3.637995142662371,4327.0,19283_0_yes,32.68988326704191,-116.4191869680846,5.0

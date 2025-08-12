@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14048,42.48087,-79.31128,Dunkirk,NY,New York,True,,14414.0,242.3,36013,Chautauqua,"{""36013"": 100}",Chautauqua,36013,False,False,America/New_York,"(42.48087, -79.31128)",12.380879497001763,14414.0,10395_0_yes,42.622515875794576,-79.46026555476504,10.0

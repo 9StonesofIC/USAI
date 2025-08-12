@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03580,44.17347,-71.69519,Franconia,NH,New Hampshire,True,,1419.0,6.2,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(44.17347, -71.69519)",3.775710515480279,2024.0,44607_0_no,44.1746543751157,-71.7713634955135,5.0
+03586,44.22058,-71.7963,Sugar Hill,NH,New Hampshire,True,,605.0,14.0,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(44.22058, -71.7963)",3.405110350602826,2024.0,44607_0_no,44.1746543751157,-71.7713634955135,5.0

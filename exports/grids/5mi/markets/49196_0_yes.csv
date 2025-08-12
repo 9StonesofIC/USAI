@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98564,46.45666,-122.43627,Mossyrock,WA,Washington,True,,2394.0,6.4,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.45666, -122.43627)",2.4067034045623483,2394.0,49196_0_yes,46.46368575084822,-122.48579641010431,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31701,31.57376,-84.15508,Albany,GA,Georgia,True,,18886.0,344.4,13095,Dougherty,"{""13095"": 90.39, ""13177"": 9.61}",Dougherty|Lee,13095|13177,False,False,America/New_York,"(31.57376, -84.15508)",4.606323006296124,18886.0,16322_0_yes,31.50766129629413,-84.16528125563173,5.0

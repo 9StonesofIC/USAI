@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42441,37.36768,-87.65962,Nebo,KY,Kentucky,True,,1226.0,8.8,21107,Hopkins,"{""21107"": 93.03, ""21233"": 6.97}",Hopkins|Webster,21107|21233,False,False,America/Chicago,"(37.36768, -87.65962)",0.9710987524337306,1226.0,30147_0_no,37.38161470607288,-87.66192772503412,5.0

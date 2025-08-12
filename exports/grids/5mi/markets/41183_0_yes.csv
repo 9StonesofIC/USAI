@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51025,42.4973,-95.55853,Holstein,IA,Iowa,True,,1903.0,6.9,19093,Ida,"{""19093"": 87.34, ""19035"": 12.66}",Ida|Cherokee,19093|19035,False,False,America/Chicago,"(42.4973, -95.55853)",3.5578976790080694,1903.0,41183_0_yes,42.53055174511233,-95.61187139222292,5.0

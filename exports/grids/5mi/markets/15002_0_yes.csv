@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76571,30.93305,-97.58448,Salado,TX,Texas,True,,9007.0,27.8,48027,Bell,"{""48027"": 100}",Bell,48027,False,False,America/Chicago,"(30.93305, -97.58448)",2.140922523525866,9007.0,15002_0_yes,30.93621661493793,-97.54854467608529,5.0

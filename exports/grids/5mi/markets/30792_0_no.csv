@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42376,37.61626,-87.08619,Utica,KY,Kentucky,True,,5659.0,22.3,21059,Daviess,"{""21059"": 80.9, ""21183"": 10.62, ""21149"": 8.48}",Daviess|Ohio|McLean,21059|21183|21149,False,False,America/Chicago,"(37.61626, -87.08619)",5.245633178734997,5659.0,30792_0_no,37.67103613005972,-87.15258038197636,5.0

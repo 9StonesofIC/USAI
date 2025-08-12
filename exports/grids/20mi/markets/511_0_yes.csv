@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78344,27.56303,-98.85966,Bruni,TX,Texas,True,,419.0,1.1,48479,Webb,"{""48479"": 100}",Webb,48479,False,False,America/Chicago,"(27.56303, -98.85966)",19.357142763985454,3114.0,511_0_yes,27.843108014515288,-98.85205235281796,20.0
+78357,27.93286,-98.5629,Freer,TX,Texas,True,,2695.0,3.9,48131,Duval,"{""48131"": 100}",Duval,48131,False,False,America/Chicago,"(27.93286, -98.5629)",18.715524035572784,3114.0,511_0_yes,27.843108014515288,-98.85205235281796,20.0

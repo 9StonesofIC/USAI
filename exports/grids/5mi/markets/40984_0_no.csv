@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97622,42.39667,-121.01032,Bly,OR,Oregon,True,,335.0,0.7,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.39667, -121.01032)",4.266301225348196,335.0,40984_0_no,42.335008575039424,-121.01471453955406,5.0

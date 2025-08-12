@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24432,38.17639,-79.43845,Deerfield,VA,Virginia,True,,307.0,2.8,51015,Augusta,"{""51015"": 89.02, ""51017"": 10.98}",Augusta|Bath,51015|51017,False,False,America/New_York,"(38.17639, -79.43845)",0.3397133717923516,307.0,31739_0_yes,38.17210472292869,-79.44151628908686,5.0

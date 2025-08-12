@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81320,37.70115,-108.72654,Cahone,CO,Colorado,True,,376.0,1.0,8033,Dolores,"{""08033"": 100}",Dolores,08033,False,False,America/Denver,"(37.70115, -108.72654)",2.699728460234333,376.0,30910_0_no,37.68768635984659,-108.68018397780916,5.0

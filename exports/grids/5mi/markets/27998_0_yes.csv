@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86547,36.52759,-109.46019,Round Rock,AZ,Arizona,True,,1242.0,2.6,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(36.52759, -109.46019)",6.672749195360551,1242.0,27998_0_yes,36.455912667164505,-109.37968134808618,5.0

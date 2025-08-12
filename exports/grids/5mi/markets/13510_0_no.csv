@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32449,30.27611,-85.20607,Wewahitchka,FL,Florida,True,,751.0,6.4,12013,Calhoun,"{""12013"": 100}",Calhoun,12013,False,False,America/Chicago,"(30.27611, -85.20607)",4.102040503934709,751.0,13510_0_no,30.275502858137266,-85.2748122339108,5.0

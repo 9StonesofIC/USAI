@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33920,26.72903,-81.6529,Alva,FL,Florida,True,,6709.0,41.7,12071,Lee,"{""12071"": 100}",Lee,12071,False,False,America/New_York,"(26.72903, -81.6529)",0.7772689720166749,22365.0,4515_0_yes,26.71847455313184,-81.64854443627259,5.0
+33972,26.64954,-81.61721,Lehigh Acres,FL,Florida,True,,15656.0,239.2,12071,Lee,"{""12071"": 100}",Lee,12071,False,False,America/New_York,"(26.64954, -81.61721)",5.140762402590534,22365.0,4515_0_yes,26.71847455313184,-81.64854443627259,5.0

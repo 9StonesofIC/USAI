@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27253,35.96239,-79.34581,Graham,NC,North Carolina,True,,31046.0,146.3,37001,Alamance,"{""37001"": 100}",Alamance,37001,False,False,America/New_York,"(35.96239, -79.34581)",5.449512075379874,31061.0,26821_0_no,35.92609577237012,-79.25931574787018,5.0
+27340,35.94557,-79.31141,Saxapahaw,NC,North Carolina,True,,15.0,16.3,37001,Alamance,"{""37001"": 100}",Alamance,37001,False,False,America/New_York,"(35.94557, -79.31141)",3.209943237163446,31061.0,26821_0_no,35.92609577237012,-79.25931574787018,5.0

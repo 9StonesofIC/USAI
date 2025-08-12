@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22827,38.3903,-78.6131,Elkton,VA,Virginia,True,,10675.0,25.9,51165,Rockingham,"{""51165"": 77.75, ""51139"": 22.25}",Rockingham|Page,51165|51139,False,False,America/New_York,"(38.3903, -78.6131)",6.9411486477644075,10675.0,32376_0_yes,38.46111791881818,-78.52214713327838,5.0

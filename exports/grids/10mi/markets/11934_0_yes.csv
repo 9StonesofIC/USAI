@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59003,45.48179,-106.20153,Ashland,MT,Montana,True,,1168.0,0.6,30075,Powder River,"{""30075"": 61.44, ""30087"": 38.56}",Powder River|Rosebud,30075|30087,False,False,America/Denver,"(45.48179, -106.20153)",10.04275941614653,1168.0,11934_0_yes,45.56301963019428,-106.0294930620748,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69339,42.60649,-103.42939,Crawford,NE,Nebraska,True,,1454.0,1.4,31045,Dawes,"{""31045"": 67.38, ""31165"": 32.62}",Dawes|Sioux,31045|31165,False,False,America/Denver,"(42.60649, -103.42939)",4.872562882597451,1454.0,41223_0_yes,42.53724885082659,-103.44755383764694,5.0

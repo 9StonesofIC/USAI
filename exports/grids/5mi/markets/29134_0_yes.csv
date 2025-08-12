@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23840,37.05638,-77.67076,Dewitt,VA,Virginia,True,,2305.0,17.0,51053,Dinwiddie,"{""51053"": 100}",Dinwiddie,51053,False,False,America/New_York,"(37.05638, -77.67076)",4.495129118719688,5050.0,29134_0_yes,37.01163017069277,-77.61160289690636,5.0
+23841,37.05421,-77.55305,Dinwiddie,VA,Virginia,True,,2745.0,14.0,51053,Dinwiddie,"{""51053"": 100}",Dinwiddie,51053,False,False,America/New_York,"(37.05421, -77.55305)",4.368688882076471,5050.0,29134_0_yes,37.01163017069277,-77.61160289690636,5.0

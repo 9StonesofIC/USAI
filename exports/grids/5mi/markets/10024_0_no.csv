@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77961,28.85684,-96.35947,Francitas,TX,Texas,True,,138.0,1.4,48239,Jackson,"{""48239"": 100}",Jackson,48239,False,False,America/Chicago,"(28.85684, -96.35947)",2.5718528902389224,475.0,10024_0_no,28.83151348288169,-96.39061195088844,5.0
+77970,28.84533,-96.43153,La Ward,TX,Texas,True,,337.0,2.8,48239,Jackson,"{""48239"": 100}",Jackson,48239,False,False,America/Chicago,"(28.84533, -96.43153)",2.654172197596511,475.0,10024_0_no,28.83151348288169,-96.39061195088844,5.0

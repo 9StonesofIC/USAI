@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81040,37.79283,-105.2493,Gardner,CO,Colorado,True,,258.0,0.2,8055,Huerfano,"{""08055"": 100}",Huerfano,08055,False,False,America/Denver,"(37.79283, -105.2493)",3.7913556966635604,258.0,7800_0_yes,37.742207060041736,-105.27608591744628,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56338,46.00631,-93.88089,Hillman,MN,Minnesota,True,,1507.0,3.4,27097,Morrison,"{""27097"": 94.17, ""27035"": 5.83}",Morrison|Crow Wing,27097|27035,False,False,America/Chicago,"(46.00631, -93.88089)",5.063409922792458,1507.0,48467_0_no,46.07579054149118,-93.91445784731964,5.0

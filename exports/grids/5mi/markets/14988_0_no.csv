@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76518,30.85091,-97.13957,Buckholts,TX,Texas,True,,1810.0,6.2,48331,Milam,"{""48331"": 100}",Milam,48331,False,False,America/Chicago,"(30.85091, -97.13957)",1.1768809232229622,1810.0,14988_0_no,30.863448382043558,-97.15300006820836,5.0

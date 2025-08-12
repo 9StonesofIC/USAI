@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29824,33.81647,-81.99666,Edgefield,SC,South Carolina,True,,8432.0,13.9,45037,Edgefield,"{""45037"": 98.26, ""45081"": 1.74}",Edgefield|Saluda,45037|45081,False,False,America/New_York,"(33.81647, -81.99666)",3.2604253864213675,8432.0,21821_0_yes,33.82630447799026,-82.05221341667921,5.0

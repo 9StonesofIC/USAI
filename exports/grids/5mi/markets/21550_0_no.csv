@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76268,33.62785,-96.76539,Southmayd,TX,Texas,True,,224.0,136.0,48181,Grayson,"{""48181"": 100}",Grayson,48181,False,False,America/Chicago,"(33.62785, -96.76539)",3.2783406249055482,224.0,21550_0_no,33.619222400065354,-96.82142134944236,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71860,33.307,-93.49286,Stamps,AR,Arkansas,True,,2180.0,8.0,5073,Lafayette,"{""05073"": 74.66, ""05027"": 22.99, ""05099"": 2.35}",Lafayette|Columbia|Nevada,05073|05027|05099,False,False,America/Chicago,"(33.307, -93.49286)",2.4390330061703067,2180.0,20849_0_no,33.32683304443329,-93.45791414539032,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28376,35.052,-79.23342,Raeford,NC,North Carolina,True,,45895.0,63.6,37093,Hoke,"{""37093"": 100}",Hoke,37093,False,False,America/New_York,"(35.052, -79.23342)",0.8293574755142615,45895.0,24824_0_no,35.0564706282536,-79.21981176308371,5.0

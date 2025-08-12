@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39666,31.2853,-90.48857,Summit,MS,Mississippi,True,,9976.0,23.6,28113,Pike,"{""28113"": 59.5, ""28005"": 30.12, ""28085"": 10.38}",Pike|Amite|Lincoln,28113|28005|28085,False,False,America/Chicago,"(31.2853, -90.48857)",3.295605980248778,9976.0,15998_0_no,31.294262746514104,-90.43374804764096,5.0

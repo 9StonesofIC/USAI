@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28524,34.78893,-76.47452,Davis,NC,North Carolina,True,,226.0,24.0,37031,Carteret,"{""37031"": 100}",Carteret,37031,False,False,America/New_York,"(34.78893, -76.47452)",4.986313055796853,226.0,24138_0_no,34.76453780177751,-76.39182934237657,5.0

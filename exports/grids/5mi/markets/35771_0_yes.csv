@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96109,39.99747,-120.09521,Doyle,CA,California,True,,914.0,1.6,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(39.99747, -120.09521)",3.76881114828626,914.0,35771_0_yes,39.943332450914745,-120.10391021890575,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40437,37.44531,-84.85486,Hustonville,KY,Kentucky,True,,5746.0,20.6,21045,Casey,"{""21045"": 52.36, ""21137"": 47.64}",Casey|Lincoln,21045|21137,False,False,America/New_York,"(37.44531, -84.85486)",6.373352025808695,5746.0,30132_0_no,37.37952073474954,-84.93626230979513,5.0

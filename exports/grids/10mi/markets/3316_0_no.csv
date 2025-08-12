@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32062,30.13276,-82.9754,McAlpin,FL,Florida,True,,1666.0,9.7,12121,Suwannee,"{""12121"": 100}",Suwannee,12121,False,False,America/New_York,"(30.13276, -82.9754)",11.099913379505777,9121.0,3316_0_no,30.03005881612682,-83.11816441390762,10.0
+32066,30.04423,-83.22495,Mayo,FL,Florida,True,,7455.0,10.3,12067,Lafayette,"{""12067"": 100}",Lafayette,12067,False,False,America/New_York,"(30.04423, -83.22495)",6.461911260956483,9121.0,3316_0_no,30.03005881612682,-83.11816441390762,10.0

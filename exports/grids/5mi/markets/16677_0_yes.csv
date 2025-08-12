@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36310,31.60296,-85.21229,Abbeville,AL,Alabama,True,,6258.0,11.5,1067,Henry,"{""01067"": 100}",Henry,01067,False,False,America/Chicago,"(31.60296, -85.21229)",5.736028957713827,6258.0,16677_0_yes,31.65344063659782,-85.28969421517783,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56636,47.40283,-93.86518,Deer River,MN,Minnesota,True,,5090.0,4.5,27061,Itasca,"{""27061"": 74.49, ""27021"": 25.51}",Itasca|Cass,27061|27021,False,False,America/Chicago,"(47.40283, -93.86518)",3.5761968248870972,5090.0,50989_0_no,47.37800281362156,-93.79809607263822,5.0

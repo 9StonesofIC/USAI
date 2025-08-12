@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24377,37.00206,-81.56961,Tannersville,VA,Virginia,True,,507.0,5.6,51185,Tazewell,"{""51185"": 100}",Tazewell,51185,False,False,America/New_York,"(37.00206, -81.56961)",1.4190101689473837,5853.0,29156_0_yes,37.01466095390557,-81.58991874287629,5.0
+24651,37.07732,-81.50054,Tazewell,VA,Virginia,True,,5346.0,13.6,51185,Tazewell,"{""51185"": 100}",Tazewell,51185,False,False,America/New_York,"(37.07732, -81.50054)",6.5603251940623375,5853.0,29156_0_yes,37.01466095390557,-81.58991874287629,5.0

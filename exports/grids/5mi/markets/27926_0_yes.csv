@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74035,36.40368,-96.37607,Hominy,OK,Oklahoma,True,,4197.0,6.9,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago,"(36.40368, -96.37607)",5.24833218671656,4197.0,27926_0_yes,36.44619346676678,-96.45430237364434,5.0

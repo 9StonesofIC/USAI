@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85614,31.81241,-110.92972,Green Valley,AZ,Arizona,True,,24890.0,72.9,4019,Pima,"{""04019"": 93.09, ""04023"": 6.91}",Pima|Santa Cruz,04019|04023,False,False,America/Phoenix,"(31.81241, -110.92972)",2.2575372389743382,24890.0,17176_0_yes,31.815563225783823,-110.89144915808726,5.0

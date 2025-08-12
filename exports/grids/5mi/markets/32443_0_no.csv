@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66040,38.35396,-94.73949,La Cygne,KS,Kansas,True,,3312.0,9.5,20107,Linn,"{""20107"": 71.27, ""20121"": 28.73}",Linn|Miami,20107|20121,False,False,America/Chicago,"(38.35396, -94.73949)",3.9052881603676397,3312.0,32443_0_no,38.401440167184326,-94.70037300117696,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56438,46.13873,-94.80874,Browerville,MN,Minnesota,True,,2668.0,7.3,27153,Todd,"{""27153"": 100}",Todd,27153,False,False,America/Chicago,"(46.13873, -94.80874)",5.226186777833156,2668.0,48471_0_no,46.07654785689133,-94.74662269003473,5.0

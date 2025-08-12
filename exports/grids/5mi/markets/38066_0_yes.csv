@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44818,41.0002,-82.99645,Bloomville,OH,Ohio,True,,2319.0,11.9,39147,Seneca,"{""39147"": 50.53, ""39033"": 49.47}",Seneca|Crawford,39147|39033,False,False,America/New_York,"(41.0002, -82.99645)",5.758883282826077,2319.0,38066_0_yes,41.07186428827865,-83.05287296084039,5.0

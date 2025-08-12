@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93117,34.49102,-120.08201,Goleta,CA,California,True,,59298.0,136.2,6083,Santa Barbara,"{""06083"": 100}",Santa Barbara,06083,False,False,America/Los_Angeles,"(34.49102, -120.08201)",4.045523847140415,59298.0,23714_0_no,34.5059208806786,-120.01330370470708,5.0

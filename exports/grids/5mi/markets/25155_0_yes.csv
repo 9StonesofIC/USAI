@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27920,35.25109,-75.54755,Buxton,NC,North Carolina,True,,1558.0,76.7,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.25109, -75.54755)",4.959606631075893,1558.0,25155_0_yes,35.27109753264561,-75.463123855819,5.0

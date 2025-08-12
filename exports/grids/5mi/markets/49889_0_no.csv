@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56560,46.83637,-96.73467,Moorhead,MN,Minnesota,True,,44763.0,109.8,27027,Clay,"{""27027"": 98.76, ""27167"": 1.24}",Clay|Wilkin,27027|27167,False,False,America/Chicago,"(46.83637, -96.73467)",4.128774006687041,45984.0,49889_0_no,46.80186841449062,-96.66337119448612,5.0
+56580,46.73944,-96.61004,Sabin,MN,Minnesota,True,,1221.0,7.4,27027,Clay,"{""27027"": 100}",Clay,27027,False,False,America/Chicago,"(46.73944, -96.61004)",4.99750052137168,45984.0,49889_0_no,46.80186841449062,-96.66337119448612,5.0

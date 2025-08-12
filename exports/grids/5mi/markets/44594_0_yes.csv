@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97454,44.21806,-122.8191,Marcola,OR,Oregon,True,,1136.0,7.3,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.21806, -122.8191)",5.146646788656212,41493.0,44594_0_yes,44.14714152374077,-122.78732990516777,5.0
+97478,44.08781,-122.84478,Springfield,OR,Oregon,True,,40357.0,92.5,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.08781, -122.84478)",4.992598553041585,41493.0,44594_0_yes,44.14714152374077,-122.78732990516777,5.0

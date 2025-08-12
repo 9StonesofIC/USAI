@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29511,33.97519,-79.11043,Aynor,SC,South Carolina,True,,5799.0,39.2,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York,"(33.97519, -79.11043)",5.034136127638814,5799.0,22467_0_no,34.04169123663476,-79.07451953980689,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65614,36.73739,-92.88684,Bradleyville,MO,Missouri,True,,492.0,1.8,29213,Taney,"{""29213"": 92.81, ""29043"": 7.19}",Taney|Christian,29213|29043,False,False,America/Chicago,"(36.73739, -92.88684)",6.2153337375972555,492.0,28871_0_no,36.80584972333375,-92.81399033952734,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86020,36.00133,-111.51263,Cameron,AZ,Arizona,True,,1884.0,0.6,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver,"(36.00133, -111.51263)",24.566440596139497,2200.0,1827_0_no,36.28362144649639,-111.78031807782462,20.0
+86052,36.29112,-112.12543,North Rim,AZ,Arizona,True,,316.0,0.1,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix,"(36.29112, -112.12543)",19.227412320792055,2200.0,1827_0_no,36.28362144649639,-111.78031807782462,20.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51573,40.97949,-95.09451,Stanton,IA,Iowa,True,,1055.0,7.0,19137,Montgomery,"{""19137"": 100}",Montgomery,19137,False,False,America/Chicago,"(40.97949, -95.09451)",5.467103875503478,1055.0,37820_0_yes,40.93710029490903,-95.18298314817474,5.0

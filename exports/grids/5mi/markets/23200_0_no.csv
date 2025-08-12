@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38841,34.34943,-89.02237,Ecru,MS,Mississippi,True,,3411.0,40.0,28115,Pontotoc,"{""28115"": 90.67, ""28145"": 9.33}",Pontotoc|Union,28115|28145,False,False,America/Chicago,"(34.34943, -89.02237)",2.3174438284618977,3411.0,23200_0_no,34.338745424395256,-89.06087644761122,5.0

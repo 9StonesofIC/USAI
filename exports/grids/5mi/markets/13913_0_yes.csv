@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70750,30.46433,-91.7865,Krotz Springs,LA,Louisiana,True,,1403.0,8.1,22097,St. Landry,"{""22097"": 100}",St. Landry,22097,False,False,America/Chicago,"(30.46433, -91.7865)",2.5081004514314786,1403.0,13913_0_yes,30.49726157464119,-91.8042202000995,5.0

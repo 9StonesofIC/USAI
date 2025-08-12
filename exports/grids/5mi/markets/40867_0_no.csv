@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68773,42.36245,-98.1199,Royal,NE,Nebraska,True,,164.0,1.2,31003,Antelope,"{""31003"": 100}",Antelope,31003,False,False,America/Chicago,"(42.36245, -98.1199)",4.167112719918534,164.0,40867_0_no,42.315561296553454,-98.17121796796415,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12776,41.96486,-74.93197,Roscoe,NY,New York,True,,2361.0,7.9,36025,Delaware,"{""36025"": 61.69, ""36105"": 38.31}",Delaware|Sullivan,36025|36105,False,False,America/New_York,"(41.96486, -74.93197)",2.234770066010747,2361.0,39864_0_yes,41.93380586241916,-74.91981032009954,5.0

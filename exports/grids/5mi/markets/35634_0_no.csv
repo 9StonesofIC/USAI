@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66952,39.84269,-98.60214,Lebanon,KS,Kansas,True,,448.0,0.7,20183,Smith,"{""20183"": 98.67, ""20089"": 1.33}",Smith|Jewell,20183|20089,False,False,America/Chicago,"(39.84269, -98.60214)",1.0635018048582212,448.0,35634_0_no,39.85346684589408,-98.58782535779584,5.0

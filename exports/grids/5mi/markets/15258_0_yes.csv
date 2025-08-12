@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31565,31.06868,-81.64783,Waverly,GA,Georgia,True,,2236.0,7.3,13039,Camden,"{""13039"": 100}",Camden,13039,False,False,America/New_York,"(31.06868, -81.64783)",0.4160351336635101,2236.0,15258_0_yes,31.070905187357493,-81.65436221238369,5.0

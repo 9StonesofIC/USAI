@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54157,45.05001,-87.81217,Peshtigo,WI,Wisconsin,True,,6026.0,25.9,55075,Marinette,"{""55075"": 98.09, ""55083"": 1.91}",Marinette|Oconto,55075|55083,False,False,America/Chicago,"(45.05001, -87.81217)",4.88670102253291,6026.0,46171_0_yes,44.98484004369244,-87.85104167301192,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86047,35.18181,-110.63785,Winslow,AZ,Arizona,True,,15403.0,3.5,4017,Navajo,"{""04017"": 71.59, ""04005"": 28.41}",Navajo|Coconino,04017|04005,False,False,America/Denver,"(35.18181, -110.63785)",3.6162591135507594,15403.0,25336_0_no,35.22431693140365,-110.600478407179,5.0

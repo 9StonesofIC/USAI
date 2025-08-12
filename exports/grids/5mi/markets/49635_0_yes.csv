@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56580,46.73944,-96.61004,Sabin,MN,Minnesota,True,,1221.0,7.4,27027,Clay,"{""27027"": 100}",Clay,27027,False,False,America/Chicago,"(46.73944, -96.61004)",2.0037991596323814,1221.0,49635_0_yes,46.7293771288047,-96.57035474598926,5.0

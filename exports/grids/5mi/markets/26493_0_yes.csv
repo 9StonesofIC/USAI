@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27970,35.87596,-76.57945,Roper,NC,North Carolina,True,,3070.0,9.9,37187,Washington,"{""37187"": 100}",Washington,37187,False,False,America/New_York,"(35.87596, -76.57945)",3.238249822663181,3070.0,26493_0_yes,35.85157279202817,-76.5300639464319,5.0

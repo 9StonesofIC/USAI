@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77484,30.07924,-95.92812,Waller,TX,Texas,True,,11972.0,30.6,48473,Waller,"{""48473"": 77.98, ""48201"": 20.94, ""48185"": 1.08}",Waller|Harris|Grimes,48473|48201|48185,False,False,America/Chicago,"(30.07924, -95.92812)",5.918095587035387,11972.0,13220_0_no,30.137167572091627,-95.85518500787536,5.0

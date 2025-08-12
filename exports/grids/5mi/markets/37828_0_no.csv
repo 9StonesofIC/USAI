@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69134,40.80733,-101.36968,Elsie,NE,Nebraska,True,,447.0,0.7,31135,Perkins,"{""31135"": 78.72, ""31029"": 11.09, ""31085"": 10.18}",Perkins|Chase|Hayes,31135|31029|31085,False,False,America/Denver,"(40.80733, -101.36968)",5.523241474977657,447.0,37828_0_no,40.86989572898489,-101.4354475645321,5.0

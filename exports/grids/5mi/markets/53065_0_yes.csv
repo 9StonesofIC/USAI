@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98255,48.52353,-121.99203,Hamilton,WA,Washington,True,,182.0,105.9,53057,Skagit,"{""53057"": 100}",Skagit,53057,False,False,America/Los_Angeles,"(48.52353, -121.99203)",2.9809345591090137,182.0,53065_0_yes,48.489619410434464,-121.95177128003202,5.0

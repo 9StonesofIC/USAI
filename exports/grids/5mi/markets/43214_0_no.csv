@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53002,43.46896,-88.35454,Allenton,WI,Wisconsin,True,,2181.0,24.5,55131,Washington,"{""55131"": 97.91, ""55027"": 2.09}",Washington|Dodge,55131|55027,False,False,America/Chicago,"(43.46896, -88.35454)",1.8539455263237887,2181.0,43214_0_no,43.46543210951034,-88.31788985504147,5.0

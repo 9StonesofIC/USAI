@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03224,43.35171,-71.54691,Canterbury,NH,New Hampshire,True,,2402.0,21.7,33013,Merrimack,"{""33013"": 100}",Merrimack,33013,False,False,America/New_York,"(43.35171, -71.54691)",3.156812962699915,2402.0,42832_0_no,43.30611535106176,-71.54287442405645,5.0

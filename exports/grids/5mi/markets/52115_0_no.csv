@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58335,47.97229,-99.00412,Fort Totten,ND,North Dakota,True,,1818.0,25.0,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago,"(47.97229, -99.00412)",2.4496912172680188,1818.0,52115_0_no,47.96165115944756,-99.05463226583235,5.0

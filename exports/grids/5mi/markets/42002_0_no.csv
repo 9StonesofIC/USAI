@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48808,42.82591,-84.45081,Bath,MI,Michigan,True,,6957.0,111.5,26037,Clinton,"{""26037"": 100}",Clinton,26037,False,False,America/Detroit,"(42.82591, -84.45081)",5.464275328260349,24802.0,42002_0_no,42.88306856946145,-84.52536768138697,5.0
+48820,42.86277,-84.59374,Dewitt,MI,Michigan,True,,17845.0,104.8,26037,Clinton,"{""26037"": 100}",Clinton,26037,False,False,America/Detroit,"(42.86277, -84.59374)",3.735397648548475,24802.0,42002_0_no,42.88306856946145,-84.52536768138697,5.0

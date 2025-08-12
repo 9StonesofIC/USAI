@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28020,35.52408,-81.64328,Casar,NC,North Carolina,True,,2604.0,21.7,37045,Cleveland,"{""37045"": 87.31, ""37161"": 12.69}",Cleveland|Rutherford,37045|37161,False,False,America/New_York,"(35.52408, -81.64328)",3.3994068198989718,2604.0,25857_0_yes,35.565519975372986,-81.67587511473008,5.0

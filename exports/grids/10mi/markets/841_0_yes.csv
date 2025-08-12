@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78548,26.27654,-98.65527,Grulla,TX,Texas,True,,583.0,30.1,48427,Starr,"{""48427"": 100}",Starr,48427,False,False,America/Chicago,"(26.27654, -98.65527)",10.42087493493758,5368.0,841_0_yes,26.132683636013404,-98.60477068621132,10.0
+78560,26.25545,-98.49515,La Joya,TX,Texas,True,,4743.0,128.7,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.25545, -98.49515)",10.869181145460372,5368.0,841_0_yes,26.132683636013404,-98.60477068621132,10.0
+78565,26.24453,-98.561,Los Ebanos,TX,Texas,True,,42.0,5.1,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.24453, -98.561)",8.19050736666157,5368.0,841_0_yes,26.132683636013404,-98.60477068621132,10.0

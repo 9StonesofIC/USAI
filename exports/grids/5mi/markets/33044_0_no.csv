@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47591,38.62136,-87.50594,Vincennes,IN,Indiana,True,,25091.0,58.2,18083,Knox,"{""18083"": 100}",Knox,18083,False,False,America/Indiana/Vincennes,"(38.62136, -87.50594)",5.031267527853151,32234.0,33044_0_no,38.68558820115239,-87.54987569570983,5.0
+62439,38.74668,-87.63754,Lawrenceville,IL,Illinois,True,,7143.0,18.6,17101,Lawrence,"{""17101"": 100}",Lawrence,17101,False,False,America/Chicago,"(38.74668, -87.63754)",6.336596590487733,32234.0,33044_0_no,38.68558820115239,-87.54987569570983,5.0

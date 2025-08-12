@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23968,36.72123,-78.51922,Skipwith,VA,Virginia,True,,534.0,5.8,51117,Mecklenburg,"{""51117"": 100}",Mecklenburg,51117,False,False,America/New_York,"(36.72123, -78.51922)",0.4649901671944922,534.0,28484_0_yes,36.72251663090755,-78.51097876447827,5.0

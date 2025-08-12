@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80481,40.10351,-105.52253,Ward,CO,Colorado,True,,617.0,5.5,8013,Boulder,"{""08013"": 100}",Boulder,08013,False,False,America/Denver,"(40.10351, -105.52253)",2.9050038384083545,617.0,36007_0_yes,40.07641980597619,-105.5645592601365,5.0

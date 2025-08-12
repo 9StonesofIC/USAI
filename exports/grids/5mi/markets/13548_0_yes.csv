@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70452,30.41424,-89.76048,Pearl River,LA,Louisiana,True,,13385.0,52.1,22103,St. Tammany,"{""22103"": 100}",St. Tammany,22103,False,False,America/Chicago,"(30.41424, -89.76048)",6.617318571862654,13385.0,13548_0_yes,30.35082233631234,-89.67728596192623,5.0

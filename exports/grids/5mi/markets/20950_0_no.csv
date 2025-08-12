@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85539,33.33282,-110.92883,Miami,AZ,Arizona,True,,4146.0,20.7,4007,Gila,"{""04007"": 75.19, ""04021"": 24.81}",Gila|Pinal,04007|04021,False,False,America/Phoenix,"(33.33282, -110.92883)",0.8129558114173373,4146.0,20950_0_no,33.33898123962883,-110.91683197219844,5.0

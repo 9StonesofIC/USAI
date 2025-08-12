@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57720,45.5497,-103.60655,Buffalo,SD,South Dakota,True,,576.0,0.2,46063,Harding,"{""46063"": 100}",Harding,46063,False,False,America/Denver,"(45.5497, -103.60655)",5.690720635335852,576.0,47374_0_no,45.50571568301097,-103.7059480666898,5.0

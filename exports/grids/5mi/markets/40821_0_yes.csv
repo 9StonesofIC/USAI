@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48118,42.31151,-84.03835,Chelsea,MI,Michigan,True,,12714.0,56.9,26161,Washtenaw,"{""26161"": 100}",Washtenaw,26161,False,False,America/Detroit,"(42.31151, -84.03835)",6.166374219951915,28688.0,40821_0_yes,42.37580776617044,-83.95461028007405,5.0
+48130,42.3547,-83.90272,Dexter,MI,Michigan,True,,15974.0,96.4,26161,Washtenaw,"{""26161"": 100}",Washtenaw,26161,False,False,America/Detroit,"(42.3547, -83.90272)",3.023958588395833,28688.0,40821_0_yes,42.37580776617044,-83.95461028007405,5.0

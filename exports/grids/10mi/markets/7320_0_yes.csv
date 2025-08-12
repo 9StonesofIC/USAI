@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87417,36.74456,-108.34551,Kirtland,NM,New Mexico,True,,5650.0,196.3,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.74456, -108.34551)",9.511114115969349,7287.0,7320_0_yes,36.87749373407124,-108.39015783047864,10.0
+87421,36.7772,-108.53676,Waterflow,NM,New Mexico,True,,1637.0,19.3,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.7772, -108.53676)",10.665738261971294,7287.0,7320_0_yes,36.87749373407124,-108.39015783047864,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98252,48.06173,-121.70939,Granite Falls,WA,Washington,True,,9993.0,16.2,53061,Snohomish,"{""53061"": 100}",Snohomish,53061,False,False,America/Los_Angeles,"(48.06173, -121.70939)",4.785831508623871,9993.0,52493_0_no,48.12760626344345,-121.67734409999356,5.0

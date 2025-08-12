@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98815,47.52893,-120.48459,Cashmere,WA,Washington,True,,7210.0,28.7,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.52893, -120.48459)",2.8328347239481597,8163.0,51390_0_no,47.54750439548035,-120.43044781314728,5.0
+98836,47.47615,-120.42909,Monitor,WA,Washington,True,,953.0,51.4,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.47615, -120.42909)",4.930526353694726,8163.0,51390_0_no,47.54750439548035,-120.43044781314728,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96069,40.68226,-122.02341,Oak Run,CA,California,True,,1167.0,4.9,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(40.68226, -122.02341)",3.711782363170078,1885.0,37341_0_yes,40.66946328382493,-121.95461488764715,5.0
+96096,40.63738,-121.87552,Whitmore,CA,California,True,,718.0,2.7,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(40.63738, -121.87552)",4.701456511793802,1885.0,37341_0_yes,40.66946328382493,-121.95461488764715,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58627,47.23532,-103.29713,Fairfield,ND,North Dakota,True,,182.0,0.2,38007,Billings,"{""38007"": 100}",Billings,38007,False,False,America/Denver,"(47.23532, -103.29713)",7.805648795543971,182.0,12761_0_no,47.14962273833354,-103.18880321933172,10.0

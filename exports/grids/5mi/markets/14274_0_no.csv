@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77331,30.61928,-95.17706,Coldspring,TX,Texas,True,,8064.0,18.2,48407,San Jacinto,"{""48407"": 100}",San Jacinto,48407,False,False,America/Chicago,"(30.61928, -95.17706)",4.251844754399415,8064.0,14274_0_no,30.572031951668627,-95.22286396179308,5.0

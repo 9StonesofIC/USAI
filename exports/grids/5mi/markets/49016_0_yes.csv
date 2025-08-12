@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49715,46.3923,-84.69493,Brimley,MI,Michigan,True,,3434.0,7.6,26033,Chippewa,"{""26033"": 100}",Chippewa,26033,False,False,America/Detroit,"(46.3923, -84.69493)",5.00840724207879,3434.0,49016_0_yes,46.4291658067846,-84.78545091828359,5.0

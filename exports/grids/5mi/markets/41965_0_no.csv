@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14424,42.84649,-77.3104,Canandaigua,NY,New York,True,,28055.0,83.7,36069,Ontario,"{""36069"": 100}",Ontario,36069,False,False,America/New_York,"(42.84649, -77.3104)",4.266963436330277,28055.0,41965_0_no,42.87679872984834,-77.23699271523395,5.0

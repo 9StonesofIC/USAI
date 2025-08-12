@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93610,37.09047,-120.29036,Chowchilla,CA,California,True,,23279.0,34.2,6039,Madera,"{""06039"": 85.12, ""06047"": 14.88}",Madera|Merced,06039|06047,False,False,America/Los_Angeles,"(37.09047, -120.29036)",4.674036587081988,23279.0,29676_0_no,37.116635361872646,-120.21214139371295,5.0

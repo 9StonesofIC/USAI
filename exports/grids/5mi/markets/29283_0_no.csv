@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87418,36.94938,-108.14728,La Plata,NM,New Mexico,True,,849.0,4.9,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.94938, -108.14728)",2.115316583988398,849.0,29283_0_no,36.96242536944903,-108.11261987377588,5.0

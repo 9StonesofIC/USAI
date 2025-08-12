@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37742,35.67548,-84.18049,Greenback,TN,Tennessee,True,,6362.0,49.7,47105,Loudon,"{""47105"": 69.37, ""47009"": 30.63}",Loudon|Blount,47105|47009,False,False,America/New_York,"(35.67548, -84.18049)",5.393836416096018,6362.0,26204_0_yes,35.71236857108513,-84.26520452836864,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54562,45.81081,-89.0813,Three Lakes,WI,Wisconsin,True,,1701.0,4.5,55085,Oneida,"{""55085"": 65.01, ""55041"": 34.99}",Oneida|Forest,55085|55041,False,False,America/Chicago,"(45.81081, -89.0813)",2.3843313976760694,1701.0,47875_0_no,45.78199519996946,-89.10853504672048,5.0

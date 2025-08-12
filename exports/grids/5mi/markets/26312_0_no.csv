@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87044,35.71254,-106.65652,Ponderosa,NM,New Mexico,True,,184.0,1.7,35043,Sandoval,"{""35043"": 100}",Sandoval,35043,False,False,America/Denver,"(35.71254, -106.65652)",4.57610216832813,184.0,26312_0_no,35.656421661217486,-106.61321477610588,5.0

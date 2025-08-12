@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74534,34.61965,-96.36634,Centrahoma,OK,Oklahoma,True,,127.0,1.7,40029,Coal,"{""40029"": 100}",Coal,40029,False,False,America/Chicago,"(34.61965, -96.36634)",3.4671220651621515,4189.0,23915_0_no,34.63392177457546,-96.30787651339516,5.0
+74538,34.57453,-96.25575,Coalgate,OK,Oklahoma,True,,4062.0,4.3,40029,Coal,"{""40029"": 99.11, ""40005"": 0.89}",Coal|Atoka,40029|40005,False,False,America/Chicago,"(34.57453, -96.25575)",5.062348677182009,4189.0,23915_0_no,34.63392177457546,-96.30787651339516,5.0

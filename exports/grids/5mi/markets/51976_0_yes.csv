@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98236,47.95804,-122.40468,Clinton,WA,Washington,True,,6140.0,102.9,53029,Island,"{""53029"": 100}",Island,53029,False,False,America/Los_Angeles,"(47.95804, -122.40468)",3.285636898316245,6140.0,51976_0_yes,47.91115010525101,-122.4164966452396,5.0

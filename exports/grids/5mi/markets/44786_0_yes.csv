@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57791,44.24388,-102.46514,Wasta,SD,South Dakota,True,,177.0,0.2,46093,Meade,"{""46093"": 70.73, ""46103"": 29.27}",Meade|Pennington,46093|46103,False,False,America/Denver,"(44.24388, -102.46514)",3.083941511591616,177.0,44786_0_yes,44.27399624768643,-102.41914267280896,5.0

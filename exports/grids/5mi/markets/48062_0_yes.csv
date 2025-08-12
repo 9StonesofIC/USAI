@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98675,45.86349,-122.33104,Yacolt,WA,Washington,True,,7604.0,18.9,53011,Clark,"{""53011"": 100}",Clark,53011,False,False,America/Los_Angeles,"(45.86349, -122.33104)",1.9212353272682174,7604.0,48062_0_yes,45.88440718427368,-122.3047255692671,5.0

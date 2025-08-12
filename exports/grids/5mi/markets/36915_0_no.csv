@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80620,40.37425,-104.71337,Evans,CO,Colorado,True,,21331.0,1391.3,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.37425, -104.71337)",6.508341768222887,77079.0,36915_0_no,40.43790786750252,-104.6221902020025,5.0
+80631,40.44216,-104.67809,Greeley,CO,Colorado,True,,55748.0,207.8,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.44216, -104.67809)",2.954191011017258,77079.0,36915_0_no,40.43790786750252,-104.6221902020025,5.0

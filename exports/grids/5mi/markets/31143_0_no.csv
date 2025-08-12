@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65583,37.82171,-92.2541,Waynesville,MO,Missouri,True,,12470.0,76.1,29169,Pulaski,"{""29169"": 100}",Pulaski,29169,False,False,America/Chicago,"(37.82171, -92.2541)",3.140564558190384,24456.0,31143_0_no,37.81985077217907,-92.19660668373538,5.0
+65584,37.82901,-92.13086,Saint Robert,MO,Missouri,True,,11986.0,190.4,29169,Pulaski,"{""29169"": 100}",Pulaski,29169,False,False,America/Chicago,"(37.82901, -92.13086)",3.643599283756935,24456.0,31143_0_no,37.81985077217907,-92.19660668373538,5.0

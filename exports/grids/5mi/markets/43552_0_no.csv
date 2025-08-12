@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57005,43.59281,-96.58728,Brandon,SD,South Dakota,True,,11576.0,91.3,46099,Minnehaha,"{""46099"": 100}",Minnehaha,46099,False,False,America/Chicago,"(43.59281, -96.58728)",1.8815476458726226,11576.0,43552_0_no,43.617423006214935,-96.60337201878554,5.0

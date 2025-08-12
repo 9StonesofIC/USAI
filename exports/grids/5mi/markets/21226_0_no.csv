@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76371,33.48668,-99.65453,Munday,TX,Texas,True,,1540.0,4.6,48275,Knox,"{""48275"": 96.69, ""48207"": 3.31}",Knox|Haskell,48275|48207,False,False,America/Chicago,"(33.48668, -99.65453)",1.169456921811902,1540.0,21226_0_no,33.476167003705044,-99.63862608503072,5.0

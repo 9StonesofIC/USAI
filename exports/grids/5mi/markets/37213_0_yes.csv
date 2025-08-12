@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68354,40.63935,-97.58032,Fairmont,NE,Nebraska,True,,990.0,3.6,31059,Fillmore,"{""31059"": 86.86, ""31185"": 13.14}",Fillmore|York,31059|31185,False,False,America/Chicago,"(40.63935, -97.58032)",1.0613969521094013,990.0,37213_0_yes,40.64939071042611,-97.59564245804177,5.0

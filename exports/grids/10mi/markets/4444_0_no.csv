@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88020,31.78203,-108.82192,Animas,NM,New Mexico,True,,773.0,0.2,35023,Hidalgo,"{""35023"": 100}",Hidalgo,35023,False,False,America/Denver,"(31.78203, -108.82192)",2.8479836955193276,955.0,4444_0_no,31.803563685409863,-108.8632717628626,10.0
+88056,31.84062,-109.00295,Rodeo,NM,New Mexico,True,,182.0,0.7,35023,Hidalgo,"{""35023"": 100}",Hidalgo,35023,False,False,America/Denver,"(31.84062, -109.00295)",8.590635563111741,955.0,4444_0_no,31.803563685409863,-108.8632717628626,10.0

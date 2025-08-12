@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76657,31.43851,-97.39971,McGregor,TX,Texas,True,,11151.0,31.1,48309,McLennan,"{""48309"": 92.49, ""48099"": 7.51}",McLennan|Coryell,48309|48099,False,False,America/Chicago,"(31.43851, -97.39971)",4.606694348766636,11151.0,16388_0_no,31.443867745006973,-97.3218154055624,5.0

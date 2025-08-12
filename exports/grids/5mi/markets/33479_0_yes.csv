@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80816,38.85162,-105.31591,Florissant,CO,Colorado,True,,5932.0,12.6,8119,Teller,"{""08119"": 62.65, ""08093"": 37.35}",Teller|Park,08119|08093,False,False,America/Denver,"(38.85162, -105.31591)",4.564286082326408,5932.0,33479_0_yes,38.916989241860826,-105.32814721596448,5.0

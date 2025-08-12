@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81301,37.51095,-107.82066,Durango,CO,Colorado,True,,30307.0,15.5,8067,La Plata,"{""08067"": 78.31, ""08111"": 21.69}",La Plata|San Juan,08067|08111,False,False,America/Denver,"(37.51095, -107.82066)",5.086459833711964,30307.0,30278_0_yes,37.46960414633254,-107.89742513270744,5.0

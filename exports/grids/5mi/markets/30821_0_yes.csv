@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62917,37.69752,-88.64882,Carrier Mills,IL,Illinois,True,,2292.0,29.8,17165,Saline,"{""17165"": 78.43, ""17199"": 21.57}",Saline|Williamson,17165|17199,False,False,America/Chicago,"(37.69752, -88.64882)",3.278876405532225,2292.0,30821_0_yes,37.7446114321907,-88.65623920731552,5.0

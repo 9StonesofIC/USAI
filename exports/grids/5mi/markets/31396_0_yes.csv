@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21838,38.01452,-75.73098,Marion Station,MD,Maryland,True,,1805.0,12.7,24039,Somerset,"{""24039"": 100}",Somerset,24039,False,False,America/New_York,"(38.01452, -75.73098)",2.7349142970767586,2487.0,31396_0_yes,38.024301300703065,-75.68229355267971,5.0
+23488,37.95237,-75.60831,Withams,VA,Virginia,True,,682.0,36.3,51001,Accomack,"{""51001"": 100}",Accomack,51001,False,False,America/New_York,"(37.95237, -75.60831)",6.397790377698656,2487.0,31396_0_yes,38.024301300703065,-75.68229355267971,5.0

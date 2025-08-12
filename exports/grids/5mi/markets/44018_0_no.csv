@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03223,43.84784,-71.67597,Campton,NH,New Hampshire,True,,3382.0,18.7,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.84784, -71.67597)",3.47636414850376,5898.0,44018_0_no,43.88509623857723,-71.6290667609239,5.0
+03285,43.92408,-71.64359,Thornton,NH,New Hampshire,True,,2516.0,19.4,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.92408, -71.64359)",2.7888653371620005,5898.0,44018_0_no,43.88509623857723,-71.6290667609239,5.0

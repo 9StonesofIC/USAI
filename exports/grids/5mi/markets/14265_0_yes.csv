@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71353,30.67949,-91.79664,Melville,LA,Louisiana,True,,2087.0,9.9,22097,St. Landry,"{""22097"": 100}",St. Landry,22097,False,False,America/Chicago,"(30.67949, -91.79664)",3.5776810508895425,2087.0,14265_0_yes,30.642304226288868,-91.75475019742782,5.0

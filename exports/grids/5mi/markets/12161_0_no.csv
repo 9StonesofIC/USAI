@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78933,29.77209,-96.33829,Cat Spring,TX,Texas,True,,1194.0,3.5,48089,Colorado,"{""48089"": 69.34, ""48015"": 30.66}",Colorado|Austin,48089|48015,False,False,America/Chicago,"(29.77209, -96.33829)",5.046608491064777,1194.0,12161_0_no,29.702156010927933,-96.3140193661197,5.0

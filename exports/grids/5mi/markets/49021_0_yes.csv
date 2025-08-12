@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49853,46.36112,-85.74494,McMillan,MI,Michigan,True,,1262.0,2.9,26095,Luce,"{""26095"": 98.74, ""26097"": 1.26}",Luce|Mackinac,26095|26097,False,False,America/Detroit,"(46.36112, -85.74494)",6.331283247889318,1262.0,49021_0_yes,46.43012413571846,-85.83236132231838,5.0

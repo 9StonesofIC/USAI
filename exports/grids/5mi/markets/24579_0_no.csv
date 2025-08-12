@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74935,34.95433,-94.89687,Fanshawe,OK,Oklahoma,True,,211.0,10.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago,"(34.95433, -94.89687)",4.909526824551152,424.0,24579_0_no,34.92294272682963,-94.97463403270196,5.0
+74942,34.89799,-94.97661,Leflore,OK,Oklahoma,True,,213.0,59.8,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago,"(34.89799, -94.97661)",1.7277005661974216,424.0,24579_0_no,34.92294272682963,-94.97463403270196,5.0

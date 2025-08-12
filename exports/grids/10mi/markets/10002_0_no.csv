@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82943,41.70197,-109.18399,Reliance,WY,Wyoming,True,,166.0,1.6,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver,"(41.70197, -109.18399)",10.265440380685764,360.0,10002_0_no,41.65961894073827,-108.9933127802582,10.0
+82945,41.72007,-108.9389,Superior,WY,Wyoming,True,,194.0,1.1,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver,"(41.72007, -108.9389)",5.0326276357847775,360.0,10002_0_no,41.65961894073827,-108.9933127802582,10.0

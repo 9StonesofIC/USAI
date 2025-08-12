@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24472,37.93833,-79.22194,Raphine,VA,Virginia,True,,1866.0,10.1,51163,Rockbridge,"{""51163"": 50.64, ""51015"": 49.36}",Rockbridge|Augusta,51163|51015,False,False,America/New_York,"(37.93833, -79.22194)",5.108323184323882,1866.0,31395_0_no,37.95473441694805,-79.31335779519128,5.0

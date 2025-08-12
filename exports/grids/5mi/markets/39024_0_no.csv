@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50274,41.38261,-94.85756,Wiota,IA,Iowa,True,,139.0,1.1,19029,Cass,"{""19029"": 100}",Cass,19029,False,False,America/Chicago,"(41.38261, -94.85756)",4.297608384105174,139.0,39024_0_no,41.4438222540753,-94.87228167737716,5.0

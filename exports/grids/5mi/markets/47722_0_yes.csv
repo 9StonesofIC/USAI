@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59715,45.6928,-110.9065,Bozeman,MT,Montana,True,,36760.0,48.1,30031,Gallatin,"{""30031"": 91.82, ""30067"": 8.18}",Gallatin|Park,30031|30067,False,False,America/Denver,"(45.6928, -110.9065)",2.9824304411357647,36760.0,47722_0_yes,45.72933575696086,-110.93941866070963,5.0

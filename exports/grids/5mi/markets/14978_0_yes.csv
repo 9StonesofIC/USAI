@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70639,30.98235,-93.49793,Evans,LA,Louisiana,True,,300.0,1.8,22115,Vernon,"{""22115"": 100}",Vernon,22115,False,False,America/Chicago,"(30.98235, -93.49793)",3.4123528751396677,300.0,14978_0_yes,30.933584838937424,-93.50704414727612,5.0

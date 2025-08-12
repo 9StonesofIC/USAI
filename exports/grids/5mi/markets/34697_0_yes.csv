@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66416,39.52944,-95.86353,Circleville,KS,Kansas,True,,497.0,5.5,20085,Jackson,"{""20085"": 90.73, ""20131"": 9.27}",Jackson|Nemaha,20085|20131,False,False,America/Chicago,"(39.52944, -95.86353)",3.9375415576184274,497.0,34697_0_yes,39.488980381192285,-95.81151094040877,5.0

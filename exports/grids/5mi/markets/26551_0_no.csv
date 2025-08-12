@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72428,35.7414,-90.21672,Etowah,AR,Arkansas,True,,97.0,5.5,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago,"(35.7414, -90.21672)",3.422744550621101,4360.0,26551_0_no,35.78926970047984,-90.20100988956762,5.0
+72442,35.82458,-90.17948,Manila,AR,Arkansas,True,,4263.0,12.7,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago,"(35.82458, -90.17948)",2.721692741850955,4360.0,26551_0_no,35.78926970047984,-90.20100988956762,5.0

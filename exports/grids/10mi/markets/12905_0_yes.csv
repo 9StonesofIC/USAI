@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58438,47.66247,-99.57983,Fessenden,ND,North Dakota,True,,831.0,2.0,38103,Wells,"{""38103"": 100}",Wells,38103,False,False,America/Chicago,"(47.66247, -99.57983)",9.770554259685666,922.0,12905_0_yes,47.576972215988725,-99.7469356594275,10.0
+58451,47.45167,-99.95275,Hurdsfield,ND,North Dakota,True,,91.0,0.3,38103,Wells,"{""38103"": 100}",Wells,38103,False,False,America/Chicago,"(47.45167, -99.95275)",12.930604779656312,922.0,12905_0_yes,47.576972215988725,-99.7469356594275,10.0

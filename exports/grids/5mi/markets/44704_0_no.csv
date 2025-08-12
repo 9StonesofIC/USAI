@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54627,44.16873,-91.23634,Ettrick,WI,Wisconsin,True,,1754.0,8.0,55121,Trempealeau,"{""55121"": 88.19, ""55053"": 11.81}",Trempealeau|Jackson,55121|55053,False,False,America/Chicago,"(44.16873, -91.23634)",3.3027043378069685,1754.0,44704_0_no,44.19185244132132,-91.29467637022007,5.0

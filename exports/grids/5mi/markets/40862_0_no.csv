@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68723,42.28759,-97.21456,Carroll,NE,Nebraska,True,,666.0,3.9,31179,Wayne,"{""31179"": 100}",Wayne,31179,False,False,America/Chicago,"(42.28759, -97.21456)",2.121241473929599,666.0,40862_0_no,42.31473050966738,-97.19515687367348,5.0

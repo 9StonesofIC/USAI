@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56186,44.02823,-96.08131,Woodstock,MN,Minnesota,True,,357.0,2.2,27117,Pipestone,"{""27117"": 60.56, ""27101"": 39.44}",Pipestone|Murray,27117|27101,False,False,America/Chicago,"(44.02823, -96.08131)",3.702635180407515,357.0,44167_0_yes,43.97888996618589,-96.11038323293604,5.0

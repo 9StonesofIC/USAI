@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42064,37.35022,-88.09158,Marion,KY,Kentucky,True,,8063.0,10.6,21055,Crittenden,"{""21055"": 95.54, ""21033"": 4.46}",Crittenden|Caldwell,21055|21033,False,False,America/Chicago,"(37.35022, -88.09158)",3.8920806112365023,8063.0,29844_0_yes,37.30948600822923,-88.14051210521913,5.0

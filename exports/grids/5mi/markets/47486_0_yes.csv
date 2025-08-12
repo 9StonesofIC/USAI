@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97040,45.62648,-121.38476,Mosier,OR,Oregon,True,,1725.0,12.6,41065,Wasco,"{""41065"": 99.78, ""41027"": 0.22}",Wasco|Hood River,41065|41027,False,False,America/Los_Angeles,"(45.62648, -121.38476)",5.2180977577883105,1725.0,47486_0_yes,45.59391040150106,-121.28735481698556,5.0

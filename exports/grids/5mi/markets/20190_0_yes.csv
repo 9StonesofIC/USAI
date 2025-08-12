@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75457,33.1746,-95.21125,Mount Vernon,TX,Texas,True,,6243.0,18.8,48159,Franklin,"{""48159"": 100}",Franklin,48159,False,False,America/Chicago,"(33.1746, -95.21125)",5.112123992444554,6832.0,20190_0_yes,33.110449500709585,-95.16722233907656,5.0
+75493,33.14073,-95.11316,Winfield,TX,Texas,True,,589.0,57.6,48449,Titus,"{""48449"": 100}",Titus,48449,False,False,America/Chicago,"(33.14073, -95.11316)",3.763410410693402,6832.0,20190_0_yes,33.110449500709585,-95.16722233907656,5.0

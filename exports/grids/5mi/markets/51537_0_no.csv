@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55781,47.67587,-93.06524,Side Lake,MN,Minnesota,True,,778.0,3.7,27061,Itasca,"{""27061"": 54.03, ""27137"": 45.97}",Itasca|St. Louis,27061|27137,False,False,America/Chicago,"(47.67587, -93.06524)",3.8536940684292977,778.0,51537_0_no,47.66660789476976,-92.9835618852897,5.0

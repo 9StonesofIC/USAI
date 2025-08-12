@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38258,36.02094,-88.61188,Trezevant,TN,Tennessee,True,,1430.0,17.1,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago,"(36.02094, -88.61188)",4.345974149876582,1430.0,27204_0_no,36.078011763748776,-88.64458560135593,5.0

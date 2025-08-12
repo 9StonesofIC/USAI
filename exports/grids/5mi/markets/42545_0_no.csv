@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12831,43.19533,-73.68791,Gansevoort,NY,New York,True,,17389.0,103.0,36091,Saratoga,"{""36091"": 100}",Saratoga,36091,False,False,America/New_York,"(43.19533, -73.68791)",2.99417531268956,21750.0,42545_0_no,43.16320102930113,-73.64803109529886,5.0
+12871,43.09249,-73.61196,Schuylerville,NY,New York,True,,4361.0,60.3,36091,Saratoga,"{""36091"": 100}",Saratoga,36091,False,False,America/New_York,"(43.09249, -73.61196)",5.213278450276769,21750.0,42545_0_no,43.16320102930113,-73.64803109529886,5.0

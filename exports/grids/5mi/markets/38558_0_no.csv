@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96031,41.17262,-123.18029,Forks Of Salmon,CA,California,True,,96.0,0.1,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.17262, -123.18029)",0.8001896717060748,96.0,38558_0_no,41.1777258476778,-123.1941002880773,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50638,42.35654,-92.79495,Grundy Center,IA,Iowa,True,,3307.0,13.6,19075,Grundy,"{""19075"": 100}",Grundy,19075,False,False,America/Chicago,"(42.35654, -92.79495)",3.021689948686935,3943.0,40866_0_yes,42.383301637532966,-92.74813226404568,5.0
+50642,42.44024,-92.81243,Holland,IA,Iowa,True,,636.0,7.8,19075,Grundy,"{""19075"": 100}",Grundy,19075,False,False,America/Chicago,"(42.44024, -92.81243)",5.122044087052088,3943.0,40866_0_yes,42.383301637532966,-92.74813226404568,5.0

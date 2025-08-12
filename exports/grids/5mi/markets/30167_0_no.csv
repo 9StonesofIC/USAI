@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63629,37.39847,-91.23861,Bunker,MO,Missouri,True,,1109.0,1.5,29203,Shannon,"{""29203"": 47.81, ""29179"": 32.9, ""29065"": 19.3}",Shannon|Reynolds|Dent,29203|29179|29065,False,False,America/Chicago,"(37.39847, -91.23861)",3.3108340330179415,1109.0,30167_0_no,37.38440691307806,-91.29626617867198,5.0

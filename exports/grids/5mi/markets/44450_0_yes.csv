@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56024,44.14768,-93.84419,Eagle Lake,MN,Minnesota,True,,3430.0,71.4,27013,Blue Earth,"{""27013"": 100}",Blue Earth,27013,False,False,America/Chicago,"(44.14768, -93.84419)",1.9658443275872186,4158.0,44450_0_yes,44.12165360480012,-93.82817326650266,5.0
+56080,44.08166,-93.85781,Saint Clair,MN,Minnesota,True,,728.0,636.1,27013,Blue Earth,"{""27013"": 100}",Blue Earth,27013,False,False,America/Chicago,"(44.08166, -93.85781)",3.1301877667357934,4158.0,44450_0_yes,44.12165360480012,-93.82817326650266,5.0

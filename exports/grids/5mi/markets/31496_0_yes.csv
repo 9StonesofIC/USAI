@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64780,38.06246,-94.04276,Rockville,MO,Missouri,True,,455.0,1.8,29185,St. Clair,"{""29185"": 58.09, ""29013"": 41.91}",St. Clair|Bates,29185|29013,False,False,America/Chicago,"(38.06246, -94.04276)",2.3111533699121467,455.0,31496_0_yes,38.0385906175518,-94.01300180227176,5.0

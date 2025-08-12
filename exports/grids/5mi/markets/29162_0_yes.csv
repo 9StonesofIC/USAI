@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24273,36.96142,-82.65632,Norton,VA,Virginia,True,,6052.0,36.2,51195,Wise,"{""51195"": 88.4, ""51720"": 11.6}",Wise|Norton,51195|51720,False,False,America/New_York,"(36.96142, -82.65632)",3.8744955707938753,6052.0,29162_0_yes,37.01548758867234,-82.67494139269756,5.0

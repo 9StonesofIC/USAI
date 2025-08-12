@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79084,36.25502,-102.01825,Stratford,TX,Texas,True,,2021.0,1.8,48421,Sherman,"{""48421"": 97.33, ""48111"": 2.67}",Sherman|Dallam,48421|48111,False,False,America/Chicago,"(36.25502, -102.01825)",3.445453561290367,2021.0,6973_0_yes,36.28825639367731,-102.06436082228142,10.0

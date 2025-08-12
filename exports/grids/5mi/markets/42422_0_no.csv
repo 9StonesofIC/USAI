@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82501,43.03325,-108.24936,Riverton,WY,Wyoming,True,,19660.0,10.9,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver,"(43.03325, -108.24936)",4.036839106882701,19660.0,42422_0_no,43.04837543695997,-108.3265750745511,5.0

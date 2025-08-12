@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57339,44.11233,-99.47862,Fort Thompson,SD,South Dakota,True,,1547.0,11.0,46017,Buffalo,"{""46017"": 100}",Buffalo,46017,False,False,America/Chicago,"(44.11233, -99.47862)",1.4158395213326602,1547.0,44478_0_yes,44.12660782448656,-99.45814510738909,5.0

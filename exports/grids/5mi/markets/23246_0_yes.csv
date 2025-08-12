@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71972,34.39447,-94.24695,Vandervoort,AR,Arkansas,True,,484.0,4.6,5113,Polk,"{""05113"": 100}",Polk,05113,False,False,America/Chicago,"(34.39447, -94.24695)",3.7413885098267197,484.0,23246_0_yes,34.41486873015309,-94.1861542784413,5.0

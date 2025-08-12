@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45828,40.48672,-84.67677,Coldwater,OH,Ohio,True,,6680.0,76.2,39107,Mercer,"{""39107"": 100}",Mercer,39107,False,False,America/New_York,"(40.48672, -84.67677)",3.6113754420309836,6680.0,36834_0_yes,40.49397577910392,-84.74483166447068,5.0

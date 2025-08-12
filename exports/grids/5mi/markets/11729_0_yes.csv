@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32147,29.63157,-81.79577,Hollister,FL,Florida,True,,597.0,7.7,12107,Putnam,"{""12107"": 100}",Putnam,12107,False,False,America/New_York,"(29.63157, -81.79577)",0.8192960494001096,597.0,11729_0_yes,29.62047828163682,-81.79094641619716,5.0

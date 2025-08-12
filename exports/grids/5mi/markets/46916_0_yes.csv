@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97055,45.35975,-122.15396,Sandy,OR,Oregon,True,,18600.0,63.8,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles,"(45.35975, -122.15396)",3.996417468241349,18600.0,46916_0_yes,45.3050762025484,-122.12710798709216,5.0

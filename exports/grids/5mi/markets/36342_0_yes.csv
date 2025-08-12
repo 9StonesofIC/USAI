@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84063,40.21007,-109.69285,Randlett,UT,Utah,True,,152.0,0.7,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver,"(40.21007, -109.69285)",1.136995713563488,152.0,36342_0_yes,40.22467299220911,-109.6829152676316,5.0

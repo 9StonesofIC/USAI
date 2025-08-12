@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54498,45.03278,-90.62105,Withee,WI,Wisconsin,True,,2376.0,8.2,55019,Clark,"{""55019"": 50.7, ""55119"": 49.3}",Clark|Taylor,55019|55119,False,False,America/Chicago,"(45.03278, -90.62105)",2.5625655933005116,2376.0,46447_0_no,45.0597003862911,-90.58494194508606,5.0

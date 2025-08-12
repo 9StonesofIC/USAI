@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61314,41.29745,-89.67474,Buda,IL,Illinois,True,,871.0,7.4,17011,Bureau,"{""17011"": 100}",Bureau,17011,False,False,America/Chicago,"(41.29745, -89.67474)",3.9610990168775784,1606.0,38691_0_no,41.29471408811644,-89.75095933979313,5.0
+61345,41.27981,-89.78878,Neponset,IL,Illinois,True,,735.0,6.0,17011,Bureau,"{""17011"": 91.97, ""17175"": 8.03}",Bureau|Stark,17011|17175,False,False,America/Chicago,"(41.27981, -89.78878)",2.2172024254600684,1606.0,38691_0_no,41.29471408811644,-89.75095933979313,5.0

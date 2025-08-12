@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49224,42.27982,-84.74852,Albion,MI,Michigan,True,,14099.0,54.5,26025,Calhoun,"{""26025"": 69.27, ""26075"": 30.73}",Calhoun|Jackson,26025|26075,False,False,America/Detroit,"(42.27982, -84.74852)",5.26520710758666,14099.0,40523_0_yes,42.23176473754405,-84.8284253295317,5.0

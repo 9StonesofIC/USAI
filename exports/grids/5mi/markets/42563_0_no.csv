@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14505,43.15846,-77.17503,Marion,NY,New York,True,,5277.0,51.5,36117,Wayne,"{""36117"": 100}",Wayne,36117,False,False,America/New_York,"(43.15846, -77.17503)",1.8508548861989542,11518.0,42563_0_no,43.16628156484288,-77.21015443850835,5.0
+14568,43.14657,-77.28365,Walworth,NY,New York,True,,6241.0,98.5,36117,Wayne,"{""36117"": 100}",Wayne,36117,False,False,America/New_York,"(43.14657, -77.28365)",3.946818168182574,11518.0,42563_0_no,43.16628156484288,-77.21015443850835,5.0

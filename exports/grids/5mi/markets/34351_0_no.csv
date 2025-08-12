@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64068,39.25924,-94.39042,Liberty,MO,Missouri,True,,38976.0,177.5,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago,"(39.25924, -94.39042)",3.3100775724338365,39450.0,34351_0_no,39.2705107386591,-94.33027931706438,5.0
+64072,39.23286,-94.30021,Missouri City,MO,Missouri,True,,474.0,165.6,29047,Clay,"{""29047"": 100}",Clay,29047,False,False,America/Chicago,"(39.23286, -94.30021)",3.0587123181152336,39450.0,34351_0_no,39.2705107386591,-94.33027931706438,5.0

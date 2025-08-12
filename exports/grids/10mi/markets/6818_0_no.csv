@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87320,35.80762,-108.87136,Mexican Springs,NM,New Mexico,True,,377.0,1.6,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.80762, -108.87136)",5.502501818830084,377.0,6818_0_no,35.86364099672017,-108.80153950873544,10.0

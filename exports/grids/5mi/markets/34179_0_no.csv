@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95946,39.21052,-121.20467,Penn Valley,CA,California,True,,8335.0,72.0,6057,Nevada,"{""06057"": 100}",Nevada,06057,False,False,America/Los_Angeles,"(39.21052, -121.20467)",4.403194895210944,29098.0,34179_0_no,39.14707746017699,-121.19689555902724,5.0
+95949,39.102,-121.13343,Grass Valley,CA,California,True,,20763.0,58.5,6057,Nevada,"{""06057"": 100}",Nevada,06057,False,False,America/Los_Angeles,"(39.102, -121.13343)",4.612247987642031,29098.0,34179_0_no,39.14707746017699,-121.19689555902724,5.0

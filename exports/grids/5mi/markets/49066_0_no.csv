@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58570,46.37243,-100.87237,Solen,ND,North Dakota,True,,493.0,0.6,38059,Morton,"{""38059"": 51.53, ""38085"": 48.47}",Morton|Sioux,38059|38085,False,False,America/North_Dakota/New_Salem,"(46.37243, -100.87237)",0.4954194030622113,493.0,49066_0_no,46.371572876850415,-100.86205239890889,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31537,30.89223,-82.12492,Folkston,GA,Georgia,True,,10559.0,7.5,13049,Charlton,"{""13049"": 95.11, ""13039"": 4.89}",Charlton|Camden,13049|13039,False,False,America/New_York,"(30.89223, -82.12492)",4.6720718741993235,10559.0,14910_0_yes,30.92612962106002,-82.05672702618163,5.0

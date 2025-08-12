@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48658,43.98038,-83.94072,Standish,MI,Michigan,True,,4789.0,22.8,26011,Arenac,"{""26011"": 89.62, ""26017"": 10.38}",Arenac|Bay,26011|26017,False,False,America/Detroit,"(43.98038, -83.94072)",3.3209851200238907,4789.0,44106_0_yes,43.968153090353525,-83.87612766501404,5.0

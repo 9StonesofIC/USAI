@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34475,29.25282,-82.16065,Ocala,FL,Florida,True,,13291.0,184.6,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.25282, -82.16065)",2.1516513363747354,36867.0,11009_0_no,29.25808082216812,-82.19583095468833,5.0
+34482,29.24984,-82.27702,Ocala,FL,Florida,True,,23576.0,97.9,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.24984, -82.27702)",4.927198783906115,36867.0,11009_0_no,29.25808082216812,-82.19583095468833,5.0

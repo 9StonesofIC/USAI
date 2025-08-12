@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98833,48.77199,-120.49447,Mazama,WA,Washington,True,,137.0,0.1,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.77199, -120.49447)",5.78281736437964,2742.0,3425_0_yes,48.76530791040795,-120.62104918073724,20.0
+98862,48.58491,-120.22792,Winthrop,WA,Washington,True,,2605.0,2.1,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.58491, -120.22792)",21.84184198875087,2742.0,3425_0_yes,48.76530791040795,-120.62104918073724,20.0

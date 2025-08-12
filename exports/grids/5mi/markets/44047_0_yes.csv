@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03777,43.89548,-72.06672,Orford,NH,New Hampshire,True,,1372.0,11.4,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.89548, -72.06672)",4.4365086052790375,2189.0,44047_0_yes,43.95777204694824,-72.04509127527456,5.0
+03779,43.97477,-72.03089,Piermont,NH,New Hampshire,True,,817.0,8.2,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.97477, -72.03089)",1.3704316280628146,2189.0,44047_0_yes,43.95777204694824,-72.04509127527456,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30546,34.90673,-83.71016,Hiawassee,GA,Georgia,True,,7596.0,22.5,13281,Towns,"{""13281"": 100}",Towns,13281,False,False,America/New_York,"(34.90673, -83.71016)",5.8636517609518615,7596.0,24196_0_yes,34.84221594963195,-83.64295294699967,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84731,38.19714,-112.76195,Greenville,UT,Utah,True,,78.0,0.3,49001,Beaver,"{""49001"": 100}",Beaver,49001,False,False,America/Denver,"(38.19714, -112.76195)",5.474241175333429,78.0,31900_0_no,38.125764521190206,-112.8056915620676,5.0

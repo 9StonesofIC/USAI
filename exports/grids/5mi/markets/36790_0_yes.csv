@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17026,40.46734,-76.43626,Fredericksburg,PA,Pennsylvania,True,,3981.0,63.0,42075,Lebanon,"{""42075"": 91.14, ""42011"": 8.86}",Lebanon|Berks,42075|42011,False,False,America/New_York,"(40.46734, -76.43626)",2.6769110540408745,3981.0,36790_0_yes,40.487116606789485,-76.39246186333888,5.0

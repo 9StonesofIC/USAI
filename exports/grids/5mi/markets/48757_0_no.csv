@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56361,46.16146,-95.3351,Parkers Prairie,MN,Minnesota,True,,2547.0,6.2,27111,Otter Tail,"{""27111"": 83.55, ""27041"": 16.45}",Otter Tail|Douglas,27111|27041,False,False,America/Chicago,"(46.16146, -95.3351)",4.624085866953678,2547.0,48757_0_no,46.22176451650797,-95.2931742298662,5.0

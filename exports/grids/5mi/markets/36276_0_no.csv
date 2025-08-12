@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69041,40.17288,-101.73415,Parks,NE,Nebraska,True,,66.0,0.2,31057,Dundy,"{""31057"": 100}",Dundy,31057,False,False,America/Denver,"(40.17288, -101.73415)",3.1224467027217084,66.0,36276_0_no,40.14574644195246,-101.68686284291512,5.0

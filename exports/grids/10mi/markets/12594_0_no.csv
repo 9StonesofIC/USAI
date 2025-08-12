@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54865,46.74787,-91.37517,Port Wing,WI,Wisconsin,True,,489.0,2.9,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago,"(46.74787, -91.37517)",8.270726552106987,489.0,12594_0_no,46.838718159814505,-91.48902065082524,10.0

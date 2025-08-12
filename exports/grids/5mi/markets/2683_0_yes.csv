@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34113,26.05685,-81.73523,Naples,FL,Florida,True,,22573.0,336.8,12021,Collier,"{""12021"": 100}",Collier,12021,False,False,America/New_York,"(26.05685, -81.73523)",4.636113093168892,22573.0,2683_0_yes,25.99287803472465,-81.75776022852043,5.0

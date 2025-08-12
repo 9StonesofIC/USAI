@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42366,37.72404,-86.93988,Philpot,KY,Kentucky,True,,5227.0,23.0,21059,Daviess,"{""21059"": 94.76, ""21183"": 4.18, ""21091"": 1.06}",Daviess|Ohio|Hancock,21059|21183|21091,False,False,America/Chicago,"(37.72404, -86.93988)",4.027949382907599,5227.0,30791_0_no,37.67089506888176,-86.97016361774659,5.0

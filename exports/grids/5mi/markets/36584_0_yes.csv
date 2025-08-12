@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68332,40.32829,-96.41123,Crab Orchard,NE,Nebraska,True,,101.0,0.9,31097,Johnson,"{""31097"": 100}",Johnson,31097,False,False,America/Chicago,"(40.32829, -96.41123)",2.45280031717877,101.0,36584_0_yes,40.3586780841806,-96.38715154078464,5.0

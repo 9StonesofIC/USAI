@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82410,44.37297,-108.15093,Basin,WY,Wyoming,True,,2181.0,5.4,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver,"(44.37297, -108.15093)",5.038993000221183,2181.0,45107_0_yes,44.42391041946632,-108.22397606363594,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22842,38.77191,-78.6992,Mount Jackson,VA,Virginia,True,,5572.0,26.3,51171,Shenandoah,"{""51171"": 100}",Shenandoah,51171,False,False,America/New_York,"(38.77191, -78.6992)",1.4794309458639312,6290.0,33017_0_yes,38.75098139443537,-78.70500211334863,5.0
+22847,38.71792,-78.70972,Quicksburg,VA,Virginia,True,,718.0,19.3,51171,Shenandoah,"{""51171"": 100}",Shenandoah,51171,False,False,America/New_York,"(38.71792, -78.70972)",2.2984336102412506,6290.0,33017_0_yes,38.75098139443537,-78.70500211334863,5.0

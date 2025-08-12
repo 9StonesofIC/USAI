@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63473,40.25263,-91.77803,Williamstown,MO,Missouri,True,,251.0,1.6,29111,Lewis,"{""29111"": 52.04, ""29045"": 47.96}",Lewis|Clark,29111|29045,False,False,America/Chicago,"(40.25263, -91.77803)",2.274468098299234,251.0,36536_0_no,40.2825360077512,-91.79606023844046,5.0

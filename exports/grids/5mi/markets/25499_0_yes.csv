@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28513,35.44276,-77.3897,Ayden,NC,North Carolina,True,,9913.0,43.0,37147,Pitt,"{""37147"": 87.02, ""37079"": 12.98}",Pitt|Greene,37147|37079,False,False,America/New_York,"(35.44276, -77.3897)",4.110859567643525,9913.0,25499_0_yes,35.41738832594668,-77.32365353080763,5.0

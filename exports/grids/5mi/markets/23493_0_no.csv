@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29015,34.4412,-81.33807,Blair,SC,South Carolina,True,,1883.0,6.2,45039,Fairfield,"{""45039"": 100}",Fairfield,45039,False,False,America/New_York,"(34.4412, -81.33807)",3.7280051733972663,1883.0,23493_0_no,34.47815887139275,-81.29039378116578,5.0

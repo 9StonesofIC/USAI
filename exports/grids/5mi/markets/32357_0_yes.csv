@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19944,38.47542,-75.05559,Fenwick Island,DE,Delaware,True,,746.0,231.8,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.47542, -75.05559)",2.312318939242727,746.0,32357_0_yes,38.45836115010984,-75.0188164963063,5.0

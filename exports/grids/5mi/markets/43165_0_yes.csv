@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05764,43.52854,-73.19401,Poultney,VT,Vermont,True,,3251.0,28.2,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York,"(43.52854, -73.19401)",1.4760277589680808,4391.0,43165_0_yes,43.52462562803916,-73.22297484077244,5.0
+12837,43.50842,-73.26651,Hampton,NY,New York,True,,1140.0,31.7,36115,Washington,"{""36115"": 100}",Washington,36115,False,False,America/New_York,"(43.50842, -73.26651)",2.4519189551346696,4391.0,43165_0_yes,43.52462562803916,-73.22297484077244,5.0

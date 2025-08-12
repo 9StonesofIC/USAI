@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49640,44.72088,-86.03664,Honor,MI,Michigan,True,,1369.0,8.3,26019,Benzie,"{""26019"": 97.03, ""26089"": 2.97}",Benzie|Leelanau,26019|26089,False,False,America/Detroit,"(44.72088, -86.03664)",3.8216893128467,1369.0,45845_0_no,44.76621490387717,-86.08125491798829,5.0

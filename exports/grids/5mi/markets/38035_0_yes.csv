@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17810,41.1123,-77.02543,Allenwood,PA,Pennsylvania,True,,5884.0,41.2,42081,Lycoming,"{""42081"": 73.46, ""42119"": 26.54}",Lycoming|Union,42081|42119,False,False,America/New_York,"(41.1123, -77.02543)",5.703957111190689,5884.0,38035_0_yes,41.06693261905944,-77.11694211785276,5.0

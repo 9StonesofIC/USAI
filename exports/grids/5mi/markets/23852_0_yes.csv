@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29680,34.69011,-82.29073,Simpsonville,SC,South Carolina,True,,31913.0,424.0,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York,"(34.69011, -82.29073)",1.179321471689809,31913.0,23852_0_yes,34.696295147861115,-82.31007833030318,5.0

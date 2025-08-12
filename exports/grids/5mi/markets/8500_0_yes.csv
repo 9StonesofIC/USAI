@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32955,28.29414,-80.77528,Rockledge,FL,Florida,True,,39846.0,302.5,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.29414, -80.77528)",4.955811449583512,39846.0,8500_0_yes,28.3141936803307,-80.8534972753573,5.0

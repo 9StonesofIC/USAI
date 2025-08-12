@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34759,28.09113,-81.43774,Kissimmee,FL,Florida,True,,38406.0,196.7,12105,Polk,"{""12105"": 64.6, ""12097"": 35.4}",Polk|Osceola,12105|12097,False,False,America/New_York,"(28.09113, -81.43774)",4.872820214026401,38406.0,7782_0_yes,28.024369606524942,-81.46350178665543,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77629,29.97476,-94.42727,Nome,TX,Texas,True,,810.0,4.9,48245,Jefferson,"{""48245"": 73.04, ""48291"": 26.96}",Jefferson|Liberty,48245|48291,False,False,America/Chicago,"(29.97476, -94.42727)",5.760004603670157,810.0,12516_0_yes,29.91863481189139,-94.49841012980332,5.0

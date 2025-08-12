@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03246,43.57239,-71.4775,Laconia,NH,New Hampshire,True,,16573.0,322.0,33001,Belknap,"{""33001"": 100}",Belknap,33001,False,False,America/New_York,"(43.57239, -71.4775)",1.6648100839451327,22983.0,43426_0_no,43.59552590498698,-71.48679181253598,5.0
+03253,43.63193,-71.49749,Meredith,NH,New Hampshire,True,,6410.0,66.1,33001,Belknap,"{""33001"": 100}",Belknap,33001,False,False,America/New_York,"(43.63193, -71.49749)",2.571585956790822,22983.0,43426_0_no,43.59552590498698,-71.48679181253598,5.0

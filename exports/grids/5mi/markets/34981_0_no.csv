@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64671,39.53655,-94.0518,Polo,MO,Missouri,True,,1863.0,7.8,29025,Caldwell,"{""29025"": 60.94, ""29177"": 39.06}",Caldwell|Ray,29025|29177,False,False,America/Chicago,"(39.53655, -94.0518)",2.50127172309454,1863.0,34981_0_no,39.560017112356086,-94.01605183014216,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84764,37.72035,-112.06689,Bryce,UT,Utah,True,,250.0,0.6,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver,"(37.72035, -112.06689)",4.841593019052611,731.0,30929_0_no,37.69036825828824,-112.14694288631694,5.0
+84776,37.62956,-112.08217,Tropic,UT,Utah,True,,481.0,18.4,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver,"(37.62956, -112.08217)",5.495870196846991,731.0,30929_0_no,37.69036825828824,-112.14694288631694,5.0

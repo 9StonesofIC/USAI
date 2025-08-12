@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92283,32.83741,-114.79462,Winterhaven,CA,California,True,,1730.0,2.0,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.83741, -114.79462)",9.942557381878775,1730.0,5151_0_no,32.97213000980262,-114.85485837782473,10.0

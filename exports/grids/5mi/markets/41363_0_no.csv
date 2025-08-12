@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14478,42.58011,-77.12791,Keuka Park,NY,New York,True,,1577.0,44.9,36123,Yates,"{""36123"": 100}",Yates,36123,False,False,America/New_York,"(42.58011, -77.12791)",3.1709133666719147,1577.0,41363_0_no,42.58713302438437,-77.06631395918495,5.0

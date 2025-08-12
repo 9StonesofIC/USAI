@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68817,41.26125,-98.7937,Ashton,NE,Nebraska,True,,341.0,1.6,31163,Sherman,"{""31163"": 85.77, ""31093"": 14.23}",Sherman|Howard,31163|31093,False,False,America/Chicago,"(41.26125, -98.7937)",2.8971660389468257,341.0,38738_0_no,41.30225130304956,-98.78201436671444,5.0

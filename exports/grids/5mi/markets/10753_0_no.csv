@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78059,29.19236,-98.84143,Natalia,TX,Texas,True,,5327.0,50.7,48325,Medina,"{""48325"": 100}",Medina,48325,False,False,America/Chicago,"(29.19236, -98.84143)",5.65552581912793,5327.0,10753_0_no,29.123236208166634,-98.79122954121068,5.0

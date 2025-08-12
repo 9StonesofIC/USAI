@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42038,37.04137,-88.02364,Eddyville,KY,Kentucky,True,,5433.0,24.2,21143,Lyon,"{""21143"": 98.65, ""21033"": 1.35}",Lyon|Caldwell,21143|21033,False,False,America/Chicago,"(37.04137, -88.02364)",4.086142835041271,5433.0,29498_0_no,37.092032789600125,-87.98540603985774,5.0

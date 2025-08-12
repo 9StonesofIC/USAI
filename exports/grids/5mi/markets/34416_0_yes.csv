@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80805,39.29378,-102.44923,Bethune,CO,Colorado,True,,389.0,1.1,8063,Kit Carson,"{""08063"": 100}",Kit Carson,08063,False,False,America/Denver,"(39.29378, -102.44923)",4.477704734425811,389.0,34416_0_yes,39.34938625652386,-102.4062051474571,5.0

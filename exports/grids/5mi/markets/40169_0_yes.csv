@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13755,42.05976,-75.01524,Downsville,NY,New York,True,,982.0,7.3,36025,Delaware,"{""36025"": 100}",Delaware,36025,False,False,America/New_York,"(42.05976, -75.01524)",1.5071588739532813,982.0,40169_0_yes,42.07864549515365,-75.00053499500166,5.0

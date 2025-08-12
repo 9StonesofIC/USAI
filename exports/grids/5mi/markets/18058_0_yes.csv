@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31070,32.18801,-83.78669,Pinehurst,GA,Georgia,True,,1590.0,12.3,13093,Dooly,"{""13093"": 100}",Dooly,13093,False,False,America/New_York,"(32.18801, -83.78669)",4.55122128534706,1590.0,18058_0_yes,32.232572804457945,-83.84402218488194,5.0

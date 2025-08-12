@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59525,48.6524,-110.27405,Gildford,MT,Montana,True,,237.0,0.3,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver,"(48.6524, -110.27405)",4.899861509395442,501.0,53283_0_yes,48.62336159733702,-110.37195727342149,5.0
+59528,48.6233,-110.42628,Hingham,MT,Montana,True,,264.0,0.5,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver,"(48.6233, -110.42628)",2.480987153409212,501.0,53283_0_yes,48.62336159733702,-110.37195727342149,5.0

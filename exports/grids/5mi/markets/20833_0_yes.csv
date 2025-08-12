@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35481,33.39852,-88.03934,Reform,AL,Alabama,True,,3208.0,11.2,1107,Pickens,"{""01107"": 100}",Pickens,01107,False,False,America/Chicago,"(33.39852, -88.03934)",3.666994197155792,3208.0,20833_0_yes,33.39548689301402,-87.97587404104779,5.0

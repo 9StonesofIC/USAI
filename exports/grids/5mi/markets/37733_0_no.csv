@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43351,40.82501,-83.30424,Upper Sandusky,OH,Ohio,True,,10678.0,26.8,39175,Wyandot,"{""39175"": 100}",Wyandot,39175,False,False,America/New_York,"(40.82501, -83.30424)",2.0697861037871315,10678.0,37733_0_no,40.85489172438638,-83.30144695057956,5.0

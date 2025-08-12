@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95987,39.10299,-122.2726,Williams,CA,California,True,,6040.0,7.4,6011,Colusa,"{""06011"": 100}",Colusa,06011,False,False,America/Los_Angeles,"(39.10299, -122.2726)",3.8478628266914,6040.0,33888_0_yes,39.07536644101896,-122.2102976068996,5.0

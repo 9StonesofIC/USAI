@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36569,31.54418,-88.07907,Saint Stephens,AL,Alabama,True,,445.0,2.8,1129,Washington,"{""01129"": 100}",Washington,01129,False,False,America/Chicago,"(31.54418, -88.07907)",2.554583184399937,445.0,16345_0_yes,31.510240763605367,-88.06186305686167,5.0

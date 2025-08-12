@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93256,35.96805,-119.31251,Pixley,CA,California,True,,5811.0,30.1,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(35.96805, -119.31251)",4.413635311193203,5811.0,27046_0_no,35.9559095875732,-119.389992636065,5.0

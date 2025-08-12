@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45813,41.18914,-84.73031,Antwerp,OH,Ohio,True,,3516.0,24.2,39125,Paulding,"{""39125"": 98.4, ""39039"": 1.6}",Paulding|Defiance,39125|39039,False,False,America/New_York,"(41.18914, -84.73031)",2.9843695048731758,3516.0,38383_0_yes,41.21803742175967,-84.68764117456458,5.0

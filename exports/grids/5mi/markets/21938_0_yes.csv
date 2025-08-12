@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79339,33.87938,-102.34682,Littlefield,TX,Texas,True,,6591.0,7.6,48279,Lamb,"{""48279"": 71.02, ""48219"": 28.98}",Lamb|Hockley,48279|48219,False,False,America/Chicago,"(33.87938, -102.34682)",3.807178022295029,6591.0,21938_0_yes,33.84064494109315,-102.39401339621892,5.0

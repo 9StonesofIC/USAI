@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28091,34.98628,-79.93171,Lilesville,NC,North Carolina,True,,2132.0,8.8,37007,Anson,"{""37007"": 100}",Anson,37007,False,False,America/New_York,"(34.98628, -79.93171)",3.573362690608086,27795.0,24510_0_yes,34.98443337798564,-79.86862571460527,5.0
+28379,34.93073,-79.78252,Rockingham,NC,North Carolina,True,,25663.0,65.4,37153,Richmond,"{""37153"": 100}",Richmond,37153,False,False,America/New_York,"(34.93073, -79.78252)",6.127229602304277,27795.0,24510_0_yes,34.98443337798564,-79.86862571460527,5.0

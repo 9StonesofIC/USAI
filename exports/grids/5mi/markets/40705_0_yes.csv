@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97630,42.29832,-120.39166,Lakeview,OR,Oregon,True,,4797.0,1.8,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles,"(42.29832, -120.39166)",4.4978654687361415,4797.0,40705_0_yes,42.26193352622239,-120.31870099563322,5.0

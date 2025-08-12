@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78802,29.14481,-99.91983,Uvalde,TX,Texas,True,,226.0,13.8,48463,Uvalde,"{""48463"": 100}",Uvalde,48463,False,False,America/Chicago,"(29.14481, -99.91983)",7.855616216922841,1602.0,2659_0_yes,29.035866139421994,-99.88260904625926,10.0
+78872,28.90751,-99.88039,La Pryor,TX,Texas,True,,1376.0,3.2,48507,Zavala,"{""48507"": 100}",Zavala,48507,False,False,America/Chicago,"(28.90751, -99.88039)",8.869578837810295,1602.0,2659_0_yes,29.035866139421994,-99.88260904625926,10.0

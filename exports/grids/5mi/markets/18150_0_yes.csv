@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79510,32.26006,-99.52872,Clyde,TX,Texas,True,,7801.0,11.8,48059,Callahan,"{""48059"": 88.61, ""48083"": 11.39}",Callahan|Coleman,48059|48083,False,False,America/Chicago,"(32.26006, -99.52872)",1.8607354054345044,7801.0,18150_0_yes,32.24318598059208,-99.55353792201394,5.0

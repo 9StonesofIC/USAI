@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48471,43.41868,-82.85369,Sandusky,MI,Michigan,True,,5726.0,21.9,26151,Sanilac,"{""26151"": 100}",Sanilac,26151,False,False,America/Detroit,"(43.41868, -82.85369)",2.470264161651362,5726.0,42916_0_yes,43.388277003134,-82.87958318485342,5.0

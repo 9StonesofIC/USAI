@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58069,46.24102,-97.83194,Stirum,ND,North Dakota,True,,110.0,0.6,38081,Sargent,"{""38081"": 95.56, ""38073"": 4.44}",Sargent|Ransom,38081|38073,False,False,America/Chicago,"(46.24102, -97.83194)",3.846970254505882,110.0,48796_0_yes,46.29639774597004,-97.84029074050412,5.0

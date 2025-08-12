@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58501,46.8189,-100.70234,Bismarck,ND,North Dakota,True,,29419.0,498.1,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago,"(46.8189, -100.70234)",1.8213968251579764,29419.0,49908_0_no,46.80555768089336,-100.66911994274967,5.0

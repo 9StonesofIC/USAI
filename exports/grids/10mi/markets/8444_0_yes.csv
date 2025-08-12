@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80449,38.93059,-105.79169,Hartsel,CO,Colorado,True,,1237.0,1.1,8093,Park,"{""08093"": 97.52, ""08015"": 2.48}",Park|Chaffee,08093|08015,False,False,America/Denver,"(38.93059, -105.79169)",5.2431809582935465,2311.0,8444_0_yes,38.90195117434061,-105.7013712674013,10.0
+80820,38.77781,-105.56613,Guffey,CO,Colorado,True,,1074.0,1.6,8093,Park,"{""08093"": 100}",Park,08093,False,False,America/Denver,"(38.77781, -105.56613)",11.249176098533356,2311.0,8444_0_yes,38.90195117434061,-105.7013712674013,10.0

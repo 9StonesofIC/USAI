@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29051,33.8669,-80.12231,Gable,SC,South Carolina,True,,1720.0,16.2,45027,Clarendon,"{""45027"": 53.03, ""45085"": 46.97}",Clarendon|Sumter,45027|45085,False,False,America/New_York,"(33.8669, -80.12231)",4.739620147359066,1720.0,22134_0_no,33.897517040034465,-80.19625194850408,5.0

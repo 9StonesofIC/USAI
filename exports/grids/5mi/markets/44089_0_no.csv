@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49304,43.91027,-85.87417,Baldwin,MI,Michigan,True,,4015.0,13.6,26085,Lake,"{""26085"": 100}",Lake,26085,False,False,America/Detroit,"(43.91027, -85.87417)",1.516397238478576,4933.0,44089_0_no,43.89755766885379,-85.84933945642389,5.0
+49642,43.87927,-85.77059,Idlewild,MI,Michigan,True,,918.0,23.3,26085,Lake,"{""26085"": 100}",Lake,26085,False,False,America/Detroit,"(43.87927, -85.77059)",4.119880491870638,4933.0,44089_0_no,43.89755766885379,-85.84933945642389,5.0

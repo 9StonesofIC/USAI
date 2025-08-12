@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59841,46.33384,-114.22319,Pinesdale,MT,Montana,True,,987.0,292.2,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver,"(46.33384, -114.22319)",4.503364474534313,987.0,48874_0_yes,46.311282533842345,-114.134643528661,5.0

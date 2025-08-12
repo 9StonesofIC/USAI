@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66010,38.09231,-94.98853,Blue Mound,KS,Kansas,True,,684.0,3.0,20107,Linn,"{""20107"": 93.66, ""20011"": 6.34}",Linn|Bourbon,20107|20011,False,False,America/Chicago,"(38.09231, -94.98853)",1.5838585453916778,684.0,31803_0_no,38.1118605555976,-95.00374022061784,5.0

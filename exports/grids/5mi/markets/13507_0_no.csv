@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32334,30.2612,-84.75835,Hosford,FL,Florida,True,,1799.0,3.1,12077,Liberty,"{""12077"": 100}",Liberty,12077,False,False,America/New_York,"(30.2612, -84.75835)",1.3043642752897537,1799.0,13507_0_no,30.27518237267303,-84.77303600303162,5.0

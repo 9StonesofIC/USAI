@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76449,32.91592,-98.32512,Graford,TX,Texas,True,,2351.0,4.4,48363,Palo Pinto,"{""48363"": 99.21, ""48237"": 0.79}",Palo Pinto|Jack,48363|48237,False,False,America/Chicago,"(32.91592, -98.32512)",4.220136966118835,2351.0,19851_0_no,32.89506188826204,-98.25674331147349,5.0

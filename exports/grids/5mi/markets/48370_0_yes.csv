@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04763,46.08068,-68.10371,Oakfield,ME,Maine,True,,751.0,8.3,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.08068, -68.10371)",3.256176380423463,751.0,48370_0_yes,46.124607482127146,-68.12832726660952,5.0

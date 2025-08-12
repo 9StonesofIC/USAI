@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81645,39.47634,-106.46779,Minturn,CO,Colorado,True,,1149.0,4.3,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.47634, -106.46779)",1.5212040342973427,1149.0,34754_0_yes,39.49755945822761,-106.47539695330929,5.0

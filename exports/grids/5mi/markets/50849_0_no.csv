@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98546,47.32439,-122.92362,Grapeview,WA,Washington,True,,3225.0,36.4,53045,Mason,"{""53045"": 100}",Mason,53045,False,False,America/Los_Angeles,"(47.32439, -122.92362)",5.885908958735656,4965.0,50849_0_no,47.26040797037686,-123.0065424274804,5.0
+98592,47.32895,-123.07907,Union,WA,Washington,True,,1740.0,38.0,53045,Mason,"{""53045"": 100}",Mason,53045,False,False,America/Los_Angeles,"(47.32895, -123.07907)",5.82916182900591,4965.0,50849_0_no,47.26040797037686,-123.0065424274804,5.0

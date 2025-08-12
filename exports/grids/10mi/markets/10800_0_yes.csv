@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97638,43.1458,-121.01156,Silver Lake,OR,Oregon,True,,575.0,0.6,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles,"(43.1458, -121.01156)",8.875959132704034,623.0,10800_0_yes,43.27313665273044,-121.03485037877444,10.0
+97735,43.39014,-120.99224,Fort Rock,OR,Oregon,True,,48.0,0.1,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles,"(43.39014, -120.99224)",8.362999334657756,623.0,10800_0_yes,43.27313665273044,-121.03485037877444,10.0

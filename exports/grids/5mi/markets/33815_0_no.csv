@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84631,38.99771,-112.39675,Fillmore,UT,Utah,True,,2912.0,8.9,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(38.99771, -112.39675)",4.099392775037729,2912.0,33815_0_no,38.99517768779018,-112.47302153889224,5.0

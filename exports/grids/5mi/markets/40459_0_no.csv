@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14839,42.13961,-77.64331,Greenwood,NY,New York,True,,881.0,9.3,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.13961, -77.64331)",2.8984742328945083,1666.0,40459_0_no,42.15327335717264,-77.5898154263619,5.0
+14855,42.13978,-77.50112,Jasper,NY,New York,True,,785.0,10.4,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.13978, -77.50112)",4.638352067605985,1666.0,40459_0_no,42.15327335717264,-77.5898154263619,5.0

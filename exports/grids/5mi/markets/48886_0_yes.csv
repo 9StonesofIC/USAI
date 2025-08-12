@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83524,46.3586,-116.65439,Culdesac,ID,Idaho,True,,947.0,3.1,16069,Nez Perce,"{""16069"": 80.23, ""16061"": 19.77}",Nez Perce|Lewis,16069|16061,False,False,America/Los_Angeles,"(46.3586, -116.65439)",3.1679656701310033,947.0,48886_0_yes,46.313573183901084,-116.6418591037523,5.0

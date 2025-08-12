@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58653,46.09645,-103.12946,Scranton,ND,North Dakota,True,,763.0,0.8,38011,Bowman,"{""38011"": 71.3, ""46063"": 14.58, ""38087"": 14.12}",Bowman|Harding|Slope,38011|46063|38087,False,False,America/Denver,"(46.09645, -103.12946)",4.17294147909158,763.0,48538_0_yes,46.15648585769858,-103.11996236351575,5.0

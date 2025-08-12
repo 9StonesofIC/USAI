@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88310,32.71809,-106.07231,Alamogordo,NM,New Mexico,True,,36585.0,22.8,35035,Otero,"{""35035"": 100}",Otero,35035,False,False,America/Denver,"(32.71809, -106.07231)",7.078175634302231,37883.0,4954_0_no,32.669851542718376,-105.96492050228407,10.0
+88311,32.80689,-105.98875,Alamogordo,NM,New Mexico,True,,1298.0,210.4,35035,Otero,"{""35035"": 100}",Otero,35035,False,False,America/Denver,"(32.80689, -105.98875)",9.569203166414967,37883.0,4954_0_no,32.669851542718376,-105.96492050228407,10.0

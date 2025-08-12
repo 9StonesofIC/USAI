@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04671,45.06618,-67.16247,Robbinston,ME,Maine,True,,596.0,8.2,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(45.06618, -67.16247)",4.385533869572116,596.0,46359_0_yes,45.11098611549439,-67.09879200899978,5.0

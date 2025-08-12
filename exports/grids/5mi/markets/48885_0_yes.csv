@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83548,46.34878,-116.50843,Reubens,ID,Idaho,True,,125.0,1.9,16069,Nez Perce,"{""16069"": 85.95, ""16061"": 14.05}",Nez Perce|Lewis,16069|16061,False,False,America/Los_Angeles,"(46.34878, -116.50843)",4.354217063709583,125.0,48885_0_yes,46.31338228944003,-116.43292047720747,5.0

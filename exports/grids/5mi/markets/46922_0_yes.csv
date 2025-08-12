@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97148,45.35988,-123.26553,Yamhill,OR,Oregon,True,,3553.0,15.0,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles,"(45.35988, -123.26553)",5.838066277944827,3553.0,46922_0_yes,45.30618221891927,-123.3583314588339,5.0

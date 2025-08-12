@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94929,38.25444,-122.96243,Dillon Beach,CA,California,True,,309.0,126.2,6041,Marin,"{""06041"": 100}",Marin,06041,False,False,America/Los_Angeles,"(38.25444, -122.96243)",3.919651043420414,506.0,32276_0_no,38.27862850688237,-122.89707271023993,5.0
+94971,38.23724,-122.89006,Tomales,CA,California,True,,197.0,3.4,6041,Marin,"{""06041"": 100}",Marin,06041,False,False,America/Los_Angeles,"(38.23724, -122.89006)",2.884872515247126,506.0,32276_0_no,38.27862850688237,-122.89707271023993,5.0

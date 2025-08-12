@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82718,43.91777,-105.61603,Gillette,WY,Wyoming,True,,25380.0,6.1,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver,"(43.91777, -105.61603)",12.041751914729248,25380.0,2840_0_yes,44.08116601042267,-105.70031527648734,20.0

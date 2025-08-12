@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84331,41.94354,-112.35869,Portage,UT,Utah,True,,262.0,0.7,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.94354, -112.35869)",4.168879339868897,262.0,40030_0_no,41.89302807594534,-112.31433936873958,5.0

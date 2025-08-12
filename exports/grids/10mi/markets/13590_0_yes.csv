@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58783,48.88375,-100.75035,Souris,ND,North Dakota,True,,405.0,0.5,38009,Bottineau,"{""38009"": 100}",Bottineau,38009,False,False,America/Chicago,"(48.88375, -100.75035)",9.884839102701894,405.0,13590_0_yes,49.0251791512914,-100.78320096302656,10.0

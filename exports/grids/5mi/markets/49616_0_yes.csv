@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55720,46.75138,-92.5399,Cloquet,MN,Minnesota,True,,17131.0,42.3,27017,Carlton,"{""27017"": 58.6, ""27137"": 41.4}",Carlton|St. Louis,27017|27137,False,False,America/Chicago,"(46.75138, -92.5399)",2.283404090561498,17131.0,49616_0_yes,46.725697612259765,-92.5702486425008,5.0

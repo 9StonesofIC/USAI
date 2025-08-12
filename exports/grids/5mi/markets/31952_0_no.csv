@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+94592,38.12009,-122.3117,Vallejo,CA,California,True,,1038.0,50.0,6095,Solano,"{""06095"": 100}",Solano,06095,False,False,America/Los_Angeles,"(38.12009, -122.3117)",2.2905573760709155,1038.0,31952_0_no,38.13322103677537,-122.35039606653378,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99153,48.90951,-117.25229,Metaline Falls,WA,Washington,True,,422.0,0.7,53051,Pend Oreille,"{""53051"": 100}",Pend Oreille,53051,False,False,America/Los_Angeles,"(48.90951, -117.25229)",4.331759953285621,422.0,53827_0_no,48.84698441034006,-117.2453022323443,5.0

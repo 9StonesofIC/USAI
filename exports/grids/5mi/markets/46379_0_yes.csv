@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03592,45.1128,-71.25493,Pittsburg,NH,New Hampshire,True,,1147.0,1.2,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(45.1128, -71.25493)",3.2158885819196446,1147.0,46379_0_yes,45.114648271748536,-71.18902773238247,5.0

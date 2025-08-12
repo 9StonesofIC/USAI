@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55771,48.12398,-92.93101,Orr,MN,Minnesota,True,,1500.0,0.5,27137,St. Louis,"{""27137"": 72.43, ""27071"": 27.57}",St. Louis|Koochiching,27137|27071,False,False,America/Chicago,"(48.12398, -92.93101)",1.6172816122634444,1500.0,52360_0_no,48.10057631421941,-92.93161513174172,5.0

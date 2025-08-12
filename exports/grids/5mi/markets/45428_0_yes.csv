@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83235,44.60163,-114.03404,Ellis,ID,Idaho,True,,333.0,2.3,16037,Custer,"{""16037"": 93.74, ""16059"": 6.26}",Custer|Lemhi,16037|16059,False,False,America/Boise,"(44.60163, -114.03404)",2.249692380997262,333.0,45428_0_yes,44.57387352659333,-114.057941117334,5.0

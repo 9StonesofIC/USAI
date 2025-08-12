@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80827,39.05821,-105.46272,Lake George,CO,Colorado,True,,609.0,0.8,8093,Park,"{""08093"": 87.73, ""08119"": 12.27}",Park|Teller,08093|08119,False,False,America/Denver,"(39.05821, -105.46272)",2.282982598276583,609.0,8592_0_no,39.046673636620426,-105.50259102025034,10.0

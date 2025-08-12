@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48739,44.37597,-83.83238,Hale,MI,Michigan,True,,4077.0,16.4,26069,Iosco,"{""26069"": 70.54, ""26129"": 29.46}",Iosco|Ogemaw,26069|26129,False,False,America/Detroit,"(44.37597, -83.83238)",3.3678950961454293,4124.0,44986_0_yes,44.40228546052454,-83.7749633402108,5.0
+48743,44.44025,-83.87066,Long Lake,MI,Michigan,True,,47.0,8.2,26069,Iosco,"{""26069"": 100}",Iosco,26069,False,False,America/Detroit,"(44.44025, -83.87066)",5.4019944483394235,4124.0,44986_0_yes,44.40228546052454,-83.7749633402108,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99320,46.32706,-119.52483,Benton City,WA,Washington,True,,9696.0,17.9,53005,Benton,"{""53005"": 100}",Benton,53005,False,False,America/Los_Angeles,"(46.32706, -119.52483)",2.149861210338274,9696.0,48900_0_yes,46.31624583917088,-119.56707616014803,5.0

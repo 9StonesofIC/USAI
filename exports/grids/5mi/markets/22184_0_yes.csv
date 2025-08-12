@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35906,33.93159,-86.09033,Rainbow City,AL,Alabama,True,,9926.0,109.6,1055,Etowah,"{""01055"": 100}",Etowah,01055,False,False,America/Chicago,"(33.93159, -86.09033)",4.90874522979456,12347.0,22184_0_yes,33.97418555082846,-86.15887711967261,5.0
+35987,33.91557,-86.23889,Steele,AL,Alabama,True,,2421.0,15.5,1115,St. Clair,"{""01115"": 100}",St. Clair,01115,False,False,America/Chicago,"(33.91557, -86.23889)",6.118434987722135,12347.0,22184_0_yes,33.97418555082846,-86.15887711967261,5.0

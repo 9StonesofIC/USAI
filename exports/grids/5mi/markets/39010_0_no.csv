@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52355,41.4576,-92.18387,Webster,IA,Iowa,True,,328.0,3.6,19107,Keokuk,"{""19107"": 91.83, ""19095"": 8.17}",Keokuk|Iowa,19107|19095,False,False,America/Chicago,"(41.4576, -92.18387)",1.1763404430759745,328.0,39010_0_no,41.44156577978626,-92.17623300431347,5.0

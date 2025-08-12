@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48131,41.96553,-83.67268,Dundee,MI,Michigan,True,,7085.0,54.6,26115,Monroe,"{""26115"": 100}",Monroe,26115,False,False,America/Detroit,"(41.96553, -83.67268)",1.9802723393271249,10459.0,39909_0_yes,41.941185182377644,-83.65234196413223,5.0
+48140,41.88141,-83.58274,Ida,MI,Michigan,True,,3374.0,49.4,26115,Monroe,"{""26115"": 100}",Monroe,26115,False,False,America/Detroit,"(41.88141, -83.58274)",5.464907859515819,10459.0,39909_0_yes,41.941185182377644,-83.65234196413223,5.0

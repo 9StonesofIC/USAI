@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68045,41.8273,-96.49523,Oakland,NE,Nebraska,True,,1979.0,7.8,31021,Burt,"{""31021"": 79.06, ""31039"": 19.87, ""31053"": 1.07}",Burt|Cuming|Dodge,31021|31039|31053,False,False,America/Chicago,"(41.8273, -96.49523)",2.115603157003484,1979.0,39671_0_yes,41.80724047674364,-96.52627045081252,5.0

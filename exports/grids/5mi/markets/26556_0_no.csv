@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72471,35.82591,-91.11996,Swifton,AR,Arkansas,True,,1413.0,6.4,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago,"(35.82591, -91.11996)",2.965505293958558,3710.0,26556_0_no,35.78992857485169,-91.09110815334752,5.0
+72473,35.73531,-91.17356,Tuckerman,AR,Arkansas,True,,2297.0,14.1,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago,"(35.73531, -91.17356)",5.967483156776706,3710.0,26556_0_no,35.78992857485169,-91.09110815334752,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58049,46.66291,-98.00054,Kathryn,ND,North Dakota,True,,304.0,0.9,38003,Barnes,"{""38003"": 69.78, ""38073"": 22.68, ""38045"": 7.54}",Barnes|Ransom|LaMoure,38003|38073|38045,False,False,America/Chicago,"(46.66291, -98.00054)",0.31242663925820024,304.0,49615_0_no,46.65838871553974,-98.00044048939948,5.0

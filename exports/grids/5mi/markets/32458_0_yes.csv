@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65323,38.45289,-93.6212,Calhoun,MO,Missouri,True,,864.0,6.5,29083,Henry,"{""29083"": 100}",Henry,29083,False,False,America/Chicago,"(38.45289, -93.6212)",1.8345669344753008,864.0,32458_0_yes,38.4730186572524,-93.64331467726666,5.0

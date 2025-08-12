@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95910,39.46742,-120.83158,Alleghany,CA,California,True,,157.0,1.8,6091,Sierra,"{""06091"": 100}",Sierra,06091,False,False,America/Los_Angeles,"(39.46742, -120.83158)",2.4793747357450253,157.0,34809_0_no,39.43666311794321,-120.80764028017674,5.0

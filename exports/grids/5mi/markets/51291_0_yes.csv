@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56657,47.57237,-93.61544,Marcell,MN,Minnesota,True,,247.0,1.8,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.57237, -93.61544)",4.0422522271631145,247.0,51291_0_yes,47.594730169670015,-93.53528966529716,5.0

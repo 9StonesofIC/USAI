@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59344,46.3516,-104.5713,Plevna,MT,Montana,True,,446.0,0.4,30025,Fallon,"{""30025"": 93.98, ""30011"": 6.02}",Fallon|Carter,30025|30011,False,False,America/Denver,"(46.3516, -104.5713)",3.111896488791482,446.0,49084_0_no,46.37501611888414,-104.62705167938547,5.0

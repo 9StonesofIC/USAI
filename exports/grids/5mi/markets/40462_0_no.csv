@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14739,42.1925,-78.14932,Friendship,NY,New York,True,,2421.0,11.5,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.1925, -78.14932)",2.9585799101211636,2558.0,40462_0_no,42.15376903056288,-78.17395975072556,5.0
+14774,42.08875,-78.14658,Richburg,NY,New York,True,,137.0,205.6,36003,Allegany,"{""36003"": 100}",Allegany,36003,False,False,America/New_York,"(42.08875, -78.14658)",4.70642403909187,2558.0,40462_0_no,42.15376903056288,-78.17395975072556,5.0

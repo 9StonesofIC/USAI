@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22976,37.84555,-79.04036,Tyro,VA,Virginia,True,,408.0,8.2,51125,Nelson,"{""51125"": 100}",Nelson,51125,False,False,America/New_York,"(37.84555, -79.04036)",3.0546091168151275,699.0,31092_0_yes,37.88206748371879,-79.0719248222098,5.0
+24464,37.86082,-79.10398,Montebello,VA,Virginia,True,,291.0,4.1,51125,Nelson,"{""51125"": 100}",Nelson,51125,False,False,America/New_York,"(37.86082, -79.10398)",2.282959960332596,699.0,31092_0_yes,37.88206748371879,-79.0719248222098,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76875,31.59928,-100.00749,Rowena,TX,Texas,True,,449.0,1.4,48399,Runnels,"{""48399"": 62.63, ""48095"": 37.37}",Runnels|Concho,48399|48095,False,False,America/Chicago,"(31.59928, -100.00749)",5.151753593447704,449.0,16764_0_yes,31.66325463507172,-100.0524705794579,5.0

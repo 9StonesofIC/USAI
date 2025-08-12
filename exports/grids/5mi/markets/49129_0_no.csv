@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59828,46.33478,-113.96444,Corvallis,MT,Montana,True,,5709.0,13.4,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver,"(46.33478, -113.96444)",4.957181367154388,5709.0,49129_0_no,46.383626024934,-114.04058539040264,5.0

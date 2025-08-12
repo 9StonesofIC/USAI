@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85658,32.52455,-111.13603,Marana,AZ,Arizona,True,,10797.0,21.4,4021,Pinal,"{""04021"": 64.57, ""04019"": 35.43}",Pinal|Pima,04021|04019,False,False,America/Phoenix,"(32.52455, -111.13603)",1.417794513948239,10797.0,18908_0_yes,32.54117784518289,-111.1217677089067,5.0

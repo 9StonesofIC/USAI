@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31042,32.74421,-83.16964,Irwinton,GA,Georgia,True,,1445.0,6.7,13319,Wilkinson,"{""13319"": 100}",Wilkinson,13319,False,False,America/New_York,"(32.74421, -83.16964)",6.035528961100812,2739.0,19434_0_yes,32.81219744528124,-83.23487502806795,5.0
+31054,32.88214,-83.20723,McIntyre,GA,Georgia,True,,1294.0,9.8,13319,Wilkinson,"{""13319"": 100}",Wilkinson,13319,False,False,America/New_York,"(32.88214, -83.20723)",5.092034246300947,2739.0,19434_0_yes,32.81219744528124,-83.23487502806795,5.0

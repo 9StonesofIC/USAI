@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64720,38.40533,-94.33742,Adrian,MO,Missouri,True,,3987.0,11.6,29013,Bates,"{""29013"": 100}",Bates,29013,False,False,America/Chicago,"(38.40533, -94.33742)",0.41565505479005577,3987.0,32441_0_no,38.40115058442596,-94.33189847503286,5.0

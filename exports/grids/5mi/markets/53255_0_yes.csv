@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59219,48.5579,-104.15541,Dagmar,MT,Montana,True,,302.0,0.6,30091,Sheridan,"{""30091"": 100}",Sheridan,30091,False,False,America/Denver,"(48.5579, -104.15541)",6.310086501674376,302.0,53255_0_yes,48.617569573401255,-104.25993225079829,5.0

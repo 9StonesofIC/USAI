@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71825,33.87554,-93.56489,Blevins,AR,Arkansas,True,,480.0,7.0,5057,Hempstead,"{""05057"": 100}",Hempstead,05057,False,False,America/Chicago,"(33.87554, -93.56489)",3.590969762697359,480.0,21887_0_yes,33.83439302132321,-93.52665730578327,5.0

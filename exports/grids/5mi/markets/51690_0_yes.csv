@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98817,47.79049,-119.99588,Chelan Falls,WA,Washington,True,,185.0,77.2,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.79049, -119.99588)",3.5724946122864636,2370.0,51690_0_yes,47.76421194466759,-120.06214321480024,5.0
+98843,47.73688,-120.08618,Orondo,WA,Washington,True,,2185.0,12.6,53017,Douglas,"{""53017"": 100}",Douglas,53017,False,False,America/Los_Angeles,"(47.73688, -120.08618)",2.1938928126665407,2370.0,51690_0_yes,47.76421194466759,-120.06214321480024,5.0

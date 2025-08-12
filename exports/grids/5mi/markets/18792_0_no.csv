@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71110,32.50289,-93.63027,Barksdale Afb,LA,Louisiana,True,,4862.0,105.0,22015,Bossier,"{""22015"": 100}",Bossier,22015,False,False,America/Chicago,"(32.50289, -93.63027)",3.857607918914443,39783.0,18792_0_no,32.456752904068324,-93.5929987593253,5.0
+71112,32.44373,-93.63874,Bossier City,LA,Louisiana,True,,34921.0,323.0,22015,Bossier,"{""22015"": 100}",Bossier,22015,False,False,America/Chicago,"(32.44373, -93.63874)",2.814644501354848,39783.0,18792_0_no,32.456752904068324,-93.5929987593253,5.0

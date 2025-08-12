@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30295,33.09319,-84.31819,Zebulon,GA,Georgia,True,,4750.0,38.6,13231,Pike,"{""13231"": 97.38, ""13171"": 2.62}",Pike|Lamar,13231|13171,False,False,America/New_York,"(33.09319, -84.31819)",1.0182242724612742,4750.0,20127_0_yes,33.10293654557201,-84.30499542856471,5.0

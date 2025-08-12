@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95468,38.9094,-123.60372,Point Arena,CA,California,True,,1369.0,8.7,6045,Mendocino,"{""06045"": 100}",Mendocino,06045,False,False,America/Los_Angeles,"(38.9094, -123.60372)",4.997280679054982,1369.0,33577_0_yes,38.93144504884973,-123.51518118901538,5.0

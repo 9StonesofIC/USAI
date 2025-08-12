@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72520,36.39816,-91.72476,Camp,AR,Arkansas,True,,283.0,3.5,5049,Fulton,"{""05049"": 100}",Fulton,05049,False,False,America/Chicago,"(36.39816, -91.72476)",2.073530990434797,492.0,27881_0_no,36.37021442655064,-91.7383487498596,5.0
+72539,36.33015,-91.72259,Glencoe,AR,Arkansas,True,,209.0,4.4,5049,Fulton,"{""05049"": 100}",Fulton,05049,False,False,America/Chicago,"(36.33015, -91.72259)",2.9037748518573903,492.0,27881_0_no,36.37021442655064,-91.7383487498596,5.0

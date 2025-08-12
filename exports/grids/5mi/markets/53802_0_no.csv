@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59466,48.78746,-111.69124,Oilmont,MT,Montana,True,,109.0,0.3,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver,"(48.78746, -111.69124)",4.999617932154979,1032.0,53802_0_no,48.84177230491923,-111.76385081045696,5.0
+59482,48.88446,-111.86622,Sunburst,MT,Montana,True,,923.0,1.7,30101,Toole,"{""30101"": 100}",Toole,30101,False,False,America/Denver,"(48.88446, -111.86622)",5.5091051711392485,1032.0,53802_0_no,48.84177230491923,-111.76385081045696,5.0

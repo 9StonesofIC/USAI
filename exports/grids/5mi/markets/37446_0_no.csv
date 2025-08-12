@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60966,40.75144,-87.58321,Sheldon,IL,Illinois,True,,1475.0,9.5,17075,Iroquois,"{""17075"": 100}",Iroquois,17075,False,False,America/Chicago,"(40.75144, -87.58321)",2.615394001464909,1475.0,37446_0_no,40.71360228145778,-87.58179016849884,5.0

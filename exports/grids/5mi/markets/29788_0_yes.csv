@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23002,37.34917,-77.96357,Amelia Court House,VA,Virginia,True,,10512.0,15.8,51007,Amelia,"{""51007"": 99.2, ""51135"": 0.8}",Amelia|Nottoway,51007|51135,False,False,America/New_York,"(37.34917, -77.96357)",3.3381738220823363,10512.0,29788_0_yes,37.30168956839288,-77.97480674699082,5.0

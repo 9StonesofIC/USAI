@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69353,41.74703,-103.41898,Mcgrew,NE,Nebraska,True,,29.0,138.9,31157,Scotts Bluff,"{""31157"": 100}",Scotts Bluff,31157,False,False,America/Denver,"(41.74703, -103.41898)",6.133035486703826,208.0,39707_0_yes,41.81311777292602,-103.49844561591206,5.0
+69355,41.78192,-103.51709,Melbeta,NE,Nebraska,True,,179.0,719.7,31157,Scotts Bluff,"{""31157"": 100}",Scotts Bluff,31157,False,False,America/Denver,"(41.78192, -103.51709)",2.359817460235019,208.0,39707_0_yes,41.81311777292602,-103.49844561591206,5.0

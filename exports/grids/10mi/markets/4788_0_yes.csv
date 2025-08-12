@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88350,32.6031,-105.67669,Timberon,NM,New Mexico,True,,262.0,2.2,35035,Otero,"{""35035"": 100}",Otero,35035,False,False,America/Denver,"(32.6031, -105.67669)",9.576147740867123,262.0,4788_0_yes,32.52449340569165,-105.81213227554242,10.0

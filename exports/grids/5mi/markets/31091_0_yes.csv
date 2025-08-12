@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22958,37.8983,-78.89611,Nellysford,VA,Virginia,True,,2082.0,28.0,51125,Nelson,"{""51125"": 97.3, ""51015"": 2.7}",Nelson|Augusta,51125|51015,False,False,America/New_York,"(37.8983, -78.89611)",1.1961613321421238,2082.0,31091_0_yes,37.88192535221195,-78.88898878598955,5.0

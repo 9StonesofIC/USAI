@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87753,35.85796,-104.95477,Watrous,NM,New Mexico,True,,98.0,0.2,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(35.85796, -104.95477)",4.832825193782742,98.0,26653_0_yes,35.87271275503942,-105.03913953679486,5.0

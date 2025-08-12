@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67877,37.54887,-100.84342,Sublette,KS,Kansas,True,,2249.0,3.2,20081,Haskell,"{""20081"": 92.86, ""20175"": 7.14}",Haskell|Seward,20081|20175,False,False,America/Chicago,"(37.54887, -100.84342)",2.2506763219564614,2249.0,30544_0_no,37.5367146537224,-100.88153521547468,5.0

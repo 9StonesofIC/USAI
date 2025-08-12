@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63637,37.70511,-90.51875,Doe Run,MO,Missouri,True,,1177.0,22.9,29187,St. Francois,"{""29187"": 100}",St. Francois,29187,False,False,America/Chicago,"(37.70511, -90.51875)",5.014800904033358,1177.0,30810_0_no,37.673575353267466,-90.43614118661942,5.0

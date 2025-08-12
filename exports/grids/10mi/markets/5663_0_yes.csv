@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85342,33.95308,-112.48358,Morristown,AZ,Arizona,True,,1795.0,1.8,4025,Yavapai,"{""04025"": 56.2, ""04013"": 43.8}",Yavapai|Maricopa,04025|04013,False,False,America/Phoenix,"(33.95308, -112.48358)",2.565075839388884,1795.0,5663_0_yes,33.98392134981293,-112.45866227736036,10.0

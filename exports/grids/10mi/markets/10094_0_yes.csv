@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16443,41.93745,-80.47831,West Springfield,PA,Pennsylvania,True,,1166.0,35.4,42049,Erie,"{""42049"": 100}",Erie,42049,False,False,America/New_York,"(41.93745, -80.47831)",11.725747970290563,1166.0,10094_0_yes,42.04587000445828,-80.65397394307236,10.0

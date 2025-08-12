@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97134,45.45587,-123.96513,Oceanside,OR,Oregon,True,,108.0,93.7,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles,"(45.45587, -123.96513)",0.42427717231258116,108.0,47212_0_yes,45.45153495053292,-123.97132984764076,5.0

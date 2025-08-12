@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66955,39.97984,-97.31715,Mahaska,KS,Kansas,True,,87.0,0.6,20201,Washington,"{""20201"": 77.84, ""31169"": 22.16}",Washington|Thayer,20201|31169,False,False,America/Chicago,"(39.97984, -97.31715)",3.8090934474642935,87.0,35650_0_yes,39.92483528961655,-97.32198827173708,5.0

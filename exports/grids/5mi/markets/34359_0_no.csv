@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66509,39.33239,-95.78097,Mayetta,KS,Kansas,True,,2758.0,8.4,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago,"(39.33239, -95.78097)",4.737758820474358,2758.0,34359_0_no,39.27170539815613,-95.82222779916894,5.0

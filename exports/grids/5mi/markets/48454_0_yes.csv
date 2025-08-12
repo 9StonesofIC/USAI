@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49820,46.18965,-85.67951,Curtis,MI,Michigan,True,,270.0,4.1,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(46.18965, -85.67951)",4.380238347255342,1441.0,48454_0_yes,46.14054226201697,-85.6216205275551,5.0
+49827,46.1751,-85.53607,Engadine,MI,Michigan,True,,1171.0,4.0,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(46.1751, -85.53607)",4.7397402796842965,1441.0,48454_0_yes,46.14054226201697,-85.6216205275551,5.0

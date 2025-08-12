@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66964,39.93465,-97.80004,Republic,KS,Kansas,True,,117.0,0.9,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago,"(39.93465, -97.80004)",4.503456854110722,267.0,35943_0_no,39.99768679017848,-97.77841490535326,5.0
+68325,40.0131,-97.75156,Byron,NE,Nebraska,True,,150.0,1.2,31169,Thayer,"{""31169"": 55.18, ""20157"": 44.82}",Thayer|Republic,31169|20157,False,False,America/Chicago,"(40.0131, -97.75156)",1.7759958374943619,267.0,35943_0_no,39.99768679017848,-97.77841490535326,5.0

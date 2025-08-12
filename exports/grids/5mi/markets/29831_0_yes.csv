@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42722,37.27628,-85.71703,Canmer,KY,Kentucky,True,,429.0,9.8,21099,Hart,"{""21099"": 100}",Hart,21099,False,False,America/Chicago,"(37.27628, -85.71703)",4.109274729362737,429.0,29831_0_yes,37.30767592548686,-85.78052267346382,5.0

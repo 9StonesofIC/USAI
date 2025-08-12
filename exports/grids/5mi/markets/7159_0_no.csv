@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78384,27.73068,-98.4707,San Diego,TX,Texas,True,,5621.0,3.7,48131,Duval,"{""48131"": 98.61, ""48249"": 1.39}",Duval|Jim Wells,48131|48249,False,False,America/Chicago,"(27.73068, -98.4707)",4.290662158528412,5621.0,7159_0_no,27.671661575095,-98.49251819557809,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05254,43.15937,-73.06911,Manchester,VT,Vermont,True,,148.0,22.8,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York,"(43.15937, -73.06911)",0.7778646534961441,4239.0,42542_0_no,43.16268763876488,-73.05436127170731,5.0
+05255,43.16696,-73.06685,Manchester Center,VT,Vermont,True,,4091.0,41.0,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York,"(43.16696, -73.06685)",0.6951686160731526,4239.0,42542_0_no,43.16268763876488,-73.05436127170731,5.0

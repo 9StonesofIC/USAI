@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83118,43.06638,-110.9246,Etna,WY,Wyoming,True,,622.0,2.6,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(43.06638, -110.9246)",4.251844537278922,622.0,42462_0_yes,43.123013359537616,-110.95756744015772,5.0

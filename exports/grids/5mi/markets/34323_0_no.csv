@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62553,39.27182,-89.10509,Oconee,IL,Illinois,True,,377.0,4.0,17173,Shelby,"{""17173"": 80.47, ""17135"": 19.53}",Shelby|Montgomery,17173|17135,False,False,America/Chicago,"(39.27182, -89.10509)",0.424668289435408,377.0,34323_0_no,39.26632982810094,-89.10865910184377,5.0

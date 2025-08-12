@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61531,40.68291,-90.03482,Farmington,IL,Illinois,True,,3110.0,21.3,17057,Fulton,"{""17057"": 62.62, ""17095"": 23.72, ""17143"": 13.66}",Fulton|Knox|Peoria,17057|17095|17143,False,False,America/Chicago,"(40.68291, -90.03482)",2.561907280084313,3110.0,37459_0_no,40.71564485279103,-90.05779028429255,5.0

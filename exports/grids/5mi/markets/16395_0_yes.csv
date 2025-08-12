@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76642,31.50442,-96.53271,Groesbeck,TX,Texas,True,,6628.0,10.3,48293,Limestone,"{""48293"": 100}",Limestone,48293,False,False,America/Chicago,"(31.50442, -96.53271)",0.7899548758227918,6628.0,16395_0_yes,31.51584919570731,-96.5330623225831,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28771,35.34245,-83.8567,Robbinsville,NC,North Carolina,True,,8113.0,12.1,37075,Graham,"{""37075"": 98.91, ""37173"": 1.09}",Graham|Swain,37075|37173,False,False,America/New_York,"(35.34245, -83.8567)",1.2068464412663031,8113.0,25518_0_no,35.34973052091353,-83.83723481789657,5.0

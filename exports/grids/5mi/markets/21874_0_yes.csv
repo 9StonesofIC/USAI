@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71674,33.82694,-91.18261,Watson,AR,Arkansas,True,,579.0,1.0,5041,Desha,"{""05041"": 100}",Desha,05041,False,False,America/Chicago,"(33.82694, -91.18261)",4.8292757301497335,579.0,21874_0_yes,33.832799629236895,-91.26645410154546,5.0

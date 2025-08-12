@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27968,35.68549,-75.49195,Rodanthe,NC,North Carolina,True,,178.0,9.1,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.68549, -75.49195)",3.8391286218129004,235.0,26137_0_no,35.6334828239083,-75.51602564653054,5.0
+27982,35.5635,-75.46466,Waves,NC,North Carolina,True,,57.0,33.3,37055,Dare,"{""37055"": 100}",Dare,37055,False,False,America/New_York,"(35.5635, -75.46466)",5.631013320359283,235.0,26137_0_no,35.6334828239083,-75.51602564653054,5.0

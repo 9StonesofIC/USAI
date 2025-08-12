@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89426,41.45402,-117.59307,Paradise Valley,NV,Nevada,True,,268.0,0.6,32013,Humboldt,"{""32013"": 100}",Humboldt,32013,False,False,America/Los_Angeles,"(41.45402, -117.59307)",5.865266900677016,268.0,9871_0_no,41.38423456970812,-117.52861591317908,10.0

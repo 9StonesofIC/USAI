@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79367,33.58938,-102.16805,Smyer,TX,Texas,True,,667.0,33.0,48219,Hockley,"{""48219"": 100}",Hockley,48219,False,False,America/Chicago,"(33.58938, -102.16805)",2.887573769464096,667.0,21581_0_no,33.62299180774851,-102.19787049368266,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51462,42.01319,-94.55744,Scranton,IA,Iowa,True,,1014.0,3.4,19073,Greene,"{""19073"": 97.41, ""19027"": 2.59}",Greene|Carroll,19073|19027,False,False,America/Chicago,"(42.01319, -94.55744)",4.72876847161666,1014.0,39965_0_yes,41.950370988944535,-94.52089887487028,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69029,40.68537,-100.24277,Farnam,NE,Nebraska,True,,365.0,0.7,31063,Frontier,"{""31063"": 52.52, ""31111"": 29.03, ""31047"": 18.45}",Frontier|Lincoln|Dawson,31063|31111|31047,False,False,America/Chicago,"(40.68537, -100.24277)",5.404227532024109,365.0,37512_0_no,40.72397377349699,-100.15303560917891,5.0

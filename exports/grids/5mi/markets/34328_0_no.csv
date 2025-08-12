@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62630,39.26255,-90.08315,Chesterfield,IL,Illinois,True,,623.0,5.9,17117,Macoupin,"{""17117"": 94.45, ""17061"": 5.55}",Macoupin|Greene,17117|17061,False,False,America/Chicago,"(39.26255, -90.08315)",2.2727322662525644,623.0,34328_0_no,39.267076373906086,-90.04106852889053,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27897,36.3246,-77.20969,Woodland,NC,North Carolina,True,,1949.0,17.0,37131,Northampton,"{""37131"": 79.63, ""37091"": 20.37}",Northampton|Hertford,37131|37091,False,False,America/New_York,"(36.3246, -77.20969)",3.8832632380200947,1949.0,27489_0_yes,36.28678042105385,-77.15809997363296,5.0

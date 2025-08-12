@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84723,38.17611,-112.2519,Circleville,UT,Utah,True,,880.0,24.1,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver,"(38.17611, -112.2519)",5.252014665715013,1168.0,8132_0_no,38.18810873359347,-112.3473904539612,10.0
+84740,38.27504,-112.26689,Junction,UT,Utah,True,,271.0,1.9,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver,"(38.27504, -112.26689)",7.427343652974264,1168.0,8132_0_no,38.18810873359347,-112.3473904539612,10.0
+84743,38.20827,-112.18572,Kingston,UT,Utah,True,,17.0,1.0,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver,"(38.20827, -112.18572)",8.888361998203603,1168.0,8132_0_no,38.18810873359347,-112.3473904539612,10.0

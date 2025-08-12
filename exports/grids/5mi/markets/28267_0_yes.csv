@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73726,36.58022,-98.50405,Carmen,OK,Oklahoma,True,,416.0,1.7,40003,Alfalfa,"{""40003"": 60.11, ""40151"": 39.89}",Alfalfa|Woods,40003|40151,False,False,America/Chicago,"(36.58022, -98.50405)",3.175294802862818,527.0,28267_0_yes,36.59273485664255,-98.5591209964418,5.0
+73731,36.64397,-98.59915,Dacoma,OK,Oklahoma,True,,111.0,1.2,40151,Woods,"{""40151"": 100}",Woods,40151,False,False,America/Chicago,"(36.64397, -98.59915)",4.1784497341103854,527.0,28267_0_yes,36.59273485664255,-98.5591209964418,5.0

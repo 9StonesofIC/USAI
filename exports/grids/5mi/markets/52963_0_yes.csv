@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58385,48.47945,-99.65989,Wolford,ND,North Dakota,True,,232.0,0.8,38069,Pierce,"{""38069"": 95.55, ""38079"": 4.45}",Pierce|Rolette,38069|38079,False,False,America/Chicago,"(48.47945, -99.65989)",4.1254225032184655,232.0,52963_0_yes,48.468623849921855,-99.74845983864218,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76834,31.87885,-99.46843,Coleman,TX,Texas,True,,5370.0,4.7,48083,Coleman,"{""48083"": 100}",Coleman,48083,False,False,America/Chicago,"(31.87885, -99.46843)",3.943660674921027,5370.0,4423_0_yes,31.935891135738736,-99.4660393663562,10.0

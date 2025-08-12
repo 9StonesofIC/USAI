@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30276,33.26552,-84.582,Senoia,GA,Georgia,True,,18128.0,72.9,13077,Coweta,"{""13077"": 76.89, ""13199"": 18.89, ""13113"": 4.22}",Coweta|Meriwether|Fayette,13077|13199|13113,False,False,America/New_York,"(33.26552, -84.582)",1.203934883112793,18128.0,20471_0_yes,33.24812731769632,-84.58326341372891,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64672,40.53869,-93.26015,Powersville,MO,Missouri,True,,96.0,0.5,29171,Putnam,"{""29171"": 95.78, ""29129"": 4.22}",Putnam|Mercer,29171|29129,False,False,America/Chicago,"(40.53869, -93.26015)",5.116905378737015,96.0,37165_0_no,40.57336822824238,-93.17402292486818,5.0

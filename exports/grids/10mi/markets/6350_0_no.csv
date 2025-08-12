@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93254,34.92498,-119.74834,New Cuyama,CA,California,True,,757.0,1.5,6083,Santa Barbara,"{""06083"": 91.24, ""06079"": 8.76}",Santa Barbara|San Luis Obispo,06083|06079,False,False,America/Los_Angeles,"(34.92498, -119.74834)",10.5698011981,757.0,6350_0_no,35.009946769431885,-119.90357623798432,10.0

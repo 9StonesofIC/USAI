@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81143,38.14477,-105.87112,Moffat,CO,Colorado,True,,719.0,0.7,8109,Saguache,"{""08109"": 100}",Saguache,08109,False,False,America/Denver,"(38.14477, -105.87112)",3.5087767452564504,719.0,31883_0_yes,38.192792608120776,-105.89212647790772,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08008,39.62188,-74.22421,Beach Haven,NJ,New Jersey,True,,6896.0,246.3,34029,Ocean,"{""34029"": 100}",Ocean,34029,False,False,America/New_York,"(39.62188, -74.22421)",1.5968763599004807,10153.0,34897_0_yes,39.61642158674158,-74.19505509243182,5.0
+08092,39.65438,-74.28428,West Creek,NJ,New Jersey,True,,3257.0,54.9,34029,Ocean,"{""34029"": 100}",Ocean,34029,False,False,America/New_York,"(39.65438, -74.28428)",5.423912257579555,10153.0,34897_0_yes,39.61642158674158,-74.19505509243182,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42151,36.64848,-85.56058,Hestand,KY,Kentucky,True,,94.0,1.3,21171,Monroe,"{""21171"": 100}",Monroe,21171,False,False,America/Chicago,"(36.64848, -85.56058)",3.7012284272317646,94.0,28503_0_no,36.65537975903756,-85.49436562441505,5.0

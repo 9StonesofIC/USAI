@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33960,27.07709,-81.41682,Venus,FL,Florida,True,,586.0,0.9,12055,Highlands,"{""12055"": 72.64, ""12043"": 27.36}",Highlands|Glades,12055|12043,False,False,America/New_York,"(27.07709, -81.41682)",10.074852930284617,586.0,1337_0_yes,26.983653299913048,-81.5424922879093,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62943,37.35586,-88.74669,Grantsburg,IL,Illinois,True,,304.0,3.1,17087,Johnson,"{""17087"": 60.49, ""17127"": 24.51, ""17151"": 15.0}",Johnson|Massac|Pope,17087|17127|17151,False,False,America/Chicago,"(37.35586, -88.74669)",1.8622357817327553,304.0,30153_0_no,37.38245233874374,-88.75221511194474,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76837,31.21098,-99.88176,Eden,TX,Texas,True,,2070.0,2.1,48095,Concho,"{""48095"": 100}",Concho,48095,False,False,America/Chicago,"(31.21098, -99.88176)",2.3827652634077983,2070.0,4069_0_no,31.21148717820698,-99.8414420829439,10.0

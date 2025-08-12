@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70339,29.92987,-91.18357,Pierre Part,LA,Louisiana,True,,4423.0,31.0,22007,Assumption,"{""22007"": 89.78, ""22099"": 10.22}",Assumption|St. Martin,22007|22099,False,False,America/Chicago,"(29.92987, -91.18357)",4.874819601936087,4423.0,12839_0_no,29.989140296365026,-91.22774707177668,5.0

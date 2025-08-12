@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12461,41.90531,-74.25246,Olivebridge,NY,New York,True,,1343.0,28.1,36111,Ulster,"{""36111"": 100}",Ulster,36111,False,False,America/New_York,"(41.90531, -74.25246)",4.789390558832793,2105.0,39861_0_yes,41.93331397527045,-74.33767733340905,5.0
+12494,41.94857,-74.30169,West Shokan,NY,New York,True,,762.0,12.3,36111,Ulster,"{""36111"": 100}",Ulster,36111,False,False,America/New_York,"(41.94857, -74.30169)",2.1288226200585254,2105.0,39861_0_yes,41.93331397527045,-74.33767733340905,5.0

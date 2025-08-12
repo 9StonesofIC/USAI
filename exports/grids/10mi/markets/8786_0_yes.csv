@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89301,39.52872,-114.76615,Ely,NV,Nevada,True,,7962.0,1.4,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles,"(39.52872, -114.76615)",7.265924140262143,8820.0,8786_0_yes,39.49620464240696,-114.89578007324096,10.0
+89318,39.43783,-114.8188,McGill,NV,Nevada,True,,858.0,9.1,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles,"(39.43783, -114.8188)",5.755640372933424,8820.0,8786_0_yes,39.49620464240696,-114.89578007324096,10.0

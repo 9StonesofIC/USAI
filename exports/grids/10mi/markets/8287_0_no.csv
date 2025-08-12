@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84734,38.36353,-110.5658,Hanksville,UT,Utah,True,,315.0,0.3,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver,"(38.36353, -110.5658)",9.819376390270426,315.0,8287_0_no,38.47496575186742,-110.45322461226026,10.0

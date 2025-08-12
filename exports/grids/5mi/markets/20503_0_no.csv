@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71730,33.20303,-92.63458,El Dorado,AR,Arkansas,True,,29320.0,24.7,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago,"(33.20303, -92.63458)",1.6689249749297754,29320.0,20503_0_no,33.181250517555455,-92.64706157678368,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92256,34.07207,-116.61761,Morongo Valley,CA,California,True,,3176.0,19.4,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.07207, -116.61761)",3.781708784992347,3176.0,22682_0_no,34.068262939583576,-116.55169514942816,5.0

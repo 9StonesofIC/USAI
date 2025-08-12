@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97710,42.15095,-118.53902,Fields,OR,Oregon,True,,102.0,0.0,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles,"(42.15095, -118.53902)",19.552628032122673,190.0,2632_0_yes,42.38946439067272,-118.74482764307614,20.0
+97736,42.66655,-118.92058,Frenchglen,OR,Oregon,True,,88.0,0.0,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles,"(42.66655, -118.92058)",21.133076844629546,190.0,2632_0_yes,42.38946439067272,-118.74482764307614,20.0

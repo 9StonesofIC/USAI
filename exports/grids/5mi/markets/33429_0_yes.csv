@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66423,38.8492,-96.12934,Eskridge,KS,Kansas,True,,1061.0,2.7,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago,"(38.8492, -96.12934)",5.951632841608799,1061.0,33429_0_yes,38.909616685448434,-96.05046951974322,5.0

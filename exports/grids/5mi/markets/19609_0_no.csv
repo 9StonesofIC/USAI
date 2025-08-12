@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92243,32.77285,-115.60065,El Centro,CA,California,True,,50112.0,170.8,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.77285, -115.60065)",2.71435428895878,51959.0,19609_0_no,32.76193340367226,-115.64552952465525,5.0
+92273,32.80798,-115.69592,Seeley,CA,California,True,,1847.0,220.7,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.80798, -115.69592)",4.323157741475346,51959.0,19609_0_no,32.76193340367226,-115.64552952465525,5.0

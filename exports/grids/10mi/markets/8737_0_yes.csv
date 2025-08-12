@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66520,39.40963,-96.61617,Olsburg,KS,Kansas,True,,649.0,2.4,20149,Pottawatomie,"{""20149"": 100}",Pottawatomie,20149,False,False,America/Chicago,"(39.40963, -96.61617)",4.812452168082328,2346.0,8737_0_yes,39.466716872071785,-96.56450043980745,10.0
+66549,39.42978,-96.43045,Westmoreland,KS,Kansas,True,,1697.0,3.6,20149,Pottawatomie,"{""20149"": 100}",Pottawatomie,20149,False,False,America/Chicago,"(39.42978, -96.43045)",7.593801283507699,2346.0,8737_0_yes,39.466716872071785,-96.56450043980745,10.0

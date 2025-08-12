@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97109,45.73777,-123.1946,Buxton,OR,Oregon,True,,736.0,10.5,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles,"(45.73777, -123.1946)",2.694049438844734,736.0,47781_0_yes,45.74037467986104,-123.1388573417003,5.0

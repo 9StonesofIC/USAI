@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74471,35.82749,-94.86454,Welling,OK,Oklahoma,True,,1690.0,14.2,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago,"(35.82749, -94.86454)",2.7799585239955964,1690.0,26596_0_yes,35.86517977069102,-94.88191322189522,5.0

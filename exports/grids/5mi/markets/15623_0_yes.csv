@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31784,31.25671,-84.0431,Sale City,GA,Georgia,True,,892.0,10.6,13205,Mitchell,"{""13205"": 100}",Mitchell,13205,False,False,America/New_York,"(31.25671, -84.0431)",5.3729511506779986,892.0,15623_0_yes,31.217559405986663,-84.12168139710559,5.0

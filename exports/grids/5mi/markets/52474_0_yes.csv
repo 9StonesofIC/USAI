@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59425,48.18641,-111.88738,Conrad,MT,Montana,True,,3616.0,2.5,30073,Pondera,"{""30073"": 91.09, ""30099"": 8.91}",Pondera|Teton,30073|30099,False,False,America/Denver,"(48.18641, -111.88738)",4.281060511053333,3616.0,52474_0_yes,48.19061137419955,-111.79465532778484,5.0

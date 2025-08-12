@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59858,46.29584,-113.48371,Philipsburg,MT,Montana,True,,1640.0,0.7,30039,Granite,"{""30039"": 100}",Granite,30039,False,False,America/Denver,"(46.29584, -113.48371)",12.161513013443926,1640.0,12237_0_yes,46.15515682009821,-113.3308071909352,10.0

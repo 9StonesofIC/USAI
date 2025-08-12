@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97131,45.71495,-123.8107,Nehalem,OR,Oregon,True,,3065.0,8.5,41057,Tillamook,"{""41057"": 86.56, ""41007"": 13.44}",Tillamook|Clatsop,41057|41007,False,False,America/Los_Angeles,"(45.71495, -123.8107)",3.0636543945098103,3065.0,47784_0_yes,45.74093609395803,-123.75923200998685,5.0

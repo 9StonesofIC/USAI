@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81039,37.94079,-104.08615,Fowler,CO,Colorado,True,,1531.0,1.0,8101,Pueblo,"{""08101"": 57.15, ""08089"": 42.25, ""08025"": 0.6}",Pueblo|Otero|Crowley,08101|08089|08025,False,False,America/Denver,"(37.94079, -104.08615)",6.9249623602043595,1531.0,7948_0_no,37.88525145562006,-103.98039978963554,10.0

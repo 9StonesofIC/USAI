@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80828,39.26643,-103.70983,Limon,CO,Colorado,True,,3711.0,3.3,8073,Lincoln,"{""08073"": 53.55, ""08039"": 46.45}",Lincoln|Elbert,08073|08039,False,False,America/Denver,"(39.26643, -103.70983)",4.903527210233639,3711.0,34106_0_yes,39.205563471186245,-103.75694881574894,5.0

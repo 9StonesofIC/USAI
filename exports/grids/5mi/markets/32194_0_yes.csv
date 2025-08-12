@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81062,38.29345,-103.94995,Olney Springs,CO,Colorado,True,,1750.0,2.9,8025,Crowley,"{""08025"": 100}",Crowley,08025,False,False,America/Denver,"(38.29345, -103.94995)",4.534945962991434,1750.0,32194_0_yes,38.33625413699105,-104.01336575139511,5.0

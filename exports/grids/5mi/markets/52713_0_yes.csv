@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59226,48.34283,-104.51545,Froid,MT,Montana,True,,744.0,0.9,30085,Roosevelt,"{""30085"": 86.95, ""30091"": 13.05}",Roosevelt|Sheridan,30085|30091,False,False,America/Denver,"(48.34283, -104.51545)",3.7675140232749293,744.0,52713_0_yes,48.32852138240124,-104.59460122666135,5.0

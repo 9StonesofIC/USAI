@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47849,39.19196,-87.56131,Fairbanks,IN,Indiana,True,,563.0,9.5,18153,Sullivan,"{""18153"": 100}",Sullivan,18153,False,False,America/Indiana/Indianapolis,"(39.19196, -87.56131)",5.742160008445482,1171.0,33998_0_no,39.120179531615904,-87.5072944644433,5.0
+47861,39.06528,-87.56658,Merom,IN,Indiana,True,,608.0,5.3,18153,Sullivan,"{""18153"": 100}",Sullivan,18153,False,False,America/Indiana/Indianapolis,"(39.06528, -87.56658)",4.949308123451556,1171.0,33998_0_no,39.120179531615904,-87.5072944644433,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83624,42.92441,-116.14266,Grand View,ID,Idaho,True,,1528.0,2.2,16073,Owyhee,"{""16073"": 77.31, ""16039"": 22.69}",Owyhee|Elmore,16073|16039,False,False,America/Boise,"(42.92441, -116.14266)",4.176354958728121,1528.0,42189_0_yes,42.9826322193256,-116.12046972365958,5.0

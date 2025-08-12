@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13618,44.11641,-76.27851,Cape Vincent,NY,New York,True,,1525.0,12.1,36045,Jefferson,"{""36045"": 100}",Jefferson,36045,False,False,America/New_York,"(44.11641, -76.27851)",3.0355649992431744,1525.0,44363_0_yes,44.10626556688369,-76.3380471533997,5.0

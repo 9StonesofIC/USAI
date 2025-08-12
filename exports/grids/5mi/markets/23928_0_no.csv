@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73527,34.5724,-98.62704,Cache,OK,Oklahoma,True,,4439.0,22.5,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago,"(34.5724, -98.62704)",4.856179817299851,4439.0,23928_0_no,34.63556351211281,-98.5895886434649,5.0

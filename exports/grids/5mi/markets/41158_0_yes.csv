@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52001,42.54819,-90.69348,Dubuque,IA,Iowa,True,,42710.0,631.3,19061,Dubuque,"{""19061"": 100}",Dubuque,19061,False,False,America/Chicago,"(42.54819, -90.69348)",1.8636883573938794,60194.0,41158_0_yes,42.5263668465773,-90.71499490610988,5.0
+52002,42.52481,-90.77184,Dubuque,IA,Iowa,True,,17484.0,231.4,19061,Dubuque,"{""19061"": 100}",Dubuque,19061,False,False,America/Chicago,"(42.52481, -90.77184)",2.8965592526916266,60194.0,41158_0_yes,42.5263668465773,-90.71499490610988,5.0

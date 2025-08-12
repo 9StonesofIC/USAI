@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56117,43.52662,-95.68607,Bigelow,MN,Minnesota,True,,419.0,6.9,27105,Nobles,"{""27105"": 100}",Nobles,27105,False,False,America/Chicago,"(43.52662, -95.68607)",2.1438767860754524,1188.0,43278_0_yes,43.54421444307412,-95.721324974487,5.0
+56168,43.61552,-95.80358,Rushmore,MN,Minnesota,True,,769.0,3.1,27105,Nobles,"{""27105"": 100}",Nobles,27105,False,False,America/Chicago,"(43.61552, -95.80358)",6.420505977069975,1188.0,43278_0_yes,43.54421444307412,-95.721324974487,5.0

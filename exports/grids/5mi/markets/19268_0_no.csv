@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91934,32.66488,-116.16828,Jacumba,CA,California,True,,785.0,5.9,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.66488, -116.16828)",3.316930580155788,785.0,19268_0_no,32.617201758711495,-116.17493515058896,5.0

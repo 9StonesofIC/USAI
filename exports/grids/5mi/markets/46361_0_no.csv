@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05457,44.97294,-72.91832,Franklin,VT,Vermont,True,,1823.0,18.6,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York,"(44.97294, -72.91832)",6.83307691377119,1823.0,46361_0_no,45.04398637073427,-73.01562646563319,5.0

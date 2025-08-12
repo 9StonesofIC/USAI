@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27504,35.39963,-78.51863,Benson,NC,North Carolina,True,,14734.0,63.3,37101,Johnston,"{""37101"": 97.14, ""37085"": 2.86}",Johnston|Harnett,37101|37085,False,False,America/New_York,"(35.39963, -78.51863)",3.7388802276812405,14734.0,25488_0_no,35.34584080018934,-78.52588360838942,5.0

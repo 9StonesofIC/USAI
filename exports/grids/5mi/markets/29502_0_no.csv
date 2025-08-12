@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42001,37.03317,-88.7135,Paducah,KY,Kentucky,True,,29952.0,155.8,21145,McCracken,"{""21145"": 100}",McCracken,21145,False,False,America/Chicago,"(37.03317, -88.7135)",4.111169722857613,34337.0,29502_0_no,37.09258541678388,-88.70948790243857,5.0
+42086,37.0828,-88.76838,West Paducah,KY,Kentucky,True,,4385.0,54.2,21145,McCracken,"{""21145"": 100}",McCracken,21145,False,False,America/Chicago,"(37.0828, -88.76838)",3.3156078272865463,34337.0,29502_0_no,37.09258541678388,-88.70948790243857,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59106,45.80637,-108.6948,Billings,MT,Montana,True,,19170.0,66.1,30111,Yellowstone,"{""30111"": 100}",Yellowstone,30111,False,False,America/Denver,"(45.80637, -108.6948)",3.71626823958155,19170.0,47970_0_no,45.79980432185928,-108.77137706699328,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72422,36.41893,-90.54385,Corning,AR,Arkansas,True,,4329.0,10.1,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago,"(36.41893, -90.54385)",1.7370935461598997,4329.0,27893_0_yes,36.44173997890713,-90.53070909238494,5.0

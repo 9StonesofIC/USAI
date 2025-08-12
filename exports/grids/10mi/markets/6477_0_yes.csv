@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79001,35.2824,-102.8023,Adrian,TX,Texas,True,,174.0,0.1,48359,Oldham,"{""48359"": 65.32, ""48117"": 34.68}",Oldham|Deaf Smith,48359|48117,False,False,America/Chicago,"(35.2824, -102.8023)",12.1287093702827,174.0,6477_0_yes,35.41959813136665,-102.6680412538424,10.0

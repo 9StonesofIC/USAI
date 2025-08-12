@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53080,43.40733,-87.98789,Saukville,WI,Wisconsin,True,,5388.0,72.8,55089,Ozaukee,"{""55089"": 100}",Ozaukee,55089,False,False,America/Chicago,"(43.40733, -87.98789)",2.9880050611894626,5388.0,42942_0_yes,43.39276169968775,-88.04393132764693,5.0

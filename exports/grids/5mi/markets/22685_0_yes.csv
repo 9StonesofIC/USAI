@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92242,34.19019,-114.30755,Earp,CA,California,True,,1300.0,11.1,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.19019, -114.30755)",4.479100807955403,1300.0,22685_0_yes,34.13919876253457,-114.35592888448406,5.0

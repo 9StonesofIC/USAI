@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59337,47.39098,-106.81486,Jordan,MT,Montana,True,,711.0,0.1,30033,Garfield,"{""30033"": 100}",Garfield,30033,False,False,America/Denver,"(47.39098, -106.81486)",5.265363761156292,711.0,51077_0_yes,47.46244343569321,-106.8539786831156,5.0

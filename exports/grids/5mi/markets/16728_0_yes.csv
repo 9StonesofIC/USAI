@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75973,31.71977,-93.93259,Shelbyville,TX,Texas,True,,3036.0,6.6,48419,Shelby,"{""48419"": 100}",Shelby,48419,False,False,America/Chicago,"(31.71977, -93.93259)",4.23474336866038,3036.0,16728_0_yes,31.659193216261496,-93.94354734066692,5.0

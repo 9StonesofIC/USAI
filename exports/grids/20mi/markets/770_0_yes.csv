@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70514,29.8452,-91.55301,Baldwin,LA,Louisiana,True,,1891.0,158.5,22101,St. Mary,"{""22101"": 100}",St. Mary,22101,False,False,America/Chicago,"(29.8452, -91.55301)",23.421821040591816,16119.0,770_0_yes,29.56435023513662,-91.7715620134409,20.0
+70538,29.74051,-91.54092,Franklin,LA,Louisiana,True,,14228.0,23.9,22101,St. Mary,"{""22101"": 100}",St. Mary,22101,False,False,America/Chicago,"(29.74051, -91.54092)",18.43739080250248,16119.0,770_0_yes,29.56435023513662,-91.7715620134409,20.0

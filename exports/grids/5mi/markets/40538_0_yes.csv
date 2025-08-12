@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60035,42.18358,-87.8106,Highland Park,IL,Illinois,True,,29604.0,902.4,17097,Lake,"{""17097"": 100}",Lake,17097,False,False,America/Chicago,"(42.18358, -87.8106)",4.58302978944445,34897.0,40538_0_yes,42.2342499776469,-87.75280887415333,5.0
+60040,42.20652,-87.81274,Highwood,IL,Illinois,True,,5293.0,2669.7,17097,Lake,"{""17097"": 100}",Lake,17097,False,False,America/Chicago,"(42.20652, -87.81274)",3.615900777552544,34897.0,40538_0_yes,42.2342499776469,-87.75280887415333,5.0

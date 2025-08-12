@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92065,33.04736,-116.84386,Ramona,CA,California,True,,36460.0,83.1,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(33.04736, -116.84386)",1.3564822510801027,36460.0,20301_0_no,33.05292161073973,-116.821396991345,5.0

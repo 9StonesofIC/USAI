@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83803,48.02261,-116.39878,Bayview,ID,Idaho,True,,1015.0,3.1,16017,Bonner,"{""16017"": 92.82, ""16055"": 7.18}",Bonner|Kootenai,16017|16055,False,False,America/Los_Angeles,"(48.02261, -116.39878)",8.659752745207879,1015.0,13082_0_yes,47.89743095439795,-116.3894767825364,10.0

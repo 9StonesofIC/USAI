@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29547,34.48684,-79.33243,Hamer,SC,South Carolina,True,,2496.0,24.0,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York,"(34.48684, -79.33243)",5.914806040677149,2868.0,23499_0_yes,34.54924822649725,-79.40354716694738,5.0
+29567,34.55325,-79.42649,Little Rock,SC,South Carolina,True,,372.0,7.5,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York,"(34.55325, -79.42649)",1.3345568592156358,2868.0,23499_0_yes,34.54924822649725,-79.40354716694738,5.0

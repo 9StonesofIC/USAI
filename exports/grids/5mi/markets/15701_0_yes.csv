@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76579,31.19894,-97.26046,Troy,TX,Texas,True,,5547.0,36.0,48027,Bell,"{""48027"": 85.39, ""48145"": 14.61}",Bell|Falls,48027|48145,False,False,America/Chicago,"(31.19894, -97.26046)",2.8247857817236914,5547.0,15701_0_yes,31.22620961758705,-97.2960757334123,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96107,38.45215,-119.51421,Coleville,CA,California,True,,1057.0,4.3,6051,Mono,"{""06051"": 100}",Mono,06051,False,False,America/Los_Angeles,"(38.45215, -119.51421)",3.96816108240546,1057.0,32578_0_no,38.42099391291445,-119.57580399090158,5.0

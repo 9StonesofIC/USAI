@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83633,43.0297,-115.21253,King Hill,ID,Idaho,True,,720.0,1.9,16039,Elmore,"{""16039"": 100}",Elmore,16039,False,False,America/Boise,"(43.0297, -115.21253)",5.170731021525555,720.0,42184_0_yes,42.98178192590368,-115.1339232401296,5.0

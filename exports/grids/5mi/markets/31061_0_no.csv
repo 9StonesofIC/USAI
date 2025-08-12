@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23009,37.81038,-77.18717,Aylett,VA,Virginia,True,,6955.0,33.1,51101,King William,"{""51101"": 100}",King William,51101,False,False,America/New_York,"(37.81038, -77.18717)",1.2341156602612529,6955.0,31061_0_no,37.808224306630606,-77.20961271471786,5.0

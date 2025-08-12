@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86042,35.86498,-110.38447,Polacca,AZ,Arizona,True,,2419.0,15.2,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(35.86498, -110.38447)",10.081591069174104,5455.0,6665_0_yes,35.72091103660166,-110.41297450740772,10.0
+86043,35.81049,-110.52904,Second Mesa,AZ,Arizona,True,,3036.0,10.2,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(35.81049, -110.52904)",8.980475525189101,5455.0,6665_0_yes,35.72091103660166,-110.41297450740772,10.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83632,44.53228,-116.40994,Indian Valley,ID,Idaho,True,,409.0,1.2,16003,Adams,"{""16003"": 96.19, ""16087"": 3.81}",Adams|Washington,16003|16087,False,False,America/Boise,"(44.53228, -116.40994)",4.942145757129766,515.0,45440_0_yes,44.57603022168205,-116.48935245251326,5.0
+83643,44.62983,-116.45439,Mesa,ID,Idaho,True,,106.0,11.7,16003,Adams,"{""16003"": 100}",Adams,16003,False,False,America/Boise,"(44.62983, -116.45439)",4.095831706609026,515.0,45440_0_yes,44.57603022168205,-116.48935245251326,5.0

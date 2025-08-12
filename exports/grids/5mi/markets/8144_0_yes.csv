@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33837,28.19012,-81.59163,Davenport,FL,Florida,True,,32185.0,242.0,12105,Polk,"{""12105"": 100}",Polk,12105,False,False,America/New_York,"(28.19012, -81.59163)",1.9922955893251637,76340.0,8144_0_yes,28.16952937610772,-81.56872967212833,5.0
+34758,28.19142,-81.4871,Kissimmee,FL,Florida,True,,44155.0,653.8,12097,Osceola,"{""12097"": 100}",Osceola,12097,False,False,America/New_York,"(28.19142, -81.4871)",5.196508316836369,76340.0,8144_0_yes,28.16952937610772,-81.56872967212833,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56594,46.54906,-96.64493,Wolverton,MN,Minnesota,True,,489.0,2.0,27167,Wilkin,"{""27167"": 100}",Wilkin,27167,False,False,America/Chicago,"(46.54906, -96.64493)",3.1914653139433744,489.0,49327_0_no,46.512394145666526,-96.60409591431409,5.0

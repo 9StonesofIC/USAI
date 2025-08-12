@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57422,45.42288,-97.92199,Andover,SD,South Dakota,True,,201.0,0.7,46037,Day,"{""46037"": 95.55, ""46013"": 4.45}",Day|Brown,46037|46013,False,False,America/Chicago,"(45.42288, -97.92199)",6.270184162565514,238.0,47059_0_no,45.355838071112245,-98.00908042525114,5.0
+57439,45.33464,-98.10007,Ferney,SD,South Dakota,True,,37.0,35.8,46013,Brown,"{""46013"": 100}",Brown,46013,False,False,America/Chicago,"(45.33464, -98.10007)",4.654981084388823,238.0,47059_0_no,45.355838071112245,-98.00908042525114,5.0

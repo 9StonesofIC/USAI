@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43440,41.52662,-82.78145,Lakeside Marblehead,OH,Ohio,True,,4309.0,104.7,39123,Ottawa,"{""39123"": 100}",Ottawa,39123,False,False,America/New_York,"(41.52662, -82.78145)",1.4792816678475953,4309.0,38988_0_yes,41.506052763253365,-82.77350706352956,5.0

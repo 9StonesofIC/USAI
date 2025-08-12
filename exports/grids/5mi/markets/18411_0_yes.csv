@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36869,32.41891,-85.0779,Phenix City,AL,Alabama,True,,21191.0,107.2,1113,Russell,"{""01113"": 100}",Russell,01113,False,False,America/Chicago,"(32.41891, -85.0779)",4.881829633506235,24679.0,18411_0_yes,32.37847155805908,-85.14652048720498,5.0
+36875,32.32632,-85.16295,Seale,AL,Alabama,True,,3488.0,9.7,1113,Russell,"{""01113"": 100}",Russell,01113,False,False,America/Chicago,"(32.32632, -85.16295)",3.7287518976959038,24679.0,18411_0_yes,32.37847155805908,-85.14652048720498,5.0

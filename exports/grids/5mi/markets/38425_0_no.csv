@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68666,41.10775,-97.61369,Stromsburg,NE,Nebraska,True,,1635.0,7.4,31143,Polk,"{""31143"": 97.53, ""31185"": 2.47}",Polk|York,31143|31185,False,False,America/Chicago,"(41.10775, -97.61369)",5.1772588747262125,1635.0,38425_0_no,41.15649491795044,-97.68924679299424,5.0

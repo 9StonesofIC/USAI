@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19940,38.47723,-75.56828,Delmar,DE,Delaware,True,,6560.0,61.3,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.47723, -75.56828)",1.289146882366972,13644.0,32360_0_yes,38.45879641138895,-75.57196510112968,5.0
+21875,38.44038,-75.54559,Delmar,MD,Maryland,True,,7084.0,112.2,24045,Wicomico,"{""24045"": 100}",Wicomico,24045,False,False,America/New_York,"(38.44038, -75.54559)",1.912061692794392,13644.0,32360_0_yes,38.45879641138895,-75.57196510112968,5.0

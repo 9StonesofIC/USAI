@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67647,39.93794,-99.53162,Long Island,KS,Kansas,True,,198.0,1.0,20147,Phillips,"{""20147"": 100}",Phillips,20147,False,False,America/Chicago,"(39.93794, -99.53162)",2.733634152115277,198.0,35662_0_yes,39.926669180507865,-99.58107854659616,5.0

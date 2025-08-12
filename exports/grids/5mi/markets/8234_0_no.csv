@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78340,28.12472,-97.20982,Bayside,TX,Texas,True,,437.0,8.2,48391,Refugio,"{""48391"": 100}",Refugio,48391,False,False,America/Chicago,"(28.12472, -97.20982)",2.2379969320808812,437.0,8234_0_no,28.10636227177328,-97.24007670542636,5.0

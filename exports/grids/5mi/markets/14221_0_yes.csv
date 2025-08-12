@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32333,30.60677,-84.41249,Havana,FL,Florida,True,,11805.0,43.2,12039,Gadsden,"{""12039"": 100}",Gadsden,12039,False,False,America/New_York,"(30.60677, -84.41249)",3.397504671652784,11805.0,14221_0_yes,30.63753517685134,-84.36791419207911,5.0

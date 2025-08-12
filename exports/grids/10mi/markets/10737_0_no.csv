@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57551,43.18087,-101.70012,Martin,SD,South Dakota,True,,2492.0,1.3,46007,Bennett,"{""46007"": 100}",Bennett,46007,False,False,America/Denver,"(43.18087, -101.70012)",11.373626234660453,2562.0,10737_0_no,43.09474465475949,-101.50787383175428,10.0
+57574,43.10954,-101.36238,Tuthill,SD,South Dakota,True,,70.0,0.1,46007,Bennett,"{""46007"": 100}",Bennett,46007,False,False,America/Denver,"(43.10954, -101.36238)",7.410666180417721,2562.0,10737_0_no,43.09474465475949,-101.50787383175428,10.0

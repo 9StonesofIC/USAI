@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65257,39.28404,-92.53112,Higbee,MO,Missouri,True,,1756.0,7.9,29175,Randolph,"{""29175"": 60.47, ""29089"": 39.53}",Randolph|Howard,29175|29089,False,False,America/Chicago,"(39.28404, -92.53112)",3.6661528789457956,1756.0,34341_0_no,39.26901748530642,-92.46537933718282,5.0

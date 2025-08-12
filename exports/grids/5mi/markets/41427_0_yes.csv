@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48864,42.70215,-84.40902,Okemos,MI,Michigan,True,,23882.0,459.1,26065,Ingham,"{""26065"": 100}",Ingham,26065,False,False,America/Detroit,"(42.70215, -84.40902)",3.78273617623593,35445.0,41427_0_yes,42.6657103601491,-84.35343655021323,5.0
+48895,42.68946,-84.28061,Williamston,MI,Michigan,True,,11563.0,53.9,26065,Ingham,"{""26065"": 100}",Ingham,26065,False,False,America/Detroit,"(42.68946, -84.28061)",4.046917911052708,35445.0,41427_0_yes,42.6657103601491,-84.35343655021323,5.0

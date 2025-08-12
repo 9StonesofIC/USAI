@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98225,48.75461,-122.50307,Bellingham,WA,Washington,True,,51606.0,1585.1,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.75461, -122.50307)",4.3711138300651005,51606.0,53609_0_yes,48.77965744827575,-122.59120892180428,5.0

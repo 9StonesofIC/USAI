@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16822,41.15813,-77.71441,Beech Creek,PA,Pennsylvania,True,,1850.0,7.1,42035,Clinton,"{""42035"": 95.78, ""42027"": 4.22}",Clinton|Centre,42035|42027,False,False,America/New_York,"(41.15813, -77.71441)",5.028588070929203,1850.0,38347_0_yes,41.212281035477005,-77.77902253851967,5.0

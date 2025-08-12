@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50421,42.84246,-93.62148,Belmond,IA,Iowa,True,,2790.0,11.7,19197,Wright,"{""19197"": 100}",Wright,19197,False,False,America/Chicago,"(42.84246, -93.62148)",4.492665814718217,2790.0,41775_0_yes,42.81852052090184,-93.70391577418036,5.0

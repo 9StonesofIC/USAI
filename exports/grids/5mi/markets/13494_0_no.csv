@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32055,30.27031,-82.62507,Lake City,FL,Florida,True,,16313.0,34.1,12023,Columbia,"{""12023"": 100}",Columbia,12023,False,False,America/New_York,"(30.27031, -82.62507)",1.5923725027868127,16313.0,13494_0_no,30.27379364966201,-82.59869117386468,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04234,44.61624,-70.19359,East Wilton,ME,Maine,True,,61.0,4310.0,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(44.61624, -70.19359)",1.7492278491144142,10033.0,45476_0_no,44.6073493440249,-70.1602917415327,5.0
+04938,44.65881,-70.10329,Farmington,ME,Maine,True,,9972.0,31.4,23007,Franklin,"{""23007"": 100}",Franklin,23007,False,False,America/New_York,"(44.65881, -70.10329)",4.5273881673197005,10033.0,45476_0_no,44.6073493440249,-70.1602917415327,5.0

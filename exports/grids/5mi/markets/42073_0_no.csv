@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68719,42.96446,-98.57426,Bristow,NE,Nebraska,True,,197.0,1.5,31015,Boyd,"{""31015"": 60.08, ""46053"": 39.92}",Boyd|Gregory,31015|46053,False,False,America/Chicago,"(42.96446, -98.57426)",5.700396484314711,197.0,42073_0_no,42.89510371240736,-98.51323587723611,5.0

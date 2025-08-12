@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56226,45.41065,-95.67705,Clontarf,MN,Minnesota,True,,211.0,2.3,27121,Pope,"{""27121"": 50.67, ""27151"": 49.33}",Pope|Swift,27121|27151,False,False,America/Chicago,"(45.41065, -95.67705)",4.509186052100816,211.0,47074_0_yes,45.425978874286045,-95.58667516365416,5.0

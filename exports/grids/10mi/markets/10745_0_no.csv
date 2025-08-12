@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82222,43.16311,-104.64988,Lance Creek,WY,Wyoming,True,,129.0,0.2,56027,Niobrara,"{""56027"": 100}",Niobrara,56027,False,False,America/Denver,"(43.16311, -104.64988)",4.471477551913508,129.0,10745_0_no,43.10020839473546,-104.67073333299666,10.0

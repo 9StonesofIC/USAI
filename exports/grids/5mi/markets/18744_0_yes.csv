@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31022,32.51216,-83.10954,Dudley,GA,Georgia,True,,1630.0,12.2,13175,Laurens,"{""13175"": 95.13, ""13023"": 4.87}",Laurens|Bleckley,13175|13023,False,False,America/New_York,"(32.51216, -83.10954)",4.852450079206404,1630.0,18744_0_yes,32.52204423609308,-83.02708187911341,5.0

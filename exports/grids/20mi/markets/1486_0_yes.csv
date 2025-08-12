@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88134,34.37413,-104.00487,Taiban,NM,New Mexico,True,,57.0,0.1,35011,De Baca,"{""35011"": 83.72, ""35041"": 16.28}",De Baca|Roosevelt,35011|35041,False,False,America/Denver,"(34.37413, -104.00487)",9.932911994236926,57.0,1486_0_yes,34.23206060516792,-104.03148569218293,20.0

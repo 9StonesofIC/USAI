@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59064,45.88011,-107.87245,Pompeys Pillar,MT,Montana,True,,182.0,0.3,30003,Big Horn,"{""30003"": 71.23, ""30111"": 28.77}",Big Horn|Yellowstone,30003|30111,False,False,America/Denver,"(45.88011, -107.87245)",9.026903348015503,182.0,12210_0_no,46.00057137360348,-107.7997216799058,10.0

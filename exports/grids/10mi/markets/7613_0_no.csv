@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67831,37.17956,-99.8018,Ashland,KS,Kansas,True,,1004.0,0.9,20025,Clark,"{""20025"": 100}",Clark,20025,False,False,America/Chicago,"(37.17956, -99.8018)",8.319644951742239,1984.0,7613_0_no,37.299237963781806,-99.7851300600474,10.0
+67865,37.4368,-99.96506,Minneola,KS,Kansas,True,,980.0,1.4,20025,Clark,"{""20025"": 62.88, ""20057"": 37.12}",Clark|Ford,20025|20057,False,False,America/Chicago,"(37.4368, -99.96506)",13.709824488516212,1984.0,7613_0_no,37.299237963781806,-99.7851300600474,10.0

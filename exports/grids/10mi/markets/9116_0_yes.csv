@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96121,40.16938,-120.37659,Milford,CA,California,True,,298.0,3.5,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(40.16938, -120.37659)",7.681953889812519,298.0,9116_0_yes,40.08487108662166,-120.47107867890304,10.0

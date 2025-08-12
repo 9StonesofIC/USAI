@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50545,42.79651,-94.08111,Hardy,IA,Iowa,True,,166.0,1.8,19091,Humboldt,"{""19091"": 100}",Humboldt,19091,False,False,America/Chicago,"(42.79651, -94.08111)",3.7246715628828473,638.0,41750_0_no,42.74646934527058,-94.05379722236552,5.0
+50591,42.67683,-94.05478,Thor,IA,Iowa,True,,472.0,6.2,19091,Humboldt,"{""19091"": 88.11, ""19187"": 11.89}",Humboldt|Webster,19091|19187,False,False,America/Chicago,"(42.67683, -94.05478)",4.81187913980401,638.0,41750_0_no,42.74646934527058,-94.05379722236552,5.0

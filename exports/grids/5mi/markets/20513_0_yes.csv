@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71646,33.20444,-91.77837,Hamburg,AR,Arkansas,True,,5915.0,6.1,5003,Ashley,"{""05003"": 96.31, ""05043"": 3.69}",Ashley|Drew,05003|05043,False,False,America/Chicago,"(33.20444, -91.77837)",4.760095044449588,5915.0,20513_0_yes,33.25316334834896,-91.83659782376132,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93621,36.8067,-119.13602,Dunlap,CA,California,True,,118.0,0.6,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.8067, -119.13602)",1.4686859365676663,118.0,29017_0_no,36.82582026795605,-119.14762106811024,5.0

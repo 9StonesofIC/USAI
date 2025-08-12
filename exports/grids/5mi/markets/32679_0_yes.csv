@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19939,38.56575,-75.2022,Dagsboro,DE,Delaware,True,,7302.0,108.6,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.56575, -75.2022)",5.3116238639510245,37903.0,32679_0_yes,38.60342589371288,-75.28792569436426,5.0
+19966,38.58118,-75.28274,Millsboro,DE,Delaware,True,,30601.0,132.6,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.58118, -75.28274)",1.562348572542483,37903.0,32679_0_yes,38.60342589371288,-75.28792569436426,5.0

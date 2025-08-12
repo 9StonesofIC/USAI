@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95389,37.73784,-119.52556,Yosemite National Park,CA,California,True,,1464.0,1.9,6043,Mariposa,"{""06043"": 81.66, ""06109"": 18.34}",Mariposa|Tuolumne,06043|06109,False,False,America/Los_Angeles,"(37.73784, -119.52556)",2.1404972177144956,1464.0,30990_0_yes,37.768524021555535,-119.52015894959104,5.0

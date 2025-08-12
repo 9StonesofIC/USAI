@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49935,46.19493,-88.7463,Iron River,MI,Michigan,True,,5821.0,4.9,26071,Iron,"{""26071"": 100}",Iron,26071,False,False,America/Menominee,"(46.19493, -88.7463)",9.283839906985886,5821.0,12306_0_no,46.25551430261695,-88.91965721879447,10.0

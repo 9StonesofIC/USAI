@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83213,43.55171,-113.35809,Arco,ID,Idaho,True,,1312.0,0.7,16023,Butte,"{""16023"": 100}",Butte,16023,False,False,America/Boise,"(43.55171, -113.35809)",10.998627275187811,2560.0,11064_0_no,43.69425270425563,-113.26020024523258,10.0
+83255,43.72829,-113.45702,Moore,ID,Idaho,True,,1248.0,2.3,16023,Butte,"{""16023"": 89.68, ""16037"": 10.32}",Butte|Custer,16023|16037,False,False,America/Boise,"(43.72829, -113.45702)",10.107155021774254,2560.0,11064_0_no,43.69425270425563,-113.26020024523258,10.0

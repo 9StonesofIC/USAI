@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36786,32.43832,-87.49002,Uniontown,AL,Alabama,True,,2442.0,6.8,1105,Perry,"{""01105"": 77.12, ""01091"": 19.32, ""01065"": 3.56}",Perry|Marengo|Hale,01105|01091|01065,False,False,America/Chicago,"(32.43832, -87.49002)",3.572574061716714,2442.0,18756_0_no,32.45256520621475,-87.43112052662897,5.0

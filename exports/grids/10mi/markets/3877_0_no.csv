@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75938,30.93436,-94.35605,Colmesneil,TX,Texas,True,,2425.0,4.9,48457,Tyler,"{""48457"": 100}",Tyler,48457,False,False,America/Chicago,"(30.93436, -94.35605)",9.775529839950185,18579.0,3877_0_no,30.91409857176389,-94.19282230792436,10.0
+75951,30.93098,-94.05762,Jasper,TX,Texas,True,,16154.0,16.7,48241,Jasper,"{""48241"": 99.49, ""48351"": 0.51}",Jasper|Newton,48241|48351,False,False,America/Chicago,"(30.93098, -94.05762)",8.098240563385414,18579.0,3877_0_no,30.91409857176389,-94.19282230792436,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59758,44.78962,-111.19348,West Yellowstone,MT,Montana,True,,1623.0,1.5,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver,"(44.78962, -111.19348)",5.931723342248438,1623.0,11513_0_yes,44.7038401478506,-111.18856770573088,10.0

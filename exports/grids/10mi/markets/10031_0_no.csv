@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96115,41.70753,-120.14047,Lake City,CA,California,True,,167.0,0.6,6049,Modoc,"{""06049"": 100}",Modoc,06049,False,False,America/Los_Angeles,"(41.70753, -120.14047)",3.7424633354149734,167.0,10031_0_no,41.67846389856364,-120.20167905508414,10.0

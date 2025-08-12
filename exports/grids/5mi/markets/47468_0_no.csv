@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97113,45.50746,-123.04544,Cornelius,OR,Oregon,True,,14689.0,162.3,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles,"(45.50746, -123.04544)",1.4833537033991415,14689.0,47468_0_no,45.52316919286635,-123.0663231658878,5.0

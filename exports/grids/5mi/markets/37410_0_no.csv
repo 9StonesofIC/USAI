@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44432,40.74974,-80.75149,Lisbon,OH,Ohio,True,,12700.0,46.4,39029,Columbiana,"{""39029"": 100}",Columbiana,39029,False,False,America/New_York,"(40.74974, -80.75149)",3.1906817411210753,12700.0,37410_0_no,40.707946693554,-80.7255692990961,5.0

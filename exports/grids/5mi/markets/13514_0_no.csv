@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32413,30.30975,-85.88745,Panama City Beach,FL,Florida,True,,14551.0,51.9,12005,Bay,"{""12005"": 99.58, ""12131"": 0.42}",Bay|Walton,12005|12131,False,False,America/Chicago,"(30.30975, -85.88745)",4.096579949697236,14551.0,13514_0_no,30.27593017846175,-85.9438497444607,5.0

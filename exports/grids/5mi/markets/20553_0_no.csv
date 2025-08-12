@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79356,33.2562,-101.33245,Post,TX,Texas,True,,5931.0,2.8,48169,Garza,"{""48169"": 75.82, ""48107"": 15.42, ""48305"": 8.76}",Garza|Crosby|Lynn,48169|48107|48305,False,False,America/Chicago,"(33.2562, -101.33245)",5.792904882420244,5931.0,20553_0_no,33.18723073535401,-101.27546351685916,5.0

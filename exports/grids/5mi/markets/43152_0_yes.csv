@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04002,43.49572,-70.67922,Alfred,ME,Maine,True,,7596.0,44.3,23031,York,"{""23031"": 100}",York,23031,False,False,America/New_York,"(43.49572, -70.67922)",2.8760006073352917,9779.0,43152_0_yes,43.52237290179368,-70.63513599990762,5.0
+04030,43.59301,-70.69553,East Waterboro,ME,Maine,True,,2183.0,54.8,23031,York,"{""23031"": 100}",York,23031,False,False,America/New_York,"(43.59301, -70.69553)",5.741448810172621,9779.0,43152_0_yes,43.52237290179368,-70.63513599990762,5.0

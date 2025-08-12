@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79040,36.30113,-101.57841,Gruver,TX,Texas,True,,2085.0,1.3,48195,Hansford,"{""48195"": 62.99, ""48421"": 37.01}",Hansford|Sherman,48195|48421,False,False,America/Chicago,"(36.30113, -101.57841)",9.988564061411916,2085.0,7127_0_no,36.43248009251293,-101.5034180741534,10.0

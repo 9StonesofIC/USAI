@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83856,48.34228,-116.91058,Priest River,ID,Idaho,True,,6757.0,6.6,16017,Bonner,"{""16017"": 91.97, ""53051"": 8.03}",Bonner|Pend Oreille,16017|53051,False,False,America/Los_Angeles,"(48.34228, -116.91058)",5.314330716101347,6757.0,13343_0_no,48.33294134152911,-117.02543109239738,10.0

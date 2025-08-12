@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30830,33.08204,-81.9751,Waynesboro,GA,Georgia,True,,13544.0,13.9,13033,Burke,"{""13033"": 100}",Burke,13033,False,False,America/New_York,"(33.08204, -81.9751)",4.473371017173504,13544.0,20099_0_no,33.0288925230139,-82.0192146762235,5.0

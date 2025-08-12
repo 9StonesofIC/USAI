@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54601,43.80199,-91.14559,La Crosse,WI,Wisconsin,True,,51063.0,261.3,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago,"(43.80199, -91.14559)",2.5160484042864284,64833.0,43847_0_yes,43.82979702696893,-91.17817516070954,5.0
+54603,43.85729,-91.24791,La Crosse,WI,Wisconsin,True,,13770.0,600.3,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago,"(43.85729, -91.24791)",3.960363471464654,64833.0,43847_0_yes,43.82979702696893,-91.17817516070954,5.0

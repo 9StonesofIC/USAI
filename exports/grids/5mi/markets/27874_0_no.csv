@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72422,36.41893,-90.54385,Corning,AR,Arkansas,True,,4329.0,10.1,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago,"(36.41893, -90.54385)",4.818352495566639,4845.0,27874_0_no,36.36927229013634,-90.48302355571887,5.0
+72435,36.31177,-90.54593,Knobel,AR,Arkansas,True,,516.0,3.6,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago,"(36.31177, -90.54593)",5.295521350430028,4845.0,27874_0_no,36.36927229013634,-90.48302355571887,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56540,47.54255,-96.27671,Fertile,MN,Minnesota,True,,2120.0,4.7,27119,Polk,"{""27119"": 73.87, ""27107"": 26.13}",Polk|Norman,27119|27107,False,False,America/Chicago,"(47.54255, -96.27671)",8.195900441173288,2774.0,12883_0_no,47.42602457452973,-96.24386552005174,10.0
+56545,47.38527,-96.2399,Gary,MN,Minnesota,True,,654.0,1.6,27107,Norman,"{""27107"": 100}",Norman,27107,False,False,America/Chicago,"(47.38527, -96.2399)",2.8219722711712882,2774.0,12883_0_no,47.42602457452973,-96.24386552005174,10.0

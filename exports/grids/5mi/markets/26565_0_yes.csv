@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38037,35.79433,-89.39232,Gates,TN,Tennessee,True,,1558.0,13.0,47075,Haywood,"{""47075"": 59.14, ""47097"": 40.86}",Haywood|Lauderdale,47075|47097,False,False,America/Chicago,"(35.79433, -89.39232)",4.992376251484722,1558.0,26565_0_yes,35.86108375471764,-89.35821117738584,5.0

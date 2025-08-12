@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57788,44.61855,-103.2167,Vale,SD,South Dakota,True,,446.0,0.7,46019,Butte,"{""46019"": 59.12, ""46093"": 40.88}",Butte|Meade,46019|46093,False,False,America/Denver,"(44.61855, -103.2167)",6.151779543943032,446.0,45374_0_yes,44.56417039415989,-103.11770185821022,5.0

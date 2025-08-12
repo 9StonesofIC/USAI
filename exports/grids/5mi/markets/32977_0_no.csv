@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19958,38.72737,-75.16632,Lewes,DE,Delaware,True,,27123.0,221.5,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.72737, -75.16632)",3.5910568305363917,41045.0,32977_0_no,38.6757902485627,-75.15813333159765,5.0
+19971,38.69113,-75.10132,Rehoboth Beach,DE,Delaware,True,,13922.0,299.3,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.69113, -75.10132)",3.242352450196385,41045.0,32977_0_no,38.6757902485627,-75.15813333159765,5.0

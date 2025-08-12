@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80423,39.84776,-106.55359,Bond,CO,Colorado,True,,214.0,0.3,8037,Eagle,"{""08037"": 84.94, ""08049"": 15.06}",Eagle|Grand,08037|08049,False,False,America/Denver,"(39.84776, -106.55359)",3.644877275332374,214.0,35676_0_no,39.85986985744688,-106.4867079823276,5.0

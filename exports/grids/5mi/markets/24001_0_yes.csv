@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87315,34.66247,-108.55075,Fence Lake,NM,New Mexico,True,,116.0,0.1,35006,Cibola,"{""35006"": 100}",Cibola,35006,False,False,America/Denver,"(34.66247, -108.55075)",5.243514079910301,116.0,24001_0_yes,34.71516158792068,-108.4843276424912,5.0

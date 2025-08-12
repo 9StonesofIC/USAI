@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76661,31.30785,-96.84584,Marlin,TX,Texas,True,,7824.0,18.2,48145,Falls,"{""48145"": 100}",Falls,48145,False,False,America/Chicago,"(31.30785, -96.84584)",5.9860312811762455,7824.0,16048_0_yes,31.37103247209268,-96.91524422945749,5.0

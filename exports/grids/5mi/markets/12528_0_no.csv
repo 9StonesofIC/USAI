@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78070,29.89291,-98.40732,Spring Branch,TX,Texas,True,,15537.0,45.0,48091,Comal,"{""48091"": 82.35, ""48259"": 9.89, ""48031"": 7.76}",Comal|Kendall|Blanco,48091|48259|48031,False,False,America/Chicago,"(29.89291, -98.40732)",3.563957693471191,15537.0,12528_0_no,29.84859938634176,-98.43777072148184,5.0

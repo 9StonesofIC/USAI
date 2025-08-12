@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83241,42.51527,-111.76214,Grace,ID,Idaho,True,,2402.0,4.7,16029,Caribou,"{""16029"": 99.9, ""16041"": 0.1}",Caribou|Franklin,16029|16041,False,False,America/Boise,"(42.51527, -111.76214)",3.771156340518232,2402.0,41239_0_no,42.472018391865845,-111.8072902711263,5.0

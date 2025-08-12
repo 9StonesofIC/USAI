@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78620,30.22214,-98.13491,Dripping Springs,TX,Texas,True,,18420.0,40.5,48209,Hays,"{""48209"": 85.36, ""48453"": 9.64, ""48031"": 5.0}",Hays|Travis|Blanco,48209|48453|48031,False,False,America/Chicago,"(30.22214, -98.13491)",4.409917559031138,18420.0,13587_0_no,30.2837300538133,-98.1542935537596,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34228,27.39258,-82.63407,Longboat Key,FL,Florida,True,,7299.0,691.0,12081,Manatee,"{""12081"": 52.65, ""12115"": 47.35}",Manatee|Sarasota,12081|12115,False,False,America/New_York,"(27.39258, -82.63407)",10.04583723845602,7299.0,1523_0_yes,27.275017394380367,-82.73037211899809,10.0

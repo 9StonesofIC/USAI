@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65201,38.89595,-92.24365,Columbia,MO,Missouri,True,,47215.0,208.7,29019,Boone,"{""29019"": 98.09, ""29027"": 1.91}",Boone|Callaway,29019|29027,False,False,America/Chicago,"(38.89595, -92.24365)",4.868578423258968,47215.0,33408_0_yes,38.906520786760375,-92.15413105099854,5.0

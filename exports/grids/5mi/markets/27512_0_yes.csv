@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28649,36.33198,-81.20326,McGrady,NC,North Carolina,True,,1183.0,12.9,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.33198, -81.20326)",5.0982567266820285,7515.0,27512_0_yes,36.28986686511217,-81.27845078764172,5.0
+28651,36.27241,-81.28496,Millers Creek,NC,North Carolina,True,,6332.0,29.0,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.27241, -81.28496)",1.259464297355285,7515.0,27512_0_yes,36.28986686511217,-81.27845078764172,5.0

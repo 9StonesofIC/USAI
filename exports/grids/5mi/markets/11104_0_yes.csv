@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77460,29.39744,-96.38451,Nada,TX,Texas,True,,43.0,23.9,48089,Colorado,"{""48089"": 100}",Colorado,48089,False,False,America/Chicago,"(29.39744, -96.38451)",5.1867635065821585,43.0,11104_0_yes,29.33936380621525,-96.32992999675538,5.0

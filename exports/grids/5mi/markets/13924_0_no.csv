@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77318,30.44709,-95.54364,Willis,TX,Texas,True,,18553.0,193.4,48339,Montgomery,"{""48339"": 100}",Montgomery,48339,False,False,America/Chicago,"(30.44709, -95.54364)",3.7366941487537644,18553.0,13924_0_no,30.42718941676156,-95.60196529109898,5.0

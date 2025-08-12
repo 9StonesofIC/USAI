@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72457,36.08545,-91.06827,Portia,AR,Arkansas,True,,196.0,956.9,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago,"(36.08545, -91.06827)",5.465422934893046,196.0,27236_0_yes,36.15221543792568,-91.0157562259583,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73062,35.02929,-98.73478,Mountain View,OK,Oklahoma,True,,1178.0,2.0,40075,Kiowa,"{""40075"": 75.24, ""40149"": 24.76}",Kiowa|Washita,40075|40149,False,False,America/Chicago,"(35.02929, -98.73478)",2.170590409117756,1178.0,24617_0_yes,34.99812566228979,-98.72994130705948,5.0

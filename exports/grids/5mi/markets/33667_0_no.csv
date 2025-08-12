@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47040,38.91703,-84.92809,Rising Sun,IN,Indiana,True,,5103.0,30.4,18115,Ohio,"{""18115"": 68.19, ""18155"": 31.81}",Ohio|Switzerland,18115|18155,False,False,America/New_York,"(38.91703, -84.92809)",4.904025930292419,5103.0,33667_0_no,38.97329994261893,-84.98371161208932,5.0

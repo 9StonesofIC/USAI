@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83325,42.58675,-114.24282,Eden,ID,Idaho,True,,760.0,8.0,16053,Jerome,"{""16053"": 100}",Jerome,16053,False,False,America/Boise,"(42.58675, -114.24282)",4.824913145525595,760.0,41553_0_no,42.61902094598787,-114.32695388773044,5.0

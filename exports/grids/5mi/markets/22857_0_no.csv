@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35570,34.16532,-87.99466,Hamilton,AL,Alabama,True,,11516.0,19.0,1093,Marion,"{""01093"": 99.14, ""01075"": 0.86}",Marion|Lamar,01093|01075,False,False,America/Chicago,"(34.16532, -87.99466)",4.9666683349646545,11516.0,22857_0_no,34.193057689011496,-88.07482130537107,5.0

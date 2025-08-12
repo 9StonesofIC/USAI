@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23047,37.84765,-77.48973,Doswell,VA,Virginia,True,,1628.0,14.6,51085,Hanover,"{""51085"": 88.39, ""51033"": 11.61}",Hanover|Caroline,51085|51033,False,False,America/New_York,"(37.84765, -77.48973)",5.388027072955018,1628.0,31063_0_no,37.80850782137999,-77.57512119461425,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57566,43.31237,-101.10019,Parmelee,SD,South Dakota,True,,962.0,2.4,46121,Todd,"{""46121"": 90.7, ""46095"": 9.3}",Todd|Mellette,46121|46095,False,False,America/Chicago,"(43.31237, -101.10019)",5.698715085670453,962.0,42710_0_yes,43.25922532661558,-101.0135430402709,5.0

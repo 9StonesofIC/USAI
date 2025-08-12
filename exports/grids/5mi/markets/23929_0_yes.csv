@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74553,34.70808,-95.91859,Kiowa,OK,Oklahoma,True,,1259.0,6.2,40121,Pittsburg,"{""40121"": 69.89, ""40005"": 30.11}",Pittsburg|Atoka,40121|40005,False,False,America/Chicago,"(34.70808, -95.91859)",4.7144292196802615,1259.0,23929_0_yes,34.70604327144282,-95.83562631434012,5.0

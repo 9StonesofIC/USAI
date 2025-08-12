@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63443,39.66222,-91.86697,Hunnewell,MO,Missouri,True,,240.0,1.8,29137,Monroe,"{""29137"": 48.68, ""29205"": 33.6, ""29127"": 17.72}",Monroe|Shelby|Marion,29137|29205|29127,False,False,America/Chicago,"(39.66222, -91.86697)",3.02890965704017,240.0,35284_0_no,39.703170767502165,-91.88730015409446,5.0

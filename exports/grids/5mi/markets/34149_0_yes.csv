@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84634,39.18028,-111.83561,Gunnison,UT,Utah,True,,3657.0,20.4,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.18028, -111.83561)",4.181680320876613,3657.0,34149_0_yes,39.211970612742704,-111.76907738113373,5.0

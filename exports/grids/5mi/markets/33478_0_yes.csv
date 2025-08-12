@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80814,38.94731,-105.17604,Divide,CO,Colorado,True,,4125.0,15.7,8119,Teller,"{""08119"": 100}",Teller,08119,False,False,America/Denver,"(38.94731, -105.17604)",2.768577970624221,4125.0,33478_0_yes,38.91684177183159,-105.1425842548388,5.0

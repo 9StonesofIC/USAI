@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47601,38.05301,-87.25526,Boonville,IN,Indiana,True,,13566.0,41.1,18173,Warrick,"{""18173"": 94.23, ""18147"": 5.77}",Warrick|Spencer,18173|18147,False,False,America/Chicago,"(38.05301, -87.25526)",1.9261032303020855,13566.0,31459_0_yes,38.033302719802016,-87.23022470845767,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65606,36.69634,-91.3586,Alton,MO,Missouri,True,,2962.0,5.4,29149,Oregon,"{""29149"": 100}",Oregon,29149,False,False,America/Chicago,"(36.69634, -91.3586)",4.892846059589911,2962.0,28536_0_no,36.659867880860006,-91.43428592661142,5.0

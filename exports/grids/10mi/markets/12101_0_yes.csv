@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83530,45.91516,-116.02117,Grangeville,ID,Idaho,True,,5727.0,5.7,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Los_Angeles,"(45.91516, -116.02117)",7.519548609623989,6564.0,12101_0_yes,45.87030507095322,-115.87870202459207,10.0
+83552,45.9777,-115.93948,Stites,ID,Idaho,True,,837.0,2.8,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Los_Angeles,"(45.9777, -115.93948)",7.974556329274241,6564.0,12101_0_yes,45.87030507095322,-115.87870202459207,10.0

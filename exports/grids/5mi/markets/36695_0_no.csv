@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96075,40.35582,-121.87196,Paynes Creek,CA,California,True,,353.0,1.5,6103,Tehama,"{""06103"": 91.09, ""06089"": 8.91}",Tehama|Shasta,06103|06089,False,False,America/Los_Angeles,"(40.35582, -121.87196)",3.5125717787500554,353.0,36695_0_no,40.30715273004538,-121.8912394037404,5.0

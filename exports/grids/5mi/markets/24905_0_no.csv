@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72833,35.01845,-93.49748,Danville,AR,Arkansas,True,,3813.0,6.6,5149,Yell,"{""05149"": 87.12, ""05127"": 12.88}",Yell|Scott,05149|05127,False,False,America/Chicago,"(35.01845, -93.49748)",3.4220937506649096,4818.0,24905_0_no,35.066862782250155,-93.51024800802166,5.0
+72842,35.09626,-93.59664,Havana,AR,Arkansas,True,,1005.0,4.9,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago,"(35.09626, -93.59664)",5.290201930621396,4818.0,24905_0_no,35.066862782250155,-93.51024800802166,5.0

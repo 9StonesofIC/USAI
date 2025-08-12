@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47546,38.42071,-86.93469,Jasper,IN,Indiana,True,,21643.0,68.7,18037,Dubois,"{""18037"": 100}",Dubois,18037,False,False,America/Indiana/Vincennes,"(38.42071, -86.93469)",2.317429649685762,21643.0,32401_0_no,38.39535955655153,-86.96271661029289,5.0

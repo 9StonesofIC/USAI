@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89018,36.57063,-115.66802,Indian Springs,NV,Nevada,True,,4694.0,1037.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(36.57063, -115.66802)",5.461877138387594,4694.0,28343_0_no,36.53324773806881,-115.75472694266648,5.0

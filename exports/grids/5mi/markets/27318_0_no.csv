@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87328,36.02541,-109.03638,Navajo,NM,New Mexico,True,,2709.0,3.0,4001,Apache,"{""04001"": 38.7, ""35031"": 31.58, ""35045"": 29.72}",Apache|McKinley|San Juan,04001|35031|35045,False,False,America/Denver,"(36.02541, -109.03638)",4.838601706801528,2709.0,27318_0_no,36.09319731324133,-109.01463343233742,5.0

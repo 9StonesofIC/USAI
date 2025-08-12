@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96028,41.00761,-121.45731,Fall River Mills,CA,California,True,,1000.0,2.3,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(41.00761, -121.45731)",1.8978138731465177,1000.0,38241_0_no,41.03139033725216,-121.47552897004635,5.0

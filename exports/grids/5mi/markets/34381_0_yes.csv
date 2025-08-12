@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66418,39.28861,-95.93528,Delia,KS,Kansas,True,,494.0,2.6,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago,"(39.28861, -95.93528)",5.118849550956241,3252.0,34381_0_yes,39.34414561307933,-95.87189820414828,5.0
+66509,39.33239,-95.78097,Mayetta,KS,Kansas,True,,2758.0,8.4,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago,"(39.33239, -95.78097)",4.926442435595849,3252.0,34381_0_yes,39.34414561307933,-95.87189820414828,5.0

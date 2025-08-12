@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32130,29.15704,-81.34501,De Leon Springs,FL,Florida,True,,5393.0,22.0,12127,Volusia,"{""12127"": 100}",Volusia,12127,False,False,America/New_York,"(29.15704, -81.34501)",2.7348925979601715,5393.0,10656_0_yes,29.18496918972545,-81.31288695857685,5.0

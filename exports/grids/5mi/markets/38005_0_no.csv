@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18631,41.03079,-76.30233,Mifflinville,PA,Pennsylvania,True,,973.0,264.1,42037,Columbia,"{""42037"": 100}",Columbia,42037,False,False,America/New_York,"(41.03079, -76.30233)",2.800793055677942,973.0,38005_0_no,40.99392053124168,-76.3246572409141,5.0

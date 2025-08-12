@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65078,38.38473,-93.01085,Stover,MO,Missouri,True,,3620.0,8.9,29141,Morgan,"{""29141"": 93.7, ""29015"": 6.3}",Morgan|Benton,29141|29015,False,False,America/Chicago,"(38.38473, -93.01085)",4.534770557596744,3620.0,32134_0_yes,38.32758810494808,-92.9696769932335,5.0

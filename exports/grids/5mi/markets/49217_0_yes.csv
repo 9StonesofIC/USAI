@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04758,46.55426,-67.84732,Mars Hill,ME,Maine,True,,1246.0,13.7,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.55426, -67.84732)",1.8621311195279822,1922.0,49217_0_yes,46.558349174710266,-67.8860595138583,5.0
+04787,46.55166,-67.97685,Westfield,ME,Maine,True,,676.0,6.5,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(46.55166, -67.97685)",4.338383648585936,1922.0,49217_0_yes,46.558349174710266,-67.8860595138583,5.0

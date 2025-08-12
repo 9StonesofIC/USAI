@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43314,40.6474,-82.96122,Caledonia,OH,Ohio,True,,2935.0,20.9,39101,Marion,"{""39101"": 79.94, ""39033"": 11.91, ""39117"": 8.15}",Marion|Crawford|Morrow,39101|39033|39117,False,False,America/New_York,"(40.6474, -82.96122)",5.038561758488228,2935.0,37422_0_no,40.70983176488769,-83.01091180323635,5.0

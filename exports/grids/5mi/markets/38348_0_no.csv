@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44867,41.14755,-82.98963,Republic,OH,Ohio,True,,2689.0,16.9,39147,Seneca,"{""39147"": 100}",Seneca,39147,False,False,America/New_York,"(41.14755, -82.98963)",3.26474985054736,2689.0,38348_0_no,41.14421053201064,-82.92703931343252,5.0

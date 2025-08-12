@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74343,36.74287,-94.825,Fairland,OK,Oklahoma,True,,3084.0,18.6,40115,Ottawa,"{""40115"": 100}",Ottawa,40115,False,False,America/Chicago,"(36.74287, -94.825)",4.509968742622762,3084.0,28575_0_yes,36.73492486331603,-94.90584675869678,5.0

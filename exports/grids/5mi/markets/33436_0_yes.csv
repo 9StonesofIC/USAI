@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67480,38.97073,-97.40282,Solomon,KS,Kansas,True,,1617.0,3.8,20143,Ottawa,"{""20143"": 47.29, ""20041"": 32.7, ""20169"": 20.01}",Ottawa|Dickinson|Saline,20143|20041|20169,False,False,America/Chicago,"(38.97073, -97.40282)",5.0506723794998605,1617.0,33436_0_yes,38.910648727255214,-97.34928662029998,5.0

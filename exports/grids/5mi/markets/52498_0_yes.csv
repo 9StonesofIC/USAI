@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83822,48.16785,-117.0014,Oldtown,ID,Idaho,True,,1961.0,22.0,16017,Bonner,"{""16017"": 100}",Bonner,16017,False,False,America/Los_Angeles,"(48.16785, -117.0014)",1.9836883577386712,1961.0,52498_0_yes,48.195502414457536,-116.98981955356032,5.0

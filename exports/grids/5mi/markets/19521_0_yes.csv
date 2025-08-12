@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76067,32.80303,-98.1449,Mineral Wells,TX,Texas,True,,20437.0,39.9,48363,Palo Pinto,"{""48363"": 90.78, ""48367"": 9.22}",Palo Pinto|Parker,48363|48367,False,False,America/Chicago,"(32.80303, -98.1449)",2.7524135811393062,20437.0,19521_0_yes,32.82245896435864,-98.1862790778528,5.0

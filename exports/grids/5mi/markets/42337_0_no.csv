@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52156,43.05316,-91.46534,Luana,IA,Iowa,True,,529.0,4.3,19043,Clayton,"{""19043"": 72.56, ""19005"": 27.44}",Clayton|Allamakee,19043|19005,False,False,America/Chicago,"(43.05316, -91.46534)",3.9622286257046246,529.0,42337_0_no,43.03389081346227,-91.53924398479896,5.0

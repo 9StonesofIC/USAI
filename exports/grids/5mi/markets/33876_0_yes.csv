@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89413,39.07389,-119.92095,Glenbrook,NV,Nevada,True,,723.0,17.7,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles,"(39.07389, -119.92095)",3.0923309218427963,2499.0,33876_0_yes,39.07358688624425,-119.9785987558032,5.0
+89448,39.00789,-119.92412,Zephyr Cove,NV,Nevada,True,,1776.0,55.8,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles,"(39.00789, -119.92412)",5.399250555616996,2499.0,33876_0_yes,39.07358688624425,-119.9785987558032,5.0

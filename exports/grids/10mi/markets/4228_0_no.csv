@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75962,31.61981,-94.6484,Nacogdoches,TX,Texas,True,,3188.0,6030.9,48347,Nacogdoches,"{""48347"": 100}",Nacogdoches,48347,False,False,America/Chicago,"(31.61981, -94.6484)",8.877057528362146,22598.0,4228_0_no,31.49468251528697,-94.6826141162218,10.0
+75964,31.63334,-94.75057,Nacogdoches,TX,Texas,True,,19410.0,33.7,48347,Nacogdoches,"{""48347"": 100}",Nacogdoches,48347,False,False,America/Chicago,"(31.63334, -94.75057)",10.382090468973669,22598.0,4228_0_no,31.49468251528697,-94.6826141162218,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65035,38.36338,-91.93585,Freeburg,MO,Missouri,True,,1884.0,10.2,29151,Osage,"{""29151"": 100}",Osage,29151,False,False,America/Chicago,"(38.36338, -91.93585)",4.5823261391523,1884.0,32128_0_yes,38.32672164896381,-91.86538044443236,5.0

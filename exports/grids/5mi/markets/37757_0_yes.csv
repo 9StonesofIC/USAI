@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44882,40.94759,-83.13734,Sycamore,OH,Ohio,True,,2568.0,13.8,39175,Wyandot,"{""39175"": 57.82, ""39033"": 32.85, ""39147"": 9.33}",Wyandot|Crawford|Seneca,39175|39033|39147,False,False,America/New_York,"(40.94759, -83.13734)",1.4644384912605783,2568.0,37757_0_yes,40.92712593642817,-83.14464495607346,5.0

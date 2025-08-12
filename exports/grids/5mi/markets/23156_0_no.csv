@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29065,34.29495,-81.29239,Jenkinsville,SC,South Carolina,True,,309.0,4.6,45039,Fairfield,"{""45039"": 100}",Fairfield,45039,False,False,America/New_York,"(34.29495, -81.29239)",4.947605976554055,2700.0,23156_0_no,34.33325015068012,-81.36564294701367,5.0
+29126,34.32195,-81.41932,Pomaria,SC,South Carolina,True,,2391.0,11.9,45071,Newberry,"{""45071"": 100}",Newberry,45071,False,False,America/New_York,"(34.32195, -81.41932)",3.1607200581746113,2700.0,23156_0_no,34.33325015068012,-81.36564294701367,5.0

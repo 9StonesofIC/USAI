@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88126,33.81642,-103.35359,Pep,NM,New Mexico,True,,33.0,0.2,35041,Roosevelt,"{""35041"": 100}",Roosevelt,35041,False,False,America/Denver,"(33.81642, -103.35359)",3.52434086907711,33.0,21928_0_no,33.76885476385249,-103.37575793977224,5.0

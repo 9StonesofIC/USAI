@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87825,33.94509,-107.6603,Magdalena,NM,New Mexico,True,,2302.0,0.4,35053,Socorro,"{""35053"": 67.62, ""35003"": 32.38}",Socorro|Catron,35053|35003,False,False,America/Denver,"(33.94509, -107.6603)",4.990927408329284,2302.0,5649_0_yes,33.977019595584736,-107.58217955886484,10.0

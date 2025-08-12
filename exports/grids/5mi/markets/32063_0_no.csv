@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41049,38.27465,-83.64581,Hillsboro,KY,Kentucky,True,,2244.0,10.1,21069,Fleming,"{""21069"": 99.75, ""21205"": 0.25}",Fleming|Rowan,21069|21205,False,False,America/New_York,"(38.27465, -83.64581)",4.8707052792285,2244.0,32063_0_no,38.24793929410323,-83.72889525382764,5.0

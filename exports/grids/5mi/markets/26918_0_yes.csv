@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72641,35.98829,-93.21978,Jasper,AR,Arkansas,True,,2664.0,9.1,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago,"(35.98829, -93.21978)",1.4246592384924521,3303.0,26918_0_yes,36.00890617756463,-93.22022486265,5.0
+72648,36.07516,-93.14399,Marble Falls,AR,Arkansas,True,,568.0,6.1,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago,"(36.07516, -93.14399)",6.252612520314789,3303.0,26918_0_yes,36.00890617756463,-93.22022486265,5.0
+72666,35.94876,-93.28706,Parthenon,AR,Arkansas,True,,71.0,0.9,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago,"(35.94876, -93.28706)",5.588789991117856,3303.0,26918_0_yes,36.00890617756463,-93.22022486265,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51338,43.2065,-95.32378,Everly,IA,Iowa,True,,938.0,5.0,19041,Clay,"{""19041"": 79.17, ""19059"": 20.83}",Clay|Dickinson,19041|19059,False,False,America/Chicago,"(43.2065, -95.32378)",4.4003536114952775,5515.0,42681_0_yes,43.25424635434778,-95.26593466824428,5.0
+51351,43.31656,-95.18626,Milford,IA,Iowa,True,,4577.0,16.4,19059,Dickinson,"{""19059"": 100}",Dickinson,19059,False,False,America/Chicago,"(43.31656, -95.18626)",5.881822447011646,5515.0,42681_0_yes,43.25424635434778,-95.26593466824428,5.0

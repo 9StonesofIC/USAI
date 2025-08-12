@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87828,34.20567,-106.92056,Polvadera,NM,New Mexico,True,,777.0,89.1,35053,Socorro,"{""35053"": 100}",Socorro,35053,False,False,America/Denver,"(34.20567, -106.92056)",6.276579258554782,777.0,22642_0_yes,34.13386819574973,-106.8533010411762,5.0

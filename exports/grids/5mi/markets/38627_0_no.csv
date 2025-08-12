@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17745,41.28589,-77.48097,Lock Haven,PA,Pennsylvania,True,,18195.0,30.7,42035,Clinton,"{""42035"": 71.7, ""42081"": 28.3}",Clinton|Lycoming,42035|42081,False,False,America/New_York,"(41.28589, -77.48097)",1.350765040783085,18195.0,38627_0_no,41.28445383974928,-77.45502362260379,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71638,33.52008,-91.47927,Dermott,AR,Arkansas,True,,3549.0,5.6,5043,Drew,"{""05043"": 66.06, ""05017"": 25.41, ""05041"": 8.53}",Drew|Chicot|Desha,05043|05017|05041,False,False,America/Chicago,"(33.52008, -91.47927)",3.650316077452505,3549.0,21179_0_no,33.470483829019095,-91.50109954965122,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45715,39.60484,-81.6268,Beverly,OH,Ohio,True,,2405.0,22.2,39115,Morgan,"{""39115"": 58.74, ""39167"": 27.17, ""39121"": 14.09}",Morgan|Washington|Noble,39115|39167|39121,False,False,America/New_York,"(39.60484, -81.6268)",3.680653178997105,2405.0,34937_0_yes,39.6224688787735,-81.69205399526315,5.0

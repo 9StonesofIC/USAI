@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87538,35.49323,-105.53767,Ilfeld,NM,New Mexico,True,,355.0,2.5,35047,San Miguel,"{""35047"": 100}",San Miguel,35047,False,False,America/Denver,"(35.49323, -105.53767)",4.318267199426965,659.0,25658_0_yes,35.438064493901926,-105.50160337442364,5.0
+87565,35.4442,-105.49384,San Jose,NM,New Mexico,True,,304.0,2.9,35047,San Miguel,"{""35047"": 100}",San Miguel,35047,False,False,America/Denver,"(35.4442, -105.49384)",0.6088418177605827,659.0,25658_0_yes,35.438064493901926,-105.50160337442364,5.0

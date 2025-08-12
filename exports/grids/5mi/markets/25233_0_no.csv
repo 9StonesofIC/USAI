@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72058,35.24273,-92.36998,Greenbrier,AR,Arkansas,True,,17511.0,43.0,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago,"(35.24273, -92.36998)",2.575741966765067,17513.0,25233_0_no,35.21102600701397,-92.3939873140508,5.0
+72181,35.16237,-92.44503,Wooster,AR,Arkansas,True,,2.0,0.6,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago,"(35.16237, -92.44503)",4.42825739633968,17513.0,25233_0_no,35.21102600701397,-92.3939873140508,5.0

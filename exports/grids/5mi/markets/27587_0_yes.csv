@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74338,36.26234,-94.71572,Colcord,OK,Oklahoma,True,,5744.0,15.7,40041,Delaware,"{""40041"": 99.74, ""40001"": 0.26}",Delaware|Adair,40041|40001,False,False,America/Chicago,"(36.26234, -94.71572)",2.5975092635951826,5744.0,27587_0_yes,36.29993376355184,-94.71550498634852,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38488,35.03906,-86.68569,Taft,TN,Tennessee,True,,2228.0,14.8,47103,Lincoln,"{""47103"": 100}",Lincoln,47103,False,False,America/Chicago,"(35.03906, -86.68569)",3.5501922622438404,2228.0,24866_0_no,35.061858655126635,-86.62944154165196,5.0

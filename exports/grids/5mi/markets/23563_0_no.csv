@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71957,34.55799,-93.59682,Mount Ida,AR,Arkansas,True,,2803.0,6.8,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago,"(34.55799, -93.59682)",5.4758345274975735,2803.0,23563_0_no,34.48694916791752,-93.55418047368256,5.0

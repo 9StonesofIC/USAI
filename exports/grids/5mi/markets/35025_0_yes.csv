@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66949,39.646,-98.19755,Jewell,KS,Kansas,True,,602.0,2.0,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago,"(39.646, -98.19755)",0.8779481632901467,602.0,35025_0_yes,39.63577746699339,-98.1877492349996,5.0

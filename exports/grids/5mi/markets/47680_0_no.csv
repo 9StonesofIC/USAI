@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59034,45.70121,-107.7078,Hardin,MT,Montana,True,,5348.0,2.6,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver,"(45.70121, -107.7078)",4.790494019750151,5348.0,47680_0_no,45.65414956007135,-107.78067340687797,5.0

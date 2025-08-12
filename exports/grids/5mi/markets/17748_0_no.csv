@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71473,32.06989,-92.42748,Sikes,LA,Louisiana,True,,387.0,1.2,22127,Winn,"{""22127"": 100}",Winn,22127,False,False,America/Chicago,"(32.06989, -92.42748)",4.413895089321992,387.0,17748_0_no,32.02080734719376,-92.37924039557343,5.0

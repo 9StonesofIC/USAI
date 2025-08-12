@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16434,41.79442,-79.66765,Spartansburg,PA,Pennsylvania,True,,3228.0,19.8,42039,Crawford,"{""42039"": 82.96, ""42123"": 17.04}",Crawford|Warren,42039|42123,False,False,America/New_York,"(41.79442, -79.66765)",0.6166291664921709,3228.0,39584_0_yes,41.793041984865866,-79.6794769131232,5.0

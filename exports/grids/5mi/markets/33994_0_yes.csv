@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45673,39.20399,-82.81148,Richmond Dale,OH,Ohio,True,,584.0,460.3,39141,Ross,"{""39141"": 100}",Ross,39141,False,False,America/New_York,"(39.20399, -82.81148)",4.413450793389668,584.0,33994_0_yes,39.18888192216308,-82.8915644907477,5.0

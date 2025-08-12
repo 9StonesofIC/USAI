@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56082,44.35217,-94.03329,Saint Peter,MN,Minnesota,True,,14599.0,45.4,27103,Nicollet,"{""27103"": 86.77, ""27079"": 13.23}",Nicollet|Le Sueur,27103|27079,False,False,America/Chicago,"(44.35217, -94.03329)",0.9282095820068627,14599.0,45010_0_no,44.33903082844953,-94.0372048031949,5.0

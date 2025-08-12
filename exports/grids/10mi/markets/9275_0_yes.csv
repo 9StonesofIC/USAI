@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96063,40.35708,-121.60236,Mineral,CA,California,True,,250.0,7.4,6103,Tehama,"{""06103"": 100}",Tehama,06103,False,False,America/Los_Angeles,"(40.35708, -121.60236)",1.522801690166517,250.0,9275_0_yes,40.37652819948222,-121.58875072252444,10.0

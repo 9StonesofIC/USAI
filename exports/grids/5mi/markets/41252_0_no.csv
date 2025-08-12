@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83334,42.4243,-114.29126,Hansen,ID,Idaho,True,,2304.0,10.1,16083,Twin Falls,"{""16083"": 100}",Twin Falls,16083,False,False,America/Boise,"(42.4243, -114.29126)",4.614091138483085,10388.0,41252_0_no,42.47419035035398,-114.3514209214672,5.0
+83341,42.42875,-114.37052,Kimberly,ID,Idaho,True,,8084.0,36.6,16083,Twin Falls,"{""16083"": 100}",Twin Falls,16083,False,False,America/Boise,"(42.42875, -114.37052)",3.2871455896823063,10388.0,41252_0_no,42.47419035035398,-114.3514209214672,5.0

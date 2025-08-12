@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57429,45.16116,-98.3005,Brentford,SD,South Dakota,True,,63.0,1.7,46115,Spink,"{""46115"": 100}",Spink,46115,False,False,America/Chicago,"(45.16116, -98.3005)",3.578141366042067,63.0,46773_0_no,45.21133676823512,-98.28231976589387,5.0

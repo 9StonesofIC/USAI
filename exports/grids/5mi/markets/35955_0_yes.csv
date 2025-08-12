@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68337,40.09504,-95.83418,Dawson,NE,Nebraska,True,,323.0,2.3,31147,Richardson,"{""31147"": 100}",Richardson,31147,False,False,America/Chicago,"(40.09504, -95.83418)",4.610501179590284,548.0,35955_0_yes,40.06843179341039,-95.754201165478,5.0
+68433,40.05251,-95.73969,Salem,NE,Nebraska,True,,225.0,1.6,31147,Richardson,"{""31147"": 100}",Richardson,31147,False,False,America/Chicago,"(40.05251, -95.73969)",1.341292528321692,548.0,35955_0_yes,40.06843179341039,-95.754201165478,5.0

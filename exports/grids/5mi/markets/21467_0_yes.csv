@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29556,33.66849,-79.76403,Kingstree,SC,South Carolina,True,,11687.0,26.1,45089,Williamsburg,"{""45089"": 100}",Williamsburg,45089,False,False,America/New_York,"(33.66849, -79.76403)",4.057591743432793,11687.0,21467_0_yes,33.67967034139119,-79.69475370089044,5.0

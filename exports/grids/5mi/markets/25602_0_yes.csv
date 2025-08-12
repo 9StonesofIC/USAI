@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74426,35.44553,-95.52759,Checotah,OK,Oklahoma,True,,9081.0,15.9,40091,McIntosh,"{""40091"": 99.84, ""40101"": 0.16}",McIntosh|Muskogee,40091|40101,False,False,America/Chicago,"(35.44553, -95.52759)",2.93439598046191,9081.0,25602_0_yes,35.43078053020876,-95.57647238715472,5.0

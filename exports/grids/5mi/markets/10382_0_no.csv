@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77962,29.03253,-96.5023,Ganado,TX,Texas,True,,3309.0,6.7,48239,Jackson,"{""48239"": 100}",Jackson,48239,False,False,America/Chicago,"(29.03253, -96.5023)",3.9443982706991485,3309.0,10382_0_no,28.97671313307019,-96.51599729947704,5.0

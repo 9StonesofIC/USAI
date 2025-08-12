@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54230,44.15749,-87.91202,Reedsville,WI,Wisconsin,True,,4594.0,16.3,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago,"(44.15749, -87.91202)",2.9149319896541233,7043.0,44687_0_no,44.18883760569555,-87.87265457548918,5.0
+54247,44.19686,-87.78564,Whitelaw,WI,Wisconsin,True,,2449.0,28.7,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago,"(44.19686, -87.78564)",4.346177120085621,7043.0,44687_0_no,44.18883760569555,-87.87265457548918,5.0

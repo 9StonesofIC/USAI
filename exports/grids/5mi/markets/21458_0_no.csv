@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29118,33.57056,-80.89501,Orangeburg,SC,South Carolina,True,,16771.0,84.5,45075,Orangeburg,"{""45075"": 92.88, ""45017"": 7.12}",Orangeburg|Calhoun,45075|45017,False,False,America/New_York,"(33.57056, -80.89501)",3.053865618559322,16771.0,21458_0_no,33.608038918513145,-80.86688551130852,5.0

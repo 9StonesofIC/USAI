@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77422,28.96492,-95.57268,Brazoria,TX,Texas,True,,13965.0,31.5,48039,Brazoria,"{""48039"": 100}",Brazoria,48039,False,False,America/Chicago,"(28.96492, -95.57268)",8.351015759975782,33037.0,2642_0_no,28.88551133050519,-95.46857344414585,10.0
+77541,29.01496,-95.32667,Freeport,TX,Texas,True,,19072.0,52.0,48039,Brazoria,"{""48039"": 100}",Brazoria,48039,False,False,America/Chicago,"(29.01496, -95.32667)",12.39364234146459,33037.0,2642_0_no,28.88551133050519,-95.46857344414585,10.0

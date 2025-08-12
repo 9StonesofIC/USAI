@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42634,36.88043,-84.41601,Parkers Lake,KY,Kentucky,True,,2023.0,8.8,21147,McCreary,"{""21147"": 100}",McCreary,21147,False,False,America/New_York,"(36.88043, -84.41601)",2.0997624109831947,2023.0,28844_0_yes,36.871873705855165,-84.37955598359828,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59915,47.82025,-114.41124,Elmo,MT,Montana,True,,563.0,3.8,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.82025, -114.41124)",5.3220249956472525,563.0,51664_0_yes,47.758992422241896,-114.4807443471486,5.0

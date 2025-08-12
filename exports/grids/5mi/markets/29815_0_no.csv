@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42275,37.22701,-86.44628,Roundhill,KY,Kentucky,True,,854.0,7.1,21031,Butler,"{""21031"": 72.89, ""21061"": 27.11}",Butler|Edmonson,21031|21061,False,False,America/Chicago,"(37.22701, -86.44628)",1.1415767366927208,854.0,29815_0_no,37.23578460399075,-86.46386311163548,5.0

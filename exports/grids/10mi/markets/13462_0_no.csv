@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59501,48.69591,-109.78556,Havre,MT,Montana,True,,12528.0,3.6,30041,Hill,"{""30041"": 95.74, ""30005"": 4.26}",Hill|Blaine,30041|30005,False,False,America/Denver,"(48.69591, -109.78556)",11.341651532089587,12643.0,13462_0_no,48.609005416259066,-109.99635685501984,10.0
+59532,48.58837,-110.08515,Kremlin,MT,Montana,True,,115.0,0.2,30041,Hill,"{""30041"": 100}",Hill,30041,False,False,America/Denver,"(48.58837, -110.08515)",4.300493806310782,12643.0,13462_0_no,48.609005416259066,-109.99635685501984,10.0

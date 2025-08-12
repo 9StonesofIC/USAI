@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23022,37.7353,-78.26432,Bremo Bluff,VA,Virginia,True,,798.0,11.9,51065,Fluvanna,"{""51065"": 100}",Fluvanna,51065,False,False,America/New_York,"(37.7353, -78.26432)",0.8549429130181311,1996.0,30764_0_yes,37.736550857298006,-78.24875384454698,5.0
+23055,37.7706,-78.21852,Fork Union,VA,Virginia,True,,1198.0,33.1,51065,Fluvanna,"{""51065"": 100}",Fluvanna,51065,False,False,America/New_York,"(37.7706, -78.21852)",2.874457186644954,1996.0,30764_0_yes,37.736550857298006,-78.24875384454698,5.0

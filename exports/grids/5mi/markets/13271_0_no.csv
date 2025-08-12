@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79843,30.11987,-104.30359,Marfa,TX,Texas,True,,2457.0,0.6,48377,Presidio,"{""48377"": 100}",Presidio,48377,False,False,America/Chicago,"(30.11987, -104.30359)",4.474280176178848,2457.0,13271_0_no,30.142586429555763,-104.37370602761364,5.0

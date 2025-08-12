@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84014,40.93311,-111.85308,Centerville,UT,Utah,True,,17527.0,526.3,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver,"(40.93311, -111.85308)",2.546562982694522,42024.0,37907_0_yes,40.95088014065188,-111.81033287754585,5.0
+84025,40.97667,-111.89874,Farmington,UT,Utah,True,,24497.0,664.8,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver,"(40.97667, -111.89874)",4.944789053461092,42024.0,37907_0_yes,40.95088014065188,-111.81033287754585,5.0

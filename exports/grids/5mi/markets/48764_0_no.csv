@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58075,46.27426,-96.72211,Wahpeton,ND,North Dakota,True,,9300.0,15.3,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago,"(46.27426, -96.72211)",3.8368063613574463,9300.0,48764_0_no,46.22309656190226,-96.75332507932472,5.0

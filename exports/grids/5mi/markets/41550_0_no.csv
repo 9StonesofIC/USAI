@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83336,42.5626,-113.81699,Heyburn,ID,Idaho,True,,5700.0,62.5,16067,Minidoka,"{""16067"": 100}",Minidoka,16067,False,False,America/Boise,"(42.5626, -113.81699)",5.556552338549792,5700.0,41550_0_no,42.61851717747746,-113.73848028451918,5.0

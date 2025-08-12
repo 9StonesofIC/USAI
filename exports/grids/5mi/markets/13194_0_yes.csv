@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39572,30.25089,-89.60127,Pearlington,MS,Mississippi,True,,973.0,34.9,28045,Hancock,"{""28045"": 100}",Hancock,28045,False,False,America/Chicago,"(30.25089, -89.60127)",3.9023813867223764,973.0,13194_0_yes,30.2056740111634,-89.56209880348108,5.0

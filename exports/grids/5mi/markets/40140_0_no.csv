@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12725,41.95679,-74.54794,Claryville,NY,New York,True,,147.0,0.8,36111,Ulster,"{""36111"": 78.72, ""36105"": 21.28}",Ulster|Sullivan,36111|36105,False,False,America/New_York,"(41.95679, -74.54794)",4.000632970242457,147.0,40140_0_no,42.005958218463,-74.58907670496883,5.0

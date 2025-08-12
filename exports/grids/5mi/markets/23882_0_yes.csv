@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35646,34.66988,-87.53165,Leighton,AL,Alabama,True,,4414.0,18.9,1033,Colbert,"{""01033"": 100}",Colbert,01033,False,False,America/Chicago,"(34.66988, -87.53165)",3.4313739002080905,4414.0,23882_0_yes,34.70009269922006,-87.57958373796626,5.0

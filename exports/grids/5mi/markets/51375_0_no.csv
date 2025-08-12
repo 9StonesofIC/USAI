@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99023,47.56474,-117.14466,Mica,WA,Washington,True,,641.0,13.6,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.56474, -117.14466)",3.9388865461834666,2435.0,51375_0_no,47.54451565543282,-117.22363637083434,5.0
+99036,47.52005,-117.27197,Valleyford,WA,Washington,True,,1794.0,18.1,53063,Spokane,"{""53063"": 100}",Spokane,53063,False,False,America/Los_Angeles,"(47.52005, -117.27197)",2.8180654004419963,2435.0,51375_0_no,47.54451565543282,-117.22363637083434,5.0

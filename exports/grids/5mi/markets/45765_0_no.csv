@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04957,44.70419,-69.8471,Norridgewock,ME,Maine,True,,4153.0,20.9,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(44.70419, -69.8471)",3.5360609202471256,4153.0,45765_0_no,44.75174489628986,-69.82047851417961,5.0

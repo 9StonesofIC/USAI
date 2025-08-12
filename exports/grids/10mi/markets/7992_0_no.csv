@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95372,37.98927,-120.26272,Soulsbyville,CA,California,True,,1761.0,280.9,6109,Tuolumne,"{""06109"": 100}",Tuolumne,06109,False,False,America/Los_Angeles,"(37.98927, -120.26272)",11.248639559254274,5617.0,7992_0_no,37.91028079926252,-120.082189343984,10.0
+95379,37.96174,-120.21635,Tuolumne,CA,California,True,,3856.0,57.5,6109,Tuolumne,"{""06109"": 100}",Tuolumne,06109,False,False,America/Los_Angeles,"(37.96174, -120.21635)",8.129647891740314,5617.0,7992_0_no,37.91028079926252,-120.082189343984,10.0

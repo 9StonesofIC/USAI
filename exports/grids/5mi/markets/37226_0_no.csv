@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80546,40.52415,-104.84986,Severance,CO,Colorado,True,,205.0,707.9,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.52415, -104.84986)",5.891451352079653,2475.0,37226_0_no,40.58290681917229,-104.76853318893616,5.0
+80650,40.6484,-104.77666,Pierce,CO,Colorado,True,,2270.0,15.5,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.6484, -104.77666)",4.545177794898229,2475.0,37226_0_no,40.58290681917229,-104.76853318893616,5.0

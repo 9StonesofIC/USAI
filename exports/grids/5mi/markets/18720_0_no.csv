@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31303,32.49631,-81.30616,Clyo,GA,Georgia,True,,2348.0,11.1,13103,Effingham,"{""13103"": 100}",Effingham,13103,False,False,America/New_York,"(32.49631, -81.30616)",3.940500974281973,13179.0,18720_0_no,32.44837818049088,-81.26952728726766,5.0
+31329,32.4251,-81.34314,Springfield,GA,Georgia,True,,10831.0,45.3,13103,Effingham,"{""13103"": 100}",Effingham,13103,False,False,America/New_York,"(32.4251, -81.34314)",4.584054086912106,13179.0,18720_0_no,32.44837818049088,-81.26952728726766,5.0

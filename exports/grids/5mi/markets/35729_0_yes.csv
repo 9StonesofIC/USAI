@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84628,39.93583,-112.13419,Eureka,UT,Utah,True,,669.0,24.9,49023,Juab,"{""49023"": 100}",Juab,49023,False,False,America/Denver,"(39.93583, -112.13419)",3.2457929740090394,669.0,35729_0_yes,39.9369105827709,-112.19544069244296,5.0

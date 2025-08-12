@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79718,30.99474,-103.73293,Balmorhea,TX,Texas,True,,1029.0,1.1,48389,Reeves,"{""48389"": 100}",Reeves,48389,False,False,America/Chicago,"(30.99474, -103.73293)",5.383038634727933,1156.0,3912_0_yes,31.07145633159941,-103.74878222539743,10.0
+79780,31.03937,-103.65754,Saragosa,TX,Texas,True,,127.0,2.9,48389,Reeves,"{""48389"": 100}",Reeves,48389,False,False,America/Chicago,"(31.03937, -103.65754)",5.837964677992209,1156.0,3912_0_yes,31.07145633159941,-103.74878222539743,10.0

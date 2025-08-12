@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95947,40.15942,-120.84409,Greenville,CA,California,True,,1676.0,7.6,6063,Plumas,"{""06063"": 100}",Plumas,06063,False,False,America/Los_Angeles,"(40.15942, -120.84409)",9.939045283896826,4805.0,9261_0_no,40.23030265576369,-120.68021953954783,10.0
+96114,40.2945,-120.49359,Janesville,CA,California,True,,3129.0,18.4,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(40.2945, -120.49359)",10.793509764015187,4805.0,9261_0_no,40.23030265576369,-120.68021953954783,10.0

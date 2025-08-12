@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78582,26.53937,-98.73985,Rio Grande City,TX,Texas,True,,44047.0,30.1,48427,Starr,"{""48427"": 100}",Starr,48427,False,False,America/Chicago,"(26.53937, -98.73985)",5.495794802772853,44047.0,4255_0_yes,26.58299951816377,-98.66549427706236,5.0

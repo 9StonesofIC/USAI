@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74457,36.03063,-94.82065,Proctor,OK,Oklahoma,True,,317.0,1.7,40021,Cherokee,"{""40021"": 62.08, ""40001"": 37.92}",Cherokee|Adair,40021|40001,False,False,America/Chicago,"(36.03063, -94.82065)",5.626786158242032,317.0,27239_0_no,36.08267309988628,-94.89813094294578,5.0

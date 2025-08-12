@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74058,36.35499,-96.75909,Pawnee,OK,Oklahoma,True,,3951.0,6.0,40117,Pawnee,"{""40117"": 99.77, ""40113"": 0.23}",Pawnee|Osage,40117|40113,False,False,America/Chicago,"(36.35499, -96.75909)",1.3129076022574988,3951.0,27909_0_no,36.37398329470021,-96.75980089939348,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61270,41.82971,-89.9656,Morrison,IL,Illinois,True,,6739.0,17.2,17195,Whiteside,"{""17195"": 98.97, ""17015"": 1.03}",Whiteside|Carroll,17195|17015,False,False,America/Chicago,"(41.82971, -89.9656)",4.043311783614606,6739.0,39915_0_no,41.874205218614286,-90.01662801028324,5.0

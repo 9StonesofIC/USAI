@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65644,37.50999,-93.03625,Elkland,MO,Missouri,True,,1898.0,9.0,29059,Dallas,"{""29059"": 65.19, ""29225"": 34.81}",Dallas|Webster,29059|29225,False,False,America/Chicago,"(37.50999, -93.03625)",4.70636761539903,1898.0,30196_0_yes,37.45812278504327,-92.98060688368328,5.0

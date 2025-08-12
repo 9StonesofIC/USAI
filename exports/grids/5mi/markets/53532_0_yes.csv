@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59253,48.70422,-105.83496,Peerless,MT,Montana,True,,90.0,0.1,30019,Daniels,"{""30019"": 98.03, ""30105"": 1.97}",Daniels|Valley,30019|30105,False,False,America/Denver,"(48.70422, -105.83496)",6.209631437799228,90.0,53532_0_yes,48.76364495687808,-105.73273561910736,5.0

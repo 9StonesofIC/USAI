@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81236,38.6955,-106.25424,Nathrop,CO,Colorado,True,,1207.0,2.9,8015,Chaffee,"{""08015"": 100}",Chaffee,08015,False,False,America/Denver,"(38.6955, -106.25424)",6.265258681700271,1207.0,32847_0_yes,38.62793717543876,-106.33169373023073,5.0

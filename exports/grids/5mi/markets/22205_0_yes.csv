@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38961,33.96463,-89.8859,Tillatoba,MS,Mississippi,True,,660.0,3.5,28161,Yalobusha,"{""28161"": 68.49, ""28135"": 31.51}",Yalobusha|Tallahatchie,28161|28135,False,False,America/Chicago,"(33.96463, -89.8859)",4.090683528238758,660.0,22205_0_yes,33.97677321678595,-89.8160280786614,5.0

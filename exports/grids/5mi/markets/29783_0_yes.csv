@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23030,37.34652,-77.05962,Charles City,VA,Virginia,True,,4560.0,11.8,51036,Charles City,"{""51036"": 99.36, ""51087"": 0.64}",Charles City|Henrico,51036|51087,False,False,America/New_York,"(37.34652, -77.05962)",3.1730684703489627,4560.0,29783_0_yes,37.3009935640319,-77.06720551291086,5.0

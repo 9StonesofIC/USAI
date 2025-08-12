@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59823,46.96334,-113.59753,Bonner,MT,Montana,True,,1840.0,1.4,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver,"(46.96334, -113.59753)",4.5596936573014135,1840.0,50248_0_no,46.96211813326581,-113.50084959284617,5.0

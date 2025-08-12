@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79783,32.3321,-102.05007,Tarzan,TX,Texas,True,,279.0,0.7,48317,Martin,"{""48317"": 100}",Martin,48317,False,False,America/Chicago,"(32.3321, -102.05007)",4.3286913965203375,279.0,18510_0_yes,32.389956654141386,-102.0785223900832,5.0

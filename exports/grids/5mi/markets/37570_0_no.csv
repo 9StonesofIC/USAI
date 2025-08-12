@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84055,40.71889,-111.16106,Oakley,UT,Utah,True,,1503.0,4.6,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver,"(40.71889, -111.16106)",2.36257850927909,1503.0,37570_0_no,40.73309123002266,-111.20210504357487,5.0

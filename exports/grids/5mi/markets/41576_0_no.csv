@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97736,42.66655,-118.92058,Frenchglen,OR,Oregon,True,,88.0,0.0,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles,"(42.66655, -118.92058)",5.1382742807600525,88.0,41576_0_no,42.62288346461656,-118.83874245860888,5.0

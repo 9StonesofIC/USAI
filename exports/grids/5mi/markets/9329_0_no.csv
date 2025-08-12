@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78834,28.54776,-99.87286,Carrizo Springs,TX,Texas,True,,8245.0,6.2,48127,Dimmit,"{""48127"": 89.1, ""48507"": 10.9}",Dimmit|Zavala,48127|48507,False,False,America/Chicago,"(28.54776, -99.87286)",3.0322791572740107,8245.0,9329_0_no,28.54339763123647,-99.9225724946452,5.0

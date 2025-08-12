@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81427,37.99301,-107.64387,Ouray,CO,Colorado,True,,1233.0,6.4,8091,Ouray,"{""08091"": 100}",Ouray,08091,False,False,America/Denver,"(37.99301, -107.64387)",5.209114876750115,1233.0,31570_0_yes,38.04916941166518,-107.58001955280416,5.0

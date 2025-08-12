@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36553,31.22852,-88.08658,McIntosh,AL,Alabama,True,,3361.0,13.8,1129,Washington,"{""01129"": 100}",Washington,01129,False,False,America/Chicago,"(31.22852, -88.08658)",4.578269806807467,3361.0,15984_0_no,31.29270578729584,-88.0673276216956,5.0

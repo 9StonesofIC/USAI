@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71839,33.30619,-93.73891,Garland City,AR,Arkansas,True,,250.0,2.2,5091,Miller,"{""05091"": 100}",Miller,05091,False,False,America/Chicago,"(33.30619, -93.73891)",3.5757104698560136,250.0,20524_0_yes,33.2544824673928,-93.7363494025712,5.0

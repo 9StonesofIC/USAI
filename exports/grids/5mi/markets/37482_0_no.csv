@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50835,40.70769,-94.3675,Benton,IA,Iowa,True,,75.0,1.9,19159,Ringgold,"{""19159"": 100}",Ringgold,19159,False,False,America/Chicago,"(40.70769, -94.3675)",3.8079962013546496,75.0,37482_0_no,40.7192589912982,-94.43859126462144,5.0

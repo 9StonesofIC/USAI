@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93042,33.4077,-119.43365,Point Mugu Nawc,CA,California,True,,124.0,1.7,6111,Ventura,"{""06111"": 100}",Ventura,06111,False,False,America/Los_Angeles,"(33.4077, -119.43365)",16.675132992922997,124.0,1419_0_no,33.40551612530462,-119.14455493876008,20.0

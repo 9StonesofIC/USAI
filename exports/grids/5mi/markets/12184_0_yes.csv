@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78163,29.7663,-98.44514,Bulverde,TX,Texas,True,,13937.0,72.0,48091,Comal,"{""48091"": 100}",Comal,48091,False,False,America/Chicago,"(29.7663, -98.44514)",4.545457610522905,13937.0,12184_0_yes,29.775973365845413,-98.37017355008808,5.0

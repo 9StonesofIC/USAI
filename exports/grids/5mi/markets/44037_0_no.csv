@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13305,43.89329,-75.43144,Beaver Falls,NY,New York,True,,204.0,68.3,36049,Lewis,"{""36049"": 100}",Lewis,36049,False,False,America/New_York,"(43.89329, -75.43144)",0.36282353339441153,2796.0,44037_0_no,43.88843045953164,-75.43420131411287,5.0
+13620,43.89989,-75.45265,Castorland,NY,New York,True,,2592.0,26.9,36049,Lewis,"{""36049"": 100}",Lewis,36049,False,False,America/New_York,"(43.89989, -75.45265)",1.2127134259220629,2796.0,44037_0_no,43.88843045953164,-75.43420131411287,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04029,43.89479,-70.66007,Sebago,ME,Maine,True,,1830.0,21.5,23005,Cumberland,"{""23005"": 100}",Cumberland,23005,False,False,America/New_York,"(43.89479, -70.66007)",4.365014798491762,5755.0,44040_0_yes,43.95654064581304,-70.64154567942468,5.0
+04055,43.97065,-70.61444,Naples,ME,Maine,True,,3925.0,47.6,23005,Cumberland,"{""23005"": 100}",Cumberland,23005,False,False,America/New_York,"(43.97065, -70.61444)",1.6635881295107573,5755.0,44040_0_yes,43.95654064581304,-70.64154567942468,5.0

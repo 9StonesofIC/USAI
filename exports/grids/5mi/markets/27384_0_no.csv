@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93450,36.05791,-120.82894,San Ardo,CA,California,True,,856.0,1.8,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.05791, -120.82894)",3.231431714055596,856.0,27384_0_no,36.10199278967913,-120.80961043815586,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79313,33.8126,-102.16093,Anton,TX,Texas,True,,1505.0,4.0,48219,Hockley,"{""48219"": 56.24, ""48279"": 42.88, ""48303"": 0.88}",Hockley|Lamb|Lubbock,48219|48279|48303,False,False,America/Chicago,"(33.8126, -102.16093)",3.9078064864837416,1505.0,21937_0_yes,33.84052234033494,-102.2201374626264,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89420,38.50802,-118.18051,Luning,NV,Nevada,True,,77.0,9.9,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles,"(38.50802, -118.18051)",6.3384549288195755,77.0,32891_0_no,38.564930911401646,-118.27249374343236,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48054,42.77054,-82.54515,East China,MI,Michigan,True,,7163.0,68.1,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(42.77054, -82.54515)",3.931261478887385,19454.0,41718_0_yes,42.80888379757984,-82.48786731508746,5.0
+48079,42.8576,-82.54721,Saint Clair,MI,Michigan,True,,12291.0,113.4,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(42.8576, -82.54721)",4.5133886641004635,19454.0,41718_0_yes,42.80888379757984,-82.48786731508746,5.0

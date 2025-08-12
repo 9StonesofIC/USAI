@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64765,37.9965,-94.44297,Metz,MO,Missouri,True,,15.0,45.6,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago,"(37.9965, -94.44297)",4.349523581107403,551.0,31478_0_no,37.966564570970014,-94.51322822207518,5.0
+64778,37.92283,-94.4841,Richards,MO,Missouri,True,,536.0,1.8,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago,"(37.92283, -94.4841)",3.413217290634399,551.0,31478_0_no,37.966564570970014,-94.51322822207518,5.0

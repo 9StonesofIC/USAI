@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72032,35.07393,-92.36451,Conway,AR,Arkansas,True,,33940.0,114.5,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago,"(35.07393, -92.36451)",4.961790982639923,33940.0,24916_0_yes,35.138452562760406,-92.32597326258804,5.0

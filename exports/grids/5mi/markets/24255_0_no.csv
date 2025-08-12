@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74872,34.77989,-96.97913,Stratford,OK,Oklahoma,True,,3303.0,8.6,40049,Garvin,"{""40049"": 73.63, ""40123"": 23.71, ""40087"": 2.66}",Garvin|Pontotoc|McClain,40049|40123|40087,False,False,America/Chicago,"(34.77989, -96.97913)",1.019760661202988,3303.0,24255_0_no,34.77938879146486,-96.96117101836036,5.0

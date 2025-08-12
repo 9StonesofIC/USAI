@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59927,48.56021,-114.717,Olney,MT,Montana,True,,270.0,0.5,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver,"(48.56021, -114.717)",9.719360508817845,14232.0,13351_0_yes,48.47273935017232,-114.55068530501948,10.0
+59937,48.43893,-114.49769,Whitefish,MT,Montana,True,,13962.0,17.4,30029,Flathead,"{""30029"": 100}",Flathead,30029,False,False,America/Denver,"(48.43893, -114.49769)",3.369561363011088,14232.0,13351_0_yes,48.47273935017232,-114.55068530501948,10.0

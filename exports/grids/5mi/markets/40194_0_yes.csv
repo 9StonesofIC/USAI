@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16442,42.04094,-79.82631,Wattsburg,PA,Pennsylvania,True,,3334.0,25.6,42049,Erie,"{""42049"": 100}",Erie,42049,False,False,America/New_York,"(42.04094, -79.82631)",3.4440926251229533,28633.0,40194_0_yes,42.08276563781467,-79.86283499038191,5.0
+16510,42.11184,-79.95395,Erie,PA,Pennsylvania,True,,25299.0,296.3,42049,Erie,"{""42049"": 100}",Erie,42049,False,False,America/New_York,"(42.11184, -79.95395)",5.084900572283579,28633.0,40194_0_yes,42.08276563781467,-79.86283499038191,5.0

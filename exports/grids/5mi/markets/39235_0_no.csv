@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18833,41.59433,-76.46515,New Albany,PA,Pennsylvania,True,,1902.0,7.7,42015,Bradford,"{""42015"": 92.24, ""42113"": 7.76}",Bradford|Sullivan,42015|42113,False,False,America/New_York,"(41.59433, -76.46515)",1.4970260388018999,1902.0,39235_0_no,41.573210653156245,-76.47161977787226,5.0

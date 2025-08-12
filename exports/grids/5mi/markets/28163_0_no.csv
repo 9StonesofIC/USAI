@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37879,36.48403,-83.48705,Tazewell,TN,Tennessee,True,,11501.0,25.3,47025,Claiborne,"{""47025"": 80.38, ""47067"": 19.62}",Claiborne|Hancock,47025|47067,False,False,America/New_York,"(36.48403, -83.48705)",4.498784506635477,11501.0,28163_0_no,36.50888793412678,-83.41218961511854,5.0

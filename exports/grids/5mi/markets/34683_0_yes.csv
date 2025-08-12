@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65286,39.50616,-93.22059,Triplett,MO,Missouri,True,,130.0,1.2,29041,Chariton,"{""29041"": 100}",Chariton,29041,False,False,America/Chicago,"(39.50616, -93.22059)",2.004227161081611,130.0,34683_0_yes,39.486873637197135,-93.19251132409644,5.0

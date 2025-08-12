@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75969,31.44765,-94.89758,Pollok,TX,Texas,True,,3522.0,16.4,48005,Angelina,"{""48005"": 85.57, ""48073"": 14.43}",Angelina|Cherokee,48005|48073,False,False,America/Chicago,"(31.44765, -94.89758)",3.208210576706394,3522.0,16374_0_no,31.442301661006542,-94.9516435839455,5.0

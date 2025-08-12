@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78837,29.92708,-101.28057,Comstock,TX,Texas,True,,212.0,0.1,48465,Val Verde,"{""48465"": 100}",Val Verde,48465,False,False,America/Chicago,"(29.92708, -101.28057)",12.117733380290806,212.0,3370_0_no,30.052919130551132,-101.13952474744838,10.0

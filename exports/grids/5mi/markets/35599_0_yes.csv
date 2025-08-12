@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61850,39.9301,-87.74346,Indianola,IL,Illinois,True,,405.0,4.7,17183,Vermilion,"{""17183"": 100}",Vermilion,17183,False,False,America/Chicago,"(39.9301, -87.74346)",1.4712629109717315,405.0,35599_0_yes,39.91704257494708,-87.72152687815478,5.0

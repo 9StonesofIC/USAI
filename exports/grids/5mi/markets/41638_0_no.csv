@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+01475,42.66675,-72.04902,Winchendon,MA,Massachusetts,True,,10831.0,97.8,25027,Worcester,"{""25027"": 100}",Worcester,25027,False,False,America/New_York,"(42.66675, -72.04902)",4.216611209920394,16931.0,41638_0_no,42.72758445601888,-72.04241746561935,5.0
+03461,42.75234,-72.01071,Rindge,NH,New Hampshire,True,,6100.0,63.5,33005,Cheshire,"{""33005"": 100}",Cheshire,33005,False,False,America/New_York,"(42.75234, -72.01071)",2.3482963045204004,16931.0,41638_0_no,42.72758445601888,-72.04241746561935,5.0

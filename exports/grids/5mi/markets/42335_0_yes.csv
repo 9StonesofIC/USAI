@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49403,43.13316,-85.85022,Conklin,MI,Michigan,True,,2799.0,23.1,26139,Ottawa,"{""26139"": 88.86, ""26121"": 6.94, ""26081"": 4.2}",Ottawa|Muskegon|Kent,26139|26121|26081,False,False,America/Detroit,"(43.13316, -85.85022)",2.2087836224408197,2799.0,42335_0_yes,43.10131813982165,-85.84633220970349,5.0

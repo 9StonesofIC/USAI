@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81052,37.94242,-102.65625,Lamar,CO,Colorado,True,,9140.0,5.2,8099,Prowers,"{""08099"": 75.83, ""08011"": 24.17}",Prowers|Bent,08099|08011,False,False,America/Denver,"(37.94242, -102.65625)",6.046097163199025,9140.0,7954_0_yes,38.02787283470208,-102.6323401727522,10.0

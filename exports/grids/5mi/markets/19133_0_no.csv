@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71003,32.62969,-93.02787,Athens,LA,Louisiana,True,,1050.0,6.4,22027,Claiborne,"{""22027"": 100}",Claiborne,22027,False,False,America/Chicago,"(32.62969, -93.02787)",1.9544680069398066,1050.0,19133_0_no,32.601404645879775,-93.02826643993568,5.0

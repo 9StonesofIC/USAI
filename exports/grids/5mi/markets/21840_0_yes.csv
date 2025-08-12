@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30176,33.76972,-85.30398,Tallapoosa,GA,Georgia,True,,7221.0,33.5,13143,Haralson,"{""13143"": 100}",Haralson,13143,False,False,America/New_York,"(33.76972, -85.30398)",5.02680197718069,7221.0,21840_0_yes,33.82863274641843,-85.35535165431527,5.0

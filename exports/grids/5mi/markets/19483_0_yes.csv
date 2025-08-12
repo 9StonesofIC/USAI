@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71261,32.77802,-91.69515,Mer Rouge,LA,Louisiana,True,,1235.0,3.4,22067,Morehouse,"{""22067"": 100}",Morehouse,22067,False,False,America/Chicago,"(32.77802, -91.69515)",3.5925056305241796,1235.0,19483_0_yes,32.817976427986736,-91.65556935523075,5.0

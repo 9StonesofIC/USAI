@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23438,36.58116,-76.69749,Suffolk,VA,Virginia,True,,1555.0,15.1,51800,Suffolk,"{""51800"": 100}",Suffolk,51800,False,False,America/New_York,"(36.58116, -76.69749)",4.304539637682178,3454.0,28145_0_yes,36.576186330584456,-76.62015700857035,5.0
+27926,36.51687,-76.60288,Corapeake,NC,North Carolina,True,,1899.0,20.3,37073,Gates,"{""37073"": 100}",Gates,37073,False,False,America/New_York,"(36.51687, -76.60288)",4.209075828075142,3454.0,28145_0_yes,36.576186330584456,-76.62015700857035,5.0

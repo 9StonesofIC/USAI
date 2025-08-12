@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84759,37.92238,-112.38423,Panguitch,UT,Utah,True,,2175.0,1.8,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver,"(37.92238, -112.38423)",1.1952083379881415,2175.0,31274_0_yes,37.90794746317785,-112.37214243924758,5.0

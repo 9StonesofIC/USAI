@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51003,42.98355,-95.98642,Alton,IA,Iowa,True,,1920.0,13.6,19167,Sioux,"{""19167"": 100}",Sioux,19167,False,False,America/Chicago,"(42.98355, -95.98642)",1.3825921763136373,8990.0,42087_0_yes,42.96529120458104,-95.997610366898,5.0
+51041,43.02443,-96.07701,Orange City,IA,Iowa,True,,7070.0,38.5,19167,Sioux,"{""19167"": 100}",Sioux,19167,False,False,America/Chicago,"(43.02443, -96.07701)",5.7268374071904695,8990.0,42087_0_yes,42.96529120458104,-95.997610366898,5.0

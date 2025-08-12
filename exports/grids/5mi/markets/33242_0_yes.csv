@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95726,38.75418,-120.41989,Pollock Pines,CA,California,True,,8207.0,22.2,6017,El Dorado,"{""06017"": 100}",El Dorado,06017,False,False,America/Los_Angeles,"(38.75418, -120.41989)",3.410212028952975,8207.0,33242_0_yes,38.78398659718705,-120.36943315360428,5.0

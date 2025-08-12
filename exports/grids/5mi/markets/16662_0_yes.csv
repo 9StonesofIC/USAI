@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31567,31.63011,-82.70705,West Green,GA,Georgia,True,,921.0,8.4,13069,Coffee,"{""13069"": 100}",Coffee,13069,False,False,America/New_York,"(31.63011, -82.70705)",2.664542870189247,921.0,16662_0_yes,31.651748946109524,-82.74454473719634,5.0

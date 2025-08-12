@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30648,33.87577,-83.03319,Lexington,GA,Georgia,True,,3028.0,12.7,13221,Oglethorpe,"{""13221"": 100}",Oglethorpe,13221,False,False,America/New_York,"(33.87577, -83.03319)",3.45552384755084,3028.0,22150_0_no,33.899482917266376,-82.98014630309369,5.0

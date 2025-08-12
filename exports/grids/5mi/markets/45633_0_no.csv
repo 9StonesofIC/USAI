@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57748,44.58484,-102.01082,Howes,SD,South Dakota,True,,292.0,0.3,46093,Meade,"{""46093"": 55.59, ""46137"": 44.41}",Meade|Ziebach,46093|46137,False,False,America/Denver,"(44.58484, -102.01082)",3.576530788335383,292.0,45633_0_no,44.63561166551875,-101.99665292691331,5.0

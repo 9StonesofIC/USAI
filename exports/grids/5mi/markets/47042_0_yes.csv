@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54462,45.39408,-89.00031,Pearson,WI,Wisconsin,True,,425.0,3.6,55067,Langlade,"{""55067"": 100}",Langlade,55067,False,False,America/Chicago,"(45.39408, -89.00031)",1.8201637327166378,425.0,47042_0_yes,45.42005606088874,-89.00655536839695,5.0

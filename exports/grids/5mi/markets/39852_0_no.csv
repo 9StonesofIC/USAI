@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16948,41.85369,-77.75683,Ulysses,PA,Pennsylvania,True,,1612.0,6.3,42105,Potter,"{""42105"": 100}",Potter,42105,False,False,America/New_York,"(41.85369, -77.75683)",2.5343624023022926,1612.0,39852_0_no,41.86389880365231,-77.80413308965095,5.0

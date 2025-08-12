@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95932,39.26839,-122.00426,Colusa,CA,California,True,,7573.0,20.5,6011,Colusa,"{""06011"": 100}",Colusa,06011,False,False,America/Los_Angeles,"(39.26839, -122.00426)",3.576007380025373,9086.0,8647_0_yes,39.21778298299515,-122.01826385322656,10.0
+95955,39.29657,-122.20454,Maxwell,CA,California,True,,1513.0,4.5,6011,Colusa,"{""06011"": 100}",Colusa,06011,False,False,America/Los_Angeles,"(39.29657, -122.20454)",11.355610847624309,9086.0,8647_0_yes,39.21778298299515,-122.01826385322656,10.0

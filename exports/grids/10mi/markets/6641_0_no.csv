@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87701,35.53091,-104.94419,Las Vegas,NM,New Mexico,True,,18882.0,4.6,35047,San Miguel,"{""35047"": 100}",San Miguel,35047,False,False,America/Denver,"(35.53091, -104.94419)",2.622421396550264,18882.0,6641_0_no,35.56804877837005,-104.953810830461,10.0

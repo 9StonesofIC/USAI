@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29714,34.71171,-80.9145,Fort Lawn,SC,South Carolina,True,,3178.0,37.7,45023,Chester,"{""45023"": 100}",Chester,45023,False,False,America/New_York,"(34.71171, -80.9145)",1.258792295479396,3178.0,23844_0_yes,34.69528255778807,-80.90491754094623,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54177,45.36428,-87.89183,Wausaukee,WI,Wisconsin,True,,2684.0,5.9,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago,"(45.36428, -87.89183)",2.894491455820917,2684.0,47010_0_no,45.34679128429238,-87.94600251693682,5.0

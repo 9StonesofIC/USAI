@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64765,37.9965,-94.44297,Metz,MO,Missouri,True,,15.0,45.6,29217,Vernon,"{""29217"": 100}",Vernon,29217,False,False,America/Chicago,"(37.9965, -94.44297)",4.522362826331352,2795.0,31498_0_yes,38.03887647833127,-94.37965229583313,5.0
+64779,38.09214,-94.40152,Rich Hill,MO,Missouri,True,,2780.0,5.4,29013,Bates,"{""29013"": 72.81, ""29217"": 27.19}",Bates|Vernon,29013|29217,False,False,America/Chicago,"(38.09214, -94.40152)",3.8676354292997353,2795.0,31498_0_yes,38.03887647833127,-94.37965229583313,5.0

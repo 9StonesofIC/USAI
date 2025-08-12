@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78371,27.5493,-99.04716,Oilton,TX,Texas,True,,170.0,0.7,48479,Webb,"{""48479"": 100}",Webb,48479,False,False,America/Chicago,"(27.5493, -99.04716)",2.4587804388336143,170.0,6800_0_no,27.526812853054555,-99.01605485990224,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65663,37.62732,-93.24486,Half Way,MO,Missouri,True,,2575.0,8.7,29167,Polk,"{""29167"": 100}",Polk,29167,False,False,America/Chicago,"(37.62732, -93.24486)",2.670492095845004,2575.0,30522_0_yes,37.60327716385364,-93.28306371640016,5.0

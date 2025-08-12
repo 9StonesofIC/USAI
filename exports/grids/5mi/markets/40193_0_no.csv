@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49082,41.94257,-84.876,Quincy,MI,Michigan,True,,6176.0,28.1,26023,Branch,"{""26023"": 92.46, ""26059"": 7.54}",Branch|Hillsdale,26023|26059,False,False,America/Detroit,"(41.94257, -84.876)",5.007004533748955,6176.0,40193_0_no,42.01467151381558,-84.88578034801179,5.0

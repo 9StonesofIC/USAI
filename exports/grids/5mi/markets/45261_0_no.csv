@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49620,44.5188,-85.68976,Buckley,MI,Michigan,True,,2634.0,17.3,26055,Grand Traverse,"{""26055"": 52.62, ""26165"": 47.38}",Grand Traverse|Wexford,26055|26165,False,False,America/Detroit,"(44.5188, -85.68976)",3.1375107414175383,2634.0,45261_0_no,44.47637731935015,-85.66705164768197,5.0

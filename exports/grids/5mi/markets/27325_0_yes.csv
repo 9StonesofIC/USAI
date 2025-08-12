@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87027,36.12734,-106.94737,La Jara,NM,New Mexico,True,,289.0,3.2,35043,Sandoval,"{""35043"": 100}",Sandoval,35043,False,False,America/Denver,"(36.12734, -106.94737)",2.6581195632319194,289.0,27325_0_yes,36.16410219979857,-106.9333273995186,5.0

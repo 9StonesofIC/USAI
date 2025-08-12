@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24529,36.62452,-78.64001,Buffalo Junction,VA,Virginia,True,,1602.0,16.9,51117,Mecklenburg,"{""51117"": 100}",Mecklenburg,51117,False,False,America/New_York,"(36.62452, -78.64001)",1.9573879377071577,2180.0,28465_0_no,36.65021252230744,-78.65488440953712,5.0
+24580,36.58328,-78.68,Nelson,VA,Virginia,True,,578.0,10.6,51117,Mecklenburg,"{""51117"": 100}",Mecklenburg,51117,False,False,America/New_York,"(36.58328, -78.68)",4.829794042477628,2180.0,28465_0_no,36.65021252230744,-78.65488440953712,5.0

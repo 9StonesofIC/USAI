@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97456,44.34036,-123.35893,Monroe,OR,Oregon,True,,3056.0,12.8,41003,Benton,"{""41003"": 96.9, ""41039"": 3.1}",Benton|Lane,41003|41039,False,False,America/Los_Angeles,"(44.34036, -123.35893)",3.5829288350942674,3056.0,44890_0_yes,44.292499474673626,-123.38682841542594,5.0

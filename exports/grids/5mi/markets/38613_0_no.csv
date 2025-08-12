@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+07827,41.28918,-74.74351,Montague,NJ,New Jersey,True,,3979.0,28.9,34037,Sussex,"{""34037"": 100}",Sussex,34037,False,False,America/New_York,"(41.28918, -74.74351)",1.2412347315651289,3979.0,38613_0_no,41.282209901058096,-74.76554441716084,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82224,42.93677,-104.88811,Lost Springs,WY,Wyoming,True,,10.0,0.0,56009,Converse,"{""56009"": 51.82, ""56027"": 48.18}",Converse|Niobrara,56009|56027,False,False,America/Denver,"(42.93677, -104.88811)",4.320837973482719,10.0,42105_0_no,42.90052964894844,-104.81851650910252,5.0

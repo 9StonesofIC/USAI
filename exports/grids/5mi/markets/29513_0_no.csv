@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63957,37.14218,-90.68903,Piedmont,MO,Missouri,True,,6222.0,11.8,29223,Wayne,"{""29223"": 75.72, ""29179"": 24.28}",Wayne|Reynolds,29223|29179,False,False,America/Chicago,"(37.14218, -90.68903)",3.383727673929006,6222.0,29513_0_no,37.094105198316505,-90.7007401366859,5.0

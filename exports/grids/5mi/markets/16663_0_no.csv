@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39824,31.52882,-84.86552,Bluffton,GA,Georgia,True,,873.0,8.2,13061,Clay,"{""13061"": 70.61, ""13099"": 29.39}",Clay|Early,13061|13099,False,False,America/New_York,"(31.52882, -84.86552)",4.169667085796311,873.0,16663_0_no,31.580697707243186,-84.9017018872534,5.0

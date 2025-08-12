@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73938,36.92585,-100.58497,Forgan,OK,Oklahoma,True,,819.0,1.5,40007,Beaver,"{""40007"": 100}",Beaver,40007,False,False,America/Chicago,"(36.92585, -100.58497)",4.030813599852778,819.0,29241_0_no,36.95665051317598,-100.5229806231364,5.0

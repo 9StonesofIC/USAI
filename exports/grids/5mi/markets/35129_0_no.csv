@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95938,39.60504,-121.79708,Durham,CA,California,True,,4202.0,23.8,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.60504, -121.79708)",3.624182073276251,4202.0,35129_0_no,39.582353999888674,-121.73570601688192,5.0

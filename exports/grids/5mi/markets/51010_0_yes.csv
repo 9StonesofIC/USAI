@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55734,47.38274,-92.4938,Eveleth,MN,Minnesota,True,,6234.0,30.8,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(47.38274, -92.4938)",5.40025010904086,6234.0,51010_0_yes,47.44913558592206,-92.55473945817936,5.0

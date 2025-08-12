@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33917,26.75403,-81.84779,North Fort Myers,FL,Florida,True,,30270.0,178.3,12071,Lee,"{""12071"": 73.22, ""12015"": 26.78}",Lee|Charlotte,12071|12015,False,False,America/New_York,"(26.75403, -81.84779)",2.7772365128379537,30270.0,4877_0_no,26.79118429047164,-81.86496866255754,5.0

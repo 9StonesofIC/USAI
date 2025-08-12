@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88038,33.0722,-108.42625,Gila,NM,New Mexico,True,,215.0,0.2,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(33.0722, -108.42625)",3.4440686926738104,215.0,20267_0_yes,33.11963490985104,-108.44453323757898,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69028,40.64107,-100.04708,Eustis,NE,Nebraska,True,,781.0,1.8,31063,Frontier,"{""31063"": 67.21, ""31047"": 25.02, ""31073"": 7.77}",Frontier|Dawson|Gosper,31063|31047|31073,False,False,America/Chicago,"(40.64107, -100.04708)",1.3657271477775113,781.0,37226_0_yes,40.651428686435686,-100.0692675567552,5.0

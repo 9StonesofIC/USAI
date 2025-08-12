@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97737,43.50897,-121.71917,Gilchrist,OR,Oregon,True,,467.0,7.9,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(43.50897, -121.71917)",6.159946306322287,467.0,43409_0_yes,43.56694028686026,-121.81260641231884,5.0

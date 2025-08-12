@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43811,40.18285,-81.93232,Conesville,OH,Ohio,True,,649.0,11.8,39031,Coshocton,"{""39031"": 100}",Coshocton,39031,False,False,America/New_York,"(40.18285, -81.93232)",2.4855527412439025,19566.0,36195_0_yes,40.20197927325516,-81.89243667778497,5.0
+43812,40.27268,-81.88347,Coshocton,OH,Ohio,True,,18917.0,46.5,39031,Coshocton,"{""39031"": 100}",Coshocton,39031,False,False,America/New_York,"(40.27268, -81.88347)",4.907795555040619,19566.0,36195_0_yes,40.20197927325516,-81.89243667778497,5.0

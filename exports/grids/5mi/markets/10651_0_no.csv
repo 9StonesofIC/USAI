@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32179,29.09631,-81.89686,Ocklawaha,FL,Florida,True,,7843.0,40.3,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.09631, -81.89686)",2.0602183752453778,39114.0,10651_0_no,29.112836963348794,-81.92526527307552,5.0
+34472,29.11187,-81.99625,Ocala,FL,Florida,True,,31271.0,332.8,12083,Marion,"{""12083"": 100}",Marion,12083,False,False,America/New_York,"(29.11187, -81.99625)",4.285489938845448,39114.0,10651_0_no,29.112836963348794,-81.92526527307552,5.0

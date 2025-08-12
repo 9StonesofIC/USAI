@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58558,46.82106,-100.52127,Menoken,ND,North Dakota,True,,1202.0,3.4,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago,"(46.82106, -100.52127)",8.387514685922177,1482.0,12615_0_no,46.85505313603823,-100.35090950562476,10.0
+58572,46.86455,-100.34313,Sterling,ND,North Dakota,True,,280.0,0.5,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago,"(46.86455, -100.34313)",0.7520959940867313,1482.0,12615_0_no,46.85505313603823,-100.35090950562476,10.0

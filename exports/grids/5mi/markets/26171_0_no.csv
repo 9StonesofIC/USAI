@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28612,35.6641,-81.53619,Connelly Springs,NC,North Carolina,True,,12274.0,59.2,37023,Burke,"{""37023"": 98.36, ""37035"": 1.64}",Burke|Catawba,37023|37035,False,False,America/New_York,"(35.6641, -81.53619)",2.1544639932938536,12274.0,26171_0_no,35.637938003827394,-81.55706968790659,5.0

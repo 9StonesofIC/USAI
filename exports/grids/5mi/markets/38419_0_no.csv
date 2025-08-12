@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68033,41.12933,-96.52425,Ithaca,NE,Nebraska,True,,322.0,4.2,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.12933, -96.52425)",1.9635829520605406,5695.0,38419_0_no,41.1555375033484,-96.53884590781696,5.0
+68066,41.18451,-96.61996,Wahoo,NE,Nebraska,True,,5373.0,23.1,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.18451, -96.61996)",4.669639252367193,5695.0,38419_0_no,41.1555375033484,-96.53884590781696,5.0

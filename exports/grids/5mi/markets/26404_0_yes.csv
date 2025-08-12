@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93249,35.67033,-119.85814,Lost Hills,CA,California,True,,1959.0,3.7,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(35.67033, -119.85814)",4.822785885084597,1959.0,26404_0_yes,35.738661830237284,-119.8405971572759,5.0

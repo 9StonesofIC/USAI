@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12069,42.94336,-74.28193,Fort Hunter,NY,New York,True,,294.0,304.6,36057,Montgomery,"{""36057"": 100}",Montgomery,36057,False,False,America/New_York,"(42.94336, -74.28193)",4.7746166237929595,3359.0,41950_0_no,42.874257292298005,-74.28245629936892,5.0
+12072,42.88102,-74.36164,Fultonville,NY,New York,True,,3065.0,22.7,36057,Montgomery,"{""36057"": 100}",Montgomery,36057,False,False,America/New_York,"(42.88102, -74.36164)",4.036384963463665,3359.0,41950_0_no,42.874257292298005,-74.28245629936892,5.0

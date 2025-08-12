@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78387,28.08224,-97.55255,Sinton,TX,Texas,True,,9874.0,22.1,48409,San Patricio,"{""48409"": 79.14, ""48025"": 20.86}",San Patricio|Bee,48409|48025,False,False,America/Chicago,"(28.08224, -97.55255)",1.9151384743220232,9874.0,8236_0_no,28.10655783060801,-97.56762838373216,5.0

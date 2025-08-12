@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36522,31.08296,-88.27795,Citronelle,AL,Alabama,True,,6759.0,11.2,1097,Mobile,"{""01097"": 77.58, ""01129"": 22.42}",Mobile|Washington,01097|01129,False,False,America/Chicago,"(31.08296, -88.27795)",2.8133853816451766,6759.0,15297_0_yes,31.075205120972075,-88.23127707128651,5.0

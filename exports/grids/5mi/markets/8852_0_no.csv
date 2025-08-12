@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32920,28.44603,-80.58503,Cape Canaveral,FL,Florida,True,,10387.0,161.8,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.44603, -80.58503)",4.119670131284969,24518.0,8852_0_no,28.386600338938813,-80.5795519944108,5.0
+32931,28.32193,-80.62731,Cocoa Beach,FL,Florida,True,,14131.0,1050.2,12009,Brevard,"{""12009"": 100}",Brevard,12009,False,False,America/New_York,"(28.32193, -80.62731)",5.328996312530089,24518.0,8852_0_no,28.386600338938813,-80.5795519944108,5.0

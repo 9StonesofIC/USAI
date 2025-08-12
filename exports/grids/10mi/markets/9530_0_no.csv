@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80610,40.66996,-104.58269,Ault,CO,Colorado,True,,3719.0,8.0,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.66996, -104.58269)",8.15660771330317,7707.0,9530_0_no,40.78340044236563,-104.62580360690256,10.0
+80648,40.76559,-104.72816,Nunn,CO,Colorado,True,,1718.0,4.3,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.76559, -104.72816)",5.495200592846784,7707.0,9530_0_no,40.78340044236563,-104.62580360690256,10.0
+80650,40.6484,-104.77666,Pierce,CO,Colorado,True,,2270.0,15.5,8123,Weld,"{""08123"": 100}",Weld,08123,False,False,America/Denver,"(40.6484, -104.77666)",12.223720221421804,7707.0,9530_0_no,40.78340044236563,-104.62580360690256,10.0

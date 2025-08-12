@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46936,40.47942,-85.93102,Greentown,IN,Indiana,True,,5787.0,34.3,18067,Howard,"{""18067"": 100}",Howard,18067,False,False,America/Indiana/Indianapolis,"(40.47942, -85.93102)",2.699619839466001,7437.0,36840_0_yes,40.494911248788185,-85.88385707926727,5.0
+46986,40.49481,-85.81929,Swayzee,IN,Indiana,True,,1650.0,18.4,18053,Grant,"{""18053"": 100}",Grant,18053,False,False,America/Indiana/Indianapolis,"(40.49481, -85.81929)",3.392559883146136,7437.0,36840_0_yes,40.494911248788185,-85.88385707926727,5.0

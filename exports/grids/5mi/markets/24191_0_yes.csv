@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29682,34.83295,-82.84701,Six Mile,SC,South Carolina,True,,3644.0,54.5,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York,"(34.83295, -82.84701)",4.79136300410726,3644.0,24191_0_yes,34.84157964672287,-82.76317840842023,5.0

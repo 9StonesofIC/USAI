@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45646,39.07686,-83.31627,Latham,OH,Ohio,True,,500.0,12.9,39131,Pike,"{""39131"": 99.88, ""39001"": 0.12}",Pike|Adams,39131|39001,False,False,America/New_York,"(39.07686, -83.31627)",5.5141806302726355,500.0,33975_0_no,39.11676339733342,-83.22721278137588,5.0

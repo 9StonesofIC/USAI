@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53910,43.89073,-89.80708,Adams,WI,Wisconsin,True,,3468.0,23.5,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago,"(43.89073, -89.80708)",4.53843447040999,5811.0,43840_0_yes,43.828571081670844,-89.77763186173155,5.0
+53936,43.87477,-89.71071,Grand Marsh,WI,Wisconsin,True,,2343.0,14.1,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago,"(43.87477, -89.71071)",4.616010579635986,5811.0,43840_0_yes,43.828571081670844,-89.77763186173155,5.0

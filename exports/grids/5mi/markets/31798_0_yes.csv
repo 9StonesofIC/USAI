@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62244,38.19142,-90.1965,Fults,IL,Illinois,True,,931.0,7.6,17133,Monroe,"{""17133"": 100}",Monroe,17133,False,False,America/Chicago,"(38.19142, -90.1965)",4.489816273435458,931.0,31798_0_yes,38.18057916211349,-90.2780146453101,5.0

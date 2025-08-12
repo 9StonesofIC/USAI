@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83344,42.40437,-114.11768,Murtaugh,ID,Idaho,True,,1159.0,2.5,16031,Cassia,"{""16031"": 68.54, ""16083"": 31.46}",Cassia|Twin Falls,16031|16083,False,False,America/Boise,"(42.40437, -114.11768)",3.3400524475073103,1159.0,40975_0_yes,42.40146156777624,-114.05233308277812,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57792,44.59559,-102.36376,White Owl,SD,South Dakota,True,,127.0,0.3,46093,Meade,"{""46093"": 100}",Meade,46093,False,False,America/Denver,"(44.59559, -102.36376)",3.553575371930024,127.0,45370_0_yes,44.56345177346745,-102.30738610835311,5.0

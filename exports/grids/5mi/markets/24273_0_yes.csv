@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73074,34.83269,-97.27917,Paoli,OK,Oklahoma,True,,1197.0,10.9,40049,Garvin,"{""40049"": 78.19, ""40087"": 21.81}",Garvin|McClain,40049|40087,False,False,America/Chicago,"(34.83269, -97.27917)",5.101934576427931,1197.0,24273_0_yes,34.852016906701344,-97.19233606464388,5.0

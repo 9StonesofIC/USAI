@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+20626,38.23256,-76.76404,Coltons Point,MD,Maryland,True,,278.0,70.2,24037,St. Mary's,"{""24037"": 100}",St. Mary's,24037,False,False,America/New_York,"(38.23256, -76.76404)",6.029856713489019,278.0,31724_0_yes,38.169950613128165,-76.68667438679896,5.0

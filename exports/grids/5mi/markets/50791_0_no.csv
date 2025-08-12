@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59469,47.19087,-110.68378,Raynesford,MT,Montana,True,,143.0,0.5,30045,Judith Basin,"{""30045"": 100}",Judith Basin,30045,False,False,America/Denver,"(47.19087, -110.68378)",4.035111615375267,143.0,50791_0_no,47.248968062928896,-110.67503596509856,5.0

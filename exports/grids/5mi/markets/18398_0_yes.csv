@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31075,32.35428,-82.95277,Rentz,GA,Georgia,True,,2834.0,21.6,13175,Laurens,"{""13175"": 100}",Laurens,13175,False,False,America/New_York,"(32.35428, -82.95277)",2.327506068760697,2834.0,18398_0_yes,32.37696379008026,-82.9232853922486,5.0

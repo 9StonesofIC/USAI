@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99345,45.93623,-119.65919,Paterson,WA,Washington,True,,180.0,0.5,53005,Benton,"{""53005"": 100}",Benton,53005,False,False,America/Los_Angeles,"(45.93623, -119.65919)",3.6483983272051965,180.0,48307_0_no,45.9545125522313,-119.73043217394742,5.0

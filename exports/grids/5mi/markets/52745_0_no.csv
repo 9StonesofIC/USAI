@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99180,48.30925,-117.30663,Usk,WA,Washington,True,,1065.0,2.5,53051,Pend Oreille,"{""53051"": 100}",Pend Oreille,53051,False,False,America/Los_Angeles,"(48.30925, -117.30663)",3.07098410954515,1065.0,52745_0_no,48.26823659376997,-117.33237415376178,5.0

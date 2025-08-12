@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49862,46.38021,-86.7153,Munising,MI,Michigan,True,,4765.0,10.8,26003,Alger,"{""26003"": 100}",Alger,26003,False,False,America/Detroit,"(46.38021, -86.7153)",3.8512224972153377,4765.0,48998_0_no,46.35856878641344,-86.64085624962817,5.0

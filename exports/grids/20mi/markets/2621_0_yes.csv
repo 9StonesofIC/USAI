@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83113,42.55189,-110.25204,Big Piney,WY,Wyoming,True,,2556.0,1.0,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver,"(42.55189, -110.25204)",14.280540441672432,3255.0,2621_0_yes,42.36015940156562,-110.14742109446972,20.0
+83123,42.23985,-110.25947,La Barge,WY,Wyoming,True,,699.0,5.9,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver,"(42.23985, -110.25947)",10.093927277155368,3255.0,2621_0_yes,42.36015940156562,-110.14742109446972,20.0

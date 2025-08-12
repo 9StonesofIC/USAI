@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68978,40.06339,-98.09379,Superior,NE,Nebraska,True,,2495.0,6.3,31129,Nuckolls,"{""31129"": 84.65, ""20089"": 15.35}",Nuckolls|Jewell,31129|20089,False,False,America/Chicago,"(40.06339, -98.09379)",5.569128069209375,2495.0,35945_0_no,39.99799321572743,-98.1553255526504,5.0

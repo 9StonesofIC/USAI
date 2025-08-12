@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49781,45.95272,-84.77652,Saint Ignace,MI,Michigan,True,,3471.0,16.4,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(45.95272, -84.77652)",4.768559242018163,3471.0,48139_0_no,45.92285666220581,-84.86598955784939,5.0

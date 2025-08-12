@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12870,43.83931,-73.7625,Schroon Lake,NY,New York,True,,1736.0,6.8,36031,Essex,"{""36031"": 98.11, ""36113"": 1.89}",Essex|Warren,36031|36113,False,False,America/New_York,"(43.83931, -73.7625)",4.781336045555458,1736.0,44029_0_no,43.88702653000804,-73.83201352728267,5.0

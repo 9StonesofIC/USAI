@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33070,25.00873,-80.52501,Tavernier,FL,Florida,True,,5138.0,468.9,12087,Monroe,"{""12087"": 100}",Monroe,12087,False,False,America/New_York,"(25.00873, -80.52501)",2.2501051957124965,5138.0,91_0_yes,24.97618102594077,-80.52617609278992,5.0

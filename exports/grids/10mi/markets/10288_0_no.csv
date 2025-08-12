@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69340,42.15192,-102.21378,Ellsworth,NE,Nebraska,True,,58.0,0.1,31161,Sheridan,"{""31161"": 76.21, ""31069"": 17.27, ""31031"": 6.52}",Sheridan|Garden|Cherry,31161|31069|31031,False,False,America/Denver,"(42.15192, -102.21378)",5.224674252373083,58.0,10288_0_no,42.22737230559531,-102.220523138977,10.0

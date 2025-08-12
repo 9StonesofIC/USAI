@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98619,45.97693,-121.26568,Glenwood,WA,Washington,True,,613.0,1.5,53039,Klickitat,"{""53039"": 100}",Klickitat,53039,False,False,America/Los_Angeles,"(45.97693, -121.26568)",8.651486629701445,613.0,12242_0_no,46.02475220360282,-121.09908852198664,10.0

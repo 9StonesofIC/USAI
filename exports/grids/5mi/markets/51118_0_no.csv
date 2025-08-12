@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98068,47.45154,-121.35795,Snoqualmie Pass,WA,Washington,True,,497.0,0.8,53037,Kittitas,"{""53037"": 54.94, ""53033"": 45.06}",Kittitas|King,53037|53033,False,False,America/Los_Angeles,"(47.45154, -121.35795)",4.413773481605683,497.0,51118_0_no,47.4035674959035,-121.29559642562664,5.0

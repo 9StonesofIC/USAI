@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50133,40.71592,-94.07576,Kellerton,IA,Iowa,True,,483.0,2.6,19159,Ringgold,"{""19159"": 97.86, ""19053"": 2.14}",Ringgold|Decatur,19159|19053,False,False,America/Chicago,"(40.71592, -94.07576)",0.9715207895533431,483.0,37480_0_no,40.71894470019989,-94.05764264362602,5.0

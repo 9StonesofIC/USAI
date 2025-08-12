@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50149,41.1512,-94.08194,Lorimor,IA,Iowa,True,,963.0,4.5,19121,Madison,"{""19121"": 51.13, ""19175"": 48.87}",Madison|Union,19121|19175,False,False,America/Chicago,"(41.1512, -94.08194)",6.322461438556002,2848.0,38124_0_yes,41.08109356948038,-94.15999969479977,5.0
+50830,41.0242,-94.19037,Afton,IA,Iowa,True,,1885.0,6.0,19175,Union,"{""19175"": 100}",Union,19175,False,False,America/Chicago,"(41.0242, -94.19037)",4.237516892767225,2848.0,38124_0_yes,41.08109356948038,-94.15999969479977,5.0

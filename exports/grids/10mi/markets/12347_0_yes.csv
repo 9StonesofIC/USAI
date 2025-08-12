@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58544,46.49833,-100.37062,Hazelton,ND,North Dakota,True,,544.0,0.7,38029,Emmons,"{""38029"": 100}",Emmons,38029,False,False,America/Chicago,"(46.49833, -100.37062)",6.684043127351195,544.0,12347_0_yes,46.42073374276441,-100.28675855273764,10.0

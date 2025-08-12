@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57574,43.10954,-101.36238,Tuthill,SD,South Dakota,True,,70.0,0.1,46007,Bennett,"{""46007"": 100}",Bennett,46007,False,False,America/Denver,"(43.10954, -101.36238)",4.7770420928416675,70.0,42413_0_yes,43.11464082500285,-101.26792963544824,5.0

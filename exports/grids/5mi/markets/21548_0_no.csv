@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75090,33.6054,-96.54657,Sherman,TX,Texas,True,,25732.0,126.5,48181,Grayson,"{""48181"": 100}",Grayson,48181,False,False,America/Chicago,"(33.6054, -96.54657)",4.248345171620413,29126.0,21548_0_no,33.61897923083574,-96.47456170093622,5.0
+75414,33.62504,-96.43193,Bells,TX,Texas,True,,3394.0,26.5,48181,Grayson,"{""48181"": 100}",Grayson,48181,False,False,America/Chicago,"(33.62504, -96.43193)",2.488291414819546,29126.0,21548_0_no,33.61897923083574,-96.47456170093622,5.0

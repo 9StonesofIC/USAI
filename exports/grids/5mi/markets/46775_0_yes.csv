@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55011,45.34108,-93.2521,Cedar,MN,Minnesota,True,,10825.0,91.1,27003,Anoka,"{""27003"": 100}",Anoka,27003,False,False,America/Chicago,"(45.34108, -93.2521)",4.968911280045185,61002.0,46775_0_yes,45.27909702077744,-93.20024342355886,5.0
+55304,45.25583,-93.26455,Andover,MN,Minnesota,True,,50177.0,282.3,27003,Anoka,"{""27003"": 100}",Anoka,27003,False,False,America/Chicago,"(45.25583, -93.26455)",3.516113762752446,61002.0,46775_0_yes,45.27909702077744,-93.20024342355886,5.0

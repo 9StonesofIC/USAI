@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67360,37.05148,-96.09702,Peru,KS,Kansas,True,,403.0,3.4,20019,Chautauqua,"{""20019"": 100}",Chautauqua,20019,False,False,America/Chicago,"(37.05148, -96.09702)",3.752729118183268,1966.0,29543_0_no,37.09825048034568,-96.1316301928778,5.0
+67361,37.13733,-96.21714,Sedan,KS,Kansas,True,,1563.0,2.5,20019,Chautauqua,"{""20019"": 100}",Chautauqua,20019,False,False,America/Chicago,"(37.13733, -96.21714)",5.43007176175994,1966.0,29543_0_no,37.09825048034568,-96.1316301928778,5.0

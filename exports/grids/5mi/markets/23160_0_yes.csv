@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28340,34.47136,-79.1403,Fairmont,NC,North Carolina,True,,10695.0,33.5,37155,Robeson,"{""37155"": 100}",Robeson,37155,False,False,America/New_York,"(34.47136, -79.1403)",4.669463133912146,12734.0,23160_0_yes,34.40409853755442,-79.13233005978373,5.0
+29563,34.35301,-79.2044,Lake View,SC,South Carolina,True,,2039.0,20.9,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York,"(34.35301, -79.2044)",5.417576695394272,12734.0,23160_0_yes,34.40409853755442,-79.13233005978373,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93202,36.3187,-119.7076,Armona,CA,California,True,,4236.0,1064.4,6031,Kings,"{""06031"": 100}",Kings,06031,False,False,America/Los_Angeles,"(36.3187, -119.7076)",5.132628212314915,4236.0,27708_0_no,36.24620783160904,-119.72772550838232,5.0

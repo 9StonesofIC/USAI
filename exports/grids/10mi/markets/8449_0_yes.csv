@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81428,38.95928,-107.59899,Paonia,CO,Colorado,True,,3666.0,7.5,8029,Delta,"{""08029"": 100}",Delta,08029,False,False,America/Denver,"(38.95928, -107.59899)",4.3928222772662195,3666.0,8449_0_yes,38.90489917291266,-107.55664775809346,10.0

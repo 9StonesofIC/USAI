@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57439,45.33464,-98.10007,Ferney,SD,South Dakota,True,,37.0,35.8,46013,Brown,"{""46013"": 100}",Brown,46013,False,False,America/Chicago,"(45.33464, -98.10007)",3.7042848305763494,37.0,46799_0_yes,45.28351735683479,-98.1230326438014,5.0

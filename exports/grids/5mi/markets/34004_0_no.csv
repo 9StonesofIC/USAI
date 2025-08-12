@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62401,39.11843,-88.56467,Effingham,IL,Illinois,True,,19068.0,70.9,17049,Effingham,"{""17049"": 97.24, ""17173"": 2.76}",Effingham|Shelby,17049|17173,False,False,America/Chicago,"(39.11843, -88.56467)",3.178718422405258,19068.0,34004_0_no,39.12107076507629,-88.6238715064578,5.0

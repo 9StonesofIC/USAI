@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88410,35.90263,-103.30767,Amistad,NM,New Mexico,True,,138.0,0.1,35059,Union,"{""35059"": 61.53, ""35021"": 38.47}",Union|Harding,35059|35021,False,False,America/Denver,"(35.90263, -103.30767)",3.559770503550109,138.0,26643_0_yes,35.87139102887302,-103.25710047019837,5.0

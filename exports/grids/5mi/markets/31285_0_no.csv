@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89010,37.82511,-118.08079,Dyer,NV,Nevada,True,,469.0,0.5,32009,Esmeralda,"{""32009"": 90.34, ""32021"": 5.9, ""06051"": 3.76}",Esmeralda|Mineral|Mono,32009|32021|06051,False,False,America/Los_Angeles,"(37.82511, -118.08079)",4.191829849024692,469.0,31285_0_no,37.83999586227683,-118.1552569118418,5.0

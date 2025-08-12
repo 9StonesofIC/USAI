@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76885,30.87304,-98.85742,Valley Spring,TX,Texas,True,,234.0,1.3,48299,Llano,"{""48299"": 100}",Llano,48299,False,False,America/Chicago,"(30.87304, -98.85742)",8.564640900268056,7172.0,3722_0_yes,30.77491779910454,-98.7692144487933,10.0
+78643,30.68161,-98.71281,Llano,TX,Texas,True,,6938.0,3.8,48299,Llano,"{""48299"": 100}",Llano,48299,False,False,America/Chicago,"(30.68161, -98.71281)",7.265384696322134,7172.0,3722_0_yes,30.77491779910454,-98.7692144487933,10.0

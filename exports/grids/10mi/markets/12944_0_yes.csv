@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83810,47.54326,-116.45525,Cataldo,ID,Idaho,True,,1519.0,3.8,16055,Kootenai,"{""16055"": 97.47, ""16079"": 2.53}",Kootenai|Shoshone,16055|16079,False,False,America/Los_Angeles,"(47.54326, -116.45525)",4.559587978398382,1519.0,12944_0_yes,47.6081056005821,-116.4370986489654,10.0

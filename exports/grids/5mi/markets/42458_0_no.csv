@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83623,43.04932,-115.39485,Glenns Ferry,ID,Idaho,True,,1493.0,2.3,16039,Elmore,"{""16039"": 100}",Elmore,16039,False,False,America/Boise,"(43.04932, -115.39485)",2.1927198886298624,1493.0,42458_0_no,43.05451229977652,-115.43769442826756,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47281,38.78563,-86.10324,Vallonia,IN,Indiana,True,,1298.0,8.5,18071,Jackson,"{""18071"": 60.38, ""18175"": 39.62}",Jackson|Washington,18071|18175,False,False,America/Indiana/Indianapolis,"(38.78563, -86.10324)",2.0280092962864695,1298.0,33057_0_yes,38.75684615866183,-86.11060953215151,5.0

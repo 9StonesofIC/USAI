@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31050,32.72924,-83.94096,Knoxville,GA,Georgia,True,,868.0,17.1,13079,Crawford,"{""13079"": 100}",Crawford,13079,False,False,America/New_York,"(32.72924, -83.94096)",5.079987347574691,4071.0,19094_0_yes,32.667708502246406,-83.98878262021786,5.0
+31078,32.6987,-84.06456,Roberta,GA,Georgia,True,,3203.0,11.8,13079,Crawford,"{""13079"": 100}",Crawford,13079,False,False,America/New_York,"(32.6987, -84.06456)",4.899446741038168,4071.0,19094_0_yes,32.667708502246406,-83.98878262021786,5.0

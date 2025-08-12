@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13452,43.03718,-74.63001,Saint Johnsville,NY,New York,True,,4671.0,23.8,36035,Fulton,"{""36035"": 75.51, ""36057"": 24.49}",Fulton|Montgomery,36035|36057,False,False,America/New_York,"(43.03718, -74.63001)",4.561654716796611,4671.0,42278_0_yes,43.09158623043844,-74.57881740451309,5.0

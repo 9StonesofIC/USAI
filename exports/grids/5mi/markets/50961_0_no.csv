@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49918,47.43585,-87.81238,Copper Harbor,MI,Michigan,True,,135.0,1.4,26083,Keweenaw,"{""26083"": 100}",Keweenaw,26083,False,False,America/Detroit,"(47.43585, -87.81238)",4.469460411912613,135.0,50961_0_no,47.3724568926123,-87.8314017546199,5.0

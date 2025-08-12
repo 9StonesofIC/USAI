@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99102,46.79218,-117.25029,Albion,WA,Washington,True,,473.0,535.9,53075,Whitman,"{""53075"": 100}",Whitman,53075,False,False,America/Los_Angeles,"(46.79218, -117.25029)",3.66069467198439,36525.0,49733_0_yes,46.74836316009928,-117.20680322940213,5.0
+99163,46.72798,-117.21654,Pullman,WA,Washington,True,,36052.0,66.1,53075,Whitman,"{""53075"": 100}",Whitman,53075,False,False,America/Los_Angeles,"(46.72798, -117.21654)",1.4818907673959916,36525.0,49733_0_yes,46.74836316009928,-117.20680322940213,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76849,30.45849,-99.83805,Junction,TX,Texas,True,,3760.0,1.8,48267,Kimble,"{""48267"": 97.0, ""48265"": 3.0}",Kimble|Kerr,48267|48265,False,False,America/Chicago,"(30.45849, -99.83805)",3.1329570288985864,3760.0,13961_0_yes,30.50243535843923,-99.85101615929722,5.0

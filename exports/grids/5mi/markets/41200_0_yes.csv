@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68713,42.54061,-98.9718,Atkinson,NE,Nebraska,True,,2265.0,1.5,31089,Holt,"{""31089"": 100}",Holt,31089,False,False,America/Chicago,"(42.54061, -98.9718)",1.6000707003547205,2265.0,41200_0_yes,42.533397824314704,-98.9419341392234,5.0

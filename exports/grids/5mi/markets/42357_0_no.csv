@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51058,42.98367,-95.46879,Sutherland,IA,Iowa,True,,911.0,4.1,19141,O'Brien,"{""19141"": 92.64, ""19035"": 6.17, ""19041"": 1.19}",O'Brien|Cherokee|Clay,19141|19035|19041,False,False,America/Chicago,"(42.98367, -95.46879)",3.8414556290280037,911.0,42357_0_no,43.037298304228464,-95.48884900816218,5.0

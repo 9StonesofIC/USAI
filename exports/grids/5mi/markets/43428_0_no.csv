@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03230,43.52685,-71.8622,Danbury,NH,New Hampshire,True,,1445.0,13.9,33013,Merrimack,"{""33013"": 100}",Merrimack,33013,False,False,America/New_York,"(43.52685, -71.8622)",4.908438196403862,2738.0,43428_0_no,43.595873348049736,-71.8853965501163,5.0
+03240,43.57599,-71.97221,Grafton,NH,New Hampshire,True,,1293.0,12.0,33009,Grafton,"{""33009"": 100}",Grafton,33009,False,False,America/New_York,"(43.57599, -71.97221)",4.556794967482595,2738.0,43428_0_no,43.595873348049736,-71.8853965501163,5.0

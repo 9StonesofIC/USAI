@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70754,30.40542,-90.74462,Livingston,LA,Louisiana,True,,12485.0,37.9,22063,Livingston,"{""22063"": 100}",Livingston,22063,False,False,America/Chicago,"(30.40542, -90.74462)",1.2892429991096566,12485.0,13895_0_no,30.424072793580837,-90.7440434920758,5.0

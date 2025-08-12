@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04645,44.05408,-68.6282,Isle Au Haut,ME,Maine,True,,27.0,0.8,23013,Knox,"{""23013"": 100}",Knox,23013,False,False,America/New_York,"(44.05408, -68.6282)",4.754769649890272,1008.0,44325_0_yes,44.09954693148121,-68.70010522222616,5.0
+04681,44.16655,-68.65646,Stonington,ME,Maine,True,,981.0,38.6,23009,Hancock,"{""23009"": 100}",Hancock,23009,False,False,America/New_York,"(44.16655, -68.65646)",5.11042993097756,1008.0,44325_0_yes,44.09954693148121,-68.70010522222616,5.0

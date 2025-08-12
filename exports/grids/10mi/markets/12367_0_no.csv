@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59841,46.33384,-114.22319,Pinesdale,MT,Montana,True,,987.0,292.2,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver,"(46.33384, -114.22319)",8.443311040257917,4882.0,12367_0_no,46.3020366269722,-114.39402812057372,10.0
+59875,46.40793,-114.26151,Victor,MT,Montana,True,,3895.0,11.7,30081,Ravalli,"{""30081"": 100}",Ravalli,30081,False,False,America/Denver,"(46.40793, -114.26151)",9.667839787465061,4882.0,12367_0_no,46.3020366269722,-114.39402812057372,10.0

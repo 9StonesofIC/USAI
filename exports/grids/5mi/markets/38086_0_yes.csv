@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47957,41.08937,-86.8772,Medaryville,IN,Indiana,True,,2169.0,13.9,18131,Pulaski,"{""18131"": 86.37, ""18073"": 13.63}",Pulaski|Jasper,18131|18073,False,False,America/Indiana/Winamac,"(41.08937, -86.8772)",1.0308800116151446,2169.0,38086_0_yes,41.07504646223778,-86.88274118141595,5.0

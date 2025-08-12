@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74943,35.1007,-95.106,Lequire,OK,Oklahoma,True,,105.0,40.0,40061,Haskell,"{""40061"": 100}",Haskell,40061,False,False,America/Chicago,"(35.1007, -95.106)",3.7638517502198074,105.0,24932_0_yes,35.1405112333777,-95.15145911044893,5.0

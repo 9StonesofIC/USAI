@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59214,47.28325,-106.02221,Brockway,MT,Montana,True,,76.0,0.1,30055,McCone,"{""30055"": 83.9, ""30079"": 11.03, ""30033"": 5.07}",McCone|Prairie|Garfield,30055|30079|30033,False,False,America/Denver,"(47.28325, -106.02221)",8.490590725724715,76.0,12781_0_yes,47.29900254390792,-105.84253046642807,10.0

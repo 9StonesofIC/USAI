@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79227,33.87702,-99.74893,Crowell,TX,Texas,True,,1260.0,0.6,48155,Foard,"{""48155"": 66.13, ""48275"": 33.87}",Foard|Knox,48155|48275,False,False,America/Chicago,"(33.87702, -99.74893)",3.3868933138531485,1260.0,21923_0_yes,33.838805988928755,-99.78590046224984,5.0

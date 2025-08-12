@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81120,37.14248,-106.26715,Antonito,CO,Colorado,True,,2305.0,1.0,8021,Conejos,"{""08021"": 92.11, ""35039"": 7.89}",Conejos|Rio Arriba,08021|35039,False,False,America/Denver,"(37.14248, -106.26715)",10.888681213798721,2305.0,7468_0_no,37.01953586880558,-106.39073308020303,10.0

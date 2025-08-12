@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57456,45.72104,-98.99589,Leola,SD,South Dakota,True,,836.0,0.9,46089,McPherson,"{""46089"": 97.26, ""46045"": 2.74}",McPherson|Edmunds,46089|46045,False,False,America/Chicago,"(45.72104, -98.99589)",2.264364471087045,836.0,47664_0_yes,45.71848805249999,-98.9490918371984,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81041,37.844,-102.3839,Granada,CO,Colorado,True,,696.0,0.5,8099,Prowers,"{""08099"": 96.27, ""08009"": 3.73}",Prowers|Baca,08099|08009,False,False,America/Denver,"(37.844, -102.3839)",2.9027623948528376,696.0,31199_0_no,37.82779357971623,-102.43297808657462,5.0

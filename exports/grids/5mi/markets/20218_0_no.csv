@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79378,33.03075,-102.44482,Wellman,TX,Texas,True,,312.0,12.3,48445,Terry,"{""48445"": 100}",Terry,48445,False,False,America/Chicago,"(33.03075, -102.44482)",4.456415312724706,312.0,20218_0_no,33.04304561904894,-102.52034677072945,5.0

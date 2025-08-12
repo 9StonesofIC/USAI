@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72080,35.52604,-92.80909,Jerusalem,AR,Arkansas,True,,218.0,0.9,5141,Van Buren,"{""05141"": 44.91, ""05029"": 33.86, ""05115"": 21.23}",Van Buren|Conway|Pope,05141|05029|05115,False,False,America/Chicago,"(35.52604, -92.80909)",1.711560215528877,218.0,25902_0_no,35.50127168738934,-92.80959194104943,5.0

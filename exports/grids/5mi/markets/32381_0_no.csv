@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41135,38.36026,-83.28796,Emerson,KY,Kentucky,True,,114.0,3.7,21135,Lewis,"{""21135"": 100}",Lewis,21135,False,False,America/New_York,"(38.36026, -83.28796)",2.2852410614478194,114.0,32381_0_no,38.39246449059638,-83.2783460917192,5.0

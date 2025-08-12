@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45710,39.19763,-82.22574,Albany,OH,Ohio,True,,5226.0,20.8,39105,Meigs,"{""39105"": 45.79, ""39009"": 35.81, ""39163"": 18.4}",Meigs|Athens|Vinton,39105|39009|39163,False,False,America/New_York,"(39.19763, -82.22574)",4.2939838305861215,5226.0,33990_0_yes,39.18828633474091,-82.14646342606393,5.0

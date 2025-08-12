@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81331,37.51387,-108.86252,Pleasant View,CO,Colorado,True,,270.0,0.4,8083,Montezuma,"{""08083"": 100}",Montezuma,08083,False,False,America/Denver,"(37.51387, -108.86252)",2.6376606677553798,270.0,30588_0_no,37.54289220797615,-108.89379220435325,5.0

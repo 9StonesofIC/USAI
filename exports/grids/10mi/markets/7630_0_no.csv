@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81124,37.28543,-106.10688,Capulin,CO,Colorado,True,,125.0,16.6,8021,Conejos,"{""08021"": 100}",Conejos,08021,False,False,America/Denver,"(37.28543, -106.10688)",8.392020881292067,431.0,7630_0_no,37.30870454886511,-105.95702765081974,10.0
+81148,37.17183,-105.98542,Romeo,CO,Colorado,True,,306.0,506.2,8021,Conejos,"{""08021"": 100}",Conejos,08021,False,False,America/Denver,"(37.17183, -105.98542)",9.585214740083527,431.0,7630_0_no,37.30870454886511,-105.95702765081974,10.0

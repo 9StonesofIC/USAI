@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33921,26.77919,-82.25386,Boca Grande,FL,Florida,True,,947.0,132.4,12071,Lee,"{""12071"": 71.39, ""12015"": 28.61}",Lee|Charlotte,12071|12015,False,False,America/New_York,"(26.77919, -82.25386)",4.8979338320238766,947.0,4519_0_yes,26.7188432581542,-82.29551224696773,5.0

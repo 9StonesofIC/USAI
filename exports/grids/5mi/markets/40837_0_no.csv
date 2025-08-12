@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50612,42.28546,-92.38687,Buckingham,IA,Iowa,True,,331.0,4.6,19171,Tama,"{""19171"": 72.6, ""19013"": 27.4}",Tama|Black Hawk,19171|19013,False,False,America/Chicago,"(42.28546, -92.38687)",4.060248593418442,331.0,40837_0_no,42.31057693576898,-92.31504394124748,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77655,29.71338,-93.95306,Sabine Pass,TX,Texas,True,,264.0,2.2,48245,Jefferson,"{""48245"": 100}",Jefferson,48245,False,False,America/Chicago,"(29.71338, -93.95306)",2.152868940356856,264.0,12147_0_no,29.70069445109971,-93.98582600944287,5.0

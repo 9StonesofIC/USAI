@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67004,37.28317,-97.76401,Argonia,KS,Kansas,True,,740.0,2.7,20191,Sumner,"{""20191"": 71.9, ""20077"": 28.1}",Sumner|Harper,20191|20077,False,False,America/Chicago,"(37.28317, -97.76401)",2.3295289192212447,740.0,29897_0_yes,37.31686679646867,-97.76259310181196,5.0

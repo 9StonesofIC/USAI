@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55063,45.83263,-92.90584,Pine City,MN,Minnesota,True,,9640.0,23.4,27115,Pine,"{""27115"": 100}",Pine,27115,False,False,America/Chicago,"(45.83263, -92.90584)",4.769987073449369,9640.0,47893_0_no,45.785368715284,-92.83364538045504,5.0

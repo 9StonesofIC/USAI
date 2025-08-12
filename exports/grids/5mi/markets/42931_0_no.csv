@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52151,43.34706,-91.28013,Lansing,IA,Iowa,True,,1850.0,6.2,19005,Allamakee,"{""19005"": 100}",Allamakee,19005,False,False,America/Chicago,"(43.34706, -91.28013)",5.170643659162128,1850.0,42931_0_no,43.32314674775062,-91.18263664477068,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78957,30.01279,-97.17481,Smithville,TX,Texas,True,,9218.0,20.1,48021,Bastrop,"{""48021"": 88.84, ""48149"": 11.16}",Bastrop|Fayette,48021|48149,False,False,America/Chicago,"(30.01279, -97.17481)",3.6771148548751524,9218.0,12875_0_no,29.992942638870492,-97.23183087071688,5.0

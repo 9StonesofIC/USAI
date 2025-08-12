@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25270,38.88174,-81.43395,Reedy,WV,West Virginia,True,,799.0,7.5,54087,Roane,"{""54087"": 90.03, ""54105"": 9.97}",Roane|Wirt,54087|54105,False,False,America/New_York,"(38.88174, -81.43395)",2.4381758683339547,799.0,33350_0_yes,38.8979719757733,-81.3936942156667,5.0

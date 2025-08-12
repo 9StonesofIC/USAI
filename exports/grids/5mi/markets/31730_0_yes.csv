@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22551,38.17273,-77.70575,Spotsylvania,VA,Virginia,True,,20218.0,46.4,51177,Spotsylvania,"{""51177"": 99.39, ""51137"": 0.61}",Spotsylvania|Orange,51177|51137,False,False,America/New_York,"(38.17273, -77.70575)",4.502321857470807,20218.0,31730_0_yes,38.17081223717283,-77.78860141812665,5.0

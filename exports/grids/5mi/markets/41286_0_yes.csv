@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83604,42.52727,-115.84966,Bruneau,ID,Idaho,True,,554.0,0.3,16073,Owyhee,"{""16073"": 100}",Owyhee,16073,False,False,America/Boise,"(42.52727, -115.84966)",3.331384385097792,554.0,41286_0_yes,42.54779995861234,-115.7904520231492,5.0

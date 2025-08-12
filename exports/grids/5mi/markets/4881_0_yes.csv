@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33982,26.91587,-81.75753,Punta Gorda,FL,Florida,True,,11553.0,11.0,12015,Charlotte,"{""12015"": 100}",Charlotte,12015,False,False,America/New_York,"(26.91587, -81.75753)",3.610162355328688,11553.0,4881_0_yes,26.86365873298081,-81.75526153826692,5.0

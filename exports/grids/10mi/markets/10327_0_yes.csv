@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83234,42.41661,-112.09482,Downey,ID,Idaho,True,,1443.0,2.1,16005,Bannock,"{""16005"": 100}",Bannock,16005,False,False,America/Boise,"(42.41661, -112.09482)",1.931810412875635,1593.0,10327_0_yes,42.3887983161822,-112.09870696285272,10.0
+83281,42.31044,-111.95953,Swanlake,ID,Idaho,True,,150.0,1.4,16005,Bannock,"{""16005"": 100}",Bannock,16005,False,False,America/Boise,"(42.31044, -111.95953)",8.934150160910077,1593.0,10327_0_yes,42.3887983161822,-112.09870696285272,10.0

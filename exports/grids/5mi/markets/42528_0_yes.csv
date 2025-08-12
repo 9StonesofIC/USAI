@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97458,43.06372,-124.01287,Myrtle Point,OR,Oregon,True,,4488.0,4.8,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles,"(43.06372, -124.01287)",4.877140926157546,4488.0,42528_0_yes,43.13429450231634,-124.01100541488869,5.0

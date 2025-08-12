@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80755,39.89966,-102.35155,Vernon,CO,Colorado,True,,75.0,0.3,8125,Yuma,"{""08125"": 100}",Yuma,08125,False,False,America/Denver,"(39.89966, -102.35155)",5.504225764434501,75.0,9056_0_no,39.9105414264707,-102.24867416892072,10.0

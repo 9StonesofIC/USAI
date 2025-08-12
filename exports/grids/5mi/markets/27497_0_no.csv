@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28622,36.19492,-81.94899,Elk Park,NC,North Carolina,True,,2131.0,27.7,37011,Avery,"{""37011"": 99.74, ""37189"": 0.26}",Avery|Watauga,37011|37189,False,False,America/New_York,"(36.19492, -81.94899)",1.627042465440236,2131.0,27497_0_no,36.21795093027416,-81.95507472618199,5.0

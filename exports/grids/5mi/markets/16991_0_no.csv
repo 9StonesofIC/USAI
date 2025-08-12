@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31301,31.7581,-81.60386,Allenhurst,GA,Georgia,True,,3906.0,85.5,13179,Liberty,"{""13179"": 57.43, ""13183"": 42.57}",Liberty|Long,13179|13183,False,False,America/New_York,"(31.7581, -81.60386)",2.449001329439681,3906.0,16991_0_no,31.723540061609548,-81.61311455611119,5.0

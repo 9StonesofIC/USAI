@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81055,37.47727,-105.06635,La Veta,CO,Colorado,True,,1657.0,2.6,8055,Huerfano,"{""08055"": 98.8, ""08023"": 1.2}",Huerfano|Costilla,08055|08023,False,False,America/Denver,"(37.47727, -105.06635)",4.423833952360962,1657.0,30262_0_yes,37.46736350882958,-104.98664731974296,5.0

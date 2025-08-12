@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43311,40.36427,-83.75812,Bellefontaine,OH,Ohio,True,,18753.0,69.7,39091,Logan,"{""39091"": 100}",Logan,39091,False,False,America/New_York,"(40.36427, -83.75812)",3.9071650991911393,21536.0,36805_0_no,40.42079674859499,-83.76020359871339,5.0
+43324,40.44632,-83.81207,Huntsville,OH,Ohio,True,,2783.0,37.5,39091,Logan,"{""39091"": 100}",Logan,39091,False,False,America/New_York,"(40.44632, -83.81207)",3.248120213480367,21536.0,36805_0_no,40.42079674859499,-83.76020359871339,5.0

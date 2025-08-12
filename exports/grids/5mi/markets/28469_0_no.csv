@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24540,36.64235,-79.42473,Danville,VA,Virginia,True,,31257.0,160.8,51143,Pittsylvania,"{""51143"": 76.92, ""51590"": 23.08}",Pittsylvania|Danville,51143|51590,False,False,America/New_York,"(36.64235, -79.42473)",2.8277504807474436,31257.0,28469_0_no,36.6507563964259,-79.37480828148745,5.0

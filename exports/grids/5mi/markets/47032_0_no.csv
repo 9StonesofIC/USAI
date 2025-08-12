@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54001,45.33417,-92.38703,Amery,WI,Wisconsin,True,,7648.0,25.0,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago,"(45.33417, -92.38703)",3.907946693439795,7648.0,47032_0_no,45.350852755902025,-92.46392081959983,5.0

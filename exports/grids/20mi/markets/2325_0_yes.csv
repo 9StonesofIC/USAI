@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89424,40.10964,-119.49396,Nixon,NV,Nevada,True,,241.0,0.2,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles,"(40.10964, -119.49396)",12.011718298685373,1912.0,2325_0_yes,40.07503683041423,-119.71666237027694,20.0
+89510,39.93619,-119.73734,Reno,NV,Nevada,True,,1671.0,1.1,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles,"(39.93619, -119.73734)",9.65561823037134,1912.0,2325_0_yes,40.07503683041423,-119.71666237027694,20.0

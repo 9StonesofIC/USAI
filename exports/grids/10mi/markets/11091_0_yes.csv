@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97904,43.89136,-118.50581,Drewsey,OR,Oregon,True,,249.0,0.2,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles,"(43.89136, -118.50581)",5.346506758445922,249.0,11091_0_yes,43.84819243194559,-118.59489261613528,10.0

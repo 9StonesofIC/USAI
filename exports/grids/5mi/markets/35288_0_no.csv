@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63532,39.7677,-92.57434,Bevier,MO,Missouri,True,,1158.0,9.0,29121,Macon,"{""29121"": 100}",Macon,29121,False,False,America/Chicago,"(39.7677, -92.57434)",5.560102918812758,2084.0,35288_0_no,39.70377729268525,-92.63790853605428,5.0
+63534,39.74061,-92.64838,Callao,MO,Missouri,True,,926.0,4.8,29121,Macon,"{""29121"": 98.1, ""29175"": 1.9}",Macon|Randolph,29121|29175,False,False,America/Chicago,"(39.74061, -92.64838)",2.605030472378058,2084.0,35288_0_no,39.70377729268525,-92.63790853605428,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29180,34.36472,-81.09821,Winnsboro,SC,South Carolina,True,,13119.0,16.5,45039,Fairfield,"{""45039"": 95.55, ""45079"": 4.45}",Fairfield|Richland,45039|45079,False,False,America/New_York,"(34.36472, -81.09821)",3.6417233101086177,13119.0,23171_0_yes,34.405475879569394,-81.05771160715042,5.0

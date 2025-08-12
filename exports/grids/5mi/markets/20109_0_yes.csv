@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29849,33.10168,-81.23641,Ulmer,SC,South Carolina,True,,452.0,4.2,45005,Allendale,"{""45005"": 73.59, ""45011"": 26.41}",Allendale|Barnwell,45005|45011,False,False,America/New_York,"(33.10168, -81.23641)",2.0115888923030574,452.0,20109_0_yes,33.100790380177145,-81.20167177781462,5.0

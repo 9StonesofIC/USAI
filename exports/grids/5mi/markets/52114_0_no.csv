@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58370,47.9842,-98.85977,Saint Michael,ND,North Dakota,True,,1429.0,10.5,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago,"(47.9842, -98.85977)",1.8390237377675613,1789.0,52114_0_no,47.961449004905255,-98.83913601917264,5.0
+58379,47.90707,-98.81907,Tokio,ND,North Dakota,True,,360.0,20.5,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago,"(47.90707, -98.81907)",3.8703505215722234,1789.0,52114_0_no,47.961449004905255,-98.83913601917264,5.0

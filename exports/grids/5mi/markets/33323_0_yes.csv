@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21666,38.93956,-76.33272,Stevensville,MD,Maryland,True,,13463.0,237.7,24035,Queen Anne's,"{""24035"": 100}",Queen Anne's,24035,False,False,America/New_York,"(38.93956, -76.33272)",4.2190865282181855,13463.0,33323_0_yes,38.89399324128679,-76.38496538347756,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49776,45.24634,-83.6873,Posen,MI,Michigan,True,,1528.0,4.4,26141,Presque Isle,"{""26141"": 75.41, ""26007"": 24.59}",Presque Isle|Alpena,26141|26007,False,False,America/Detroit,"(45.24634, -83.6873)",4.1535954499988765,1528.0,46702_0_no,45.19829457750371,-83.73859793338086,5.0

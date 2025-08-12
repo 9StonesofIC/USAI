@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38944,33.76106,-90.34242,Minter City,MS,Mississippi,True,,375.0,1.5,28083,Leflore,"{""28083"": 96.71, ""28135"": 3.29}",Leflore|Tallahatchie,28083|28135,False,False,America/Chicago,"(33.76106, -90.34242)",0.25993685759306273,375.0,21853_0_no,33.75968600965002,-90.34663260364964,5.0

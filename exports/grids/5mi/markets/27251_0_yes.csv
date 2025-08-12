@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72740,36.10889,-93.67599,Huntsville,AR,Arkansas,True,,9318.0,9.5,5087,Madison,"{""05087"": 90.49, ""05015"": 7.67, ""05101"": 1.84}",Madison|Carroll|Newton,05087|05015|05101,False,False,America/Chicago,"(36.10889, -93.67599)",3.3707897083804363,9318.0,27251_0_yes,36.15421846427838,-93.69832461234962,5.0

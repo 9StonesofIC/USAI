@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55362,45.30099,-93.83563,Monticello,MN,Minnesota,True,,19253.0,113.9,27171,Wright,"{""27171"": 100}",Wright,27171,False,False,America/Chicago,"(45.30099, -93.83563)",1.7677053982319386,19253.0,46778_0_yes,45.27964952573501,-93.81557117215507,5.0

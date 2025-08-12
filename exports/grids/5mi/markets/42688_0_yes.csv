@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57013,43.28595,-96.62178,Canton,SD,South Dakota,True,,4901.0,14.3,46083,Lincoln,"{""46083"": 100}",Lincoln,46083,False,False,America/Chicago,"(43.28595, -96.62178)",2.6357763949596325,4901.0,42688_0_yes,43.25544809639793,-96.65324553975036,5.0

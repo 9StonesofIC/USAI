@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71253,32.99597,-91.31576,Kilbourne,LA,Louisiana,True,,156.0,62.1,22123,West Carroll,"{""22123"": 100}",West Carroll,22123,False,False,America/Chicago,"(32.99597, -91.31576)",2.7411624487858792,156.0,20153_0_no,33.0353139936386,-91.3218432054764,5.0

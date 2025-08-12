@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65605,36.88408,-93.69132,Aurora,MO,Missouri,True,,12325.0,29.3,29009,Barry,"{""29009"": 56.65, ""29109"": 42.16, ""29209"": 1.19}",Barry|Lawrence|Stone,29009|29109|29209,False,False,America/Chicago,"(36.88408, -93.69132)",5.031759693133137,12325.0,29203_0_no,36.9514266804982,-93.6566578942416,5.0

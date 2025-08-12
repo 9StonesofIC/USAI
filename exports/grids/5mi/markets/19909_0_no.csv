@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88053,32.89601,-108.21378,Pinos Altos,NM,New Mexico,True,,61.0,1.6,35017,Grant,"{""35017"": 100}",Grant,35017,False,False,America/Denver,"(32.89601, -108.21378)",1.2108097944741598,61.0,19909_0_no,32.90192407853352,-108.23342692750148,5.0

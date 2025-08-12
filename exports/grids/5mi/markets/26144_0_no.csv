@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27865,35.60588,-76.83244,Pinetown,NC,North Carolina,True,,2224.0,6.8,37013,Beaufort,"{""37013"": 100}",Beaufort,37013,False,False,America/New_York,"(35.60588, -76.83244)",4.533739502763926,2224.0,26144_0_no,35.634400007389125,-76.75974260331782,5.0

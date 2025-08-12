@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97431,43.87135,-122.81576,Dexter,OR,Oregon,True,,2289.0,21.0,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(43.87135, -122.81576)",1.3017825298978165,3807.0,44005_0_yes,43.85748224672064,-122.79807019585368,5.0
+97452,43.88564,-122.72259,Lowell,OR,Oregon,True,,1518.0,23.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(43.88564, -122.72259)",4.233158739867163,3807.0,44005_0_yes,43.85748224672064,-122.79807019585368,5.0

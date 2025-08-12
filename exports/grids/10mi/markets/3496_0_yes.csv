@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31562,30.47778,-82.10755,Saint George,GA,Georgia,True,,2540.0,6.4,13049,Charlton,"{""13049"": 100}",Charlton,13049,False,False,America/New_York,"(30.47778, -82.10755)",1.5444744292064847,6381.0,3496_0_yes,30.46344242850068,-82.08765229211348,10.0
+32009,30.42078,-81.97252,Bryceville,FL,Florida,True,,3841.0,17.0,12089,Nassau,"{""12089"": 100}",Nassau,12089,False,False,America/New_York,"(30.42078, -81.97252)",7.464869685072216,6381.0,3496_0_yes,30.46344242850068,-82.08765229211348,10.0

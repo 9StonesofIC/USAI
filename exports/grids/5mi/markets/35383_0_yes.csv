@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80498,39.7794,-106.22338,Silverthorne,CO,Colorado,True,,7473.0,9.8,8117,Summit,"{""08117"": 93.82, ""08049"": 6.18}",Summit|Grand,08117|08049,False,False,America/Denver,"(39.7794, -106.22338)",0.8893826869764562,7473.0,35383_0_yes,39.78715273048381,-106.21000849214865,5.0

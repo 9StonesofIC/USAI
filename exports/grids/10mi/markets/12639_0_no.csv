@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59479,47.016,-110.33696,Stanford,MT,Montana,True,,766.0,0.4,30045,Judith Basin,"{""30045"": 100}",Judith Basin,30045,False,False,America/Denver,"(47.016, -110.33696)",11.97824033949258,766.0,12639_0_no,46.87373303997813,-110.48207454207711,10.0

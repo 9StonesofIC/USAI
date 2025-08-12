@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74734,34.0888,-94.54786,Eagletown,OK,Oklahoma,True,,1116.0,2.8,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago,"(34.0888, -94.54786)",3.3496943958012153,1116.0,22556_0_no,34.05268748272281,-94.58690881375422,5.0

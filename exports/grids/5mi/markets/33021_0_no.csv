@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45684,38.67546,-83.27789,Stout,OH,Ohio,True,,1836.0,8.5,39001,Adams,"{""39001"": 57.8, ""39145"": 41.94, ""21135"": 0.26}",Adams|Scioto|Lewis,39001|39145|21135,False,False,America/New_York,"(38.67546, -83.27789)",1.073329558890382,1836.0,33021_0_no,38.68222434024408,-83.29580353089509,5.0

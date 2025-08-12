@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98357,48.33188,-124.62816,Neah Bay,WA,Washington,True,,1638.0,14.9,53009,Clallam,"{""53009"": 100}",Clallam,53009,False,False,America/Los_Angeles,"(48.33188, -124.62816)",5.227591734861622,1638.0,52779_0_no,48.27518461203883,-124.70347782915296,5.0

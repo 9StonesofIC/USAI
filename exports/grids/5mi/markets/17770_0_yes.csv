@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71032,32.09383,-93.79247,Grand Cane,LA,Louisiana,True,,2492.0,8.2,22031,De Soto,"{""22031"": 100}",De Soto,22031,False,False,America/Chicago,"(32.09383, -93.79247)",0.2750728465810086,2492.0,17770_0_yes,32.09425124554529,-93.79714295903216,5.0

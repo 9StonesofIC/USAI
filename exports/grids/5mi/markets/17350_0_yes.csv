@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31309,31.88382,-81.44358,Fleming,GA,Georgia,True,,614.0,8.1,13179,Liberty,"{""13179"": 100}",Liberty,13179,False,False,America/New_York,"(31.88382, -81.44358)",4.164048766636704,614.0,17350_0_yes,31.94090882027032,-81.42082890295802,5.0

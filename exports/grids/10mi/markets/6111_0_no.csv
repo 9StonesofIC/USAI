@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74939,34.70875,-94.63843,Hodgen,OK,Oklahoma,True,,1093.0,3.4,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago,"(34.70875, -94.63843)",1.8819367681594315,1307.0,6111_0_no,34.68342869234488,-94.62622375787674,10.0
+74949,34.68324,-94.7739,Muse,OK,Oklahoma,True,,214.0,1.9,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago,"(34.68324, -94.7739)",8.390409513916497,1307.0,6111_0_no,34.68342869234488,-94.62622375787674,10.0

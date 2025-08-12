@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29475,32.96687,-80.8189,Ruffin,SC,South Carolina,True,,2534.0,10.0,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York,"(32.96687, -80.8189)",3.6724704871756253,23326.0,19763_0_yes,32.95549157983537,-80.75701963407995,5.0
+29488,32.90664,-80.67458,Walterboro,SC,South Carolina,True,,20792.0,33.8,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York,"(32.90664, -80.67458)",5.852273453099089,23326.0,19763_0_yes,32.95549157983537,-80.75701963407995,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32693,29.62814,-82.79446,Trenton,FL,Florida,True,,11997.0,23.1,12041,Gilchrist,"{""12041"": 75.13, ""12075"": 24.87}",Gilchrist|Levy,12041|12075,False,False,America/New_York,"(29.62814, -82.79446)",0.6240119048632318,11997.0,11735_0_yes,29.62110262794268,-82.7879482334988,5.0

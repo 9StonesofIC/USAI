@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29664,34.86393,-83.15991,Mountain Rest,SC,South Carolina,True,,2162.0,8.5,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York,"(34.86393, -83.15991)",2.964720669751589,14303.0,24193_0_yes,34.841834166088695,-83.11508741139777,5.0
+29691,34.78547,-83.07669,Walhalla,SC,South Carolina,True,,12141.0,75.4,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York,"(34.78547, -83.07669)",4.462135627423468,14303.0,24193_0_yes,34.841834166088695,-83.11508741139777,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62442,39.31269,-87.85602,Martinsville,IL,Illinois,True,,2763.0,7.6,17023,Clark,"{""17023"": 97.92, ""17033"": 2.08}",Clark|Crawford,17023|17033,False,False,America/Chicago,"(39.31269, -87.85602)",1.8313761338287722,2763.0,34338_0_yes,39.337708437778986,-87.84470332541876,5.0

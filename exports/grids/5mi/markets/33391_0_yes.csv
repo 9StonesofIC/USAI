@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62885,38.86289,-89.06286,Shobonier,IL,Illinois,True,,434.0,2.9,17051,Fayette,"{""17051"": 100}",Fayette,17051,False,False,America/Chicago,"(38.86289, -89.06286)",4.413206691247392,434.0,33391_0_yes,38.90401483212256,-89.00007622989985,5.0

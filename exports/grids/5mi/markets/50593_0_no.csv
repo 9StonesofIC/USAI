@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04781,47.14634,-68.61883,Wallagrass,ME,Maine,True,,575.0,4.9,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(47.14634, -68.61883)",4.50450194635769,575.0,50593_0_no,47.20994884203599,-68.59780579053154,5.0

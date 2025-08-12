@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50148,42.18142,-92.99567,Liscomb,IA,Iowa,True,,419.0,8.6,19127,Marshall,"{""19127"": 100}",Marshall,19127,False,False,America/Chicago,"(42.18142, -92.99567)",4.10689050883096,1487.0,40565_0_yes,42.2387239521196,-93.01698841357909,5.0
+50258,42.22781,-93.07788,Union,IA,Iowa,True,,1068.0,7.6,19083,Hardin,"{""19083"": 71.49, ""19127"": 28.51}",Hardin|Marshall,19083|19127,False,False,America/Chicago,"(42.22781, -93.07788)",3.2050503444332104,1487.0,40565_0_yes,42.2387239521196,-93.01698841357909,5.0

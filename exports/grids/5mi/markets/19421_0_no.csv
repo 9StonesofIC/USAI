@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31044,32.66857,-83.37612,Jeffersonville,GA,Georgia,True,,2986.0,7.6,13289,Twiggs,"{""13289"": 91.12, ""13319"": 8.88}",Twiggs|Wilkinson,13289|13319,False,False,America/New_York,"(32.66857, -83.37612)",5.00292239794388,2986.0,19421_0_no,32.73981519839634,-83.3607601170455,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08734,39.86331,-74.16608,Lanoka Harbor,NJ,New Jersey,True,,8729.0,658.3,34029,Ocean,"{""34029"": 100}",Ocean,34029,False,False,America/New_York,"(39.86331, -74.16608)",2.3718576111402876,10886.0,35504_0_no,39.83365715462199,-74.14355206253661,5.0
+08752,39.85233,-74.0963,Seaside Park,NJ,New Jersey,True,,2157.0,174.7,34029,Ocean,"{""34029"": 100}",Ocean,34029,False,False,America/New_York,"(39.85233, -74.0963)",2.8192599217312555,10886.0,35504_0_no,39.83365715462199,-74.14355206253661,5.0

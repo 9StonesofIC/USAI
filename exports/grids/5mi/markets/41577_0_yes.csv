@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83347,42.73812,-113.87705,Paul,ID,Idaho,True,,3287.0,5.6,16067,Minidoka,"{""16067"": 44.96, ""16063"": 37.17, ""16053"": 17.87}",Minidoka|Lincoln|Jerome,16067|16063|16053,False,False,America/Boise,"(42.73812, -113.87705)",4.891349127985957,3287.0,41577_0_yes,42.6909510344393,-113.80520179849104,5.0

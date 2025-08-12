@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27816,36.10732,-78.07245,Castalia,NC,North Carolina,True,,2994.0,17.8,37069,Franklin,"{""37069"": 51.81, ""37127"": 48.19}",Franklin|Nash,37069|37127,False,False,America/New_York,"(36.10732, -78.07245)",3.1054653651510655,2994.0,27145_0_no,36.07015587509709,-78.1037301663964,5.0

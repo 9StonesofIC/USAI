@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67513,38.43892,-99.53846,Alexander,KS,Kansas,True,,69.0,0.5,20165,Rush,"{""20165"": 100}",Rush,20165,False,False,America/Chicago,"(38.43892, -99.53846)",2.69977795355536,69.0,32490_0_yes,38.47766421611206,-99.54493242911064,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97530,42.13778,-123.10507,Jacksonville,OR,Oregon,True,,7806.0,6.5,41029,Jackson,"{""41029"": 80.45, ""41033"": 19.55}",Jackson|Josephine,41029|41033,False,False,America/Los_Angeles,"(42.13778, -123.10507)",2.9153365928689756,7806.0,40416_0_yes,42.11937848260578,-123.05387260721558,5.0

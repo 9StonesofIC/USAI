@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55336,44.76627,-94.17803,Glencoe,MN,Minnesota,True,,7930.0,22.5,27085,McLeod,"{""27085"": 79.46, ""27143"": 20.54}",McLeod|Sibley,27085|27143,False,False,America/Chicago,"(44.76627, -94.17803)",5.135374902264891,7930.0,45621_0_yes,44.70095189684628,-94.12810649939436,5.0

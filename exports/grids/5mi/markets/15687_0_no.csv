@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76570,31.0818,-96.94173,Rosebud,TX,Texas,True,,2780.0,6.0,48145,Falls,"{""48145"": 66.65, ""48331"": 32.93, ""48027"": 0.42}",Falls|Milam|Bell,48145|48331|48027,False,False,America/Chicago,"(31.0818, -96.94173)",5.53289672557318,2780.0,15687_0_no,31.15344276646109,-96.89994159231874,5.0

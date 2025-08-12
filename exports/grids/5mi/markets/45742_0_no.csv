@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97365,44.67113,-124.01825,Newport,OR,Oregon,True,,11338.0,105.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles,"(44.67113, -124.01825)",4.578244370127311,13318.0,45742_0_no,44.65524957960807,-124.108697016153,5.0
+97366,44.58288,-124.04748,South Beach,OR,Oregon,True,,1980.0,71.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles,"(44.58288, -124.04748)",5.836668953410079,13318.0,45742_0_no,44.65524957960807,-124.108697016153,5.0

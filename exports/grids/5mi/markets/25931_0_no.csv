@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73036,35.50752,-97.95771,El Reno,OK,Oklahoma,True,,22396.0,47.0,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago,"(35.50752, -97.95771)",0.27967369182137825,22396.0,25931_0_no,35.505053270728084,-97.95376761907646,5.0

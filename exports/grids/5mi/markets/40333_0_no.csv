@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83286,42.0533,-112.0148,Weston,ID,Idaho,True,,1306.0,6.9,16041,Franklin,"{""16041"": 100}",Franklin,16041,False,False,America/Boise,"(42.0533, -112.0148)",4.074630011919982,1306.0,40333_0_no,42.03770050402894,-112.09138383054857,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81419,38.86332,-107.74872,Hotchkiss,CO,Colorado,True,,3235.0,6.0,8029,Delta,"{""08029"": 100}",Delta,08029,False,False,America/Denver,"(38.86332, -107.74872)",3.9633269415477925,3235.0,33471_0_no,38.84643620479012,-107.67832296944142,5.0

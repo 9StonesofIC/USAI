@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28115,35.58001,-80.77477,Mooresville,NC,North Carolina,True,,36978.0,191.3,37097,Iredell,"{""37097"": 70.68, ""37159"": 29.32}",Iredell|Rowan,37097|37159,False,False,America/New_York,"(35.58001, -80.77477)",1.2922793736309608,36978.0,25852_0_yes,35.564866493023466,-80.78826527356811,5.0

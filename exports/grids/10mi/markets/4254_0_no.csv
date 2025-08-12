@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79719,31.46042,-103.4051,Barstow,TX,Texas,True,,465.0,9.3,48475,Ward,"{""48475"": 100}",Ward,48475,False,False,America/Chicago,"(31.46042, -103.4051)",5.997754919321434,14730.0,4254_0_no,31.50634239619509,-103.49148070937488,10.0
+79772,31.39852,-103.5867,Pecos,TX,Texas,True,,14265.0,5.3,48389,Reeves,"{""48389"": 98.64, ""48475"": 1.36}",Reeves|Ward,48389|48475,False,False,America/Chicago,"(31.39852, -103.5867)",9.327311199519595,14730.0,4254_0_no,31.50634239619509,-103.49148070937488,10.0

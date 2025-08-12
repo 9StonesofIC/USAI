@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91962,32.79248,-116.48044,Pine Valley,CA,California,True,,2652.0,17.5,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(32.79248, -116.48044)",2.490355696909138,2652.0,19614_0_no,32.76252190863782,-116.50427596805685,5.0

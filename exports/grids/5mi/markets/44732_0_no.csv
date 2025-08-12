@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57050,44.15725,-97.01467,Nunda,SD,South Dakota,True,,315.0,3.0,46079,Lake,"{""46079"": 100}",Lake,46079,False,False,America/Chicago,"(44.15725, -97.01467)",4.952793823711686,315.0,44732_0_no,44.19681874031023,-96.93132789871058,5.0

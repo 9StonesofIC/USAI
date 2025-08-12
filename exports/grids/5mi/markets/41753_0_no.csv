@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50574,42.71891,-94.69967,Pocahontas,IA,Iowa,True,,1946.0,6.9,19151,Pocahontas,"{""19151"": 100}",Pocahontas,19151,False,False,America/Chicago,"(42.71891, -94.69967)",3.4485453079251953,1946.0,41753_0_no,42.74697536113997,-94.64347962653632,5.0

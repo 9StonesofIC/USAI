@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38873,34.66169,-88.25141,Tishomingo,MS,Mississippi,True,,2876.0,12.0,28141,Tishomingo,"{""28141"": 93.58, ""28117"": 6.42}",Tishomingo|Prentiss,28141|28117,False,False,America/Chicago,"(34.66169, -88.25141)",2.511456887134901,2876.0,23869_0_no,34.628113352346375,-88.23448680580735,5.0

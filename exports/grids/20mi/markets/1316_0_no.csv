@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87940,32.60986,-106.99465,Rincon,NM,New Mexico,True,,730.0,4.5,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(32.60986, -106.99465)",16.56884913427709,30810.0,1316_0_no,32.79146285003333,-106.80854468116416,20.0
+88012,32.58898,-106.77135,Las Cruces,NM,New Mexico,True,,30080.0,33.3,35013,Doña Ana,"{""35013"": 100}",Doña Ana,35013,False,False,America/Denver,"(32.58898, -106.77135)",14.156428815942764,30810.0,1316_0_no,32.79146285003333,-106.80854468116416,20.0

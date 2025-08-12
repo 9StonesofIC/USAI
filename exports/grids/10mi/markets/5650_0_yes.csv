@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87821,33.93515,-108.0929,Datil,NM,New Mexico,True,,711.0,0.2,35003,Catron,"{""35003"": 100}",Catron,35003,False,False,America/Denver,"(33.93515, -108.0929)",9.757340429586566,711.0,5650_0_yes,33.977512518886904,-107.93048668468434,10.0

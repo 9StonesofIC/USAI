@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38320,36.04764,-88.1095,Camden,TN,Tennessee,True,,10593.0,27.9,47005,Benton,"{""47005"": 100}",Benton,47005,False,False,America/Chicago,"(36.04764, -88.1095)",4.717071334037983,10593.0,26889_0_yes,36.00505424506913,-88.04352040147037,5.0

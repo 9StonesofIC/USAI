@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84775,38.28881,-111.04073,Torrey,UT,Utah,True,,460.0,0.4,49055,Wayne,"{""49055"": 92.39, ""49017"": 7.61}",Wayne|Garfield,49055|49017,False,False,America/Denver,"(38.28881, -111.04073)",4.056064520371016,460.0,32232_0_yes,38.341744008851016,-111.00838242191207,5.0

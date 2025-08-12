@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48809,43.0646,-85.25712,Belding,MI,Michigan,True,,11090.0,53.5,26067,Ionia,"{""26067"": 77.37, ""26081"": 20.73, ""26117"": 1.9}",Ionia|Kent|Montcalm,26067|26081|26117,False,False,America/Detroit,"(43.0646, -85.25712)",3.1133604654074194,11090.0,42305_0_no,43.0284396674643,-85.22033038564338,5.0

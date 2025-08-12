@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79739,31.75515,-101.50668,Garden City,TX,Texas,True,,1278.0,1.1,48173,Glasscock,"{""48173"": 91.35, ""48383"": 8.65}",Glasscock|Reagan,48173|48383,False,False,America/Chicago,"(31.75515, -101.50668)",4.313902336935038,1278.0,17121_0_yes,31.809321763282647,-101.5431983997436,5.0

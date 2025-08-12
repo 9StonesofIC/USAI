@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82450,44.50398,-109.43379,Wapiti,WY,Wyoming,True,,150.0,1.7,56029,Park,"{""56029"": 100}",Park,56029,False,False,America/Denver,"(44.50398, -109.43379)",4.762183224753298,150.0,45378_0_no,44.49734095879072,-109.33760482695877,5.0

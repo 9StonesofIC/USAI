@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59843,46.84897,-113.01114,Helmville,MT,Montana,True,,295.0,0.3,30077,Powell,"{""30077"": 100}",Powell,30077,False,False,America/Denver,"(46.84897, -113.01114)",5.158437115589187,295.0,49967_0_no,46.81701683888527,-113.10977006368852,5.0

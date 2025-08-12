@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75440,32.87507,-95.75262,Emory,TX,Texas,True,,7112.0,26.9,48379,Rains,"{""48379"": 97.69, ""48223"": 1.6, ""48499"": 0.71}",Rains|Hopkins|Wood,48379|48223|48499,False,False,America/Chicago,"(32.87507, -95.75262)",4.581839959655096,7112.0,19836_0_no,32.893287475519124,-95.67669170166648,5.0

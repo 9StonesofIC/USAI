@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58488,47.17552,-99.99709,Tuttle,ND,North Dakota,True,,134.0,0.2,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago,"(47.17552, -99.99709)",2.395372741001348,134.0,50489_0_yes,47.16661363245092,-99.9478042059227,5.0

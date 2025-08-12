@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17236,39.79997,-77.94305,Mercersburg,PA,Pennsylvania,True,,8084.0,24.8,42055,Franklin,"{""42055"": 95.32, ""42057"": 4.68}",Franklin|Fulton,42055|42057,False,False,America/New_York,"(39.79997, -77.94305)",3.284978470495412,8084.0,35524_0_no,39.83670389921559,-77.90375236770768,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84742,37.52102,-113.14592,Kanarraville,UT,Utah,True,,308.0,2.1,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.52102, -113.14592)",3.8943860670009594,308.0,30611_0_no,37.54612192935635,-113.08228057361111,5.0

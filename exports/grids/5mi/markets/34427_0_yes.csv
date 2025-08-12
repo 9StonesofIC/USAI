@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80117,39.37203,-104.39978,Kiowa,CO,Colorado,True,,2413.0,5.0,8039,Elbert,"{""08039"": 100}",Elbert,08039,False,False,America/Denver,"(39.37203, -104.39978)",3.526281294283289,2413.0,34427_0_yes,39.35103351652383,-104.45994527882256,5.0

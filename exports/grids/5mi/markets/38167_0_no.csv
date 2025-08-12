@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82332,41.06314,-107.3016,Savery,WY,Wyoming,True,,94.0,0.2,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(41.06314, -107.3016)",3.089445827983946,94.0,38167_0_no,41.01963603876786,-107.31529866725369,5.0

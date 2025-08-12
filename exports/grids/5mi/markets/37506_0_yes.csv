@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50845,40.81683,-94.3523,Diagonal,IA,Iowa,True,,803.0,2.8,19159,Ringgold,"{""19159"": 91.58, ""19175"": 8.42}",Ringgold|Union,19159|19175,False,False,America/Chicago,"(40.81683, -94.3523)",3.4924734877982355,803.0,37506_0_yes,40.79151932095305,-94.29449725153904,5.0

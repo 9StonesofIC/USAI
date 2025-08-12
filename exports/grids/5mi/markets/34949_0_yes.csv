@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45385,39.66813,-83.91457,Xenia,OH,Ohio,True,,39116.0,110.0,39057,Greene,"{""39057"": 100}",Greene,39057,False,False,America/New_York,"(39.66813, -83.91457)",3.346253718413632,39116.0,34949_0_yes,39.62428331814567,-83.94128090928544,5.0

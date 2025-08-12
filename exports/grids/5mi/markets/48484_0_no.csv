@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58013,46.06037,-97.35877,Cayuga,ND,North Dakota,True,,130.0,0.7,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago,"(46.06037, -97.35877)",4.615786200423363,374.0,48484_0_no,46.07900926938261,-97.45123705247596,5.0
+58067,46.06826,-97.48906,Rutland,ND,North Dakota,True,,244.0,1.6,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago,"(46.06826, -97.48906)",1.9591779140839454,374.0,48484_0_no,46.07900926938261,-97.45123705247596,5.0

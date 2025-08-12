@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04022,43.98055,-70.80718,Denmark,ME,Maine,True,,1017.0,8.5,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(43.98055, -70.80718)",5.595070627798434,4867.0,44309_0_no,44.029171404314674,-70.89721002263863,5.0
+04037,44.09129,-70.94942,Fryeburg,ME,Maine,True,,3850.0,18.2,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.09129, -70.94942)",5.014089139016383,4867.0,44309_0_no,44.029171404314674,-70.89721002263863,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36453,31.19788,-86.14726,Kinston,AL,Alabama,True,,2475.0,9.3,1031,Coffee,"{""01031"": 52.25, ""01061"": 39.06, ""01039"": 8.69}",Coffee|Geneva|Covington,01031|01061|01039,False,False,America/Chicago,"(31.19788, -86.14726)",1.453308585766283,2475.0,15635_0_yes,31.21889001703267,-86.14843321463748,5.0

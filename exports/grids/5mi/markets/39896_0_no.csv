@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49107,41.84804,-86.41396,Buchanan,MI,Michigan,True,,10153.0,59.1,26021,Berrien,"{""26021"": 100}",Berrien,26021,False,False,America/Detroit,"(41.84804, -86.41396)",4.446515166022872,10153.0,39896_0_no,41.87109654448478,-86.3332880217082,5.0

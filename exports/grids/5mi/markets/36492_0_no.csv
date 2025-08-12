@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43067,40.34368,-83.48388,Raymond,OH,Ohio,True,,1258.0,14.8,39159,Union,"{""39159"": 89.6, ""39091"": 10.4}",Union|Logan,39159|39091,False,False,America/New_York,"(40.34368, -83.48388)",4.753617346249123,1258.0,36492_0_no,40.27572759444279,-83.46976270693268,5.0

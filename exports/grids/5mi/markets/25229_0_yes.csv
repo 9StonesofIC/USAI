@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38315,35.26918,-88.6241,Bethel Springs,TN,Tennessee,True,,4044.0,14.0,47109,McNairy,"{""47109"": 90.97, ""47023"": 9.03}",McNairy|Chester,47109|47023,False,False,America/Chicago,"(35.26918, -88.6241)",4.095653160946034,4044.0,25229_0_yes,35.28066683545298,-88.55286763929153,5.0

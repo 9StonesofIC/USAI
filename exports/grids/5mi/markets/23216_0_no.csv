@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72004,34.29722,-91.7856,Altheimer,AR,Arkansas,True,,886.0,1.9,5069,Jefferson,"{""05069"": 97.67, ""05001"": 2.33}",Jefferson|Arkansas,05069|05001,False,False,America/Chicago,"(34.29722, -91.7856)",5.168723158874893,886.0,23216_0_no,34.340743984704275,-91.8592676152066,5.0

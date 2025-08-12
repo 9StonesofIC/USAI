@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79259,34.36243,-100.45594,Tell,TX,Texas,True,,46.0,0.3,48191,Hall,"{""48191"": 77.41, ""48075"": 22.59}",Hall|Childress,48191|48075,False,False,America/Chicago,"(34.36243, -100.45594)",8.51347948800041,46.0,5798_0_yes,34.25695491626507,-100.5330558342293,10.0

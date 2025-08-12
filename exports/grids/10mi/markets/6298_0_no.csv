@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79094,34.84546,-101.52493,Wayside,TX,Texas,True,,12.0,0.0,48011,Armstrong,"{""48011"": 100}",Armstrong,48011,False,False,America/Chicago,"(34.84546, -101.52493)",9.860441309889485,12.0,6298_0_no,34.9833246432179,-101.56990260240882,10.0

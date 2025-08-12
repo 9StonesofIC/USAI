@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71965,34.65506,-93.74053,Pencil Bluff,AR,Arkansas,True,,296.0,6.9,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago,"(34.65506, -93.74053)",4.040848319326302,548.0,23900_0_no,34.632027586293994,-93.67518760564876,5.0
+71969,34.66671,-93.63442,Sims,AR,Arkansas,True,,252.0,2.7,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago,"(34.66671, -93.63442)",3.333442677141647,548.0,23900_0_no,34.632027586293994,-93.67518760564876,5.0

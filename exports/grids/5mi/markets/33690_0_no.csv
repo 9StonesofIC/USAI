@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62262,38.9371,-89.26916,Mulberry Grove,IL,Illinois,True,,1838.0,10.6,17005,Bond,"{""17005"": 60.62, ""17051"": 39.38}",Bond|Fayette,17005|17051,False,False,America/Chicago,"(38.9371, -89.26916)",2.8377587099787047,1838.0,33690_0_no,38.97669874875458,-89.25514383611751,5.0

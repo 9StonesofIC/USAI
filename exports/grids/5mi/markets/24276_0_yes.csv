@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73011,34.84378,-97.74498,Bradley,OK,Oklahoma,True,,351.0,2.1,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago,"(34.84378, -97.74498)",1.5226039589612754,351.0,24276_0_yes,34.85239883411401,-97.72026662602656,5.0

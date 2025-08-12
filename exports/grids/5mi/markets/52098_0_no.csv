@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56671,47.94006,-95.31791,Redlake,MN,Minnesota,True,,3144.0,3.8,27029,Clearwater,"{""27029"": 58.11, ""27007"": 41.89}",Clearwater|Beltrami,27029|27007,False,False,America/Chicago,"(47.94006, -95.31791)",3.6210360855466153,3144.0,52098_0_no,47.9582147259624,-95.39131040291905,5.0

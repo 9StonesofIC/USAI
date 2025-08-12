@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29732,34.96979,-81.07963,Rock Hill,SC,South Carolina,True,,58351.0,426.7,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York,"(34.96979, -81.07963)",1.6797020528230082,60064.0,24517_0_yes,34.98532892326678,-81.10244755587703,5.0
+29733,34.93945,-81.03173,Rock Hill,SC,South Carolina,True,,1713.0,5173.8,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York,"(34.93945, -81.03173)",5.1071498572943455,60064.0,24517_0_yes,34.98532892326678,-81.10244755587703,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64477,39.57872,-94.45289,Plattsburg,MO,Missouri,True,,3484.0,15.3,29049,Clinton,"{""29049"": 100}",Clinton,29049,False,False,America/Chicago,"(39.57872, -94.45289)",3.553761976727564,3882.0,34983_0_no,39.56031884477743,-94.39058247950835,5.0
+64493,39.63058,-94.30454,Turney,MO,Missouri,True,,398.0,4.7,29049,Clinton,"{""29049"": 100}",Clinton,29049,False,False,America/Chicago,"(39.63058, -94.30454)",6.674753439884742,3882.0,34983_0_no,39.56031884477743,-94.39058247950835,5.0

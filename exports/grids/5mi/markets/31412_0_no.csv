@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25669,37.93186,-82.4519,Crum,WV,West Virginia,True,,1151.0,31.1,54099,Wayne,"{""54099"": 100}",Wayne,54099,False,False,America/New_York,"(37.93186, -82.4519)",2.2333152655390123,1151.0,31412_0_no,37.957157053015024,-82.42638572741265,5.0

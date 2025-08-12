@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13753,42.30873,-74.92538,Delhi,NY,New York,True,,5511.0,21.7,36025,Delaware,"{""36025"": 100}",Delaware,36025,False,False,America/New_York,"(42.30873, -74.92538)",1.3220873090897194,5511.0,40748_0_no,42.29579508783601,-74.94444509713128,5.0

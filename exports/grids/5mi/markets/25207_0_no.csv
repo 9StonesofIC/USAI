@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38450,35.18523,-87.80143,Collinwood,TN,Tennessee,True,,3130.0,11.4,47181,Wayne,"{""47181"": 100}",Wayne,47181,False,False,America/Chicago,"(35.18523, -87.80143)",1.5585615651170885,3130.0,25207_0_no,35.20767204445594,-87.79864303215932,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48444,43.06455,-83.05471,Imlay City,MI,Michigan,True,,9835.0,46.6,26087,Lapeer,"{""26087"": 93.56, ""26147"": 6.44}",Lapeer|St. Clair,26087|26147,False,False,America/Detroit,"(43.06455, -83.05471)",2.6441194297840664,9835.0,42294_0_no,43.0265660745248,-83.04833297240374,5.0

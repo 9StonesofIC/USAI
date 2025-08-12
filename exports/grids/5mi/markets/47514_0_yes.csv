@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04424,45.67003,-67.86144,Danforth,ME,Maine,True,,917.0,3.6,23029,Washington,"{""23029"": 52.22, ""23003"": 47.78}",Washington|Aroostook,23029|23003,False,False,America/New_York,"(45.67003, -67.86144)",4.519180440189286,917.0,47514_0_yes,45.69045255585692,-67.9503767229084,5.0

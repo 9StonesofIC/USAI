@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41041,38.40548,-83.72338,Flemingsburg,KY,Kentucky,True,,7049.0,25.5,21069,Fleming,"{""21069"": 100}",Fleming,21069,False,False,America/New_York,"(38.40548, -83.72338)",4.613735327055542,7049.0,32404_0_yes,38.46518101864514,-83.68519324744696,5.0

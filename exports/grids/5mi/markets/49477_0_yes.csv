@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98533,46.67304,-122.43115,Cinebar,WA,Washington,True,,451.0,1.5,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.67304, -122.43115)",5.009180107385494,1081.0,49477_0_yes,46.60844901678534,-122.47910584779164,5.0
+98585,46.55436,-122.5022,Silver Creek,WA,Washington,True,,630.0,10.8,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.55436, -122.5022)",3.8947970086319854,1081.0,49477_0_yes,46.60844901678534,-122.47910584779164,5.0

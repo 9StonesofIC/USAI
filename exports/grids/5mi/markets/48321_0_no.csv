@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98674,45.94672,-122.65568,Woodland,WA,Washington,True,,14869.0,66.4,53015,Cowlitz,"{""53015"": 62.61, ""53011"": 37.39}",Cowlitz|Clark,53015|53011,False,False,America/Los_Angeles,"(45.94672, -122.65568)",1.1623193082316758,14869.0,48321_0_no,45.95715211294141,-122.63669841377758,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62092,39.41839,-90.41291,White Hall,IL,Illinois,True,,2814.0,16.9,17061,Greene,"{""17061"": 100}",Greene,17061,False,False,America/Chicago,"(39.41839, -90.41291)",3.772517469318921,2829.0,34646_0_no,39.41218958348342,-90.3426931244933,5.0
+62098,39.38377,-90.29946,Wrights,IL,Illinois,True,,15.0,1.1,17061,Greene,"{""17061"": 100}",Greene,17061,False,False,America/Chicago,"(39.38377, -90.29946)",3.0305249578231224,2829.0,34646_0_no,39.41218958348342,-90.3426931244933,5.0

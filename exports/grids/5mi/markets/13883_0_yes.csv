@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32544,30.42801,-86.70441,Hurlburt Field,FL,Florida,True,,2268.0,106.5,12091,Okaloosa,"{""12091"": 100}",Okaloosa,12091,False,False,America/Chicago,"(30.42801, -86.70441)",6.210963089577801,2268.0,13883_0_yes,30.494028499433757,-86.77518895459048,5.0

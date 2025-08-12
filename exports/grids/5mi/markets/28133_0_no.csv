@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23845,36.57048,-77.99322,Ebony,VA,Virginia,True,,381.0,12.2,51025,Brunswick,"{""51025"": 100}",Brunswick,51025,False,False,America/New_York,"(36.57048, -77.99322)",4.823160785301693,2075.0,28133_0_no,36.50483005853943,-78.02275197420707,5.0
+27551,36.43339,-78.05231,Macon,NC,North Carolina,True,,1694.0,7.9,37185,Warren,"{""37185"": 100}",Warren,37185,False,False,America/New_York,"(36.43339, -78.05231)",5.2020920074663115,2075.0,28133_0_no,36.50483005853943,-78.02275197420707,5.0

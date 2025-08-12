@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24366,37.26426,-81.10315,Rocky Gap,VA,Virginia,True,,544.0,10.1,51021,Bland,"{""51021"": 100}",Bland,51021,False,False,America/New_York,"(37.26426, -81.10315)",4.94558079425354,544.0,29785_0_no,37.23161873201932,-81.02312437287475,5.0

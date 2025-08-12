@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66015,38.06786,-95.40395,Colony,KS,Kansas,True,,729.0,3.0,20003,Anderson,"{""20003"": 76.9, ""20001"": 23.1}",Anderson|Allen,20003|20001,False,False,America/Chicago,"(38.06786, -95.40395)",4.5521605635560976,729.0,31504_0_yes,38.03973407819118,-95.4796123281725,5.0

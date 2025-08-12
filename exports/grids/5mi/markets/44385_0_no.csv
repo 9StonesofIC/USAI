@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49410,44.01986,-86.14265,Fountain,MI,Michigan,True,,1917.0,19.7,26105,Mason,"{""26105"": 100}",Mason,26105,False,False,America/Detroit,"(44.01986, -86.14265)",1.7013402499338355,3421.0,44385_0_no,44.04257746455529,-86.15586326783,5.0
+49411,44.11006,-86.25385,Free Soil,MI,Michigan,True,,1504.0,5.3,26105,Mason,"{""26105"": 95.07, ""26101"": 4.93}",Mason|Manistee,26105|26101,False,False,America/Detroit,"(44.11006, -86.25385)",6.73770656035699,3421.0,44385_0_no,44.04257746455529,-86.15586326783,5.0

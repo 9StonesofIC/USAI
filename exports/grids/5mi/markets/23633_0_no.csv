@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87063,34.49265,-105.85432,Willard,NM,New Mexico,True,,358.0,0.3,35057,Torrance,"{""35057"": 100}",Torrance,35057,False,False,America/Denver,"(34.49265, -105.85432)",2.0082521788119783,358.0,23633_0_no,34.49574233809757,-105.81925404292092,5.0

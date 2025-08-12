@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66968,39.8294,-97.06524,Washington,KS,Kansas,True,,1258.0,3.7,20201,Washington,"{""20201"": 100}",Washington,20201,False,False,America/Chicago,"(39.8294, -97.06524)",1.8482519791106338,1258.0,35626_0_no,39.85224738846785,-97.08335949886576,5.0

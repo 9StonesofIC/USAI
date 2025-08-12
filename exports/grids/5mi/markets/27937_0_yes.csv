@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73729,36.39723,-98.45256,Cleo Springs,OK,Oklahoma,True,,624.0,3.3,40093,Major,"{""40093"": 84.25, ""40151"": 15.75}",Major|Woods,40093|40151,False,False,America/Chicago,"(36.39723, -98.45256)",3.7254122314975424,624.0,27937_0_yes,36.44767812272105,-98.42890870346996,5.0

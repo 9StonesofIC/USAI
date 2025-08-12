@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95348,37.41525,-120.4979,Merced,CA,California,True,,34302.0,224.5,6047,Merced,"{""06047"": 100}",Merced,06047,False,False,America/Los_Angeles,"(37.41525, -120.4979)",3.327000988248752,48107.0,30328_0_no,37.406894394646685,-120.55760273826294,5.0
+95388,37.42171,-120.59715,Winton,CA,California,True,,13805.0,141.4,6047,Merced,"{""06047"": 100}",Merced,06047,False,False,America/Los_Angeles,"(37.42171, -120.59715)",2.3995900783062774,48107.0,30328_0_no,37.406894394646685,-120.55760273826294,5.0

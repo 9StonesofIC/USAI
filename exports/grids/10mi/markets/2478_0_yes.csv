@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78017,28.72456,-99.20455,Dilley,TX,Texas,True,,6120.0,5.9,48163,Frio,"{""48163"": 87.59, ""48283"": 12.41}",Frio|La Salle,48163|48283,False,False,America/Chicago,"(28.72456, -99.20455)",5.56283109769933,6120.0,2478_0_yes,28.7450239698202,-99.29335336196826,10.0

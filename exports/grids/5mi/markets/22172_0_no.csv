@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35079,33.94118,-86.75261,Hayden,AL,Alabama,True,,9398.0,33.1,1009,Blount,"{""01009"": 100}",Blount,01009,False,False,America/Chicago,"(33.94118, -86.75261)",4.169217801697486,9398.0,22172_0_no,33.902186235021325,-86.80810536446292,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59934,48.63437,-114.94446,Trego,MT,Montana,True,,794.0,2.5,30053,Lincoln,"{""30053"": 100}",Lincoln,30053,False,False,America/Denver,"(48.63437, -114.94446)",0.7148447225157908,794.0,53304_0_yes,48.627706384970764,-114.9564350378917,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27574,36.43166,-78.94147,Roxboro,NC,North Carolina,True,,14527.0,29.3,37145,Person,"{""37145"": 97.36, ""37077"": 2.64}",Person|Granville,37145|37077,False,False,America/New_York,"(36.43166, -78.94147)",4.306646359248152,14527.0,27828_0_yes,36.4329700625268,-78.86401513404687,5.0

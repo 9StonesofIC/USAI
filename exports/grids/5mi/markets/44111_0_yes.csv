@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48633,43.94827,-84.93409,Lake George,MI,Michigan,True,,82.0,13.6,26035,Clare,"{""26035"": 100}",Clare,26035,False,False,America/Detroit,"(43.94827, -84.93409)",3.099309061333153,82.0,44111_0_yes,43.96903301167534,-84.87885257709681,5.0

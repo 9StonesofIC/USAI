@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96027,41.36558,-123.07799,Etna,CA,California,True,,2273.0,2.1,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.36558, -123.07799)",2.0320890506255544,2273.0,38890_0_yes,41.39493772323886,-123.07563739420466,5.0

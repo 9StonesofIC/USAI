@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97441,43.77659,-124.14414,Gardiner,OR,Oregon,True,,466.0,6.5,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.77659, -124.14414)",1.3535818226151575,466.0,43985_0_no,43.78626790050071,-124.12054780007976,5.0

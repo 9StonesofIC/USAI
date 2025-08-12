@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89801,41.18096,-115.76076,Elko,NV,Nevada,True,,26473.0,8.4,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles,"(41.18096, -115.76076)",4.01572071094533,26473.0,9725_0_yes,41.23627357995733,-115.78447700577335,10.0

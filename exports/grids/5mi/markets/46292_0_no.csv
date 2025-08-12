@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97833,44.93471,-118.05951,Haines,OR,Oregon,True,,673.0,2.1,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles,"(44.93471, -118.05951)",3.5381180582568823,673.0,46292_0_no,44.93941967451177,-117.98747733093929,5.0

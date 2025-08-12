@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67427,38.50364,-98.39977,Bushton,KS,Kansas,True,,429.0,2.8,20159,Rice,"{""20159"": 68.6, ""20053"": 31.4}",Rice|Ellsworth,20159|20053,False,False,America/Chicago,"(38.50364, -98.39977)",2.7917788272845803,429.0,32484_0_yes,38.47679311529588,-98.43835025172048,5.0

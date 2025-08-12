@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48843,42.56891,-83.92333,Howell,MI,Michigan,True,,45906.0,197.7,26093,Livingston,"{""26093"": 100}",Livingston,26093,False,False,America/Detroit,"(42.56891, -83.92333)",1.6869433770156925,45906.0,41398_0_no,42.593004457288544,-83.92868870868236,5.0

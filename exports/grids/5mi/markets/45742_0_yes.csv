@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97817,44.6555,-118.60816,Bates,OR,Oregon,True,,55.0,0.1,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles,"(44.6555, -118.60816)",6.567468207388398,55.0,45742_0_yes,44.72280206752936,-118.70257354133273,5.0

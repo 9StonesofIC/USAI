@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68780,42.64621,-99.14062,Stuart,NE,Nebraska,True,,910.0,1.2,31089,Holt,"{""31089"": 100}",Holt,31089,False,False,America/Chicago,"(42.64621, -99.14062)",5.0774017241856155,910.0,41476_0_no,42.60609368198402,-99.224299153253,5.0

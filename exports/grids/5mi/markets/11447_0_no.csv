@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77461,29.39159,-95.77345,Needville,TX,Texas,True,,12133.0,31.1,48157,Fort Bend,"{""48157"": 100}",Fort Bend,48157,False,False,America/Chicago,"(29.39159, -95.77345)",2.8308172819990105,12133.0,11447_0_no,29.411576498408056,-95.73239717338662,5.0

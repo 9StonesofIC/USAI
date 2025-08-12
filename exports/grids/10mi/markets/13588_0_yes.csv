@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58369,48.95257,-99.83603,Saint John,ND,North Dakota,True,,1308.0,6.0,38079,Rolette,"{""38079"": 100}",Rolette,38079,False,False,America/Chicago,"(48.95257, -99.83603)",5.7655598872643194,1308.0,13588_0_yes,49.023500731865504,-99.90301249754155,10.0

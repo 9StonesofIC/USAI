@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82839,44.92887,-107.15762,Ranchester,WY,Wyoming,True,,1293.0,4.5,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver,"(44.92887, -107.15762)",7.064608845968982,1293.0,11648_0_yes,44.98593374499947,-107.037723914148,10.0

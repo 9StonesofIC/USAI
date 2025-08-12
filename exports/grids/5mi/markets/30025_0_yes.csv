@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95360,37.32918,-121.03827,Newman,CA,California,True,,13571.0,84.8,6099,Stanislaus,"{""06099"": 74.95, ""06047"": 25.05}",Stanislaus|Merced,06099|06047,False,False,America/Los_Angeles,"(37.32918, -121.03827)",1.8828779376703413,13571.0,30025_0_yes,37.33470018212013,-121.0047081343342,5.0

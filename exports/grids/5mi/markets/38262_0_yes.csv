@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96119,41.03353,-120.55264,Madeline,CA,California,True,,11.0,0.0,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(41.03353, -120.55264)",5.255856843612132,11.0,38262_0_yes,41.10306488755088,-120.59355149271684,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59535,47.94123,-109.26059,Lloyd,MT,Montana,True,,80.0,0.1,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver,"(47.94123, -109.26059)",4.106791037037816,80.0,52162_0_no,47.97115403029759,-109.18390449341636,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97885,45.65073,-117.50972,Wallowa,OR,Oregon,True,,1244.0,1.5,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles,"(45.65073, -117.50972)",1.4351244539825234,1244.0,47727_0_no,45.66292003228438,-117.48565904837626,5.0

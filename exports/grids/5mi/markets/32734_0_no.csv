@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62250,38.54042,-89.26436,Hoffman,IL,Illinois,True,,773.0,587.5,17027,Clinton,"{""17027"": 100}",Clinton,17027,False,False,America/Chicago,"(38.54042, -89.26436)",1.1943362511269862,773.0,32734_0_no,38.54207514369524,-89.2863585660753,5.0

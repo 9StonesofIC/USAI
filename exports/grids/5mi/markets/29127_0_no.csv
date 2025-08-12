@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24151,36.95827,-79.86457,Rocky Mount,VA,Virginia,True,,19552.0,45.6,51067,Franklin,"{""51067"": 100}",Franklin,51067,False,False,America/New_York,"(36.95827, -79.86457)",3.5658970116150304,19552.0,29127_0_no,36.940981970090526,-79.92541872303799,5.0

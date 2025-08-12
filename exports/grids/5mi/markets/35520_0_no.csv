@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17325,39.82762,-77.22641,Gettysburg,PA,Pennsylvania,True,,28563.0,87.6,42001,Adams,"{""42001"": 100}",Adams,42001,False,False,America/New_York,"(39.82762, -77.22641)",4.0070816454274425,41393.0,35520_0_no,39.83609452411845,-77.15169901506619,5.0
+17350,39.88918,-77.07896,New Oxford,PA,Pennsylvania,True,,12830.0,111.9,42001,Adams,"{""42001"": 100}",Adams,42001,False,False,America/New_York,"(39.88918, -77.07896)",5.323072372487197,41393.0,35520_0_no,39.83609452411845,-77.15169901506619,5.0

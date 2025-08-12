@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30470,32.33018,-82.51818,Tarrytown,GA,Georgia,True,,305.0,2.9,13209,Montgomery,"{""13209"": 56.64, ""13283"": 43.36}",Montgomery|Treutlen,13209|13283,False,False,America/New_York,"(32.33018, -82.51818)",2.055538174848063,305.0,18382_0_no,32.304227817647835,-82.53539084898075,5.0

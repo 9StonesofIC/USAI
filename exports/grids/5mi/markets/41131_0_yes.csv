@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49046,42.51229,-85.40249,Delton,MI,Michigan,True,,7337.0,35.3,26015,Barry,"{""26015"": 100}",Barry,26015,False,False,America/Detroit,"(42.51229, -85.40249)",1.4002522721054755,7337.0,41131_0_yes,42.52184784067704,-85.42673537571206,5.0

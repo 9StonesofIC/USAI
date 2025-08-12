@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27873,35.65331,-77.77606,Saratoga,NC,North Carolina,True,,370.0,254.6,37195,Wilson,"{""37195"": 100}",Wilson,37195,False,False,America/New_York,"(35.65331, -77.77606)",6.150625986525957,40972.0,26168_0_yes,35.707638470417706,-77.86287472672211,5.0
+27893,35.69351,-77.90458,Wilson,NC,North Carolina,True,,40602.0,143.8,37195,Wilson,"{""37195"": 100}",Wilson,37195,False,False,America/New_York,"(35.69351, -77.90458)",2.5355023138791215,40972.0,26168_0_yes,35.707638470417706,-77.86287472672211,5.0

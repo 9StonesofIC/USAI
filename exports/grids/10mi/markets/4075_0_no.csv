@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79778,31.25857,-101.97359,Rankin,TX,Texas,True,,1115.0,2.0,48461,Upton,"{""48461"": 100}",Upton,48461,False,False,America/Chicago,"(31.25857, -101.97359)",6.948076608104875,1115.0,4075_0_no,31.21414784520334,-101.86807738115756,10.0

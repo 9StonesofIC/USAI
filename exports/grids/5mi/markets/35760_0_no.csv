@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96021,39.91871,-122.26813,Corning,CA,California,True,,14970.0,23.2,6103,Tehama,"{""06103"": 100}",Tehama,06103,False,False,America/Los_Angeles,"(39.91871, -122.26813)",3.328843694361229,14970.0,35760_0_no,39.87268021717279,-122.2866763120496,5.0

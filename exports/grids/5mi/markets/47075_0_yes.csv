@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56244,45.48372,-95.77963,Hancock,MN,Minnesota,True,,1608.0,4.7,27149,Stevens,"{""27149"": 59.37, ""27121"": 34.3, ""27151"": 6.33}",Stevens|Pope|Swift,27149|27121|27151,False,False,America/Chicago,"(45.48372, -95.77963)",4.023985623546763,1608.0,47075_0_yes,45.426163981806695,-95.7923149948078,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56222,44.98586,-95.36229,Clara City,MN,Minnesota,True,,2199.0,9.0,27023,Chippewa,"{""27023"": 100}",Chippewa,27023,False,False,America/Chicago,"(44.98586, -95.36229)",4.606836766990258,2199.0,46181_0_no,44.91922360858155,-95.35906443133791,5.0

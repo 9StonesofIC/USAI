@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42782,37.34475,-85.63702,Summersville,KY,Kentucky,True,,721.0,8.3,21087,Green,"{""21087"": 87.17, ""21099"": 12.83}",Green|Hart,21087|21099,False,False,America/Chicago,"(37.34475, -85.63702)",3.3132403186973916,721.0,29830_0_yes,37.30753669323523,-85.59898736806707,5.0

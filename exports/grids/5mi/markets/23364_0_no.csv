@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92397,34.36212,-117.69136,Wrightwood,CA,California,True,,4638.0,37.6,6037,Los Angeles,"{""06037"": 66.3, ""06071"": 33.7}",Los Angeles|San Bernardino,06037|06071,False,False,America/Los_Angeles,"(34.36212, -117.69136)",3.210192736895795,4638.0,23364_0_no,34.35923772426335,-117.74753453992533,5.0

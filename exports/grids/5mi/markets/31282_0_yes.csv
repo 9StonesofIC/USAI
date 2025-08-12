@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84714,37.84815,-113.75547,Beryl,UT,Utah,True,,631.0,0.6,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.84815, -113.75547)",6.09006897176371,636.0,31282_0_yes,37.90908559471667,-113.8361558662569,5.0
+84753,37.95019,-113.87967,Modena,UT,Utah,True,,5.0,0.0,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.95019, -113.87967)",3.6999538967106527,636.0,31282_0_yes,37.90908559471667,-113.8361558662569,5.0

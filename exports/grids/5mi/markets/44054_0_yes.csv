@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12928,43.9539,-73.52898,Crown Point,NY,New York,True,,2029.0,10.8,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(43.9539, -73.52898)",4.010206616127211,2664.0,44054_0_yes,43.959003500696056,-73.44866585783126,5.0
+12960,44.02226,-73.54123,Moriah,NY,New York,True,,635.0,10.0,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.02226, -73.54123)",6.346204907245689,2664.0,44054_0_yes,43.959003500696056,-73.44866585783126,5.0

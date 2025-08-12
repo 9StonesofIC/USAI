@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03812,44.08148,-71.29643,Bartlett,NH,New Hampshire,True,,485.0,3.2,33003,Carroll,"{""33003"": 100}",Carroll,33003,False,False,America/New_York,"(44.08148, -71.29643)",3.5915936534353774,4612.0,44311_0_no,44.02952411550537,-71.29870946446479,5.0
+03818,43.97302,-71.25261,Conway,NH,New Hampshire,True,,4127.0,18.9,33003,Carroll,"{""33003"": 100}",Carroll,33003,False,False,America/New_York,"(43.97302, -71.25261)",4.526716593452367,4612.0,44311_0_no,44.02952411550537,-71.29870946446479,5.0

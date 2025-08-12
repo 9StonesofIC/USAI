@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58634,47.43683,-103.35647,Grassy Butte,ND,North Dakota,True,,255.0,0.3,38053,McKenzie,"{""38053"": 97.6, ""38007"": 2.4}",McKenzie|Billings,38053|38007,False,False,America/Denver,"(47.43683, -103.35647)",3.7641688023412225,255.0,51034_0_no,47.38691814356702,-103.38873731648744,5.0

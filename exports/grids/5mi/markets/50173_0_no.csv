@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58011,46.92711,-97.54465,Buffalo,ND,North Dakota,True,,527.0,1.8,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(46.92711, -97.54465)",4.904427129971637,937.0,50173_0_no,46.94747858507291,-97.6442363304179,5.0
+58071,46.9436,-97.68278,Tower City,ND,North Dakota,True,,410.0,1.5,38017,Cass,"{""38017"": 56.03, ""38003"": 43.97}",Cass|Barnes,38017|38003,False,False,America/Chicago,"(46.9436, -97.68278)",1.8377340028237448,937.0,50173_0_no,46.94747858507291,-97.6442363304179,5.0

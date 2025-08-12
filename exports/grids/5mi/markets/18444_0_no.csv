@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71045,32.3461,-93.16595,Jamestown,LA,Louisiana,True,,754.0,5.8,22013,Bienville,"{""22013"": 100}",Bienville,22013,False,False,America/Chicago,"(32.3461, -93.16595)",3.1725761562520063,754.0,18444_0_no,32.31139943284104,-93.13036285292186,5.0

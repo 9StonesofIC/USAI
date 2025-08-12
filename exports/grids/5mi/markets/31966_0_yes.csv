@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95237,38.15953,-121.14845,Lockeford,CA,California,True,,3655.0,190.3,6077,San Joaquin,"{""06077"": 100}",San Joaquin,06077,False,False,America/Los_Angeles,"(38.15953, -121.14845)",3.1462180362968932,3655.0,31966_0_yes,38.20472381824731,-121.14136450851,5.0

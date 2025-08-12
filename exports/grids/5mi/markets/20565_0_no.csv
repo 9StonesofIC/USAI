@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88262,33.12871,-103.40694,Mcdonald,NM,New Mexico,True,,14.0,0.1,35025,Lea,"{""35025"": 100}",Lea,35025,False,False,America/Denver,"(33.12871, -103.40694)",5.425549847681987,14.0,20565_0_no,33.18866618926164,-103.34636722096782,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86022,36.7702,-112.5449,Fredonia,AZ,Arizona,True,,1885.0,0.9,4005,Coconino,"{""04005"": 67.58, ""04015"": 32.42}",Coconino|Mohave,04005|04015,False,False,America/Phoenix,"(36.7702, -112.5449)",3.1456418533797694,1885.0,7322_0_no,36.73906784971653,-112.58636182265518,10.0

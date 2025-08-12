@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72449,36.16662,-90.81719,O'Kean,AR,Arkansas,True,,252.0,65.8,5121,Randolph,"{""05121"": 100}",Randolph,05121,False,False,America/Chicago,"(36.16662, -90.81719)",6.315700316954613,252.0,27547_0_no,36.22464425242787,-90.90471143269612,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85631,32.58133,-110.5627,San Manuel,AZ,Arizona,True,,3750.0,12.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(32.58133, -110.5627)",3.4825558592228854,3750.0,19235_0_no,32.61333936106656,-110.5164852990008,5.0

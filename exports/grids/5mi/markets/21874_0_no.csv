@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71859,33.7143,-93.92379,Saratoga,AR,Arkansas,True,,617.0,9.8,5057,Hempstead,"{""05057"": 81.64, ""05061"": 18.36}",Hempstead|Howard,05057|05061,False,False,America/Chicago,"(33.7143, -93.92379)",5.2490748632963635,617.0,21874_0_no,33.76225294257476,-93.99464785307208,5.0

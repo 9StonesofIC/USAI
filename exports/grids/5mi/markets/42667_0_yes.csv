@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50603,43.18893,-92.45834,Alta Vista,IA,Iowa,True,,418.0,3.6,19037,Chickasaw,"{""19037"": 83.24, ""19089"": 16.76}",Chickasaw|Howard,19037|19089,False,False,America/Chicago,"(43.18893, -92.45834)",4.6545951995668915,418.0,42667_0_yes,43.25184302073926,-92.49139475721846,5.0

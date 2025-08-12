@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46376,41.1838,-87.47603,Schneider,IN,Indiana,True,,190.0,8.2,18089,Lake,"{""18089"": 100}",Lake,18089,False,False,America/Chicago,"(41.1838, -87.47603)",3.660404462438617,190.0,38372_0_no,41.148038865117954,-87.52795128617751,5.0

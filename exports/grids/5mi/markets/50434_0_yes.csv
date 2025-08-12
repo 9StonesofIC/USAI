@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49945,47.16956,-88.30752,Lake Linden,MI,Michigan,True,,2620.0,6.8,26061,Houghton,"{""26061"": 65.23, ""26083"": 34.77}",Houghton|Keweenaw,26061|26083,False,False,America/Detroit,"(47.16956, -88.30752)",1.8128991231856744,2620.0,50434_0_yes,47.155800654073246,-88.27466126563664,5.0

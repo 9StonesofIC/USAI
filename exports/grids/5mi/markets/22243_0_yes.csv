@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74701,34.00974,-96.3769,Durant,OK,Oklahoma,True,,26320.0,57.5,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago,"(34.00974, -96.3769)",3.810796400133402,26320.0,22243_0_yes,33.981456297355315,-96.43401148895803,5.0

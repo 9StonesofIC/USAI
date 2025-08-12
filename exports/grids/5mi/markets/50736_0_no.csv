@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58476,47.19398,-99.00263,Pingree,ND,North Dakota,True,,342.0,0.6,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago,"(47.19398, -99.00263)",3.1752691699926126,342.0,50736_0_no,47.2381240779436,-98.98381808017044,5.0

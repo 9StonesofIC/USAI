@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57640,45.7656,-102.70435,Lodgepole,SD,South Dakota,True,,184.0,0.3,46105,Perkins,"{""46105"": 100}",Perkins,46105,False,False,America/Denver,"(45.7656, -102.70435)",7.006057851745013,184.0,12069_0_yes,45.84625339924819,-102.61618806772952,10.0

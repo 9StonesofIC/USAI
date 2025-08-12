@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31331,31.5159,-81.42042,Townsend,GA,Georgia,True,,8079.0,11.0,13191,McIntosh,"{""13191"": 100}",McIntosh,13191,False,False,America/New_York,"(31.5159, -81.42042)",2.133755442371429,8079.0,16306_0_yes,31.505867037138444,-81.45467876491493,5.0

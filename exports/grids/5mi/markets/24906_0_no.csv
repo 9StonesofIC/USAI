@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72826,35.13,-93.71025,Blue Mountain,AR,Arkansas,True,,90.0,671.0,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago,"(35.13, -93.71025)",4.552757253409234,90.0,24906_0_no,35.06699110535169,-93.68668446492684,5.0

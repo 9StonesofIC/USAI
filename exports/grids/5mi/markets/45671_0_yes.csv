@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82710,44.71488,-104.28465,Aladdin,WY,Wyoming,True,,127.0,0.2,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver,"(44.71488, -104.28465)",0.36785062266136426,127.0,45671_0_yes,44.70997888611763,-104.2817240241327,5.0

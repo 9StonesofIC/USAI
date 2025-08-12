@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98350,47.90683,-124.62509,La Push,WA,Washington,True,,520.0,132.3,53009,Clallam,"{""53009"": 100}",Clallam,53009,False,False,America/Los_Angeles,"(47.90683, -124.62509)",5.875196982973921,520.0,51960_0_no,47.84097878060745,-124.7052932674109,5.0

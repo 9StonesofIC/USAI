@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63841,36.77198,-89.98169,Dexter,MO,Missouri,True,,13104.0,39.2,29207,Stoddard,"{""29207"": 100}",Stoddard,29207,False,False,America/Chicago,"(36.77198, -89.98169)",3.6667395082331,13104.0,28855_0_no,36.803662047004174,-89.92852877702171,5.0

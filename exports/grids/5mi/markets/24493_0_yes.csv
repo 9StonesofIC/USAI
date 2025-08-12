@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28510,35.00516,-76.81171,Arapahoe,NC,North Carolina,True,,1395.0,26.1,37137,Pamlico,"{""37137"": 100}",Pamlico,37137,False,False,America/New_York,"(35.00516, -76.81171)",3.7747702424837004,1395.0,24493_0_yes,34.98225860561664,-76.87225717239481,5.0

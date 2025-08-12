@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80744,40.87471,-102.38355,Ovid,CO,Colorado,True,,430.0,1.4,8115,Sedgwick,"{""08115"": 100}",Sedgwick,08115,False,False,America/Denver,"(40.87471, -102.38355)",5.715146190874087,430.0,37858_0_yes,40.94311826002029,-102.44507862749369,5.0

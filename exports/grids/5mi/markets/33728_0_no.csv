@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66401,38.96894,-96.30539,Alma,KS,Kansas,True,,1644.0,2.6,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago,"(38.96894, -96.30539)",1.0049312412754787,2007.0,33728_0_no,38.982315065293946,-96.31274014343172,5.0
+66501,39.05279,-96.23688,McFarland,KS,Kansas,True,,363.0,402.5,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago,"(39.05279, -96.23688)",6.347806145067829,2007.0,33728_0_no,38.982315065293946,-96.31274014343172,5.0

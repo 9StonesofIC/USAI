@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64759,37.52655,-94.26775,Lamar,MO,Missouri,True,,7701.0,11.2,29011,Barton,"{""29011"": 99.01, ""29057"": 0.99}",Barton|Dade,29011|29057,False,False,America/Chicago,"(37.52655, -94.26775)",4.721568908420306,7701.0,30203_0_yes,37.459102716396345,-94.2539047721248,5.0

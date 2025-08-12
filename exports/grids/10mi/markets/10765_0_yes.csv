@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82648,43.14749,-107.04194,Powder River,WY,Wyoming,True,,91.0,0.2,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver,"(43.14749, -107.04194)",9.211326388701675,91.0,10765_0_yes,43.24909650103091,-107.16033787850742,10.0

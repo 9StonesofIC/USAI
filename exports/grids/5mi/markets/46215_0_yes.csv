@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57265,44.98866,-96.79591,Strandburg,SD,South Dakota,True,,192.0,0.9,46051,Grant,"{""46051"": 58.57, ""46039"": 38.01, ""46029"": 3.42}",Grant|Deuel|Codington,46051|46039|46029,False,False,America/Chicago,"(44.98866, -96.79591)",1.6977700352526681,192.0,46215_0_yes,44.9928622324409,-96.83014273656435,5.0

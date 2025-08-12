@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41301,37.72121,-83.48941,Campton,KY,Kentucky,True,,6341.0,11.7,21237,Wolfe,"{""21237"": 84.29, ""21025"": 7.93, ""21129"": 7.78}",Wolfe|Breathitt|Lee,21237|21025|21129,False,False,America/New_York,"(37.72121, -83.48941)",3.751132768026105,6341.0,30772_0_no,37.66821504204584,-83.5043106968148,5.0

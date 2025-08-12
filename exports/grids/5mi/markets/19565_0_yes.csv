@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88317,32.86081,-105.67442,Cloudcroft,NM,New Mexico,True,,2118.0,3.0,35035,Otero,"{""35035"": 100}",Otero,35035,False,False,America/Denver,"(32.86081, -105.67442)",4.875756095044058,2118.0,19565_0_yes,32.827650226293315,-105.74856331267904,5.0

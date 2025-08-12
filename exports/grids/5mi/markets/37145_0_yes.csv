@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45882,40.67823,-84.6754,Rockford,OH,Ohio,True,,2676.0,12.1,39107,Mercer,"{""39107"": 93.91, ""39161"": 6.09}",Mercer|Van Wert,39107|39161,False,False,America/New_York,"(40.67823, -84.6754)",2.8789123416631437,2676.0,37145_0_yes,40.63873290199977,-84.65790633787807,5.0

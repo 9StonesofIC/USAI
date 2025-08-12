@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28455,34.11045,-78.62865,Nakina,NC,North Carolina,True,,2698.0,14.8,37047,Columbus,"{""37047"": 100}",Columbus,37047,False,False,America/New_York,"(34.11045, -78.62865)",2.119826050654936,2698.0,22480_0_yes,34.113795124112144,-78.59181446821198,5.0

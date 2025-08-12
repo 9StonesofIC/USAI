@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89316,39.67956,-116.01497,Eureka,NV,Nevada,True,,1228.0,0.3,32011,Eureka,"{""32011"": 76.38, ""32033"": 23.62}",Eureka|White Pine,32011|32033,False,False,America/Los_Angeles,"(39.67956, -116.01497)",13.544094263371038,1228.0,2241_0_yes,39.48356289589519,-116.01932349749129,20.0

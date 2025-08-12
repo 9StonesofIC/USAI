@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36041,31.92361,-86.32172,Highland Home,AL,Alabama,True,,1336.0,9.3,1041,Crenshaw,"{""01041"": 98.85, ""01101"": 1.15}",Crenshaw|Montgomery,01041|01101,False,False,America/Chicago,"(31.92361, -86.32172)",3.6829871763709905,1336.0,17366_0_no,31.87169992371957,-86.30745327462222,5.0

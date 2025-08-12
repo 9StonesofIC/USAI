@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29536,34.41911,-79.37241,Dillon,SC,South Carolina,True,,16838.0,50.6,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York,"(34.41911, -79.37241)",4.017807959425835,19334.0,23482_0_no,34.4767778002494,-79.36334423759615,5.0
+29547,34.48684,-79.33243,Hamer,SC,South Carolina,True,,2496.0,24.0,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York,"(34.48684, -79.33243)",1.8929837669140142,19334.0,23482_0_no,34.4767778002494,-79.36334423759615,5.0

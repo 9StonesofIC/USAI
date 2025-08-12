@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28756,35.34256,-82.18219,Mill Spring,NC,North Carolina,True,,3975.0,19.3,37149,Polk,"{""37149"": 98.85, ""37161"": 1.15}",Polk|Rutherford,37149|37161,False,False,America/New_York,"(35.34256, -82.18219)",3.497056075195347,3975.0,25509_0_no,35.34856354628878,-82.24380271996537,5.0

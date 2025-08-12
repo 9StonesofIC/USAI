@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95448,38.62309,-122.89089,Healdsburg,CA,California,True,,17353.0,36.2,6097,Sonoma,"{""06097"": 100}",Sonoma,06097,False,False,America/Los_Angeles,"(38.62309, -122.89089)",4.272838403517868,17353.0,32937_0_yes,38.64107701306117,-122.96663250957084,5.0

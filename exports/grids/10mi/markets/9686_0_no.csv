@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82059,41.05681,-105.17714,Granite Canon,WY,Wyoming,True,,186.0,0.8,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver,"(41.05681, -105.17714)",6.678459230540113,186.0,9686_0_no,41.074165677949736,-105.30325753206417,10.0

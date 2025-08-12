@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97883,45.14264,-117.64047,Union,OR,Oregon,True,,2256.0,2.7,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles,"(45.14264, -117.64047)",8.195107931528996,2256.0,11804_0_no,45.149560165731536,-117.47258848633729,10.0

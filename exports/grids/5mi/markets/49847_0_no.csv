@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49808,46.8109,-87.8764,Big Bay,MI,Michigan,True,,587.0,1.3,26103,Marquette,"{""26103"": 100}",Marquette,26103,False,False,America/Detroit,"(46.8109, -87.8764)",3.3782271912002346,587.0,49847_0_no,46.79371487155397,-87.80952959151254,5.0

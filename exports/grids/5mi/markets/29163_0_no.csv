@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42104,36.87718,-86.45233,Bowling Green,KY,Kentucky,True,,36969.0,245.9,21227,Warren,"{""21227"": 91.29, ""21213"": 8.71}",Warren|Simpson,21227|21213,False,False,America/Chicago,"(36.87718, -86.45233)",4.915310592022321,36969.0,29163_0_no,36.94592897347589,-86.42945624906523,5.0

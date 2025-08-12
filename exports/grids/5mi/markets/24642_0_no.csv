@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87032,34.86786,-106.04201,Mcintosh,NM,New Mexico,True,,251.0,3.7,35057,Torrance,"{""35057"": 100}",Torrance,35057,False,False,America/Denver,"(34.86786, -106.04201)",4.665120474050416,251.0,24642_0_no,34.93098540532521,-106.07122188222318,5.0

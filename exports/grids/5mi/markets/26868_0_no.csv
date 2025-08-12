@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37140,35.86345,-87.65245,Only,TN,Tennessee,True,,1613.0,24.1,47081,Hickman,"{""47081"": 100}",Hickman,47081,False,False,America/Chicago,"(35.86345, -87.65245)",4.802059284332922,1613.0,26868_0_no,35.93232086649442,-87.64092318988878,5.0

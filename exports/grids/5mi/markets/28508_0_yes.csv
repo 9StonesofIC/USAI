@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24243,36.78174,-82.92083,Dryden,VA,Virginia,True,,1666.0,28.0,51105,Lee,"{""51105"": 100}",Lee,51105,False,False,America/New_York,"(36.78174, -82.92083)",6.140749740382408,7751.0,28508_0_yes,36.72578859082565,-82.8346439078814,5.0
+24244,36.71075,-82.79785,Duffield,VA,Virginia,True,,6085.0,13.9,51169,Scott,"{""51169"": 82.7, ""51105"": 17.3}",Scott|Lee,51169|51105,False,False,America/New_York,"(36.71075, -82.79785)",2.2874227251760297,7751.0,28508_0_yes,36.72578859082565,-82.8346439078814,5.0

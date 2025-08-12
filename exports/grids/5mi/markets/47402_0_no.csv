@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59001,45.52952,-109.54022,Absarokee,MT,Montana,True,,1574.0,4.3,30095,Stillwater,"{""30095"": 94.29, ""30009"": 5.71}",Stillwater|Carbon,30095|30009,False,False,America/Denver,"(45.52952, -109.54022)",3.533042753099741,1574.0,47402_0_no,45.51091349625998,-109.47224254726672,5.0

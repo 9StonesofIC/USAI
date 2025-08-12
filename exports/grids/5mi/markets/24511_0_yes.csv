@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28170,34.99263,-80.09259,Wadesboro,NC,North Carolina,True,,11459.0,24.9,37007,Anson,"{""37007"": 100}",Anson,37007,False,False,America/New_York,"(34.99263, -80.09259)",2.7573226234323815,11459.0,24511_0_yes,34.984561311212275,-80.04488515509767,5.0

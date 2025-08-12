@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38379,35.16388,-88.42825,Stantonville,TN,Tennessee,True,,1459.0,16.5,47109,McNairy,"{""47109"": 90.42, ""47071"": 9.58}",McNairy|Hardin,47109|47071,False,False,America/Chicago,"(35.16388, -88.42825)",2.0819711514317594,1459.0,24894_0_yes,35.13562214572249,-88.44104635778902,5.0

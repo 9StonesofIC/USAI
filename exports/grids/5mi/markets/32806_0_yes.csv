@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67544,38.57584,-98.75456,Hoisington,KS,Kansas,True,,3056.0,5.5,20009,Barton,"{""20009"": 100}",Barton,20009,False,False,America/Chicago,"(38.57584, -98.75456)",3.1861244738511316,3056.0,32806_0_yes,38.621953284300375,-98.75456139168392,5.0

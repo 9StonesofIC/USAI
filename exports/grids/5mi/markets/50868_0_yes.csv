@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98925,47.28793,-121.28089,Easton,WA,Washington,True,,477.0,1.5,53037,Kittitas,"{""53037"": 100}",Kittitas,53037,False,False,America/Los_Angeles,"(47.28793, -121.28089)",5.533357820155027,477.0,50868_0_yes,47.33122038385338,-121.38025980553051,5.0

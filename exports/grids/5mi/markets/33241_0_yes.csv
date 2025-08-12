@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95720,38.84536,-120.26021,Kyburz,CA,California,True,,108.0,0.3,6017,El Dorado,"{""06017"": 100}",El Dorado,06017,False,False,America/Los_Angeles,"(38.84536, -120.26021)",5.899683649114018,141.0,33241_0_yes,38.783839821762975,-120.1842154165392,5.0
+95735,38.82986,-120.17936,Twin Bridges,CA,California,True,,33.0,0.3,6017,El Dorado,"{""06017"": 100}",El Dorado,06017,False,False,America/Los_Angeles,"(38.82986, -120.17936)",3.1904201642664543,141.0,33241_0_yes,38.783839821762975,-120.1842154165392,5.0

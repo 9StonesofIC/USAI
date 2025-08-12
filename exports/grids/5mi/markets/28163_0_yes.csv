@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24148,36.58156,-79.87231,Ridgeway,VA,Virginia,True,,8868.0,48.3,51089,Henry,"{""51089"": 100}",Henry,51089,False,False,America/New_York,"(36.58156, -79.87231)",0.8863071437150055,8868.0,28163_0_yes,36.57862729227914,-79.8567588925256,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44622,40.54883,-81.48375,Dover,OH,Ohio,True,,18152.0,126.1,39157,Tuscarawas,"{""39157"": 100}",Tuscarawas,39157,False,False,America/New_York,"(40.54883, -81.48375)",4.354530538104156,42887.0,36817_0_yes,40.491325448513486,-81.51767888455971,5.0
+44663,40.46066,-81.44961,New Philadelphia,OH,Ohio,True,,24735.0,99.2,39157,Tuscarawas,"{""39157"": 100}",Tuscarawas,39157,False,False,America/New_York,"(40.46066, -81.44961)",4.157898734756558,42887.0,36817_0_yes,40.491325448513486,-81.51767888455971,5.0

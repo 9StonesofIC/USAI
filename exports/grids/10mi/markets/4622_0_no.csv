@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85602,32.17296,-110.3865,Benson,AZ,Arizona,True,,9007.0,4.1,4003,Cochise,"{""04003"": 69.45, ""04019"": 30.55}",Cochise|Pima,04003|04019,False,False,America/Phoenix,"(32.17296, -110.3865)",9.349580706827364,37973.0,4622_0_no,32.09588683783764,-110.51784535839646,10.0
+85641,32.02125,-110.64617,Vail,AZ,Arizona,True,,28966.0,32.6,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix,"(32.02125, -110.64617)",9.113654568893836,37973.0,4622_0_no,32.09588683783764,-110.51784535839646,10.0

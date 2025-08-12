@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62036,38.91866,-90.59079,Golden Eagle,IL,Illinois,True,,644.0,7.9,17013,Calhoun,"{""17013"": 100}",Calhoun,17013,False,False,America/Chicago,"(38.91866, -90.59079)",4.349250561495806,51185.0,33400_0_yes,38.905341486232935,-90.66985614672696,5.0
+63366,38.85918,-90.71964,O'Fallon,MO,Missouri,True,,50541.0,281.7,29183,St. Charles,"{""29183"": 100}",St. Charles,29183,False,False,America/Chicago,"(38.85918, -90.71964)",4.164405204284971,51185.0,33400_0_yes,38.905341486232935,-90.66985614672696,5.0

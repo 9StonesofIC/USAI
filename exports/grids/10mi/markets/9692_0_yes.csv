@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69141,41.30409,-102.93602,Gurley,NE,Nebraska,True,,438.0,1.6,31033,Cheyenne,"{""31033"": 100}",Cheyenne,31033,False,False,America/Denver,"(41.30409, -102.93602)",11.215119944312333,7518.0,9692_0_yes,41.21515896756762,-103.11665477365308,10.0
+69162,41.13001,-103.02815,Sidney,NE,Nebraska,True,,7080.0,6.0,31033,Cheyenne,"{""31033"": 100}",Cheyenne,31033,False,False,America/Denver,"(41.13001, -103.02815)",7.469952295091494,7518.0,9692_0_yes,41.21515896756762,-103.11665477365308,10.0

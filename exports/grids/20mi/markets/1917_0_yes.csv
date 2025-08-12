@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84733,37.29597,-113.79775,Gunlock,UT,Utah,True,,160.0,1.0,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver,"(37.29597, -113.79775)",20.412815510713088,7394.0,1917_0_yes,37.15949932427712,-114.12683477442872,20.0
+84765,37.31012,-113.92535,Santa Clara,UT,Utah,True,,7234.0,58.1,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver,"(37.31012, -113.92535)",15.203595977231965,7394.0,1917_0_yes,37.15949932427712,-114.12683477442872,20.0

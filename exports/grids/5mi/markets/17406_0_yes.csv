@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39150,31.99264,-90.98487,Port Gibson,MS,Mississippi,True,,5305.0,9.0,28021,Claiborne,"{""28021"": 100}",Claiborne,28021,False,False,America/Chicago,"(31.99264, -90.98487)",3.6598257666249197,5305.0,17406_0_yes,31.94729623342525,-90.95259425908522,5.0

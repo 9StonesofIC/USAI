@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33471,26.9105,-81.19754,Moore Haven,FL,Florida,True,,7061.0,8.3,12043,Glades,"{""12043"": 100}",Glades,12043,False,False,America/New_York,"(26.9105, -81.19754)",5.187974289808346,7476.0,1336_0_yes,26.983280359227138,-81.21825479095723,10.0
+33944,26.97163,-81.36924,Palmdale,FL,Florida,True,,415.0,3.5,12043,Glades,"{""12043"": 100}",Glades,12043,False,False,America/New_York,"(26.97163, -81.36924)",9.331700778767436,7476.0,1336_0_yes,26.983280359227138,-81.21825479095723,10.0

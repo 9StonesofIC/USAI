@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28787,35.72795,-82.52306,Weaverville,NC,North Carolina,True,,21083.0,102.4,37021,Buncombe,"{""37021"": 94.62, ""37115"": 5.38}",Buncombe|Madison,37021|37115,False,False,America/New_York,"(35.72795, -82.52306)",4.063150681849762,21083.0,26508_0_no,35.783604036137845,-82.54646804526882,5.0

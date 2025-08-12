@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48634,43.75405,-84.05414,Linwood,MI,Michigan,True,,4325.0,34.1,26017,Bay,"{""26017"": 100}",Bay,26017,False,False,America/Detroit,"(43.75405, -84.05414)",4.554074922884074,38045.0,43785_0_no,43.75131422771539,-84.14531011001203,5.0
+48642,43.69945,-84.22849,Midland,MI,Michigan,True,,33720.0,124.3,26111,Midland,"{""26111"": 84.03, ""26017"": 15.97}",Midland|Bay,26111|26017,False,False,America/Detroit,"(43.69945, -84.22849)",5.485518304833497,38045.0,43785_0_no,43.75131422771539,-84.14531011001203,5.0

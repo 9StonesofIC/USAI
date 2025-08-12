@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78619,30.11215,-98.03101,Driftwood,TX,Texas,True,,5840.0,56.5,48209,Hays,"{""48209"": 100}",Hays,48209,False,False,America/Chicago,"(30.11215, -98.03101)",1.843536201239987,26449.0,13233_0_no,30.138548737973395,-98.026528522187,5.0
+78737,30.18935,-97.96059,Austin,TX,Texas,True,,20609.0,218.4,48209,Hays,"{""48209"": 71.17, ""48453"": 28.83}",Hays|Travis,48209|48453,False,False,America/Chicago,"(30.18935, -97.96059)",5.2759926643700625,26449.0,13233_0_no,30.138548737973395,-98.026528522187,5.0

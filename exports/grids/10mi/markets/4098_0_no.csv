@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85626,31.35932,-109.56827,Pirtleville,AZ,Arizona,True,,817.0,323.5,4003,Cochise,"{""04003"": 100}",Cochise,04003,False,False,America/Phoenix,"(31.35932, -109.56827)",10.179005438240129,817.0,4098_0_no,31.224349638210644,-109.63737188181416,10.0

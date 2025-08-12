@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50833,40.66956,-94.70309,Bedford,IA,Iowa,True,,2162.0,3.9,19173,Taylor,"{""19173"": 100}",Taylor,19173,False,False,America/Chicago,"(40.66956, -94.70309)",5.186888358997587,2162.0,37483_0_no,40.71941613814637,-94.62906624699951,5.0

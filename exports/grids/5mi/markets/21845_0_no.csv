@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39776,33.78517,-89.03239,Woodland,MS,Mississippi,True,,1278.0,5.8,28017,Chickasaw,"{""28017"": 81.36, ""28025"": 18.64}",Chickasaw|Clay,28017|28025,False,False,America/Chicago,"(33.78517, -89.03239)",4.70327764611402,1278.0,21845_0_no,33.758708195537025,-88.95694111041037,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58038,47.24505,-96.99484,Grandin,ND,North Dakota,True,,251.0,1.2,38097,Traill,"{""38097"": 59.94, ""38017"": 40.06}",Traill|Cass,38097|38017,False,False,America/Chicago,"(47.24505, -96.99484)",6.249391476901144,251.0,50753_0_yes,47.30848633543805,-96.89981138781204,5.0

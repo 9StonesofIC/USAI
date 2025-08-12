@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51011,42.91562,-96.51388,Chatsworth,IA,Iowa,True,,56.0,51.6,19167,Sioux,"{""19167"": 100}",Sioux,19167,False,False,America/Chicago,"(42.91562, -96.51388)",5.157925250821492,1798.0,42090_0_yes,42.96580108525743,-96.58937849237276,5.0
+57001,42.9981,-96.65492,Alcester,SD,South Dakota,True,,1742.0,6.8,46127,Union,"{""46127"": 93.43, ""46083"": 6.57}",Union|Lincoln,46127|46083,False,False,America/Chicago,"(42.9981, -96.65492)",3.994436389125175,1798.0,42090_0_yes,42.96580108525743,-96.58937849237276,5.0

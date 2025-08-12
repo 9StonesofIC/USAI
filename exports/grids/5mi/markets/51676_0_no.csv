@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98315,47.72263,-122.71444,Silverdale,WA,Washington,True,,6825.0,237.7,53035,Kitsap,"{""53035"": 100}",Kitsap,53035,False,False,America/Los_Angeles,"(47.72263, -122.71444)",3.474379029901587,29650.0,51676_0_no,47.69443356843033,-122.77631542827396,5.0
+98383,47.66212,-122.71652,Silverdale,WA,Washington,True,,22825.0,507.9,53035,Kitsap,"{""53035"": 100}",Kitsap,53035,False,False,America/Los_Angeles,"(47.66212, -122.71652)",3.566867621441758,29650.0,51676_0_no,47.69443356843033,-122.77631542827396,5.0

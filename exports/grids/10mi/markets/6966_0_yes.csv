@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73840,36.39436,-99.64581,Fargo,OK,Oklahoma,True,,632.0,1.7,40045,Ellis,"{""40045"": 74.38, ""40153"": 25.62}",Ellis|Woodward,40045|40153,False,False,America/Chicago,"(36.39436, -99.64581)",9.076825369197326,632.0,6966_0_yes,36.28449923737976,-99.556385608666,10.0

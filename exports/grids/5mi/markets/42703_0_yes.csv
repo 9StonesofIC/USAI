@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57529,43.22931,-99.57019,Dallas,SD,South Dakota,True,,352.0,0.6,46123,Tripp,"{""46123"": 70.14, ""46053"": 29.86}",Tripp|Gregory,46123|46053,False,False,America/Chicago,"(43.22931, -99.57019)",3.4449439092698935,352.0,42703_0_yes,43.25802342687671,-99.62614641866082,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97355,44.5315,-122.81701,Lebanon,OR,Oregon,True,,31118.0,56.1,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles,"(44.5315, -122.81701)",4.1393236972998375,31118.0,45471_0_yes,44.58160243063324,-122.77091442576004,5.0

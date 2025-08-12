@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97761,44.8433,-121.29807,Warm Springs,OR,Oregon,True,,3631.0,3.8,41065,Wasco,"{""41065"": 61.4, ""41031"": 38.6}",Wasco|Jefferson,41065|41031,False,False,America/Los_Angeles,"(44.8433, -121.29807)",6.244284715466417,3631.0,11669_0_no,44.86660005466233,-121.17489327318224,10.0

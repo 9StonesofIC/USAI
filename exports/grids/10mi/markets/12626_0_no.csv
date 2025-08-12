@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59326,46.77178,-104.85183,Fallon,MT,Montana,True,,308.0,0.3,30079,Prairie,"{""30079"": 87.37, ""30021"": 12.63}",Prairie|Dawson,30079|30021,False,False,America/Denver,"(46.77178, -104.85183)",9.241115636499021,308.0,12626_0_no,46.86361325367463,-104.99392393434688,10.0

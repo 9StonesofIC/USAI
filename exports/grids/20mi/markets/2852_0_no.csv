@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97720,43.58799,-118.85806,Burns,OR,Oregon,True,,4383.0,1.4,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles,"(43.58799, -118.85806)",20.531910339528668,4657.0,2852_0_no,43.83944094711114,-119.07715061582796,20.0
+97873,44.12837,-118.99505,Seneca,OR,Oregon,True,,274.0,1.0,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles,"(44.12837, -118.99505)",20.37608589579936,4657.0,2852_0_no,43.83944094711114,-119.07715061582796,20.0

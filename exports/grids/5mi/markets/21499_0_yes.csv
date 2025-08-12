@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30182,33.65603,-85.24628,Waco,GA,Georgia,True,,3178.0,34.9,13045,Carroll,"{""13045"": 63.54, ""13143"": 36.46}",Carroll|Haralson,13045|13143,False,False,America/New_York,"(33.65603, -85.24628)",1.9072091717824526,3178.0,21499_0_yes,33.68357021103212,-85.24852187578381,5.0

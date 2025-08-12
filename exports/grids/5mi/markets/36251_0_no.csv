@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68342,40.1034,-96.94496,Diller,NE,Nebraska,True,,656.0,3.4,31095,Jefferson,"{""31095"": 73.7, ""31067"": 26.3}",Jefferson|Gage,31095|31067,False,False,America/Chicago,"(40.1034, -96.94496)",2.870931851803962,656.0,36251_0_no,40.14189639027921,-96.96541090866282,5.0

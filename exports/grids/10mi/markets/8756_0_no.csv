@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81624,39.24611,-107.77259,Collbran,CO,Colorado,True,,1470.0,1.0,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.24611, -107.77259)",8.734565608393552,6634.0,8756_0_no,39.33986856619166,-107.66302149547442,10.0
+81652,39.472,-107.67082,Silt,CO,Colorado,True,,5164.0,18.9,8045,Garfield,"{""08045"": 100}",Garfield,08045,False,False,America/Denver,"(39.472, -107.67082)",9.138900691548397,6634.0,8756_0_no,39.33986856619166,-107.66302149547442,10.0

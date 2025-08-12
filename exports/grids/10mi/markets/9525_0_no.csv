@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80726,40.91044,-102.7773,Crook,CO,Colorado,True,,471.0,1.2,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.91044, -102.7773)",9.492793846003256,1802.0,9525_0_no,40.78025060171512,-102.71927209561515,10.0
+80728,40.64,-102.87285,Fleming,CO,Colorado,True,,1086.0,1.2,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.64, -102.87285)",12.593714589128204,1802.0,9525_0_no,40.78025060171512,-102.71927209561515,10.0
+80749,40.87574,-102.55354,Sedgwick,CO,Colorado,True,,245.0,0.5,8115,Sedgwick,"{""08115"": 100}",Sedgwick,08115,False,False,America/Denver,"(40.87574, -102.55354)",10.890651756346656,1802.0,9525_0_no,40.78025060171512,-102.71927209561515,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88114,33.51026,-103.43052,Crossroads,NM,New Mexico,True,,43.0,0.1,35025,Lea,"{""35025"": 100}",Lea,35025,False,False,America/Denver,"(33.51026, -103.43052)",2.390658938011756,43.0,21248_0_no,33.47882763178701,-103.44786361138684,5.0

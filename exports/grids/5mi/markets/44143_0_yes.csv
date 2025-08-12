@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54636,44.00732,-91.22682,Holmen,WI,Wisconsin,True,,14838.0,69.0,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago,"(44.00732, -91.22682)",4.1397133737672585,39632.0,44143_0_yes,43.97466514433744,-91.2966426105727,5.0
+54650,43.9099,-91.22424,Onalaska,WI,Wisconsin,True,,24794.0,309.7,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago,"(43.9099, -91.22424)",5.744461492012623,39632.0,44143_0_yes,43.97466514433744,-91.2966426105727,5.0

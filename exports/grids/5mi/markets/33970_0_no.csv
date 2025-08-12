@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45695,39.1529,-82.36334,Wilkesville,OH,Ohio,True,,670.0,7.9,39163,Vinton,"{""39163"": 100}",Vinton,39163,False,False,America/New_York,"(39.1529, -82.36334)",4.383462609545832,1358.0,33970_0_no,39.11602081414902,-82.29678758935177,5.0
+45741,39.06648,-82.2527,Langsville,OH,Ohio,True,,688.0,6.4,39105,Meigs,"{""39105"": 99.9, ""39053"": 0.1}",Meigs|Gallia,39105|39053,False,False,America/New_York,"(39.06648, -82.2527)",4.1600787880657775,1358.0,33970_0_no,39.11602081414902,-82.29678758935177,5.0

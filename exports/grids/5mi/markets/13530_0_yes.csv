@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32548,30.4094,-86.6494,Fort Walton Beach,FL,Florida,True,,22818.0,729.2,12091,Okaloosa,"{""12091"": 100}",Okaloosa,12091,False,False,America/Chicago,"(30.4094, -86.6494)",4.274505852648261,35607.0,13530_0_yes,30.348893704677945,-86.66434998233045,5.0
+32569,30.40666,-86.72962,Mary Esther,FL,Florida,True,,12789.0,1188.8,12091,Okaloosa,"{""12091"": 100}",Okaloosa,12091,False,False,America/Chicago,"(30.40666, -86.72962)",5.573769897495116,35607.0,13530_0_yes,30.348893704677945,-86.66434998233045,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22534,38.08473,-77.67062,Partlow,VA,Virginia,True,,2910.0,33.9,51177,Spotsylvania,"{""51177"": 100}",Spotsylvania,51177,False,False,America/New_York,"(38.08473, -77.67062)",4.715624727802873,2910.0,31709_0_no,38.09839319339807,-77.75558335726348,5.0

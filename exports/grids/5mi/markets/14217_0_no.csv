@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32463,30.6279,-85.58728,Wausau,FL,Florida,True,,212.0,182.1,12133,Washington,"{""12133"": 100}",Washington,12133,False,False,America/Chicago,"(30.6279, -85.58728)",6.111058041891631,212.0,14217_0_no,30.56587121407361,-85.66052727376294,5.0

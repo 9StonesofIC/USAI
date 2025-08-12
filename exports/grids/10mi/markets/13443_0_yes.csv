@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56751,48.80929,-95.76035,Roseau,MN,Minnesota,True,,5588.0,4.6,27135,Roseau,"{""27135"": 100}",Roseau,27135,False,False,America/Chicago,"(48.80929, -95.76035)",7.003571603503128,6028.0,13443_0_yes,48.72624793012331,-95.6721616503227,10.0
+56761,48.60862,-95.69725,Wannaska,MN,Minnesota,True,,440.0,1.7,27135,Roseau,"{""27135"": 100}",Roseau,27135,False,False,America/Chicago,"(48.60862, -95.69725)",8.207548848798867,6028.0,13443_0_yes,48.72624793012331,-95.6721616503227,10.0

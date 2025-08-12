@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73089,35.2661,-97.79638,Tuttle,OK,Oklahoma,True,,13037.0,47.1,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago,"(35.2661, -97.79638)",2.904230561101533,13037.0,25281_0_yes,35.287393226750886,-97.75198734700336,5.0

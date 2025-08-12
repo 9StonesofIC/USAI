@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82937,41.3491,-110.2634,Lyman,WY,Wyoming,True,,3198.0,13.9,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver,"(41.3491, -110.2634)",2.8362675624936613,3198.0,9852_0_no,41.37201271147634,-110.21802080290368,10.0

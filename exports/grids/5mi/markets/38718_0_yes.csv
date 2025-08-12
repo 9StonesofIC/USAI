@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61234,41.41804,-89.91947,Annawan,IL,Illinois,True,,1122.0,7.8,17073,Henry,"{""17073"": 100}",Henry,17073,False,False,America/Chicago,"(41.41804, -89.91947)",4.847531812045666,2828.0,38718_0_yes,41.3672749334554,-89.98402293475142,5.0
+61235,41.39972,-90.0237,Atkinson,IL,Illinois,True,,1706.0,12.6,17073,Henry,"{""17073"": 100}",Henry,17073,False,False,America/Chicago,"(41.39972, -90.0237)",3.0424029863827564,2828.0,38718_0_yes,41.3672749334554,-89.98402293475142,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31077,31.93489,-83.17727,Rhine,GA,Georgia,True,,1723.0,6.6,13091,Dodge,"{""13091"": 53.2, ""13271"": 46.8}",Dodge|Telfair,13091|13271,False,False,America/New_York,"(31.93489, -83.17727)",6.05137489439206,1723.0,17348_0_no,31.869652650703173,-83.24610339334446,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73703,36.44022,-97.9634,Enid,OK,Oklahoma,True,,29077.0,98.4,40047,Garfield,"{""40047"": 96.49, ""40053"": 3.51}",Garfield|Grant,40047|40053,False,False,America/Chicago,"(36.44022, -97.9634)",4.087939649790209,29077.0,27934_0_yes,36.44727320861685,-97.89037597312206,5.0

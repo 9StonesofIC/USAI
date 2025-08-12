@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58569,46.25777,-101.19276,Shields,ND,North Dakota,True,,82.0,0.2,38037,Grant,"{""38037"": 100}",Grant,38037,False,False,America/Denver,"(46.25777, -101.19276)",2.92233524949554,82.0,48812_0_yes,46.29945040893277,-101.18236210794096,5.0

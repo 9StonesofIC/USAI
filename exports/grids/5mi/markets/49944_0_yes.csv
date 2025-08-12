@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58630,46.91981,-102.57603,Gladstone,ND,North Dakota,True,,704.0,1.6,38089,Stark,"{""38089"": 62.3, ""38025"": 37.7}",Stark|Dunn,38089|38025,False,False,America/Denver,"(46.91981, -102.57603)",3.364012888176814,704.0,49944_0_yes,46.87965811634584,-102.61633271164108,5.0

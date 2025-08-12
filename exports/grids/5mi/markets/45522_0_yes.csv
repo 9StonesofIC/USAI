@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12969,44.71102,-74.0812,Owls Head,NY,New York,True,,347.0,1.2,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.71102, -74.0812)",3.224878937374151,347.0,45522_0_yes,44.68308678948223,-74.02859611341357,5.0

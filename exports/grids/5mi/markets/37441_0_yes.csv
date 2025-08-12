@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44691,40.80714,-81.97971,Wooster,OH,Ohio,True,,45210.0,112.7,39169,Wayne,"{""39169"": 99.53, ""39005"": 0.47}",Wayne|Ashland,39169|39005,False,False,America/New_York,"(40.80714, -81.97971)",4.479613285145387,45210.0,37441_0_yes,40.78128072973968,-81.90117750203152,5.0

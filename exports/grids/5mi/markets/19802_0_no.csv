@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39079,32.93178,-89.88449,Goodman,MS,Mississippi,True,,1720.0,8.4,28007,Attala,"{""28007"": 53.9, ""28051"": 36.98, ""28089"": 9.12}",Attala|Holmes|Madison,28007|28051|28089,False,False,America/Chicago,"(32.93178, -89.88449)",4.3676755341499955,1720.0,19802_0_no,32.8892659169044,-89.82876511682424,5.0

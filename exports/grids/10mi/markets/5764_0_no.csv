@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72055,34.10391,-91.36196,Gillett,AR,Arkansas,True,,811.0,3.3,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago,"(34.10391, -91.36196)",0.9780718411829803,905.0,5764_0_no,34.099098168524705,-91.34588253466607,10.0
+72166,34.04821,-91.23711,Tichnor,AR,Arkansas,True,,94.0,0.3,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago,"(34.04821, -91.23711)",7.149516053646312,905.0,5764_0_no,34.099098168524705,-91.34588253466607,10.0

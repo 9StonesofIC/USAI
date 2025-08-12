@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19977,39.29653,-75.55132,Smyrna,DE,Delaware,True,,25536.0,118.6,10001,Kent,"{""10001"": 78.87, ""10003"": 21.13}",Kent|New Castle,10001|10003,False,False,America/New_York,"(39.29653, -75.55132)",2.5706859491173617,25536.0,34272_0_yes,39.32783097255063,-75.52532436306532,5.0

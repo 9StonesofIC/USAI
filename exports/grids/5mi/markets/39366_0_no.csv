@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69121,41.56631,-101.71983,Arthur,NE,Nebraska,True,,381.0,0.3,31005,Arthur,"{""31005"": 100}",Arthur,31005,False,False,America/Denver,"(41.56631, -101.71983)",2.618093073171389,381.0,39366_0_no,41.59442915703085,-101.7537850732449,5.0

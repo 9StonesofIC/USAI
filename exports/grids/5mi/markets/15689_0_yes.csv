@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75856,31.20138,-95.2537,Pennington,TX,Texas,True,,171.0,2.7,48225,Houston,"{""48225"": 71.01, ""48455"": 28.99}",Houston|Trinity,48225|48455,False,False,America/Chicago,"(31.20138, -95.2537)",1.8631976828142416,171.0,15689_0_yes,31.22487862504087,-95.26916774125787,5.0

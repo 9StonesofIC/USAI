@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71282,32.35662,-91.20042,Tallulah,LA,Louisiana,True,,10285.0,8.0,22065,Madison,"{""22065"": 99.18, ""22107"": 0.82}",Madison|Tensas,22065|22107,False,False,America/Chicago,"(32.35662, -91.20042)",4.34557055669282,10285.0,18433_0_no,32.31012690528162,-91.25054885026044,5.0

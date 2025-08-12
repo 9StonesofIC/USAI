@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+06812,41.48796,-73.48827,New Fairfield,CT,Connecticut,True,,13924.0,263.3,9001,Fairfield,"{""09001"": 100}",Fairfield,09001,False,False,America/New_York,"(41.48796, -73.48827)",1.8602449500362876,21503.0,38940_0_yes,41.49830018427118,-73.52145781392909,5.0
+12563,41.49417,-73.5891,Patterson,NY,New York,True,,7579.0,124.6,36079,Putnam,"{""36079"": 100}",Putnam,36079,False,False,America/New_York,"(41.49417, -73.5891)",3.5121577751831716,21503.0,38940_0_yes,41.49830018427118,-73.52145781392909,5.0

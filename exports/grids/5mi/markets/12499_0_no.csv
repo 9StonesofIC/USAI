@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70631,29.86692,-93.55404,Cameron,LA,Louisiana,True,,457.0,0.4,22023,Cameron,"{""22023"": 100}",Cameron,22023,False,False,America/Chicago,"(29.86692, -93.55404)",3.5600119374044064,457.0,12499_0_no,29.845554050764157,-93.60810096500892,5.0

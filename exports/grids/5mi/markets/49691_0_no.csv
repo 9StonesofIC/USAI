@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59833,46.64437,-114.07678,Florence,MT,Montana,True,,5444.0,13.7,30081,Ravalli,"{""30081"": 70.2, ""30063"": 29.8}",Ravalli|Missoula,30081|30063,False,False,America/Denver,"(46.64437, -114.07678)",4.885904241115447,5444.0,49691_0_no,46.673075219659054,-113.98261970630884,5.0

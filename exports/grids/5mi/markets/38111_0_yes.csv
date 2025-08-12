@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52654,41.13581,-91.66898,Wayland,IA,Iowa,True,,1668.0,11.8,19087,Henry,"{""19087"": 67.2, ""19183"": 30.48, ""19101"": 2.32}",Henry|Washington|Jefferson,19087|19183|19101,False,False,America/Chicago,"(41.13581, -91.66898)",3.9241272499491933,1668.0,38111_0_yes,41.07902467821705,-91.67033619956584,5.0

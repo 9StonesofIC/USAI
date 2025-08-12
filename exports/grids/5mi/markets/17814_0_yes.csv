@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79733,32.11036,-101.36683,Forsan,TX,Texas,True,,449.0,595.4,48227,Howard,"{""48227"": 100}",Howard,48227,False,False,America/Chicago,"(32.11036, -101.36683)",4.053308288686253,449.0,17814_0_yes,32.099299600777854,-101.29881719657229,5.0

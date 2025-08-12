@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64683,40.07395,-93.60346,Trenton,MO,Missouri,True,,7867.0,13.3,29079,Grundy,"{""29079"": 92.15, ""29117"": 7.85}",Grundy|Livingston,29079|29117,False,False,America/Chicago,"(40.07395, -93.60346)",4.029228152963869,7867.0,35944_0_yes,40.06674230929152,-93.67907994689858,5.0

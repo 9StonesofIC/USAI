@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86015,35.22408,-111.80972,Bellemont,AZ,Arizona,True,,364.0,8.1,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix,"(35.22408, -111.80972)",8.79592188763683,983.0,6336_0_yes,35.143213414894035,-111.93001892237014,10.0
+86018,35.24716,-111.96204,Parks,AZ,Arizona,True,,619.0,1.3,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Phoenix,"(35.24716, -111.96204)",7.406100816222138,983.0,6336_0_yes,35.143213414894035,-111.93001892237014,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74644,36.55713,-97.09768,Marland,OK,Oklahoma,True,,498.0,2.3,40103,Noble,"{""40103"": 100}",Noble,40103,False,False,America/Chicago,"(36.55713, -97.09768)",3.1366064935649036,498.0,28239_0_no,36.51917055960607,-97.06669099706644,5.0

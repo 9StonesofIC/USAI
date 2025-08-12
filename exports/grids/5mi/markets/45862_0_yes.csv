@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48619,44.82224,-84.01996,Comins,MI,Michigan,True,,523.0,2.6,26135,Oscoda,"{""26135"": 81.46, ""26119"": 18.54}",Oscoda|Montmorency,26135|26119,False,False,America/Detroit,"(44.82224, -84.01996)",2.9682446009691072,523.0,45862_0_yes,44.83674469524404,-84.07697736797812,5.0

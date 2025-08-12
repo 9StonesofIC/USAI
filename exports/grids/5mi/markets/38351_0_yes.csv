@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15841,41.25798,-78.50441,Force,PA,Pennsylvania,True,,383.0,935.8,42047,Elk,"{""42047"": 100}",Elk,42047,False,False,America/New_York,"(41.25798, -78.50441)",3.8081528805447773,1666.0,38351_0_yes,41.21292057671442,-78.54661692481527,5.0
+15849,41.17838,-78.55592,Penfield,PA,Pennsylvania,True,,1283.0,6.4,42033,Clearfield,"{""42033"": 100}",Clearfield,42033,False,False,America/New_York,"(41.17838, -78.55592)",2.4350453605558156,1666.0,38351_0_yes,41.21292057671442,-78.54661692481527,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53032,43.44708,-88.6234,Horicon,WI,Wisconsin,True,,4860.0,63.5,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago,"(43.44708, -88.6234)",4.803213153619253,5909.0,43216_0_no,43.46577798682121,-88.71563875498168,5.0
+53922,43.51558,-88.70916,Burnett,WI,Wisconsin,True,,1049.0,9.9,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago,"(43.51558, -88.70916)",3.456282416003343,5909.0,43216_0_no,43.46577798682121,-88.71563875498168,5.0

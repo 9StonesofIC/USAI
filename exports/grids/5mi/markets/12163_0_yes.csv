@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77523,29.77598,-94.8632,Baytown,TX,Texas,True,,23431.0,106.2,48071,Chambers,"{""48071"": 95.23, ""48201"": 4.77}",Chambers|Harris,48071|48201,False,False,America/Chicago,"(29.77598, -94.8632)",0.7437193291117066,23431.0,12163_0_yes,29.77377452387832,-94.87533802226936,5.0

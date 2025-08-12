@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81210,38.81898,-106.62219,Almont,CO,Colorado,True,,313.0,0.3,8051,Gunnison,"{""08051"": 100}",Gunnison,08051,False,False,America/Denver,"(38.81898, -106.62219)",5.604237981879711,362.0,8436_0_no,38.75881387509957,-106.69197814958716,10.0
+81237,38.62842,-106.59108,Ohio City,CO,Colorado,True,,49.0,0.4,8051,Gunnison,"{""08051"": 100}",Gunnison,08051,False,False,America/Denver,"(38.62842, -106.59108)",10.524965846309067,362.0,8436_0_no,38.75881387509957,-106.69197814958716,10.0

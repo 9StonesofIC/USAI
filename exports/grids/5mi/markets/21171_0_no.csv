@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38930,33.52845,-90.14245,Greenwood,MS,Mississippi,True,,23406.0,46.5,28083,Leflore,"{""28083"": 62.45, ""28015"": 37.55}",Leflore|Carroll,28083|28015,False,False,America/Chicago,"(33.52845, -90.14245)",4.346909128378574,23406.0,21171_0_no,33.46951660146277,-90.11604154940947,5.0

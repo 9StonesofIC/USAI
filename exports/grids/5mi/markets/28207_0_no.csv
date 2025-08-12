@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65690,36.5856,-91.26657,Couch,MO,Missouri,True,,169.0,2.2,29149,Oregon,"{""29149"": 100}",Oregon,29149,False,False,America/Chicago,"(36.5856, -91.26657)",5.639327545799413,636.0,28207_0_no,36.51484056564114,-91.31720708799438,5.0
+65778,36.52846,-91.2719,Myrtle,MO,Missouri,True,,467.0,5.0,29149,Oregon,"{""29149"": 100}",Oregon,29149,False,False,America/Chicago,"(36.52846, -91.2719)",2.6859426707215475,636.0,28207_0_no,36.51484056564114,-91.31720708799438,5.0

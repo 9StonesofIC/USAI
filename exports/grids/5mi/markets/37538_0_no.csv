@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80535,40.73718,-105.19292,Laporte,CO,Colorado,True,,2507.0,17.1,8069,Larimer,"{""08069"": 100}",Larimer,08069,False,False,America/Denver,"(40.73718, -105.19292)",4.600444744224565,2507.0,37538_0_no,40.72806054870812,-105.10588025408356,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84336,41.87159,-112.74697,Snowville,UT,Utah,True,,317.0,0.3,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.87159, -112.74697)",4.303786950444094,317.0,39755_0_yes,41.82095604308464,-112.79567082639808,5.0

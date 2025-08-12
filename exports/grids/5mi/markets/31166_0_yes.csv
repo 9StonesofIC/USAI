@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65567,37.85594,-92.53699,Stoutland,MO,Missouri,True,,1774.0,10.7,29029,Camden,"{""29029"": 79.47, ""29105"": 20.53}",Camden|Laclede,29029|29105,False,False,America/Chicago,"(37.85594, -92.53699)",4.726524401937635,1774.0,31166_0_yes,37.89258722175616,-92.61016740381164,5.0

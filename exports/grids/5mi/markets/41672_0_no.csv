@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14127,42.75204,-78.74402,Orchard Park,NY,New York,True,,29964.0,284.1,36029,Erie,"{""36029"": 100}",Erie,36029,False,False,America/New_York,"(42.75204, -78.74402)",1.6531480177652742,32314.0,41672_0_no,42.733316057665405,-78.72373750071458,5.0
+14170,42.70115,-78.67294,West Falls,NY,New York,True,,2350.0,67.6,36029,Erie,"{""36029"": 100}",Erie,36029,False,False,America/New_York,"(42.70115, -78.67294)",3.4042423577167797,32314.0,41672_0_no,42.733316057665405,-78.72373750071458,5.0

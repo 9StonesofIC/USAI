@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24127,37.47949,-80.19468,New Castle,VA,Virginia,True,,4195.0,7.4,51045,Craig,"{""51045"": 100}",Craig,51045,False,False,America/New_York,"(37.47949, -80.19468)",3.6553992319252164,4195.0,30126_0_yes,37.44832536851391,-80.24854154033622,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13315,42.7438,-75.1385,Burlington Flats,NY,New York,True,,1471.0,11.7,36077,Otsego,"{""36077"": 100}",Otsego,36077,False,False,America/New_York,"(42.7438, -75.1385)",2.6084114545926735,2857.0,41654_0_no,42.73028153798577,-75.1864914403204,5.0
+13335,42.70193,-75.24847,Edmeston,NY,New York,True,,1386.0,15.0,36077,Otsego,"{""36077"": 100}",Otsego,36077,False,False,America/New_York,"(42.70193, -75.24847)",3.706293485573332,2857.0,41654_0_no,42.73028153798577,-75.1864914403204,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45729,39.41653,-81.60828,Fleming,OH,Ohio,True,,1275.0,18.9,39167,Washington,"{""39167"": 100}",Washington,39167,False,False,America/New_York,"(39.41653, -81.60828)",2.6795381751388336,1275.0,34599_0_no,39.40513672842053,-81.5602999277538,5.0

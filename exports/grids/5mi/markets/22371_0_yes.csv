@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+90263,34.03919,-118.70809,Malibu,CA,California,True,,1813.0,2993.3,6037,Los Angeles,"{""06037"": 100}",Los Angeles,06037,False,False,America/Los_Angeles,"(34.03919, -118.70809)",3.132749883824551,1813.0,22371_0_yes,33.997236928227444,-118.72883742246444,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59026,45.46385,-108.78392,Edgar,MT,Montana,True,,177.0,3.0,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.46385, -108.78392)",4.688352201545317,177.0,47399_0_no,45.51035654288225,-108.85439989479582,5.0

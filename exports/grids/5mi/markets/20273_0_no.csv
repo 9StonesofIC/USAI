@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85138,33.0151,-111.98681,Maricopa,AZ,Arizona,True,,41266.0,188.0,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(33.0151, -111.98681)",2.451816533398557,41266.0,20273_0_no,33.04958953696656,-111.99676789515492,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37062,35.98833,-87.13483,Fairview,TN,Tennessee,True,,12971.0,72.4,47187,Williamson,"{""47187"": 93.19, ""47043"": 6.81}",Williamson|Dickson,47187|47043,False,False,America/Chicago,"(35.98833, -87.13483)",4.219656110859729,12971.0,26865_0_no,35.9319234777867,-87.10590733888043,5.0

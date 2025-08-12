@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66771,37.49211,-95.14883,Saint Paul,KS,Kansas,True,,1056.0,6.6,20133,Neosho,"{""20133"": 100}",Neosho,20133,False,False,America/Chicago,"(37.49211, -95.14883)",2.3711319769255526,1056.0,30208_0_yes,37.45980268848477,-95.1634134364844,5.0

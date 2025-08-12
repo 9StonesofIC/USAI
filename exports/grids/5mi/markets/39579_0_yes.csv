@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16738,41.80511,-78.73929,Lewis Run,PA,Pennsylvania,True,,2476.0,13.4,42083,McKean,"{""42083"": 100}",McKean,42083,False,False,America/New_York,"(41.80511, -78.73929)",1.6907506515275705,2476.0,39579_0_yes,41.79222619329863,-78.71138336584826,5.0

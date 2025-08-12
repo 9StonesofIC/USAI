@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92384,35.98255,-116.1505,Shoshone,CA,California,True,,18.0,0.0,6027,Inyo,"{""06027"": 100}",Inyo,06027,False,False,America/Los_Angeles,"(35.98255, -116.1505)",2.561115413726136,18.0,27028_0_no,35.95352328796536,-116.17898362901856,5.0

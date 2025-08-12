@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39342,32.42566,-88.64968,Marion,MS,Mississippi,True,,1738.0,216.8,28075,Lauderdale,"{""28075"": 100}",Lauderdale,28075,False,False,America/Chicago,"(32.42566, -88.64968)",2.255783047650594,1738.0,18763_0_no,32.453379428152324,-88.62924119296424,5.0

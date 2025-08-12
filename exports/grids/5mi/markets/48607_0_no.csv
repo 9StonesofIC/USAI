@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97048,46.03905,-122.99483,Rainier,OR,Oregon,True,,7591.0,30.0,41009,Columbia,"{""41009"": 100}",Columbia,41009,False,False,America/Los_Angeles,"(46.03905, -122.99483)",5.035730091247084,7591.0,48607_0_no,46.10230842805505,-123.04700569039576,5.0

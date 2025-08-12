@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54220,44.09644,-87.73131,Manitowoc,WI,Wisconsin,True,,38653.0,151.1,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago,"(44.09644, -87.73131)",3.935827739638422,38653.0,44393_0_no,44.04398899155552,-87.76223745437586,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93529,37.7832,-119.1375,June Lake,CA,California,True,,413.0,2.1,6051,Mono,"{""06051"": 100}",Mono,06051,False,False,America/Los_Angeles,"(37.7832, -119.1375)",1.4020728178089528,413.0,30988_0_yes,37.76824091252006,-119.15484735585127,5.0

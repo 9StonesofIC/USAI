@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67334,37.0241,-96.17736,Chautauqua,KS,Kansas,True,,55.0,50.0,20019,Chautauqua,"{""20019"": 100}",Chautauqua,20019,False,False,America/Chicago,"(37.0241, -96.17736)",4.913123746380205,55.0,29217_0_no,36.95335113580649,-96.18630118504228,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63445,40.39681,-91.72044,Kahoka,MO,Missouri,True,,3496.0,8.7,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago,"(40.39681, -91.72044)",2.122646899037397,3496.0,36847_0_no,40.42732887127075,-91.72506544218436,5.0

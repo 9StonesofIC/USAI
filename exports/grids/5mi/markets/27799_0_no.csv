@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27855,36.42171,-77.08432,Murfreesboro,NC,North Carolina,True,,6360.0,44.7,37091,Hertford,"{""37091"": 83.52, ""37131"": 16.48}",Hertford|Northampton,37091|37131,False,False,America/New_York,"(36.42171, -77.08432)",5.145909242374832,6360.0,27799_0_no,36.35917999459917,-77.03406030191606,5.0

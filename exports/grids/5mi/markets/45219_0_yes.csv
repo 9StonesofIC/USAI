@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05858,44.53587,-71.8046,North Concord,VT,Vermont,True,,417.0,2.5,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York,"(44.53587, -71.8046)",3.9078117939497736,1828.0,45219_0_yes,44.53633693161529,-71.72525689131679,5.0
+05906,44.47431,-71.71538,Lunenburg,VT,Vermont,True,,1411.0,11.2,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York,"(44.47431, -71.71538)",4.313200010613693,1828.0,45219_0_yes,44.53633693161529,-71.72525689131679,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68648,41.40482,-96.78949,Morse Bluff,NE,Nebraska,True,,290.0,2.8,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.40482, -96.78949)",2.841302569015635,2399.0,39034_0_no,41.44543413036663,-96.79808791497462,5.0
+68649,41.50784,-96.78896,North Bend,NE,Nebraska,True,,2109.0,8.0,31053,Dodge,"{""31053"": 100}",Dodge,31053,False,False,America/Chicago,"(41.50784, -96.78896)",4.337648684676875,2399.0,39034_0_no,41.44543413036663,-96.79808791497462,5.0

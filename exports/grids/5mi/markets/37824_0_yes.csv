@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68048,40.98304,-95.9345,Plattsmouth,NE,Nebraska,True,,13034.0,53.3,31025,Cass,"{""31025"": 100}",Cass,31025,False,False,America/Chicago,"(40.98304, -95.9345)",3.2017269685516667,13765.0,37824_0_yes,40.93773370518492,-95.94738321427022,5.0
+68409,40.90906,-95.95074,Murray,NE,Nebraska,True,,731.0,9.5,31025,Cass,"{""31025"": 100}",Cass,31025,False,False,America/Chicago,"(40.90906, -95.95074)",1.9888998709287367,13765.0,37824_0_yes,40.93773370518492,-95.94738321427022,5.0

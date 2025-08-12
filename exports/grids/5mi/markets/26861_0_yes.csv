@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37843,36.01137,-83.04979,Parrottsville,TN,Tennessee,True,,4245.0,31.1,47029,Cocke,"{""47029"": 100}",Cocke,47029,False,False,America/New_York,"(36.01137, -83.04979)",0.7324778599096943,4245.0,26861_0_yes,36.00133565132736,-83.04556188539225,5.0

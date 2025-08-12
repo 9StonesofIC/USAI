@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83806,46.88243,-116.37038,Bovill,ID,Idaho,True,,224.0,3.5,16057,Latah,"{""16057"": 100}",Latah,16057,False,False,America/Los_Angeles,"(46.88243, -116.37038)",1.5401056176856376,224.0,50009_0_yes,46.892315421383664,-116.341147847472,5.0

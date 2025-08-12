@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04774,47.10285,-69.05048,Saint Francis,ME,Maine,True,,614.0,1.5,23003,Aroostook,"{""23003"": 100}",Aroostook,23003,False,False,America/New_York,"(47.10285, -69.05048)",17.768627280028245,614.0,3222_0_no,47.12927345537893,-69.42638229948402,20.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84711,38.71294,-112.0606,Annabella,UT,Utah,True,,826.0,63.1,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.71294, -112.0606)",4.661194997333895,1261.0,33197_0_yes,38.77738246046886,-112.035010831415,5.0
+84730,38.74504,-112.00084,Glenwood,UT,Utah,True,,435.0,12.9,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.74504, -112.00084)",2.8953332131618947,1261.0,33197_0_yes,38.77738246046886,-112.035010831415,5.0

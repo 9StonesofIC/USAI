@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46501,41.22327,-86.24868,Argos,IN,Indiana,True,,3440.0,18.7,18099,Marshall,"{""18099"": 96.79, ""18049"": 3.21}",Marshall|Fulton,18099|18049,False,False,America/Indiana/Indianapolis,"(41.22327, -86.24868)",1.3636786710185502,3440.0,38391_0_yes,41.21931677613893,-86.22297201849818,5.0

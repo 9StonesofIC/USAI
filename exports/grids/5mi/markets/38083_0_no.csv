@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52650,40.94782,-91.15687,Sperry,IA,Iowa,True,,652.0,6.6,19057,Des Moines,"{""19057"": 100}",Des Moines,19057,False,False,America/Chicago,"(40.94782, -91.15687)",6.103748875906142,796.0,38083_0_no,41.006299181416765,-91.24457330623564,5.0
+52660,40.99146,-91.29998,Yarmouth,IA,Iowa,True,,144.0,2.3,19057,Des Moines,"{""19057"": 100}",Des Moines,19057,False,False,America/Chicago,"(40.99146, -91.29998)",3.0657828268119354,796.0,38083_0_no,41.006299181416765,-91.24457330623564,5.0

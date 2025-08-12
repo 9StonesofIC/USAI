@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13624,44.22284,-76.09736,Clayton,NY,New York,True,,5297.0,32.3,36045,Jefferson,"{""36045"": 100}",Jefferson,36045,False,False,America/New_York,"(44.22284, -76.09736)",5.819459366239868,8131.0,44628_0_no,44.17837679777784,-75.99757879050019,5.0
+13656,44.19141,-75.95058,La Fargeville,NY,New York,True,,2834.0,12.6,36045,Jefferson,"{""36045"": 100}",Jefferson,36045,False,False,America/New_York,"(44.19141, -75.95058)",2.496680432687122,8131.0,44628_0_no,44.17837679777784,-75.99757879050019,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62366,39.46253,-90.89402,Pleasant Hill,IL,Illinois,True,,1702.0,9.9,17149,Pike,"{""17149"": 100}",Pike,17149,False,False,America/Chicago,"(39.46253, -90.89402)",3.4824817105978334,1702.0,34649_0_no,39.41263982543184,-90.9033014549521,5.0

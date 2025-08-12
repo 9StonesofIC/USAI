@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75481,33.31751,-95.37485,Sulphur Bluff,TX,Texas,True,,412.0,2.3,48223,Hopkins,"{""48223"": 92.61, ""48159"": 7.39}",Hopkins|Franklin,48223|48159,False,False,America/Chicago,"(33.31751, -95.37485)",1.1622688380214001,412.0,20860_0_no,33.32815584452316,-95.3592628731052,5.0

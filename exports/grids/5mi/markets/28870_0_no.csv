@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65755,36.7996,-92.62858,Squires,MO,Missouri,True,,683.0,6.8,29067,Douglas,"{""29067"": 56.26, ""29153"": 43.74}",Douglas|Ozark,29067|29153,False,False,America/Chicago,"(36.7996, -92.62858)",0.5069147104315072,683.0,28870_0_no,36.80571298849288,-92.63364658713124,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80802,38.84317,-102.16393,Arapahoe,CO,Colorado,True,,238.0,0.3,8017,Cheyenne,"{""08017"": 100}",Cheyenne,08017,False,False,America/Denver,"(38.84317, -102.16393)",2.52125846013763,238.0,33441_0_no,38.84202350149649,-102.11710258430868,5.0

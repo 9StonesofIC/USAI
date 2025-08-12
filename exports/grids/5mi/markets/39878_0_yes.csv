@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16927,41.9655,-77.65941,Harrison Valley,PA,Pennsylvania,True,,545.0,13.5,42105,Potter,"{""42105"": 100}",Potter,42105,False,False,America/New_York,"(41.9655, -77.65941)",2.3479980126597835,691.0,39878_0_yes,41.936101447354986,-77.6364900682834,5.0
+16937,41.96421,-77.71004,Mills,PA,Pennsylvania,True,,146.0,8.1,42105,Potter,"{""42105"": 100}",Potter,42105,False,False,America/New_York,"(41.96421, -77.71004)",4.2492703267272836,691.0,39878_0_yes,41.936101447354986,-77.6364900682834,5.0

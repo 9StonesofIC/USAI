@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72401,35.86835,-90.66193,Jonesboro,AR,Arkansas,True,,59098.0,257.8,5031,Craighead,"{""05031"": 90.71, ""05055"": 9.29}",Craighead|Greene,05031|05055,False,False,America/Chicago,"(35.86835, -90.66193)",4.615316953728541,59098.0,26885_0_no,35.93457284474525,-90.67273025670046,5.0

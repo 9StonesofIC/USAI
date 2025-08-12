@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68333,40.62126,-96.94901,Crete,NE,Nebraska,True,,8525.0,29.9,31151,Saline,"{""31151"": 66.8, ""31109"": 33.2}",Saline|Lancaster,31151|31109,False,False,America/Chicago,"(40.62126, -96.94901)",3.386958271942006,8525.0,37185_0_no,40.57649528328291,-96.97532026130295,5.0

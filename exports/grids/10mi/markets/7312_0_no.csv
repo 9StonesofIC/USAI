@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87420,36.72142,-108.84406,Shiprock,NM,New Mexico,True,,11933.0,8.3,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.72142, -108.84406)",7.72589512193188,11933.0,7312_0_no,36.733612160122505,-108.98274125463826,10.0

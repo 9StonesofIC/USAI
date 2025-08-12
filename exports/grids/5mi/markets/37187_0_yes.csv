@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52572,40.67795,-92.69163,Moulton,IA,Iowa,True,,1184.0,4.6,19007,Appanoose,"{""19007"": 84.12, ""19051"": 15.88}",Appanoose|Davis,19007|19051,False,False,America/Chicago,"(40.67795, -92.69163)",3.1884903771182076,1184.0,37187_0_yes,40.64531519547166,-92.64861799242064,5.0

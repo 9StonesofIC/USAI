@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45805,40.72979,-84.16242,Lima,OH,Ohio,True,,23168.0,613.8,39003,Allen,"{""39003"": 100}",Allen,39003,False,False,America/New_York,"(40.72979, -84.16242)",3.9424717993678327,35384.0,37453_0_yes,40.78317065462132,-84.18903174856571,5.0
+45807,40.8072,-84.16699,Lima,OH,Ohio,True,,12115.0,62.0,39003,Allen,"{""39003"": 100}",Allen,39003,False,False,America/New_York,"(40.8072, -84.16699)",2.0213285863906263,35384.0,37453_0_yes,40.78317065462132,-84.18903174856571,5.0
+45809,40.8431,-84.18522,Gomer,OH,Ohio,True,,101.0,122.5,39003,Allen,"{""39003"": 100}",Allen,39003,False,False,America/New_York,"(40.8431, -84.18522)",4.145518255932483,35384.0,37453_0_yes,40.78317065462132,-84.18903174856571,5.0

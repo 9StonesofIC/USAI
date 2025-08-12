@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30442,32.81677,-81.97549,Millen,GA,Georgia,True,,8239.0,9.0,13165,Jenkins,"{""13165"": 88.67, ""13033"": 10.59, ""13251"": 0.74}",Jenkins|Burke|Screven,13165|13033|13251,False,False,America/New_York,"(32.81677, -81.97549)",3.30045041138565,8239.0,19427_0_yes,32.81137198020683,-82.03196318687777,5.0

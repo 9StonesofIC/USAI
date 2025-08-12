@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65633,36.89841,-93.5346,Crane,MO,Missouri,True,,3832.0,17.7,29209,Stone,"{""29209"": 81.13, ""29009"": 18.87}",Stone|Barry,29209|29009,False,False,America/Chicago,"(36.89841, -93.5346)",3.116407403935424,3832.0,28895_0_yes,36.87886474588112,-93.58542427390138,5.0

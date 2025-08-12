@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37183,35.5104,-86.30162,Wartrace,TN,Tennessee,True,,3270.0,15.3,47003,Bedford,"{""47003"": 79.52, ""47031"": 15.44, ""47127"": 5.04}",Bedford|Coffee|Moore,47003|47031|47127,False,False,America/Chicago,"(35.5104, -86.30162)",4.082580783027468,3270.0,25883_0_yes,35.56891833602397,-86.29156246693245,5.0

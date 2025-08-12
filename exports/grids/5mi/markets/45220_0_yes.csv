@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05832,44.59546,-71.91027,East Burke,VT,Vermont,True,,1079.0,16.6,50005,Caledonia,"{""50005"": 99.89, ""50009"": 0.11}",Caledonia|Essex,50005|50009,False,False,America/New_York,"(44.59546, -71.91027)",4.162426093306242,1079.0,45220_0_yes,44.53651641626979,-71.9277408627984,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79830,29.89491,-103.49925,Alpine,TX,Texas,True,,7956.0,2.6,48043,Brewster,"{""48043"": 100}",Brewster,48043,False,False,America/Chicago,"(29.89491, -103.49925)",8.942256986759814,8353.0,875_0_no,29.88366901975273,-103.35053590500218,20.0
+79842,30.0151,-103.02301,Marathon,TX,Texas,True,,397.0,0.2,48043,Brewster,"{""48043"": 100}",Brewster,48043,False,False,America/Chicago,"(30.0151, -103.02301)",21.60878524848214,8353.0,875_0_no,29.88366901975273,-103.35053590500218,20.0

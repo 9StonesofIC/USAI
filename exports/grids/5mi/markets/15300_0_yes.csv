@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39456,31.0282,-88.81819,McLain,MS,Mississippi,True,,681.0,2.3,28041,Greene,"{""28041"": 46.42, ""28111"": 29.69, ""28039"": 23.89}",Greene|Perry|George,28041|28111|28039,False,False,America/Chicago,"(31.0282, -88.81819)",5.8030893373196735,681.0,15300_0_yes,31.07553591517497,-88.73720585886431,5.0

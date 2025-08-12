@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35980,34.17719,-86.38335,Horton,AL,Alabama,True,,5925.0,41.6,1095,Marshall,"{""01095"": 52.18, ""01009"": 47.82}",Marshall|Blount,01095|01009,False,False,America/Chicago,"(34.17719, -86.38335)",5.199820742324866,5925.0,22525_0_yes,34.119369467285594,-86.44155755606944,5.0

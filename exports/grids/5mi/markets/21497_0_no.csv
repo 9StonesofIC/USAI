@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35546,33.60555,-87.54763,Berry,AL,Alabama,True,,3765.0,6.2,1125,Tuscaloosa,"{""01125"": 48.66, ""01057"": 43.34, ""01127"": 7.99}",Tuscaloosa|Fayette|Walker,01125|01057|01127,False,False,America/Chicago,"(33.60555, -87.54763)",4.764353649624237,3765.0,21497_0_no,33.61277916736849,-87.62996976798271,5.0

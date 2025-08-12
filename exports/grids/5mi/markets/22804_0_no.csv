@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28432,34.17018,-78.75795,Clarendon,NC,North Carolina,True,,1371.0,15.5,37047,Columbus,"{""37047"": 100}",Columbus,37047,False,False,America/New_York,"(34.17018, -78.75795)",3.807955051947292,1371.0,22804_0_no,34.18647438128552,-78.82159046820331,5.0

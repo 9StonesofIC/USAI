@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76424,32.80431,-98.89236,Breckenridge,TX,Texas,True,,8898.0,6.8,48429,Stephens,"{""48429"": 96.71, ""48503"": 3.29}",Stephens|Young,48429|48503,False,False,America/Chicago,"(32.80431, -98.89236)",0.9291034446168845,8898.0,4940_0_yes,32.805004865080846,-98.87638292022388,10.0

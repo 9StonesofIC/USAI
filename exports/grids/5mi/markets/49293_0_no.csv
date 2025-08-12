@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49925,46.55088,-89.37681,Ewen,MI,Michigan,True,,498.0,1.1,26131,Ontonagon,"{""26131"": 100}",Ontonagon,26131,False,False,America/Detroit,"(46.55088, -89.37681)",5.598630606164234,498.0,49293_0_no,46.50585950156528,-89.47473518542635,5.0

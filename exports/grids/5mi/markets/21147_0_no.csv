@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36268,33.49469,-85.94016,Munford,AL,Alabama,True,,5980.0,24.1,1121,Talladega,"{""01121"": 89.67, ""01027"": 10.33}",Talladega|Clay,01121|01027,False,False,America/Chicago,"(33.49469, -85.94016)",2.2802624061717505,5980.0,21147_0_no,33.46661513052275,-85.96095985653028,5.0

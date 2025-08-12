@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24066,37.5382,-79.67822,Buchanan,VA,Virginia,True,,5177.0,12.7,51023,Botetourt,"{""51023"": 98.36, ""51163"": 1.64}",Botetourt|Rockbridge,51023|51163,False,False,America/New_York,"(37.5382, -79.67822)",4.7243327290026205,5177.0,30428_0_no,37.52043493839759,-79.76147903760302,5.0

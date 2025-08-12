@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75639,32.28441,-94.16897,De Berry,TX,Texas,True,,2756.0,6.6,48365,Panola,"{""48365"": 100}",Panola,48365,False,False,America/Chicago,"(32.28441, -94.16897)",5.601748033525789,2756.0,18118_0_yes,32.23949394956138,-94.08915137538531,5.0

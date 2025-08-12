@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96068,41.10525,-121.20455,Nubieber,CA,California,True,,200.0,2.7,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(41.10525, -121.20455)",6.15352564733486,200.0,38548_0_no,41.176128988733765,-121.27615583364744,5.0

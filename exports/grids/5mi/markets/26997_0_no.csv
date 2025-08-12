@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86039,35.98813,-110.56688,Kykotsmovi Village,AZ,Arizona,True,,1296.0,2.0,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(35.98813, -110.56688)",5.321172418871817,1296.0,26997_0_no,35.94941403690906,-110.64913891384263,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85634,32.02817,-112.03296,Sells,AZ,Arizona,True,,6578.0,0.9,4019,Pima,"{""04019"": 98.43, ""04021"": 1.57}",Pima|Pinal,04019|04021,False,False,America/Phoenix,"(32.02817, -112.03296)",5.473335408052033,6578.0,4460_0_yes,31.952772359355915,-112.06160989386976,10.0

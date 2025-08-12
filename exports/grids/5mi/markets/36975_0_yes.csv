@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84049,40.5136,-111.51657,Midway,UT,Utah,True,,5883.0,30.4,49051,Wasatch,"{""49051"": 100}",Wasatch,49051,False,False,America/Denver,"(40.5136, -111.51657)",0.16532314998908693,5883.0,36975_0_yes,40.51596744365217,-111.51611347848876,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50138,41.30246,-93.10534,Knoxville,IA,Iowa,True,,11725.0,26.9,19125,Marion,"{""19125"": 100}",Marion,19125,False,False,America/Chicago,"(41.30246, -93.10534)",5.176774525190719,11725.0,38734_0_yes,41.36984708813088,-93.06172128637944,5.0

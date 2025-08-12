@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55767,46.45236,-92.76536,Moose Lake,MN,Minnesota,True,,4297.0,29.4,27017,Carlton,"{""27017"": 95.83, ""27115"": 4.17}",Carlton|Pine,27017|27115,False,False,America/Chicago,"(46.45236, -92.76536)",4.962620709307121,4297.0,49309_0_no,46.50893444351367,-92.82962204171022,5.0

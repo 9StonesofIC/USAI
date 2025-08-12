@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05902,45.00881,-71.49472,Beecher Falls,VT,Vermont,True,,174.0,51.5,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York,"(45.00881, -71.49472)",3.1364133100637437,950.0,46091_0_yes,44.97025996017488,-71.52861048340475,5.0
+05903,44.9379,-71.58286,Canaan,VT,Vermont,True,,776.0,4.8,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York,"(44.9379, -71.58286)",3.469171228647806,950.0,46091_0_yes,44.97025996017488,-71.52861048340475,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55775,47.30588,-93.1646,Pengilly,MN,Minnesota,True,,1593.0,9.9,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.30588, -93.1646)",4.477661862799981,1593.0,50735_0_yes,47.3049295893891,-93.06903906926144,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16347,41.64671,-79.06481,Sheffield,PA,Pennsylvania,True,,2007.0,7.5,42123,Warren,"{""42123"": 57.2, ""42053"": 42.8}",Warren|Forest,42123|42053,False,False,America/New_York,"(41.64671, -79.06481)",2.9116695780355397,2007.0,39275_0_yes,41.647688832053085,-79.00843042764552,5.0

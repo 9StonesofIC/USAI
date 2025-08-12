@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72404,35.77656,-90.78356,Jonesboro,AR,Arkansas,True,,29937.0,90.3,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago,"(35.77656, -90.78356)",2.8648856252371573,30227.0,26554_0_no,35.789665023197905,-90.73506796621668,5.0
+72467,35.84223,-90.6776,State University,AR,Arkansas,True,,290.0,436.5,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago,"(35.84223, -90.6776)",4.853641132987636,30227.0,26554_0_no,35.789665023197905,-90.73506796621668,5.0

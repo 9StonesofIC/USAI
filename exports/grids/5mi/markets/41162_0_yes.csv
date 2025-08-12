@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52038,42.58586,-91.55685,Dundee,IA,Iowa,True,,537.0,7.7,19055,Delaware,"{""19055"": 100}",Delaware,19055,False,False,America/Chicago,"(42.58586, -91.55685)",5.034490530907571,8500.0,41162_0_yes,42.52703638938415,-91.4984731788962,5.0
+52057,42.4916,-91.45333,Manchester,IA,Iowa,True,,7963.0,22.1,19055,Delaware,"{""19055"": 100}",Delaware,19055,False,False,America/Chicago,"(42.4916, -91.45333)",3.358798957700404,8500.0,41162_0_yes,42.52703638938415,-91.4984731788962,5.0

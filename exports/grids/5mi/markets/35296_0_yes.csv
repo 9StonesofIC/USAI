@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62670,39.74431,-89.89601,New Berlin,IL,Illinois,True,,2585.0,10.9,17167,Sangamon,"{""17167"": 92.09, ""17137"": 7.91}",Sangamon|Morgan,17167|17137,False,False,America/Chicago,"(39.74431, -89.89601)",2.5911371648013937,2585.0,35296_0_yes,39.77392489991614,-89.86608092921038,5.0

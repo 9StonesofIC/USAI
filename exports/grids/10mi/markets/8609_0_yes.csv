@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81624,39.24611,-107.77259,Collbran,CO,Colorado,True,,1470.0,1.0,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.24611, -107.77259)",5.761387812083275,1652.0,8609_0_yes,39.19513626115943,-107.85777083803389,10.0
+81646,39.10875,-107.99199,Molina,CO,Colorado,True,,182.0,1.0,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.10875, -107.99199)",9.345751691960473,1652.0,8609_0_yes,39.19513626115943,-107.85777083803389,10.0

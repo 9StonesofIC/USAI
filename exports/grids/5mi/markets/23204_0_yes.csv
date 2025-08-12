@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35622,34.34491,-86.89535,Falkville,AL,Alabama,True,,7138.0,28.6,1103,Morgan,"{""01103"": 84.61, ""01043"": 15.39}",Morgan|Cullman,01103|01043,False,False,America/Chicago,"(34.34491, -86.89535)",5.674884869425113,7138.0,23204_0_yes,34.40960832930556,-86.83404559098597,5.0

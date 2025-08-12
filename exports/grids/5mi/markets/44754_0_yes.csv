@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56115,44.21514,-95.90038,Balaton,MN,Minnesota,True,,1405.0,4.4,27083,Lyon,"{""27083"": 62.59, ""27101"": 37.41}",Lyon|Murray,27083|27101,False,False,America/Chicago,"(44.21514, -95.90038)",4.9987087409589455,2102.0,44754_0_yes,44.26830533520239,-95.96887053171082,5.0
+56169,44.33136,-96.00555,Russell,MN,Minnesota,True,,697.0,4.9,27083,Lyon,"{""27083"": 100}",Lyon,27083,False,False,America/Chicago,"(44.33136, -96.00555)",4.7191469902819705,2102.0,44754_0_yes,44.26830533520239,-95.96887053171082,5.0

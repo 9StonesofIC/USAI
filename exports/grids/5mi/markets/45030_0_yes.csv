@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55027,44.40868,-92.62058,Goodhue,MN,Minnesota,True,,2946.0,9.7,27049,Goodhue,"{""27049"": 99.19, ""27157"": 0.81}",Goodhue|Wabasha,27049|27157,False,False,America/Chicago,"(44.40868, -92.62058)",2.1687209280752024,2946.0,45030_0_yes,44.410147205680936,-92.6644710802254,5.0

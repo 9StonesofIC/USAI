@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99143,46.74627,-117.85869,Lacrosse,WA,Washington,True,,668.0,0.8,53075,Whitman,"{""53075"": 100}",Whitman,53075,False,False,America/Los_Angeles,"(46.74627, -117.85869)",0.9668046431031136,668.0,49736_0_yes,46.74894456271049,-117.83864554238284,5.0

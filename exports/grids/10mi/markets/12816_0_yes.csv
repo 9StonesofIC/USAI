@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98847,47.42236,-120.62152,Peshastin,WA,Washington,True,,2295.0,4.8,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.42236, -120.62152)",8.678557946494644,9925.0,12816_0_yes,47.32667211040762,-120.74167287967003,10.0
+98922,47.25056,-120.8821,Cle Elum,WA,Washington,True,,7630.0,7.1,53037,Kittitas,"{""53037"": 100}",Kittitas,53037,False,False,America/Los_Angeles,"(47.25056, -120.8821)",8.424322892884952,9925.0,12816_0_yes,47.32667211040762,-120.74167287967003,10.0

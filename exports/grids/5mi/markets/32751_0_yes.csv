@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62899,38.63032,-88.64367,Xenia,IL,Illinois,True,,1517.0,5.4,17025,Clay,"{""17025"": 59.17, ""17191"": 40.83}",Clay|Wayne,17025|17191,False,False,America/Chicago,"(38.63032, -88.64367)",3.0552440447006273,1517.0,32751_0_yes,38.613928112531525,-88.59110419455587,5.0

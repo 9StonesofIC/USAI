@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89319,39.27915,-114.98724,Ruth,NV,Nevada,True,,235.0,246.3,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles,"(39.27915, -114.98724)",5.68552508954894,235.0,8628_0_yes,39.20645735240274,-114.9374489107313,10.0

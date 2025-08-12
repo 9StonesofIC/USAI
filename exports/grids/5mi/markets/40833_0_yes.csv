@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49090,42.40853,-86.2168,South Haven,MI,Michigan,True,,14001.0,69.1,26159,Van Buren,"{""26159"": 59.08, ""26005"": 40.92}",Van Buren|Allegan,26159|26005,False,False,America/Detroit,"(42.40853, -86.2168)",4.721461109823943,14001.0,40833_0_yes,42.37780594067896,-86.29944724328266,5.0

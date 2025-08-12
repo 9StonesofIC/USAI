@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28659,36.16647,-81.07913,North Wilkesboro,NC,North Carolina,True,,21281.0,81.7,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.16647, -81.07913)",4.586991906583068,24565.0,27180_0_yes,36.14473876359492,-81.00143686480467,5.0
+28670,36.19508,-80.92282,Ronda,NC,North Carolina,True,,3284.0,33.3,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.19508, -80.92282)",5.59701636193006,24565.0,27180_0_yes,36.14473876359492,-81.00143686480467,5.0

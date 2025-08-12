@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31555,31.70275,-82.06647,Odum,GA,Georgia,True,,2428.0,6.5,13305,Wayne,"{""13305"": 83.18, ""13001"": 16.82}",Wayne|Appling,13305|13001,False,False,America/New_York,"(31.70275, -82.06647)",3.555194478004844,2428.0,16658_0_yes,31.6512978474286,-82.06584599532745,5.0

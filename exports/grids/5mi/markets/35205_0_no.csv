@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17340,39.75566,-77.11183,Littlestown,PA,Pennsylvania,True,,11024.0,108.1,42001,Adams,"{""42001"": 100}",Adams,42001,False,False,America/New_York,"(39.75566, -77.11183)",5.124924128723775,31797.0,35205_0_no,39.69119455393695,-77.06413065036598,5.0
+21158,39.6466,-77.03217,Westminster,MD,Maryland,True,,20773.0,109.4,24013,Carroll,"{""24013"": 100}",Carroll,24013,False,False,America/New_York,"(39.6466, -77.03217)",3.518959994809486,31797.0,35205_0_no,39.69119455393695,-77.06413065036598,5.0

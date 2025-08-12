@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24091,36.92131,-80.32264,Floyd,VA,Virginia,True,,7338.0,16.6,51063,Floyd,"{""51063"": 94.5, ""51067"": 3.9, ""51141"": 1.6}",Floyd|Franklin|Patrick,51063|51067|51141,False,False,America/New_York,"(36.92131, -80.32264)",2.4145592000731897,7338.0,29129_0_no,36.94125678042984,-80.2867431103927,5.0

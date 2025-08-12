@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66964,39.93465,-97.80004,Republic,KS,Kansas,True,,117.0,0.9,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago,"(39.93465, -97.80004)",4.6396762553280855,117.0,35653_0_yes,39.925293751231386,-97.8867551897593,5.0

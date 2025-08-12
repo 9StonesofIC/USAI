@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67578,37.96922,-98.59105,Stafford,KS,Kansas,True,,1106.0,2.1,20185,Stafford,"{""20185"": 100}",Stafford,20185,False,False,America/Chicago,"(37.96922, -98.59105)",3.6505712141233864,1106.0,7943_0_yes,38.021587024102864,-98.59995639981425,10.0

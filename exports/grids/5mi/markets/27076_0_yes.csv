@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93928,36.06484,-121.38102,Jolon,CA,California,True,,1019.0,10.2,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.06484, -121.38102)",3.5974205188332027,1019.0,27076_0_yes,36.029902080065256,-121.42876498890035,5.0

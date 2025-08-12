@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58530,47.13357,-101.15257,Center,ND,North Dakota,True,,1153.0,1.3,38065,Oliver,"{""38065"": 99.64, ""38057"": 0.36}",Oliver|Mercer,38065|38057,False,False,America/North_Dakota/Center,"(47.13357, -101.15257)",4.005734937404534,1153.0,50495_0_yes,47.16779347608278,-101.22138128682364,5.0

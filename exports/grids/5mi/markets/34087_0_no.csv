@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80832,39.06344,-104.02769,Ramah,CO,Colorado,True,,775.0,1.0,8039,Elbert,"{""08039"": 80.88, ""08041"": 14.45, ""08073"": 4.67}",Elbert|El Paso|Lincoln,08039|08041|08073,False,False,America/Denver,"(39.06344, -104.02769)",5.369783303150388,775.0,34087_0_no,39.133402382306016,-104.07129779717604,5.0

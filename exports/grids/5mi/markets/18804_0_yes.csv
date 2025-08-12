@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71073,32.5241,-93.30547,Sibley,LA,Louisiana,True,,2073.0,26.8,22119,Webster,"{""22119"": 100}",Webster,22119,False,False,America/Chicago,"(32.5241, -93.30547)",0.3429299269518595,2073.0,18804_0_yes,32.52904271126219,-93.30493464341124,5.0

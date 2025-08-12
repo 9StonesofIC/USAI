@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62471,38.95859,-89.13257,Vandalia,IL,Illinois,True,,10330.0,31.1,17051,Fayette,"{""17051"": 100}",Fayette,17051,False,False,America/Chicago,"(38.95859, -89.13257)",3.6120331639491776,10330.0,33689_0_no,38.976550966055726,-89.0694251458974,5.0

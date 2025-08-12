@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88125,33.67137,-103.24997,Milnesand,NM,New Mexico,True,,77.0,0.1,35041,Roosevelt,"{""35041"": 100}",Roosevelt,35041,False,False,America/Denver,"(33.67137, -103.24997)",3.3576467526605454,77.0,21587_0_no,33.62372143229777,-103.23850059522913,5.0

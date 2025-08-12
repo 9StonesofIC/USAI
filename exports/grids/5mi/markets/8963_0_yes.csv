@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78102,28.4094,-97.71733,Beeville,TX,Texas,True,,28253.0,20.7,48025,Bee,"{""48025"": 94.24, ""48297"": 5.76}",Bee|Live Oak,48025|48297,False,False,America/Chicago,"(28.4094, -97.71733)",4.151236295257761,28429.0,8963_0_yes,28.469469075950293,-97.71871949776366,5.0
+78104,28.52361,-97.76197,Beeville,TX,Texas,True,,176.0,19.7,48025,Bee,"{""48025"": 100}",Bee,48025,False,False,America/Chicago,"(28.52361, -97.76197)",4.570643079137534,28429.0,8963_0_yes,28.469469075950293,-97.71871949776366,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04216,44.70046,-70.8142,Andover,ME,Maine,True,,435.0,1.2,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.70046, -70.8142)",7.273419156989541,962.0,11545_0_no,44.776690614170285,-70.71199557295083,10.0
+04275,44.68966,-70.63729,Roxbury,ME,Maine,True,,527.0,2.1,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.68966, -70.63729)",7.043048634527618,962.0,11545_0_no,44.776690614170285,-70.71199557295083,10.0

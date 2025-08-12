@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03809,43.45321,-71.21184,Alton,NH,New Hampshire,True,,3830.0,36.9,33001,Belknap,"{""33001"": 100}",Belknap,33001,False,False,America/New_York,"(43.45321, -71.21184)",0.3100400957256365,6631.0,43128_0_no,43.45056331340763,-71.21683152691193,5.0
+03855,43.46343,-71.14172,New Durham,NH,New Hampshire,True,,2801.0,26.2,33017,Strafford,"{""33017"": 100}",Strafford,33017,False,False,America/New_York,"(43.46343, -71.14172)",3.8706399223065655,6631.0,43128_0_no,43.45056331340763,-71.21683152691193,5.0

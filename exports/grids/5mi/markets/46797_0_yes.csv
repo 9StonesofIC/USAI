@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57219,45.2877,-97.801,Bristol,SD,South Dakota,True,,482.0,1.1,46037,Day,"{""46037"": 100}",Day,46037,False,False,America/Chicago,"(45.2877, -97.801)",4.299829487448571,482.0,46797_0_yes,45.283148969618665,-97.71278560772194,5.0

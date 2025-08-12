@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83414,43.88847,-110.94924,Alta,WY,Wyoming,True,,367.0,0.4,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver,"(43.88847, -110.94924)",9.847146442392507,367.0,11205_0_no,43.97950899998027,-110.79697441346131,10.0

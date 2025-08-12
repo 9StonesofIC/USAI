@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34251,27.37819,-82.17152,Myakka City,FL,Florida,True,,7586.0,9.8,12081,Manatee,"{""12081"": 99.18, ""12115"": 0.82}",Manatee|Sarasota,12081|12115,False,False,America/New_York,"(27.37819, -82.17152)",2.5613813490055986,7586.0,6334_0_no,27.37181195423288,-82.13039631814493,5.0

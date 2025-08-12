@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54114,45.25254,-88.12197,Crivitz,WI,Wisconsin,True,,5302.0,8.8,55075,Marinette,"{""55075"": 91.78, ""55083"": 8.22}",Marinette|Oconto,55075|55083,False,False,America/Chicago,"(45.25254, -88.12197)",5.297580980418787,5302.0,46723_0_no,45.202151512676856,-88.03991606579439,5.0

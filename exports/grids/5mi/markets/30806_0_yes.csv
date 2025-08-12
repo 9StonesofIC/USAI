@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40160,37.8144,-85.93971,Radcliff,KY,Kentucky,True,,23659.0,533.2,21093,Hardin,"{""21093"": 100}",Hardin,21093,False,False,America/New_York,"(37.8144, -85.93971)",5.116778027082068,74510.0,30806_0_yes,37.74249000255015,-85.91731784929651,5.0
+42701,37.70502,-85.83881,Elizabethtown,KY,Kentucky,True,,50851.0,121.3,21093,Hardin,"{""21093"": 100}",Hardin,21093,False,False,America/New_York,"(37.70502, -85.83881)",5.011098067987278,74510.0,30806_0_yes,37.74249000255015,-85.91731784929651,5.0

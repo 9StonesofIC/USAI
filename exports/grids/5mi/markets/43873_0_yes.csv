@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56144,43.84078,-96.38702,Jasper,MN,Minnesota,True,,1071.0,3.4,27133,Rock,"{""27133"": 47.95, ""27117"": 38.93, ""46101"": 13.12}",Rock|Pipestone|Moody,27133|27117|46101,False,False,America/Chicago,"(43.84078, -96.38702)",0.5520133329327596,1071.0,43873_0_yes,43.8343509947464,-96.3804441407527,5.0

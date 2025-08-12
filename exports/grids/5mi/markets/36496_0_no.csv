@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45365,40.2828,-84.15582,Sidney,OH,Ohio,True,,30024.0,74.4,39149,Shelby,"{""39149"": 99.38, ""39021"": 0.62}",Shelby|Champaign,39149|39021,False,False,America/New_York,"(40.2828, -84.15582)",3.760823444448947,30024.0,36496_0_no,40.27634647377308,-84.22666433725645,5.0

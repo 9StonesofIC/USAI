@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97841,45.46823,-117.94035,Imbler,OR,Oregon,True,,540.0,13.4,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles,"(45.46823, -117.94035)",3.500901139193358,540.0,47183_0_yes,45.44616259085581,-118.00537499955792,5.0

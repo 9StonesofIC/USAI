@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73532,34.62768,-99.59637,Duke,OK,Oklahoma,True,,511.0,1.2,40065,Jackson,"{""40065"": 87.74, ""40057"": 12.26}",Jackson|Harmon,40065|40057,False,False,America/Chicago,"(34.62768, -99.59637)",5.271405256780503,650.0,6125_0_no,34.69051452864949,-99.54376128867834,10.0
+73556,34.72617,-99.38673,Martha,OK,Oklahoma,True,,139.0,212.9,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago,"(34.72617, -99.38673)",9.253195580868557,650.0,6125_0_no,34.69051452864949,-99.54376128867834,10.0

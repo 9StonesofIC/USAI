@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93271,36.43661,-118.86903,Three Rivers,CA,California,True,,2699.0,6.8,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(36.43661, -118.86903)",4.147866546857055,2699.0,28032_0_no,36.39054550863207,-118.82119341440244,5.0

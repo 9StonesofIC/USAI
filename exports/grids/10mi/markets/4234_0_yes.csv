@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75961,31.5576,-94.51098,Nacogdoches,TX,Texas,True,,15447.0,21.3,48347,Nacogdoches,"{""48347"": 100}",Nacogdoches,48347,False,False,America/Chicago,"(31.5576, -94.51098)",6.503845771600237,15447.0,4234_0_yes,31.639233762587818,-94.4559538943534,10.0

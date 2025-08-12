@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73661,35.17033,-99.0176,Rocky,OK,Oklahoma,True,,535.0,2.7,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago,"(35.17033, -99.0176)",2.152028744781674,535.0,24954_0_yes,35.14334216057756,-99.03661831305632,5.0

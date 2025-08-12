@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81248,38.3991,-106.47763,Sargents,CO,Colorado,True,,161.0,0.2,8109,Saguache,"{""08109"": 65.65, ""08051"": 34.35}",Saguache|Gunnison,08109|08051,False,False,America/Denver,"(38.3991, -106.47763)",5.714879912269467,161.0,32207_0_yes,38.338132130159096,-106.4063383677586,5.0

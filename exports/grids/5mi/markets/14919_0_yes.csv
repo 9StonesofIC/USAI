@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31625,30.9918,-83.52556,Barney,GA,Georgia,True,,1335.0,8.9,13027,Brooks,"{""13027"": 100}",Brooks,13027,False,False,America/New_York,"(30.9918, -83.52556)",5.2532876256133365,2908.0,14919_0_yes,30.9271162154087,-83.57215917269457,5.0
+31638,30.90627,-83.51589,Morven,GA,Georgia,True,,1573.0,25.7,13027,Brooks,"{""13027"": 100}",Brooks,13027,False,False,America/New_York,"(30.90627, -83.51589)",3.633132211977123,2908.0,14919_0_yes,30.9271162154087,-83.57215917269457,5.0

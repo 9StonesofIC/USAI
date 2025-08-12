@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30814,33.43604,-82.31879,Harlem,GA,Georgia,True,,9342.0,67.4,13073,Columbia,"{""13073"": 83.95, ""13189"": 16.05}",Columbia|McDuffie,13073|13189,False,False,America/New_York,"(33.43604, -82.31879)",1.9740127522943915,9342.0,21126_0_no,33.46407660394247,-82.3253769360164,5.0

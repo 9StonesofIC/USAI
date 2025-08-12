@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89318,39.43783,-114.8188,McGill,NV,Nevada,True,,858.0,9.1,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles,"(39.43783, -114.8188)",19.40245306869136,1093.0,2235_0_no,39.19122118703559,-114.99240835408098,20.0
+89319,39.27915,-114.98724,Ruth,NV,Nevada,True,,235.0,246.3,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles,"(39.27915, -114.98724)",6.081595358784377,1093.0,2235_0_no,39.19122118703559,-114.99240835408098,20.0

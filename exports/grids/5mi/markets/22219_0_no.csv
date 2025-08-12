@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74736,33.92436,-94.98772,Garvin,OK,Oklahoma,True,,977.0,5.3,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago,"(33.92436, -94.98772)",1.1354037993916413,977.0,22219_0_no,33.907962422628366,-94.98642271873987,5.0

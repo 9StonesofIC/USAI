@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86503,36.20258,-109.68224,Chinle,AZ,Arizona,True,,10578.0,4.1,4001,Apache,"{""04001"": 95.28, ""04017"": 4.72}",Apache|Navajo,04001|04017,False,False,America/Denver,"(36.20258, -109.68224)",2.715616016919583,10578.0,27652_0_no,36.23870553728037,-109.70143150338806,5.0

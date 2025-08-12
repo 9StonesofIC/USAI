@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59527,48.04527,-108.74677,Hays,MT,Montana,True,,1041.0,1.9,30005,Blaine,"{""30005"": 100}",Blaine,30005,False,False,America/Denver,"(48.04527, -108.74677)",2.920211546206868,1041.0,52187_0_yes,48.04310114184148,-108.8099044536041,5.0

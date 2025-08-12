@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82070,41.21404,-105.85037,Laramie,WY,Wyoming,True,,20489.0,7.8,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver,"(41.21404, -105.85037)",12.86361914968238,20495.0,9687_0_no,41.0748021376842,-105.68624986164372,10.0
+82084,41.04764,-105.52494,Tie Siding,WY,Wyoming,True,,6.0,0.0,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver,"(41.04764, -105.52494)",8.610763825900179,20495.0,9687_0_no,41.0748021376842,-105.68624986164372,10.0

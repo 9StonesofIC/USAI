@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43527,41.25121,-84.1593,Holgate,OH,Ohio,True,,2249.0,17.2,39069,Henry,"{""39069"": 91.4, ""39039"": 8.6}",Henry|Defiance,39069|39039,False,False,America/New_York,"(41.25121, -84.1593)",2.8752239221571694,2249.0,38662_0_no,41.29006445695424,-84.179124784736,5.0

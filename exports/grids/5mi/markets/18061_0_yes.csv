@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31806,32.26147,-84.30043,Ellaville,GA,Georgia,True,,5135.0,12.4,13249,Schley,"{""13249"": 92.86, ""13193"": 7.14}",Schley|Macon,13249|13193,False,False,America/New_York,"(32.26147, -84.30043)",3.8125340183377956,5135.0,18061_0_yes,32.23291881794739,-84.3562601998066,5.0

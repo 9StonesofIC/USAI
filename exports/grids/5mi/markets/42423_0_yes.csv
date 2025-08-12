@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57763,43.12,-103.24944,Oelrichs,SD,South Dakota,True,,323.0,0.3,46047,Fall River,"{""46047"": 100}",Fall River,46047,False,False,America/Denver,"(43.12, -103.24944)",0.32746428209667555,323.0,42423_0_yes,43.11634930770344,-103.24529944894336,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93512,37.87379,-118.53455,Benton,CA,California,True,,244.0,0.9,6051,Mono,"{""06051"": 100}",Mono,06051,False,False,America/Los_Angeles,"(37.87379, -118.53455)",9.754414185803618,244.0,7836_0_yes,37.76257930219237,-118.4244602175671,10.0

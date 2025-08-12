@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41056,38.59913,-83.77576,Maysville,KY,Kentucky,True,,14087.0,39.0,21161,Mason,"{""21161"": 98.23, ""21135"": 1.27, ""21069"": 0.5}",Mason|Lewis|Fleming,21161|21135|21069,False,False,America/New_York,"(38.59913, -83.77576)",4.489315254514936,14087.0,32704_0_no,38.53770991400677,-83.74865050542678,5.0

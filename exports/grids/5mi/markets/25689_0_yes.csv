@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86035,35.39631,-111.02806,Leupp,AZ,Arizona,True,,1980.0,1.6,4005,Coconino,"{""04005"": 100}",Coconino,04005,False,False,America/Denver,"(35.39631, -111.02806)",3.635269985241188,1980.0,25689_0_yes,35.4420975261019,-110.99625675393752,5.0

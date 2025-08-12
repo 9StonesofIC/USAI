@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04263,44.29476,-70.13061,Leeds,ME,Maine,True,,2332.0,22.5,23001,Androscoggin,"{""23001"": 100}",Androscoggin,23001,False,False,America/New_York,"(44.29476, -70.13061)",5.106880853779349,8153.0,44892_0_no,44.318003794834326,-70.22865541568885,5.0
+04282,44.26709,-70.24291,Turner,ME,Maine,True,,5821.0,37.9,23001,Androscoggin,"{""23001"": 100}",Androscoggin,23001,False,False,America/New_York,"(44.26709, -70.24291)",3.5877516858083505,8153.0,44892_0_no,44.318003794834326,-70.22865541568885,5.0

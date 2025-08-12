@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80426,39.87393,-106.98452,Burns,CO,Colorado,True,,48.0,0.2,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.87393, -106.98452)",7.051380348563337,8325.0,8923_0_yes,39.7731647742163,-106.96345477557878,10.0
+81637,39.77162,-107.10065,Gypsum,CO,Colorado,True,,8277.0,4.1,8045,Garfield,"{""08045"": 53.98, ""08037"": 46.02}",Garfield|Eagle,08045|08037,False,False,America/Denver,"(39.77162, -107.10065)",7.286484046998475,8325.0,8923_0_yes,39.7731647742163,-106.96345477557878,10.0

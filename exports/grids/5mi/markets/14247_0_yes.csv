@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39565,30.5759,-88.75207,Vancleave,MS,Mississippi,True,,20164.0,28.4,28059,Jackson,"{""28059"": 96.24, ""28047"": 3.76}",Jackson|Harrison,28059|28047,False,False,America/Chicago,"(30.5759, -88.75207)",4.598078999122265,20164.0,14247_0_yes,30.64035314266326,-88.73281893886107,5.0

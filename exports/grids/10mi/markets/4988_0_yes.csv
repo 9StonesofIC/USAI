@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92249,32.72606,-115.48218,Heber,CA,California,True,,8459.0,164.4,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.72606, -115.48218)",9.410307647272676,16714.0,4988_0_yes,32.82765018410703,-115.37428802593368,10.0
+92250,32.79188,-115.23454,Holtville,CA,California,True,,8255.0,9.0,6025,Imperial,"{""06025"": 100}",Imperial,06025,False,False,America/Los_Angeles,"(32.79188, -115.23454)",8.483335653338193,16714.0,4988_0_yes,32.82765018410703,-115.37428802593368,10.0

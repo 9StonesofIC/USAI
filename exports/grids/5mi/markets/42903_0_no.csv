@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49343,43.29579,-85.53115,Sand Lake,MI,Michigan,True,,5637.0,39.4,26081,Kent,"{""26081"": 52.9, ""26123"": 36.93, ""26117"": 10.17}",Kent|Newaygo|Montcalm,26081|26123|26117,False,False,America/Detroit,"(43.29579, -85.53115)",5.083701849823415,5637.0,42903_0_no,43.31832876520072,-85.62740011454888,5.0

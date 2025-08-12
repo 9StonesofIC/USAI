@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39561,30.70633,-89.16049,McHenry,MS,Mississippi,True,,1486.0,18.3,28131,Stone,"{""28131"": 100}",Stone,28131,False,False,America/Chicago,"(30.70633, -89.16049)",6.400263985658964,1486.0,14250_0_yes,30.64067831279996,-89.23646993651124,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72031,35.60717,-92.52904,Clinton,AR,Arkansas,True,,7089.0,9.3,5141,Van Buren,"{""05141"": 90.63, ""05137"": 4.81, ""05029"": 4.56}",Van Buren|Stone|Conway,05141|05137|05029,False,False,America/Chicago,"(35.60717, -92.52904)",2.6821485196741155,7089.0,25918_0_yes,35.573493721069745,-92.50529556733755,5.0

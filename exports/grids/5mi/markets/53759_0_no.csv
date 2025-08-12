@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58721,48.82069,-102.25667,Bowbells,ND,North Dakota,True,,426.0,0.8,38013,Burke,"{""38013"": 94.69, ""38101"": 5.31}",Burke|Ward,38013|38101,False,False,America/Chicago,"(48.82069, -102.25667)",3.7524292309444207,426.0,53759_0_no,48.83280970650832,-102.337084485215,5.0

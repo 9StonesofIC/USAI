@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54241,44.21758,-87.59723,Two Rivers,WI,Wisconsin,True,,13893.0,79.6,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago,"(44.21758, -87.59723)",5.505221941881441,13893.0,44712_0_yes,44.260837716826885,-87.50383264569673,5.0

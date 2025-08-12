@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71417,31.51611,-92.65361,Colfax,LA,Louisiana,True,,5406.0,14.8,22043,Grant,"{""22043"": 100}",Grant,22043,False,False,America/Chicago,"(31.51611, -92.65361)",5.5707761283058845,5406.0,16709_0_no,31.585871594663853,-92.7010446712728,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25244,38.77068,-81.54237,Gay,WV,West Virginia,True,,610.0,7.4,54035,Jackson,"{""54035"": 67.12, ""54087"": 32.88}",Jackson|Roane,54035|54087,False,False,America/New_York,"(38.77068, -81.54237)",3.468243910567677,610.0,33032_0_yes,38.75318053783421,-81.48203388279663,5.0

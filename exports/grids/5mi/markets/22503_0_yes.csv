@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29628,34.09253,-82.55821,Calhoun Falls,SC,South Carolina,True,,2480.0,13.5,45001,Abbeville,"{""45001"": 77.88, ""45065"": 22.12}",Abbeville|McCormick,45001|45065,False,False,America/New_York,"(34.09253, -82.55821)",3.0969420846290445,2480.0,22503_0_yes,34.11664408776945,-82.60384103510978,5.0

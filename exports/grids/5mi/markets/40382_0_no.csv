@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97633,42.03014,-121.56328,Merrill,OR,Oregon,True,,1263.0,17.1,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.03014, -121.56328)",2.896904135122746,1263.0,40382_0_no,42.045765020447085,-121.61566591035756,5.0

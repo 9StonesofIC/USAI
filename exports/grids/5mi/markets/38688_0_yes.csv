@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43545,41.39163,-84.12719,Napoleon,OH,Ohio,True,,13894.0,39.7,39069,Henry,"{""39069"": 99.06, ""39039"": 0.94}",Henry|Defiance,39069|39039,False,False,America/New_York,"(41.39163, -84.12719)",4.915781677123748,13894.0,38688_0_yes,41.36245276670368,-84.21366517953481,5.0

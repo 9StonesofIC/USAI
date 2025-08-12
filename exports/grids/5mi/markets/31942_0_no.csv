@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95247,38.14264,-120.44359,Murphys,CA,California,True,,3853.0,31.6,6009,Calaveras,"{""06009"": 100}",Calaveras,06009,False,False,America/Los_Angeles,"(38.14264, -120.44359)",3.9418727337249595,4349.0,31942_0_no,38.13178693727749,-120.5148005575022,5.0
+95251,38.08024,-120.45769,Vallecito,CA,California,True,,496.0,15.7,6009,Calaveras,"{""06009"": 100}",Calaveras,06009,False,False,America/Los_Angeles,"(38.08024, -120.45769)",4.724981621252332,4349.0,31942_0_no,38.13178693727749,-120.5148005575022,5.0

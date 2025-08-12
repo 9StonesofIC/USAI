@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72677,36.26442,-92.70074,Summit,AR,Arkansas,True,,467.0,32.9,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago,"(36.26442, -92.70074)",3.392093539082925,8204.0,27576_0_yes,36.29845705451594,-92.7446289939898,5.0
+72687,36.25628,-92.68679,Yellville,AR,Arkansas,True,,7737.0,10.9,5089,Marion,"{""05089"": 99.68, ""05009"": 0.32}",Marion|Boone,05089|05009,False,False,America/Chicago,"(36.25628, -92.68679)",4.344123060116099,8204.0,27576_0_yes,36.29845705451594,-92.7446289939898,5.0

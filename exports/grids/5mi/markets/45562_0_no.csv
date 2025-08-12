@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54205,44.60444,-87.62912,Casco,WI,Wisconsin,True,,2130.0,18.6,55061,Kewaunee,"{""55061"": 97.81, ""55029"": 2.19}",Kewaunee|Door,55061|55029,False,False,America/Chicago,"(44.60444, -87.62912)",2.0118014528151993,2130.0,45562_0_no,44.622827185027695,-87.59740453229675,5.0

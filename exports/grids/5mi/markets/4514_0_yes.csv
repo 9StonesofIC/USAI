@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33935,26.75692,-81.41966,Labelle,FL,Florida,True,,23872.0,25.4,12051,Hendry,"{""12051"": 58.29, ""12043"": 41.71}",Hendry|Glades,12051|12043,False,False,America/New_York,"(26.75692, -81.41966)",4.924952809801868,23872.0,4514_0_yes,26.71838237779537,-81.48680280928602,5.0

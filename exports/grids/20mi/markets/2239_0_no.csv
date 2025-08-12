@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89406,39.46614,-118.27364,Fallon,NV,Nevada,True,,24475.0,4.7,32001,Churchill,"{""32001"": 98.65, ""32019"": 1.35}",Churchill|Lyon,32001|32019,False,False,America/Los_Angeles,"(39.46614, -118.27364)",24.375725275028294,24475.0,2239_0_no,39.20075323583622,-117.9731096146077,20.0

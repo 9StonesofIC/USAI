@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68642,41.68717,-97.51232,Humphrey,NE,Nebraska,True,,2092.0,6.3,31141,Platte,"{""31141"": 83.46, ""31119"": 16.54}",Platte|Madison,31141|31119,False,False,America/Chicago,"(41.68717, -97.51232)",2.8082877805789552,2092.0,39371_0_yes,41.663277229096,-97.55634126173868,5.0

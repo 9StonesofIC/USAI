@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48618,43.73602,-84.5584,Coleman,MI,Michigan,True,,5167.0,19.5,26111,Midland,"{""26111"": 76.61, ""26073"": 21.26, ""26051"": 2.13}",Midland|Isabella|Gladwin,26111|26073|26051,False,False,America/Detroit,"(43.73602, -84.5584)",1.2724723994795495,5167.0,43787_0_no,43.75166355464105,-84.54494731221409,5.0

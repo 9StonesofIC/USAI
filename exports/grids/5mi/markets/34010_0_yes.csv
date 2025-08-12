@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47203,39.23189,-85.83281,Columbus,IN,Indiana,True,,26033.0,130.4,18005,Bartholomew,"{""18005"": 100}",Bartholomew,18005,False,False,America/Indiana/Indianapolis,"(39.23189, -85.83281)",3.5054043560683446,26033.0,34010_0_yes,39.19126439745912,-85.872031642959,5.0

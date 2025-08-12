@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49915,46.06464,-88.62708,Caspian,MI,Michigan,True,,324.0,103.9,26071,Iron,"{""26071"": 100}",Iron,26071,False,False,America/Menominee,"(46.06464, -88.62708)",4.572814546484251,808.0,48184_0_yes,45.99857941474024,-88.6328770159489,5.0
+49927,46.04475,-88.57108,Gaastra,MI,Michigan,True,,484.0,11.3,26071,Iron,"{""26071"": 100}",Iron,26071,False,False,America/Menominee,"(46.04475, -88.57108)",4.355120260208199,808.0,48184_0_yes,45.99857941474024,-88.6328770159489,5.0

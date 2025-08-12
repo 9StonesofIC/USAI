@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63961,36.56848,-90.2749,Qulin,MO,Missouri,True,,1862.0,8.0,29023,Butler,"{""29023"": 100}",Butler,29023,False,False,America/Chicago,"(36.56848, -90.2749)",1.4012902577925428,1862.0,28221_0_yes,36.58649408271569,-90.28650260699132,5.0

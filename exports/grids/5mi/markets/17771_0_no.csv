@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75109,32.04246,-96.35622,Corsicana,TX,Texas,True,,4150.0,13.4,48349,Navarro,"{""48349"": 100}",Navarro,48349,False,False,America/Chicago,"(32.04246, -96.35622)",3.688169265394629,4150.0,17771_0_no,32.0234386693482,-96.29738685288712,5.0

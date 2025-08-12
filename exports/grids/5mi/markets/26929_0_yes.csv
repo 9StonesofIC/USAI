@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74441,35.97458,-95.14613,Hulbert,OK,Oklahoma,True,,5754.0,14.9,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago,"(35.97458, -95.14613)",3.250368273732208,5764.0,26929_0_yes,36.01036739699907,-95.18386829462698,5.0
+74477,36.00394,-95.26644,Wagoner,OK,Oklahoma,True,,10.0,105.4,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago,"(36.00394, -95.26644)",4.636470662472884,5764.0,26929_0_yes,36.01036739699907,-95.18386829462698,5.0

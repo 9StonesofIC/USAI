@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58564,46.26252,-101.35,Raleigh,ND,North Dakota,True,,69.0,0.3,38037,Grant,"{""38037"": 100}",Grant,38037,False,False,America/Denver,"(46.26252, -101.35)",2.4601578976909035,69.0,48786_0_no,46.22728339120944,-101.34260053220048,5.0

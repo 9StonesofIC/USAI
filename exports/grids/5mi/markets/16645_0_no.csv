@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31546,31.52521,-81.8113,Jesup,GA,Georgia,True,,8555.0,21.9,13305,Wayne,"{""13305"": 100}",Wayne,13305,False,False,America/New_York,"(31.52521, -81.8113)",4.3372088222933805,8555.0,16645_0_no,31.578673426105336,-81.84990242343602,5.0

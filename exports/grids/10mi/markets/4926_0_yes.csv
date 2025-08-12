@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71061,32.75342,-93.97742,Oil City,LA,Louisiana,True,,1540.0,29.3,22017,Caddo,"{""22017"": 100}",Caddo,22017,False,False,America/Chicago,"(32.75342, -93.97742)",5.97602331405896,6102.0,4926_0_yes,32.79840366005773,-94.06528181868332,10.0
+71082,32.84389,-93.97763,Vivian,LA,Louisiana,True,,4562.0,22.4,22017,Caddo,"{""22017"": 100}",Caddo,22017,False,False,America/Chicago,"(32.84389, -93.97763)",5.9815717386591025,6102.0,4926_0_yes,32.79840366005773,-94.06528181868332,10.0

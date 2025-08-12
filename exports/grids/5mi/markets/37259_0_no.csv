@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84036,40.66022,-111.1093,Kamas,UT,Utah,True,,7754.0,9.0,49043,Summit,"{""49043"": 71.81, ""49051"": 28.19}",Summit|Wasatch,49043|49051,False,False,America/Denver,"(40.66022, -111.1093)",6.118385969742533,7754.0,37259_0_no,40.58806837174316,-111.04165976329791,5.0

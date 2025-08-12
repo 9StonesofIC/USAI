@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85143,33.15602,-111.51974,San Tan Valley,AZ,Arizona,True,,41329.0,510.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(33.15602, -111.51974)",2.892807527473617,41329.0,20285_0_yes,33.1217826098803,-111.54851951202454,5.0

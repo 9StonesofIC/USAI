@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88203,33.22169,-104.43904,Roswell,NM,New Mexico,True,,30234.0,10.7,35005,Chaves,"{""35005"": 100}",Chaves,35005,False,False,America/Denver,"(33.22169, -104.43904)",14.215279246252155,34906.0,1398_0_no,33.365021647005285,-104.61561924045576,20.0
+88230,33.21396,-104.39764,Dexter,NM,New Mexico,True,,4672.0,6.3,35005,Chaves,"{""35005"": 100}",Chaves,35005,False,False,America/Denver,"(33.21396, -104.39764)",16.35344580705587,34906.0,1398_0_no,33.365021647005285,-104.61561924045576,20.0

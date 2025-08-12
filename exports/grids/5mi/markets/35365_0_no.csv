@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81637,39.77162,-107.10065,Gypsum,CO,Colorado,True,,8277.0,4.1,8045,Garfield,"{""08045"": 53.98, ""08037"": 46.02}",Garfield|Eagle,08045|08037,False,False,America/Denver,"(39.77162, -107.10065)",3.9347859406441636,8277.0,35365_0_no,39.71545543281186,-107.08840112218292,5.0

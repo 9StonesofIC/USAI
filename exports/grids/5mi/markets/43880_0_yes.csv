@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57340,43.79392,-97.85036,Fulton,SD,South Dakota,True,,219.0,1.1,46061,Hanson,"{""46061"": 83.96, ""46097"": 16.04}",Hanson|Miner,46061|46097,False,False,America/Chicago,"(43.79392, -97.85036)",4.49445524454177,219.0,43880_0_yes,43.8355771859634,-97.78112261390498,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59856,47.38237,-114.73627,Paradise,MT,Montana,True,,526.0,10.5,30089,Sanders,"{""30089"": 100}",Sanders,30089,False,False,America/Denver,"(47.38237, -114.73627)",4.458863856996496,526.0,50837_0_yes,47.32509030484491,-114.78014840961328,5.0

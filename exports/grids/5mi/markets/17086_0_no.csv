@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76637,31.76631,-97.81817,Cranfills Gap,TX,Texas,True,,461.0,5.1,48035,Bosque,"{""48035"": 56.83, ""48193"": 43.17}",Bosque|Hamilton,48035|48193,False,False,America/Chicago,"(31.76631, -97.81817)",4.804124808957038,461.0,17086_0_no,31.73428590338457,-97.74559151168724,5.0

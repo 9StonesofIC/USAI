@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67024,37.11397,-96.49164,Cedar Vale,KS,Kansas,True,,976.0,1.7,20019,Chautauqua,"{""20019"": 62.66, ""20035"": 37.34}",Chautauqua|Cowley,20019|20035,False,False,America/Chicago,"(37.11397, -96.49164)",1.073040933193313,976.0,29545_0_no,37.098526854509245,-96.49370004983368,5.0

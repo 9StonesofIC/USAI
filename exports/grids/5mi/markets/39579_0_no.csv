@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43504,41.69736,-83.8369,Berkey,OH,Ohio,True,,1077.0,27.5,39095,Lucas,"{""39095"": 97.12, ""39051"": 2.88}",Lucas|Fulton,39095|39051,False,False,America/New_York,"(41.69736, -83.8369)",4.005404068506712,2392.0,39579_0_no,41.72425008085733,-83.90569590161226,5.0
+43540,41.69545,-83.943,Metamora,OH,Ohio,True,,1315.0,28.1,39051,Fulton,"{""39051"": 100}",Fulton,39051,False,False,America/New_York,"(41.69545, -83.943)",2.76803261832625,2392.0,39579_0_no,41.72425008085733,-83.90569590161226,5.0

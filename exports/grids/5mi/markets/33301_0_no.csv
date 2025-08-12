@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21601,38.79275,-76.08242,Easton,MD,Maryland,True,,23338.0,84.2,24041,Talbot,"{""24041"": 100}",Talbot,24041,False,False,America/New_York,"(38.79275, -76.08242)",5.0794516789562785,27053.0,33301_0_no,38.8214400214788,-76.16927974381194,5.0
+21663,38.78333,-76.23303,Saint Michaels,MD,Maryland,True,,3715.0,117.6,24041,Talbot,"{""24041"": 100}",Talbot,24041,False,False,America/New_York,"(38.78333, -76.23303)",4.326267822990392,27053.0,33301_0_no,38.8214400214788,-76.16927974381194,5.0

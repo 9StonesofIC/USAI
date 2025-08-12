@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86444,35.90199,-114.05969,Meadview,AZ,Arizona,True,,1520.0,1.1,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix,"(35.90199, -114.05969)",3.6511544231741304,1520.0,27016_0_no,35.9519325370214,-114.0383646066237,5.0

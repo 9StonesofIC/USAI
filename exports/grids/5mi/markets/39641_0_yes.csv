@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52729,41.80063,-90.74312,Calamus,IA,Iowa,True,,886.0,8.6,19045,Clinton,"{""19045"": 98.79, ""19163"": 1.21}",Clinton|Scott,19045|19163,False,False,America/Chicago,"(41.80063, -90.74312)",1.3704943452740126,1736.0,39641_0_yes,41.80234365043002,-90.71661119552188,5.0
+52751,41.8519,-90.68398,Grand Mound,IA,Iowa,True,,850.0,6.5,19045,Clinton,"{""19045"": 100}",Clinton,19045,False,False,America/Chicago,"(41.8519, -90.68398)",3.813977984855771,1736.0,39641_0_yes,41.80234365043002,-90.71661119552188,5.0

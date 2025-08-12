@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76474,31.97036,-98.79142,Sidney,TX,Texas,True,,327.0,4.0,48093,Comanche,"{""48093"": 96.55, ""48049"": 3.45}",Comanche|Brown,48093|48049,False,False,America/Chicago,"(31.97036, -98.79142)",1.3316984201182684,327.0,17452_0_yes,31.95254421735964,-98.78275203546798,5.0

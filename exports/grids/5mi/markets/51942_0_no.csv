@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98826,47.78772,-120.85454,Leavenworth,WA,Washington,True,,7624.0,2.9,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(47.78772, -120.85454)",3.5415429513664303,7624.0,51942_0_no,47.837355486670106,-120.83549204337407,5.0

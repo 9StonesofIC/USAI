@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49733,44.80368,-84.7291,Frederic,MI,Michigan,True,,1832.0,6.6,26039,Crawford,"{""26039"": 87.3, ""26137"": 12.7}",Crawford|Otsego,26039|26137,False,False,America/Detroit,"(44.80368, -84.7291)",3.0875959956662657,1832.0,45865_0_yes,44.83728879074295,-84.68757893171541,5.0

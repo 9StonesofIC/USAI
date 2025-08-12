@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23124,37.55271,-77.05949,New Kent,VA,Virginia,True,,4625.0,33.5,51127,New Kent,"{""51127"": 100}",New Kent,51127,False,False,America/New_York,"(37.55271, -77.05949)",2.8492412111131404,4625.0,30413_0_no,37.51833049739739,-77.03077233323448,5.0

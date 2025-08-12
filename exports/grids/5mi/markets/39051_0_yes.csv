@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50042,41.53326,-94.90004,Brayton,IA,Iowa,True,,231.0,2.7,19009,Audubon,"{""19009"": 97.56, ""19029"": 2.44}",Audubon|Cass,19009|19029,False,False,America/Chicago,"(41.53326, -94.90004)",1.515213936415379,231.0,39051_0_yes,41.5162312106455,-94.91849698969396,5.0

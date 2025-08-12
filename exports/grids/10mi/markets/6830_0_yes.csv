@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86520,36.05891,-109.95208,Blue Gap,AZ,Arizona,True,,1556.0,2.1,4001,Apache,"{""04001"": 78.06, ""04017"": 21.94}",Apache|Navajo,04001|04017,False,False,America/Denver,"(36.05891, -109.95208)",4.3939506134278,1556.0,6830_0_yes,36.0102344844588,-110.00268947678664,10.0

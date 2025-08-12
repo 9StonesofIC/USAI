@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97350,44.64786,-121.96146,Idanha,OR,Oregon,True,,149.0,0.5,41043,Linn,"{""41043"": 92.83, ""41047"": 7.17}",Linn|Marion,41043|41047,False,False,America/Los_Angeles,"(44.64786, -121.96146)",4.627962199377969,149.0,45467_0_yes,44.58088337542728,-121.96035658696611,5.0

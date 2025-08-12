@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39827,30.94911,-84.21674,Cairo,GA,Georgia,True,,4175.0,23.1,13131,Grady,"{""13131"": 100}",Grady,13131,False,False,America/New_York,"(30.94911, -84.21674)",2.27189384345316,4175.0,14923_0_yes,30.927554714090544,-84.24568956477972,5.0

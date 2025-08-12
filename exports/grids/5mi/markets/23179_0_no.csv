@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30730,34.36017,-85.42172,Lyerly,GA,Georgia,True,,1902.0,13.1,13055,Chattooga,"{""13055"": 100}",Chattooga,13055,False,False,America/New_York,"(34.36017, -85.42172)",2.53797137100981,1902.0,23179_0_no,34.33612253978445,-85.3880887672143,5.0

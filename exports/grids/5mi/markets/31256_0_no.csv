@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84761,37.84603,-112.87124,Parowan,UT,Utah,True,,3556.0,10.8,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.84603, -112.87124)",1.2055323962602462,3808.0,31256_0_no,37.83588054337051,-112.85326884085252,5.0
+84772,37.79706,-112.94168,Summit,UT,Utah,True,,252.0,66.5,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver,"(37.79706, -112.94168)",5.5210225094985415,3808.0,31256_0_no,37.83588054337051,-112.85326884085252,5.0

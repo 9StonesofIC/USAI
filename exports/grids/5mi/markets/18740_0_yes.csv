@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30448,32.48754,-82.36444,Nunez,GA,Georgia,True,,81.0,13.5,13107,Emanuel,"{""13107"": 100}",Emanuel,13107,False,False,America/New_York,"(32.48754, -82.36444)",2.6931113793107384,81.0,18740_0_yes,32.521577737751706,-82.34192002036775,5.0

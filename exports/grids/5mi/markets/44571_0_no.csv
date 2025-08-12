@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97461,44.09789,-123.48993,Noti,OR,Oregon,True,,823.0,7.6,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.09789, -123.48993)",1.9573960123436733,1262.0,44571_0_no,44.07541335873149,-123.51393776132991,5.0
+97490,44.00795,-123.60522,Walton,OR,Oregon,True,,439.0,1.8,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.00795, -123.60522)",6.502445835729518,1262.0,44571_0_no,44.07541335873149,-123.51393776132991,5.0

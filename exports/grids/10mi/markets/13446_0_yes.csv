@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56728,48.78736,-96.99149,Hallock,MN,Minnesota,True,,1287.0,2.6,27069,Kittson,"{""27069"": 100}",Kittson,27069,False,False,America/Chicago,"(48.78736, -96.99149)",4.06223324889757,1615.0,13446_0_yes,48.728739540240106,-96.98465567706104,10.0
+56733,48.63342,-96.89149,Kennedy,MN,Minnesota,True,,328.0,0.8,27069,Kittson,"{""27069"": 100}",Kittson,27069,False,False,America/Chicago,"(48.63342, -96.89149)",7.838255226209001,1615.0,13446_0_yes,48.728739540240106,-96.98465567706104,10.0

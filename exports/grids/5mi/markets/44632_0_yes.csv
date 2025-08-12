@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03575,44.28946,-71.41722,Bretton Woods,NH,New Hampshire,True,,52.0,0.6,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.28946, -71.41722)",3.4121472083327657,436.0,44632_0_yes,44.24661903034188,-71.38291398034168,5.0
+03593,44.29816,-71.31774,Randolph,NH,New Hampshire,True,,384.0,1.1,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.29816, -71.31774)",4.8039708948396935,436.0,44632_0_yes,44.24661903034188,-71.38291398034168,5.0

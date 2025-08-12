@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54466,44.3855,-90.31687,Pittsville,WI,Wisconsin,True,,2765.0,3.5,55141,Wood,"{""55141"": 53.42, ""55053"": 42.18, ""55019"": 4.4}",Wood|Jackson|Clark,55141|55053|55019,False,False,America/Chicago,"(44.3855, -90.31687)",4.103740423706009,2765.0,45018_0_yes,44.40800288078346,-90.23994179252264,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48731,43.83898,-83.15784,Elkton,MI,Michigan,True,,1509.0,11.9,26063,Huron,"{""26063"": 100}",Huron,26063,False,False,America/Detroit,"(43.83898, -83.15784)",1.4219562286309149,4268.0,43807_0_yes,43.82279232765137,-83.17545663945445,5.0
+48755,43.83571,-83.26832,Pigeon,MI,Michigan,True,,2759.0,20.5,26063,Huron,"{""26063"": 100}",Huron,26063,False,False,America/Detroit,"(43.83571, -83.26832)",4.7139884633569205,4268.0,43807_0_yes,43.82279232765137,-83.17545663945445,5.0

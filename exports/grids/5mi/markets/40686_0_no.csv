@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97634,42.12747,-121.80348,Midland,OR,Oregon,True,,284.0,33.6,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.12747, -121.80348)",4.376010619048844,284.0,40686_0_no,42.19080351549204,-121.80295856170363,5.0

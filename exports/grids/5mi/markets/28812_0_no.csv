@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24266,36.8671,-82.10523,Lebanon,VA,Virginia,True,,9301.0,28.5,51167,Russell,"{""51167"": 100}",Russell,51167,False,False,America/New_York,"(36.8671, -82.10523)",6.1245101494339,9769.0,28812_0_no,36.79778352427931,-82.17425745731376,5.0
+24270,36.72846,-82.24693,Mendota,VA,Virginia,True,,468.0,9.4,51191,Washington,"{""51191"": 100}",Washington,51191,False,False,America/New_York,"(36.72846, -82.24693)",6.254852900634,9769.0,28812_0_no,36.79778352427931,-82.17425745731376,5.0

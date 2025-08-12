@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23063,37.71694,-77.99882,Goochland,VA,Virginia,True,,4610.0,17.4,51075,Goochland,"{""51075"": 100}",Goochland,51075,False,False,America/New_York,"(37.71694, -77.99882)",4.087975914743319,4610.0,30742_0_no,37.66398394499536,-78.03216506322651,5.0

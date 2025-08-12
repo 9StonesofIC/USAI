@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04015,43.96503,-70.5205,Casco,ME,Maine,True,,3838.0,47.4,23005,Cumberland,"{""23005"": 100}",Cumberland,23005,False,False,America/New_York,"(43.96503, -70.5205)",4.576337534183968,3838.0,44307_0_no,44.02881869743983,-70.49571296173889,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83454,43.5946,-111.95698,Ucon,ID,Idaho,True,,558.0,1330.3,16019,Bonneville,"{""16019"": 100}",Bonneville,16019,False,False,America/Boise,"(43.5946, -111.95698)",5.37808250309323,558.0,43360_0_yes,43.55843768124344,-112.05212418090804,5.0

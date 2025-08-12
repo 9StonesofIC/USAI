@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24557,36.9666,-79.30401,Gretna,VA,Virginia,True,,7773.0,18.5,51143,Pittsylvania,"{""51143"": 99.77, ""51083"": 0.23}",Pittsylvania|Halifax,51143|51083,False,False,America/New_York,"(36.9666, -79.30401)",4.739834836859885,7773.0,29124_0_no,36.940569759694704,-79.38343457488918,5.0

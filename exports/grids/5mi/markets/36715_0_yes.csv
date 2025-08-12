@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96137,40.38554,-121.12478,Westwood,CA,California,True,,3076.0,8.4,6035,Lassen,"{""06035"": 59.78, ""06063"": 40.22}",Lassen|Plumas,06035|06063,False,False,America/Los_Angeles,"(40.38554, -121.12478)",4.489465286881359,3076.0,36715_0_yes,40.37901260146926,-121.20964905773776,5.0

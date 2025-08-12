@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80536,40.87458,-105.38842,Livermore,CO,Colorado,True,,2031.0,2.1,8069,Larimer,"{""08069"": 100}",Larimer,08069,False,False,America/Denver,"(40.87458, -105.38842)",2.9350072677025274,2031.0,37849_0_no,40.873213468574654,-105.44456857541692,5.0

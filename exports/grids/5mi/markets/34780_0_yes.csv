@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84647,39.52708,-111.40658,Mount Pleasant,UT,Utah,True,,4063.0,15.2,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver,"(39.52708, -111.40658)",3.9625754173956835,4063.0,34780_0_yes,39.50147358519311,-111.34006103917864,5.0

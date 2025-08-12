@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57350,44.3948,-98.20037,Huron,SD,South Dakota,True,,15051.0,19.9,46005,Beadle,"{""46005"": 99.24, ""46111"": 0.76}",Beadle|Sanborn,46005|46111,False,False,America/Chicago,"(44.3948, -98.20037)",5.156134124177683,15051.0,45031_0_no,44.34277453547861,-98.2752114548454,5.0

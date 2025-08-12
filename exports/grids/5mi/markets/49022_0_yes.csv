@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49883,46.42885,-86.0318,Seney,MI,Michigan,True,,182.0,0.2,26153,Schoolcraft,"{""26153"": 81.17, ""26003"": 18.83}",Schoolcraft|Alger,26153|26003,False,False,America/Detroit,"(46.42885, -86.0318)",0.4843400167849136,182.0,49022_0_yes,46.43031580533123,-86.04174560495703,5.0

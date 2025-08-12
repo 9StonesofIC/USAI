@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83716,43.67271,-115.6548,Boise,ID,Idaho,True,,18283.0,6.8,16039,Elmore,"{""16039"": 60.34, ""16015"": 23.82, ""16001"": 15.84}",Elmore|Boise|Ada,16039|16015|16001,False,False,America/Boise,"(43.67271, -115.6548)",3.061926583601011,18283.0,43674_0_yes,43.70636827964391,-115.61493353487684,5.0

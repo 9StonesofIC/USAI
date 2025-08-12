@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75417,33.43827,-95.13114,Bogata,TX,Texas,True,,2563.0,6.1,48387,Red River,"{""48387"": 100}",Red River,48387,False,False,America/Chicago,"(33.43827, -95.13114)",4.462370986831968,2563.0,20874_0_yes,33.40043047401105,-95.06843350999448,5.0

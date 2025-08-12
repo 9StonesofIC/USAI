@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25248,38.64255,-81.61454,Kenna,WV,West Virginia,True,,3191.0,18.7,54035,Jackson,"{""54035"": 98.3, ""54039"": 1.7}",Jackson|Kanawha,54035|54039,False,False,America/New_York,"(38.64255, -81.61454)",2.798925912753206,3191.0,33012_0_no,38.6809081563215,-81.63122080613941,5.0

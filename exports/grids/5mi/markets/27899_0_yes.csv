@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72554,36.43902,-91.55668,Mammoth Spring,AR,Arkansas,True,,2546.0,6.2,5049,Fulton,"{""05049"": 82.02, ""05135"": 17.98}",Fulton|Sharp,05049|05135,False,False,America/Chicago,"(36.43902, -91.55668)",2.846393828575069,2546.0,27899_0_yes,36.44254965042412,-91.60770087398406,5.0

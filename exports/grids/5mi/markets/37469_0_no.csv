@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52565,40.74005,-91.94332,Keosauqua,IA,Iowa,True,,1714.0,5.8,19177,Van Buren,"{""19177"": 100}",Van Buren,19177,False,False,America/Chicago,"(40.74005, -91.94332)",1.8689775238738076,1714.0,37469_0_no,40.717216161075626,-91.96245725244144,5.0

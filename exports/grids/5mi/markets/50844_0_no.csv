@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98010,47.31173,-122.00326,Black Diamond,WA,Washington,True,,5882.0,152.8,53033,King,"{""53033"": 100}",King,53033,False,False,America/Los_Angeles,"(47.31173, -122.00326)",4.575980053411361,5882.0,50844_0_no,47.2594215921513,-121.94337690783742,5.0

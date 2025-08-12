@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24124,37.30996,-80.86774,Narrows,VA,Virginia,True,,4808.0,24.0,51071,Giles,"{""51071"": 88.0, ""51021"": 12.0}",Giles|Bland,51071|51021,False,False,America/New_York,"(37.30996, -80.86774)",0.7550418404654075,4808.0,29804_0_yes,37.30391689948136,-80.879186903829,5.0

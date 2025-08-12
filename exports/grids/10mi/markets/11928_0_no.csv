@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59013,45.46131,-109.08054,Boyd,MT,Montana,True,,132.0,11.8,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.46131, -109.08054)",6.716079419031717,1295.0,11928_0_no,45.42422781752027,-109.2086028436098,10.0
+59070,45.36289,-109.17961,Roberts,MT,Montana,True,,1163.0,2.5,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.36289, -109.17961)",4.465405877637198,1295.0,11928_0_no,45.42422781752027,-109.2086028436098,10.0

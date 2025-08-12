@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67860,38.0185,-101.29831,Lakin,KS,Kansas,True,,2378.0,1.7,20093,Kearny,"{""20093"": 100}",Kearny,20093,False,False,America/Chicago,"(38.0185, -101.29831)",3.1616596850161436,2378.0,31536_0_yes,38.044308388042495,-101.34628251118748,5.0

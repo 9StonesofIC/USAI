@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12939,44.43859,-74.16541,Gabriels,NY,New York,True,,155.0,9.4,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.43859, -74.16541)",2.327519442084479,383.0,45204_0_no,44.46616978248544,-74.1383130453314,5.0
+12976,44.50469,-74.20498,Rainbow Lake,NY,New York,True,,228.0,3.2,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.50469, -74.20498)",4.228811681281342,383.0,45204_0_no,44.46616978248544,-74.1383130453314,5.0

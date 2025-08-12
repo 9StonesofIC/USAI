@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81410,38.81261,-107.97595,Austin,CO,Colorado,True,,1510.0,17.1,8029,Delta,"{""08029"": 100}",Delta,08029,False,False,America/Denver,"(38.81261, -107.97595)",2.781308709099429,1510.0,33175_0_yes,38.774154335108,-107.96068408198038,5.0

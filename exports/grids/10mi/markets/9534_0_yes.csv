@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69140,40.84129,-101.7724,Grant,NE,Nebraska,True,,1815.0,2.7,31135,Perkins,"{""31135"": 100}",Perkins,31135,False,False,America/Denver,"(40.84129, -101.7724)",7.301329187564752,2201.0,9534_0_yes,40.92316870028645,-101.6840420002481,10.0
+69150,40.82763,-101.54599,Madrid,NE,Nebraska,True,,386.0,0.9,31135,Perkins,"{""31135"": 100}",Perkins,31135,False,False,America/Denver,"(40.82763, -101.54599)",9.777157109605808,2201.0,9534_0_yes,40.92316870028645,-101.6840420002481,10.0

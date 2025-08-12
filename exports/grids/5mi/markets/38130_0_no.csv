@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69138,40.99923,-100.17684,Gothenburg,NE,Nebraska,True,,3994.0,4.7,31047,Dawson,"{""31047"": 42.38, ""31041"": 33.38, ""31111"": 24.24}",Dawson|Custer|Lincoln,31047|31041|31111,False,False,America/Chicago,"(40.99923, -100.17684)",3.250212879023644,3994.0,38130_0_no,41.01376070314,-100.23612740357208,5.0

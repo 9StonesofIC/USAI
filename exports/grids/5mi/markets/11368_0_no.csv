@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32621,29.426,-82.62936,Bronson,FL,Florida,True,,4672.0,24.5,12075,Levy,"{""12075"": 100}",Levy,12075,False,False,America/New_York,"(29.426, -82.62936)",1.5725776718396054,4672.0,11368_0_no,29.40342666219029,-82.63270094039977,5.0

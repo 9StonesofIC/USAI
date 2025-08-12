@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37841,36.5088,-84.54665,Oneida,TN,Tennessee,True,,9966.0,26.1,47151,Scott,"{""47151"": 100}",Scott,47151,False,False,America/New_York,"(36.5088, -84.54665)",10.06329265788801,13534.0,7090_0_yes,36.55192387568536,-84.71977995617762,10.0
+42647,36.6922,-84.61144,Stearns,KY,Kentucky,True,,3568.0,10.0,21147,McCreary,"{""21147"": 100}",McCreary,21147,False,False,America/New_York,"(36.6922, -84.61144)",11.403154111503364,13534.0,7090_0_yes,36.55192387568536,-84.71977995617762,10.0

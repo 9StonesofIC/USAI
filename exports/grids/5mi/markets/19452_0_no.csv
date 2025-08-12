@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39328,32.75012,-88.69564,De Kalb,MS,Mississippi,True,,5149.0,6.3,28069,Kemper,"{""28069"": 100}",Kemper,28069,False,False,America/Chicago,"(32.75012, -88.69564)",0.8294788083205121,5149.0,19452_0_no,32.7434610645407,-88.68376328773813,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76884,31.69654,-99.56407,Valera,TX,Texas,True,,98.0,2.4,48083,Coleman,"{""48083"": 100}",Coleman,48083,False,False,America/Chicago,"(31.69654, -99.56407)",2.6223377913340586,98.0,16761_0_yes,31.662916159023244,-99.54338349246636,5.0

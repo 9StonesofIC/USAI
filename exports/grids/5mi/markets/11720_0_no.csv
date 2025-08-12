@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32640,29.56889,-82.08021,Hawthorne,FL,Florida,True,,10647.0,21.9,12001,Alachua,"{""12001"": 62.72, ""12107"": 37.28}",Alachua|Putnam,12001|12107,False,False,America/New_York,"(29.56889, -82.08021)",1.4770461152622154,10647.0,11720_0_no,29.54815003131496,-82.07425277308764,5.0

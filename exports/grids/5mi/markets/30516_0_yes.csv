@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65552,37.53842,-92.16701,Plato,MO,Missouri,True,,2268.0,6.1,29215,Texas,"{""29215"": 77.69, ""29169"": 12.18, ""29105"": 10.13}",Texas|Pulaski|Laclede,29215|29169|29105,False,False,America/Chicago,"(37.53842, -92.16701)",4.592061478198784,2268.0,30516_0_yes,37.6024328617906,-92.1895617627858,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30415,32.32773,-81.6008,Brooklet,GA,Georgia,True,,6272.0,15.2,13031,Bulloch,"{""13031"": 100}",Bulloch,13031,False,False,America/New_York,"(32.32773, -81.6008)",4.2704350162538764,6272.0,18390_0_yes,32.37603597622941,-81.55515906796323,5.0

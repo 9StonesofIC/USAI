@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40475,37.7635,-84.30828,Richmond,KY,Kentucky,True,,63422.0,85.2,21151,Madison,"{""21151"": 100}",Madison,21151,False,False,America/New_York,"(37.7635, -84.30828)",3.8162107936233025,63422.0,31100_0_no,37.813753363486775,-84.33728017848438,5.0

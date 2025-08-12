@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56212,45.13499,-96.32459,Bellingham,MN,Minnesota,True,,507.0,2.4,27073,Lac qui Parle,"{""27073"": 100}",Lac qui Parle,27073,False,False,America/Chicago,"(45.13499, -96.32459)",1.234780520654272,507.0,46502_0_yes,45.13718076219638,-96.34973282774985,5.0

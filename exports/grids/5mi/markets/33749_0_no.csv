@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67752,38.9924,-100.23145,Quinter,KS,Kansas,True,,1490.0,2.3,20063,Gove,"{""20063"": 84.71, ""20179"": 15.29}",Gove|Sheridan,20063|20179,False,False,America/Chicago,"(38.9924, -100.23145)",1.0909061860023554,1490.0,33749_0_no,38.98541929912923,-100.21322996592409,5.0

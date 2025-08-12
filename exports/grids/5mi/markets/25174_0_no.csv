@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29338,35.13444,-82.00172,Fingerville,SC,South Carolina,True,,31.0,76.6,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York,"(35.13444, -82.00172)",5.167259567207505,31.0,25174_0_no,35.20341568851693,-81.96636276792532,5.0

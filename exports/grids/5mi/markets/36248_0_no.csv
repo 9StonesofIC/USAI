@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68323,40.13197,-96.37034,Burchard,NE,Nebraska,True,,248.0,0.9,31133,Pawnee,"{""31133"": 100}",Pawnee,31133,False,False,America/Chicago,"(40.13197, -96.37034)",1.6420408767192638,374.0,36248_0_no,40.14143441912257,-96.39885458582644,5.0
+68381,40.07979,-96.48176,Liberty,NE,Nebraska,True,,126.0,0.8,31067,Gage,"{""31067"": 71.34, ""31133"": 28.66}",Gage|Pawnee,31067|31133,False,False,America/Chicago,"(40.07979, -96.48176)",6.110133583213078,374.0,36248_0_no,40.14143441912257,-96.39885458582644,5.0

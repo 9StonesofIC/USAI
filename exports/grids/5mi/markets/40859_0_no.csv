@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68741,42.35711,-96.59375,Hubbard,NE,Nebraska,True,,699.0,3.9,31043,Dakota,"{""31043"": 100}",Dakota,31043,False,False,America/Chicago,"(42.35711, -96.59375)",3.0702078391180243,699.0,40859_0_no,42.314232049073695,-96.6095263789923,5.0

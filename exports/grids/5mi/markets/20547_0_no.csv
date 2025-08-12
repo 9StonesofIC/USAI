@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79502,33.18305,-100.26499,Aspermont,TX,Texas,True,,1297.0,1.0,48433,Stonewall,"{""48433"": 100}",Stonewall,48433,False,False,America/Chicago,"(33.18305, -100.26499)",1.46333328740162,1297.0,20547_0_no,33.18651303767302,-100.2400243303996,5.0

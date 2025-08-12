@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68041,41.23633,-96.48793,Mead,NE,Nebraska,True,,1048.0,9.1,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.23633, -96.48793)",4.464126471244481,3323.0,38726_0_no,41.30032671889246,-96.47611423871338,5.0
+68073,41.23931,-96.40931,Yutan,NE,Nebraska,True,,2275.0,19.6,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.23931, -96.40931)",5.459765402378761,3323.0,38726_0_no,41.30032671889246,-96.47611423871338,5.0

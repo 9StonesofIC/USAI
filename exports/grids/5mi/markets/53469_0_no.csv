@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58262,48.681,-97.87759,Mountain,ND,North Dakota,True,,97.0,2.3,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago,"(48.681, -97.87759)",3.002953788352722,97.0,53469_0_no,48.683846096658975,-97.81190258590392,5.0

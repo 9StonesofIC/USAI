@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15437,39.79202,-79.59846,Farmington,PA,Pennsylvania,True,,2861.0,17.1,42051,Fayette,"{""42051"": 100}",Fayette,42051,False,False,America/New_York,"(39.79202, -79.59846)",3.8182798276334133,4486.0,35241_0_yes,39.76556566064265,-79.53532664488199,5.0
+15459,39.76483,-79.4648,Markleysburg,PA,Pennsylvania,True,,1625.0,19.2,42051,Fayette,"{""42051"": 100}",Fayette,42051,False,False,America/New_York,"(39.76483, -79.4648)",3.7460282662726536,4486.0,35241_0_yes,39.76556566064265,-79.53532664488199,5.0

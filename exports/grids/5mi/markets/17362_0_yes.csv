@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31079,31.94104,-83.46303,Rochelle,GA,Georgia,True,,2705.0,8.9,13315,Wilcox,"{""13315"": 90.88, ""13017"": 9.12}",Wilcox|Ben Hill,13315|13017,False,False,America/New_York,"(31.94104, -83.46303)",0.086893090945738,2705.0,17362_0_yes,31.94227741886967,-83.4632945468545,5.0

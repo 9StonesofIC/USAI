@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16734,41.61806,-78.84418,James City,PA,Pennsylvania,True,,250.0,137.8,42047,Elk,"{""42047"": 100}",Elk,42047,False,False,America/New_York,"(41.61806, -78.84418)",4.1781680350098265,6202.0,39247_0_no,41.57515367883512,-78.78719903960743,5.0
+16735,41.63045,-78.81,Kane,PA,Pennsylvania,True,,5952.0,8.7,42083,McKean,"{""42083"": 60.69, ""42047"": 39.31}",McKean|Elk,42083|42047,False,False,America/New_York,"(41.63045, -78.81)",3.9981024133286875,6202.0,39247_0_no,41.57515367883512,-78.78719903960743,5.0

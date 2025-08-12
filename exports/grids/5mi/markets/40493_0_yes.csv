@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14726,42.25255,-79.02221,Conewango Valley,NY,New York,True,,1980.0,18.2,36009,Cattaraugus,"{""36009"": 88.31, ""36013"": 11.69}",Cattaraugus|Chautauqua,36009|36013,False,False,America/New_York,"(42.25255, -79.02221)",2.7978662392591103,1980.0,40493_0_yes,42.226794902748765,-78.98000235988427,5.0

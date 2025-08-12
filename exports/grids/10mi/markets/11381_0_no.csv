@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97329,44.3956,-122.33698,Cascadia,OR,Oregon,True,,107.0,0.7,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles,"(44.3956, -122.33698)",8.418094948631408,656.0,11381_0_no,44.2895668969825,-122.42088853632048,10.0
+97345,44.4126,-122.57644,Foster,OR,Oregon,True,,549.0,5.0,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles,"(44.4126, -122.57644)",11.459777927862849,656.0,11381_0_no,44.2895668969825,-122.42088853632048,10.0

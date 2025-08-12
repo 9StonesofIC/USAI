@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57641,45.89317,-101.30624,McIntosh,SD,South Dakota,True,,325.0,0.3,46031,Corson,"{""46031"": 62.47, ""38085"": 27.78, ""38037"": 9.75}",Corson|Sioux|Grant,46031|38085|38037,False,False,America/Denver,"(45.89317, -101.30624)",3.8517181869595767,325.0,48218_0_no,45.93773813766941,-101.25810754840585,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81503,39.03094,-108.48682,Grand Junction,CO,Colorado,True,,15533.0,272.5,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.03094, -108.48682)",5.303095154904255,30601.0,33794_0_no,38.99207237965521,-108.57199615427896,5.0
+81507,39.0079,-108.62644,Grand Junction,CO,Colorado,True,,15068.0,51.9,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.0079, -108.62644)",3.1212482508550834,30601.0,33794_0_no,38.99207237965521,-108.57199615427896,5.0

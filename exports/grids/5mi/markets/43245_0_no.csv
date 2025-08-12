@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50514,43.41374,-94.47361,Armstrong,IA,Iowa,True,,1287.0,4.4,19063,Emmet,"{""19063"": 64.72, ""19109"": 35.28}",Emmet|Kossuth,19063|19109,False,False,America/Chicago,"(43.41374, -94.47361)",3.9716031466076305,1287.0,43245_0_no,43.47079367467879,-94.4832526812249,5.0

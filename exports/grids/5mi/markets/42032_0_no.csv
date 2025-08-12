@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53554,42.90205,-90.44919,Livingston,WI,Wisconsin,True,,1022.0,8.8,55043,Grant,"{""55043"": 67.36, ""55049"": 32.64}",Grant|Iowa,55043|55049,False,False,America/Chicago,"(42.90205, -90.44919)",1.1870026766714203,1549.0,42032_0_no,42.88815322676013,-90.43540276179218,5.0
+53580,42.85943,-90.38131,Rewey,WI,Wisconsin,True,,527.0,11.0,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago,"(42.85943, -90.38131)",3.382417697394405,1549.0,42032_0_no,42.88815322676013,-90.43540276179218,5.0

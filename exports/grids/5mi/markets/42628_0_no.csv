@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53588,43.18949,-90.08201,Spring Green,WI,Wisconsin,True,,3930.0,10.8,55111,Sauk,"{""55111"": 66.08, ""55049"": 32.93, ""55103"": 0.99}",Sauk|Iowa|Richland,55111|55049|55103,False,False,America/Chicago,"(43.18949, -90.08201)",0.9089952555896587,3930.0,42628_0_no,43.17740846681707,-90.07486832367138,5.0

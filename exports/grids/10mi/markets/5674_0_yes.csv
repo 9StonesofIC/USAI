@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92241,33.84634,-116.28342,Desert Hot Springs,CA,California,True,,7695.0,22.4,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.84634, -116.28342)",9.888976291159128,7695.0,5674_0_yes,33.989345408100995,-116.29046095415931,10.0

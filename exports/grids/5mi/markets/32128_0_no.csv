@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66839,38.21655,-95.75371,Burlington,KS,Kansas,True,,3650.0,9.8,20031,Coffey,"{""20031"": 100}",Coffey,20031,False,False,America/Chicago,"(38.21655, -95.75371)",4.897179279093541,3650.0,32128_0_no,38.25730098588532,-95.67987873404992,5.0

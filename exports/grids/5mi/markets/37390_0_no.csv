@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17827,40.75482,-76.96133,Freeburg,PA,Pennsylvania,True,,796.0,151.8,42109,Snyder,"{""42109"": 100}",Snyder,42109,False,False,America/New_York,"(40.75482, -76.96133)",4.168432212650788,3018.0,37390_0_no,40.70480518491019,-76.91680831704028,5.0
+17864,40.70294,-76.90687,Port Trevorton,PA,Pennsylvania,True,,2222.0,40.8,42109,Snyder,"{""42109"": 100}",Snyder,42109,False,False,America/New_York,"(40.70294, -76.90687)",0.5362744388235107,3018.0,37390_0_no,40.70480518491019,-76.91680831704028,5.0

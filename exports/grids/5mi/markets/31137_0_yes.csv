@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42451,37.88165,-87.38966,Reed,KY,Kentucky,True,,725.0,7.1,21101,Henderson,"{""21101"": 100}",Henderson,21101,False,False,America/Chicago,"(37.88165, -87.38966)",4.672576207348416,37588.0,31137_0_yes,37.88846414984426,-87.30441039419802,5.0
+47630,37.95615,-87.35569,Newburgh,IN,Indiana,True,,36863.0,302.9,18173,Warrick,"{""18173"": 100}",Warrick,18173,False,False,America/Chicago,"(37.95615, -87.35569)",5.448185868535662,37588.0,31137_0_yes,37.88846414984426,-87.30441039419802,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93627,36.51568,-120.10635,Helm,CA,California,True,,134.0,0.8,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.51568, -120.10635)",2.577322462075075,134.0,28367_0_no,36.536497338565866,-120.06783162400392,5.0

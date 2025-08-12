@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81411,38.25188,-108.97862,Bedrock,CO,Colorado,True,,46.0,0.2,8085,Montrose,"{""08085"": 100}",Montrose,08085,False,False,America/Denver,"(38.25188, -108.97862)",5.842267743924366,46.0,8123_0_no,38.18293617823976,-109.04092848533236,10.0

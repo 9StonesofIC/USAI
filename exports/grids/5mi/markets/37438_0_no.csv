@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46970,40.75827,-86.0614,Peru,IN,Indiana,True,,23280.0,50.0,18103,Miami,"{""18103"": 91.55, ""18017"": 7.65, ""18169"": 0.8}",Miami|Cass|Wabash,18103|18017|18169,False,False,America/Indiana/Indianapolis,"(40.75827, -86.0614)",3.177688310739317,23280.0,37438_0_no,40.71234538720284,-86.05813539767679,5.0

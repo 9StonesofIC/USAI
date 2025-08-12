@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81133,37.44964,-105.32747,Fort Garland,CO,Colorado,True,,1276.0,1.2,8023,Costilla,"{""08023"": 100}",Costilla,08023,False,False,America/Denver,"(37.44964, -105.32747)",11.155754919173196,1276.0,7628_0_no,37.3075906656075,-105.23088189337314,10.0

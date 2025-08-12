@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04443,45.24412,-69.40572,Guilford,ME,Maine,True,,2026.0,5.2,23021,Piscataquis,"{""23021"": 100}",Piscataquis,23021,False,False,America/New_York,"(45.24412, -69.40572)",0.9917314887626916,2538.0,46659_0_yes,45.25774160886985,-69.41214732920803,5.0
+04464,45.29104,-69.50202,Monson,ME,Maine,True,,512.0,4.3,23021,Piscataquis,"{""23021"": 100}",Piscataquis,23021,False,False,America/New_York,"(45.29104, -69.50202)",4.9384395658704525,2538.0,46659_0_yes,45.25774160886985,-69.41214732920803,5.0

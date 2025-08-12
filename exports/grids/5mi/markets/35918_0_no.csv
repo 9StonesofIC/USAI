@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64630,40.03726,-93.15435,Browning,MO,Missouri,True,,601.0,2.2,29211,Sullivan,"{""29211"": 52.66, ""29115"": 47.34}",Sullivan|Linn,29211|29115,False,False,America/Chicago,"(40.03726, -93.15435)",5.502142635770519,888.0,35918_0_no,39.99385674978277,-93.06717393914371,5.0
+64674,39.96491,-93.15884,Purdin,MO,Missouri,True,,287.0,1.7,29115,Linn,"{""29115"": 100}",Linn,29115,False,False,America/Chicago,"(39.96491, -93.15884)",5.249180418441807,888.0,35918_0_no,39.99385674978277,-93.06717393914371,5.0

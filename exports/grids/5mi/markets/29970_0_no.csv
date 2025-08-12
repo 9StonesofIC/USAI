@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89008,37.26441,-114.50414,Caliente,NV,Nevada,True,,1162.0,0.2,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles,"(37.26441, -114.50414)",4.152133723613514,1162.0,29970_0_no,37.25731823463945,-114.57911868056648,5.0

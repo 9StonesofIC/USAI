@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65655,36.60262,-92.42379,Gainesville,MO,Missouri,True,,2555.0,4.9,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago,"(36.60262, -92.42379)",1.5247622981158715,2555.0,28233_0_yes,36.5881219746156,-92.44451275984996,5.0

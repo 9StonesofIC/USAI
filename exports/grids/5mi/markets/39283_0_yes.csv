@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44003,41.6202,-80.58361,Andover,OH,Ohio,True,,5700.0,36.2,39007,Ashtabula,"{""39007"": 100}",Ashtabula,39007,False,False,America/New_York,"(41.6202, -80.58361)",2.5113965196316665,5700.0,39283_0_yes,41.64898754115185,-80.55391888097591,5.0

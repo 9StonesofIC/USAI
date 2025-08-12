@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14741,42.21868,-78.5963,Great Valley,NY,New York,True,,1796.0,11.1,36009,Cattaraugus,"{""36009"": 100}",Cattaraugus,36009,False,False,America/New_York,"(42.21868, -78.5963)",0.623770481486625,1796.0,40491_0_yes,42.22646361102106,-78.59012380542613,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53156,42.89069,-88.59012,Palmyra,WI,Wisconsin,True,,3364.0,42.2,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago,"(42.89069, -88.59012)",3.6668298132971433,3364.0,42023_0_no,42.886627735185385,-88.66234127185777,5.0

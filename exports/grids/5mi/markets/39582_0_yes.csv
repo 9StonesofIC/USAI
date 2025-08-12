@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16329,41.80642,-79.27684,Irvine,PA,Pennsylvania,True,,483.0,41.6,42123,Warren,"{""42123"": 100}",Warren,42123,False,False,America/New_York,"(41.80642, -79.27684)",1.2351589896761683,483.0,39582_0_yes,41.7927156654523,-79.29223802119986,5.0

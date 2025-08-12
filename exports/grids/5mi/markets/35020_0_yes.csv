@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66937,39.58959,-97.26493,Clifton,KS,Kansas,True,,1013.0,2.8,20201,Washington,"{""20201"": 53.3, ""20027"": 46.7}",Washington|Clay,20201|20027,False,False,America/Chicago,"(39.58959, -97.26493)",3.2327496765386687,1013.0,35020_0_yes,39.63502112966258,-97.25040912631026,5.0

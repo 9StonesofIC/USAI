@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82327,42.17354,-106.69289,Hanna,WY,Wyoming,True,,989.0,1.2,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver,"(42.17354, -106.69289)",4.7664354755885014,989.0,40332_0_yes,42.10551947872785,-106.70839535820014,5.0

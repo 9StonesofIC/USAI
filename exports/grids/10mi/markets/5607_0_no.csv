@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75411,33.86275,-95.63955,Arthur City,TX,Texas,True,,740.0,3.6,48277,Lamar,"{""48277"": 100}",Lamar,48277,False,False,America/Chicago,"(33.86275, -95.63955)",3.3136216478872393,6494.0,5607_0_no,33.81531578069773,-95.63103519915444,10.0
+75473,33.81461,-95.48433,Powderly,TX,Texas,True,,3443.0,19.2,48277,Lamar,"{""48277"": 100}",Lamar,48277,False,False,America/Chicago,"(33.81461, -95.48433)",8.421828482880487,6494.0,5607_0_no,33.81531578069773,-95.63103519915444,10.0
+75486,33.75757,-95.74663,Sumner,TX,Texas,True,,2311.0,8.2,48277,Lamar,"{""48277"": 100}",Lamar,48277,False,False,America/Chicago,"(33.75757, -95.74663)",7.744794574376126,6494.0,5607_0_no,33.81531578069773,-95.63103519915444,10.0

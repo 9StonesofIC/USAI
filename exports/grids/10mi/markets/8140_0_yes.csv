@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84715,38.33221,-111.60317,Bicknell,UT,Utah,True,,316.0,4.0,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver,"(38.33221, -111.60317)",7.724543201911044,1585.0,8140_0_yes,38.331920720030126,-111.74569165430432,10.0
+84732,38.4453,-111.90408,Greenwich,UT,Utah,True,,45.0,1.7,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver,"(38.4453, -111.90408)",11.61662290275889,1585.0,8140_0_yes,38.331920720030126,-111.74569165430432,10.0
+84747,38.44628,-111.63773,Loa,UT,Utah,True,,1224.0,8.2,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver,"(38.44628, -111.63773)",9.829459134321429,1585.0,8140_0_yes,38.331920720030126,-111.74569165430432,10.0

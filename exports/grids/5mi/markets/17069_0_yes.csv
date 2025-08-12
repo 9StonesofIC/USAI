@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71404,31.75404,-92.75257,Atlanta,LA,Louisiana,True,,781.0,2.8,22127,Winn,"{""22127"": 75.12, ""22043"": 24.88}",Winn|Grant,22127|22043,False,False,America/Chicago,"(31.75404, -92.75257)",4.3940578471037215,781.0,17069_0_yes,31.80342213231189,-92.70543022002244,5.0

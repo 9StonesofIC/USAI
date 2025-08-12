@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67140,37.07992,-97.35748,South Haven,KS,Kansas,True,,1059.0,3.0,20191,Sumner,"{""20191"": 100}",Sumner,20191,False,False,America/Chicago,"(37.07992, -97.35748)",4.12021577440517,1059.0,29243_0_yes,37.0266495718234,-97.32389779171976,5.0

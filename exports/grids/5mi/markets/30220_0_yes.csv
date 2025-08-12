@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67120,37.46591,-97.37592,Peck,KS,Kansas,True,,751.0,7.5,20191,Sumner,"{""20191"": 61.35, ""20173"": 38.65}",Sumner|Sedgwick,20191|20173,False,False,America/Chicago,"(37.46591, -97.37592)",1.6546555558029958,751.0,30220_0_yes,37.46148269331653,-97.34626882115288,5.0

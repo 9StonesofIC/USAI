@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98650,45.97117,-121.52732,Trout Lake,WA,Washington,True,,1144.0,5.2,53039,Klickitat,"{""53039"": 100}",Klickitat,53039,False,False,America/Los_Angeles,"(45.97117, -121.52732)",3.5820685788240003,1144.0,48316_0_no,45.95620938494063,-121.59873034526548,5.0

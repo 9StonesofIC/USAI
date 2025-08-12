@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49729,45.16123,-85.28255,Ellsworth,MI,Michigan,True,,1507.0,15.6,26009,Antrim,"{""26009"": 84.16, ""26029"": 15.84}",Antrim|Charlevoix,26009|26029,False,False,America/Detroit,"(45.16123, -85.28255)",5.321665275708128,1507.0,46710_0_no,45.19976382532256,-85.37716105112307,5.0

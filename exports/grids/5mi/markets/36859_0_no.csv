@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64442,40.49935,-94.00645,Eagleville,MO,Missouri,True,,827.0,4.0,29081,Harrison,"{""29081"": 100}",Harrison,29081,False,False,America/Chicago,"(40.49935, -94.00645)",4.856046102328494,827.0,36859_0_no,40.42919546734606,-94.00088178810002,5.0

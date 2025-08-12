@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43420,41.35749,-83.11265,Fremont,OH,Ohio,True,,29761.0,84.3,39143,Sandusky,"{""39143"": 99.81, ""39123"": 0.19}",Sandusky|Ottawa,39143|39123,False,False,America/New_York,"(41.35749, -83.11265)",2.76270191177183,29761.0,38682_0_yes,41.36148843089006,-83.05964474476832,5.0

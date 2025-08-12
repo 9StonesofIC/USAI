@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95494,38.89646,-123.34324,Yorkville,CA,California,True,,181.0,0.6,6045,Mendocino,"{""06045"": 100}",Mendocino,06045,False,False,America/Los_Angeles,"(38.89646, -123.34324)",5.575472861241389,181.0,33555_0_no,38.85879545254585,-123.25156825213816,5.0

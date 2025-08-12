@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38921,33.98328,-90.1425,Charleston,MS,Mississippi,True,,5061.0,13.2,28135,Tallahatchie,"{""28135"": 100}",Tallahatchie,28135,False,False,America/Chicago,"(33.98328, -90.1425)",6.760454841002287,5061.0,22531_0_no,34.049598192718506,-90.22929384378877,5.0

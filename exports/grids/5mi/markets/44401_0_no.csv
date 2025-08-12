@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54982,44.07007,-89.29223,Wautoma,WI,Wisconsin,True,,6819.0,20.6,55137,Waushara,"{""55137"": 97.61, ""55077"": 2.39}",Waushara|Marquette,55137|55077,False,False,America/Chicago,"(44.07007, -89.29223)",4.15974293415569,6819.0,44401_0_no,44.04540058767918,-89.36864978463265,5.0

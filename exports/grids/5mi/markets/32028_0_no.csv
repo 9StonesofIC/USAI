@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22538,38.18941,-77.27334,Rappahannock Academy,VA,Virginia,True,,177.0,2.8,51033,Caroline,"{""51033"": 100}",Caroline,51033,False,False,America/New_York,"(38.18941, -77.27334)",3.8683341789988233,177.0,32028_0_no,38.24289967773593,-77.29438516153431,5.0

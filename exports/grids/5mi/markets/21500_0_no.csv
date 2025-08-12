@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35576,33.582,-88.1315,Millport,AL,Alabama,True,,3135.0,7.1,1075,Lamar,"{""01075"": 80.46, ""01107"": 19.54}",Lamar|Pickens,01075|01107,False,False,America/Chicago,"(33.582, -88.1315)",2.4065275779133835,3135.0,21500_0_no,33.61314383693294,-88.15022235205168,5.0

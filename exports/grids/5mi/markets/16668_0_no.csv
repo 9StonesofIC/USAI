@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36311,31.60092,-85.68372,Ariton,AL,Alabama,True,,2369.0,7.4,1045,Dale,"{""01045"": 54.8, ""01005"": 35.62, ""01031"": 9.58}",Dale|Barbour|Coffee,01045|01005|01031,False,False,America/Chicago,"(31.60092, -85.68372)",4.099258542770317,2369.0,16668_0_no,31.58126003585792,-85.74943566635264,5.0

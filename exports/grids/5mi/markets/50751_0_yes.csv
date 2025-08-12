@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56510,47.35811,-96.52316,Ada,MN,Minnesota,True,,2366.0,4.1,27107,Norman,"{""27107"": 100}",Norman,27107,False,False,America/Chicago,"(47.35811, -96.52316)",4.148394947148614,2366.0,50751_0_yes,47.30809111970043,-96.4741573287933,5.0

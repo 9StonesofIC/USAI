@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84539,39.5761,-110.4007,Sunnyside,UT,Utah,True,,328.0,13.0,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver,"(39.5761, -110.4007)",10.609930786692685,328.0,8920_0_no,39.63372580533375,-110.21595728959612,10.0

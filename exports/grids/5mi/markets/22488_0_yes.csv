@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29161,34.10532,-79.94143,Timmonsville,SC,South Carolina,True,,11537.0,32.9,45041,Florence,"{""45041"": 75.74, ""45031"": 24.26}",Florence|Darlington,45041|45031,False,False,America/New_York,"(34.10532, -79.94143)",2.703615326723621,11537.0,22488_0_yes,34.11478603359079,-79.9872867121595,5.0

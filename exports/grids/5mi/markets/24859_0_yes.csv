@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29356,35.14411,-82.26187,Landrum,SC,South Carolina,True,,7722.0,36.3,45045,Greenville,"{""45045"": 75.99, ""45083"": 24.01}",Greenville|Spartanburg,45045|45083,False,False,America/New_York,"(35.14411, -82.26187)",0.8997330117082516,7722.0,24859_0_yes,35.13111981807763,-82.26075789532875,5.0

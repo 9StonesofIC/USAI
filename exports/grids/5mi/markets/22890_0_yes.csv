@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72048,34.23436,-91.12433,Ethel,AR,Arkansas,True,,85.0,0.4,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago,"(34.23436, -91.12433)",2.893053561616487,166.0,22890_0_yes,34.26766632962202,-91.0936304799093,5.0
+72353,34.3162,-91.00708,Lambrook,AR,Arkansas,True,,81.0,0.9,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago,"(34.3162, -91.00708)",5.971140325786707,166.0,22890_0_yes,34.26766632962202,-91.0936304799093,5.0

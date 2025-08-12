@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48897,42.70498,-85.13193,Woodland,MI,Michigan,True,,1585.0,18.9,26015,Barry,"{""26015"": 97.38, ""26045"": 2.62}",Barry|Eaton,26015|26045,False,False,America/Detroit,"(42.70498, -85.13193)",2.688619332568146,1585.0,41431_0_yes,42.66638315724571,-85.13866231502573,5.0

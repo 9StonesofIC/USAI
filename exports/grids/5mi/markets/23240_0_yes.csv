@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71913,34.44677,-93.09981,Hot Springs National Park,AR,Arkansas,True,,47190.0,135.8,5051,Garland,"{""05051"": 77.62, ""05059"": 22.38}",Garland|Hot Spring,05051|05059,False,False,America/Chicago,"(34.44677, -93.09981)",3.0500067763922645,47190.0,23240_0_yes,34.414117181264494,-93.13582485503836,5.0

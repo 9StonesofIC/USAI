@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58004,47.02713,-97.26212,Amenia,ND,North Dakota,True,,298.0,2.2,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(47.02713, -97.26212)",6.371548876309964,439.0,50450_0_no,47.09191745960529,-97.3584499103713,5.0
+58007,47.02519,-97.45724,Ayr,ND,North Dakota,True,,94.0,0.7,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(47.02519, -97.45724)",6.5482008385035675,439.0,50450_0_no,47.09191745960529,-97.3584499103713,5.0
+58029,47.11726,-97.39001,Erie,ND,North Dakota,True,,47.0,0.4,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(47.11726, -97.39001)",2.2954309682026746,439.0,50450_0_no,47.09191745960529,-97.3584499103713,5.0

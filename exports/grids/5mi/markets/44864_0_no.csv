@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97412,44.19625,-123.56106,Blachly,OR,Oregon,True,,681.0,3.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.19625, -123.56106)",3.0033085283951375,681.0,44864_0_no,44.2202428225674,-123.5104946356975,5.0

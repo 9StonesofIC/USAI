@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48625,44.04976,-84.8345,Harrison,MI,Michigan,True,,12804.0,19.2,26035,Clare,"{""26035"": 100}",Clare,26035,False,False,America/Detroit,"(44.04976, -84.8345)",2.8523899039952907,12886.0,11154_0_yes,44.07834023752835,-84.79304178770377,10.0
+48633,43.94827,-84.93409,Lake George,MI,Michigan,True,,82.0,13.6,26035,Clare,"{""26035"": 100}",Clare,26035,False,False,America/Detroit,"(43.94827, -84.93409)",11.39687204350914,12886.0,11154_0_yes,44.07834023752835,-84.79304178770377,10.0

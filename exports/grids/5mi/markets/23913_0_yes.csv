@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71909,34.64106,-92.99608,Hot Springs Village,AR,Arkansas,True,,16049.0,78.1,5051,Garland,"{""05051"": 72.3, ""05125"": 27.7}",Garland|Saline,05051|05125,False,False,America/Chicago,"(34.64106, -92.99608)",4.649850459467027,16049.0,23913_0_yes,34.704017397359216,-93.0249922653402,5.0

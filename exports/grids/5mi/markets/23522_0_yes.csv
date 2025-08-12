@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30563,34.5596,-83.46283,Mount Airy,GA,Georgia,True,,6274.0,62.3,13137,Habersham,"{""13137"": 98.78, ""13257"": 1.22}",Habersham|Stephens,13137|13257,False,False,America/New_York,"(34.5596, -83.46283)",1.5919488592412152,6274.0,23522_0_yes,34.55214379014019,-83.43635912769396,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78542,26.44412,-98.09163,Edinburg,TX,Texas,True,,80837.0,177.4,48215,Hidalgo,"{""48215"": 100}",Hidalgo,48215,False,False,America/Chicago,"(26.44412, -98.09163)",4.843875662095234,80837.0,4247_0_no,26.510125197067534,-98.11802451186,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52571,40.87739,-92.83114,Moravia,IA,Iowa,True,,1468.0,5.9,19007,Appanoose,"{""19007"": 72.51, ""19135"": 27.49}",Appanoose|Monroe,19007|19135,False,False,America/Chicago,"(40.87739, -92.83114)",1.2464276751763952,1468.0,37783_0_no,40.86278758555414,-92.8451476799162,5.0

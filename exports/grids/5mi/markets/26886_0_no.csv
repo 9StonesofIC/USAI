@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72416,35.95731,-90.79699,Bono,AR,Arkansas,True,,5233.0,22.8,5031,Craighead,"{""05031"": 55.15, ""05055"": 44.85}",Craighead|Greene,05031|05055,False,False,America/Chicago,"(35.95731, -90.79699)",3.4046434111138697,5233.0,26886_0_no,35.934705319820125,-90.8510745267256,5.0

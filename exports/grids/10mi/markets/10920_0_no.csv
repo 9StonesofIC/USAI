@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83322,43.31475,-114.96811,Corral,ID,Idaho,True,,17.0,0.1,16025,Camas,"{""16025"": 100}",Camas,16025,False,False,America/Boise,"(43.31475, -114.96811)",7.1513680619071005,1020.0,10920_0_no,43.40751550359485,-114.9049683613589,10.0
+83327,43.51145,-114.7961,Fairfield,ID,Idaho,True,,1003.0,0.5,16025,Camas,"{""16025"": 100}",Camas,16025,False,False,America/Boise,"(43.51145, -114.7961)",9.021138350724781,1020.0,10920_0_no,43.40751550359485,-114.9049683613589,10.0

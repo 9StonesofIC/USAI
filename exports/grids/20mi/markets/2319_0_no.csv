@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89408,39.71675,-119.02706,Fernley,NV,Nevada,True,,20982.0,17.5,32001,Churchill,"{""32001"": 77.66, ""32019"": 22.34}",Churchill|Lyon,32001|32019,False,False,America/Los_Angeles,"(39.71675, -119.02706)",19.576808666613164,20982.0,2319_0_no,39.78255386800851,-118.66861193127288,20.0

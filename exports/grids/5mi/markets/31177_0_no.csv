@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67583,37.79997,-98.4714,Turon,KS,Kansas,True,,893.0,1.5,20155,Reno,"{""20155"": 47.26, ""20151"": 43.24, ""20185"": 9.5}",Reno|Pratt|Stafford,20155|20151|20185,False,False,America/Chicago,"(37.79997, -98.4714)",3.6924313819431123,893.0,31177_0_no,37.82467292164875,-98.41141562554668,5.0

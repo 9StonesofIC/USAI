@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82638,43.0667,-107.25585,Hiland,WY,Wyoming,True,,113.0,0.6,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver,"(43.0667, -107.25585)",21.712218510983835,113.0,2693_0_yes,42.93046979792541,-107.64304142187056,20.0

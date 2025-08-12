@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32322,29.89948,-84.62327,Carrabelle,FL,Florida,True,,3721.0,19.1,12037,Franklin,"{""12037"": 100}",Franklin,12037,False,False,America/New_York,"(29.89948, -84.62327)",2.9855083699768916,3834.0,3149_0_yes,29.88695527903516,-84.6709710705948,10.0
+32323,29.89185,-84.6122,Lanark Village,FL,Florida,True,,113.0,5.9,12037,Franklin,"{""12037"": 100}",Franklin,12037,False,False,America/New_York,"(29.89185, -84.6122)",3.536783313917367,3834.0,3149_0_yes,29.88695527903516,-84.6709710705948,10.0

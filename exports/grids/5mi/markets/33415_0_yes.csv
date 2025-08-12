@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65327,38.97525,-93.48909,Emma,MO,Missouri,True,,205.0,70.4,29195,Saline,"{""29195"": 74.45, ""29107"": 25.55}",Saline|Lafayette,29195|29107,False,False,America/Chicago,"(38.97525, -93.48909)",5.065826848570519,205.0,33415_0_yes,38.90755271520349,-93.45289173674858,5.0

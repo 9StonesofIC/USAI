@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84518,39.3917,-110.88478,Cleveland,UT,Utah,True,,831.0,4.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver,"(39.3917, -110.88478)",2.6940669030623705,831.0,34756_0_no,39.42870314254443,-110.9006907296966,5.0

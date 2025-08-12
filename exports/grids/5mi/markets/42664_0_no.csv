@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57070,43.182,-97.1702,Viborg,SD,South Dakota,True,,1399.0,6.1,46125,Turner,"{""46125"": 88.06, ""46135"": 11.94}",Turner|Yankton,46125|46135,False,False,America/Chicago,"(43.182, -97.1702)",1.5528205693627168,1399.0,42664_0_no,43.183572910111536,-97.20094588639918,5.0

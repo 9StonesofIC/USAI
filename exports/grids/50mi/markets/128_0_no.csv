@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78877,28.9533,-100.60429,Quemado,TX,Texas,True,,938.0,7.6,48323,Maverick,"{""48323"": 100}",Maverick,48323,False,False,America/Chicago,"(28.9533, -100.60429)",47.24507869080618,938.0,128_0_no,28.48952142576932,-101.17725257197382,50.0

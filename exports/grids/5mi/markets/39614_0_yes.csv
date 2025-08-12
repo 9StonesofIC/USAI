@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49091,41.82509,-85.44627,Sturgis,MI,Michigan,True,,19447.0,86.0,26149,St. Joseph,"{""26149"": 100}",St. Joseph,26149,False,False,America/Detroit,"(41.82509, -85.44627)",2.86421253129491,19447.0,39614_0_yes,41.79793722199308,-85.48829601255387,5.0

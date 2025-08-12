@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37185,36.07118,-87.8392,Waverly,TN,Tennessee,True,,8381.0,14.4,47085,Humphreys,"{""47085"": 99.73, ""47083"": 0.27}",Humphreys|Houston,47085|47083,False,False,America/Chicago,"(36.07118, -87.8392)",4.929897742807305,8381.0,27199_0_no,36.07734592322856,-87.75125210935417,5.0

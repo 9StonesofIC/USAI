@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55742,47.17195,-93.14076,Goodland,MN,Minnesota,True,,269.0,2.8,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.17195, -93.14076)",6.464562004242699,269.0,50709_0_no,47.23280216343152,-93.24536572469516,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50171,41.58434,-92.52584,Montezuma,IA,Iowa,True,,2585.0,9.1,19157,Poweshiek,"{""19157"": 98.35, ""19123"": 1.65}",Poweshiek|Mahaska,19157|19123,False,False,America/Chicago,"(41.58434, -92.52584)",1.9038676569616604,2585.0,39318_0_no,41.58665261280758,-92.48913010066283,5.0

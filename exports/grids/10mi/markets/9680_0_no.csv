@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69162,41.13001,-103.02815,Sidney,NE,Nebraska,True,,7080.0,6.0,31033,Cheyenne,"{""31033"": 100}",Cheyenne,31033,False,False,America/Denver,"(41.13001, -103.02815)",4.289380420247611,7538.0,9680_0_no,41.07034721729078,-103.00538111607456,10.0
+80747,40.94709,-103.16392,Peetz,CO,Colorado,True,,458.0,0.8,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.94709, -103.16392)",11.868159808124767,7538.0,9680_0_no,41.07034721729078,-103.00538111607456,10.0

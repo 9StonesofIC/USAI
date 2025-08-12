@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93226,35.7476,-118.73462,Glennville,CA,California,True,,82.0,0.4,6029,Kern,"{""06029"": 100}",Kern,06029,False,False,America/Los_Angeles,"(35.7476, -118.73462)",5.068730659397293,326.0,26711_0_no,35.810361557921844,-118.68780051776982,5.0
+93260,35.81909,-118.66116,Posey,CA,California,True,,244.0,2.5,6107,Tulare,"{""06107"": 100}",Tulare,06107,False,False,America/Los_Angeles,"(35.81909, -118.66116)",1.6098647511699367,326.0,26711_0_no,35.810361557921844,-118.68780051776982,5.0

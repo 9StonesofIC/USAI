@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63430,40.38972,-91.53958,Alexandria,MO,Missouri,True,,724.0,5.7,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago,"(40.38972, -91.53958)",2.597030614260416,1452.0,36846_0_no,40.42717332712178,-91.53541691994675,5.0
+63472,40.4053,-91.57734,Wayland,MO,Missouri,True,,728.0,336.9,29045,Clark,"{""29045"": 100}",Clark,29045,False,False,America/Chicago,"(40.4053, -91.57734)",2.6734976771647996,1452.0,36846_0_no,40.42717332712178,-91.53541691994675,5.0

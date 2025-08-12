@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70437,30.60909,-90.20928,Folsom,LA,Louisiana,True,,8011.0,35.8,22103,St. Tammany,"{""22103"": 76.11, ""22105"": 23.89}",St. Tammany|Tangipahoa,22103|22105,False,False,America/Chicago,"(30.60909, -90.20928)",3.027953288433787,8011.0,14256_0_yes,30.641328665634216,-90.24377698619712,5.0

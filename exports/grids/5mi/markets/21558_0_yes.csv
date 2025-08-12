@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75462,33.62166,-95.48362,Paris,TX,Texas,True,,11652.0,23.3,48277,Lamar,"{""48277"": 100}",Lamar,48277,False,False,America/Chicago,"(33.62166, -95.48362)",4.784291670349632,11652.0,21558_0_yes,33.690762095290246,-95.48893951712785,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88256,32.19543,-103.88924,Loving,NM,New Mexico,True,,1843.0,1.5,35015,Eddy,"{""35015"": 100}",Eddy,35015,False,False,America/Denver,"(32.19543, -103.88924)",19.47843919215377,1977.0,1141_0_yes,31.913551146516827,-103.8945321229706,20.0
+88263,32.09091,-104.09006,Malaga,NM,New Mexico,True,,134.0,0.4,35015,Eddy,"{""35015"": 100}",Eddy,35015,False,False,America/Denver,"(32.09091, -104.09006)",16.775629147087134,1977.0,1141_0_yes,31.913551146516827,-103.8945321229706,20.0

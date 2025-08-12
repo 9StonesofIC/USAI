@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39092,32.31489,-89.36833,Lake,MS,Mississippi,True,,3059.0,11.7,28123,Scott,"{""28123"": 79.84, ""28101"": 14.18, ""28129"": 5.98}",Scott|Newton|Smith,28123|28101|28129,False,False,America/Chicago,"(32.31489, -89.36833)",0.44051940797087186,3059.0,18422_0_no,32.308854439939935,-89.37076112399727,5.0

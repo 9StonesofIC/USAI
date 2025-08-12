@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71346,31.11686,-92.38446,Lecompte,LA,Louisiana,True,,2160.0,9.1,22079,Rapides,"{""22079"": 100}",Rapides,22079,False,False,America/Chicago,"(31.11686, -92.38446)",4.592545449047755,5178.0,15322_0_yes,31.077961870643904,-92.4474038280882,5.0
+71430,31.06764,-92.53135,Forest Hill,LA,Louisiana,True,,3018.0,9.5,22079,Rapides,"{""22079"": 100}",Rapides,22079,False,False,America/Chicago,"(31.06764, -92.53135)",5.01880965434191,5178.0,15322_0_yes,31.077961870643904,-92.4474038280882,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55750,47.53251,-91.99517,Hoyt Lakes,MN,Minnesota,True,,2106.0,4.6,27137,St. Louis,"{""27137"": 100}",St. Louis,27137,False,False,America/Chicago,"(47.53251, -91.99517)",4.641008929651044,2106.0,51284_0_yes,47.59333309059916,-92.03740906456676,5.0

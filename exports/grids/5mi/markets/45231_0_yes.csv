@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12976,44.50469,-74.20498,Rainbow Lake,NY,New York,True,,228.0,3.2,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.50469, -74.20498)",3.3897994168600167,1342.0,45231_0_yes,44.53849082120156,-74.15510560274417,5.0
+12989,44.53935,-74.06439,Vermontville,NY,New York,True,,1114.0,3.0,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.53935, -74.06439)",4.467956521199822,1342.0,45231_0_yes,44.53849082120156,-74.15510560274417,5.0

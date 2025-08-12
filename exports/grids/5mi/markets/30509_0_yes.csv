@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63625,37.56374,-90.98734,Black,MO,Missouri,True,,424.0,2.0,29179,Reynolds,"{""29179"": 81.95, ""29093"": 18.05}",Reynolds|Iron,29179|29093,False,False,America/Chicago,"(37.56374, -90.98734)",4.794884809212286,424.0,30509_0_yes,37.60144787503975,-90.91382510231672,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95573,40.89567,-123.65873,Willow Creek,CA,California,True,,1285.0,4.1,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.89567, -123.65873)",4.496335331320258,1285.0,37969_0_yes,40.96070432095347,-123.66181862703078,5.0

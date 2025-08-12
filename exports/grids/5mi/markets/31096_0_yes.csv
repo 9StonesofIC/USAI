@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24422,37.83041,-79.75128,Clifton Forge,VA,Virginia,True,,5953.0,28.9,51005,Alleghany,"{""51005"": 95.93, ""51023"": 4.07}",Alleghany|Botetourt,51005|51023,False,False,America/New_York,"(37.83041, -79.75128)",4.603272224766207,5953.0,31096_0_yes,37.88263601697543,-79.80367248285575,5.0

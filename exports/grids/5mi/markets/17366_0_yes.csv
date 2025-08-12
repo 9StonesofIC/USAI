@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31764,31.9772,-84.08135,Leslie,GA,Georgia,True,,1844.0,9.4,13261,Sumter,"{""13261"": 85.92, ""13177"": 14.08}",Sumter|Lee,13261|13177,False,False,America/New_York,"(31.9772, -84.08135)",4.3831224185369635,1844.0,17366_0_yes,31.942733634497195,-84.14412315498693,5.0

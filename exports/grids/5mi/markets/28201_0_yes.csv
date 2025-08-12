@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37049,36.55985,-86.67887,Cross Plains,TN,Tennessee,True,,4035.0,58.2,47147,Robertson,"{""47147"": 100}",Robertson,47147,False,False,America/Chicago,"(36.55985, -86.67887)",1.7635071882699895,5511.0,28201_0_yes,36.58378114297028,-86.68991971407974,5.0
+37141,36.6145,-86.69894,Orlinda,TN,Tennessee,True,,1476.0,28.1,47147,Robertson,"{""47147"": 100}",Robertson,47147,False,False,America/Chicago,"(36.6145, -86.69894)",2.1806508475801363,5511.0,28201_0_yes,36.58378114297028,-86.68991971407974,5.0

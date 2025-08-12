@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80808,39.00043,-104.30638,Calhan,CO,Colorado,True,,5963.0,5.9,8041,El Paso,"{""08041"": 83.69, ""08039"": 16.31}",El Paso|Elbert,08041|08039,False,False,America/Denver,"(39.00043, -104.30638)",5.034821871690192,5963.0,33792_0_yes,39.06113314420903,-104.35827564107376,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71846,33.9265,-94.12367,Lockesburg,AR,Arkansas,True,,2743.0,4.6,5133,Sevier,"{""05133"": 95.91, ""05081"": 4.09}",Sevier|Little River,05133|05081,False,False,America/Chicago,"(33.9265, -94.12367)",1.3880297442852014,2743.0,22214_0_no,33.90734787513986,-94.11636273799168,5.0

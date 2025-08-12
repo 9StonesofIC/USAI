@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76632,31.29602,-97.06158,Chilton,TX,Texas,True,,1400.0,10.3,48145,Falls,"{""48145"": 100}",Falls,48145,False,False,America/Chicago,"(31.29602, -97.06158)",2.1008505093437337,1437.0,16037_0_no,31.29860049007128,-97.0261243661938,5.0
+76685,31.34973,-97.0101,Satin,TX,Texas,True,,37.0,1.0,48145,Falls,"{""48145"": 100}",Falls,48145,False,False,America/Chicago,"(31.34973, -97.0101)",3.6571283506153396,1437.0,16037_0_no,31.29860049007128,-97.0261243661938,5.0

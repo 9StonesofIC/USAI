@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57780,43.7773,-102.45844,Scenic,SD,South Dakota,True,,36.0,0.0,46103,Pennington,"{""46103"": 91.11, ""46102"": 8.89}",Pennington|Oglala Lakota,46103|46102,False,False,America/Denver,"(43.7773, -102.45844)",5.698701105126211,36.0,43903_0_yes,43.839606467354265,-102.38355384380384,5.0

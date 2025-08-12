@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60920,41.03021,-88.30378,Campus,IL,Illinois,True,,166.0,35.7,17105,Livingston,"{""17105"": 100}",Livingston,17105,False,False,America/Chicago,"(41.03021, -88.30378)",4.140063833707037,355.0,38068_0_no,41.00391825501284,-88.37514186955683,5.0
+60934,40.96119,-88.34862,Emington,IL,Illinois,True,,189.0,2.3,17105,Livingston,"{""17105"": 100}",Livingston,17105,False,False,America/Chicago,"(40.96119, -88.34862)",3.260278550931266,355.0,38068_0_no,41.00391825501284,-88.37514186955683,5.0

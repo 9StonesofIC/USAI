@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95917,39.42392,-121.77178,Biggs,CA,California,True,,3881.0,18.6,6007,Butte,"{""06007"": 100}",Butte,06007,False,False,America/Los_Angeles,"(39.42392, -121.77178)",1.828037235396712,3881.0,34814_0_no,39.43741417463732,-121.74231636257096,5.0

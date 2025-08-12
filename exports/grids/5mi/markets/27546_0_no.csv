@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72425,36.22138,-90.74308,Delaplaine,AR,Arkansas,True,,299.0,1.4,5055,Greene,"{""05055"": 82.2, ""05121"": 17.8}",Greene|Randolph,05055|05121,False,False,America/Chicago,"(36.22138, -90.74308)",0.9919895358677507,299.0,27546_0_no,36.22451037000739,-90.72571122594164,5.0

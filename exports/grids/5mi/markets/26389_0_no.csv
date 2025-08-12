@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93461,35.63519,-120.26951,Shandon,CA,California,True,,1437.0,1.9,6079,San Luis Obispo,"{""06079"": 90.85, ""06029"": 9.15}",San Luis Obispo|Kern,06079|06029,False,False,America/Los_Angeles,"(35.63519, -120.26951)",2.718385753742669,1437.0,26389_0_no,35.66652085883214,-120.29879562658228,5.0

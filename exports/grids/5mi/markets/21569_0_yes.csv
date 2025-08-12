@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76252,33.67788,-97.38695,Muenster,TX,Texas,True,,2441.0,5.0,48097,Cooke,"{""48097"": 97.82, ""48337"": 2.18}",Cooke|Montague,48097|48337,False,False,America/Chicago,"(33.67788, -97.38695)",1.1785100143772809,2824.0,21569_0_yes,33.69210317018868,-97.3982642647236,5.0
+76253,33.62516,-97.31327,Myra,TX,Texas,True,,383.0,363.8,48097,Cooke,"{""48097"": 100}",Cooke,48097,False,False,America/Chicago,"(33.62516, -97.31327)",6.72953313391973,2824.0,21569_0_yes,33.69210317018868,-97.3982642647236,5.0

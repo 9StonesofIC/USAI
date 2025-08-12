@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50515,43.01993,-94.87812,Ayrshire,IA,Iowa,True,,209.0,2.1,19147,Palo Alto,"{""19147"": 76.73, ""19041"": 23.27}",Palo Alto|Clay,19147|19041,False,False,America/Chicago,"(43.01993, -94.87812)",5.026010553308266,387.0,42081_0_yes,42.96427147033883,-94.8140887771572,5.0
+50527,42.96899,-94.79288,Curlew,IA,Iowa,True,,178.0,1.4,19147,Palo Alto,"{""19147"": 100}",Palo Alto,19147,False,False,America/Chicago,"(42.96899, -94.79288)",1.1207638690670207,387.0,42081_0_yes,42.96427147033883,-94.8140887771572,5.0

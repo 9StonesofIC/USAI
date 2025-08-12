@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12980,44.57254,-74.50875,Saint Regis Falls,NY,New York,True,,1053.0,1.7,36033,Franklin,"{""36033"": 81.41, ""36089"": 18.59}",Franklin|St. Lawrence,36033|36089,False,False,America/New_York,"(44.57254, -74.50875)",5.210594065354426,1053.0,45497_0_no,44.61112805033645,-74.41776400903724,5.0

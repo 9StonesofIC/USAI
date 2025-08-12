@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72841,34.86736,-93.78515,Harvey,AR,Arkansas,True,,277.0,2.6,5127,Scott,"{""05127"": 96.05, ""05149"": 3.95}",Scott|Yell,05127|05149,False,False,America/Chicago,"(34.86736, -93.78515)",3.813394337459582,954.0,24254_0_yes,34.84959815840632,-93.84883248983438,5.0
+72950,34.79317,-93.91077,Parks,AR,Arkansas,True,,677.0,2.5,5127,Scott,"{""05127"": 100}",Scott,05127,False,False,America/Chicago,"(34.79317, -93.91077)",5.248156885444728,954.0,24254_0_yes,34.84959815840632,-93.84883248983438,5.0

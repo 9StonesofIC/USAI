@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77864,30.96087,-95.89297,Madisonville,TX,Texas,True,,7824.0,16.9,48313,Madison,"{""48313"": 100}",Madison,48313,False,False,America/Chicago,"(30.96087, -95.89297)",3.956086615064991,7824.0,15331_0_no,31.007732847351917,-95.93134300707484,5.0

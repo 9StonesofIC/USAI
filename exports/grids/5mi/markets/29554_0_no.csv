@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67003,37.1109,-98.06319,Anthony,KS,Kansas,True,,2377.0,3.8,20077,Harper,"{""20077"": 100}",Harper,20077,False,False,America/Chicago,"(37.1109, -98.06319)",3.385931402094097,2403.0,29554_0_no,37.0997705723242,-98.12303068169936,5.0
+67150,37.03207,-98.20187,Waldron,KS,Kansas,True,,26.0,0.6,20077,Harper,"{""20077"": 100}",Harper,20077,False,False,America/Chicago,"(37.03207, -98.20187)",6.385420603528592,2403.0,29554_0_no,37.0997705723242,-98.12303068169936,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76871,31.27333,-98.995,Richland Springs,TX,Texas,True,,823.0,1.4,48411,San Saba,"{""48411"": 90.8, ""48307"": 9.2}",San Saba|McCulloch,48411|48307,False,False,America/Chicago,"(31.27333, -98.995)",3.9707736897847505,823.0,16049_0_no,31.29993532846468,-99.05460859760888,5.0

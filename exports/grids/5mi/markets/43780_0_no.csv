@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48754,43.734,-83.23774,Owendale,MI,Michigan,True,,987.0,10.4,26063,Huron,"{""26063"": 100}",Huron,26063,False,False,America/Detroit,"(43.734, -83.23774)",4.707171984069024,987.0,43780_0_no,43.750440928929365,-83.14622727358929,5.0

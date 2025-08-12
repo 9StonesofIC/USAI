@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63945,36.6381,-90.5524,Harviell,MO,Missouri,True,,799.0,9.8,29023,Butler,"{""29023"": 89.65, ""29181"": 10.35}",Butler|Ripley,29023|29181,False,False,America/Chicago,"(36.6381, -90.5524)",1.769847663883076,799.0,28531_0_no,36.65918781550791,-90.5342758385835,5.0

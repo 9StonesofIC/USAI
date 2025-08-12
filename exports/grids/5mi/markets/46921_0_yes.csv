@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97111,45.29012,-123.19855,Carlton,OR,Oregon,True,,3441.0,34.9,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles,"(45.29012, -123.19855)",2.4652398114732956,7663.0,46921_0_yes,45.30599787991188,-123.1531258842112,5.0
+97127,45.24629,-123.11159,Lafayette,OR,Oregon,True,,4222.0,1886.2,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles,"(45.24629, -123.11159)",4.593195488316536,7663.0,46921_0_yes,45.30599787991188,-123.1531258842112,5.0

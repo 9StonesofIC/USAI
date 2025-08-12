@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83869,47.98095,-116.89239,Spirit Lake,ID,Idaho,True,,5407.0,31.7,16055,Kootenai,"{""16055"": 58.1, ""16017"": 41.9}",Kootenai|Bonner,16055|16017,False,False,America/Los_Angeles,"(47.98095, -116.89239)",6.544783005434475,5407.0,52224_0_yes,48.05060313884297,-116.79642248240258,5.0

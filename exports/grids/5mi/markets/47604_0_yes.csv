@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49835,45.74396,-86.57555,Garden,MI,Michigan,True,,804.0,3.7,26041,Delta,"{""26041"": 100}",Delta,26041,False,False,America/Detroit,"(45.74396, -86.57555)",2.8678745063893736,804.0,47604_0_yes,45.70727058239843,-86.54774627237512,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78010,29.91122,-99.04698,Center Point,TX,Texas,True,,4224.0,22.6,48265,Kerr,"{""48265"": 100}",Kerr,48265,False,False,America/Chicago,"(29.91122, -99.04698)",5.487781531393144,4224.0,12532_0_no,29.84901946190909,-99.10394356897346,5.0

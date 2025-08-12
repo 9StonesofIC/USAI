@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48878,43.71225,-84.77686,Rosebush,MI,Michigan,True,,1685.0,20.2,26073,Isabella,"{""26073"": 100}",Isabella,26073,False,False,America/Detroit,"(43.71225, -84.77686)",3.170025471184964,1685.0,43788_0_no,43.75183821969205,-84.74476678498584,5.0

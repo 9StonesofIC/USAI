@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29055,34.57248,-80.91753,Great Falls,SC,South Carolina,True,,3761.0,41.9,45023,Chester,"{""45023"": 68.09, ""45039"": 31.91}",Chester|Fairfield,45023|45039,False,False,America/New_York,"(34.57248, -80.91753)",4.636126728687968,3761.0,23827_0_no,34.62281110344406,-80.86362229749048,5.0

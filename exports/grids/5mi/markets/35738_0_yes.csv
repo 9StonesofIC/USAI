@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84034,39.99427,-113.9575,Ibapah,UT,Utah,True,,206.0,0.2,49045,Tooele,"{""49045"": 69.79, ""49023"": 21.01, ""32033"": 9.2}",Tooele|Juab|White Pine,49045|49023|32033,False,False,America/Denver,"(39.99427, -113.9575)",5.264944644538027,206.0,35738_0_yes,39.93828657507613,-113.89005050236294,5.0

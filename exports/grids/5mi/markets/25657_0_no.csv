@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87347,35.38502,-108.47052,Jamestown,NM,New Mexico,True,,129.0,0.5,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.38502, -108.47052)",1.6679541774715523,129.0,25657_0_no,35.367760155969066,-108.44982018474774,5.0

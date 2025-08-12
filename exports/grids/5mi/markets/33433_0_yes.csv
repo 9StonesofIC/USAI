@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66441,38.98199,-96.80289,Junction City,KS,Kansas,True,,25532.0,42.5,20061,Geary,"{""20061"": 93.84, ""20041"": 4.73, ""20161"": 1.43}",Geary|Dickinson|Riley,20061|20041|20161,False,False,America/Chicago,"(38.98199, -96.80289)",4.990213493042016,25532.0,33433_0_yes,38.9102064189962,-96.79264841710716,5.0

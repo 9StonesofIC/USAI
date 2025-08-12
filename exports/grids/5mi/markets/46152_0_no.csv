@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54471,44.93361,-89.41914,Ringle,WI,Wisconsin,True,,1786.0,15.4,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago,"(44.93361, -89.41914)",1.9749129179421747,20787.0,46152_0_no,44.91394948814849,-89.44844266003811,5.0
+54476,44.88816,-89.52389,Schofield,WI,Wisconsin,True,,19001.0,174.6,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago,"(44.88816, -89.52389)",4.099911722054741,20787.0,46152_0_no,44.91394948814849,-89.44844266003811,5.0

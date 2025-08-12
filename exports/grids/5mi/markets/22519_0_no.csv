@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35552,34.07311,-88.14266,Detroit,AL,Alabama,True,,1031.0,6.5,1093,Marion,"{""01093"": 60.39, ""01075"": 39.61}",Marion|Lamar,01093|01075,False,False,America/Chicago,"(34.07311, -88.14266)",1.750188399359443,1031.0,22519_0_no,34.04811546030418,-88.13769479373454,5.0

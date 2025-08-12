@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97499,43.59495,-123.23356,Yoncalla,OR,Oregon,True,,1869.0,5.8,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles,"(43.59495, -123.23356)",2.2770482665557457,1869.0,43416_0_yes,43.56815514971245,-123.20707308941329,5.0

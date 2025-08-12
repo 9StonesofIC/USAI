@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77316,30.30974,-95.68528,Montgomery,TX,Texas,True,,27475.0,82.2,48339,Montgomery,"{""48339"": 96.16, ""48185"": 3.84}",Montgomery|Grimes,48339|48185,False,False,America/Chicago,"(30.30974, -95.68528)",3.2864493607207277,27475.0,13584_0_yes,30.35468004400642,-95.70333520455878,5.0

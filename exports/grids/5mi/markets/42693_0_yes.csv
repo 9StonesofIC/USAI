@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57052,43.29471,-97.7054,Olivet,SD,South Dakota,True,,263.0,1.2,46067,Hutchinson,"{""46067"": 100}",Hutchinson,46067,False,False,America/Chicago,"(43.29471, -97.7054)",4.0643741678339556,263.0,42693_0_yes,43.25630651429229,-97.64419857908749,5.0

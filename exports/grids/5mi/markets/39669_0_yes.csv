@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68061,41.80078,-96.21165,Tekamah,NE,Nebraska,True,,2350.0,6.2,31021,Burt,"{""31021"": 100}",Burt,31021,False,False,America/Chicago,"(41.80078, -96.21165)",3.7684797009495,2350.0,39669_0_yes,41.80691399562512,-96.13894607053751,5.0

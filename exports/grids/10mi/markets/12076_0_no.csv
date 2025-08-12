@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59718,45.63999,-111.16978,Bozeman,MT,Montana,True,,39282.0,92.2,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver,"(45.63999, -111.16978)",5.477820385900924,44323.0,12076_0_no,45.717280971683095,-111.19504662258387,10.0
+59741,45.77265,-111.3638,Manhattan,MT,Montana,True,,5041.0,11.8,30031,Gallatin,"{""30031"": 100}",Gallatin,30031,False,False,America/Denver,"(45.77265, -111.3638)",8.991266183530435,44323.0,12076_0_no,45.717280971683095,-111.19504662258387,10.0

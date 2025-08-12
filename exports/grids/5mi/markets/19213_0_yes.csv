@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88254,32.62876,-104.40779,Lakewood,NM,New Mexico,True,,48.0,0.5,35015,Eddy,"{""35015"": 100}",Eddy,35015,False,False,America/Denver,"(32.62876, -104.40779)",3.6559034639618426,48.0,19213_0_yes,32.68166820141812,-104.40699172391248,5.0

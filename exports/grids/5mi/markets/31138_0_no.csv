@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65446,37.80902,-91.26999,Cherryville,MO,Missouri,True,,556.0,6.0,29055,Crawford,"{""29055"": 100}",Crawford,29055,False,False,America/Chicago,"(37.80902, -91.26999)",0.9850176742174814,1068.0,31138_0_no,37.81914170276776,-91.28269829285186,5.0
+65456,37.78048,-91.20267,Davisville,MO,Missouri,True,,512.0,3.2,29055,Crawford,"{""29055"": 100}",Crawford,29055,False,False,America/Chicago,"(37.78048, -91.20267)",5.121021097801027,1068.0,31138_0_no,37.81914170276776,-91.28269829285186,5.0

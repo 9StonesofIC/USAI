@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18425,41.42263,-75.02206,Greeley,PA,Pennsylvania,True,,1059.0,17.5,42103,Pike,"{""42103"": 100}",Pike,42103,False,False,America/New_York,"(41.42263, -75.02206)",5.130360728725412,4027.0,38640_0_yes,41.35473899028873,-74.98197861608962,5.0
+18458,41.40916,-74.91757,Shohola,PA,Pennsylvania,True,,2968.0,20.8,42103,Pike,"{""42103"": 100}",Pike,42103,False,False,America/New_York,"(41.40916, -74.91757)",5.0287231132677785,4027.0,38640_0_yes,41.35473899028873,-74.98197861608962,5.0

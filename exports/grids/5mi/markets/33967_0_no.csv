@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26133,39.11973,-81.66968,Belleville,WV,West Virginia,True,,1425.0,13.7,54107,Wood,"{""54107"": 100}",Wood,54107,False,False,America/New_York,"(39.11973, -81.66968)",3.7023213418684855,3193.0,33967_0_no,39.115575273615136,-81.73853716171301,5.0
+45772,39.1408,-81.82268,Reedsville,OH,Ohio,True,,1768.0,16.7,39105,Meigs,"{""39105"": 100}",Meigs,39105,False,False,America/New_York,"(39.1408, -81.82268)",4.834961193307931,3193.0,33967_0_no,39.115575273615136,-81.73853716171301,5.0

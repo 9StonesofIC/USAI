@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38030,35.99942,-89.59981,Finley,TN,Tennessee,True,,444.0,1.6,47045,Dyer,"{""47045"": 100}",Dyer,47045,False,False,America/Chicago,"(35.99942, -89.59981)",4.53825048185163,444.0,26879_0_no,35.933778007750426,-89.60267088514985,5.0

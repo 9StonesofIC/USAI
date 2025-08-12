@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95311,37.70443,-120.08344,Coulterville,CA,California,True,,1976.0,3.2,6043,Mariposa,"{""06043"": 97.87, ""06109"": 2.13}",Mariposa|Tuolumne,06043|06109,False,False,America/Los_Angeles,"(37.70443, -120.08344)",4.962590612010953,1976.0,30972_0_no,37.69643877015185,-119.99322675552004,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97146,46.11849,-123.91399,Warrenton,OR,Oregon,True,,6980.0,105.1,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles,"(46.11849, -123.91399)",1.9631666411389697,6980.0,48611_0_no,46.1030664405946,-123.87956941870895,5.0

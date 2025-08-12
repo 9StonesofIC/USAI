@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30707,34.77943,-85.36028,Chickamauga,GA,Georgia,True,,17145.0,54.7,13295,Walker,"{""13295"": 95.98, ""13047"": 4.02}",Walker|Catoosa,13295|13047,False,False,America/New_York,"(34.77943, -85.36028)",0.602766333501507,17145.0,24189_0_no,34.771010305845806,-85.35749960902572,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52223,42.41315,-91.32408,Delhi,IA,Iowa,True,,937.0,7.6,19055,Delaware,"{""19055"": 100}",Delaware,19055,False,False,America/Chicago,"(42.41315, -91.32408)",3.5757967259222543,937.0,40859_0_yes,42.38213579577322,-91.38018238669171,5.0

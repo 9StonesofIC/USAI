@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23347,37.36026,-75.96798,Eastville,VA,Virginia,True,,778.0,28.2,51131,Northampton,"{""51131"": 100}",Northampton,51131,False,False,America/New_York,"(37.36026, -75.96798)",3.669497391409233,778.0,30083_0_no,37.372681526838015,-76.03294996875788,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92591,33.53432,-117.1092,Temecula,CA,California,True,,41588.0,932.2,6065,Riverside,"{""06065"": 100}",Riverside,06065,False,False,America/Los_Angeles,"(33.53432, -117.1092)",3.343469546492596,41588.0,21327_0_no,33.48838390670372,-117.12744931614031,5.0

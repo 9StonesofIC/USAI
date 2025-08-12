@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73027,35.97102,-97.24455,Coyle,OK,Oklahoma,True,,1413.0,6.2,40083,Logan,"{""40083"": 50.89, ""40119"": 49.11}",Logan|Payne,40083|40119,False,False,America/Chicago,"(35.97102, -97.24455)",5.363658671701932,1413.0,26941_0_yes,36.011961543392815,-97.32606609735726,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05602,44.2848,-72.61498,Montpelier,VT,Vermont,True,,11724.0,51.5,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York,"(44.2848, -72.61498)",2.97861461473073,14054.0,44904_0_no,44.320141436962494,-72.64947540959965,5.0
+05677,44.39194,-72.70841,Waterbury Center,VT,Vermont,True,,2330.0,57.3,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York,"(44.39194, -72.70841)",5.75208807083934,14054.0,44904_0_no,44.320141436962494,-72.64947540959965,5.0

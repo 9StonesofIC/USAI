@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89003,36.94925,-116.7331,Beatty,NV,Nevada,True,,870.0,1.4,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles,"(36.94925, -116.7331)",3.284351907647144,870.0,29331_0_no,36.96902667976052,-116.78719528039257,5.0

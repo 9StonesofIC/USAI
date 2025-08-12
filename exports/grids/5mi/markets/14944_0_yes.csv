@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36507,30.85893,-87.74188,Bay Minette,AL,Alabama,True,,21598.0,24.3,1003,Baldwin,"{""01003"": 100}",Baldwin,01003,False,False,America/Chicago,"(30.85893, -87.74188)",5.44156510029639,21598.0,14944_0_yes,30.929856956409083,-87.78177454533876,5.0

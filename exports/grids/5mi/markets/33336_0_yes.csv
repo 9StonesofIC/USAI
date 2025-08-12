@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22810,38.84466,-78.78554,Basye,VA,Virginia,True,,754.0,15.2,51171,Shenandoah,"{""51171"": 100}",Shenandoah,51171,False,False,America/New_York,"(38.84466, -78.78554)",3.5900670190689343,2444.0,33336_0_yes,38.895908858140366,-78.79654067609806,5.0
+26812,38.88184,-78.87688,Mathias,WV,West Virginia,True,,1690.0,6.3,54031,Hardy,"{""54031"": 100}",Hardy,54031,False,False,America/New_York,"(38.88184, -78.87688)",4.428639697757604,2444.0,33336_0_yes,38.895908858140366,-78.79654067609806,5.0

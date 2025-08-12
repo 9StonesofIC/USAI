@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04051,44.18945,-70.88477,Lovell,ME,Maine,True,,1246.0,11.2,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.18945, -70.88477)",6.1334391729064635,1437.0,44630_0_yes,44.24626365300718,-70.97994077050433,5.0
+04231,44.26438,-70.88777,Stoneham,ME,Maine,True,,191.0,2.2,23017,Oxford,"{""23017"": 100}",Oxford,23017,False,False,America/New_York,"(44.26438, -70.88777)",4.729912903610908,1437.0,44630_0_yes,44.24626365300718,-70.97994077050433,5.0

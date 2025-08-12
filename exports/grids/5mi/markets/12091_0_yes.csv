@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32619,29.75661,-82.86668,Bell,FL,Florida,True,,5540.0,19.4,12041,Gilchrist,"{""12041"": 100}",Gilchrist,12041,False,False,America/New_York,"(29.75661, -82.86668)",1.7476498293194103,5540.0,12091_0_yes,29.76623711575038,-82.89362424049409,5.0

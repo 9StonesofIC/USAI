@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38257,36.46386,-88.88397,South Fulton,TN,Tennessee,True,,4310.0,30.0,47131,Obion,"{""47131"": 85.93, ""47183"": 14.07}",Obion|Weakley,47131|47183,False,False,America/Chicago,"(36.46386, -88.88397)",2.3706434967061343,4310.0,27884_0_yes,36.44052551625015,-88.91524239877816,5.0

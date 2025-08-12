@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75792,32.4679,-95.10623,Winona,TX,Texas,True,,2861.0,13.8,48423,Smith,"{""48423"": 100}",Smith,48423,False,False,America/Chicago,"(32.4679, -95.10623)",6.483332589639003,2861.0,18815_0_yes,32.53032596847413,-95.18929408739848,5.0

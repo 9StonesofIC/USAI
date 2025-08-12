@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62450,38.71436,-88.08777,Olney,IL,Illinois,True,,12274.0,30.1,17159,Richland,"{""17159"": 99.46, ""17191"": 0.54}",Richland|Wayne,17159|17191,False,False,America/Chicago,"(38.71436, -88.08777)",2.1616045776971116,12274.0,33047_0_no,38.68602699527172,-88.1047693575534,5.0

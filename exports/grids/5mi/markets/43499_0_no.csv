@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49421,43.59945,-86.06658,Hesperia,MI,Michigan,True,,5567.0,16.9,26127,Oceana,"{""26127"": 59.76, ""26123"": 40.24}",Oceana|Newaygo,26127|26123,False,False,America/Detroit,"(43.59945, -86.06658)",1.5827029822718617,5567.0,43499_0_no,43.60821029253572,-86.03735108173235,5.0

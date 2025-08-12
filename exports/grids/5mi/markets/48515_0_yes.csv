@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58441,46.17119,-98.37844,Fullerton,ND,North Dakota,True,,448.0,1.1,38021,Dickey,"{""38021"": 100}",Dickey,38021,False,False,America/Chicago,"(46.17119, -98.37844)",2.7396825736289374,448.0,48515_0_yes,46.152119472331165,-98.32824738942922,5.0

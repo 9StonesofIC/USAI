@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58036,47.15463,-96.96318,Gardner,ND,North Dakota,True,,221.0,1.0,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago,"(47.15463, -96.96318)",0.8848176053411495,221.0,50475_0_yes,47.163860852202674,-96.97623400930338,5.0

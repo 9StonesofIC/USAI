@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53581,43.37504,-90.41637,Richland Center,WI,Wisconsin,True,,10080.0,16.7,55103,Richland,"{""55103"": 100}",Richland,55103,False,False,America/Chicago,"(43.37504, -90.41637)",1.4792846929614816,10080.0,42954_0_yes,43.39483179523406,-90.427605067788,5.0

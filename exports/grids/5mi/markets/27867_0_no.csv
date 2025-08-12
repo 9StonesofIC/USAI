@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38260,36.36961,-89.21128,Troy,TN,Tennessee,True,,3652.0,19.7,47131,Obion,"{""47131"": 100}",Obion,47131,False,False,America/Chicago,"(36.36961, -89.21128)",0.9185448347690576,3652.0,27867_0_no,36.36833018596749,-89.22771349642834,5.0

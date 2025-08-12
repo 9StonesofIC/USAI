@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74641,36.8181,-96.85709,Kaw City,OK,Oklahoma,True,,548.0,5.7,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago,"(36.8181, -96.85709)",3.0651528242187913,3946.0,7288_0_yes,36.85995175237098,-96.83870682262442,10.0
+74647,36.91601,-97.00272,Newkirk,OK,Oklahoma,True,,3398.0,4.7,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago,"(36.91601, -97.00272)",9.8565520225669,3946.0,7288_0_yes,36.85995175237098,-96.83870682262442,10.0

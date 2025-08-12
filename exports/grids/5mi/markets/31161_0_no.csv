@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66748,37.79882,-95.43577,Humboldt,KS,Kansas,True,,3057.0,10.3,20001,Allen,"{""20001"": 81.48, ""20207"": 15.59, ""20133"": 2.93}",Allen|Woodson|Neosho,20001|20207|20133,False,False,America/Chicago,"(37.79882, -95.43577)",3.2247614521166366,3057.0,31161_0_no,37.82240357112796,-95.48674928434754,5.0

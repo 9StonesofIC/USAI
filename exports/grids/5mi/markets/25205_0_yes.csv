@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37385,35.33494,-84.22933,Tellico Plains,TN,Tennessee,True,,9292.0,13.4,47123,Monroe,"{""47123"": 100}",Monroe,47123,False,False,America/New_York,"(35.33494, -84.22933)",5.923036491313277,9292.0,25205_0_yes,35.277562908564406,-84.30737662910109,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+69156,41.27689,-103.34587,Potter,NE,Nebraska,True,,556.0,0.6,31033,Cheyenne,"{""31033"": 62.25, ""31007"": 23.55, ""31105"": 14.2}",Cheyenne|Banner|Kimball,31033|31007|31105,False,False,America/Denver,"(41.27689, -103.34587)",3.6541384127115,556.0,38480_0_yes,41.23355345639583,-103.305546309061,5.0

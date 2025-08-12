@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18837,41.91928,-76.29122,Rome,PA,Pennsylvania,True,,2899.0,12.9,42015,Bradford,"{""42015"": 100}",Bradford,42015,False,False,America/New_York,"(41.91928, -76.29122)",1.2747553435310515,2899.0,39871_0_yes,41.9349536319149,-76.27813801699163,5.0

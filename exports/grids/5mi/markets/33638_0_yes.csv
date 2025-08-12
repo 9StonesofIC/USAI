@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19964,39.09436,-75.72439,Marydel,DE,Delaware,True,,1472.0,70.0,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York,"(39.09436, -75.72439)",3.8775237325312704,2309.0,33638_0_yes,39.03831555067031,-75.7281396953173,5.0
+21636,39.0261,-75.79839,Goldsboro,MD,Maryland,True,,837.0,13.7,24011,Caroline,"{""24011"": 100}",Caroline,24011,False,False,America/New_York,"(39.0261, -75.79839)",3.8637317373665416,2309.0,33638_0_yes,39.03831555067031,-75.7281396953173,5.0

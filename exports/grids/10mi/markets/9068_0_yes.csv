@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80727,40.02185,-102.51484,Eckley,CO,Colorado,True,,590.0,0.9,8125,Yuma,"{""08125"": 100}",Yuma,08125,False,False,America/Denver,"(40.02185, -102.51484)",8.497980416875068,3991.0,9068_0_yes,40.05537918218954,-102.36027823297934,10.0
+80758,40.11998,-102.2122,Wray,CO,Colorado,True,,3401.0,1.9,8125,Yuma,"{""08125"": 100}",Yuma,08125,False,False,America/Denver,"(40.11998, -102.2122)",9.010690965565848,3991.0,9068_0_yes,40.05537918218954,-102.36027823297934,10.0

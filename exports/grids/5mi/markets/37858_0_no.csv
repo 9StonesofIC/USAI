@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81653,40.9144,-107.2242,Slater,CO,Colorado,True,,8.0,0.0,8107,Routt,"{""08107"": 87.48, ""08081"": 12.52}",Routt|Moffat,08107|08081,False,False,America/Denver,"(40.9144, -107.2242)",4.221875719718486,8.0,37858_0_no,40.87463547505028,-107.16282456142169,5.0

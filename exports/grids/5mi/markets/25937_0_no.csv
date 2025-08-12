@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73601,35.49859,-98.94694,Clinton,OK,Oklahoma,True,,10265.0,28.7,40039,Custer,"{""40039"": 73.56, ""40149"": 26.44}",Custer|Washita,40039|40149,False,False,America/Chicago,"(35.49859, -98.94694)",4.034382878494566,10265.0,25937_0_no,35.50583573280063,-99.01810993591586,5.0

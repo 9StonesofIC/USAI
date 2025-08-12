@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81087,37.39168,-102.41277,Vilas,CO,Colorado,True,,130.0,1.7,8009,Baca,"{""08009"": 100}",Baca,08009,False,False,America/Denver,"(37.39168, -102.41277)",6.257701219620035,130.0,29923_0_yes,37.32048827715605,-102.48320324907668,5.0

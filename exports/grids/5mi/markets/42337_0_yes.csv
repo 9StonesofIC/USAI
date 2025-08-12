@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49456,43.09026,-86.19347,Spring Lake,MI,Michigan,True,,19527.0,297.8,26139,Ottawa,"{""26139"": 88.15, ""26121"": 11.85}",Ottawa|Muskegon,26139|26121,False,False,America/Detroit,"(43.09026, -86.19347)",2.5584045948263445,19527.0,42337_0_yes,43.10165967009897,-86.2417160129826,5.0

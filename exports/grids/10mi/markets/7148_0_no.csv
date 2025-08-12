@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86544,36.58162,-109.13818,Red Valley,AZ,Arizona,True,,1452.0,2.1,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(36.58162, -109.13818)",10.918119671364403,2847.0,7148_0_no,36.44381388486281,-109.04196731282484,10.0
+87461,36.43717,-108.91099,Sanostee,NM,New Mexico,True,,1395.0,2.2,35045,San Juan,"{""35045"": 100}",San Juan,35045,False,False,America/Denver,"(36.43717, -108.91099)",7.294684013994699,2847.0,7148_0_no,36.44381388486281,-109.04196731282484,10.0

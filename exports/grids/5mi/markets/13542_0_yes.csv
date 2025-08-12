@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39553,30.41625,-88.64848,Gautier,MS,Mississippi,True,,17437.0,238.2,28059,Jackson,"{""28059"": 100}",Jackson,28059,False,False,America/Chicago,"(30.41625, -88.64848)",4.792691586942292,58383.0,13542_0_yes,30.35017944264216,-88.67296740356193,5.0
+39564,30.40518,-88.75471,Ocean Springs,MS,Mississippi,True,,40946.0,296.7,28059,Jackson,"{""28059"": 100}",Jackson,28059,False,False,America/Chicago,"(30.40518, -88.75471)",6.1791929655491735,58383.0,13542_0_yes,30.35017944264216,-88.67296740356193,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54126,44.28925,-88.03218,Greenleaf,WI,Wisconsin,True,,3475.0,16.7,55009,Brown,"{""55009"": 99.36, ""55071"": 0.64}",Brown|Manitowoc,55009|55071,False,False,America/Chicago,"(44.28925, -88.03218)",3.9047303079195315,3475.0,44980_0_no,44.33368351859839,-87.98337730554096,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29435,32.9526,-80.4672,Cottageville,SC,South Carolina,True,,4429.0,22.7,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York,"(32.9526, -80.4672)",3.160666055752807,4429.0,19761_0_yes,32.955254440036065,-80.41277586429622,5.0

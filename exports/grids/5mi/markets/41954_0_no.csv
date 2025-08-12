@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13439,42.85491,-74.99724,Richfield Springs,NY,New York,True,,3720.0,16.3,36077,Otsego,"{""36077"": 61.12, ""36043"": 38.88}",Otsego|Herkimer,36077|36043,False,False,America/New_York,"(42.85491, -74.99724)",3.95117679161735,3720.0,41954_0_no,42.874934987020445,-75.07032082271176,5.0

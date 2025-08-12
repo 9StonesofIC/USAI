@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77554,29.23187,-94.92544,Galveston,TX,Texas,True,,8730.0,108.4,48167,Galveston,"{""48167"": 100}",Galveston,48167,False,False,America/Chicago,"(29.23187, -94.92544)",2.6564413095469925,19859.0,11086_0_no,29.265977480475684,-94.94577714694675,5.0
+77563,29.31123,-95.01822,Hitchcock,TX,Texas,True,,11129.0,97.3,48167,Galveston,"{""48167"": 100}",Galveston,48167,False,False,America/Chicago,"(29.31123, -95.01822)",5.3696678564184905,19859.0,11086_0_no,29.265977480475684,-94.94577714694675,5.0

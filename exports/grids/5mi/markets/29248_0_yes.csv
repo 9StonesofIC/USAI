@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67150,37.03207,-98.20187,Waldron,KS,Kansas,True,,26.0,0.6,20077,Harper,"{""20077"": 100}",Harper,20077,False,False,America/Chicago,"(37.03207, -98.20187)",1.4899928717180786,118.0,29248_0_yes,37.02733873045497,-98.22822459489286,5.0
+73719,36.96026,-98.26746,Amorita,OK,Oklahoma,True,,92.0,0.8,40003,Alfalfa,"{""40003"": 100}",Alfalfa,40003,False,False,America/Chicago,"(36.96026, -98.26746)",5.115519602267251,118.0,29248_0_yes,37.02733873045497,-98.22822459489286,5.0

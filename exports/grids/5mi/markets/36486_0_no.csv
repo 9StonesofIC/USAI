@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43005,40.28241,-82.26728,Bladensburg,OH,Ohio,True,,392.0,77.6,39083,Knox,"{""39083"": 100}",Knox,39083,False,False,America/New_York,"(40.28241, -82.26728)",3.5781064683499073,4792.0,36486_0_no,40.274799300693466,-82.33442319943676,5.0
+43022,40.33765,-82.34135,Gambier,OH,Ohio,True,,4137.0,38.0,39083,Knox,"{""39083"": 100}",Knox,39083,False,False,America/New_York,"(40.33765, -82.34135)",4.357880162067673,4792.0,36486_0_no,40.274799300693466,-82.33442319943676,5.0
+43037,40.28062,-82.31654,Martinsburg,OH,Ohio,True,,263.0,31.3,39083,Knox,"{""39083"": 100}",Knox,39083,False,False,America/New_York,"(40.28062, -82.31654)",1.0248774567442431,4792.0,36486_0_no,40.274799300693466,-82.33442319943676,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32033,29.78851,-81.44263,Elkton,FL,Florida,True,,4771.0,23.5,12109,St. Johns,"{""12109"": 100}",St. Johns,12109,False,False,America/New_York,"(29.78851, -81.44263)",3.225194994372814,4771.0,12082_0_yes,29.765295100678514,-81.39597308336687,5.0

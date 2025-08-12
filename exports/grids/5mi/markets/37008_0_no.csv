@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96007,40.45507,-122.30468,Anderson,CA,California,True,,23670.0,74.6,6089,Shasta,"{""06089"": 100}",Shasta,06089,False,False,America/Los_Angeles,"(40.45507, -122.30468)",2.137429513987445,23670.0,37008_0_no,40.45238256756748,-122.26417904214624,5.0

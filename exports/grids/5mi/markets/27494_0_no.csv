@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28665,36.20969,-81.37392,Purlear,NC,North Carolina,True,,2348.0,14.0,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.20969, -81.37392)",2.523142066060819,2348.0,27494_0_no,36.217549382782586,-81.418120766865,5.0

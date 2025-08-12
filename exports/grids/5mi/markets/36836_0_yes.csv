@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47369,40.50714,-85.14715,Pennville,IN,Indiana,True,,1615.0,17.7,18075,Jay,"{""18075"": 94.83, ""18009"": 5.17}",Jay|Blackford,18075|18009,False,False,America/Indiana/Indianapolis,"(40.50714, -85.14715)",1.4845991123134303,1615.0,36836_0_yes,40.494287598918014,-85.12450504513845,5.0

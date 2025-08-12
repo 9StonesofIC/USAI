@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32148,29.60088,-81.88191,Interlachen,FL,Florida,True,,10766.0,53.2,12107,Putnam,"{""12107"": 100}",Putnam,12107,False,False,America/New_York,"(29.60088, -81.88191)",3.97776154672777,10766.0,11719_0_no,29.54804627912262,-81.90820484017597,5.0

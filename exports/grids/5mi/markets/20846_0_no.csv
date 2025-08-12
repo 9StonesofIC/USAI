@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71758,33.30899,-92.91435,Mount Holly,AR,Arkansas,True,,121.0,0.7,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago,"(33.30899, -92.91435)",1.8830232923221784,121.0,20846_0_no,33.326472292252674,-92.93936947838982,5.0

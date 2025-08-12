@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30655,33.78214,-83.69072,Monroe,GA,Georgia,True,,25876.0,120.3,13297,Walton,"{""13297"": 100}",Walton,13297,False,False,America/New_York,"(33.78214, -83.69072)",3.6730981602061017,25876.0,21815_0_no,33.75504171243721,-83.74573852457834,5.0

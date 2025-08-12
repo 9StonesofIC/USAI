@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50578,43.30081,-94.54775,Ringsted,IA,Iowa,True,,590.0,3.3,19063,Emmet,"{""19063"": 89.49, ""19147"": 10.51}",Emmet|Palo Alto,19063|19147,False,False,America/Chicago,"(43.30081, -94.54775)",1.7903329199070366,590.0,42948_0_no,43.32607234484265,-94.55567301819222,5.0

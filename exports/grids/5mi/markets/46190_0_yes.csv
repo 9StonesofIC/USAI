@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54730,45.01836,-91.72143,Colfax,WI,Wisconsin,True,,5188.0,14.5,55033,Dunn,"{""55033"": 78.28, ""55017"": 21.72}",Dunn|Chippewa,55033|55017,False,False,America/Chicago,"(45.01836, -91.72143)",2.103060076828792,5188.0,46190_0_yes,44.98830389692414,-91.72822712203391,5.0

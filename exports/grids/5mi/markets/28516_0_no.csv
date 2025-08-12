@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37028,36.62793,-87.85723,Bumpus Mills,TN,Tennessee,True,,434.0,10.8,47161,Stewart,"{""47161"": 100}",Stewart,47161,False,False,America/Chicago,"(36.62793, -87.85723)",2.3858576014941404,434.0,28516_0_no,36.65714771994273,-87.83429307001147,5.0

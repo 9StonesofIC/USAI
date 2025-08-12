@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17257,40.0508,-77.49027,Shippensburg,PA,Pennsylvania,True,,29164.0,97.8,42041,Cumberland,"{""42041"": 63.7, ""42055"": 36.3}",Cumberland|Franklin,42041|42055,False,False,America/New_York,"(40.0508, -77.49027)",5.840431050679755,29164.0,35835_0_no,39.98114471900625,-77.42774044675437,5.0

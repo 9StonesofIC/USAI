@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27349,35.89845,-79.41202,Snow Camp,NC,North Carolina,True,,5265.0,31.9,37001,Alamance,"{""37001"": 91.34, ""37037"": 8.66}",Alamance|Chatham,37001|37037,False,False,America/New_York,"(35.89845, -79.41202)",2.3956846483295977,5265.0,26822_0_no,35.92622820645106,-79.43764098100839,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57536,44.41502,-99.76694,Harrold,SD,South Dakota,True,,308.0,0.3,46065,Hughes,"{""46065"": 72.59, ""46119"": 27.41}",Hughes|Sully,46065|46119,False,False,America/Chicago,"(44.41502, -99.76694)",1.5042816866293278,308.0,45065_0_yes,44.41640239759688,-99.7365209052573,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29924,32.87737,-81.10749,Hampton,SC,South Carolina,True,,4515.0,35.7,45049,Hampton,"{""45049"": 100}",Hampton,45049,False,False,America/New_York,"(32.87737, -81.10749)",2.936284541826458,4515.0,19751_0_no,32.88323473298028,-81.05737049011384,5.0

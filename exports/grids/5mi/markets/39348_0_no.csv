@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68655,41.64881,-98.26222,Primrose,NE,Nebraska,True,,84.0,0.8,31011,Boone,"{""31011"": 83.08, ""31077"": 16.92}",Boone|Greeley,31011|31077,False,False,America/Chicago,"(41.64881, -98.26222)",4.057203281341561,84.0,39348_0_no,41.59151270545024,-98.27940915904726,5.0

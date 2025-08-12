@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48759,43.7265,-83.39323,Sebewaing,MI,Michigan,True,,3250.0,26.1,26063,Huron,"{""26063"": 99.08, ""26157"": 0.92}",Huron|Tuscola,26063|26157,False,False,America/Detroit,"(43.7265, -83.39323)",2.885334653998473,3250.0,43781_0_no,43.750615586569126,-83.34604267872807,5.0

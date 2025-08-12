@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43505,41.52429,-84.73101,Blakeslee,OH,Ohio,True,,94.0,412.9,39171,Williams,"{""39171"": 100}",Williams,39171,False,False,America/New_York,"(41.52429, -84.73101)",4.3423435031696185,3070.0,39278_0_no,41.580173772201206,-84.76943337490435,5.0
+43518,41.58977,-84.75385,Edon,OH,Ohio,True,,2976.0,16.8,39171,Williams,"{""39171"": 100}",Williams,39171,False,False,America/New_York,"(41.58977, -84.75385)",1.0431695043650822,3070.0,39278_0_no,41.580173772201206,-84.76943337490435,5.0

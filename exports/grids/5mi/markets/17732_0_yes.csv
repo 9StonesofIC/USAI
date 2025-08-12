@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36723,32.06633,-87.2907,Boykin,AL,Alabama,True,,414.0,27.9,1131,Wilcox,"{""01131"": 100}",Wilcox,01131,False,False,America/Chicago,"(32.06633, -87.2907)",2.3126348348164614,414.0,17732_0_yes,32.08989209319508,-87.3187562576793,5.0

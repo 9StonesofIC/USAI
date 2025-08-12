@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86336,34.8902,-111.85157,Sedona,AZ,Arizona,True,,11621.0,22.0,4025,Yavapai,"{""04025"": 72.91, ""04005"": 27.09}",Yavapai|Coconino,04025|04005,False,False,America/Phoenix,"(34.8902, -111.85157)",3.5233107240961496,11621.0,24356_0_yes,34.862585556349224,-111.7993151178316,5.0

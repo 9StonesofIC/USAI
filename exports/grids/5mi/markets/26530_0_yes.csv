@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37753,35.82276,-83.098,Hartford,TN,Tennessee,True,,833.0,10.0,47029,Cocke,"{""47029"": 100}",Cocke,47029,False,False,America/New_York,"(35.82276, -83.098)",2.691850715907746,833.0,26530_0_yes,35.856459957215215,-83.12211489540127,5.0

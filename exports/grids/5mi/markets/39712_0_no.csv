@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82935,41.67746,-109.66001,Green River,WY,Wyoming,True,,12703.0,36.5,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver,"(41.67746, -109.66001)",4.916073388267454,12703.0,39712_0_no,41.745906593883696,-109.63398128921617,5.0

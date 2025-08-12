@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50144,40.73327,-93.73615,Leon,IA,Iowa,True,,2694.0,7.3,19053,Decatur,"{""19053"": 100}",Decatur,19053,False,False,America/Chicago,"(40.73327, -93.73615)",3.273324486969679,2694.0,37478_0_no,40.71863041256552,-93.67669581427144,5.0

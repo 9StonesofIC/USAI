@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82901,41.38121,-109.02469,Rock Springs,WY,Wyoming,True,,28794.0,10.3,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver,"(41.38121, -109.02469)",12.529885069983733,28794.0,9862_0_yes,41.51493842433273,-109.18810498445258,10.0

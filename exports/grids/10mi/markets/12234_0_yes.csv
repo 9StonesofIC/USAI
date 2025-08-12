@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59632,46.16522,-111.99918,Boulder,MT,Montana,True,,1836.0,1.6,30043,Jefferson,"{""30043"": 100}",Jefferson,30043,False,False,America/Denver,"(46.16522, -111.99918)",3.9983197547715643,1836.0,12234_0_yes,46.15287872126324,-112.08080318803208,10.0

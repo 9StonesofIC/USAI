@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+17740,41.2342,-77.26171,Jersey Shore,PA,Pennsylvania,True,,12306.0,34.9,42081,Lycoming,"{""42081"": 82.92, ""42035"": 17.08}",Lycoming|Clinton,42081|42035,False,False,America/New_York,"(41.2342, -77.26171)",3.4617005682610773,12306.0,38626_0_no,41.28429355257458,-77.2629149096387,5.0

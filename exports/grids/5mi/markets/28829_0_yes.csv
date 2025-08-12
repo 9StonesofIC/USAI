@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24370,36.91345,-81.69107,Saltville,VA,Virginia,True,,6199.0,15.8,51173,Smyth,"{""51173"": 79.91, ""51191"": 20.09}",Smyth|Washington,51173|51191,False,False,America/New_York,"(36.91345, -81.69107)",3.191612468932555,6199.0,28829_0_yes,36.86981785367165,-81.67210730888408,5.0

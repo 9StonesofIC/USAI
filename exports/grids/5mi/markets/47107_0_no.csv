@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59035,45.29814,-107.96042,Fort Smith,MT,Montana,True,,226.0,1.0,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver,"(45.29814, -107.96042)",6.4151084987298015,523.0,47107_0_no,45.36470298213509,-107.8683444472571,5.0
+59075,45.40457,-107.85051,Saint Xavier,MT,Montana,True,,297.0,0.6,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver,"(45.40457, -107.85051)",2.8873094555890177,523.0,47107_0_no,45.36470298213509,-107.8683444472571,5.0

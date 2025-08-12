@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83851,47.29899,-116.90513,Plummer,ID,Idaho,True,,1832.0,5.6,16009,Benewah,"{""16009"": 100}",Benewah,16009,False,False,America/Los_Angeles,"(47.29899, -116.90513)",1.9490204538605227,1832.0,50847_0_yes,47.32706760685573,-116.90913316916604,5.0

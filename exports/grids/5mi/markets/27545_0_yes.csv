@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37036,36.23979,-87.27182,Charlotte,TN,Tennessee,True,,6437.0,25.0,47043,Dickson,"{""47043"": 93.35, ""47021"": 6.65}",Dickson|Cheatham,47043|47021,False,False,America/Chicago,"(36.23979, -87.27182)",5.889306011611564,6437.0,27545_0_yes,36.29429584647449,-87.1905419503107,5.0

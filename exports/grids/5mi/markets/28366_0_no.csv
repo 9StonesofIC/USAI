@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93609,36.52616,-119.86388,Caruthers,CA,California,True,,5328.0,33.7,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.52616, -119.86388)",1.5189725775234004,5891.0,28366_0_no,36.53636193089935,-119.88811532592948,5.0
+93652,36.59502,-119.90458,Raisin City,CA,California,True,,563.0,105.3,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.59502, -119.90458)",4.15460245727484,5891.0,28366_0_no,36.53636193089935,-119.88811532592948,5.0

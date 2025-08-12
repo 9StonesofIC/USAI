@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53083,43.81511,-87.77108,Sheboygan,WI,Wisconsin,True,,20969.0,249.1,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago,"(43.81511, -87.77108)",0.8596119878720022,20969.0,43830_0_yes,43.82681982171204,-87.77690544393576,5.0

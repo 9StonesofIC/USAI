@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95612,38.38644,-121.58118,Clarksburg,CA,California,True,,1465.0,8.9,6113,Yolo,"{""06113"": 88.11, ""06095"": 11.89}",Yolo|Solano,06113|06095,False,False,America/Los_Angeles,"(38.38644, -121.58118)",2.7625949488797805,1465.0,32589_0_no,38.42258778133999,-121.60298641841204,5.0

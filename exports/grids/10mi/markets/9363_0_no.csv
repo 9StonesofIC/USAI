@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68948,40.34151,-100.02639,Holbrook,NE,Nebraska,True,,261.0,0.9,31065,Furnas,"{""31065"": 48.64, ""31073"": 30.84, ""31063"": 20.52}",Furnas|Gosper|Frontier,31065|31073|31063,False,False,America/Chicago,"(40.34151, -100.02639)",12.149581083071975,261.0,9363_0_no,40.48640791014131,-100.15723897642404,10.0

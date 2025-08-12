@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55601,47.23404,-91.36425,Beaver Bay,MN,Minnesota,True,,114.0,2.9,27075,Lake,"{""27075"": 100}",Lake,27075,False,False,America/Chicago,"(47.23404, -91.36425)",7.805437825890171,114.0,12733_0_no,47.127620798069074,-91.30847704877006,10.0

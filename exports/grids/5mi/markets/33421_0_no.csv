@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67490,38.79223,-98.44722,Wilson,KS,Kansas,True,,852.0,2.2,20053,Ellsworth,"{""20053"": 59.44, ""20167"": 32.44, ""20105"": 8.12}",Ellsworth|Russell|Lincoln,20053|20167|20105,False,False,America/Chicago,"(38.79223, -98.44722)",3.8124403608324817,852.0,33421_0_no,38.83908208328198,-98.40981313576296,5.0

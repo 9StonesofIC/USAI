@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63953,36.59134,-90.62995,Naylor,MO,Missouri,True,,1310.0,8.7,29181,Ripley,"{""29181"": 82.18, ""29023"": 17.82}",Ripley|Butler,29181|29023,False,False,America/Chicago,"(36.59134, -90.62995)",0.9536248677499524,1416.0,28223_0_yes,36.586765391362526,-90.6461678188082,5.0
+63955,36.60211,-90.67864,Oxly,MO,Missouri,True,,106.0,5.4,29181,Ripley,"{""29181"": 100}",Ripley,29181,False,False,America/Chicago,"(36.60211, -90.67864)",2.090187246605378,1416.0,28223_0_yes,36.586765391362526,-90.6461678188082,5.0

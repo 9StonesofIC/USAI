@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64040,38.71928,-93.98725,Holden,MO,Missouri,True,,6297.0,14.7,29101,Johnson,"{""29101"": 99.07, ""29037"": 0.93}",Johnson|Cass,29101|29037,False,False,America/Chicago,"(38.71928, -93.98725)",2.7912032050527906,6297.0,33079_0_no,38.6907078917412,-94.02384597943455,5.0

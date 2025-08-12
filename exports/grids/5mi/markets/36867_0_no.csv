@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64482,40.45345,-95.54329,Rock Port,MO,Missouri,True,,2150.0,6.3,29005,Atchison,"{""29005"": 100}",Atchison,29005,False,False,America/Chicago,"(40.45345, -95.54329)",2.0684123859330996,2150.0,36867_0_no,40.4304399327217,-95.51812764151452,5.0

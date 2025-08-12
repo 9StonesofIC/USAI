@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32344,30.44645,-83.91902,Monticello,FL,Florida,True,,12580.0,10.9,12065,Jefferson,"{""12065"": 100}",Jefferson,12065,False,False,America/New_York,"(30.44645, -83.91902)",3.1841032935454807,12580.0,13866_0_yes,30.49219660771592,-83.92547839150787,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97758,43.41449,-119.74859,Riley,OR,Oregon,True,,76.0,0.0,41025,Harney,"{""41025"": 75.54, ""41037"": 24.46}",Harney|Lake,41025|41037,False,False,America/Los_Angeles,"(43.41449, -119.74859)",13.655687711336375,76.0,2779_0_no,43.26317749457871,-119.9234094851861,20.0

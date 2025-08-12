@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68350,40.03961,-97.09166,Endicott,NE,Nebraska,True,,250.0,3.2,31095,Jefferson,"{""31095"": 100}",Jefferson,31095,False,False,America/Chicago,"(40.03961, -97.09166)",2.2507629806777,344.0,35962_0_yes,40.06950697198192,-97.07475954294203,5.0
+68440,40.05266,-97.01168,Steele City,NE,Nebraska,True,,94.0,1.6,31095,Jefferson,"{""31095"": 100}",Jefferson,31095,False,False,America/Chicago,"(40.05266, -97.01168)",3.5329863105257404,344.0,35962_0_yes,40.06950697198192,-97.07475954294203,5.0

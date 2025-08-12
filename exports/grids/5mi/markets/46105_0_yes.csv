@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12926,44.95223,-74.32214,Constable,NY,New York,True,,2380.0,19.4,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.95223, -74.32214)",3.3745290737749483,4260.0,46105_0_yes,44.97281094278626,-74.38473738882554,5.0
+12937,44.96176,-74.47807,Fort Covington,NY,New York,True,,1880.0,21.1,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.96176, -74.47807)",4.625950023695433,4260.0,46105_0_yes,44.97281094278626,-74.38473738882554,5.0

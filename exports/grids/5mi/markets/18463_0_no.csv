@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75105,32.26717,-96.36682,Chatfield,TX,Texas,True,,248.0,2.4,48349,Navarro,"{""48349"": 100}",Navarro,48349,False,False,America/Chicago,"(32.26717, -96.36682)",3.2665574649883014,248.0,18463_0_no,32.313597581549054,-96.3773762113805,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29058,34.56297,-80.73473,Heath Springs,SC,South Carolina,True,,4726.0,12.6,45057,Lancaster,"{""45057"": 90.05, ""45055"": 9.95}",Lancaster|Kershaw,45057|45055,False,False,America/New_York,"(34.56297, -80.73473)",4.903875704969012,4726.0,23826_0_no,34.6226848721374,-80.68813123764801,5.0

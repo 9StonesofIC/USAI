@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61021,41.82908,-89.47764,Dixon,IL,Illinois,True,,22379.0,57.6,17103,Lee,"{""17103"": 89.0, ""17141"": 11.0}",Lee|Ogle,17103|17141,False,False,America/Chicago,"(41.82908, -89.47764)",4.407623967997646,22379.0,39635_0_yes,41.80136438556013,-89.5547324228932,5.0

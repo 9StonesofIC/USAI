@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77707,30.05323,-94.1748,Beaumont,TX,Texas,True,,18867.0,513.4,48245,Jefferson,"{""48245"": 100}",Jefferson,48245,False,False,America/Chicago,"(30.05323, -94.1748)",5.410457203009862,18867.0,12857_0_no,29.99104139512765,-94.22976037050984,5.0

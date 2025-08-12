@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78607,30.81961,-98.488,Bluffton,TX,Texas,True,,139.0,2.4,48299,Llano,"{""48299"": 100}",Llano,48299,False,False,America/Chicago,"(30.81961, -98.488)",3.9142798083432124,2138.0,14656_0_yes,30.7917044940755,-98.43059877861955,5.0
+78609,30.75975,-98.45271,Buchanan Dam,TX,Texas,True,,1999.0,48.6,48299,Llano,"{""48299"": 100}",Llano,48299,False,False,America/Chicago,"(30.75975, -98.45271)",2.5685590430195857,2138.0,14656_0_yes,30.7917044940755,-98.43059877861955,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67342,37.05877,-95.35513,Edna,KS,Kansas,True,,768.0,4.4,20099,Labette,"{""20099"": 100}",Labette,20099,False,False,America/Chicago,"(37.05877, -95.35513)",2.5898552695384303,768.0,29232_0_yes,37.02513348314686,-95.33440758013757,5.0

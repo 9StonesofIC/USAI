@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97361,44.77251,-123.32999,Monmouth,OR,Oregon,True,,12528.0,36.4,41053,Polk,"{""41053"": 89.2, ""41003"": 10.8}",Polk|Benton,41053|41003,False,False,America/Los_Angeles,"(44.77251, -123.32999)",3.8393608237579664,12528.0,45765_0_yes,44.72695727882266,-123.37479951473613,5.0

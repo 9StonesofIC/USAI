@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32058,30.07988,-82.10743,Lawtey,FL,Florida,True,,4728.0,25.5,12007,Bradford,"{""12007"": 86.69, ""12125"": 10.47, ""12019"": 2.84}",Bradford|Union|Clay,12007|12125|12019,False,False,America/New_York,"(30.07988, -82.10743)",1.6738983300370656,4728.0,12796_0_yes,30.055863492837773,-82.10375137395903,5.0

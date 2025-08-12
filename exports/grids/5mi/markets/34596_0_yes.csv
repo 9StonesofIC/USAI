@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21048,39.49568,-76.91057,Finksburg,MD,Maryland,True,,9719.0,137.7,24013,Carroll,"{""24013"": 100}",Carroll,24013,False,False,America/New_York,"(39.49568, -76.91057)",1.5792344242086849,9719.0,34596_0_yes,39.47378524228203,-76.91907027299875,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54610,44.37077,-91.82549,Alma,WI,Wisconsin,True,,1546.0,4.7,55011,Buffalo,"{""55011"": 100}",Buffalo,55011,False,False,America/Chicago,"(44.37077, -91.82549)",2.36246479865489,3521.0,44999_0_no,44.3370700330244,-91.81740417356312,5.0
+54622,44.26953,-91.76629,Cochrane,WI,Wisconsin,True,,1975.0,13.5,55011,Buffalo,"{""55011"": 100}",Buffalo,55011,False,False,America/Chicago,"(44.26953, -91.76629)",5.307054145244544,3521.0,44999_0_no,44.3370700330244,-91.81740417356312,5.0

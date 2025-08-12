@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68318,40.15598,-96.64439,Blue Springs,NE,Nebraska,True,,533.0,4.8,31067,Gage,"{""31067"": 100}",Gage,31067,False,False,America/Chicago,"(40.15598, -96.64439)",4.027753281883406,533.0,36273_0_yes,40.214018582873074,-96.6372505056474,5.0

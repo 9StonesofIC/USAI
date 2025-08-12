@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29640,34.88706,-82.57725,Easley,SC,South Carolina,True,,29766.0,134.2,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York,"(34.88706, -82.57725)",4.336434153624811,47891.0,24509_0_no,34.914009220732105,-82.64636146488694,5.0
+29671,34.94071,-82.72057,Pickens,SC,South Carolina,True,,18125.0,52.9,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York,"(34.94071, -82.72057)",4.590777431366457,47891.0,24509_0_no,34.914009220732105,-82.64636146488694,5.0

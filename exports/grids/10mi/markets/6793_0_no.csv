@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73638,35.86532,-99.79059,Crawford,OK,Oklahoma,True,,96.0,0.3,40129,Roger Mills,"{""40129"": 100}",Roger Mills,40129,False,False,America/Chicago,"(35.86532, -99.79059)",5.828099271971039,192.0,6793_0_no,35.85043094265499,-99.8930321563968,10.0
+73642,35.81909,-99.90887,Durham,OK,Oklahoma,True,,96.0,0.4,40129,Roger Mills,"{""40129"": 100}",Roger Mills,40129,False,False,America/Chicago,"(35.81909, -99.90887)",2.3401331736705733,192.0,6793_0_no,35.85043094265499,-99.8930321563968,10.0

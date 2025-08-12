@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13460,42.68492,-75.45572,Sherburne,NY,New York,True,,4122.0,23.9,36017,Chenango,"{""36017"": 95.98, ""36053"": 4.02}",Chenango|Madison,36017|36053,False,False,America/New_York,"(42.68492, -75.45572)",3.7633681898005187,4122.0,41382_0_yes,42.65814247772322,-75.52023002621316,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98862,48.58491,-120.22792,Winthrop,WA,Washington,True,,2605.0,2.1,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.58491, -120.22792)",5.068922326411609,2605.0,53301_0_no,48.56030160818996,-120.12346772491436,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54653,43.82586,-90.9129,Rockland,WI,Wisconsin,True,,910.0,16.3,55063,La Crosse,"{""55063"": 60.9, ""55081"": 39.1}",La Crosse|Monroe,55063|55081,False,False,America/Chicago,"(43.82586, -90.9129)",3.260109223272402,910.0,43846_0_yes,43.8296218887332,-90.97809579147749,5.0

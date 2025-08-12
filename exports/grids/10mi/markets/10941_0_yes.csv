@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97906,43.46049,-117.81783,Harper,OR,Oregon,True,,262.0,0.1,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise,"(43.46049, -117.81783)",6.706820435795666,262.0,10941_0_yes,43.55722318837682,-117.82895110074269,10.0

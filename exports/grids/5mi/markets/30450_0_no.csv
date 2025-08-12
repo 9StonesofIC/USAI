@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41311,37.57896,-83.72163,Beattyville,KY,Kentucky,True,,6929.0,15.7,21129,Lee,"{""21129"": 98.63, ""21189"": 0.94, ""21025"": 0.43}",Lee|Owsley|Breathitt,21129|21189|21025,False,False,America/New_York,"(37.57896, -83.72163)",4.555755497511243,6929.0,30450_0_no,37.52352173952419,-83.7666542764284,5.0

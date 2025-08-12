@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84657,38.81817,-111.94022,Sigurd,UT,Utah,True,,430.0,6.9,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.81817, -111.94022)",5.630379800329584,430.0,33196_0_yes,38.77723571946803,-111.84981017660688,5.0

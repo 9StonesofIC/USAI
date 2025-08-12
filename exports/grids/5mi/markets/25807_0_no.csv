@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27824,35.55688,-76.02105,Engelhard,NC,North Carolina,True,,1458.0,3.5,37095,Hyde,"{""37095"": 100}",Hyde,37095,False,False,America/New_York,"(35.55688, -76.02105)",5.82953873609083,1458.0,25807_0_no,35.48888741604257,-75.95967003236709,5.0

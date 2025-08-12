@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31903,32.41484,-84.95321,Columbus,GA,Georgia,True,,17796.0,688.8,13215,Muscogee,"{""13215"": 100}",Muscogee,13215,False,False,America/New_York,"(32.41484, -84.95321)",2.8365098128288317,17796.0,18410_0_yes,32.378355572809085,-84.9755010922073,5.0

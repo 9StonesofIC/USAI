@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67853,37.88416,-100.51616,Ingalls,KS,Kansas,True,,741.0,0.9,20069,Gray,"{""20069"": 83.97, ""20055"": 16.03}",Gray|Finney,20069|20055,False,False,America/Chicago,"(37.88416, -100.51616)",2.317060604030261,741.0,31209_0_yes,37.89870186203732,-100.47786910314454,5.0

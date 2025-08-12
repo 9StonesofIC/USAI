@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+44814,41.32162,-82.4714,Berlin Heights,OH,Ohio,True,,2547.0,38.5,39043,Erie,"{""39043"": 100}",Erie,39043,False,False,America/New_York,"(41.32162, -82.4714)",2.7831053748173895,14911.0,38679_0_yes,41.36100627517368,-82.4826409157773,5.0
+44839,41.3725,-82.55656,Huron,OH,Ohio,True,,12364.0,132.3,39043,Erie,"{""39043"": 100}",Erie,39043,False,False,America/New_York,"(41.3725, -82.55656)",3.914420378170007,14911.0,38679_0_yes,41.36100627517368,-82.4826409157773,5.0

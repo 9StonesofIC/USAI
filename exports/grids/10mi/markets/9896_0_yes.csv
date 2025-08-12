@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96094,41.51214,-122.36253,Weed,CA,California,True,,7104.0,13.7,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.51214, -122.36253)",3.6620743618482634,7104.0,9896_0_yes,41.53692236936306,-122.2999510882202,10.0

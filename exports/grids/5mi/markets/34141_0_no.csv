@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89311,39.16715,-114.19288,Baker,NV,Nevada,True,,206.0,0.1,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles,"(39.16715, -114.19288)",4.1503761313424015,206.0,34141_0_no,39.14142825548585,-114.12287746512251,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05486,44.62958,-73.31444,South Hero,VT,Vermont,True,,1641.0,43.6,50013,Grand Isle,"{""50013"": 100}",Grand Isle,50013,False,False,America/New_York,"(44.62958, -73.31444)",4.605580256067514,2947.0,45492_0_no,44.61022831344792,-73.40405509778046,5.0
+12903,44.65698,-73.46306,Plattsburgh,NY,New York,True,,1306.0,119.0,36019,Clinton,"{""36019"": 100}",Clinton,36019,False,False,America/New_York,"(44.65698, -73.46306)",4.341779220736285,2947.0,45492_0_no,44.61022831344792,-73.40405509778046,5.0

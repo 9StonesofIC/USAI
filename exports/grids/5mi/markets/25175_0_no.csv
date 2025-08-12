@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28722,35.23408,-82.12794,Columbus,NC,North Carolina,True,,6587.0,58.0,37149,Polk,"{""37149"": 100}",Polk,37149,False,False,America/New_York,"(35.23408, -82.12794)",2.2766006676692214,13481.0,25175_0_no,35.20354465919699,-82.14309406246498,5.0
+28782,35.23569,-82.1519,Tryon,NC,North Carolina,True,,6894.0,54.3,37149,Polk,"{""37149"": 100}",Polk,37149,False,False,America/New_York,"(35.23569, -82.1519)",2.275971624253257,13481.0,25175_0_no,35.20354465919699,-82.14309406246498,5.0

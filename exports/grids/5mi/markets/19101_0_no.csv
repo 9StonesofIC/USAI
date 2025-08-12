@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36765,32.59278,-87.51933,Newbern,AL,Alabama,True,,2207.0,14.8,1105,Perry,"{""01105"": 50.73, ""01065"": 49.27}",Perry|Hale,01105|01065,False,False,America/Chicago,"(32.59278, -87.51933)",1.3758415538272275,2207.0,19101_0_no,32.59766154361013,-87.54224420442826,5.0

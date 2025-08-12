@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57528,43.17814,-99.75901,Colome,SD,South Dakota,True,,942.0,1.7,46123,Tripp,"{""46123"": 100}",Tripp,46123,False,False,America/Chicago,"(43.17814, -99.75901)",10.333001073040064,942.0,10733_0_no,43.092013173736575,-99.92654951647904,10.0

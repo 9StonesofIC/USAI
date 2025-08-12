@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78521,25.95109,-97.32078,Brownsville,TX,Texas,True,,89629.0,369.2,48061,Cameron,"{""48061"": 100}",Cameron,48061,False,False,America/Chicago,"(25.95109, -97.32078)",18.367905112570977,101138.0,233_0_no,25.810279062671967,-97.07015745322664,20.0
+78578,26.05336,-97.31004,Port Isabel,TX,Texas,True,,11509.0,78.0,48061,Cameron,"{""48061"": 100}",Cameron,48061,False,False,America/Chicago,"(26.05336, -97.31004)",22.45564147823392,101138.0,233_0_no,25.810279062671967,-97.07015745322664,20.0

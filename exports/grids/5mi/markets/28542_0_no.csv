@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65715,36.73192,-92.57631,Noble,MO,Missouri,True,,16.0,0.5,29153,Ozark,"{""29153"": 100}",Ozark,29153,False,False,America/Chicago,"(36.73192, -92.57631)",6.001995897002215,16.0,28542_0_no,36.66068398139221,-92.51430848231314,5.0

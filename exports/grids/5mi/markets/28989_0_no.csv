@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89027,36.81374,-114.08857,Mesquite,NV,Nevada,True,,19087.0,589.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles,"(36.81374, -114.08857)",0.7296300878693786,19087.0,28989_0_no,36.82198918279713,-114.09680545735893,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59546,47.88208,-108.55654,Zortman,MT,Montana,True,,135.0,0.6,30071,Phillips,"{""30071"": 100}",Phillips,30071,False,False,America/Denver,"(47.88208, -108.55654)",10.024531475294149,135.0,13050_0_no,47.738239297012456,-108.5282887390986,10.0

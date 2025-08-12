@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95648,38.92643,-121.31101,Lincoln,CA,California,True,,52777.0,141.2,6061,Placer,"{""06061"": 100}",Placer,06061,False,False,America/Los_Angeles,"(38.92643, -121.31101)",1.256992264430914,53800.0,33565_0_yes,38.9296745516652,-121.2879991145962,5.0
+95681,38.99809,-121.35422,Sheridan,CA,California,True,,1023.0,25.3,6061,Placer,"{""06061"": 100}",Placer,06061,False,False,America/Los_Angeles,"(38.99809, -121.35422)",5.916207128463409,53800.0,33565_0_yes,38.9296745516652,-121.2879991145962,5.0

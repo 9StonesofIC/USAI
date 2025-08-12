@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87061,34.705,-106.38145,Torreon,NM,New Mexico,True,,293.0,1.2,35057,Torrance,"{""35057"": 100}",Torrance,35057,False,False,America/Denver,"(34.705, -106.38145)",9.277324928918242,293.0,6144_0_no,34.70013399928141,-106.21823265092786,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87829,34.25215,-108.64369,Quemado,NM,New Mexico,True,,744.0,0.2,35003,Catron,"{""35003"": 100}",Catron,35003,False,False,America/Denver,"(34.25215, -108.64369)",4.634261794221937,744.0,22990_0_yes,34.28012671416315,-108.56992814759194,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79018,35.69322,-102.33767,Channing,TX,Texas,True,,330.0,0.3,48205,Hartley,"{""48205"": 65.32, ""48341"": 19.07, ""48359"": 15.61}",Hartley|Moore|Oldham,48205|48341|48359,False,False,America/Chicago,"(35.69322, -102.33767)",4.502603318473749,330.0,26306_0_yes,35.725774971881066,-102.4071940576142,5.0

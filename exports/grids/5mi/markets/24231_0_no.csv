@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72122,34.77955,-92.77549,Paron,AR,Arkansas,True,,625.0,1.9,5125,Saline,"{""05125"": 89.97, ""05119"": 10.03}",Saline|Pulaski,05125|05119,False,False,America/Chicago,"(34.77955, -92.77549)",1.9406282198445668,625.0,24231_0_no,34.77634176860947,-92.74151842993302,5.0

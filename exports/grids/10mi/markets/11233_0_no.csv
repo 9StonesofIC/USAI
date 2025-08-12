@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97413,44.09633,-122.01513,Blue River,OR,Oregon,True,,944.0,0.8,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(44.09633, -122.01513)",6.757173704065193,944.0,11233_0_no,43.99923351401384,-122.03139387338447,10.0

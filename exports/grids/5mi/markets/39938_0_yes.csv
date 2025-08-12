@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61015,41.99443,-89.20011,Chana,IL,Illinois,True,,944.0,9.3,17141,Ogle,"{""17141"": 100}",Ogle,17141,False,False,America/Chicago,"(41.99443, -89.20011)",5.318000788809514,7499.0,39938_0_yes,41.94594175057176,-89.2805070246778,5.0
+61061,41.99851,-89.33819,Oregon,IL,Illinois,True,,6555.0,24.0,17141,Ogle,"{""17141"": 100}",Ogle,17141,False,False,America/Chicago,"(41.99851, -89.33819)",4.6874613520419075,7499.0,39938_0_yes,41.94594175057176,-89.2805070246778,5.0

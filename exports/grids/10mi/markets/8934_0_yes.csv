@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84526,39.72395,-111.04571,Helper,UT,Utah,True,,4114.0,8.2,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver,"(39.72395, -111.04571)",4.701120483818123,4114.0,8934_0_yes,39.779853782329255,-111.09615641463542,10.0

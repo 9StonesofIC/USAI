@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78349,27.37501,-98.29983,Concepcion,TX,Texas,True,,598.0,1.9,48131,Duval,"{""48131"": 100}",Duval,48131,False,False,America/Chicago,"(27.37501, -98.29983)",5.0314146721895145,598.0,6075_0_yes,27.308650212281545,-98.33358800940648,5.0

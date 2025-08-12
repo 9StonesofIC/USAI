@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62922,37.6215,-88.81531,Creal Springs,IL,Illinois,True,,3089.0,18.8,17199,Williamson,"{""17199"": 73.75, ""17087"": 26.25}",Williamson|Johnson,17199|17087,False,False,America/Chicago,"(37.6215, -88.81531)",3.692931093753206,3089.0,30801_0_no,37.672305712766935,-88.79434679856311,5.0

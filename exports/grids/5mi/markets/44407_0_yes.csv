@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49665,44.0995,-85.1309,Marion,MI,Michigan,True,,4329.0,10.7,26133,Osceola,"{""26133"": 64.33, ""26035"": 29.06, ""26113"": 6.61}",Osceola|Clare|Missaukee,26133|26035|26113,False,False,America/Detroit,"(44.0995, -85.1309)",2.7761507380687274,4329.0,44407_0_yes,44.11404699621775,-85.18306093721499,5.0

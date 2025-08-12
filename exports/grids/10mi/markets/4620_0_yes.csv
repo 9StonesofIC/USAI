@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88030,32.19039,-107.72768,Deming,NM,New Mexico,True,,22906.0,3.4,35029,Luna,"{""35029"": 100}",Luna,35029,False,False,America/Denver,"(32.19039, -107.72768)",9.161486346132637,22906.0,4620_0_yes,32.23684055098622,-107.58089104760508,10.0

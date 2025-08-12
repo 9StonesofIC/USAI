@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74945,35.58232,-94.81864,Marble City,OK,Oklahoma,True,,365.0,346.8,40135,Sequoyah,"{""40135"": 100}",Sequoyah,40135,False,False,America/Chicago,"(35.58232, -94.81864)",0.5753672456939458,365.0,25931_0_yes,35.575193345306474,-94.81334356768922,5.0

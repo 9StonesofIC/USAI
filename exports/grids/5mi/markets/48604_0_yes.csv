@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83501,46.2283,-116.90608,Lewiston,ID,Idaho,True,,35183.0,55.6,16069,Nez Perce,"{""16069"": 100}",Nez Perce,16069,False,False,America/Los_Angeles,"(46.2283, -116.90608)",4.404643443000931,35183.0,48604_0_yes,46.16901915962632,-116.87220585991729,5.0

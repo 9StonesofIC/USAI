@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48032,43.13278,-82.59457,Jeddo,MI,Michigan,True,,1763.0,18.5,26147,St. Clair,"{""26147"": 80.38, ""26151"": 19.62}",St. Clair|Sanilac,26147|26151,False,False,America/Detroit,"(43.13278, -82.59457)",3.3447681144555372,1763.0,42590_0_no,43.17090298645442,-82.5536751092654,5.0

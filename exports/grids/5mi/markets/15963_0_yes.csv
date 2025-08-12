@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31552,31.29144,-82.5996,Millwood,GA,Georgia,True,,965.0,3.7,13299,Ware,"{""13299"": 90.19, ""13003"": 6.76, ""13069"": 3.05}",Ware|Atkinson|Coffee,13299|13003|13069,False,False,America/New_York,"(31.29144, -82.5996)",6.105814366042718,965.0,15963_0_yes,31.361552564542368,-82.53662802969785,5.0

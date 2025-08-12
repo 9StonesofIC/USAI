@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56060,43.93221,-94.43691,Lewisville,MN,Minnesota,True,,527.0,5.7,27165,Watonwan,"{""27165"": 94.09, ""27013"": 5.91}",Watonwan|Blue Earth,27165|27013,False,False,America/Chicago,"(43.93221, -94.43691)",2.280452541945594,527.0,44132_0_no,43.90510735290831,-94.46305947654422,5.0

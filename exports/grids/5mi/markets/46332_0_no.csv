@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04667,44.97853,-67.10413,Perry,ME,Maine,True,,1299.0,16.8,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.97853, -67.10413)",4.197447475636037,1895.0,46332_0_no,45.0386893882226,-67.09217414952377,5.0
+04671,45.06618,-67.16247,Robbinston,ME,Maine,True,,596.0,8.2,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(45.06618, -67.16247)",3.9219048638307994,1895.0,46332_0_no,45.0386893882226,-67.09217414952377,5.0

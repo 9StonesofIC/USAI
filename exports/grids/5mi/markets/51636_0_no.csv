@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59860,47.71314,-114.17832,Polson,MT,Montana,True,,10834.0,16.0,30047,Lake,"{""30047"": 100}",Lake,30047,False,False,America/Denver,"(47.71314, -114.17832)",2.1314720447356077,10834.0,51636_0_no,47.68642341657896,-114.20123743632703,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82732,43.725,-105.57871,Wright,WY,Wyoming,True,,1947.0,9.8,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver,"(43.725, -105.57871)",5.696581610704817,1947.0,11045_0_no,43.68100762739412,-105.6751645282756,10.0

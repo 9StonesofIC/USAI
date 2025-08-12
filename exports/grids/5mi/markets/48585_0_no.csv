@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99324,46.04376,-118.38542,College Place,WA,Washington,True,,9739.0,1357.0,53071,Walla Walla,"{""53071"": 100}",Walla Walla,53071,False,False,America/Los_Angeles,"(46.04376, -118.38542)",5.461494025208134,9739.0,48585_0_no,46.098139715422455,-118.46810911143618,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63767,37.04356,-89.61038,Morley,MO,Missouri,True,,689.0,295.4,29201,Scott,"{""29201"": 100}",Scott,29201,False,False,America/Chicago,"(37.04356, -89.61038)",3.4429240819386475,689.0,29507_0_no,37.09327621624802,-89.61459762471247,5.0

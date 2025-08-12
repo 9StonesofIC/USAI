@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67523,38.19687,-99.55256,Burdett,KS,Kansas,True,,557.0,1.5,20145,Pawnee,"{""20145"": 65.75, ""20083"": 34.25}",Pawnee|Hodgeman,20145|20083,False,False,America/Chicago,"(38.19687, -99.55256)",4.9324517743352745,675.0,31848_0_yes,38.187762897351874,-99.46247056734008,5.0
+67574,38.22045,-99.39185,Rozel,KS,Kansas,True,,118.0,0.4,20145,Pawnee,"{""20145"": 100}",Pawnee,20145,False,False,America/Chicago,"(38.22045, -99.39185)",4.450007279000297,675.0,31848_0_yes,38.187762897351874,-99.46247056734008,5.0

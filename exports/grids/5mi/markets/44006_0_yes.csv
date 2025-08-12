@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97426,43.90313,-123.02781,Creswell,OR,Oregon,True,,9987.0,51.4,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles,"(43.90313, -123.02781)",3.46979318462088,9987.0,44006_0_yes,43.85765755435835,-122.99824270013416,5.0

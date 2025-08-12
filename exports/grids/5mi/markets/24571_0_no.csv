@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72827,34.87758,-93.61948,Bluffton,AR,Arkansas,True,,218.0,2.2,5149,Yell,"{""05149"": 84.42, ""05127"": 15.58}",Yell|Scott,05149|05127,False,False,America/Chicago,"(34.87758, -93.61948)",4.324500718366148,331.0,24571_0_no,34.92192160538071,-93.56562098076922,5.0
+72828,34.92613,-93.53951,Briggsville,AR,Arkansas,True,,113.0,2.5,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago,"(34.92613, -93.53951)",1.5075087851922393,331.0,24571_0_no,34.92192160538071,-93.56562098076922,5.0

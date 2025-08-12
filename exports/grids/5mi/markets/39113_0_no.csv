@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84324,41.49253,-111.93868,Mantua,UT,Utah,True,,1017.0,17.8,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver,"(41.49253, -111.93868)",4.548770302415035,1017.0,39113_0_no,41.45817114577245,-112.0136332800719,5.0

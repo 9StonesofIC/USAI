@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30746,34.59214,-85.03285,Sugar Valley,GA,Georgia,True,,762.0,13.8,13129,Gordon,"{""13129"": 84.55, ""13295"": 15.45}",Gordon|Walker,13129|13295,False,False,America/New_York,"(34.59214, -85.03285)",3.361691107837442,762.0,23851_0_no,34.62584083221182,-85.0754874610189,5.0

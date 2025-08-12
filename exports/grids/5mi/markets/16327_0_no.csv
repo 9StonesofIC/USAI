@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36401,31.47123,-86.94928,Evergreen,AL,Alabama,True,,7900.0,6.9,1035,Conecuh,"{""01035"": 93.53, ""01099"": 5.68, ""01053"": 0.79}",Conecuh|Monroe|Escambia,01035|01099|01053,False,False,America/Chicago,"(31.47123, -86.94928)",3.5801315695740397,7900.0,16327_0_no,31.437044792927683,-86.99492642707278,5.0

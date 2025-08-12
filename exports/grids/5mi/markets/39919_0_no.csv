@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52777,41.84739,-90.85529,Wheatland,IA,Iowa,True,,1409.0,9.8,19045,Clinton,"{""19045"": 92.54, ""19031"": 7.46}",Clinton|Cedar,19045|19031,False,False,America/Chicago,"(41.84739, -90.85529)",3.765454603684168,1409.0,39919_0_no,41.8748597192825,-90.7920907508628,5.0

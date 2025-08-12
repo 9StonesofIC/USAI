@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50257,41.19092,-93.85048,Truro,IA,Iowa,True,,1236.0,10.9,19121,Madison,"{""19121"": 75.87, ""19039"": 20.47, ""19181"": 3.66}",Madison|Clarke|Warren,19121|19039|19181,False,False,America/Chicago,"(41.19092, -93.85048)",2.608041092090445,1236.0,38405_0_no,41.15330366066926,-93.85464226543192,5.0

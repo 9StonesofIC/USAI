@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27569,35.43306,-78.17432,Princeton,NC,North Carolina,True,,8813.0,42.5,37101,Johnston,"{""37101"": 79.03, ""37191"": 20.97}",Johnston|Wayne,37101|37191,False,False,America/New_York,"(35.43306, -78.17432)",2.2432993183177485,8813.0,25504_0_yes,35.41803828083562,-78.20964294189017,5.0

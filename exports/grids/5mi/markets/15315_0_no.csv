@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71459,31.07854,-93.21723,Fort Polk,LA,Louisiana,True,,11223.0,387.8,22115,Vernon,"{""22115"": 100}",Vernon,22115,False,False,America/Chicago,"(31.07854, -93.21723)",5.122896319262673,11223.0,15315_0_no,31.005973355495904,-93.23498786989823,5.0

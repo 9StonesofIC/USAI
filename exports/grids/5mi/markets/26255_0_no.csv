@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74833,35.58262,-96.41193,Castle,OK,Oklahoma,True,,681.0,5.8,40107,Okfuskee,"{""40107"": 100}",Okfuskee,40107,False,False,America/Chicago,"(35.58262, -96.41193)",6.093899041371104,681.0,26255_0_no,35.64894803733959,-96.48343984816589,5.0

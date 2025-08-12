@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93013,34.42697,-119.48032,Carpinteria,CA,California,True,,17021.0,158.8,6083,Santa Barbara,"{""06083"": 74.7, ""06111"": 25.3}",Santa Barbara|Ventura,06083|06111,False,False,America/Los_Angeles,"(34.42697, -119.48032)",4.690282159478428,17021.0,23374_0_no,34.36048776082282,-119.49694685493806,5.0

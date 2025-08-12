@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71401,31.79477,-91.94461,Aimwell,LA,Louisiana,True,,73.0,1.7,22025,Catahoula,"{""22025"": 100}",Catahoula,22025,False,False,America/Chicago,"(31.79477, -91.94461)",4.791033923508243,73.0,17065_0_yes,31.80296837041494,-92.02562515911217,5.0

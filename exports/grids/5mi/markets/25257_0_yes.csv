@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72851,35.26092,-93.45693,New Blaine,AR,Arkansas,True,,495.0,3.6,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago,"(35.26092, -93.45693)",3.211559607006205,1816.0,25257_0_yes,35.2842885315986,-93.50614525393225,5.0
+72865,35.31143,-93.5673,Subiaco,AR,Arkansas,True,,1321.0,20.0,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago,"(35.31143, -93.5673)",3.925496003431657,1816.0,25257_0_yes,35.2842885315986,-93.50614525393225,5.0

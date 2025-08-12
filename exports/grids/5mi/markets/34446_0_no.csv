@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84656,39.23513,-112.1088,Scipio,UT,Utah,True,,367.0,37.3,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver,"(39.23513, -112.1088)",4.693884577273153,367.0,34446_0_no,39.28470058220772,-112.04880394975336,5.0

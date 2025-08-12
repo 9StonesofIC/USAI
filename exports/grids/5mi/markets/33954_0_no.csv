@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26260,39.08923,-79.41147,Davis,WV,West Virginia,True,,1546.0,4.2,54093,Tucker,"{""54093"": 100}",Tucker,54093,False,False,America/New_York,"(39.08923, -79.41147)",5.212223462503091,1546.0,33954_0_no,39.11364467922817,-79.3194925973312,5.0

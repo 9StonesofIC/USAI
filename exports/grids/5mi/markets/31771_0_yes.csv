@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40022,38.15242,-85.3341,Finchville,KY,Kentucky,True,,957.0,22.6,21211,Shelby,"{""21211"": 100}",Shelby,21211,False,False,America/New_York,"(38.15242, -85.3341)",1.8726424829226482,7740.0,31771_0_yes,38.17670071080861,-85.31878337975431,5.0
+40067,38.2269,-85.364,Simpsonville,KY,Kentucky,True,,6783.0,60.2,21211,Shelby,"{""21211"": 100}",Shelby,21211,False,False,America/New_York,"(38.2269, -85.364)",4.249417357569329,7740.0,31771_0_yes,38.17670071080861,-85.31878337975431,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81323,37.64874,-108.27823,Dolores,CO,Colorado,True,,4758.0,2.4,8033,Dolores,"{""08033"": 51.67, ""08083"": 48.33}",Dolores|Montezuma,08033|08083,False,False,America/Denver,"(37.64874, -108.27823)",9.178497218860555,4758.0,7799_0_no,37.60234760647184,-108.43539537988116,10.0

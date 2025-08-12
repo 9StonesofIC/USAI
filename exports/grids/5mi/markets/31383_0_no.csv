@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23126,37.92285,-77.1448,Newtown,VA,Virginia,True,,505.0,8.8,51097,King and Queen,"{""51097"": 100}",King and Queen,51097,False,False,America/New_York,"(37.92285, -77.1448)",2.6099149021914756,505.0,31383_0_no,37.95302444726401,-77.11598786937233,5.0

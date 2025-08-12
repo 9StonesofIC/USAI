@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95333,37.2447,-120.24277,Le Grand,CA,California,True,,3012.0,9.5,6047,Merced,"{""06047"": 100}",Merced,06047,False,False,America/Los_Angeles,"(37.2447, -120.24277)",4.554906331800292,3012.0,29696_0_yes,37.18915292864356,-120.2873524074108,5.0

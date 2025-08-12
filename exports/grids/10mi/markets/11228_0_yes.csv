@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83227,44.16563,-114.49424,Clayton,ID,Idaho,True,,17.0,0.0,16037,Custer,"{""16037"": 100}",Custer,16037,False,False,America/Boise,"(44.16563, -114.49424)",3.367345242280972,17.0,11228_0_yes,44.130677940503375,-114.5415740730431,10.0

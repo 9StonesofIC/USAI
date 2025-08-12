@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59327,46.2389,-106.7082,Forsyth,MT,Montana,True,,2619.0,0.5,30087,Rosebud,"{""30087"": 100}",Rosebud,30087,False,False,America/Denver,"(46.2389, -106.7082)",6.944233931700585,2619.0,12221_0_yes,46.143009040109625,-106.66471498215104,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81413,38.97171,-107.90845,Cedaredge,CO,Colorado,True,,5633.0,14.2,8029,Delta,"{""08029"": 100}",Delta,08029,False,False,America/Denver,"(38.97171, -107.90845)",3.7593673805133765,5633.0,33493_0_yes,38.91905390329068,-107.92606899912516,5.0

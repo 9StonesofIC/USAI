@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49071,42.2275,-85.78002,Mattawan,MI,Michigan,True,,11022.0,144.7,26159,Van Buren,"{""26159"": 74.14, ""26077"": 25.86}",Van Buren|Kalamazoo,26159|26077,False,False,America/Detroit,"(42.2275, -85.78002)",1.2373556304876139,11022.0,40528_0_yes,42.23259312700453,-85.80320709712143,5.0

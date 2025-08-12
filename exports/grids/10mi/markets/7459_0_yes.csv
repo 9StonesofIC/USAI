@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67127,37.16009,-99.49057,Protection,KS,Kansas,True,,555.0,1.2,20033,Comanche,"{""20033"": 88.44, ""20025"": 11.56}",Comanche|Clark,20033|20025,False,False,America/Chicago,"(37.16009, -99.49057)",7.695861731426058,1559.0,7459_0_yes,37.15396061228374,-99.63011455153128,10.0
+67831,37.17956,-99.8018,Ashland,KS,Kansas,True,,1004.0,0.9,20025,Clark,"{""20025"": 100}",Clark,20025,False,False,America/Chicago,"(37.17956, -99.8018)",9.616916107028128,1559.0,7459_0_yes,37.15396061228374,-99.63011455153128,10.0

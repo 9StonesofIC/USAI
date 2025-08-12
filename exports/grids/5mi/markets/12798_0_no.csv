@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32346,29.97919,-84.38387,Panacea,FL,Florida,True,,1709.0,23.2,12129,Wakulla,"{""12129"": 60.54, ""12037"": 39.46}",Wakulla|Franklin,12129|12037,False,False,America/New_York,"(29.97919, -84.38387)",0.5359325286163407,1709.0,12798_0_no,29.98481055697713,-84.39004137343639,5.0

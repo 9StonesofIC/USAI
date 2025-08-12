@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57220,44.45927,-96.92022,Bruce,SD,South Dakota,True,,843.0,3.0,46011,Brookings,"{""46011"": 100}",Brookings,46011,False,False,America/Chicago,"(44.45927, -96.92022)",3.1958865983326987,843.0,45051_0_yes,44.41390015799777,-96.9076105134032,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64657,40.13269,-94.21292,McFall,MO,Missouri,True,,491.0,2.8,29075,Gentry,"{""29075"": 53.92, ""29081"": 35.86, ""29061"": 10.22}",Gentry|Harrison|Daviess,29075|29081|29061,False,False,America/Chicago,"(40.13269, -94.21292)",4.2658626384767535,491.0,36236_0_no,40.139586609580654,-94.13266766476966,5.0

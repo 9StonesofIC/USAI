@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62882,38.63474,-89.1197,Sandoval,IL,Illinois,True,,2252.0,27.6,17121,Marion,"{""17121"": 82.8, ""17027"": 17.2}",Marion|Clinton,17121|17027,False,False,America/Chicago,"(38.63474, -89.1197)",1.9781337048641519,2252.0,32754_0_yes,38.61436579012096,-89.1454453890902,5.0

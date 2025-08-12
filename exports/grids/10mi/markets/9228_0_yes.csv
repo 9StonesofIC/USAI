@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80705,40.27116,-103.83428,Log Lane Village,CO,Colorado,True,,1078.0,1255.3,8087,Morgan,"{""08087"": 100}",Morgan,08087,False,False,America/Denver,"(40.27116, -103.83428)",6.015775619361448,1403.0,9228_0_yes,40.34735282582911,-103.77902551401972,10.0
+80750,40.41144,-103.60681,Snyder,CO,Colorado,True,,325.0,1.0,8087,Morgan,"{""08087"": 100}",Morgan,08087,False,False,America/Denver,"(40.41144, -103.60681)",10.088033487238478,1403.0,9228_0_yes,40.34735282582911,-103.77902551401972,10.0

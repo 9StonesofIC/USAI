@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47023,39.07255,-85.37467,Holton,IN,Indiana,True,,1881.0,14.6,18137,Ripley,"{""18137"": 100}",Ripley,18137,False,False,America/Indiana/Indianapolis,"(39.07255, -85.37467)",5.583058355759367,2843.0,33987_0_no,39.11854567668345,-85.46027308999419,5.0
+47223,39.0555,-85.48218,Butlerville,IN,Indiana,True,,962.0,8.1,18079,Jennings,"{""18079"": 100}",Jennings,18079,False,False,America/Indiana/Indianapolis,"(39.0555, -85.48218)",4.511694520879386,2843.0,33987_0_no,39.11854567668345,-85.46027308999419,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63451,39.91135,-92.19728,Leonard,MO,Missouri,True,,167.0,1.0,29205,Shelby,"{""29205"": 90.33, ""29103"": 9.67}",Shelby|Knox,29205|29103,False,False,America/Chicago,"(39.91135, -92.19728)",4.360817542188445,167.0,35600_0_no,39.8482845137895,-92.19402929616308,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54856,46.43401,-91.10279,Mason,WI,Wisconsin,True,,1671.0,3.1,55007,Bayfield,"{""55007"": 98.48, ""55003"": 1.52}",Bayfield|Ashland,55007|55003,False,False,America/Chicago,"(46.43401, -91.10279)",5.968662246591814,1671.0,49019_0_no,46.36258412907312,-91.03233612242605,5.0

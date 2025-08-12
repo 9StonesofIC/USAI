@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36314,31.02141,-85.77645,Black,AL,Alabama,True,,576.0,8.6,1061,Geneva,"{""01061"": 100}",Geneva,01061,False,False,America/Chicago,"(31.02141, -85.77645)",5.707824471259473,6140.0,15282_0_yes,31.073551214415332,-85.70165940683144,5.0
+36344,31.1007,-85.70931,Hartford,AL,Alabama,True,,5564.0,16.8,1061,Geneva,"{""01061"": 100}",Geneva,01061,False,False,America/Chicago,"(31.1007, -85.70931)",1.9296533334261756,6140.0,15282_0_yes,31.073551214415332,-85.70165940683144,5.0

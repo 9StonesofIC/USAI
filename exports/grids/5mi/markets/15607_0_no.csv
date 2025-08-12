@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31620,31.11861,-83.43731,Adel,GA,Georgia,True,,11272.0,34.8,13075,Cook,"{""13075"": 100}",Cook,13075,False,False,America/New_York,"(31.11861, -83.43731)",2.933362481309091,14843.0,15607_0_no,31.14459605447265,-83.39808825397527,5.0
+31647,31.21033,-83.43158,Sparks,GA,Georgia,True,,3571.0,30.6,13075,Cook,"{""13075"": 100}",Cook,13075,False,False,America/New_York,"(31.21033, -83.43158)",4.9545472675792865,14843.0,15607_0_no,31.14459605447265,-83.39808825397527,5.0

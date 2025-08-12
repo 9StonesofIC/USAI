@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48028,42.58947,-82.61948,Harsens Island,MI,Michigan,True,,1026.0,22.3,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(42.58947, -82.61948)",5.86770254079958,1026.0,41117_0_yes,42.51950493221651,-82.68482490281538,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80106,39.17646,-104.52975,Elbert,CO,Colorado,True,,6120.0,13.7,8039,Elbert,"{""08039"": 79.72, ""08041"": 16.66, ""08035"": 3.62}",Elbert|El Paso|Douglas,08039|08041|08035,False,False,America/Denver,"(39.17646, -104.52975)",1.629574995040444,6120.0,8600_0_yes,39.18977522242297,-104.50463560560816,10.0

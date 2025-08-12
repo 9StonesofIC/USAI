@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56651,47.43883,-95.6172,Lengby,MN,Minnesota,True,,634.0,3.5,27087,Mahnomen,"{""27087"": 82.59, ""27119"": 17.41}",Mahnomen|Polk,27087|27119,False,False,America/Chicago,"(47.43883, -95.6172)",3.612878408191391,634.0,51024_0_yes,47.4519158213217,-95.54234205855676,5.0

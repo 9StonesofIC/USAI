@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55302,45.24464,-94.11638,Annandale,MN,Minnesota,True,,7393.0,42.1,27171,Wright,"{""27171"": 100}",Wright,27171,False,False,America/Chicago,"(45.24464, -94.11638)",5.2509895907359585,12424.0,46779_0_yes,45.27983369640635,-94.02068174877886,5.0
+55358,45.24637,-94.00049,Maple Lake,MN,Minnesota,True,,5031.0,35.6,27171,Wright,"{""27171"": 100}",Wright,27171,False,False,America/Chicago,"(45.24637, -94.00049)",2.511999695145697,12424.0,46779_0_yes,45.27983369640635,-94.02068174877886,5.0

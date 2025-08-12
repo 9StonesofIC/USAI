@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39478,31.05306,-89.85768,Sandy Hook,MS,Mississippi,True,,1961.0,10.3,28091,Marion,"{""28091"": 54.06, ""28147"": 45.94}",Marion|Walthall,28091|28147,False,False,America/Chicago,"(31.05306, -89.85768)",3.8992443583944185,1961.0,15307_0_yes,31.076307785027243,-89.91771317540261,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29379,34.68772,-81.60403,Union,SC,South Carolina,True,,17438.0,27.7,45087,Union,"{""45087"": 100}",Union,45087,False,False,America/New_York,"(34.68772, -81.60403)",4.957301977764918,17438.0,23831_0_no,34.62331603458398,-81.56558919424377,5.0

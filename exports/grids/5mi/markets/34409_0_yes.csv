@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67701,39.39509,-101.05034,Colby,KS,Kansas,True,,6224.0,5.3,20193,Thomas,"{""20193"": 87.16, ""20153"": 12.84}",Thomas|Rawlins,20193|20153,False,False,America/Chicago,"(39.39509, -101.05034)",4.156254742163571,6224.0,34409_0_yes,39.34833805012437,-101.09930471427944,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37018,35.64255,-86.19876,Beechgrove,TN,Tennessee,True,,2494.0,23.9,47031,Coffee,"{""47031"": 90.59, ""47003"": 9.41}",Coffee|Bedford,47031|47003,False,False,America/Chicago,"(35.64255, -86.19876)",5.087263985039569,2494.0,26215_0_yes,35.71381404298712,-86.22154742370142,5.0

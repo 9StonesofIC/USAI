@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19947,38.67421,-75.39864,Georgetown,DE,Delaware,True,,20033.0,64.9,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.67421, -75.39864)",6.3076809619416965,34590.0,32680_0_yes,38.60357173100326,-75.4726787846539,5.0
+19956,38.5465,-75.53961,Laurel,DE,Delaware,True,,14557.0,56.0,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York,"(38.5465, -75.53961)",5.349822620274612,34590.0,32680_0_yes,38.60357173100326,-75.4726787846539,5.0

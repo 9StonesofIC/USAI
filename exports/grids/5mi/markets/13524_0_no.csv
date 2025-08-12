@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36561,30.28813,-87.57142,Orange Beach,AL,Alabama,True,,6774.0,156.6,1003,Baldwin,"{""01003"": 100}",Baldwin,01003,False,False,America/Chicago,"(30.28813, -87.57142)",2.7950123994400573,6774.0,13524_0_no,30.276998511134963,-87.61645620174959,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83808,47.31276,-116.07659,Calder,ID,Idaho,True,,168.0,0.3,16079,Shoshone,"{""16079"": 100}",Shoshone,16079,False,False,America/Los_Angeles,"(47.31276, -116.07659)",5.745117748769773,168.0,50816_0_no,47.25389849937104,-115.99001483129558,5.0

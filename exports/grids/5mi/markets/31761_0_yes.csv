@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40351,38.19817,-83.4133,Morehead,KY,Kentucky,True,,22097.0,31.8,21205,Rowan,"{""21205"": 94.01, ""21063"": 5.69, ""21043"": 0.3}",Rowan|Elliott|Carter,21205|21063|21043,False,False,America/New_York,"(38.19817, -83.4133)",4.057601168072463,22097.0,31761_0_yes,38.17526438360272,-83.48209776221907,5.0

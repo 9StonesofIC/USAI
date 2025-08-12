@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71724,33.326,-92.54053,Calion,AR,Arkansas,True,,404.0,86.3,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago,"(33.326, -92.54053)",3.0681369054864254,1172.0,20844_0_no,33.326231793532216,-92.5936742208022,5.0
+71759,33.31506,-92.65967,Norphlet,AR,Arkansas,True,,768.0,335.0,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago,"(33.31506, -92.65967)",3.887674425294797,1172.0,20844_0_no,33.326231793532216,-92.5936742208022,5.0

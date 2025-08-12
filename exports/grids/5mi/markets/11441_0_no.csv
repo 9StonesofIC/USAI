@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77650,29.42995,-94.68096,Port Bolivar,TX,Texas,True,,1930.0,33.9,48167,Galveston,"{""48167"": 100}",Galveston,48167,False,False,America/Chicago,"(29.42995, -94.68096)",3.644032773671651,1930.0,11441_0_no,29.410957428866784,-94.73744686539484,5.0

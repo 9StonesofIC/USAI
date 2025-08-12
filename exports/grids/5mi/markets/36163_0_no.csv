@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15323,40.10845,-80.40926,Claysville,PA,Pennsylvania,True,,4265.0,23.0,42125,Washington,"{""42125"": 100}",Washington,42125,False,False,America/New_York,"(40.10845, -80.40926)",3.5157206564117853,4265.0,36163_0_no,40.1283483557852,-80.34801942757667,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98629,45.88109,-122.6148,La Center,WA,Washington,True,,8761.0,89.5,53011,Clark,"{""53011"": 100}",Clark,53011,False,False,America/Los_Angeles,"(45.88109, -122.6148)",4.93325059532528,29681.0,48037_0_no,45.812371057973394,-122.64262320899044,5.0
+98642,45.80262,-122.7019,Ridgefield,WA,Washington,True,,20920.0,142.1,53011,Clark,"{""53011"": 100}",Clark,53011,False,False,America/Los_Angeles,"(45.80262, -122.7019)",2.933369919193606,29681.0,48037_0_no,45.812371057973394,-122.64262320899044,5.0

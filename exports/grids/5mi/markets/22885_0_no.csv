@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71941,34.2487,-92.95312,Donaldson,AR,Arkansas,True,,2333.0,12.8,5059,Hot Spring,"{""05059"": 100}",Hot Spring,05059,False,False,America/Chicago,"(34.2487, -92.95312)",3.6536616520513423,2333.0,22885_0_no,34.19653631614639,-92.9636109166104,5.0

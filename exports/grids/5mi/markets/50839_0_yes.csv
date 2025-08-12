@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59866,47.32207,-115.12329,Saint Regis,MT,Montana,True,,869.0,1.5,30061,Mineral,"{""30061"": 90.51, ""30089"": 9.49}",Mineral|Sanders,30061|30089,False,False,America/Denver,"(47.32207, -115.12329)",3.878078155859403,869.0,50839_0_yes,47.32548575436625,-115.20593900582726,5.0

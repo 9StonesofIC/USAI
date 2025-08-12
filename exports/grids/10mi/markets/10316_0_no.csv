@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83342,42.15014,-113.22915,Malta,ID,Idaho,True,,1252.0,0.4,16031,Cassia,"{""16031"": 65.43, ""16071"": 21.35, ""49003"": 13.22}",Cassia|Oneida|Box Elder,16031|16071|49003,False,False,America/Boise,"(42.15014, -113.22915)",8.073161527552251,1252.0,10316_0_no,42.245931179834656,-113.13883552122356,10.0

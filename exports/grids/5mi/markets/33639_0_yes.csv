@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+21640,39.07036,-75.82533,Henderson,MD,Maryland,True,,1467.0,22.1,24011,Caroline,"{""24011"": 80.18, ""24035"": 19.82}",Caroline|Queen Anne's,24011|24035,False,False,America/New_York,"(39.07036, -75.82533)",5.244154030202522,1467.0,33639_0_yes,39.0384636573508,-75.91401996404336,5.0

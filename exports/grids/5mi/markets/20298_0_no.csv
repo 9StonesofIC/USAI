@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92036,33.01137,-116.37672,Julian,CA,California,True,,2619.0,2.0,6073,San Diego,"{""06073"": 100}",San Diego,06073,False,False,America/Los_Angeles,"(33.01137, -116.37672)",5.061578855941196,2619.0,20298_0_no,33.05256458267288,-116.30446375365592,5.0

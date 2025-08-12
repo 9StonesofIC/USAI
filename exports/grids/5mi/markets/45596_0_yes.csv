@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54486,44.72595,-89.05124,Tigerton,WI,Wisconsin,True,,1851.0,5.8,55115,Shawano,"{""55115"": 81.22, ""55135"": 18.78}",Shawano|Waupaca,55115|55135,False,False,America/Chicago,"(44.72595, -89.05124)",2.0392332561203994,1851.0,45596_0_yes,44.69643946153939,-89.05188932146356,5.0

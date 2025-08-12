@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30828,33.37281,-82.65351,Warrenton,GA,Georgia,True,,3927.0,11.3,13301,Warren,"{""13301"": 96.23, ""13125"": 3.77}",Warren|Glascock,13301|13125,False,False,America/New_York,"(33.37281, -82.65351)",6.125812018031887,3927.0,20786_0_no,33.31925828167765,-82.56892476327126,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24311,36.87292,-81.40161,Atkins,VA,Virginia,True,,1613.0,19.7,51173,Smyth,"{""51173"": 100}",Smyth,51173,False,False,America/New_York,"(36.87292, -81.40161)",4.979849370035937,15750.0,28828_0_yes,36.86968080228964,-81.49161331003022,5.0
+24354,36.82159,-81.54001,Marion,VA,Virginia,True,,14137.0,45.6,51173,Smyth,"{""51173"": 100}",Smyth,51173,False,False,America/New_York,"(36.82159, -81.54001)",4.266321623134429,15750.0,28828_0_yes,36.86968080228964,-81.49161331003022,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29321,34.71975,-81.74151,Buffalo,SC,South Carolina,True,,2821.0,27.7,45087,Union,"{""45087"": 100}",Union,45087,False,False,America/New_York,"(34.71975, -81.74151)",2.8815620490375977,2914.0,23849_0_yes,34.69591542212904,-81.78314102864678,5.0
+29331,34.64351,-81.85836,Cross Anchor,SC,South Carolina,True,,93.0,49.4,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York,"(34.64351, -81.85836)",5.601859304945701,2914.0,23849_0_yes,34.69591542212904,-81.78314102864678,5.0

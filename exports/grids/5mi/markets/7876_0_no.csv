@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78370,27.94238,-97.6033,Odem,TX,Texas,True,,4458.0,15.6,48409,San Patricio,"{""48409"": 100}",San Patricio,48409,False,False,America/Chicago,"(27.94238, -97.6033)",1.3181129625225936,4458.0,7876_0_no,27.96143571942548,-97.6043259536004,5.0

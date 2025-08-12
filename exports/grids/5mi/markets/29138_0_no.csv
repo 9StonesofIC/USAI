@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24280,36.95575,-81.94167,Rosedale,VA,Virginia,True,,1070.0,41.4,51167,Russell,"{""51167"": 100}",Russell,51167,False,False,America/New_York,"(36.95575, -81.94167)",1.8424103497994362,1070.0,29138_0_no,36.94249346070477,-81.9127189114001,5.0

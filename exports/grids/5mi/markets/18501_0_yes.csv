@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79545,32.41806,-100.57753,Roscoe,TX,Texas,True,,1950.0,3.3,48353,Nolan,"{""48353"": 81.52, ""48151"": 15.33, ""48415"": 3.15}",Nolan|Fisher|Scurry,48353|48151|48415,False,False,America/Chicago,"(32.41806, -100.57753)",3.0109270232338217,1950.0,18501_0_yes,32.388912345298785,-100.53916095162712,5.0

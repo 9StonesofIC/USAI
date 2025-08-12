@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66440,39.26326,-95.68168,Hoyt,KS,Kansas,True,,1730.0,14.0,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago,"(39.26326, -95.68168)",5.594686897137985,12008.0,34063_0_yes,39.19915778266407,-95.7455480614544,5.0
+66618,39.14188,-95.74997,Topeka,KS,Kansas,True,,10278.0,54.5,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago,"(39.14188, -95.74997)",3.964599949456017,12008.0,34063_0_yes,39.19915778266407,-95.7455480614544,5.0

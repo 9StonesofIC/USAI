@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82922,43.13507,-110.43426,Bondurant,WY,Wyoming,True,,302.0,0.4,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver,"(43.13507, -110.43426)",3.633774213746535,302.0,42459_0_yes,43.12250068537612,-110.3642863385724,5.0

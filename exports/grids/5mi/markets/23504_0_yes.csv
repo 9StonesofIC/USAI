@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29101,34.47798,-80.24038,McBee,SC,South Carolina,True,,2991.0,9.4,45025,Chesterfield,"{""45025"": 87.28, ""45031"": 12.72}",Chesterfield|Darlington,45025|45031,False,False,America/New_York,"(34.47798, -80.24038)",5.461293918475005,2991.0,23504_0_yes,34.54987767036166,-80.28023353588594,5.0

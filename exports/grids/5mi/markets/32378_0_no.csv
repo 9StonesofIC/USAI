@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41102,38.42045,-82.72425,Ashland,KY,Kentucky,True,,18600.0,144.3,21019,Boyd,"{""21019"": 88.93, ""21089"": 9.71, ""21043"": 1.36}",Boyd|Greenup|Carter,21019|21089|21043,False,False,America/New_York,"(38.42045, -82.72425)",1.965192939692767,18600.0,32378_0_no,38.39203025645714,-82.7257031844376,5.0

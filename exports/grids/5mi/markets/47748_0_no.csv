@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97014,45.61354,-121.87405,Cascade Locks,OR,Oregon,True,,1589.0,4.2,41027,Hood River,"{""41027"": 66.18, ""41051"": 33.82}",Hood River|Multnomah,41027|41051,False,False,America/Los_Angeles,"(45.61354, -121.87405)",4.447782177902744,1589.0,47748_0_no,45.66683961635236,-121.82241907356398,5.0

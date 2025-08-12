@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83213,43.55171,-113.35809,Arco,ID,Idaho,True,,1312.0,0.7,16023,Butte,"{""16023"": 100}",Butte,16023,False,False,America/Boise,"(43.55171, -113.35809)",15.457152123027987,1358.0,2775_0_yes,43.52809104249233,-113.0511990747698,20.0
+83215,43.44314,-112.81239,Atomic City,ID,Idaho,True,,46.0,223.7,16011,Bingham,"{""16011"": 100}",Bingham,16011,False,False,America/Boise,"(43.44314, -112.81239)",13.33309252302777,1358.0,2775_0_yes,43.52809104249233,-113.0511990747698,20.0

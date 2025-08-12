@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99329,46.13943,-118.14732,Dixie,WA,Washington,True,,95.0,71.9,53071,Walla Walla,"{""53071"": 100}",Walla Walla,53071,False,False,America/Los_Angeles,"(46.13943, -118.14732)",5.402779108426343,95.0,48583_0_no,46.09776077144526,-118.05186289615376,5.0

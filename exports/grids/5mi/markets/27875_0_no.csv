@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72424,36.39185,-90.72874,Datto,AR,Arkansas,True,,69.0,47.5,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago,"(36.39185, -90.72874)",4.005157840333541,248.0,27875_0_no,36.36940687907841,-90.6623547996584,5.0
+72453,36.30909,-90.67887,Peach Orchard,AR,Arkansas,True,,179.0,1.8,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago,"(36.30909, -90.67887)",4.267661400690933,248.0,27875_0_no,36.36940687907841,-90.6623547996584,5.0

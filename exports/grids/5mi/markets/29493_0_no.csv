@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+42324,37.13863,-87.00974,Belton,KY,Kentucky,True,,1074.0,13.2,21177,Muhlenberg,"{""21177"": 100}",Muhlenberg,21177,False,False,America/Chicago,"(37.13863, -87.00974)",5.078744802546414,1074.0,29493_0_no,37.091342021104296,-87.08031110527153,5.0

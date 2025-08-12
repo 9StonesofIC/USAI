@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37087,36.2733,-86.27224,Lebanon,TN,Tennessee,True,,48478.0,113.5,47189,Wilson,"{""47189"": 87.0, ""47159"": 7.42, ""47169"": 5.58}",Wilson|Smith|Trousdale,47189|47159|47169,False,False,America/Chicago,"(36.2733, -86.27224)",3.7951341282330175,48478.0,27521_0_no,36.22116352145448,-86.25080519283974,5.0

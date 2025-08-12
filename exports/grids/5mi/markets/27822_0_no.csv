@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28635,36.33297,-81.12603,Hays,NC,North Carolina,True,,3612.0,24.6,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.33297, -81.12603)",2.703620096701328,4795.0,27822_0_no,36.36227457184232,-81.15822441638588,5.0
+28649,36.33198,-81.20326,McGrady,NC,North Carolina,True,,1183.0,12.9,37193,Wilkes,"{""37193"": 100}",Wilkes,37193,False,False,America/New_York,"(36.33198, -81.20326)",3.2653701763269023,4795.0,27822_0_no,36.36227457184232,-81.15822441638588,5.0

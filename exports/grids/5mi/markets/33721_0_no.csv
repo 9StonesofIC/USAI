@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66018,38.96524,-94.97232,De Soto,KS,Kansas,True,,6380.0,106.1,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago,"(38.96524, -94.97232)",2.4317124244329458,8484.0,33721_0_no,38.98128039661516,-95.01261471874824,5.0
+66052,39.00998,-95.04678,Linwood,KS,Kansas,True,,2104.0,19.9,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago,"(39.00998, -95.04678)",2.701483456773943,8484.0,33721_0_no,38.98128039661516,-95.01261471874824,5.0

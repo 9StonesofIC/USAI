@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88263,32.09091,-104.09006,Malaga,NM,New Mexico,True,,134.0,0.4,35015,Eddy,"{""35015"": 100}",Eddy,35015,False,False,America/Denver,"(32.09091, -104.09006)",5.009894785177468,134.0,17817_0_no,32.02870211579498,-104.13401581469226,5.0

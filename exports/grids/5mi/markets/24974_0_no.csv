@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87070,35.02255,-105.74037,Clines Corners,NM,New Mexico,True,,170.0,3.7,35057,Torrance,"{""35057"": 100}",Torrance,35057,False,False,America/Denver,"(35.02255, -105.74037)",4.827040137350256,170.0,24974_0_no,35.07571850181069,-105.6850115081783,5.0

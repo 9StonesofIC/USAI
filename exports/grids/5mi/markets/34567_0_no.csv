@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+19730,39.45443,-75.66077,Odessa,DE,Delaware,True,,441.0,252.4,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York,"(39.45443, -75.66077)",5.652963296952416,13513.0,34567_0_no,39.40033579060364,-75.58130429575004,5.0
+19734,39.38377,-75.65026,Townsend,DE,Delaware,True,,13072.0,63.2,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York,"(39.38377, -75.65026)",3.8558202227401077,13513.0,34567_0_no,39.40033579060364,-75.58130429575004,5.0

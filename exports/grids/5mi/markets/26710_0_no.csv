@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93238,35.82799,-118.47137,Kernville,CA,California,True,,810.0,2.9,6107,Tulare,"{""06107"": 62.55, ""06029"": 37.45}",Tulare|Kern,06107|06029,False,False,America/Los_Angeles,"(35.82799, -118.47137)",2.475031393670607,810.0,26710_0_no,35.81022968328664,-118.50973468597084,5.0

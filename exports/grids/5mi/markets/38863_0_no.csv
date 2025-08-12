@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96014,41.3579,-122.77305,Callahan,CA,California,True,,160.0,0.4,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.3579, -122.77305)",2.9902317209223246,160.0,38863_0_no,41.322306759654055,-122.80584080757684,5.0

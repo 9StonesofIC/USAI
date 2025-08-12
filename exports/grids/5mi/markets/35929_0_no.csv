@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64451,39.99067,-95.20664,Forest City,MO,Missouri,True,,460.0,3.2,29087,Holt,"{""29087"": 100}",Holt,29087,False,False,America/Chicago,"(39.99067, -95.20664)",3.538931532892047,1868.0,35929_0_no,39.99554190391458,-95.1400875409808,5.0
+64473,39.97606,-95.08446,Oregon,MO,Missouri,True,,1408.0,4.9,29087,Holt,"{""29087"": 100}",Holt,29087,False,False,America/Chicago,"(39.97606, -95.08446)",3.23795513123593,1868.0,35929_0_no,39.99554190391458,-95.1400875409808,5.0

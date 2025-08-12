@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45331,40.09729,-84.64616,Greenville,OH,Ohio,True,,22205.0,56.7,39037,Darke,"{""39037"": 100}",Darke,39037,False,False,America/New_York,"(40.09729, -84.64616)",3.3614159968147788,22205.0,36186_0_no,40.13188869600382,-84.69088279382758,5.0

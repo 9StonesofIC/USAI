@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80423,39.84776,-106.55359,Bond,CO,Colorado,True,,214.0,0.3,8037,Eagle,"{""08037"": 84.94, ""08049"": 15.06}",Eagle|Grand,08037|08049,False,False,America/Denver,"(39.84776, -106.55359)",4.502914981282172,326.0,35385_0_yes,39.787456891106594,-106.58576776642931,5.0
+81655,39.7477,-106.67821,Wolcott,CO,Colorado,True,,112.0,0.7,8037,Eagle,"{""08037"": 100}",Eagle,08037,False,False,America/Denver,"(39.7477, -106.67821)",5.625692697665973,326.0,35385_0_yes,39.787456891106594,-106.58576776642931,5.0

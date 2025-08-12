@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50556,43.45276,-94.20114,Ledyard,IA,Iowa,True,,187.0,1.9,19109,Kossuth,"{""19109"": 100}",Kossuth,19109,False,False,America/Chicago,"(43.45276, -94.20114)",3.776175992244543,187.0,42973_0_yes,43.39810975089768,-94.20192110939594,5.0

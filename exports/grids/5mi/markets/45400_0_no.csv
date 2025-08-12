@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83253,44.54647,-113.77167,May,ID,Idaho,True,,59.0,0.1,16059,Lemhi,"{""16059"": 71.95, ""16037"": 28.05}",Lemhi|Custer,16059|16037,False,False,America/Boise,"(44.54647, -113.77167)",3.2422210119864303,59.0,45400_0_no,44.50128454251203,-113.78942540577586,5.0

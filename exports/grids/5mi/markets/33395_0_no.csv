@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65336,38.78169,-93.56241,Knob Noster,MO,Missouri,True,,6280.0,20.8,29101,Johnson,"{""29101"": 93.38, ""29159"": 6.62}",Johnson|Pettis,29101|29159,False,False,America/Chicago,"(38.78169, -93.56241)",3.9996396488343806,6280.0,33395_0_no,38.83525869873634,-93.59056498672255,5.0

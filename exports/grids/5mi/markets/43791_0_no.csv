@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49320,43.75264,-85.29276,Chippewa Lake,MI,Michigan,True,,14.0,4.8,26107,Mecosta,"{""26107"": 100}",Mecosta,26107,False,False,America/Detroit,"(43.75264, -85.29276)",2.568797300946345,1580.0,43791_0_no,43.75236222119789,-85.34422869008921,5.0
+49342,43.69634,-85.32156,Rodney,MI,Michigan,True,,1566.0,15.3,26107,Mecosta,"{""26107"": 100}",Mecosta,26107,False,False,America/Detroit,"(43.69634, -85.32156)",4.032866974199994,1580.0,43791_0_no,43.75236222119789,-85.34422869008921,5.0

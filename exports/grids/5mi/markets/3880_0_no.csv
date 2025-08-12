@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78594,26.34704,-97.8037,Sebastian,TX,Texas,True,,1538.0,187.4,48489,Willacy,"{""48489"": 100}",Willacy,48489,False,False,America/Chicago,"(26.34704, -97.8037)",1.9947205905769727,1538.0,3880_0_no,26.364785105829863,-97.82911411771188,5.0

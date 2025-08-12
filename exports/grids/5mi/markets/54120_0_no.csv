@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98264,48.94972,-122.45672,Lynden,WA,Washington,True,,21337.0,144.1,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.94972, -122.45672)",3.8177491008029647,21337.0,54120_0_no,48.9966916332581,-122.50105083517184,5.0

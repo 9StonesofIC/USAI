@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77625,30.37032,-94.3923,Kountze,TX,Texas,True,,9997.0,12.2,48199,Hardin,"{""48199"": 100}",Hardin,48199,False,False,America/Chicago,"(30.37032, -94.3923)",2.026611725129962,9997.0,13576_0_yes,30.35382272441544,-94.36419271989396,5.0

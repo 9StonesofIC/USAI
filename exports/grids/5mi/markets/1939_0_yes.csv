@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33194,25.7163,-80.62799,Miami,FL,Florida,True,,8757.0,29.7,12086,Miami-Dade,"{""12086"": 100}",Miami-Dade,12086,False,False,America/New_York,"(25.7163, -80.62799)",3.11626340695583,64586.0,1939_0_yes,25.701947926978075,-80.5805345501066,5.0
+33196,25.64505,-80.55524,Miami,FL,Florida,True,,55829.0,413.0,12086,Miami-Dade,"{""12086"": 100}",Miami-Dade,12086,False,False,America/New_York,"(25.64505, -80.55524)",4.235091742828955,64586.0,1939_0_yes,25.701947926978075,-80.5805345501066,5.0

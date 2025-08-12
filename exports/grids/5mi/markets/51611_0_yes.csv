@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58854,47.81412,-103.15229,Watford City,ND,North Dakota,True,,9737.0,5.6,38053,McKenzie,"{""38053"": 92.37, ""38025"": 7.63}",McKenzie|Dunn,38053|38025,False,False,America/Chicago,"(47.81412, -103.15229)",5.046423203441219,9737.0,51611_0_yes,47.74835556468713,-103.10500570811706,5.0

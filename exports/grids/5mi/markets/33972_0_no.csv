@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45621,39.11138,-82.60996,Coalton,OH,Ohio,True,,300.0,242.1,39079,Jackson,"{""39079"": 100}",Jackson,39079,False,False,America/New_York,"(39.11138, -82.60996)",3.181101027865057,300.0,33972_0_no,39.11631784507855,-82.66895649424272,5.0

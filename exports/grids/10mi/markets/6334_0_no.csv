@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86433,34.92862,-114.35853,Oatman,AZ,Arizona,True,,43.0,0.1,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix,"(34.92862, -114.35853)",7.451333498482424,43.0,6334_0_no,35.00175255808743,-114.26181343390935,10.0

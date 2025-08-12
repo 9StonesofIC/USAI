@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13651,43.86513,-76.18125,Henderson Harbor,NY,New York,True,,112.0,20.3,36045,Jefferson,"{""36045"": 100}",Jefferson,36045,False,False,America/New_York,"(43.86513, -76.18125)",3.1621699967537733,112.0,44041_0_no,43.88913244994114,-76.2353093199142,5.0

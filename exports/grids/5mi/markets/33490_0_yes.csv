@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81434,38.95384,-107.35954,Somerset,CO,Colorado,True,,271.0,0.2,8051,Gunnison,"{""08051"": 91.77, ""08029"": 8.23}",Gunnison|Delta,08051|08029,False,False,America/Denver,"(38.95384, -107.35954)",2.490678067536059,271.0,33490_0_yes,38.91861146310917,-107.36936513668007,5.0

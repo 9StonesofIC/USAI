@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45661,39.04096,-83.10479,Piketon,OH,Ohio,True,,7138.0,27.4,39131,Pike,"{""39131"": 99.6, ""39145"": 0.4}",Pike|Scioto,39131|39145,False,False,America/New_York,"(39.04096, -83.10479)",4.918784690458167,7138.0,33657_0_no,38.97182232859368,-83.1266308437514,5.0

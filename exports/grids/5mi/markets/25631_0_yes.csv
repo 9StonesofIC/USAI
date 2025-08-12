@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79054,35.42894,-100.78086,Lefors,TX,Texas,True,,584.0,4.0,48179,Gray,"{""48179"": 100}",Gray,48179,False,False,America/Chicago,"(35.42894, -100.78086)",3.6630060486834637,584.0,25631_0_yes,35.43455233957905,-100.71616077523244,5.0

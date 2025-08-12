@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97623,42.19905,-121.31016,Bonanza,OR,Oregon,True,,2672.0,2.9,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles,"(42.19905, -121.31016)",4.7320639656893375,2672.0,40683_0_no,42.190307202060815,-121.21847337401492,5.0

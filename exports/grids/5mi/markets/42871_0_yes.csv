@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12835,43.32496,-74.00589,Hadley,NY,New York,True,,2530.0,9.7,36091,Saratoga,"{""36091"": 99.1, ""36113"": 0.9}",Saratoga|Warren,36091|36113,False,False,America/New_York,"(43.32496, -74.00589)",4.997763968172921,2530.0,42871_0_yes,43.38051667853701,-73.94218790132435,5.0

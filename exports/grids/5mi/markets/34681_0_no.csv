@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66449,39.38833,-96.86007,Leonardville,KS,Kansas,True,,1150.0,6.7,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago,"(39.38833, -96.86007)",2.364458527404118,1488.0,34681_0_no,39.41744285216891,-96.88334803345558,5.0
+67447,39.48048,-96.97153,Green,KS,Kansas,True,,338.0,1.7,20027,Clay,"{""20027"": 58.94, ""20161"": 41.06}",Clay|Riley,20027|20161,False,False,America/Chicago,"(39.48048, -96.97153)",6.411325465931361,1488.0,34681_0_no,39.41744285216891,-96.88334803345558,5.0

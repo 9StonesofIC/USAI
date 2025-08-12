@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45810,40.77721,-83.81097,Ada,OH,Ohio,True,,7841.0,46.2,39065,Hardin,"{""39065"": 79.66, ""39063"": 12.22, ""39003"": 8.12}",Hardin|Hancock|Allen,39065|39063|39003,False,False,America/New_York,"(40.77721, -83.81097)",0.42556468701732925,7841.0,37451_0_yes,40.782855658445406,-83.80771820400702,5.0

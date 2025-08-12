@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77960,28.65306,-97.2461,Fannin,TX,Texas,True,,62.0,1.2,48175,Goliad,"{""48175"": 100}",Goliad,48175,False,False,America/Chicago,"(28.65306, -97.2461)",2.3806364099739854,62.0,9671_0_no,28.68691260706077,-97.25341302851524,5.0

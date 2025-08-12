@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53088,44.07178,-88.29966,Stockbridge,WI,Wisconsin,True,,363.0,912.9,55015,Calumet,"{""55015"": 100}",Calumet,55015,False,False,America/Chicago,"(44.07178, -88.29966)",5.861839304981599,363.0,44423_0_yes,44.11687712773646,-88.39971736297751,5.0

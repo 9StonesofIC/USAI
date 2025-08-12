@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61769,40.88106,-88.39804,Saunemin,IL,Illinois,True,,676.0,7.2,17105,Livingston,"{""17105"": 100}",Livingston,17105,False,False,America/Chicago,"(40.88106, -88.39804)",3.3343436087827283,676.0,37760_0_no,40.85915521807331,-88.45490459434635,5.0

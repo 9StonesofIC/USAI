@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30529,34.2155,-83.482,Commerce,GA,Georgia,True,,12098.0,92.5,13157,Jackson,"{""13157"": 73.56, ""13011"": 26.44}",Jackson|Banks,13157|13011,False,False,America/New_York,"(34.2155, -83.482)",3.5300964234978673,12098.0,22831_0_no,34.18982793965867,-83.53541067967983,5.0

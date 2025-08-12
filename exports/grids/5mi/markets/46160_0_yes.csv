@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49674,45.0544,-85.58882,Omena,MI,Michigan,True,,44.0,7.4,26089,Leelanau,"{""26089"": 100}",Leelanau,26089,False,False,America/Detroit,"(45.0544, -85.58882)",5.019194184623548,4268.0,46160_0_yes,44.98283484510412,-85.60646207331052,5.0
+49682,44.97954,-85.6512,Suttons Bay,MI,Michigan,True,,4224.0,39.5,26089,Leelanau,"{""26089"": 100}",Leelanau,26089,False,False,America/Detroit,"(44.97954, -85.6512)",2.1982722371299785,4268.0,46160_0_yes,44.98283484510412,-85.60646207331052,5.0

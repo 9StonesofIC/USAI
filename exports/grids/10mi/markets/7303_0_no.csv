@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87519,36.76472,-105.63502,Cerro,NM,New Mexico,True,,519.0,7.0,35055,Taos,"{""35055"": 100}",Taos,35055,False,False,America/Denver,"(36.76472, -105.63502)",6.307204793419152,675.0,7303_0_no,36.728702960238486,-105.73970071990128,10.0
+87564,36.61566,-105.61797,San Cristobal,NM,New Mexico,True,,156.0,1.6,35055,Taos,"{""35055"": 100}",Taos,35055,False,False,America/Denver,"(36.61566, -105.61797)",10.32050713663504,675.0,7303_0_no,36.728702960238486,-105.73970071990128,10.0

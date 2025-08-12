@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95653,38.69151,-121.97723,Madison,CA,California,True,,502.0,35.3,6113,Yolo,"{""06113"": 100}",Yolo,06113,False,False,America/Los_Angeles,"(38.69151, -121.97723)",4.98532222449722,502.0,32932_0_yes,38.64034686100175,-122.04238956422525,5.0

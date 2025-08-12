@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79059,35.79825,-100.73531,Miami,TX,Texas,True,,652.0,0.6,48393,Roberts,"{""48393"": 89.06, ""48179"": 10.94}",Roberts|Gray,48393|48179,False,False,America/Chicago,"(35.79825, -100.73531)",8.141608182991632,652.0,6795_0_no,35.85148751235008,-100.6056583663851,10.0

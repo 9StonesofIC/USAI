@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05850,44.55955,-72.03417,Lyndon Center,VT,Vermont,True,,249.0,68.8,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York,"(44.55955, -72.03417)",4.9864197034180995,6461.0,45221_0_yes,44.53669590204141,-72.13022545627267,5.0
+05851,44.55297,-72.05732,Lyndonville,VT,Vermont,True,,6212.0,29.3,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York,"(44.55297, -72.05732)",3.7620537873148585,6461.0,45221_0_yes,44.53669590204141,-72.13022545627267,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96132,40.89371,-120.5389,Termo,CA,California,True,,54.0,0.2,6035,Lassen,"{""06035"": 100}",Lassen,06035,False,False,America/Los_Angeles,"(40.89371, -120.5389)",0.7831928122572444,54.0,37928_0_no,40.88569794469775,-120.52829319102312,5.0

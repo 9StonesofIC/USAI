@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14510,42.69485,-77.87167,Mount Morris,NY,New York,True,,4571.0,23.5,36051,Livingston,"{""36051"": 100}",Livingston,36051,False,False,America/New_York,"(42.69485, -77.87167)",2.4053226149256903,7417.0,41394_0_yes,42.66016038488925,-77.87564702329168,5.0
+14517,42.59217,-77.8971,Nunda,NY,New York,True,,2846.0,29.7,36051,Livingston,"{""36051"": 100}",Livingston,36051,False,False,America/New_York,"(42.59217, -77.8971)",4.822628352807248,7417.0,41394_0_yes,42.66016038488925,-77.87564702329168,5.0

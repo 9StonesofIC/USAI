@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88121,34.67979,-103.97721,House,NM,New Mexico,True,,163.0,0.3,35037,Quay,"{""35037"": 100}",Quay,35037,False,False,America/Denver,"(34.67979, -103.97721)",8.933859728978785,163.0,5977_0_yes,34.55176599384475,-103.95518200614674,10.0

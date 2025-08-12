@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78653,30.33783,-97.52006,Manor,TX,Texas,True,,29622.0,108.7,48453,Travis,"{""48453"": 98.86, ""48021"": 1.14}",Travis|Bastrop,48453|48021,False,False,America/Chicago,"(30.33783, -97.52006)",1.925072699836687,54950.0,13595_0_yes,30.3558589062338,-97.54467518647328,5.0
+78724,30.29474,-97.61439,Austin,TX,Texas,True,,25328.0,392.1,48453,Travis,"{""48453"": 100}",Travis,48453,False,False,America/Chicago,"(30.29474, -97.61439)",5.92621049365511,54950.0,13595_0_yes,30.3558589062338,-97.54467518647328,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93953,36.58566,-121.94329,Pebble Beach,CA,California,True,,3783.0,180.4,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.58566, -121.94329)",10.025142881880454,3783.0,7194_0_yes,36.608342955520186,-122.12179376278344,10.0

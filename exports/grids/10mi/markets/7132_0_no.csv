@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88415,36.35171,-103.32643,Clayton,NM,New Mexico,True,,3345.0,0.9,35059,Union,"{""35059"": 84.3, ""35021"": 15.7}",Union|Harding,35059|35021,False,False,America/Denver,"(36.35171, -103.32643)",5.976843339892247,3345.0,7132_0_no,36.43517819156519,-103.29821133320496,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75783,32.82227,-95.42386,Quitman,TX,Texas,True,,8118.0,26.2,48499,Wood,"{""48499"": 100}",Wood,48499,False,False,America/Chicago,"(32.82227, -95.42386)",0.7413321531350976,8118.0,19505_0_yes,32.820571487303496,-95.43646658898328,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58486,47.39421,-99.39279,Sykeston,ND,North Dakota,True,,226.0,0.6,38103,Wells,"{""38103"": 79.88, ""38093"": 20.12}",Wells|Stutsman,38103|38093,False,False,America/Chicago,"(47.39421, -99.39279)",4.255011505224309,226.0,51042_0_yes,47.4554908050079,-99.38377678914662,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39756,33.78356,-88.74266,Prairie,MS,Mississippi,True,,1997.0,11.0,28025,Clay,"{""28025"": 46.13, ""28095"": 39.77, ""28017"": 14.1}",Clay|Monroe|Chickasaw,28025|28095|28017,False,False,America/Chicago,"(33.78356, -88.74266)",2.8995233732108057,1997.0,21844_0_no,33.758585971298004,-88.78323078318915,5.0

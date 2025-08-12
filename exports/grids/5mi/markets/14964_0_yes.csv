@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70789,30.92973,-91.07109,Wilson,LA,Louisiana,True,,624.0,12.8,22037,East Feliciana,"{""22037"": 100}",East Feliciana,22037,False,False,America/Chicago,"(30.92973, -91.07109)",4.653084435678375,624.0,14964_0_yes,30.932049762209356,-91.1495532929494,5.0

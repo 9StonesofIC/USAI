@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41465,37.72985,-83.08494,Salyersville,KY,Kentucky,True,,11210.0,16.5,21153,Magoffin,"{""21153"": 100}",Magoffin,21153,False,False,America/New_York,"(37.72985, -83.08494)",4.918570120753253,11210.0,30790_0_yes,37.74022732199132,-82.99588788999121,5.0

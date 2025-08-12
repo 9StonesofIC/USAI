@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89415,38.50993,-118.77958,Hawthorne,NV,Nevada,True,,3101.0,3.2,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles,"(38.50993, -118.77958)",21.577602361656044,3728.0,2086_0_yes,38.33423152864177,-119.1091261168438,20.0
+93517,38.27091,-119.27372,Bridgeport,CA,California,True,,627.0,0.7,6051,Mono,"{""06051"": 100}",Mono,06051,False,False,America/Los_Angeles,"(38.27091, -119.27372)",9.939168323332263,3728.0,2086_0_yes,38.33423152864177,-119.1091261168438,20.0

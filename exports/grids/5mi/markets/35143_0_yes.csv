@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96118,39.64823,-120.25392,Loyalton,CA,California,True,,1671.0,3.8,6091,Sierra,"{""06091"": 82.59, ""06063"": 17.41}",Sierra|Plumas,06091|06063,False,False,America/Los_Angeles,"(39.64823, -120.25392)",3.1090846830779046,1671.0,35143_0_yes,39.65363289154571,-120.31194058911888,5.0

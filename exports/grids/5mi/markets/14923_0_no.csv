@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32433,30.84848,-86.19822,Defuniak Springs,FL,Florida,True,,19459.0,29.9,12131,Walton,"{""12131"": 100}",Walton,12131,False,False,America/Chicago,"(30.84848, -86.19822)",1.1757012443173893,19459.0,14923_0_no,30.85634169023872,-86.21579865287359,5.0

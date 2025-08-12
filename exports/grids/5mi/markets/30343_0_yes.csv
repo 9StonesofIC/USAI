@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93623,37.47478,-119.66071,Fish Camp,CA,California,True,,59.0,1.2,6043,Mariposa,"{""06043"": 96.0, ""06039"": 4.0}",Mariposa|Madera,06043|06039,False,False,America/Los_Angeles,"(37.47478, -119.66071)",3.4456190342312722,59.0,30343_0_yes,37.47870859112684,-119.7233536287166,5.0

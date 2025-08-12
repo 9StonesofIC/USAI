@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30185,33.51975,-84.90879,Whitesburg,GA,Georgia,True,,4578.0,28.4,13045,Carroll,"{""13045"": 95.5, ""13097"": 4.5}",Carroll|Douglas,13045|13097,False,False,America/New_York,"(33.51975, -84.90879)",3.800887493684033,4578.0,21141_0_no,33.465889812407106,-84.92221106507134,5.0

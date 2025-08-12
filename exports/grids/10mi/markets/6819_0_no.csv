@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86504,35.86087,-109.13995,Fort Defiance,AZ,Arizona,True,,7296.0,14.0,4001,Apache,"{""04001"": 98.82, ""35031"": 1.18}",Apache|McKinley,04001|35031,False,False,America/Denver,"(35.86087, -109.13995)",1.0312171434211215,7296.0,6819_0_no,35.86416953153424,-109.15791054950506,10.0

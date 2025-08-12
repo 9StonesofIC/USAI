@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79234,34.22108,-100.95509,Flomot,TX,Texas,True,,42.0,0.1,48345,Motley,"{""48345"": 81.52, ""48153"": 18.48}",Motley|Floyd,48345|48153,False,False,America/Chicago,"(34.22108, -100.95509)",5.663003414650283,42.0,22946_0_yes,34.27464343172466,-100.88003952976042,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74555,34.2459,-95.96944,Lane,OK,Oklahoma,True,,602.0,5.1,40005,Atoka,"{""40005"": 100}",Atoka,40005,False,False,America/Chicago,"(34.2459, -95.96944)",3.9061152006352824,602.0,22902_0_no,34.19864856015782,-95.93190256264177,5.0

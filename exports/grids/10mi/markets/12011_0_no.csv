@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49721,45.57181,-84.45711,Cheboygan,MI,Michigan,True,,13824.0,20.0,26031,Cheboygan,"{""26031"": 100}",Cheboygan,26031,False,False,America/Detroit,"(45.57181, -84.45711)",8.92311033187773,13887.0,12011_0_no,45.66870529966584,-84.33503455736025,10.0
+49775,45.76941,-84.46333,Pointe Aux Pins,MI,Michigan,True,,63.0,0.7,26097,Mackinac,"{""26097"": 100}",Mackinac,26097,False,False,America/Detroit,"(45.76941, -84.46333)",9.31217819979091,13887.0,12011_0_no,45.66870529966584,-84.33503455736025,10.0

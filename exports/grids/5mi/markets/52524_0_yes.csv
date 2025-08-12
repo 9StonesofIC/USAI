@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98239,48.18926,-122.65756,Coupeville,WA,Washington,True,,7679.0,95.6,53029,Island,"{""53029"": 100}",Island,53029,False,False,America/Los_Angeles,"(48.18926, -122.65756)",1.9690089350083193,7679.0,52524_0_yes,48.20080198349918,-122.61847218503397,5.0

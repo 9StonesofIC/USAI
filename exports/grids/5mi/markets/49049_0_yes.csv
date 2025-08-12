@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54849,46.47881,-91.71642,Lake Nebagamon,WI,Wisconsin,True,,1702.0,7.6,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago,"(46.47881, -91.71642)",3.155850978575002,1702.0,49049_0_yes,46.4354913670253,-91.69539871851816,5.0

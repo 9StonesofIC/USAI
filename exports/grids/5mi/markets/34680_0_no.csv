@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66520,39.40963,-96.61617,Olsburg,KS,Kansas,True,,649.0,2.4,20149,Pottawatomie,"{""20149"": 100}",Pottawatomie,20149,False,False,America/Chicago,"(39.40963, -96.61617)",4.318782155055623,1262.0,34680_0_no,39.41729274523868,-96.69646536626573,5.0
+66554,39.48899,-96.78445,Randolph,KS,Kansas,True,,613.0,2.3,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago,"(39.48899, -96.78445)",6.824495982713441,1262.0,34680_0_no,39.41729274523868,-96.69646536626573,5.0

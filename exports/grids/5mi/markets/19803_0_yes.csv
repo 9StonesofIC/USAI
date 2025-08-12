@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35474,32.93679,-87.57226,Moundville,AL,Alabama,True,,7056.0,13.1,1065,Hale,"{""01065"": 88.9, ""01125"": 11.1}",Hale|Tuscaloosa,01065|01125,False,False,America/Chicago,"(32.93679, -87.57226)",4.360698333772015,7056.0,19803_0_yes,32.96023482489238,-87.64208811489316,5.0

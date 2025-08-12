@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32667,29.49484,-82.31084,Micanopy,FL,Florida,True,,4135.0,17.6,12001,Alachua,"{""12001"": 57.49, ""12083"": 42.51}",Alachua|Marion,12001|12083,False,False,America/New_York,"(29.49484, -82.31084)",5.621957218937116,4135.0,11721_0_no,29.54825378394306,-82.24030087558623,5.0

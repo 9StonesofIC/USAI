@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53589,42.92684,-89.21182,Stoughton,WI,Wisconsin,True,,20300.0,92.3,55025,Dane,"{""55025"": 98.08, ""55105"": 1.92}",Dane|Rock,55025|55105,False,False,America/Chicago,"(42.92684, -89.21182)",3.4560642566470845,20300.0,42026_0_no,42.887136223387095,-89.25335691404935,5.0

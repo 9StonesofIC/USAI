@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48475,43.67141,-82.93732,Ubly,MI,Michigan,True,,2535.0,9.1,26151,Sanilac,"{""26151"": 53.98, ""26063"": 46.02}",Sanilac|Huron,26151|26063,False,False,America/Detroit,"(43.67141, -82.93732)",3.04384329596211,2535.0,43510_0_yes,43.67778247984766,-82.87705137038408,5.0

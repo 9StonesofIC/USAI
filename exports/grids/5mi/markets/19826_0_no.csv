@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71043,32.88789,-93.88906,Hosston,LA,Louisiana,True,,662.0,16.3,22017,Caddo,"{""22017"": 100}",Caddo,22017,False,False,America/Chicago,"(32.88789, -93.88906)",3.934360248683857,5224.0,19826_0_no,32.892104600261305,-93.95668586853536,5.0
+71082,32.84389,-93.97763,Vivian,LA,Louisiana,True,,4562.0,22.4,22017,Caddo,"{""22017"": 100}",Caddo,22017,False,False,America/Chicago,"(32.84389, -93.97763)",3.5461197653266234,5224.0,19826_0_no,32.892104600261305,-93.95668586853536,5.0

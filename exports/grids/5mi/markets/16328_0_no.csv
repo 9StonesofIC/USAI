@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36475,31.38511,-87.22717,Repton,AL,Alabama,True,,2063.0,5.5,1035,Conecuh,"{""01035"": 86.87, ""01099"": 13.13}",Conecuh|Monroe,01035|01099,False,False,America/Chicago,"(31.38511, -87.22717)",5.168525210188425,2063.0,16328_0_no,31.437156629960757,-87.16421365761724,5.0

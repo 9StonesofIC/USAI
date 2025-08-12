@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83670,44.0189,-116.30793,Sweet,ID,Idaho,True,,711.0,4.1,16045,Gem,"{""16045"": 68.93, ""16015"": 31.07}",Gem|Boise,16045|16015,False,False,America/Boise,"(44.0189, -116.30793)",3.701615238462968,711.0,44535_0_no,44.06905510457416,-116.28173095089952,5.0

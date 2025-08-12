@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55965,43.62913,-92.13282,Preston,MN,Minnesota,True,,2294.0,8.2,27045,Fillmore,"{""27045"": 100}",Fillmore,27045,False,False,America/Chicago,"(43.62913, -92.13282)",4.358702670357754,2294.0,43530_0_no,43.61359850324408,-92.2172807327281,5.0

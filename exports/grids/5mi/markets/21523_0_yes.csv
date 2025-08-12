@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39737,33.65211,-89.33573,Bellefontaine,MS,Mississippi,True,,166.0,3.7,28155,Webster,"{""28155"": 100}",Webster,28155,False,False,America/Chicago,"(33.65211, -89.33573)",5.089979724150492,166.0,21523_0_yes,33.68649548862123,-89.41401259311603,5.0

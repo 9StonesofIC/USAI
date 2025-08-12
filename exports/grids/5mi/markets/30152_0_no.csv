@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62938,37.38249,-88.54676,Golconda,IL,Illinois,True,,3379.0,7.7,17151,Pope,"{""17151"": 93.99, ""17069"": 4.19, ""17127"": 1.82}",Pope|Hardin|Massac,17151|17069|17127,False,False,America/Chicago,"(37.38249, -88.54676)",1.3034079506112288,3379.0,30152_0_no,37.38231273154684,-88.57049970529677,5.0

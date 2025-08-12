@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04412,44.78354,-68.73517,Brewer,ME,Maine,True,,9026.0,228.7,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.78354, -68.73517)",4.075435127575866,12700.0,45760_0_no,44.75084076182351,-68.80431471012601,5.0
+04474,44.71501,-68.77901,Orrington,ME,Maine,True,,3674.0,56.8,23019,Penobscot,"{""23019"": 100}",Penobscot,23019,False,False,America/New_York,"(44.71501, -68.77901)",2.76976925620871,12700.0,45760_0_no,44.75084076182351,-68.80431471012601,5.0

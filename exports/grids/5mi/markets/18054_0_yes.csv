@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31023,32.18288,-83.1991,Eastman,GA,Georgia,True,,14079.0,19.2,13091,Dodge,"{""13091"": 96.46, ""13235"": 3.54}",Dodge|Pulaski,13091|13235,False,False,America/New_York,"(32.18288, -83.1991)",4.064628314361755,14079.0,18054_0_yes,32.23211146030395,-83.16104118449533,5.0

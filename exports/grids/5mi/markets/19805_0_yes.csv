@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+35462,32.93389,-87.94183,Eutaw,AL,Alabama,True,,4355.0,5.9,1063,Greene,"{""01063"": 100}",Greene,01063,False,False,America/Chicago,"(32.93389, -87.94183)",3.1681001313344876,4355.0,19805_0_yes,32.96047200960114,-87.98635119466216,5.0

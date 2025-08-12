@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75976,31.51546,-94.93863,Wells,TX,Texas,True,,989.0,14.0,48073,Cherokee,"{""48073"": 100}",Cherokee,48073,False,False,America/Chicago,"(31.51546, -94.93863)",4.09859241610571,989.0,16386_0_yes,31.514839587488847,-95.0082091158366,5.0

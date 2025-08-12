@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98245,48.66241,-122.91616,Eastsound,WA,Washington,True,,3767.0,41.0,53055,San Juan,"{""53055"": 100}",San Juan,53055,False,False,America/Los_Angeles,"(48.66241, -122.91616)",3.5363639878388633,3833.0,53584_0_no,48.70769747773423,-122.95228096138366,5.0
+98297,48.7005,-123.02834,Waldron,WA,Washington,True,,66.0,5.6,53055,San Juan,"{""53055"": 100}",San Juan,53055,False,False,America/Los_Angeles,"(48.7005, -123.02834)",3.503616806690191,3833.0,53584_0_no,48.70769747773423,-122.95228096138366,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16620,40.83947,-78.35259,Brisbin,PA,Pennsylvania,True,,323.0,175.5,42033,Clearfield,"{""42033"": 100}",Clearfield,42033,False,False,America/New_York,"(40.83947, -78.35259)",5.721104327420279,527.0,37422_0_yes,40.77828860473838,-78.27887422161358,5.0
+16677,40.81507,-78.2457,Sandy Ridge,PA,Pennsylvania,True,,204.0,26.1,42027,Centre,"{""42027"": 100}",Centre,42027,False,False,America/New_York,"(40.81507, -78.2457)",3.077243451543972,527.0,37422_0_yes,40.77828860473838,-78.27887422161358,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32766,28.64761,-81.08124,Oviedo,FL,Florida,True,,16415.0,144.6,12117,Seminole,"{""12117"": 100}",Seminole,12117,False,False,America/New_York,"(28.64761, -81.08124)",3.2048281840642625,27349.0,9221_0_yes,28.604495663816696,-81.06175144118127,5.0
+32820,28.58493,-81.12127,Orlando,FL,Florida,True,,10934.0,279.6,12095,Orange,"{""12095"": 100}",Orange,12095,False,False,America/New_York,"(28.58493, -81.12127)",3.8555172817799197,27349.0,9221_0_yes,28.604495663816696,-81.06175144118127,5.0

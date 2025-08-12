@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+92268,34.16146,-116.55002,Pioneertown,CA,California,True,,360.0,2.0,6071,San Bernardino,"{""06071"": 100}",San Bernardino,06071,False,False,America/Los_Angeles,"(34.16146, -116.55002)",3.6549256522138776,360.0,23020_0_no,34.21331460984715,-116.53737962695163,5.0

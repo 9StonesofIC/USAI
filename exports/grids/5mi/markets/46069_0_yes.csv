@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04631,44.91373,-67.01834,Eastport,ME,Maine,True,,1300.0,138.1,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.91373, -67.01834)",3.7896323762896404,2599.0,46069_0_yes,44.9662517290219,-67.04066682494053,5.0
+04667,44.97853,-67.10413,Perry,ME,Maine,True,,1299.0,16.8,23029,Washington,"{""23029"": 100}",Washington,23029,False,False,America/New_York,"(44.97853, -67.10413)",3.215987953730046,2599.0,46069_0_yes,44.9662517290219,-67.04066682494053,5.0

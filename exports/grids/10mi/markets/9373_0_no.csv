@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80653,40.3931,-103.97685,Weldona,CO,Colorado,True,,809.0,2.3,8087,Morgan,"{""08087"": 100}",Morgan,08087,False,False,America/Denver,"(40.3931, -103.97685)",6.984604220619803,809.0,9373_0_no,40.49264331776202,-103.9537087997686,10.0

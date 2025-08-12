@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34141,25.91774,-81.07706,Ochopee,FL,Florida,True,,110.0,0.0,12021,Collier,"{""12021"": 75.0, ""12087"": 20.33, ""12086"": 4.67}",Collier|Monroe|Miami-Dade,12021|12087|12086,False,False,America/New_York,"(25.91774, -81.07706)",0.9455571154573988,110.0,2676_0_no,25.919945669856094,-81.0620432433371,5.0

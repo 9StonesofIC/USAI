@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39305,32.46392,-88.72465,Meridian,MS,Mississippi,True,,20419.0,79.5,28075,Lauderdale,"{""28075"": 100}",Lauderdale,28075,False,False,America/Chicago,"(32.46392, -88.72465)",4.474662616879378,20419.0,18764_0_no,32.45349574764653,-88.80040216780908,5.0

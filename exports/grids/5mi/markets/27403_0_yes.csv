@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93954,36.16434,-120.92441,San Lucas,CA,California,True,,438.0,2.8,6053,Monterey,"{""06053"": 100}",Monterey,06053,False,False,America/Los_Angeles,"(36.16434, -120.92441)",2.2796700421335214,438.0,27403_0_yes,36.17452404337007,-120.88553481877004,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95135,37.22285,-121.55913,San Jose,CA,California,True,,22509.0,67.1,6085,Santa Clara,"{""06085"": 100}",Santa Clara,06085,False,False,America/Los_Angeles,"(37.22285, -121.55913)",5.470658372835244,22509.0,30008_0_no,37.26259999604125,-121.47311261458546,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66733,37.59014,-95.25282,Erie,KS,Kansas,True,,2292.0,6.4,20133,Neosho,"{""20133"": 100}",Neosho,20133,False,False,America/Chicago,"(37.59014, -95.25282)",2.169530670048838,2292.0,30533_0_yes,37.60482511739526,-95.28784939678332,5.0

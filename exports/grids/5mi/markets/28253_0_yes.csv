@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74051,36.61412,-95.96532,Ochelata,OK,Oklahoma,True,,2266.0,26.5,40147,Washington,"{""40147"": 90.16, ""40113"": 9.84}",Washington|Osage,40147|40113,False,False,America/Chicago,"(36.61412, -95.96532)",4.510913060963574,2266.0,28253_0_yes,36.59083534123416,-96.04129706343276,5.0

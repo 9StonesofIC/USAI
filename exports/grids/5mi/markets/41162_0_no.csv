@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68785,42.42796,-96.7224,Waterbury,NE,Nebraska,True,,208.0,2.7,31051,Dixon,"{""31051"": 51.43, ""31043"": 48.57}",Dixon|Dakota,31051|31043,False,False,America/Chicago,"(42.42796, -96.7224)",2.335074220655045,208.0,41162_0_no,42.45915708041054,-96.74001159615926,5.0

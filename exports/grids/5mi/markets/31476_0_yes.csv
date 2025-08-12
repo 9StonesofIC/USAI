@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63036,37.9817,-90.372,French Village,MO,Missouri,True,,1226.0,19.3,29187,St. Francois,"{""29187"": 75.19, ""29186"": 24.81}",St. Francois|Ste. Genevieve,29187|29186,False,False,America/Chicago,"(37.9817, -90.372)",3.981591989119502,1226.0,31476_0_yes,38.03573217035781,-90.3465752479016,5.0

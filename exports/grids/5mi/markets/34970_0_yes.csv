@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61949,39.65753,-87.85844,Redmon,IL,Illinois,True,,165.0,56.9,17045,Edgar,"{""17045"": 100}",Edgar,17045,False,False,America/Chicago,"(39.65753, -87.85844)",2.3136055037618095,165.0,34970_0_yes,39.62745886671436,-87.87756936653108,5.0

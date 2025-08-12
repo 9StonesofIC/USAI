@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31827,32.69821,-84.49847,Talbotton,GA,Georgia,True,,2152.0,5.4,13263,Talbot,"{""13263"": 100}",Talbot,13263,False,False,America/New_York,"(32.69821, -84.49847)",4.747478052093709,3145.0,19428_0_no,32.740638414166,-84.56270962827574,5.0
+31836,32.79189,-84.54891,Woodland,GA,Georgia,True,,993.0,4.3,13263,Talbot,"{""13263"": 100}",Talbot,13263,False,False,America/New_York,"(32.79189, -84.54891)",3.630775786815801,3145.0,19428_0_no,32.740638414166,-84.56270962827574,5.0

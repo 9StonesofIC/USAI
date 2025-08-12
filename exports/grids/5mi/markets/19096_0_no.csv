@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36006,32.63831,-86.72531,Billingsley,AL,Alabama,True,,1571.0,7.9,1001,Autauga,"{""01001"": 75.59, ""01021"": 24.41}",Autauga|Chilton,01001|01021,False,False,America/Chicago,"(32.63831, -86.72531)",3.6877628572552683,1571.0,19096_0_no,32.59707673227632,-86.68507383429315,5.0

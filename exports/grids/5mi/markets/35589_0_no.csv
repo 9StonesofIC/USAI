@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62612,39.89864,-90.0683,Ashland,IL,Illinois,True,,1590.0,6.6,17017,Cass,"{""17017"": 61.88, ""17137"": 38.12}",Cass|Morgan,17017|17137,False,False,America/Chicago,"(39.89864, -90.0683)",4.7054205352285186,1590.0,35589_0_no,39.84660807958721,-90.12555114230555,5.0

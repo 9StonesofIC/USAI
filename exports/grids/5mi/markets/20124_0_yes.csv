@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31046,33.05237,-83.78302,Juliette,GA,Georgia,True,,3694.0,17.2,13207,Monroe,"{""13207"": 69.71, ""13169"": 30.29}",Monroe|Jones,13207|13169,False,False,America/New_York,"(33.05237, -83.78302)",3.479981534411276,3694.0,20124_0_yes,33.10257883920516,-83.78776958204207,5.0

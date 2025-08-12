@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98852,48.32169,-120.63881,Stehekin,WA,Washington,True,,20.0,0.1,53007,Chelan,"{""53007"": 100}",Chelan,53007,False,False,America/Los_Angeles,"(48.32169, -120.63881)",1.751399916257045,20.0,52787_0_yes,48.343677566839936,-120.6577821940031,5.0

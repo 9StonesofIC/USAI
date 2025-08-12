@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86043,35.81049,-110.52904,Second Mesa,AZ,Arizona,True,,3036.0,10.2,4017,Navajo,"{""04017"": 100}",Navajo,04017,False,False,America/Phoenix,"(35.81049, -110.52904)",4.975428423619985,3036.0,26684_0_yes,35.87681051179536,-110.56364875353414,5.0

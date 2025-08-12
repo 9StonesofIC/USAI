@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65566,37.76618,-91.14689,Viburnum,MO,Missouri,True,,835.0,28.3,29055,Crawford,"{""29055"": 64.38, ""29093"": 35.62}",Crawford|Iron,29055|29093,False,False,America/Chicago,"(37.76618, -91.14689)",4.460552485050175,835.0,31137_0_no,37.81899989104575,-91.09991766375364,5.0

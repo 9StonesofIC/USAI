@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54855,46.37492,-90.84397,Marengo,WI,Wisconsin,True,,933.0,5.1,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago,"(46.37492, -90.84397)",4.184208167580147,933.0,49045_0_yes,46.43472455846406,-90.85778670722172,5.0

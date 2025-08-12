@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31032,33.01039,-83.57292,Gray,GA,Georgia,True,,15324.0,37.2,13169,Jones,"{""13169"": 100}",Jones,13169,False,False,America/New_York,"(33.01039, -83.57292)",1.3659031107238926,15324.0,20108_0_no,33.02996265937331,-83.56960591278401,5.0

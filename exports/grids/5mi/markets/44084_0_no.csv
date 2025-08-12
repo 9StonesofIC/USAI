@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48622,43.83304,-84.884,Farwell,MI,Michigan,True,,6022.0,27.0,26035,Clare,"{""26035"": 63.86, ""26073"": 36.14}",Clare|Isabella,26035|26073,False,False,America/Detroit,"(43.83304, -84.884)",4.752231619550215,6104.0,44084_0_no,43.8966799269545,-84.84781473790984,5.0
+48633,43.94827,-84.93409,Lake George,MI,Michigan,True,,82.0,13.6,26035,Clare,"{""26035"": 100}",Clare,26035,False,False,America/Detroit,"(43.94827, -84.93409)",5.580419871356216,6104.0,44084_0_no,43.8966799269545,-84.84781473790984,5.0

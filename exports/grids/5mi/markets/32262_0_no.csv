@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95224,38.22706,-120.32562,Avery,CA,California,True,,195.0,6.5,6009,Calaveras,"{""06009"": 100}",Calaveras,06009,False,False,America/Los_Angeles,"(38.22706, -120.32562)",3.428828518786876,195.0,32262_0_no,38.276610343841504,-120.32213237157646,5.0

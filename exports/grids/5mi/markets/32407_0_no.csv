@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62806,38.38405,-88.07492,Albion,IL,Illinois,True,,3467.0,13.0,17047,Edwards,"{""17047"": 100}",Edwards,17047,False,False,America/Chicago,"(38.38405, -88.07492)",0.9198716888035023,3688.0,32407_0_no,38.39622813456975,-88.06805641564513,5.0
+62815,38.45707,-87.98698,Bone Gap,IL,Illinois,True,,221.0,4.1,17047,Edwards,"{""17047"": 100}",Edwards,17047,False,False,America/Chicago,"(38.45707, -87.98698)",6.077066100502872,3688.0,32407_0_no,38.39622813456975,-88.06805641564513,5.0

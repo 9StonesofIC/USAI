@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85619,32.39574,-110.73663,Mount Lemmon,AZ,Arizona,True,,35.0,0.1,4019,Pima,"{""04019"": 100}",Pima,04019,False,False,America/Phoenix,"(32.39574, -110.73663)",11.96239848193814,3785.0,4802_0_yes,32.53102589095602,-110.60857821455323,10.0
+85631,32.58133,-110.5627,San Manuel,AZ,Arizona,True,,3750.0,12.2,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(32.58133, -110.5627)",4.383923196605747,3785.0,4802_0_yes,32.53102589095602,-110.60857821455323,10.0

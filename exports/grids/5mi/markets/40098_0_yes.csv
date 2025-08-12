@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97635,41.93173,-120.29974,New Pine Creek,OR,Oregon,True,,164.0,1.2,6049,Modoc,"{""06049"": 92.79, ""41037"": 7.21}",Modoc|Lake,06049|41037,False,False,America/Los_Angeles,"(41.93173, -120.29974)",3.477608522593093,164.0,40098_0_yes,41.97219907953585,-120.33997896260638,5.0

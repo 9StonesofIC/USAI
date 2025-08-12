@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+52201,41.33218,-91.54704,Ainsworth,IA,Iowa,True,,1541.0,9.1,19183,Washington,"{""19183"": 100}",Washington,19183,False,False,America/Chicago,"(41.33218, -91.54704)",4.2680446338784135,1541.0,38700_0_no,41.296157230825,-91.4802298242752,5.0

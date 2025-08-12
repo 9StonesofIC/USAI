@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95955,39.29657,-122.20454,Maxwell,CA,California,True,,1513.0,4.5,6011,Colusa,"{""06011"": 100}",Colusa,06011,False,False,America/Los_Angeles,"(39.29657, -122.20454)",4.756198674961048,1513.0,34522_0_yes,39.36526384748608,-122.19879923871667,5.0

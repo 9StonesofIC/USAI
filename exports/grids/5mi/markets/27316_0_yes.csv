@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87713,36.1708,-105.36111,Chacon,NM,New Mexico,True,,249.0,1.3,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(36.1708, -105.36111)",2.163595322033038,835.0,27316_0_yes,36.16289993383265,-105.32357615770448,5.0
+87722,36.12837,-105.24424,Guadalupita,NM,New Mexico,True,,586.0,1.9,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(36.12837, -105.24424)",5.028516282498281,835.0,27316_0_yes,36.16289993383265,-105.32357615770448,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38579,35.83218,-85.54919,Quebeck,TN,Tennessee,True,,1286.0,27.1,47185,White,"{""47185"": 100}",White,47185,False,False,America/Chicago,"(35.83218, -85.54919)",4.180347453056682,2323.0,26544_0_yes,35.85830938247249,-85.61650995181687,5.0
+38587,35.8677,-85.61723,Walling,TN,Tennessee,True,,1037.0,13.4,47185,White,"{""47185"": 100}",White,47185,False,False,America/Chicago,"(35.8677, -85.61723)",0.6500813902056589,2323.0,26544_0_yes,35.85830938247249,-85.61650995181687,5.0

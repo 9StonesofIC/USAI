@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39059,31.98194,-90.35141,Crystal Springs,MS,Mississippi,True,,11775.0,30.0,28029,Copiah,"{""28029"": 94.56, ""28049"": 5.44}",Copiah|Hinds,28029|28049,False,False,America/Chicago,"(31.98194, -90.35141)",2.762609780179208,11775.0,17736_0_no,32.01943458958431,-90.33503452536712,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93630,36.71831,-120.12912,Kerman,CA,California,True,,20727.0,49.3,6019,Fresno,"{""06019"": 100}",Fresno,06019,False,False,America/Los_Angeles,"(36.71831, -120.12912)",2.481701705803056,20727.0,28715_0_yes,36.75402533726496,-120.13387513411068,5.0

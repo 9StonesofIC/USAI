@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58620,46.49732,-103.3551,Amidon,ND,North Dakota,True,,132.0,0.2,38087,Slope,"{""38087"": 98.5, ""38007"": 1.5}",Slope|Billings,38087|38007,False,False,America/Denver,"(46.49732, -103.3551)",5.982160417955892,132.0,12482_0_no,46.571358668082055,-103.42034486461274,10.0

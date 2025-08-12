@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+03575,44.28946,-71.41722,Bretton Woods,NH,New Hampshire,True,,52.0,0.6,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.28946, -71.41722)",2.3134075395203157,773.0,44898_0_no,44.31907259608839,-71.43905442601016,5.0
+03595,44.30616,-71.527,Twin Mountain,NH,New Hampshire,True,,721.0,7.6,33007,Coos,"{""33007"": 100}",Coos,33007,False,False,America/New_York,"(44.30616, -71.527)",4.438534835447501,773.0,44898_0_no,44.31907259608839,-71.43905442601016,5.0

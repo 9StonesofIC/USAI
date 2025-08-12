@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29706,34.71773,-81.23055,Chester,SC,South Carolina,True,,19813.0,28.5,45023,Chester,"{""45023"": 99.72, ""45091"": 0.28}",Chester|York,45023|45091,False,False,America/New_York,"(34.71773, -81.23055)",2.115468266385138,19813.0,23846_0_yes,34.69553570174262,-81.256206133785,5.0

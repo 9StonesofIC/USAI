@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87712,35.88076,-105.17612,Buena Vista,NM,New Mexico,True,,434.0,2.4,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(35.88076, -105.17612)",5.467990772540244,455.0,26966_0_no,35.94530540212187,-105.11958051690276,5.0
+87736,35.98431,-105.19238,Rainsville,NM,New Mexico,True,,21.0,0.4,35033,Mora,"{""35033"": 100}",Mora,35033,False,False,America/Denver,"(35.98431, -105.19238)",4.882316449958818,455.0,26966_0_no,35.94530540212187,-105.11958051690276,5.0

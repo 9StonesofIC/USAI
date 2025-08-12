@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29127,34.16568,-81.51192,Prosperity,SC,South Carolina,True,,8386.0,32.3,45071,Newberry,"{""45071"": 93.54, ""45081"": 6.46}",Newberry|Saluda,45071|45081,False,False,America/New_York,"(34.16568, -81.51192)",6.790517720476399,8386.0,5736_0_no,34.085236858042855,-81.58012584542347,10.0

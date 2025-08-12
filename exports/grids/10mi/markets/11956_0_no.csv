@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97039,45.47226,-120.62428,Moro,OR,Oregon,True,,494.0,1.7,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles,"(45.47226, -120.62428)",5.2848467129297125,494.0,11956_0_no,45.444966055348736,-120.72614833712228,10.0

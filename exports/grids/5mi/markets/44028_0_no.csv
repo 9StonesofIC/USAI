@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12858,43.88899,-73.6703,Paradox,NY,New York,True,,107.0,2.4,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(43.88899, -73.6703)",1.9256571724315004,198.0,44028_0_no,43.88685104362629,-73.6317426998273,5.0
+12872,43.8839,-73.72309,Severance,NY,New York,True,,91.0,32.5,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(43.8839, -73.72309)",4.55344049910847,198.0,44028_0_no,43.88685104362629,-73.6317426998273,5.0

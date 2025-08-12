@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+08215,39.58962,-74.58716,Egg Harbor City,NJ,New Jersey,True,,14068.0,43.8,34001,Atlantic,"{""34001"": 53.96, ""34005"": 46.04}",Atlantic|Burlington,34001|34005,False,False,America/New_York,"(39.58962, -74.58716)",2.0862158167417926,14068.0,34899_0_yes,39.61672392068473,-74.56988954333963,5.0

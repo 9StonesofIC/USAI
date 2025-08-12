@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41189,38.54493,-83.56175,Tollesboro,KY,Kentucky,True,,1852.0,14.8,21135,Lewis,"{""21135"": 100}",Lewis,21135,False,False,America/New_York,"(38.54493, -83.56175)",0.5240783283853899,1852.0,32703_0_no,38.53756441802794,-83.56406600059226,5.0

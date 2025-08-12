@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95901,39.2225,-121.48855,Marysville,CA,California,True,,35181.0,67.8,6115,Yuba,"{""06115"": 96.97, ""06007"": 3.03}",Yuba|Butte,06115|06007,False,False,America/Los_Angeles,"(39.2225, -121.48855)",1.586129146176925,35181.0,34201_0_yes,39.21972072581936,-121.45913590863232,5.0

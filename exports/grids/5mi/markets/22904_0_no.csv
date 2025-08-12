@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74729,34.14674,-96.25289,Caddo,OK,Oklahoma,True,,2701.0,6.8,40013,Bryan,"{""40013"": 64.87, ""40005"": 35.13}",Bryan|Atoka,40013|40005,False,False,America/Chicago,"(34.14674, -96.25289)",3.948490284737612,2701.0,22904_0_no,34.19889707040225,-96.28111821101352,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+65281,39.46431,-92.79099,Salisbury,MO,Missouri,True,,2729.0,5.4,29041,Chariton,"{""29041"": 98.41, ""29089"": 1.3, ""29175"": 0.29}",Chariton|Howard|Randolph,29041|29089|29175,False,False,America/Chicago,"(39.46431, -92.79099)",3.611117127232926,2729.0,34659_0_no,39.414140683685446,-92.7720219322816,5.0

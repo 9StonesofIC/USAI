@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57553,44.48547,-101.64489,Milesville,SD,South Dakota,True,,104.0,0.2,46055,Haakon,"{""46055"": 100}",Haakon,46055,False,False,America/Denver,"(44.48547, -101.64489)",0.3993262075357956,104.0,45340_0_no,44.49053058417631,-101.64880316018456,5.0

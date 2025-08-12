@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29943,32.4821,-81.14952,Tillman,SC,South Carolina,True,,454.0,6.3,45053,Jasper,"{""45053"": 100}",Jasper,45053,False,False,America/New_York,"(32.4821, -81.14952)",3.788838083116101,454.0,18719_0_no,32.44826188381358,-81.09837598668605,5.0

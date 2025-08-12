@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+78871,29.90185,-101.62018,Langtry,TX,Texas,True,,31.0,0.1,48465,Val Verde,"{""48465"": 100}",Val Verde,48465,False,False,America/Chicago,"(29.90185, -101.62018)",10.683958155564204,31.0,3194_0_no,29.763325824921505,-101.54096858792498,10.0

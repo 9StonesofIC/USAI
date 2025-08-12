@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49861,46.57639,-88.16043,Michigamme,MI,Michigan,True,,494.0,1.0,26013,Baraga,"{""26013"": 87.57, ""26103"": 12.43}",Baraga|Marquette,26013|26103,False,False,America/Detroit,"(46.57639, -88.16043)",4.139549227116487,494.0,49314_0_yes,46.57703007804357,-88.24758512796129,5.0

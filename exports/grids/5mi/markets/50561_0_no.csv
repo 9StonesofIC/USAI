@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98943,47.18461,-120.96089,South Cle Elum,WA,Washington,True,,1032.0,478.6,53037,Kittitas,"{""53037"": 100}",Kittitas,53037,False,False,America/Los_Angeles,"(47.18461, -120.96089)",5.893311826125188,1032.0,50561_0_no,47.11369574847004,-120.89119947000972,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+01355,42.45101,-72.33141,New Salem,MA,Massachusetts,True,,981.0,8.0,25011,Franklin,"{""25011"": 100}",Franklin,25011,False,False,America/New_York,"(42.45101, -72.33141)",4.323698753784437,1816.0,41064_0_yes,42.51063708044274,-72.30566294976342,5.0
+01379,42.54149,-72.3989,Wendell,MA,Massachusetts,True,,835.0,14.9,25011,Franklin,"{""25011"": 100}",Franklin,25011,False,False,America/New_York,"(42.54149, -72.3989)",5.204236682750085,1816.0,41064_0_yes,42.51063708044274,-72.30566294976342,5.0

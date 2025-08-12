@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+05342,42.77468,-72.80015,Jacksonville,VT,Vermont,True,,466.0,10.3,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York,"(42.77468, -72.80015)",2.99101849288341,1542.0,41669_0_yes,42.80060217741602,-72.84739251122843,5.0
+05361,42.78021,-72.87935,Whitingham,VT,Vermont,True,,1076.0,14.7,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York,"(42.78021, -72.87935)",2.147269358634777,1542.0,41669_0_yes,42.80060217741602,-72.84739251122843,5.0

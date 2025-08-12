@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50611,42.8193,-92.91114,Bristow,IA,Iowa,True,,340.0,4.1,19023,Butler,"{""19023"": 100}",Butler,19023,False,False,America/Chicago,"(42.8193, -92.91114)",0.3024402028248932,1363.0,41771_0_yes,42.81784415424554,-92.91676783369876,5.0
+50625,42.75071,-92.98691,Dumont,IA,Iowa,True,,1023.0,6.5,19023,Butler,"{""19023"": 82.78, ""19069"": 17.22}",Butler|Franklin,19023|19069,False,False,America/Chicago,"(42.75071, -92.98691)",5.8452489979408,1363.0,41771_0_yes,42.81784415424554,-92.91676783369876,5.0

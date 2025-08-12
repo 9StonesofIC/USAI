@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57223,44.71019,-97.00567,Castlewood,SD,South Dakota,True,,1217.0,3.8,46057,Hamlin,"{""46057"": 97.69, ""46039"": 2.31}",Hamlin|Deuel,46057|46039,False,False,America/Chicago,"(44.71019, -97.00567)",1.7663867637693036,1217.0,45635_0_yes,44.70347916904858,-96.97096035598854,5.0

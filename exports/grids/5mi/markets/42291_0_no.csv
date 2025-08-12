@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48059,43.08253,-82.49913,Fort Gratiot,MI,Michigan,True,,14953.0,182.2,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(43.08253, -82.49913)",4.468952798171075,54222.0,42291_0_no,43.02605511580585,-82.45598150560531,5.0
+48060,42.97835,-82.46297,Port Huron,MI,Michigan,True,,39269.0,731.0,26147,St. Clair,"{""26147"": 100}",St. Clair,26147,False,False,America/Detroit,"(42.97835, -82.46297)",3.3149717309341535,54222.0,42291_0_no,43.02605511580585,-82.45598150560531,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84604,40.3313,-111.57284,Provo,UT,Utah,True,,46099.0,187.7,49049,Utah,"{""49049"": 88.33, ""49051"": 11.67}",Utah|Wasatch,49049|49051,False,False,America/Denver,"(40.3313, -111.57284)",3.1148692799097253,46099.0,36664_0_yes,40.37109438283997,-111.54504177884198,5.0

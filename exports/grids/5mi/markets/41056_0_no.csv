@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+13803,42.45787,-76.06028,Marathon,NY,New York,True,,4131.0,17.1,36023,Cortland,"{""36023"": 90.07, ""36007"": 9.93}",Cortland|Broome,36023|36007,False,False,America/New_York,"(42.45787, -76.06028)",3.128549681144267,4131.0,41056_0_no,42.44146131274484,-76.00308529707993,5.0

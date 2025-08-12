@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+85172,32.89974,-111.95205,Stanfield,AZ,Arizona,True,,1497.0,7.8,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(32.89974, -111.95205)",5.379552729695824,7443.0,4978_0_yes,32.82293079759104,-111.9368792869652,10.0
+85193,32.79822,-111.82809,Casa Grande,AZ,Arizona,True,,5946.0,10.8,4021,Pinal,"{""04021"": 100}",Pinal,04021,False,False,America/Phoenix,"(32.79822, -111.82809)",6.544119050816648,7443.0,4978_0_yes,32.82293079759104,-111.9368792869652,10.0

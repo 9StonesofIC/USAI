@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+18817,41.87431,-76.62075,East Smithfield,PA,Pennsylvania,True,,305.0,156.7,42015,Bradford,"{""42015"": 100}",Bradford,42015,False,False,America/New_York,"(41.87431, -76.62075)",4.818530861753804,1328.0,39873_0_yes,41.93528157449514,-76.66623611782738,5.0
+18831,41.89356,-76.60832,Milan,PA,Pennsylvania,True,,1023.0,12.4,42015,Bradford,"{""42015"": 100}",Bradford,42015,False,False,America/New_York,"(41.89356, -76.60832)",4.144521565073792,1328.0,39873_0_yes,41.93528157449514,-76.66623611782738,5.0

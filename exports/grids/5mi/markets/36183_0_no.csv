@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45312,40.06028,-84.07976,Casstown,OH,Ohio,True,,993.0,14.0,39109,Miami,"{""39109"": 98.0, ""39021"": 2.0}",Miami|Champaign,39109|39021,False,False,America/New_York,"(40.06028, -84.07976)",5.4529010920140095,1956.0,36183_0_no,40.13142688748559,-84.12440957602577,5.0
+45326,40.14201,-84.09039,Fletcher,OH,Ohio,True,,963.0,15.9,39109,Miami,"{""39109"": 100}",Miami,39109,False,False,America/New_York,"(40.14201, -84.09039)",1.9400756629704325,1956.0,36183_0_no,40.13142688748559,-84.12440957602577,5.0

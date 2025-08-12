@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49885,46.34658,-87.19238,Skandia,MI,Michigan,True,,1777.0,4.7,26103,Marquette,"{""26103"": 84.48, ""26003"": 15.52}",Marquette|Alger,26103|26003,False,False,America/Detroit,"(46.34658, -87.19238)",3.718098904207952,1777.0,49001_0_no,46.35914237252985,-87.26819082204304,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67519,37.93573,-99.10292,Belpre,KS,Kansas,True,,117.0,0.5,20047,Edwards,"{""20047"": 87.46, ""20145"": 12.54}",Edwards|Pawnee,20047|20145,False,False,America/Chicago,"(37.93573, -99.10292)",2.450323669423772,117.0,31503_0_no,37.97012885132188,-99.0919803954084,5.0

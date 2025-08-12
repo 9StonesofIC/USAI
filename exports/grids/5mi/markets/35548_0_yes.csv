@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+15536,39.94956,-78.2109,Crystal Spring,PA,Pennsylvania,True,,338.0,3.9,42057,Fulton,"{""42057"": 100}",Fulton,42057,False,False,America/New_York,"(39.94956, -78.2109)",5.464975813568948,2039.0,35548_0_yes,39.909251999244646,-78.12215338985898,5.0
+17238,39.8612,-78.13003,Needmore,PA,Pennsylvania,True,,1701.0,12.4,42057,Fulton,"{""42057"": 100}",Fulton,42057,False,False,America/New_York,"(39.8612, -78.13003)",3.346236523696841,2039.0,35548_0_yes,39.909251999244646,-78.12215338985898,5.0

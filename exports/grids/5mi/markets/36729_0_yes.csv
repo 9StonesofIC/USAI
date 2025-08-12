@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95569,40.36078,-123.85818,Redcrest,CA,California,True,,244.0,1.7,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.36078, -123.85818)",1.431472369565867,244.0,36729_0_yes,40.38118661552482,-123.86287644076351,5.0

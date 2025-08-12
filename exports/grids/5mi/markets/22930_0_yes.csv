@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73548,34.21427,-98.13818,Hastings,OK,Oklahoma,True,,392.0,2.5,40033,Cotton,"{""40033"": 46.0, ""40067"": 43.54, ""40137"": 10.45}",Cotton|Jefferson|Stephens,40033|40067|40137,False,False,America/Chicago,"(34.21427, -98.13818)",5.089529709209143,392.0,22930_0_yes,34.27264978875184,-98.08384017125994,5.0

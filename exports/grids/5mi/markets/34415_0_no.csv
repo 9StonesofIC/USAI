@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80461,39.24244,-106.29016,Leadville,CO,Colorado,True,,7682.0,12.5,8065,Lake,"{""08065"": 100}",Lake,08065,False,False,America/Denver,"(39.24244, -106.29016)",2.88988517090273,7682.0,34415_0_no,39.28006942902572,-106.26657668541972,5.0

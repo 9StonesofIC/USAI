@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84065,40.495,-111.9444,Riverton,UT,Utah,True,,46338.0,866.7,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver,"(40.495, -111.9444)",5.3114688506456496,100031.0,36954_0_no,40.44397700715628,-112.01998285638126,5.0
+84096,40.50539,-112.08546,Herriman,UT,Utah,True,,53693.0,291.7,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver,"(40.50539, -112.08546)",5.463359206823024,100031.0,36954_0_no,40.44397700715628,-112.01998285638126,5.0

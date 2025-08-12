@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+45701,39.31205,-82.08079,Athens,OH,Ohio,True,,36351.0,94.5,39009,Athens,"{""39009"": 100}",Athens,39009,False,False,America/New_York,"(39.31205, -82.08079)",4.719042066201403,36351.0,34285_0_no,39.260656724438185,-82.02267067379091,5.0

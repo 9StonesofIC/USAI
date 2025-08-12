@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57329,42.97814,-98.1522,Dante,SD,South Dakota,True,,410.0,3.1,46023,Charles Mix,"{""46023"": 100}",Charles Mix,46023,False,False,America/Chicago,"(42.97814, -98.1522)",1.0816104563948863,410.0,42098_0_yes,42.967160811244064,-98.16745072129292,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+66014,38.22305,-94.98371,Centerville,KS,Kansas,True,,540.0,3.1,20107,Linn,"{""20107"": 96.28, ""20003"": 3.72}",Linn|Anderson,20107|20003,False,False,America/Chicago,"(38.22305, -94.98371)",4.653264793857821,540.0,31824_0_yes,38.18431447457316,-95.05381916656948,5.0

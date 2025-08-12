@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56535,47.67541,-96.04611,Erskine,MN,Minnesota,True,,1227.0,5.3,27119,Polk,"{""27119"": 88.11, ""27125"": 11.89}",Polk|Red Lake,27119|27125,False,False,America/Chicago,"(47.67541, -96.04611)",2.9398376163274813,2255.0,51551_0_no,47.66940925975831,-95.98355367813764,5.0
+56556,47.66403,-95.88349,Mcintosh,MN,Minnesota,True,,1028.0,3.9,27119,Polk,"{""27119"": 100}",Polk,27119,False,False,America/Chicago,"(47.66403, -95.88349)",4.670814794009101,2255.0,51551_0_no,47.66940925975831,-95.98355367813764,5.0

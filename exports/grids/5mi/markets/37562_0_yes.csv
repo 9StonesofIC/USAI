@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80549,40.84341,-105.05499,Wellington,CO,Colorado,True,,11785.0,24.3,8069,Larimer,"{""08069"": 94.93, ""08123"": 5.07}",Larimer|Weld,08069|08123,False,False,America/Denver,"(40.84341, -105.05499)",5.203609520428825,11785.0,37562_0_yes,40.80034320880458,-104.9733457807426,5.0

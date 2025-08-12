@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81324,37.63734,-109.02911,Dove Creek,CO,Colorado,True,,1374.0,1.2,8033,Dolores,"{""08033"": 52.99, ""49037"": 47.01}",Dolores|San Juan,08033|49037,False,False,America/Denver,"(37.63734, -109.02911)",9.425780843374898,1374.0,7810_0_yes,37.74786452480634,-108.92805055326812,10.0

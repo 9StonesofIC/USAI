@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+38673,34.29607,-89.62485,Taylor,MS,Mississippi,True,,1234.0,16.4,28071,Lafayette,"{""28071"": 100}",Lafayette,28071,False,False,America/Chicago,"(34.29607, -89.62485)",3.724535480894358,5033.0,23203_0_no,34.33912014311918,-89.58556973529835,5.0
+38677,34.36402,-89.53859,University,MS,Mississippi,True,,3799.0,1238.9,28071,Lafayette,"{""28071"": 100}",Lafayette,28071,False,False,America/Chicago,"(34.36402, -89.53859)",3.1845690383923055,5033.0,23203_0_no,34.33912014311918,-89.58556973529835,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23138,37.36245,-76.30062,Port Haywood,VA,Virginia,True,,587.0,20.0,51115,Mathews,"{""51115"": 100}",Mathews,51115,False,False,America/New_York,"(37.36245, -76.30062)",4.82825409280467,633.0,29779_0_yes,37.30043677309221,-76.34113054731172,5.0
+23163,37.3572,-76.29765,Susan,VA,Virginia,True,,46.0,11.6,51115,Mathews,"{""51115"": 100}",Mathews,51115,False,False,America/New_York,"(37.3572, -76.29765)",4.592218279446435,633.0,29779_0_yes,37.30043677309221,-76.34113054731172,5.0

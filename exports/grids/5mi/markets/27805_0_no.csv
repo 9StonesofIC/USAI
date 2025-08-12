@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+27589,36.33461,-78.12819,Warrenton,NC,North Carolina,True,,7332.0,16.7,37185,Warren,"{""37185"": 96.36, ""37069"": 3.64}",Warren|Franklin,37185|37069,False,False,America/New_York,"(36.33461, -78.12819)",2.027043284140072,7332.0,27805_0_no,36.3599872420757,-78.10991346062092,5.0

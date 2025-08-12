@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56448,46.78604,-94.09014,Fifty Lakes,MN,Minnesota,True,,370.0,3.1,27035,Crow Wing,"{""27035"": 65.25, ""27021"": 34.75}",Crow Wing|Cass,27035|27021,False,False,America/Chicago,"(46.78604, -94.09014)",2.256023694565276,370.0,49877_0_no,46.79953859510949,-94.13356569003427,5.0

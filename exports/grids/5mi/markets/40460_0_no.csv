@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14806,42.15543,-77.78662,Andover,NY,New York,True,,2060.0,13.0,36003,Allegany,"{""36003"": 85.2, ""36101"": 14.8}",Allegany|Steuben,36003|36101,False,False,America/New_York,"(42.15543, -77.78662)",0.1743440027918995,2060.0,40460_0_no,42.15343858068479,-77.78452969471905,5.0

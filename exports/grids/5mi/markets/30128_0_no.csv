@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+40445,37.3125,-84.21159,Livingston,KY,Kentucky,True,,728.0,5.8,21203,Rockcastle,"{""21203"": 100}",Rockcastle,21203,False,False,America/New_York,"(37.3125, -84.21159)",4.593643352556887,2186.0,30128_0_no,37.378962369019774,-84.20943099764801,5.0
+40460,37.39385,-84.23985,Orlando,KY,Kentucky,True,,1458.0,16.9,21203,Rockcastle,"{""21203"": 100}",Rockcastle,21203,False,False,America/New_York,"(37.39385, -84.23985)",1.9613467929408541,2186.0,30128_0_no,37.378962369019774,-84.20943099764801,5.0

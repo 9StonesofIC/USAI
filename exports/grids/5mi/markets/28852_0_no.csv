@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63820,36.82427,-89.32564,Anniston,MO,Missouri,True,,216.0,171.1,29133,Mississippi,"{""29133"": 100}",Mississippi,29133,False,False,America/Chicago,"(36.82427, -89.32564)",3.7179205446692896,216.0,28852_0_no,36.80325187695843,-89.38751387141981,5.0

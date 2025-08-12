@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54204,44.76189,-87.61552,Brussels,WI,Wisconsin,True,,1613.0,12.9,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago,"(44.76189, -87.61552)",4.532544593265526,1613.0,45853_0_no,44.76766230401294,-87.70755582887257,5.0

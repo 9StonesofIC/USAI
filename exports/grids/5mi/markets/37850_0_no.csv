@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80545,40.85911,-105.69644,Red Feather Lakes,CO,Colorado,True,,1190.0,1.6,8069,Larimer,"{""08069"": 100}",Larimer,08069,False,False,America/Denver,"(40.85911, -105.69644)",3.333959754006536,1190.0,37850_0_no,40.87337146579524,-105.63548409169532,5.0

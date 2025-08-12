@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54202,45.0779,-87.13837,Baileys Harbor,WI,Wisconsin,True,,1536.0,13.7,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago,"(45.0779, -87.13837)",1.9696067070926158,1536.0,46430_0_no,45.05659344839479,-87.11155614990777,5.0

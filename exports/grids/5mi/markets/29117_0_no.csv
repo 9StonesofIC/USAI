@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23944,36.9056,-78.13319,Kenbridge,VA,Virginia,True,,3359.0,10.2,51111,Lunenburg,"{""51111"": 100}",Lunenburg,51111,False,False,America/New_York,"(36.9056, -78.13319)",2.4802379894042,3359.0,29117_0_no,36.93960795929823,-78.11881624879622,5.0

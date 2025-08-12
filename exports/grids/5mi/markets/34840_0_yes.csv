@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95939,39.56755,-122.60224,Elk Creek,CA,California,True,,592.0,0.9,6021,Glenn,"{""06021"": 100}",Glenn,06021,False,False,America/Los_Angeles,"(39.56755, -122.60224)",4.359937518922809,592.0,34840_0_yes,39.51050825215877,-122.56725060146437,5.0

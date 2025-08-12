@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89047,37.75776,-117.6386,Silverpeak,NV,Nevada,True,,216.0,84.2,32009,Esmeralda,"{""32009"": 100}",Esmeralda,32009,False,False,America/Los_Angeles,"(37.75776, -117.6386)",3.073673855139425,216.0,30980_0_yes,37.76710850508919,-117.69361490733851,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56547,46.89068,-96.55043,Glyndon,MN,Minnesota,True,,3063.0,7.8,27027,Clay,"{""27027"": 100}",Clay,27027,False,False,America/Chicago,"(46.89068, -96.55043)",2.9033254406959457,3063.0,49915_0_yes,46.87401280642218,-96.4939947372451,5.0

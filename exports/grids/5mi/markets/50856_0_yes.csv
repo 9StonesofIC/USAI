@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+99159,47.32872,-118.74338,Odessa,WA,Washington,True,,1403.0,1.1,53043,Lincoln,"{""53043"": 68.03, ""53001"": 31.97}",Lincoln|Adams,53043|53001,False,False,America/Los_Angeles,"(47.32872, -118.74338)",3.835802833908657,1403.0,50856_0_yes,47.32884729496374,-118.82528738602976,5.0

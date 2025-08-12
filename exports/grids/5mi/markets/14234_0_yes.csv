@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32542,30.58743,-86.59296,Eglin Afb,FL,Florida,True,,3725.0,17.1,12091,Okaloosa,"{""12091"": 100}",Okaloosa,12091,False,False,America/Chicago,"(30.58743, -86.59296)",4.3689970057057,3725.0,14234_0_yes,30.6389441204509,-86.5503507497321,5.0

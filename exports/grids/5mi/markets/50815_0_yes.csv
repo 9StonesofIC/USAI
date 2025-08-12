@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59424,47.34929,-110.1022,Coffee Creek,MT,Montana,True,,16.0,0.1,30027,Fergus,"{""30027"": 66.71, ""30045"": 33.29}",Fergus|Judith Basin,30027|30045,False,False,America/Denver,"(47.34929, -110.1022)",1.9895424966470863,16.0,50815_0_yes,47.32074071912264,-110.0966615499718,5.0

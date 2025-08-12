@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+29436,33.31658,-80.18457,Cross,SC,South Carolina,True,,4352.0,19.6,45015,Berkeley,"{""45015"": 95.36, ""45075"": 4.64}",Berkeley|Orangeburg,45015|45075,False,False,America/New_York,"(33.31658, -80.18457)",2.0388742876547816,4352.0,20772_0_no,33.317575295619555,-80.14927725305354,5.0

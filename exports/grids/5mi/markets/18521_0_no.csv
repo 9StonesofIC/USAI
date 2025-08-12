@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88081,32.24958,-106.28821,Chaparral,NM,New Mexico,True,,16136.0,16.5,35035,Otero,"{""35035"": 89.75, ""35013"": 10.25}",Otero|Doña Ana,35035|35013,False,False,America/Denver,"(32.24958, -106.28821)",4.887778298344768,16136.0,18521_0_no,32.320308868254266,-106.28979685836022,5.0

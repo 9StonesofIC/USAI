@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88009,31.91248,-108.53627,Playas,NM,New Mexico,True,,62.0,12.8,35023,Hidalgo,"{""35023"": 100}",Hidalgo,35023,False,False,America/Denver,"(31.91248, -108.53627)",7.2697305212085706,835.0,1148_0_yes,31.926314241418662,-108.65915336752563,20.0
+88020,31.78203,-108.82192,Animas,NM,New Mexico,True,,773.0,0.2,35023,Hidalgo,"{""35023"": 100}",Hidalgo,35023,False,False,America/Denver,"(31.78203, -108.82192)",13.806900609274756,835.0,1148_0_yes,31.926314241418662,-108.65915336752563,20.0

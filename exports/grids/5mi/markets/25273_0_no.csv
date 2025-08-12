@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73627,35.20169,-99.45218,Carter,OK,Oklahoma,True,,479.0,1.8,40009,Beckham,"{""40009"": 98.05, ""40149"": 1.95}",Beckham|Washita,40009|40149,False,False,America/Chicago,"(35.20169, -99.45218)",1.2072141158031648,479.0,25273_0_no,35.21618675848697,-99.46411682362492,5.0

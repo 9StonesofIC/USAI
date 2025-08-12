@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83223,42.18249,-111.40327,Bloomington,ID,Idaho,True,,144.0,17.9,16007,Bear Lake,"{""16007"": 100}",Bear Lake,16007,False,False,America/Boise,"(42.18249, -111.40327)",5.735996578752987,826.0,40659_0_yes,42.25430545323778,-111.34703412652809,5.0
+83261,42.22112,-111.40661,Paris,ID,Idaho,True,,682.0,11.1,16007,Bear Lake,"{""16007"": 100}",Bear Lake,16007,False,False,America/Boise,"(42.22112, -111.40661)",3.8137852148565115,826.0,40659_0_yes,42.25430545323778,-111.34703412652809,5.0

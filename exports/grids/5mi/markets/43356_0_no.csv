@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83686,43.49643,-116.61207,Nampa,ID,Idaho,True,,52879.0,232.8,16027,Canyon,"{""16027"": 100}",Canyon,16027,False,False,America/Boise,"(43.49643, -116.61207)",2.464827362208164,52879.0,43356_0_no,43.4899997267128,-116.56370107953526,5.0

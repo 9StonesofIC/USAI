@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84002,40.42467,-110.27784,Altonah,UT,Utah,True,,314.0,3.2,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver,"(40.42467, -110.27784)",2.2135140886457214,314.0,36945_0_no,40.44257632163768,-110.31274088465388,5.0

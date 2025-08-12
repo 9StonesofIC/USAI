@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98262,48.69317,-122.66406,Lummi Island,WA,Washington,True,,955.0,39.9,53073,Whatcom,"{""53073"": 100}",Whatcom,53073,False,False,America/Los_Angeles,"(48.69317, -122.66406)",3.322668844549547,1648.0,53583_0_no,48.7074899886606,-122.73361777157572,5.0
+98279,48.64474,-122.80602,Olga,WA,Washington,True,,693.0,19.6,53055,San Juan,"{""53055"": 100}",San Juan,53055,False,False,America/Los_Angeles,"(48.64474, -122.80602)",5.450586107128086,1648.0,53583_0_no,48.7074899886606,-122.73361777157572,5.0

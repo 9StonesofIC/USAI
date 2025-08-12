@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57268,44.56885,-96.68781,Toronto,SD,South Dakota,True,,488.0,2.9,46039,Deuel,"{""46039"": 77.94, ""46011"": 22.06}",Deuel|Brookings,46039|46011,False,False,America/Chicago,"(44.56885, -96.68781)",2.676097626217966,488.0,45342_0_yes,44.55842192996376,-96.63545512966672,5.0

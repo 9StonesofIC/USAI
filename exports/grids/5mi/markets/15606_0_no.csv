@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31639,31.21239,-83.19248,Nashville,GA,Georgia,True,,10606.0,19.4,13019,Berrien,"{""13019"": 98.92, ""13173"": 1.08}",Berrien|Lanier,13019|13173,False,False,America/New_York,"(31.21239, -83.19248)",5.172610338316191,10606.0,15606_0_no,31.14448548999459,-83.22932302063546,5.0

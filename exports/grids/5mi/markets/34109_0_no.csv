@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81643,39.11968,-108.15001,Mesa,CO,Colorado,True,,430.0,1.1,8077,Mesa,"{""08077"": 100}",Mesa,08077,False,False,America/Denver,"(39.11968, -108.15001)",1.4614450117662046,430.0,34109_0_no,39.13667190707099,-108.16624806064073,5.0

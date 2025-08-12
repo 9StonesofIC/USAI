@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48432,43.90013,-82.97923,Filion,MI,Michigan,True,,553.0,7.0,26063,Huron,"{""26063"": 100}",Huron,26063,False,False,America/Detroit,"(43.90013, -82.97923)",3.298217026501002,1697.0,44075_0_no,43.895100058898734,-83.04510731603628,5.0
+48445,43.95243,-82.98769,Kinde,MI,Michigan,True,,1144.0,7.6,26063,Huron,"{""26063"": 100}",Huron,26063,False,False,America/Detroit,"(43.95243, -82.98769)",4.884179855047103,1697.0,44075_0_no,43.895100058898734,-83.04510731603628,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50065,40.60859,-93.78089,Davis City,IA,Iowa,True,,689.0,5.0,19053,Decatur,"{""19053"": 100}",Decatur,19053,False,False,America/Chicago,"(40.60859, -93.78089)",2.6479644102051423,976.0,37193_0_yes,40.64625564720481,-93.79021231306068,5.0
+50067,40.70452,-93.85914,Decatur,IA,Iowa,True,,287.0,3.0,19053,Decatur,"{""19053"": 100}",Decatur,19053,False,False,America/Chicago,"(40.70452, -93.85914)",5.408513444378369,976.0,37193_0_yes,40.64625564720481,-93.79021231306068,5.0

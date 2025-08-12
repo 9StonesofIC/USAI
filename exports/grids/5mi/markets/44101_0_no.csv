@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53049,43.8853,-88.28917,Malone,WI,Wisconsin,True,,2704.0,27.3,55039,Fond du Lac,"{""55039"": 95.57, ""55015"": 4.43}",Fond du Lac|Calumet,55039|55015,False,False,America/Chicago,"(43.8853, -88.28917)",2.0537651173256792,2704.0,44101_0_no,43.89966435848731,-88.25305880920122,5.0

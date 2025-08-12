@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24251,36.65807,-82.60582,Gate City,VA,Virginia,True,,7647.0,25.2,51169,Scott,"{""51169"": 100}",Scott,51169,False,False,America/New_York,"(36.65807, -82.60582)",0.5882484367931032,9774.0,28487_0_no,36.65320396254705,-82.61452835989455,5.0
+24290,36.61186,-82.56688,Weber City,VA,Virginia,True,,2127.0,163.7,51169,Scott,"{""51169"": 100}",Scott,51169,False,False,America/New_York,"(36.61186, -82.56688)",3.8909938309528105,9774.0,28487_0_no,36.65320396254705,-82.61452835989455,5.0

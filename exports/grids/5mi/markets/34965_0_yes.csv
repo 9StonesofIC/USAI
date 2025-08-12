@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46135,39.65909,-86.89107,Greencastle,IN,Indiana,True,,20180.0,46.6,18133,Putnam,"{""18133"": 98.41, ""18121"": 1.59}",Putnam|Parke,18133|18121,False,False,America/Indiana/Indianapolis,"(39.65909, -86.89107)",3.4466744700277543,20180.0,34965_0_yes,39.62670275143406,-86.9403415087762,5.0

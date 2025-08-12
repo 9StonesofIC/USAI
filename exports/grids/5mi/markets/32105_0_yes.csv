@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47670,38.34355,-87.57797,Princeton,IN,Indiana,True,,12043.0,56.7,18051,Gibson,"{""18051"": 100}",Gibson,18051,False,False,America/Chicago,"(38.34355, -87.57797)",3.2603083519890808,12043.0,32105_0_yes,38.32340048225978,-87.6323654530061,5.0

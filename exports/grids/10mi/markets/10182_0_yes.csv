@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83302,42.10012,-114.82857,Rogerson,ID,Idaho,True,,243.0,0.3,16083,Twin Falls,"{""16083"": 74.28, ""16073"": 25.72}",Twin Falls|Owyhee,16083|16073,False,False,America/Boise,"(42.10012, -114.82857)",2.719843137360477,243.0,10182_0_yes,42.10386998847261,-114.88138429393942,10.0

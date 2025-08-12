@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30627,33.98264,-82.96265,Carlton,GA,Georgia,True,,2490.0,8.1,13221,Oglethorpe,"{""13221"": 82.31, ""13195"": 17.69}",Oglethorpe|Madison,13221|13195,False,False,America/New_York,"(33.98264, -82.96265)",3.6064712103532783,2490.0,22166_0_yes,33.97196775097912,-83.02426446962043,5.0

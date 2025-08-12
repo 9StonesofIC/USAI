@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98595,46.88302,-124.1088,Westport,WA,Washington,True,,2716.0,197.5,53027,Grays Harbor,"{""53027"": 100}",Grays Harbor,53027,False,False,America/Los_Angeles,"(46.88302, -124.1088)",2.468894862329235,2716.0,50046_0_yes,46.89952283602104,-124.1551773367302,5.0

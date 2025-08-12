@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95503,40.72406,-124.09178,Eureka,CA,California,True,,24631.0,113.6,6023,Humboldt,"{""06023"": 100}",Humboldt,06023,False,False,America/Los_Angeles,"(40.72406, -124.09178)",4.304795770555985,24631.0,37352_0_yes,40.67118893027164,-124.04830488534668,5.0

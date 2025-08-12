@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+02360,41.87817,-70.63089,Plymouth,MA,Massachusetts,True,,60797.0,243.5,25023,Plymouth,"{""25023"": 100}",Plymouth,25023,False,False,America/New_York,"(41.87817, -70.63089)",1.4069966016025355,60991.0,39815_0_no,41.85784755647556,-70.63262946900234,5.0
+02366,41.84868,-70.6613,South Carver,MA,Massachusetts,True,,194.0,1672.9,25023,Plymouth,"{""25023"": 100}",Plymouth,25023,False,False,America/New_York,"(41.84868, -70.6613)",1.605731625769914,60991.0,39815_0_no,41.85784755647556,-70.63262946900234,5.0

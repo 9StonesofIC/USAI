@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58636,47.38924,-102.35351,Halliday,ND,North Dakota,True,,1016.0,1.0,38025,Dunn,"{""38025"": 94.09, ""38057"": 5.91}",Dunn|Mercer,38025|38057,False,False,America/Denver,"(47.38924, -102.35351)",4.845160235927758,1016.0,51056_0_yes,47.458271655410414,-102.37173937397792,5.0

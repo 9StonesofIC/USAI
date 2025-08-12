@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49642,43.87927,-85.77059,Idlewild,MI,Michigan,True,,918.0,23.3,26085,Lake,"{""26085"": 100}",Lake,26085,False,False,America/Detroit,"(43.87927, -85.77059)",3.7555119940722457,918.0,43820_0_yes,43.82506866817364,-85.77623751652442,5.0

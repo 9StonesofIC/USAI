@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39166,33.05161,-90.48208,Silver City,MS,Mississippi,True,,705.0,4.8,28053,Humphreys,"{""28053"": 100}",Humphreys,28053,False,False,America/Chicago,"(33.05161, -90.48208)",1.7116947961577265,705.0,20148_0_no,33.03471934723507,-90.4604603657364,5.0

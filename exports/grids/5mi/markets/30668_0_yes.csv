@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95318,37.66618,-119.8064,El Portal,CA,California,True,,271.0,1.8,6043,Mariposa,"{""06043"": 100}",Mariposa,06043,False,False,America/Los_Angeles,"(37.66618, -119.8064)",5.681749211177019,986.0,30668_0_yes,37.6238297335335,-119.89542259887152,5.0
+95345,37.58784,-119.96408,Midpines,CA,California,True,,715.0,7.3,6043,Mariposa,"{""06043"": 100}",Mariposa,06043,False,False,America/Los_Angeles,"(37.58784, -119.96408)",4.506342919218663,986.0,30668_0_yes,37.6238297335335,-119.89542259887152,5.0

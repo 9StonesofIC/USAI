@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12970,44.44949,-74.33222,Paul Smiths,NY,New York,True,,839.0,3.0,36033,Franklin,"{""36033"": 100}",Franklin,36033,False,False,America/New_York,"(44.44949, -74.33222)",1.2352226317266497,839.0,45205_0_no,44.46634883094398,-74.34055430232476,5.0

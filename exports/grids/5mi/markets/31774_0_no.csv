@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62286,38.11756,-89.7154,Sparta,IL,Illinois,True,,6066.0,23.4,17157,Randolph,"{""17157"": 100}",Randolph,17157,False,False,America/Chicago,"(38.11756, -89.7154)",1.9309153377992443,6066.0,31774_0_no,38.10770504010957,-89.68216258173861,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59071,45.26582,-109.57003,Roscoe,MT,Montana,True,,160.0,0.7,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.26582, -109.57003)",10.9175140521206,160.0,11785_0_no,45.13562955234118,-109.69710859908808,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86426,35.0134,-114.54968,Fort Mohave,AZ,Arizona,True,,15326.0,169.6,4015,Mohave,"{""04015"": 100}",Mohave,04015,False,False,America/Phoenix,"(35.0134, -114.54968)",2.692194432776972,15326.0,24707_0_yes,35.00964790002571,-114.5970325585639,5.0

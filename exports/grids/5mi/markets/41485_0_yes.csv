@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+51049,42.63005,-95.64463,Quimby,IA,Iowa,True,,512.0,4.4,19035,Cherokee,"{""19035"": 100}",Cherokee,19035,False,False,America/Chicago,"(42.63005, -95.64463)",5.775274315798686,512.0,41485_0_yes,42.67546745965986,-95.7400391182886,5.0

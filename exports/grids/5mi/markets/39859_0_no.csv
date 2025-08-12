@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16365,41.83943,-79.15324,Warren,PA,Pennsylvania,True,,17675.0,49.0,42123,Warren,"{""42123"": 100}",Warren,42123,False,False,America/New_York,"(41.83943, -79.15324)",1.8140213829115432,17675.0,39859_0_no,41.86504377790561,-79.16098011191673,5.0

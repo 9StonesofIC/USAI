@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+82514,43.01997,-109.01,Fort Washakie,WY,Wyoming,True,,1674.0,4.0,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver,"(43.01997, -109.01)",10.291106906880243,1674.0,10620_0_yes,42.962401962672864,-108.82219727766872,10.0

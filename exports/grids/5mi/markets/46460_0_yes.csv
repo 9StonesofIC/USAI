@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54143,45.08708,-87.70045,Marinette,WI,Wisconsin,True,,14811.0,86.3,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago,"(45.08708, -87.70045)",4.028820515479375,15953.0,46460_0_yes,45.12948476167021,-87.75715876505232,5.0
+54159,45.20027,-87.82682,Porterfield,WI,Wisconsin,True,,1142.0,6.1,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago,"(45.20027, -87.82682)",5.95284139403457,15953.0,46460_0_yes,45.12948476167021,-87.75715876505232,5.0

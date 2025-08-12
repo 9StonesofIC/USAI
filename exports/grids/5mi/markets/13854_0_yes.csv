@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+32009,30.42078,-81.97252,Bryceville,FL,Florida,True,,3841.0,17.0,12089,Nassau,"{""12089"": 100}",Nassau,12089,False,False,America/New_York,"(30.42078, -81.97252)",5.970245268993055,3841.0,13854_0_yes,30.49090358791129,-81.91395013517085,5.0

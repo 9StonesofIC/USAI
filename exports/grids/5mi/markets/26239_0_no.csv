@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72852,35.68243,-93.56684,Oark,AR,Arkansas,True,,131.0,0.6,5071,Johnson,"{""05071"": 83.59, ""05101"": 15.79, ""05087"": 0.62}",Johnson|Newton|Madison,05071|05101|05087,False,False,America/Chicago,"(35.68243, -93.56684)",4.794235869760084,131.0,26239_0_no,35.6468505457096,-93.6401638379035,5.0

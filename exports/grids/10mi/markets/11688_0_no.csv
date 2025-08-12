@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04920,45.11323,-69.83863,Bingham,ME,Maine,True,,1655.0,2.9,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(45.11323, -69.83863)",9.952323735752591,2446.0,11688_0_no,45.064614777901184,-70.03068096478981,10.0
+04961,45.16024,-70.1665,New Portland,ME,Maine,True,,791.0,0.8,23025,Somerset,"{""23025"": 100}",Somerset,23025,False,False,America/New_York,"(45.16024, -70.1665)",9.354794956275288,2446.0,11688_0_no,45.064614777901184,-70.03068096478981,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+67351,37.14066,-95.56698,Liberty,KS,Kansas,True,,277.0,2.5,20125,Montgomery,"{""20125"": 80.18, ""20099"": 19.82}",Montgomery|Labette,20125|20099,False,False,America/Chicago,"(37.14066, -95.56698)",4.5238707595455905,277.0,29560_0_yes,37.17030431572514,-95.64022894931904,5.0

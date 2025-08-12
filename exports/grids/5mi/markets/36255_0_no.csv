@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68340,40.12525,-97.74126,Deshler,NE,Nebraska,True,,905.0,6.4,31169,Thayer,"{""31169"": 100}",Thayer,31169,False,False,America/Chicago,"(40.12525, -97.74126)",1.6086632186070307,905.0,36255_0_no,40.14251236350199,-97.72082530831987,5.0

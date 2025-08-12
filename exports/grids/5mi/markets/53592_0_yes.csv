@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98859,48.81181,-118.90871,Wauconda,WA,Washington,True,,137.0,0.4,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.81181, -118.90871)",3.0641552656383055,137.0,53592_0_yes,48.77612145136058,-118.86874713855136,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83525,45.73798,-115.39367,Elk City,ID,Idaho,True,,276.0,0.2,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Los_Angeles,"(45.73798, -115.39367)",9.70420534585809,276.0,12100_0_yes,45.86955315239344,-115.46416188386928,10.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59008,45.07982,-109.07496,Belfry,MT,Montana,True,,519.0,1.6,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.07982, -109.07496)",5.112145275093288,519.0,46564_0_yes,45.14854527948816,-109.03612192641812,5.0

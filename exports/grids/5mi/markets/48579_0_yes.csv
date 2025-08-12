@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59643,46.13283,-111.57884,Toston,MT,Montana,True,,302.0,0.4,30007,Broadwater,"{""30007"": 100}",Broadwater,30007,False,False,America/Denver,"(46.13283, -111.57884)",4.562392510529717,302.0,48579_0_yes,46.16427105542468,-111.66265529054034,5.0

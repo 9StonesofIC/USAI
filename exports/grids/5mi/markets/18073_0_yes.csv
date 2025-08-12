@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36043,32.1939,-86.42811,Hope Hull,AL,Alabama,True,,3788.0,11.8,1085,Lowndes,"{""01085"": 55.77, ""01101"": 44.23}",Lowndes|Montgomery,01085|01101,False,False,America/Chicago,"(32.1939, -86.42811)",3.095407695501927,3788.0,18073_0_yes,32.23430291796957,-86.40523167191088,5.0

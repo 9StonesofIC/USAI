@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30286,32.88078,-84.33334,Thomaston,GA,Georgia,True,,22270.0,43.1,13293,Upson,"{""13293"": 100}",Upson,13293,False,False,America/New_York,"(32.88078, -84.33334)",6.106961073068215,22270.0,19440_0_yes,32.812905007442176,-84.26595117205683,5.0

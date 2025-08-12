@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+96080,40.16386,-122.39171,Red Bluff,CA,California,True,,31009.0,18.5,6103,Tehama,"{""06103"": 100}",Tehama,06103,False,False,America/Los_Angeles,"(40.16386, -122.39171)",5.336562092115815,31009.0,36409_0_yes,40.23502239954119,-122.3524011219102,5.0

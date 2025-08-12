@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+37359,35.19776,-86.4119,Mulberry,TN,Tennessee,True,,1033.0,10.3,47103,Lincoln,"{""47103"": 80.52, ""47127"": 19.48}",Lincoln|Moore,47103|47127,False,False,America/Chicago,"(35.19776, -86.4119)",1.6521693998965457,1033.0,25199_0_no,35.20664013931969,-86.38472896098963,5.0

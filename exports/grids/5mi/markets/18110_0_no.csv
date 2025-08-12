@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75789,32.1126,-95.09405,Troup,TX,Texas,True,,8379.0,17.5,48073,Cherokee,"{""48073"": 62.95, ""48423"": 36.54, ""48401"": 0.51}",Cherokee|Smith|Rusk,48073|48423|48401,False,False,America/Chicago,"(32.1126, -95.09405)",4.3575922790952015,8379.0,18110_0_no,32.16765675526078,-95.05771968990048,5.0

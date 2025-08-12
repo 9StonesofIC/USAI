@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83533,46.11707,-116.24063,Greencreek,ID,Idaho,True,,217.0,2.5,16049,Idaho,"{""16049"": 100}",Idaho,16049,False,False,America/Los_Angeles,"(46.11707, -116.24063)",3.563196650474466,217.0,48601_0_yes,46.16844934581376,-116.24703612459868,5.0

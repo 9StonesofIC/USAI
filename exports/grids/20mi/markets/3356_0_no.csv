@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98326,48.17364,-124.45278,Clallam Bay,WA,Washington,True,,840.0,1.1,53009,Clallam,"{""53009"": 100}",Clallam,53009,False,False,America/Los_Angeles,"(48.17364, -124.45278)",20.857295669976423,1360.0,3356_0_no,47.91323140769173,-124.68116105127552,20.0
+98350,47.90683,-124.62509,La Push,WA,Washington,True,,520.0,132.3,53009,Clallam,"{""53009"": 100}",Clallam,53009,False,False,America/Los_Angeles,"(47.90683, -124.62509)",2.6342205976501094,1360.0,3356_0_no,47.91323140769173,-124.68116105127552,20.0

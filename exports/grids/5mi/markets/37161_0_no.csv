@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63548,40.53405,-92.4953,Lancaster,MO,Missouri,True,,1086.0,5.0,29197,Schuyler,"{""29197"": 100}",Schuyler,29197,False,False,America/Chicago,"(40.53405, -92.4953)",5.045771611822215,1086.0,37161_0_no,40.57274285841413,-92.41378469303466,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83322,43.31475,-114.96811,Corral,ID,Idaho,True,,17.0,0.1,16025,Camas,"{""16025"": 100}",Camas,16025,False,False,America/Boise,"(43.31475, -114.96811)",7.014460732436895,40.0,10785_0_yes,43.26283127225214,-115.08796227073148,10.0
+83337,43.21807,-115.1575,Hill City,ID,Idaho,True,,23.0,0.0,16039,Elmore,"{""16039"": 82.44, ""16025"": 17.56}",Elmore|Camas,16039|16025,False,False,America/Boise,"(43.21807, -115.1575)",4.6706962929600175,40.0,10785_0_yes,43.26283127225214,-115.08796227073148,10.0

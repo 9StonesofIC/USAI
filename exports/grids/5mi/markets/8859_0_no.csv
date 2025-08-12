@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34714,28.40406,-81.80132,Clermont,FL,Florida,True,,24227.0,75.0,12069,Lake,"{""12069"": 99.62, ""12105"": 0.38}",Lake|Polk,12069|12105,False,False,America/New_York,"(28.40406, -81.80132)",4.5465484219392405,24227.0,8859_0_no,28.387292841339523,-81.72898626869454,5.0

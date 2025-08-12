@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81081,37.07295,-104.14954,Trinchera,CO,Colorado,True,,91.0,0.1,8071,Las Animas,"{""08071"": 100}",Las Animas,08071,False,False,America/Denver,"(37.07295, -104.14954)",5.54259734459048,91.0,7462_0_no,37.01622898414498,-104.22060988783844,10.0

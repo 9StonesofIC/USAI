@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75448,33.31478,-95.79681,Klondike,TX,Texas,True,,784.0,11.7,48119,Delta,"{""48119"": 100}",Delta,48119,False,False,America/Chicago,"(33.31478, -95.79681)",4.125644263374369,784.0,20536_0_yes,33.255921581461365,-95.80883822830404,5.0

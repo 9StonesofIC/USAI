@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68015,41.38351,-96.64737,Cedar Bluffs,NE,Nebraska,True,,1358.0,9.5,31155,Saunders,"{""31155"": 100}",Saunders,31155,False,False,America/Chicago,"(41.38351, -96.64737)",4.7871270023777335,1771.0,39033_0_no,41.44527293865185,-96.6055051465352,5.0
+68621,41.48963,-96.63911,Ames,NE,Nebraska,True,,413.0,5.0,31053,Dodge,"{""31053"": 100}",Dodge,31053,False,False,America/Chicago,"(41.48963, -96.63911)",3.524198712605471,1771.0,39033_0_no,41.44527293865185,-96.6055051465352,5.0

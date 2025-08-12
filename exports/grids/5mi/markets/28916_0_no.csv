@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73950,36.85193,-100.88621,Turpin,OK,Oklahoma,True,,1471.0,2.5,40007,Beaver,"{""40007"": 80.07, ""40139"": 19.93}",Beaver|Texas,40007|40139,False,False,America/Chicago,"(36.85193, -100.88621)",3.6631858008537463,1471.0,28916_0_no,36.81200349098988,-100.92979113044878,5.0

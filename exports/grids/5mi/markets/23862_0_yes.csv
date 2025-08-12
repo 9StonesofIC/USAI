@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30572,34.73539,-84.07364,Suches,GA,Georgia,True,,844.0,3.0,13291,Union,"{""13291"": 69.68, ""13111"": 30.32}",Union|Fannin,13291|13111,False,False,America/New_York,"(34.73539, -84.07364)",2.644544769011202,844.0,23862_0_yes,34.697560938910456,-84.06655338591192,5.0

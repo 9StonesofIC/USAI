@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36518,31.47082,-88.27546,Chatom,AL,Alabama,True,,2547.0,7.4,1129,Washington,"{""01129"": 100}",Washington,01129,False,False,America/Chicago,"(31.47082, -88.27546)",4.905775162309471,2547.0,16335_0_no,31.437939502855,-88.34922989974386,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+88135,34.5623,-103.08204,Texico,NM,New Mexico,True,,1426.0,3.8,35009,Curry,"{""35009"": 93.56, ""35041"": 6.44}",Curry|Roosevelt,35009|35041,False,False,America/Denver,"(34.5623, -103.08204)",6.05861157221792,1426.0,23617_0_no,34.49373221719704,-103.01569514938576,5.0

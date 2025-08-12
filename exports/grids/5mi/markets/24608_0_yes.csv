@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74878,35.00768,-97.06999,Wanette,OK,Oklahoma,True,,1794.0,6.0,40125,Pottawatomie,"{""40125"": 93.84, ""40027"": 6.16}",Pottawatomie|Cleveland,40125|40027,False,False,America/Chicago,"(35.00768, -97.06999)",4.217546732955629,1794.0,24608_0_yes,34.996973708100484,-97.1433545074676,5.0

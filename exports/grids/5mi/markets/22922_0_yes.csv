@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73455,34.22651,-96.75997,Ravia,OK,Oklahoma,True,,624.0,31.2,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago,"(34.22651, -96.75997)",5.262083512163391,5250.0,22922_0_yes,34.27165302283866,-96.68576524099674,5.0
+73460,34.28789,-96.66689,Tishomingo,OK,Oklahoma,True,,4626.0,11.7,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago,"(34.28789, -96.66689)",1.5555874511875785,5250.0,22922_0_yes,34.27165302283866,-96.68576524099674,5.0

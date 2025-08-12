@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83840,48.31263,-116.51506,Kootenai,ID,Idaho,True,,283.0,369.3,16017,Bonner,"{""16017"": 100}",Bonner,16017,False,False,America/Los_Angeles,"(48.31263, -116.51506)",3.8731294069756528,1220.0,52741_0_no,48.26741929061716,-116.46525117338795,5.0
+83852,48.31105,-116.53933,Ponderay,ID,Idaho,True,,937.0,145.0,16017,Bonner,"{""16017"": 100}",Bonner,16017,False,False,America/Los_Angeles,"(48.31105, -116.53933)",4.548178876618333,1220.0,52741_0_no,48.26741929061716,-116.46525117338795,5.0

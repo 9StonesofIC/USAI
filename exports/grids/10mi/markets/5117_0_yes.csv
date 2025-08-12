@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79528,33.15936,-100.57982,Jayton,TX,Texas,True,,625.0,0.7,48263,Kent,"{""48263"": 75.75, ""48433"": 24.25}",Kent|Stonewall,48263|48433,False,False,America/Chicago,"(33.15936, -100.57982)",5.707650234911021,625.0,5117_0_yes,33.09721371804275,-100.51483320404722,10.0

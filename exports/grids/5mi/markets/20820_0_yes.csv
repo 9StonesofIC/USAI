@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36266,33.35338,-85.75062,Lineville,AL,Alabama,True,,6064.0,11.9,1027,Clay,"{""01027"": 78.77, ""01111"": 21.23}",Clay|Randolph,01027|01111,False,False,America/Chicago,"(33.35338, -85.75062)",3.112527098459688,6064.0,20820_0_yes,33.393919608803124,-85.72709756630701,5.0

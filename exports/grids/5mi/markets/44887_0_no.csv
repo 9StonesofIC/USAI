@@ -1,0 +1,4 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+04847,44.25104,-69.18962,Hope,ME,Maine,True,,1729.0,30.4,23013,Knox,"{""23013"": 100}",Knox,23013,False,False,America/New_York,"(44.25104, -69.18962)",4.806272167512432,7311.0,44887_0_no,44.31711315738583,-69.2200063574209,5.0
+04862,44.26186,-69.27703,Union,ME,Maine,True,,4208.0,25.0,23013,Knox,"{""23013"": 100}",Knox,23013,False,False,America/New_York,"(44.26186, -69.27703)",4.746410239544029,7311.0,44887_0_no,44.31711315738583,-69.2200063574209,5.0
+04973,44.36229,-69.19303,Searsmont,ME,Maine,True,,1374.0,14.1,23027,Waldo,"{""23027"": 100}",Waldo,23027,False,False,America/New_York,"(44.36229, -69.19303)",3.394164389986916,7311.0,44887_0_no,44.31711315738583,-69.2200063574209,5.0

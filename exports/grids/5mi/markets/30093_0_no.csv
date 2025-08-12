@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+23120,37.40872,-77.78468,Moseley,VA,Virginia,True,,11529.0,70.5,51041,Chesterfield,"{""51041"": 93.69, ""51145"": 6.31}",Chesterfield|Powhatan,51041|51145,False,False,America/New_York,"(37.40872, -77.78468)",4.306085606094781,11529.0,30093_0_no,37.374077146975125,-77.84988683626362,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50648,42.45182,-92.09465,Jesup,IA,Iowa,True,,4223.0,19.6,19013,Black Hawk,"{""19013"": 58.35, ""19019"": 41.65}",Black Hawk|Buchanan,19013|19019,False,False,America/Chicago,"(42.45182, -92.09465)",2.57467828672043,4223.0,41138_0_no,42.45514953674205,-92.04434721460416,5.0

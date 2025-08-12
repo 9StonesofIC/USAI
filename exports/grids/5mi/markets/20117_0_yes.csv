@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30803,33.13878,-82.55013,Avera,GA,Georgia,True,,1039.0,7.7,13163,Jefferson,"{""13163"": 98.94, ""13125"": 1.06}",Jefferson|Glascock,13163|13125,False,False,America/New_York,"(33.13878, -82.55013)",3.118042095900419,1039.0,20117_0_yes,33.10174420989189,-82.58091742181598,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14302,43.0939,-79.04919,Niagara Falls,NY,New York,True,,255.0,7084.9,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/Toronto,"(43.0939, -79.04919)",5.50623266577733,5907.0,42274_0_no,43.02315985445064,-79.0994159841851,5.0
+14303,43.08428,-79.03908,Niagara Falls,NY,New York,True,,5652.0,804.3,36063,Niagara,"{""36063"": 100}",Niagara,36063,False,False,America/Toronto,"(43.08428, -79.03908)",5.2070285871246,5907.0,42274_0_no,43.02315985445064,-79.0994159841851,5.0

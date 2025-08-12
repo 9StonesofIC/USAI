@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+36353,31.4817,-85.36208,Newville,AL,Alabama,True,,1564.0,6.2,1067,Henry,"{""01067"": 81.94, ""01045"": 18.06}",Henry|Dale,01067|01045,False,False,America/Chicago,"(31.4817, -85.36208)",1.9562739304789192,1564.0,16329_0_yes,31.508446324120104,-85.35118612767957,5.0

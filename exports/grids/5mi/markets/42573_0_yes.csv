@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12822,43.2407,-73.88959,Corinth,NY,New York,True,,5962.0,33.9,36091,Saratoga,"{""36091"": 100}",Saratoga,36091,False,False,America/New_York,"(43.2407, -73.88959)",1.276832894125106,8387.0,42573_0_yes,43.2357115464965,-73.86516517571705,5.0
+12859,43.16587,-73.90569,Porter Corners,NY,New York,True,,2425.0,47.0,36091,Saratoga,"{""36091"": 100}",Saratoga,36091,False,False,America/New_York,"(43.16587, -73.90569)",5.239499562993438,8387.0,42573_0_yes,43.2357115464965,-73.86516517571705,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+26202,38.22657,-80.62639,Fenwick,WV,West Virginia,True,,482.0,10.6,54067,Nicholas,"{""54067"": 100}",Nicholas,54067,False,False,America/New_York,"(38.22657, -80.62639)",1.803189622787495,482.0,32046_0_no,38.24549136728274,-80.60350629430083,5.0

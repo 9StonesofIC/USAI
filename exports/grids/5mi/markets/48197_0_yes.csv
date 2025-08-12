@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54843,46.0251,-91.29494,Hayward,WI,Wisconsin,True,,11514.0,10.1,55113,Sawyer,"{""55113"": 92.83, ""55129"": 7.17}",Sawyer|Washburn,55113|55129,False,False,America/Chicago,"(46.0251, -91.29494)",2.4944500912115997,11514.0,48197_0_yes,46.00103417750001,-91.33368986050336,5.0

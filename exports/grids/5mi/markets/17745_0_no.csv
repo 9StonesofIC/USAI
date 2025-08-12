@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+71243,31.96055,-91.80745,Fort Necessity,LA,Louisiana,True,,236.0,3.6,22041,Franklin,"{""22041"": 100}",Franklin,22041,False,False,America/Chicago,"(31.96055, -91.80745)",5.459358008248982,236.0,17745_0_no,32.02046415096959,-91.86818607042852,5.0

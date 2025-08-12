@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83802,47.26665,-115.72815,Avery,ID,Idaho,True,,170.0,0.3,16079,Shoshone,"{""16079"": 100}",Shoshone,16079,False,False,America/Los_Angeles,"(47.26665, -115.72815)",17.806359239881,170.0,3212_0_yes,47.010623938812834,-115.68485563662456,20.0

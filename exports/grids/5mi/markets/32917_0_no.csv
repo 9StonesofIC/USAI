@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95446,38.52525,-123.00423,Guerneville,CA,California,True,,4951.0,61.6,6097,Sonoma,"{""06097"": 100}",Sonoma,06097,False,False,America/Los_Angeles,"(38.52525, -123.00423)",4.804665904324916,4951.0,32917_0_no,38.568717737498645,-123.07363155795925,5.0

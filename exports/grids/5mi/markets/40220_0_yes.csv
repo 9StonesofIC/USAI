@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+49092,42.09822,-84.97335,Tekonsha,MI,Michigan,True,,2018.0,13.6,26025,Calhoun,"{""26025"": 72.24, ""26023"": 27.76}",Calhoun|Branch,26025|26023,False,False,America/Detroit,"(42.09822, -84.97335)",2.8440483039114337,2018.0,40220_0_yes,42.08705121393599,-84.9199607199595,5.0

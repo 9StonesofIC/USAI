@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+39120,31.51148,-91.35206,Natchez,MS,Mississippi,True,,30733.0,24.5,28001,Adams,"{""28001"": 87.49, ""28063"": 12.51}",Adams|Jefferson,28001|28063,False,False,America/Chicago,"(31.51148, -91.35206)",4.194487531963886,30733.0,16364_0_yes,31.51237182345019,-91.28085918159172,5.0

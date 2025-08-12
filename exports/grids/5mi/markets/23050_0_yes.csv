@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93010,34.23007,-119.07437,Camarillo,CA,California,True,,46434.0,815.9,6111,Ventura,"{""06111"": 100}",Ventura,06111,False,False,America/Los_Angeles,"(34.23007, -119.07437)",4.097989374592364,49359.0,23050_0_yes,34.28760572447523,-119.05694478631176,5.0
+93066,34.28851,-119.02848,Somis,CA,California,True,,2925.0,26.8,6111,Ventura,"{""06111"": 100}",Ventura,06111,False,False,America/Los_Angeles,"(34.28851, -119.02848)",1.6261435043688561,49359.0,23050_0_yes,34.28760572447523,-119.05694478631176,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+70040,29.75806,-89.92327,Braithwaite,LA,Louisiana,True,,816.0,3.3,22075,Plaquemines,"{""22075"": 99.15, ""22087"": 0.85}",Plaquemines|St. Bernard,22075|22087,False,False,America/Chicago,"(29.75806, -89.92327)",5.957206247548942,816.0,12123_0_no,29.698189120492454,-89.99471580823328,5.0

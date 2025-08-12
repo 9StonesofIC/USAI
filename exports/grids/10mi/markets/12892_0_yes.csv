@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+56659,47.62116,-94.01899,Max,MN,Minnesota,True,,99.0,1.2,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.62116, -94.01899)",8.636176598802715,368.0,12892_0_yes,47.56660191576832,-94.1857460598347,10.0
+56681,47.5488,-94.25132,Squaw Lake,MN,Minnesota,True,,269.0,0.6,27061,Itasca,"{""27061"": 100}",Itasca,27061,False,False,America/Chicago,"(47.5488, -94.25132)",3.2956786184563445,368.0,12892_0_yes,47.56660191576832,-94.1857460598347,10.0

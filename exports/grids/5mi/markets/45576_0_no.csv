@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+54420,44.61043,-90.35036,Chili,WI,Wisconsin,True,,1304.0,12.5,55019,Clark,"{""55019"": 91.24, ""55141"": 8.76}",Clark|Wood,55019|55141,False,False,America/Chicago,"(44.61043, -90.35036)",4.3573122298728375,1304.0,45576_0_no,44.62534761996479,-90.43644279502776,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+83812,47.00311,-116.28295,Clarkia,ID,Idaho,True,,32.0,0.5,16079,Shoshone,"{""16079"": 100}",Shoshone,16079,False,False,America/Los_Angeles,"(47.00311, -116.28295)",3.083048648587672,32.0,50261_0_no,46.96465641254696,-116.2497690804576,5.0

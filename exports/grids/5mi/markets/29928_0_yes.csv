@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+81049,37.31338,-103.36308,Kim,CO,Colorado,True,,233.0,0.1,8071,Las Animas,"{""08071"": 100}",Las Animas,08071,False,False,America/Denver,"(37.31338, -103.36308)",1.62821445586454,233.0,29928_0_yes,37.32118476984274,-103.3910388603944,5.0

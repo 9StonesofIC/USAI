@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+22737,38.59024,-78.00205,Rixeyville,VA,Virginia,True,,3475.0,32.4,51047,Culpeper,"{""51047"": 100}",Culpeper,51047,False,False,America/New_York,"(38.59024, -78.00205)",4.160090908967746,3475.0,32673_0_no,38.53319988892168,-78.02670372751001,5.0

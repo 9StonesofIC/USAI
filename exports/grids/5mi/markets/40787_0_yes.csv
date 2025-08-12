@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+14810,42.34678,-77.34599,Bath,NY,New York,True,,11673.0,37.4,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.34678, -77.34599)",2.3962280532150073,11948.0,40787_0_yes,42.37014702660666,-77.311309165817,5.0
+14856,42.37737,-77.36944,Kanona,NY,New York,True,,275.0,614.5,36101,Steuben,"{""36101"": 100}",Steuben,36101,False,False,America/New_York,"(42.37737, -77.36944)",3.0088910542712988,11948.0,40787_0_yes,42.37014702660666,-77.311309165817,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+86508,35.35086,-109.08737,Lupton,AZ,Arizona,True,,599.0,2.8,4001,Apache,"{""04001"": 100}",Apache,04001,False,False,America/Denver,"(35.35086, -109.08737)",10.671263876926698,2223.0,6486_0_no,35.28394453654748,-108.9167758814274,10.0
+87326,35.27223,-108.88765,Vanderwagen,NM,New Mexico,True,,1624.0,2.7,35031,McKinley,"{""35031"": 100}",McKinley,35031,False,False,America/Denver,"(35.27223, -108.88765)",1.8314106842459497,2223.0,6486_0_no,35.28394453654748,-108.9167758814274,10.0

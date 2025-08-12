@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64453,40.34471,-94.46947,Gentry,MO,Missouri,True,,212.0,2.0,29075,Gentry,"{""29075"": 99.85, ""29227"": 0.15}",Gentry|Worth,29075|29227,False,False,America/Chicago,"(40.34471, -94.46947)",4.333983008757033,212.0,36550_0_no,40.284702662858585,-94.44551190008607,5.0

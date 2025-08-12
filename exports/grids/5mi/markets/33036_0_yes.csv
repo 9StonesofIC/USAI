@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+25515,38.75731,-82.15262,Gallipolis Ferry,WV,West Virginia,True,,1856.0,15.7,54053,Mason,"{""54053"": 100}",Mason,54053,False,False,America/New_York,"(38.75731, -82.15262)",3.777976334926657,16022.0,33036_0_yes,38.753767005091056,-82.22259007860973,5.0
+45631,38.81672,-82.25486,Gallipolis,OH,Ohio,True,,14166.0,47.7,39053,Gallia,"{""39053"": 100}",Gallia,39053,False,False,America/New_York,"(38.81672, -82.25486)",4.684015220236899,16022.0,33036_0_yes,38.753767005091056,-82.22259007860973,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+89314,38.86222,-115.64186,Duckwater,NV,Nevada,True,,251.0,3.1,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles,"(38.86222, -115.64186)",6.06233496019708,251.0,33535_0_yes,38.92524879517007,-115.7202861235254,5.0

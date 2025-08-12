@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59832,46.67864,-113.22904,Drummond,MT,Montana,True,,625.0,1.0,30039,Granite,"{""30039"": 100}",Granite,30039,False,False,America/Denver,"(46.67864, -113.22904)",4.180387359804654,625.0,49687_0_no,46.67230205896335,-113.14134444961022,5.0

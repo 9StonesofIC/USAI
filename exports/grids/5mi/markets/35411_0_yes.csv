@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84629,39.76574,-111.44752,Fairview,UT,Utah,True,,3309.0,5.3,49039,Sanpete,"{""49039"": 67.22, ""49049"": 32.78}",Sanpete|Utah,49039|49049,False,False,America/Denver,"(39.76574, -111.44752)",2.1616472719386053,3309.0,35411_0_yes,39.79141127609112,-111.47078892125842,5.0

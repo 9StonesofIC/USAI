@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95075,36.80112,-121.19258,Tres Pinos,CA,California,True,,429.0,1.8,6069,San Benito,"{""06069"": 100}",San Benito,06069,False,False,America/Los_Angeles,"(36.80112, -121.19258)",3.4339969349734827,429.0,28721_0_yes,36.75484422406352,-121.21521610116775,5.0

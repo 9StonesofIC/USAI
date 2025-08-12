@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64449,40.04135,-94.97754,Fillmore,MO,Missouri,True,,687.0,6.9,29003,Andrew,"{""29003"": 100}",Andrew,29003,False,False,America/Chicago,"(40.04135, -94.97754)",3.458755040022645,687.0,35928_0_no,39.995388703952,-94.9516387446336,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47527,38.47232,-86.77772,Dubois,IN,Indiana,True,,2348.0,16.4,18037,Dubois,"{""18037"": 98.81, ""18117"": 1.19}",Dubois|Orange,18037|18117,False,False,America/Indiana/Vincennes,"(38.47232, -86.77772)",2.3120320149737474,2348.0,32421_0_yes,38.467648187503045,-86.82004115252033,5.0

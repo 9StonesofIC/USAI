@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84653,40.04803,-111.66804,Salem,UT,Utah,True,,9481.0,228.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.04803, -111.66804)",4.170146296357651,19475.0,36039_0_yes,40.08133662256472,-111.6022725004358,5.0
+84664,40.12627,-111.57712,Mapleton,UT,Utah,True,,9994.0,385.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver,"(40.12627, -111.57712)",3.377200146681528,19475.0,36039_0_yes,40.08133662256472,-111.6022725004358,5.0

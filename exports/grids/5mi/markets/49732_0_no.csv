@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98570,46.63556,-122.63534,Onalaska,WA,Washington,True,,4189.0,12.8,53041,Lewis,"{""53041"": 100}",Lewis,53041,False,False,America/Los_Angeles,"(46.63556, -122.63534)",3.4268613466374243,4189.0,49732_0_no,46.68100131408893,-122.60638297091192,5.0

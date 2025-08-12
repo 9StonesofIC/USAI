@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77531,29.03895,-95.40071,Clute,TX,Texas,True,,16352.0,537.4,48039,Brazoria,"{""48039"": 100}",Brazoria,48039,False,False,America/Chicago,"(29.03895, -95.40071)",63.135137200483925,35424.0,124_0_no,28.449809625589666,-94.60404957694551,50.0
+77541,29.01496,-95.32667,Freeport,TX,Texas,True,,19072.0,52.0,48039,Brazoria,"{""48039"": 100}",Brazoria,48039,False,False,America/Chicago,"(29.01496, -95.32667)",58.66420526386338,35424.0,124_0_no,28.449809625589666,-94.60404957694551,50.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+30234,33.33001,-84.02617,Jenkinsburg,GA,Georgia,True,,1480.0,56.0,13035,Butts,"{""13035"": 93.5, ""13151"": 6.5}",Butts|Henry,13035|13151,False,False,America/New_York,"(33.33001, -84.02617)",4.641796303020564,1480.0,20810_0_yes,33.39271406868644,-83.99729697312569,5.0

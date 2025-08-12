@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76634,31.80953,-97.56866,Clifton,TX,Texas,True,,7610.0,10.3,48035,Bosque,"{""48035"": 97.9, ""48099"": 2.1}",Bosque|Coryell,48035|48099,False,False,America/Chicago,"(31.80953, -97.56866)",5.250003331962429,7610.0,17432_0_no,31.879207979907637,-97.5329820315604,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+58762,48.67409,-100.94225,Newburg,ND,North Dakota,True,,286.0,1.2,38009,Bottineau,"{""38009"": 76.85, ""38049"": 23.15}",Bottineau|McHenry,38009|38049,False,False,America/Chicago,"(48.67409, -100.94225)",4.576608600730564,286.0,53240_0_yes,48.61446718573095,-100.98592072707804,5.0

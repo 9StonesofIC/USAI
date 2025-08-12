@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59014,45.15351,-108.66421,Bridger,MT,Montana,True,,1710.0,0.9,30009,Carbon,"{""30009"": 100}",Carbon,30009,False,False,America/Denver,"(45.15351, -108.66421)",9.39027187129131,2304.0,11796_0_yes,45.278176108908085,-108.5873818095678,10.0
+59066,45.33907,-108.49718,Pryor,MT,Montana,True,,594.0,0.8,30003,Big Horn,"{""30003"": 100}",Big Horn,30003,False,False,America/Denver,"(45.33907, -108.49718)",6.075673781670547,2304.0,11796_0_yes,45.278176108908085,-108.5873818095678,10.0

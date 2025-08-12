@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+16829,41.08223,-77.89386,Clarence,PA,Pennsylvania,True,,765.0,6.3,42027,Centre,"{""42027"": 100}",Centre,42027,False,False,America/New_York,"(41.08223, -77.89386)",1.164206536729564,2176.0,38039_0_yes,41.06756891563624,-77.88284375687006,5.0
+16874,41.01141,-77.94077,Snow Shoe,PA,Pennsylvania,True,,1411.0,16.1,42027,Centre,"{""42027"": 100}",Centre,42027,False,False,America/New_York,"(41.01141, -77.94077)",4.9162052318328735,2176.0,38039_0_yes,41.06756891563624,-77.88284375687006,5.0

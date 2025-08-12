@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+68820,41.1066,-98.70056,Boelus,NE,Nebraska,True,,332.0,3.2,31093,Howard,"{""31093"": 100}",Howard,31093,False,False,America/Chicago,"(41.1066, -98.70056)",4.4463787106088875,564.0,38430_0_no,41.15729278795394,-98.64792698423868,5.0
+68838,41.2156,-98.66755,Farwell,NE,Nebraska,True,,232.0,1.8,31093,Howard,"{""31093"": 100}",Howard,31093,False,False,America/Chicago,"(41.2156, -98.66755)",4.155850593000342,564.0,38430_0_no,41.15729278795394,-98.64792698423868,5.0

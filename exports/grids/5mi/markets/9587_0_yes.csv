@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+33521,28.79788,-82.0752,Coleman,FL,Florida,True,,719.0,85.8,12119,Sumter,"{""12119"": 100}",Sumter,12119,False,False,America/New_York,"(28.79788, -82.0752)",5.822204820291637,719.0,9587_0_yes,28.75024569552109,-82.1545021511934,5.0

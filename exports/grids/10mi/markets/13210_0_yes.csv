@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59432,48.14595,-112.58853,Dupuyer,MT,Montana,True,,114.0,0.2,30073,Pondera,"{""30073"": 73.19, ""30099"": 26.81}",Pondera|Teton,30073|30099,False,False,America/Denver,"(48.14595, -112.58853)",6.985655639701051,221.0,13210_0_yes,48.17940581222933,-112.4454922166754,10.0
+59467,48.07149,-112.37794,Pendroy,MT,Montana,True,,107.0,0.4,30099,Teton,"{""30099"": 100}",Teton,30099,False,False,America/Denver,"(48.07149, -112.37794)",8.080988252585724,221.0,13210_0_yes,48.17940581222933,-112.4454922166754,10.0

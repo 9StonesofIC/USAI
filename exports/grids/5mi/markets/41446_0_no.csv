@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50041,42.63429,-93.24662,Bradford,IA,Iowa,True,,61.0,166.2,19069,Franklin,"{""19069"": 100}",Franklin,19069,False,False,America/Chicago,"(42.63429, -93.24662)",5.31945804018215,137.0,41446_0_no,42.60105865926604,-93.34099317767964,5.0
+50227,42.59388,-93.42818,Popejoy,IA,Iowa,True,,76.0,41.6,19069,Franklin,"{""19069"": 100}",Franklin,19069,False,False,America/Chicago,"(42.59388, -93.42818)",4.462107695128227,137.0,41446_0_no,42.60105865926604,-93.34099317767964,5.0

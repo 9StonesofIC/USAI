@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+74576,34.67046,-96.04259,Wardville,OK,Oklahoma,True,,194.0,1.3,40005,Atoka,"{""40005"": 55.04, ""40121"": 44.96}",Atoka|Pittsburg,40005|40121,False,False,America/Chicago,"(34.67046, -96.04259)",3.041240971975574,194.0,23930_0_yes,34.70616989362464,-96.01129321735414,5.0

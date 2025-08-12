@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+34956,27.07969,-80.50074,Indiantown,FL,Florida,True,,10195.0,23.7,12085,Martin,"{""12085"": 100}",Martin,12085,False,False,America/New_York,"(27.07969, -80.50074)",2.726761427601822,10195.0,5597_0_no,27.08061370588671,-80.45642806890955,5.0

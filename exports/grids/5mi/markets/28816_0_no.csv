@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24243,36.78174,-82.92083,Dryden,VA,Virginia,True,,1666.0,28.0,51105,Lee,"{""51105"": 100}",Lee,51105,False,False,America/New_York,"(36.78174, -82.92083)",1.808055336534998,2994.0,28816_0_no,36.79833031088859,-82.89556002367692,5.0
+24265,36.83811,-82.93904,Keokee,VA,Virginia,True,,1328.0,13.1,51105,Lee,"{""51105"": 100}",Lee,51105,False,False,America/New_York,"(36.83811, -82.93904)",3.652151170176155,2994.0,28816_0_no,36.79833031088859,-82.89556002367692,5.0

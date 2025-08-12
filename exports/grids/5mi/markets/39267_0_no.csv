@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+43438,41.60343,-82.70268,Kelleys Island,OH,Ohio,True,,283.0,25.1,39043,Erie,"{""39043"": 100}",Erie,39043,False,False,America/New_York,"(41.60343, -82.70268)",3.3727126787721766,283.0,39267_0_no,41.578392348002346,-82.64665203627415,5.0

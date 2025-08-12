@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59851,46.87215,-113.87348,Milltown,MT,Montana,True,,99.0,108.4,30063,Missoula,"{""30063"": 100}",Missoula,30063,False,False,America/Denver,"(46.87215, -113.87348)",3.368533803427415,99.0,49997_0_yes,46.889978269102805,-113.807092813406,5.0

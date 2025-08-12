@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87327,35.06529,-108.77813,Zuni,NM,New Mexico,True,,8187.0,8.4,35031,McKinley,"{""35031"": 86.01, ""35006"": 13.99}",McKinley|Cibola,35031|35006,False,False,America/Denver,"(35.06529, -108.77813)",4.136645004073535,8187.0,24674_0_yes,35.00542251030238,-108.77884079402544,5.0

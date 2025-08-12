@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+79538,31.97891,-99.69177,Novice,TX,Texas,True,,264.0,1.8,48083,Coleman,"{""48083"": 65.89, ""48399"": 34.11}",Coleman|Runnels,48083|48399,False,False,America/Chicago,"(31.97891, -99.69177)",3.832728430297026,264.0,17457_0_yes,31.95311471455684,-99.63388296520152,5.0

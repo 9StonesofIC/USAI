@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+06320,41.35026,-72.10225,New London,CT,Connecticut,True,,27040.0,1850.1,9011,New London,"{""09011"": 100}",New London,09011,False,False,America/New_York,"(41.35026, -72.10225)",5.042071180178348,27101.0,38599_0_no,41.27996613843728,-72.07615733341868,5.0
+06390,41.27027,-71.98886,Fishers Island,NY,New York,True,,61.0,5.8,36103,Suffolk,"{""36103"": 100}",Suffolk,36103,False,False,America/New_York,"(41.27027, -71.98886)",4.582343570608143,27101.0,38599_0_no,41.27996613843728,-72.07615733341868,5.0

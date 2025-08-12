@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31554,31.48265,-82.61861,Nicholls,GA,Georgia,True,,7803.0,13.4,13069,Coffee,"{""13069"": 51.73, ""13299"": 25.01, ""13005"": 23.26}",Coffee|Ware|Bacon,13069|13299|13005,False,False,America/New_York,"(31.48265, -82.61861)",3.663398168033715,7803.0,16301_0_no,31.43413720132657,-82.59352897991644,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28650,35.57347,-81.15668,Maiden,NC,North Carolina,True,,10652.0,84.6,37035,Catawba,"{""37035"": 81.8, ""37109"": 18.2}",Catawba|Lincoln,37035|37109,False,False,America/New_York,"(35.57347, -81.15668)",0.9470913224582853,10652.0,25854_0_yes,35.56512788408426,-81.14330834527715,5.0

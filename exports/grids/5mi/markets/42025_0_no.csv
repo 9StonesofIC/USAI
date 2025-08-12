@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+53534,42.84763,-89.09032,Edgerton,WI,Wisconsin,True,,11764.0,53.3,55105,Rock,"{""55105"": 51.82, ""55025"": 43.37, ""55055"": 4.81}",Rock|Dane|Jefferson,55105|55025|55055,False,False,America/Chicago,"(42.84763, -89.09032)",3.216541599739874,11764.0,42025_0_no,42.886966726321006,-89.05635116062015,5.0

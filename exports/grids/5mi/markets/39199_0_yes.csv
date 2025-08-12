@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95568,41.48454,-123.48543,Somes Bar,CA,California,True,,211.0,0.8,6093,Siskiyou,"{""06093"": 100}",Siskiyou,06093,False,False,America/Los_Angeles,"(41.48454, -123.48543)",4.113268757791049,211.0,39199_0_yes,41.5401567309347,-123.45707454766628,5.0

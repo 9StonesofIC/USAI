@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41421,37.99027,-83.17397,Elkfork,KY,Kentucky,True,,407.0,9.5,21175,Morgan,"{""21175"": 100}",Morgan,21175,False,False,America/New_York,"(37.99027, -83.17397)",3.038129097996805,407.0,31437_0_yes,38.0301590380446,-83.19745326343414,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95421,38.58276,-123.18037,Cazadero,CA,California,True,,1662.0,4.5,6097,Sonoma,"{""06097"": 100}",Sonoma,06097,False,False,America/Los_Angeles,"(38.58276, -123.18037)",24.795295924916864,1885.0,2092_0_yes,38.34810197119791,-123.5271410829918,20.0
+95450,38.5229,-123.21508,Jenner,CA,California,True,,223.0,2.3,6097,Sonoma,"{""06097"": 100}",Sonoma,06097,False,False,America/Los_Angeles,"(38.5229, -123.21508)",20.763131394580505,1885.0,2092_0_yes,38.34810197119791,-123.5271410829918,20.0

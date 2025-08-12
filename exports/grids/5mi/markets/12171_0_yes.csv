@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77474,29.77583,-96.18518,Sealy,TX,Texas,True,,13347.0,24.9,48015,Austin,"{""48015"": 98.1, ""48089"": 1.9}",Austin|Colorado,48015|48089,False,False,America/Chicago,"(29.77583, -96.18518)",1.2930286380234024,13347.0,12171_0_yes,29.774612154991814,-96.20669493542556,5.0

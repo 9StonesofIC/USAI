@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76239,33.524,-97.57033,Forestburg,TX,Texas,True,,1310.0,4.1,48337,Montague,"{""48337"": 88.04, ""48097"": 11.96}",Montague|Cooke,48337|48097,False,False,America/Chicago,"(33.524, -97.57033)",3.4481985697578668,1310.0,21214_0_no,33.474715864557304,-97.5609092330567,5.0

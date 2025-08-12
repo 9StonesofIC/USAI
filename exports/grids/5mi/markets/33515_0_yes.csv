@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+84620,38.92244,-111.92427,Aurora,UT,Utah,True,,916.0,17.8,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver,"(38.92244, -111.92427)",4.536873377327995,916.0,33515_0_yes,38.92229867684981,-112.0086696310438,5.0

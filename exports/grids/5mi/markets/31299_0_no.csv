@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+95361,37.79342,-120.77654,Oakdale,CA,California,True,,34624.0,61.5,6099,Stanislaus,"{""06099"": 97.73, ""06077"": 2.27}",Stanislaus|San Joaquin,06099|06077,False,False,America/Los_Angeles,"(37.79342, -120.77654)",4.749943827878409,34624.0,31299_0_no,37.84198278497207,-120.71494279706457,5.0

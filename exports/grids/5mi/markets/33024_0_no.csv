@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+41034,38.70104,-83.90426,Dover,KY,Kentucky,True,,1002.0,12.6,21161,Mason,"{""21161"": 97.57, ""21023"": 2.43}",Mason|Bracken,21161|21023,False,False,America/New_York,"(38.70104, -83.90426)",3.1566058991030705,1002.0,33024_0_no,38.68266308190198,-83.85067121474589,5.0

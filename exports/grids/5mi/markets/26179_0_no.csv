@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28721,35.63378,-82.93081,Clyde,NC,North Carolina,True,,10394.0,42.7,37087,Haywood,"{""37087"": 100}",Haywood,37087,False,False,America/New_York,"(35.63378, -82.93081)",2.704310161827101,10394.0,26179_0_no,35.63898638714297,-82.97854054111738,5.0

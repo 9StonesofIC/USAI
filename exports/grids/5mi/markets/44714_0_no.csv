@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+55049,44.17628,-93.24101,Medford,MN,Minnesota,True,,2607.0,21.7,27147,Steele,"{""27147"": 90.85, ""27131"": 9.15}",Steele|Rice,27147|27131,False,False,America/Chicago,"(44.17628, -93.24101)",3.5154463627495236,3054.0,44714_0_no,44.1936260213252,-93.30771186042873,5.0
+55087,44.23894,-93.40614,Warsaw,MN,Minnesota,True,,447.0,156.2,27131,Rice,"{""27131"": 100}",Rice,27131,False,False,America/Chicago,"(44.23894, -93.40614)",5.7931055525681545,3054.0,44714_0_no,44.1936260213252,-93.30771186042873,5.0

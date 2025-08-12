@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28516,34.84827,-76.61128,Beaufort,NC,North Carolina,True,,11546.0,35.5,37031,Carteret,"{""37031"": 100}",Carteret,37031,False,False,America/New_York,"(34.84827, -76.61128)",5.02601109077868,11546.0,24475_0_no,34.90967115346592,-76.6588252243706,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46348,41.30981,-86.86244,La Crosse,IN,Indiana,True,,1104.0,8.4,18091,LaPorte,"{""18091"": 98.92, ""18127"": 1.08}",LaPorte|Porter,18091|18127,False,False,America/Chicago,"(41.30981, -86.86244)",1.2552033712486224,1104.0,38676_0_no,41.292309012094826,-86.86892655545006,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+87746,35.66271,-104.12715,Solano,NM,New Mexico,True,,49.0,0.0,35047,San Miguel,"{""35047"": 94.24, ""35021"": 5.76}",San Miguel|Harding,35047|35021,False,False,America/Denver,"(35.66271, -104.12715)",5.539461433572604,49.0,26316_0_yes,35.727089679031806,-104.18598409290652,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+97376,44.50854,-123.9768,Seal Rock,OR,Oregon,True,,1046.0,6.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles,"(44.50854, -123.9768)",3.376486884482873,1046.0,45450_0_no,44.51024923894945,-123.9083157785026,5.0

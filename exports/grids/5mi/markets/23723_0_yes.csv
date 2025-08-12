@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+91384,34.51604,-118.67289,Castaic,CA,California,True,,28833.0,107.5,6037,Los Angeles,"{""06037"": 100}",Los Angeles,06037,False,False,America/Los_Angeles,"(34.51604, -118.67289)",4.304834207250884,28833.0,23723_0_yes,34.57746175934589,-118.68557847353122,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+48157,41.81495,-83.43776,Luna Pier,MI,Michigan,True,,1134.0,465.4,26115,Monroe,"{""26115"": 100}",Monroe,26115,False,False,America/Detroit,"(41.81495, -83.43776)",4.291617613388106,1134.0,39603_0_yes,41.79614220462451,-83.35834435273881,5.0

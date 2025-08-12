@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+31788,31.10891,-83.68099,Moultrie,GA,Georgia,True,,9954.0,29.9,13071,Colquitt,"{""13071"": 98.13, ""13027"": 1.87}",Colquitt|Brooks,13071|13027,False,False,America/New_York,"(31.10891, -83.68099)",4.073701026266109,9954.0,15609_0_no,31.144817184867208,-83.7356193081626,5.0

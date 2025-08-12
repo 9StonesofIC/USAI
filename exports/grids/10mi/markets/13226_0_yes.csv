@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+98840,48.27395,-119.51838,Okanogan,WA,Washington,True,,4571.0,3.3,53047,Okanogan,"{""53047"": 100}",Okanogan,53047,False,False,America/Los_Angeles,"(48.27395, -119.51838)",8.801662117977685,4571.0,13226_0_yes,48.1924453827742,-119.37140315264864,10.0

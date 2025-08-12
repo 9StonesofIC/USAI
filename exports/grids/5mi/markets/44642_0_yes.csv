@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+12936,44.26869,-73.4029,Essex,NY,New York,True,,420.0,4.0,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.26869, -73.4029)",1.4245697480509545,1906.0,44642_0_yes,44.24839598272414,-73.39781642385778,5.0
+12993,44.19711,-73.48097,Westport,NY,New York,True,,1486.0,8.9,36031,Essex,"{""36031"": 100}",Essex,36031,False,False,America/New_York,"(44.19711, -73.48097)",5.4322092016839605,1906.0,44642_0_yes,44.24839598272414,-73.39781642385778,5.0

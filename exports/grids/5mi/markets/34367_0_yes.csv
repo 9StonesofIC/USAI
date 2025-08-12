@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+64639,39.3962,-93.22276,De Witt,MO,Missouri,True,,157.0,1.7,29033,Carroll,"{""29033"": 100}",Carroll,29033,False,False,America/Chicago,"(39.3962, -93.22276)",4.195772193948313,334.0,34367_0_yes,39.34204962765234,-93.2583120581892,5.0
+65344,39.31174,-93.1976,Miami,MO,Missouri,True,,177.0,0.9,29195,Saline,"{""29195"": 100}",Saline,29195,False,False,America/Chicago,"(39.31174, -93.1976)",3.8619648985294535,334.0,34367_0_yes,39.34204962765234,-93.2583120581892,5.0

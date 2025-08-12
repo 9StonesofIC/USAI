@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+24136,37.31927,-80.60686,Pembroke,VA,Virginia,True,,3097.0,34.7,51071,Giles,"{""51071"": 100}",Giles,51071,False,False,America/New_York,"(37.31927, -80.60686)",4.295453121340596,3885.0,30108_0_no,37.37617070849814,-80.57535525752596,5.0
+24150,37.40229,-80.59694,Ripplemead,VA,Virginia,True,,788.0,4.6,51071,Giles,"{""51071"": 100}",Giles,51071,False,False,America/New_York,"(37.40229, -80.59694)",2.1589117996157565,3885.0,30108_0_no,37.37617070849814,-80.57535525752596,5.0

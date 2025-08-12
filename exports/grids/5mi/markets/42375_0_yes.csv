@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50423,43.11054,-93.81244,Britt,IA,Iowa,True,,2428.0,6.6,19081,Hancock,"{""19081"": 100}",Hancock,19081,False,False,America/Chicago,"(43.11054, -93.81244)",2.930986897243938,2428.0,42375_0_yes,43.1081495156063,-93.75442591484992,5.0

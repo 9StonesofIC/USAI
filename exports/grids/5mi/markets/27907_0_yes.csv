@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+72644,36.42477,-92.96673,Lead Hill,AR,Arkansas,True,,2751.0,12.1,5009,Boone,"{""05009"": 91.78, ""05089"": 7.02, ""29213"": 1.2}",Boone|Marion|Taney,05009|05089|29213,False,False,America/Chicago,"(36.42477, -92.96673)",4.473048360123197,2751.0,27907_0_yes,36.44362924946592,-93.04370732228794,5.0

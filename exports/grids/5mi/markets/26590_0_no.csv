@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73058,35.8175,-97.22571,Meridian,OK,Oklahoma,True,,112.0,1.0,40083,Logan,"{""40083"": 100}",Logan,40083,False,False,America/Chicago,"(35.8175, -97.22571)",4.850139423043468,112.0,26590_0_no,35.794409341637405,-97.1439712113259,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+46052,40.04448,-86.46086,Lebanon,IN,Indiana,True,,22886.0,49.7,18011,Boone,"{""18011"": 100}",Boone,18011,False,False,America/Indiana/Indianapolis,"(40.04448, -86.46086)",3.91185281690327,22886.0,35883_0_no,39.98849556094761,-86.47187863365413,5.0

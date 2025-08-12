@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+73860,36.53573,-98.86265,Waynoka,OK,Oklahoma,True,,1271.0,1.5,40151,Woods,"{""40151"": 61.49, ""40093"": 38.51}",Woods|Major,40151|40093,False,False,America/Chicago,"(36.53573, -98.86265)",5.037467266935766,1271.0,28269_0_yes,36.59300622666166,-98.91881516710411,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+93510,34.45627,-118.2109,Acton,CA,California,True,,7433.0,35.8,6037,Los Angeles,"{""06037"": 100}",Los Angeles,06037,False,False,America/Los_Angeles,"(34.45627, -118.2109)",4.390518123720247,7433.0,23704_0_no,34.50466406209811,-118.26085853920996,5.0

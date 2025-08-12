@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+61722,40.42018,-88.63049,Arrowsmith,IL,Illinois,True,,609.0,4.5,17113,McLean,"{""17113"": 100}",McLean,17113,False,False,America/Chicago,"(40.42018, -88.63049)",4.722464133425927,1127.0,36543_0_yes,40.352316830027576,-88.61981034952282,5.0
+61724,40.33418,-88.52654,Bellflower,IL,Illinois,True,,518.0,6.1,17113,McLean,"{""17113"": 100}",McLean,17113,False,False,America/Chicago,"(40.33418, -88.52654)",5.06910281754802,1127.0,36543_0_yes,40.352316830027576,-88.61981034952282,5.0

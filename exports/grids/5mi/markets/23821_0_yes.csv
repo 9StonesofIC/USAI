@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+28575,34.68833,-76.88129,Salter Path,NC,North Carolina,True,,451.0,728.9,37031,Carteret,"{""37031"": 100}",Carteret,37031,False,False,America/New_York,"(34.68833, -76.88129)",0.9571229312926649,451.0,23821_0_yes,34.69237157305912,-76.86517559691669,5.0

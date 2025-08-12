@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+57433,45.64311,-98.32104,Columbia,SD,South Dakota,True,,382.0,1.2,46013,Brown,"{""46013"": 100}",Brown,46013,False,False,America/Chicago,"(45.64311, -98.32104)",1.8143704901729982,382.0,47634_0_no,45.64556827606363,-98.283643387928,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+80747,40.94709,-103.16392,Peetz,CO,Colorado,True,,458.0,0.8,8075,Logan,"{""08075"": 100}",Logan,08075,False,False,America/Denver,"(40.94709, -103.16392)",5.647534172165952,458.0,38145_0_no,41.01614245028527,-103.10598589064594,5.0

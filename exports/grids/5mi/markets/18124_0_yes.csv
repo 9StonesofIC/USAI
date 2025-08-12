@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75707,32.30479,-95.171,Tyler,TX,Texas,True,,13206.0,97.3,48423,Smith,"{""48423"": 100}",Smith,48423,False,False,America/Chicago,"(32.30479, -95.171)",5.579184701298445,16620.0,18124_0_yes,32.2401861654387,-95.11370701737594,5.0
+75750,32.27222,-95.07124,Arp,TX,Texas,True,,3414.0,27.0,48423,Smith,"{""48423"": 100}",Smith,48423,False,False,America/Chicago,"(32.27222, -95.07124)",3.3250493473247147,16620.0,18124_0_yes,32.2401861654387,-95.11370701737594,5.0

@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+59332,45.37589,-104.72542,Hammond,MT,Montana,True,,203.0,0.2,30011,Carter,"{""30011"": 100}",Carter,30011,False,False,America/Denver,"(45.37589, -104.72542)",3.399620576773574,203.0,11917_0_no,45.41608473114134,-104.68500636730292,10.0

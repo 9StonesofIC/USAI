@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50468,43.04631,-92.95703,Rockford,IA,Iowa,True,,1304.0,5.1,19067,Floyd,"{""19067"": 75.25, ""19033"": 24.75}",Floyd|Cerro Gordo,19067|19033,False,False,America/Chicago,"(43.04631, -92.95703)",1.950950941830884,2017.0,42344_0_no,43.035083389328335,-92.92158088614664,5.0
+50653,42.96737,-92.88927,Marble Rock,IA,Iowa,True,,713.0,5.3,19067,Floyd,"{""19067"": 100}",Floyd,19067,False,False,America/Chicago,"(42.96737, -92.88927)",4.955250667412267,2017.0,42344_0_no,43.035083389328335,-92.92158088614664,5.0

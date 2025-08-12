@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+60911,40.87856,-87.98059,Ashkum,IL,Illinois,True,,1337.0,8.3,17075,Iroquois,"{""17075"": 100}",Iroquois,17075,False,False,America/Chicago,"(40.87856, -87.98059)",4.761989617870468,3487.0,37782_0_yes,40.93108359812284,-87.92154662359921,5.0
+60927,40.93933,-87.96744,Clifton,IL,Illinois,True,,2150.0,11.3,17075,Iroquois,"{""17075"": 100}",Iroquois,17075,False,False,America/Chicago,"(40.93933, -87.96744)",2.462311179608222,3487.0,37782_0_yes,40.93108359812284,-87.92154662359921,5.0

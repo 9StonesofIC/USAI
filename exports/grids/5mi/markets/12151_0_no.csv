@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+77514,29.69096,-94.62598,Anahuac,TX,Texas,True,,5461.0,11.6,48071,Chambers,"{""48071"": 100}",Chambers,48071,False,False,America/Chicago,"(29.69096, -94.62598)",1.658547403131019,5461.0,12151_0_no,29.701112030826508,-94.65102067200048,5.0

@@ -1,0 +1,3 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+63388,38.88816,-91.74995,Williamsburg,MO,Missouri,True,,667.0,4.3,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago,"(38.88816, -91.74995)",3.8200374227565708,1059.0,33385_0_no,38.83378830439543,-91.7370766593554,5.0
+65077,38.7691,-91.80305,Steedman,MO,Missouri,True,,392.0,5.6,29027,Callaway,"{""29027"": 100}",Callaway,29027,False,False,America/Chicago,"(38.7691, -91.80305)",5.709318133407159,1059.0,33385_0_no,38.83378830439543,-91.7370766593554,5.0

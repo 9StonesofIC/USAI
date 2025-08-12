@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62376,40.1148,-91.40662,Ursa,IL,Illinois,True,,1065.0,6.5,17001,Adams,"{""17001"": 100}",Adams,17001,False,False,America/Chicago,"(40.1148, -91.40662)",3.478689524269119,1065.0,35932_0_yes,40.064899350288776,-91.41536980733764,5.0

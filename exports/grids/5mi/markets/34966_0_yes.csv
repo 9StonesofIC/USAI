@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+47837,39.62929,-87.11281,Carbon,IN,Indiana,True,,944.0,11.5,18121,Parke,"{""18121"": 73.6, ""18021"": 26.4}",Parke|Clay,18121|18021,False,False,America/Indiana/Indianapolis,"(39.62929, -87.11281)",0.8145532612825026,944.0,34966_0_yes,39.62685397287564,-87.12778626425172,5.0

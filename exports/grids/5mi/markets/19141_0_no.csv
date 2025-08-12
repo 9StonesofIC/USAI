@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+75670,32.56456,-94.42326,Marshall,TX,Texas,True,,18263.0,55.2,48203,Harrison,"{""48203"": 100}",Harrison,48203,False,False,America/Chicago,"(32.56456, -94.42326)",2.9459000653268994,18263.0,19141_0_no,32.60234050516774,-94.39980764394336,5.0

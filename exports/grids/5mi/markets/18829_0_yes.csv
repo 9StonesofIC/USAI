@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+76035,32.56172,-97.64251,Cresson,TX,Texas,True,,2373.0,16.8,48367,Parker,"{""48367"": 59.1, ""48221"": 21.65, ""48251"": 19.25}",Parker|Hood|Johnson,48367|48221|48251,False,False,America/Chicago,"(32.56172, -97.64251)",3.8016929246852644,2373.0,18829_0_yes,32.53195929611005,-97.58760849090676,5.0

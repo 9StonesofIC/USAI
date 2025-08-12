@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+62828,38.19536,-88.60864,Dahlgren,IL,Illinois,True,,1580.0,7.4,17065,Hamilton,"{""17065"": 97.14, ""17191"": 2.86}",Hamilton|Wayne,17065|17191,False,False,America/Chicago,"(38.19536, -88.60864)",1.4191375277133997,1580.0,31789_0_yes,38.17928628535566,-88.62490834833261,5.0

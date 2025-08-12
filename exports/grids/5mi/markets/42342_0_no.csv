@@ -1,0 +1,2 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone,Coord,distance_miles,market_total_population,market_id,market_center_lat,market_center_lng,radius_miles
+50645,43.02174,-92.44952,Ionia,IA,Iowa,True,,1108.0,5.0,19037,Chickasaw,"{""19037"": 90.25, ""19017"": 6.81, ""19067"": 2.94}",Chickasaw|Bremer|Floyd,19037|19017|19067,False,False,America/Chicago,"(43.02174, -92.44952)",3.9967260862152725,1108.0,42342_0_no,43.03474264832271,-92.5266247544422,5.0
